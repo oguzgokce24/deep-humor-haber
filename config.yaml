@@ -44,22 +44,23 @@ theme:
 # Kaynaklar. group = medya grubu / sahiplik. Aynı gruptaki
 # siteler doğrulamada TEK kaynak sayılır.
 # anchor: true -> ajans, kamu yayıncısı veya uluslararası kuruluş
+# verify_only: true -> yalnızca teyit sayımına katılır; başlık, metin ve fotoğraf ASLA buradan alınmaz
 # ------------------------------------------------------------
 sources:
-  - {name: "Anadolu Ajansı", url: "https://www.aa.com.tr/tr/rss/default?cat=guncel", group: "aa", anchor: true}
-  - {name: "TRT Haber",      url: "https://www.trthaber.com/sondakika.rss",          group: "trt", anchor: true}
+  - {name: "Anadolu Ajansı", url: "https://www.aa.com.tr/tr/rss/default?cat=guncel", group: "aa", anchor: true, verify_only: true}
+  - {name: "TRT Haber",      url: "https://www.trthaber.com/sondakika.rss",          group: "trt", anchor: true, verify_only: true}
   - {name: "BBC Türkçe",     url: "https://feeds.bbci.co.uk/turkce/rss.xml",         group: "bbc", anchor: true}
   - {name: "DW Türkçe",      url: "https://rss.dw.com/xml/rss-tur-all",              group: "dw", anchor: true}
   - {name: "Euronews",       url: "https://tr.euronews.com/rss",                     group: "euronews", anchor: true}
-  - {name: "Hürriyet",       url: "https://www.hurriyet.com.tr/rss/gundem",          group: "demiroren"}
-  - {name: "Milliyet",       url: "https://www.milliyet.com.tr/rss/rssnew/gundemrss.xml", group: "demiroren"}
-  - {name: "CNN Türk",       url: "https://www.cnnturk.com/feed/rss/all/news",       group: "demiroren"}
-  - {name: "Sabah",          url: "https://www.sabah.com.tr/rss/gundem.xml",         group: "turkuvaz"}
+  - {name: "Hürriyet",       url: "https://www.hurriyet.com.tr/rss/gundem",          group: "demiroren", verify_only: true}
+  - {name: "Milliyet",       url: "https://www.milliyet.com.tr/rss/rssnew/gundemrss.xml", group: "demiroren", verify_only: true}
+  - {name: "CNN Türk",       url: "https://www.cnnturk.com/feed/rss/all/news",       group: "demiroren", verify_only: true}
+  - {name: "Sabah",          url: "https://www.sabah.com.tr/rss/gundem.xml",         group: "turkuvaz", verify_only: true}
   - {name: "NTV",            url: "https://www.ntv.com.tr/gundem.rss",               group: "dogus"}
-  - {name: "Habertürk",      url: "https://www.haberturk.com/rss",                   group: "ciner"}
+  - {name: "Habertürk",      url: "https://www.haberturk.com/rss",                   group: "ciner", verify_only: true}
   - {name: "Sözcü",          url: "https://www.sozcu.com.tr/feeds-rss-category-gundem", group: "sozcu"}
   - {name: "Cumhuriyet",     url: "https://www.cumhuriyet.com.tr/rss/son_dakika.xml", group: "cumhuriyet"}
-  - {name: "Yeni Şafak",     url: "https://www.yenisafak.com/rss?xml=gundem",        group: "albayrak"}
+  - {name: "Yeni Şafak",     url: "https://www.yenisafak.com/rss?xml=gundem",        group: "albayrak", verify_only: true}
   - {name: "Evrensel",       url: "https://www.evrensel.net/rss/haber.xml",          group: "evrensel", independent: true}
   - {name: "Medyascope",     url: "https://medyascope.tv/feed/",                     group: "medyascope", independent: true}
   - {name: "BirGün",         url: "https://www.birgun.net/rss/home",                 group: "birgun", independent: true}

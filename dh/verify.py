@@ -63,15 +63,6 @@ class Cluster:
         return {i.group for i in self.items}
 
     @property
-    def sources(self) -> list[str]:
-        seen, out = set(), []
-        for i in sorted(self.items, key=lambda x: (not x.anchor, x.source)):
-            if i.source not in seen:
-                seen.add(i.source)
-                out.append(i.source)
-        return out
-
-    @property
     def has_anchor(self) -> bool:
         return any(i.anchor for i in self.items)
 
@@ -86,13 +77,27 @@ class Cluster:
         ds = [i.published for i in self.items if i.published]
         return max(ds) if ds else None
 
+    @property
+    def usable(self):
+        """Başlık/metin/fotoğraf alınabilecek kaynaklar (yalnızca-teyit olanlar hariç)."""
+        return [i for i in self.items if not i.verify_only]
+
+    @property
+    def sources(self) -> list[str]:
+        seen, out = set(), []
+        for i in sorted(self.items, key=lambda x: (x.verify_only, x.source)):
+            if i.source not in seen:
+                seen.add(i.source)
+                out.append(i.source)
+        return out
+
     def lead(self):
-        """Başlık için temsilci haber: önce çapa kaynak, sonra en kısa makul başlık."""
-        cands = sorted(self.items, key=lambda i: (not i.anchor, abs(len(i.title) - 70)))
+        """Başlık için temsilci haber: yalnızca kullanılabilir kaynaklardan, makul uzunlukta olan."""
+        cands = sorted(self.usable or self.items, key=lambda i: (not i.anchor, abs(len(i.title) - 70)))
         return cands[0]
 
     def best_image(self):
-        for i in sorted(self.items, key=lambda i: (not i.anchor,)):
+        for i in sorted(self.usable, key=lambda i: (not i.anchor,)):
             if i.image:
                 return i.image, i.source
         return None, None
@@ -118,7 +123,8 @@ def cluster(items, threshold: float) -> list[Cluster]:
 
 
 def verified(clusters, min_groups: int, require_anchor: bool) -> list[Cluster]:
-    ok = [c for c in clusters if len(c.groups) >= min_groups and (c.has_anchor or not require_anchor)]
+    ok = [c for c in clusters if len(c.groups) >= min_groups and (c.has_anchor or not require_anchor)
+          and c.usable]
     # En çok bağımsız grubun verdiği ve en yeni haberler öne
     ok.sort(key=lambda c: (len(c.groups), c.latest.timestamp() if c.latest else 0), reverse=True)
     return ok

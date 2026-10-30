@@ -157,7 +157,7 @@ def main():
         lead = c.lead()
         img, credit = c.best_image()
         if not img:
-            for it in sorted(c.items, key=lambda i: not i.anchor)[:3]:
+            for it in sorted(c.usable, key=lambda i: not i.anchor)[:3]:
                 img = og_image(it.link)
                 if img:
                     credit = it.source

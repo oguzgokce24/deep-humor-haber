@@ -92,7 +92,7 @@ def _article_text(url: str, limit: int = 3500) -> str:
 def gather_sources(cluster, max_sources: int = 3) -> str:
     """Önce ajans/kamu kaynakları olmak üzere birkaç farklı medya grubunun haber metnini toplar."""
     parts, groups = [], set()
-    for it in sorted(cluster.items, key=lambda i: (not i.anchor,)):
+    for it in sorted(cluster.usable, key=lambda i: (not i.anchor,)):
         if it.group in groups or len(parts) >= max_sources:
             continue
         body = _article_text(it.link) or it.summary
