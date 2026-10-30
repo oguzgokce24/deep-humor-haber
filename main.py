@@ -118,10 +118,10 @@ def main():
 
     fb = None
     if not dry:
-        miss = [k for k in ("FB_PAGE_ID", "FB_PAGE_TOKEN") if not os.environ.get(k)]
-        if miss:
-            sys.exit(f"Eksik gizli anahtar(lar): {', '.join(miss)}  (README'deki kurulum adımlarına bak)")
-        fb = FacebookPage(os.environ["FB_PAGE_ID"], os.environ["FB_PAGE_TOKEN"], pub["graph_version"])
+        page_id = os.environ.get("FB_PAGE_ID") or str(pub.get("page_id", ""))
+        if not page_id or not os.environ.get("FB_PAGE_TOKEN"):
+            sys.exit("Eksik ayar: FB_PAGE_TOKEN gizli anahtarı (ve config.yaml'da page_id) gerekli. README'ye bak.")
+        fb = FacebookPage(page_id, os.environ["FB_PAGE_TOKEN"], pub["graph_version"])
         if recently_posted(st, pub["min_gap_minutes"]):
             log(f"Son paylaşımın üzerinden {pub['min_gap_minutes']} dk geçmedi, bu tur atlanıyor.")
             return

@@ -30,8 +30,8 @@ Paylaşım hızı: iki paylaşım arası en az 25 dk → saatte en fazla 2 haber
    - **Public** önerilir: Actions dakikaları sınırsız ve ücretsiz. Gizli anahtarlar yine gizli kalır.
    - **Private** seçersen aylık 2000 dakika sınırı var; `.github/workflows/haber.yml` içindeki `*/15` değerini `*/30` yap.
 2. **Add file → Upload files** ile bu klasördeki her şeyi yükle. `.github` gizli klasör olduğu için Mac/Windows'ta görünmeyebilir; yüklenmediyse **Add file → Create new file** ile adı `.github/workflows/haber.yml` olan dosya oluşturup içeriğini yapıştır.
-3. **Settings → Secrets and variables → Actions → New repository secret** ile 2 anahtarı ekle:
-   `FB_PAGE_ID`, `FB_PAGE_TOKEN`
+3. **Settings → Secrets and variables → Actions → New repository secret** ile `FB_PAGE_TOKEN` anahtarını ekle.
+   Sayfa kimliği `config.yaml` içindeki `page_id` alanında yazıyor.
 4. **Actions** sekmesi → iş akışlarını etkinleştir → **Deep Humor Haber → Run workflow** ile ilk çalıştırmayı başlat.
 
 Doğrulanmış bir haber varsa birkaç dakika içinde sayfanda ilk paylaşım görünür.

@@ -17,6 +17,7 @@ verify:
 
 # Akış
 publish:
+  page_id: "529346797199852"  # Deep Humor Facebook sayfa kimliği
   max_per_run: 1           # Her çalışmada paylaşılacak en fazla haber
   min_gap_minutes: 25      # İki paylaşım arası en az süre (dk). 15 dk tarama ile saatte en fazla 2 paylaşım
   graph_version: "v21.0"   # Facebook Graph API sürümü
