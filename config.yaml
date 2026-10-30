@@ -55,7 +55,5 @@ sources:
   - {name: "Habertürk",      url: "https://www.haberturk.com/rss",                   group: "ciner"}
   - {name: "Sözcü",          url: "https://www.sozcu.com.tr/feeds-rss-category-gundem", group: "sozcu"}
   - {name: "Cumhuriyet",     url: "https://www.cumhuriyet.com.tr/rss/son_dakika.xml", group: "cumhuriyet"}
-  - {name: "T24",            url: "https://t24.com.tr/rss",                          group: "t24"}
   - {name: "Yeni Şafak",     url: "https://www.yenisafak.com/rss?xml=gundem",        group: "albayrak"}
-  - {name: "Halk TV",        url: "https://halktv.com.tr/service/rss.php",           group: "halktv"}
   - {name: "Evrensel",       url: "https://www.evrensel.net/rss/haber.xml",          group: "evrensel"}

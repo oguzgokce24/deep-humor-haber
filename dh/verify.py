@@ -28,13 +28,30 @@ def tokens(title: str) -> set[str]:
     return out
 
 
+# Haber başlıklarında çok sık geçen, tek başına aynı olayı göstermeyen kelime gövdeleri
+WEAK = {w[:5] for w in """
+operasyon gözaltı gözaltına soruşturma soruşturmasında tutuklandı tutuklama kişi kişiye kişinin
+yaralı yaralandı hayatını kaybetti öldü ölü kaza kazada saldırı saldırısı karar kararı açıklaması
+dalga yeni milyon lira dolar türkiye türk istanbul ankara bakan bakanı başkanı cumhurbaşkanı
+il ilde ilçe merkezli şüpheli yakalandı ele geçirildi polis jandarma mahkeme dava
+""".split()}
+
+
+def _strong(tok: str) -> bool:
+    return tok not in WEAK and not tok.isdigit()
+
+
 def similarity(a: set, b: set) -> float:
+    """Ortak kelimelerden en az 2'si ayırt edici olmalı (ya da 1 ayırt edici + 2 genel/sayı).
+    Böylece 'operasyon: 10 gözaltı' gibi kalıplar farklı olayları birleştirmez."""
     if not a or not b:
         return 0.0
-    common = len(a & b)
-    if common < 2:
+    common = a & b
+    strong = sum(1 for t in common if _strong(t))
+    weak = len(common) - strong
+    if not (strong >= 2 or (strong == 1 and weak >= 2)):
         return 0.0
-    return 2 * common / (len(a) + len(b))
+    return 2 * len(common) / (len(a) + len(b))
 
 
 @dataclass
