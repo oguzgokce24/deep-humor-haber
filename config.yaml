@@ -18,12 +18,13 @@ verify:
   require_anchor: true     # En az bir "çapa" kaynak (ajans / kamu yayıncısı / uluslararası) şart
   max_age_hours: 4         # Bu süreden eski haberler dikkate alınmaz
   similarity: 0.34         # Başlık benzerlik eşiği (0-1). Yükseltirsen daha katı eşleşir.
+  fast_lane_minutes: 40    # Hızlı şerit: bu süreden yeni haberde çapa kaynak + 1 grup daha yeterli (0 = kapalı)
 
 # Akış
 publish:
   page_id: "529346797199852"  # Deep Humor Facebook sayfa kimliği
   max_per_run: 1           # Her çalışmada paylaşılacak en fazla haber
-  min_gap_minutes: 25      # İki paylaşım arası en az süre (dk). 15 dk tarama ile saatte en fazla 2 paylaşım
+  min_gap_minutes: 10      # İki paylaşım arası en az süre (dk) -> saatte en fazla 6 paylaşım
   graph_version: "v21.0"   # Facebook Graph API sürümü
 
 # Şablon renkleri

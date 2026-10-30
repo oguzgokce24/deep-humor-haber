@@ -38,6 +38,16 @@ Doğrulanmış bir haber varsa birkaç dakika içinde sayfanda ilk paylaşım g�
 
 ---
 
+## Windows bilgisayarda çalıştırma (önerilen: 3 dakikada bir tarama)
+1. Bu klasörü örneğin `Belgeler\DeepHumorHaber` içine koy.
+2. **KUR.bat**'a çift tıkla. Python yoksa kurar, gerekli paketleri yükler, Not Defteri'nde
+   `anahtarlar.txt` dosyasını açar (Facebook ve isteğe bağlı Claude anahtarını yapıştır, kaydet, kapat),
+   sonra Görev Zamanlayıcı'ya her 3 dakikada bir arka planda çalışan bir görev ekler.
+3. **KAYITLAR.bat** ile son çalışmaları görebilirsin. **DENE.bat** paylaşmadan deneme yapar.
+   **KALDIR.bat** otomasyonu durdurur.
+- Bilgisayar uyku moduna geçerse otomasyon da durur: Ayarlar → Sistem → Güç → "Uyku: Hiçbir zaman".
+- Bilgisayarda çalıştırırken GitHub'daki zamanlanmış çalıştırma kapatılmalı, yoksa aynı haber iki kez paylaşılabilir.
+
 ## Bağlamlı metin (isteğe bağlı ama önerilir)
 Görseldeki ve açıklamadaki metin, haberin tam metni okunarak Claude API ile **kendi cümlelerimizle** yazılır:
 alıntı (Kişi: “söz”), maddeli (ana cümle + — bağlam maddeleri) ya da kısa kalıp. Görseldeki metin ile

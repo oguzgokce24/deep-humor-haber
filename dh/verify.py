@@ -122,9 +122,21 @@ def cluster(items, threshold: float) -> list[Cluster]:
     return clusters
 
 
-def verified(clusters, min_groups: int, require_anchor: bool) -> list[Cluster]:
-    ok = [c for c in clusters if len(c.groups) >= min_groups and (c.has_anchor or not require_anchor)
-          and c.usable]
-    # En çok bağımsız grubun verdiği ve en yeni haberler öne
+def verified(clusters, min_groups: int, require_anchor: bool, fast_minutes: int = 0) -> list[Cluster]:
+    """Teyitli kümeler. Normal kural: en az `min_groups` farklı medya grubu (+ çapa kaynak).
+    Hızlı şerit: haber `fast_minutes` dakikadan yeniyse ve çapa kaynak (ajans/kamu/uluslararası)
+    + en az 1 farklı grup veriyorsa da kabul edilir. Her durumda en az bir bağımsız/kullanılabilir kaynak şart."""
+    from datetime import datetime, timezone, timedelta
+    now = datetime.now(timezone.utc)
+
+    def ok_(c):
+        if not c.usable or (require_anchor and not c.has_anchor):
+            return False
+        if len(c.groups) >= min_groups:
+            return True
+        return bool(fast_minutes and len(c.groups) >= 2 and c.has_anchor and c.latest
+                    and now - c.latest <= timedelta(minutes=fast_minutes))
+
+    ok = [c for c in clusters if ok_(c)]
     ok.sort(key=lambda c: (len(c.groups), c.latest.timestamp() if c.latest else 0), reverse=True)
     return ok

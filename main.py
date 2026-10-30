@@ -114,7 +114,7 @@ def find_new(cfg, st):
     log("Kaynaklar taranıyor…")
     items = fetch_all(cfg["sources"], v["max_age_hours"], log)
     clusters = cluster(items, v["similarity"])
-    ok = verified(clusters, v["min_groups"], v["require_anchor"])
+    ok = verified(clusters, v["min_groups"], v["require_anchor"], v.get("fast_lane_minutes", 0))
     log(f"{len(items)} haber, {len(clusters)} küme, {len(ok)} doğrulanmış küme")
     fresh = []
     for c in sorted(ok, key=interest_score, reverse=True):
@@ -132,8 +132,22 @@ def recently_posted(st, minutes: int) -> bool:
     return datetime.now(timezone.utc) - last < timedelta(minutes=minutes)
 
 
+def load_local_keys():
+    """Bilgisayarda çalışırken anahtarları klasördeki anahtarlar.txt dosyasından okur (ANAHTAR=değer)."""
+    f = ROOT / "anahtarlar.txt"
+    if not f.exists():
+        return
+    for line in f.read_text(encoding="utf-8-sig").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            k, v = line.split("=", 1)
+            if v.strip():
+                os.environ.setdefault(k.strip(), v.strip())
+
+
 def main():
     dry = "--dry-run" in sys.argv
+    load_local_keys()
     cfg = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
     pub = cfg["publish"]
     st = load_state()
