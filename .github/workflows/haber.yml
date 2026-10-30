@@ -1,10 +1,13 @@
 name: Deep Humor Haber
 
+# Depo AÇIKSA: her iş ~50 dakika boyunca 3 dakikada bir tarar; bir sonraki iş sıraya girip
+#              hemen devralır -> kesintisiz çalışma (açık depolarda GitHub Actions ücretsiz).
+# Depo GİZLİYSE: her tetiklemede tek tarama yapar (ücretsiz süre sınırını aşmamak için).
 on:
   schedule:
-    - cron: "*/30 * * * *"   # 30 dakikada bir (gizli depoda ücretsiz süre sınırı için)
-  workflow_dispatch: {}       # Actions sekmesinden elle çalıştırma
-  push:                       # .github/calistir dosyası değişince hemen bir kez çalışır
+    - cron: "7,37 * * * *"
+  workflow_dispatch: {}
+  push:                       # .github/calistir dosyası değişince hemen çalışır
     branches: [main]
     paths: [".github/calistir"]
 
@@ -13,12 +16,12 @@ permissions:
 
 concurrency:
   group: haber
-  cancel-in-progress: false
+  cancel-in-progress: false   # çalışan iş yarıda kesilmez (çift paylaşımı önler)
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -31,11 +34,21 @@ jobs:
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python main.py
-      - name: Durumu kaydet
-        if: always()
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "deep-humor-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state/state.json
-          git diff --cached --quiet || (git commit -m "durum güncellendi [skip ci]" && git push)
+          PRIVATE=$(gh api "repos/${{ github.repository }}" --jq .private 2>/dev/null || echo true)
+          if [ "$PRIVATE" = "false" ]; then LIMIT=$((50*60)); echo "Açık depo: kesintisiz mod"; else LIMIT=0; echo "Gizli depo: tek tarama"; fi
+          END=$((SECONDS+LIMIT))
+          while :; do
+            python main.py || true
+            git add state/state.json
+            if ! git diff --cached --quiet; then
+              git commit -qm "durum güncellendi [skip ci]"
+              git pull -q --rebase origin main || true
+              git push -q || true
+            fi
+            [ $SECONDS -ge $END ] && break
+            sleep 180
+          done

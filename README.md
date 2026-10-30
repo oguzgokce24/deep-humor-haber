@@ -47,6 +47,7 @@ Doğrulanmış bir haber varsa birkaç dakika içinde sayfanda ilk paylaşım g�
    **KALDIR.bat** otomasyonu durdurur.
 - Bilgisayar uyku moduna geçerse otomasyon da durur: Ayarlar → Sistem → Güç → "Uyku: Hiçbir zaman".
 - Bilgisayarda çalıştırırken GitHub'daki zamanlanmış çalıştırma kapatılmalı, yoksa aynı haber iki kez paylaşılabilir.
+- Depo **açıksa** GitHub zaten kesintisiz (3 dakikada bir) çalışır; o durumda bilgisayar kurulumuna gerek yoktur.
 
 ## Bağlamlı metin (isteğe bağlı ama önerilir)
 Görseldeki ve açıklamadaki metin, haberin tam metni okunarak Claude API ile **kendi cümlelerimizle** yazılır:
