@@ -53,7 +53,7 @@ Doğrulanmış bir haber varsa birkaç dakika içinde sayfanda ilk paylaşım g�
 - **Başka yazı tipi:** `assets/fonts/Headline.ttf` koyarsan başlıklar o yazı tipiyle çıkar (ör. Google Fonts'tan Rubik Bold).
 - `sources` — kaynak ekle/çıkar. **Aynı patrona ait sitelere aynı `group` değerini ver**; doğrulamada tek kaynak sayılırlar.
 
-Sol şeritte haberin konusu yazar (TÜRKİYE / DÜNYA / EKONOMİ / SPOR), sağ altta teyit kaynakları.
+Sol şeritte haberin konusu yazar (TÜRKİYE / DÜNYA / EKONOMİ / SPOR). Teyit ve fotoğraf kaynağı gönderide gösterilmez; kaynak linkleri Actions kayıtlarında ve state/state.json'da tutulur.
 
 ## Bilgisayarında deneme
 ```bash

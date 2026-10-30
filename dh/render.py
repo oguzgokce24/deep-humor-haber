@@ -229,11 +229,7 @@ def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label=
         d.text((TEXT_X, y), ln, font=f, fill=txt)
         y += lh
 
-    # Sağ alt: teyit kaynakları (aralıklı küçük büyük harf)
-    if footer is None:
-        footer = ("TEYİT: " + " · ".join(sources[:3])) if sources else ""
-        if photo_credit:
-            footer += ("   |   " if footer else "") + f"FOTO: {photo_credit}"
+    # Sağ alt yazı (varsayılan boş; teyit/fotoğraf bilgisi görselde gösterilmez)
     if footer:
         ff = font("medium", 19)
         s = tr_upper(footer)

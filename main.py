@@ -77,9 +77,6 @@ def build_caption(c, title, credit, brand) -> str:
     summ = first_sentence(lead.summary)
     if summ and summ.lower()[:40] != title.lower()[:40]:
         lines += ["", f"{summ} ({lead.source})"]
-    lines += ["", f"✅ Teyit: {', '.join(c.sources[:6])} ({len(c.groups)} bağımsız kaynak)"]
-    if credit:
-        lines.append(f"📷 Fotoğraf: {credit}")
     lines += ["", brand.get("hashtags", "")]
     return "\n".join(lines).strip()
 
