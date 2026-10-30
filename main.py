@@ -89,7 +89,11 @@ PROTOKOL = ["forum", "zirve", "konsey", "tören", "törenle", "resepsiyon", "teb
             "paylaşımı", "mesajı", "anma", "ziyaret etti", "kabul etti", "görüştü", "bir araya geldi",
             "katıldı", "toplantısı", "çalıştayı", "işbirliği", "imza töreni"]
 CEKICI = ["istifa", "tepki", "itiraf", "sert", "olay", "ilk kez", "yüzde", "zam", "maaş", "fiyat",
-          "tutuklandı", "gözaltı", "karar", "rekor", "açıkladı", "çağrı", "uyardı", "iddia"]
+          "tutuklandı", "gözaltı", "karar", "rekor", "açıkladı", "çağrı", "uyardı", "iddia",
+          # asayiş / olay / magazin-gündem
+          "öldürdü", "öldürüldü", "cinayet", "silahlı", "bıçak", "saldırı", "patlama", "yangın", "kaza",
+          "deprem", "kayıp", "tahliye", "suç duyurusu", "iftira", "dava", "boşan", "skandal", "ifşa",
+          "ünlü", "oyuncu", "şarkıcı", "fenomen", "gazeteci"]
 
 
 def interest_score(c) -> float:

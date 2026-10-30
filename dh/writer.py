@@ -60,7 +60,12 @@ DOĞRULUK (değişmez):
 - Alıntılar yalnızca kaynakta tırnak içinde geçen sözlerden ve kelimesi kelimesine alınır; uzunsa "(...)" ile kısalt.
   Alıntının toplamı en fazla 40 kelime. Tırnak için “ ” kullan.
 - Alıntı dışındaki her şeyi KENDİ CÜMLELERİNLE yaz; kaynaktan cümle kopyalama.
-- Ölüm/şiddet haberlerinde ayrıntıya girmeden, saygılı yaz.
+- Asayiş haberlerinde (cinayet, saldırı, kaza) olayı açıkça ve sade anlat; ama kanlı ayrıntı, "vahşet",
+  "dehşet" gibi abartılı sözcükler ve ünlem kullanma.
+- Kamuya mal olmamış kişilerin (mağdur, şüpheli, yakınları) tam adını YAZMA; yaş, ilçe, yakınlık yeterli
+  ("19 yaşındaki kızı", "Mamak'ta bir baba"). Çocukların kimliğini belli edecek hiçbir bilgi verme.
+- Henüz kanıtlanmamış suçlamaları kesinmiş gibi yazma: "iddia edildi", "suç duyurusunda bulundu",
+  "gözaltına alındı" gibi durumu olduğu gibi anlat.
 
 BİÇİM:
 - Toplam en fazla 65 kelime.

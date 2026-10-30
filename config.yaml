@@ -15,7 +15,7 @@ writer:
 # Doğrulama kuralları
 verify:
   min_groups: 3            # Haberi veren en az kaç FARKLI medya grubu olmalı
-  require_anchor: true     # En az bir "çapa" kaynak (ajans / kamu yayıncısı / uluslararası) şart
+  require_anchor: false    # true: en az bir ajans/kamu/uluslararası kaynak şart. false: 3 farklı grup yeterli
   max_age_hours: 4         # Bu süreden eski haberler dikkate alınmaz
   similarity: 0.34         # Başlık benzerlik eşiği (0-1). Yükseltirsen daha katı eşleşir.
   fast_lane_minutes: 40    # Hızlı şerit: bu süreden yeni haberde çapa kaynak + 1 grup daha yeterli (0 = kapalı)
@@ -68,3 +68,8 @@ sources:
   - {name: "Karar",          url: "https://www.karar.com/service/rss.php",           group: "karar", independent: true}
   - {name: "Diken",          url: "https://www.diken.com.tr/feed/",                  group: "diken", independent: true}
   - {name: "Serbestiyet",    url: "https://www.serbestiyet.com/feed/",               group: "serbestiyet", independent: true}
+  # Son dakika / asayiş / magazin dahil tüm haberler
+  - {name: "Sözcü Son Dakika", url: "https://www.sozcu.com.tr/feeds-son-dakika",    group: "sozcu"}
+  - {name: "NTV Son Dakika",   url: "https://www.ntv.com.tr/son-dakika.rss",        group: "dogus"}
+  - {name: "Milliyet Son Dakika", url: "https://www.milliyet.com.tr/rss/rssnew/sondakikarss.xml", group: "demiroren", verify_only: true}
+  - {name: "Hürriyet Anasayfa",   url: "https://www.hurriyet.com.tr/rss/anasayfa",     group: "demiroren", verify_only: true}
