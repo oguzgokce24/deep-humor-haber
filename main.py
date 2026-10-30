@@ -180,6 +180,14 @@ def main():
         pid = hashlib.sha1(" ".join(sorted(c.fingerprint)).encode()).hexdigest()[:10]
         path = OUT / f"{pid}.jpg"
         w = writer.write(c, cfg.get("writer", {}).get("model", "claude-haiku-5-5"), log)
+        if w is None:
+            fails = st.setdefault("fails", {})
+            fails[pid] = fails.get(pid, 0) + 1
+            if fails[pid] >= 3:   # 3 turda da yazılamadıysa bu haberden vazgeç
+                st["seen"].append({"fp": sorted(c.fingerprint), "at": datetime.now(timezone.utc).isoformat()})
+                fails.pop(pid, None)
+            log("  Metin yazılamadı; bu haber bu tur paylaşılmıyor.")
+            continue
         label = w["category"] or label_for(c)
         render_card(title, img, body=w["text"], label=label,
                     brand=cfg["brand"], theme=cfg["theme"], out_path=path)

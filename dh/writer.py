@@ -111,36 +111,84 @@ def _call_claude(source_text: str, model: str, key: str) -> dict:
     if "error" in js:
         raise RuntimeError(js["error"].get("message"))
     raw = "".join(b.get("text", "") for b in js.get("content", []))
-    m = re.search(r"\{.*\}", raw, re.S)
-    data = json.loads(m.group(0) if m else raw)
+    data = _parse(raw)
     text = (data.get("metin") or "").strip()
-    if not text or len(text.split()) > 95:
-        raise ValueError("metin boş ya da çok uzun")
-    cat = (data.get("kategori") or "").strip().upper().replace("I", "I")
+    _check_text(text)
+    cat = (data.get("kategori") or "").strip().upper()
     return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude"}
+
+
+def _parse(raw: str) -> dict:
+    """Model yanıtını okur. Metin içinde satır atlaması olsa bile (geçersiz JSON) çalışır."""
+    m = re.search(r"\{.*\}", raw, re.S)
+    blob = m.group(0) if m else raw
+    try:
+        return json.loads(blob, strict=False)
+    except Exception:
+        pass
+    out = {}
+    for key in ("kategori", "metin"):
+        mm = re.search(r'"%s"\s*:\s*"(.*?)"\s*(,\s*"|\})' % key, blob, re.S)
+        if mm:
+            out[key] = mm.group(1).replace('\\n', "\n").replace('\\"', '"')
+    if not out.get("metin"):
+        raise ValueError("yanıt okunamadı")
+    return out
+
+
+def _check_text(text: str):
+    """Yarım, kesik ya da bozuk metni paylaşmaya izin vermez."""
+    t = text.strip()
+    if not t:
+        raise ValueError("metin boş")
+    if len(t.split()) > 95:
+        raise ValueError("metin çok uzun")
+    if t.endswith(("...", "…")) or re.search(r"\w(\.\.\.|…)\s*$", t):
+        raise ValueError("metin yarıda kesilmiş")
+    if t.count("“") != t.count("”") or t.count('"') % 2 or t.count("**") % 2:
+        raise ValueError("tırnak/kalın işaretleri eşleşmiyor")
+    last = re.sub(r"[*”\"’')\s]+$", "", t)
+    if last and last[-1] not in ".!?:":
+        raise ValueError("metin cümle ortasında bitiyor")
+
+
+def _clean_sentence(summary: str, title: str) -> str | None:
+    """RSS özetinden yalnızca TAM bir cümle alır; '...' ile kesilmiş özetleri asla kullanmaz."""
+    s = re.sub(r"\s+", " ", summary or "").strip()
+    s = re.sub(r"\s*(\[\.\.\.\]|\[…\]|\.\.\.|…)\s*$", " …", s)   # kesik sonu işaretle
+    for m in re.finditer(r"(.{30,260}?[.!?])(?=\s|$)", s):
+        cand = m.group(1).strip()
+        if "…" in cand or "..." in cand:
+            continue
+        if cand.lower()[:30] != title.lower()[:30]:
+            return cand
+        break
+    return None
 
 
 def fallback(cluster) -> dict:
     lead = cluster.lead()
-    text = f"**{lead.title.rstrip('.')}.**"
-    s = re.sub(r"\s+", " ", lead.summary or "").strip()
-    m = re.match(r"(.{30,240}?[.!?])(\s|$)", s)
-    if m and m.group(1).lower()[:30] != lead.title.lower()[:30]:
-        text += "\n\n" + m.group(1)
+    text = f"**{lead.title.rstrip('.').rstrip()}.**"
+    sent = _clean_sentence(lead.summary, lead.title)
+    if sent:
+        text += "\n\n" + sent
     return {"text": text, "category": None, "mode": "yedek"}
 
 
-def write(cluster, model: str, log=print) -> dict:
+def write(cluster, model: str, log=print) -> dict | None:
+    """Anahtar varsa metni Claude yazar (2 deneme). Başarısız olursa None döner ve haber bu tur
+    PAYLAŞILMAZ (yarım/kalitesiz metin yerine beklemek tercih edilir). Anahtar yoksa yedek metin."""
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key:
         log("  (ANTHROPIC_API_KEY yok; basit metin kullanılıyor)")
         return fallback(cluster)
-    try:
-        src = gather_sources(cluster)
-        return _call_claude(src, model, key)
-    except Exception as e:
-        log(f"  ! Metin yazımı başarısız ({e.__class__.__name__}: {str(e)[:80]}); basit metin kullanılıyor")
-        return fallback(cluster)
+    src = gather_sources(cluster)
+    for attempt in (1, 2):
+        try:
+            return _call_claude(src, model, key)
+        except Exception as e:
+            log(f"  ! Metin yazımı başarısız (deneme {attempt}: {e.__class__.__name__}: {str(e)[:80]})")
+    return None
 
 
 def plain(markup: str) -> str:
