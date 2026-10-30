@@ -22,6 +22,7 @@ import yaml
 
 from dh.collect import fetch_all, og_image
 from dh.render import render_card
+from dh import writer
 from dh.verify import cluster, verified, similarity
 from dh.channels import FacebookPage
 
@@ -138,9 +139,14 @@ def main():
         title = lead.title
         pid = hashlib.sha1(" ".join(sorted(c.fingerprint)).encode()).hexdigest()[:10]
         path = OUT / f"{pid}.jpg"
-        render_card(title, img, sources=c.sources, photo_credit=credit, label=label_for(c),
+        w = writer.write(c, cfg.get("writer", {}).get("model", "claude-haiku-5-5"), log)
+        label = w["category"] or label_for(c)
+        render_card(title, img, body=w["text"], label=label,
                     brand=cfg["brand"], theme=cfg["theme"], out_path=path)
-        caption = build_caption(c, title, credit, cfg["brand"])
+        caption = writer.plain(w["text"])
+        tags = cfg["brand"].get("hashtags", "").strip()
+        if tags:
+            caption += "\n\n" + tags
         links = "\n".join(f"  {i.source}: {i.link}" for i in c.items[:6])
         now = datetime.now(timezone.utc).isoformat()
         # Aynı haber bir daha denenmesin (paylaşım hata verse bile)

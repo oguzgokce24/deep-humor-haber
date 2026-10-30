@@ -9,6 +9,7 @@ Başka başlık yazı tipi için assets/fonts/Headline.ttf koy (ör. Rubik Bold)
 from __future__ import annotations
 
 import io
+import re
 from datetime import datetime
 from pathlib import Path
 
@@ -180,9 +181,58 @@ def _side_labels(canvas: Image.Image, navy, brand_short: str, label: str):
     canvas.alpha_composite(strip, (BAR_X, BAR_BOTTOM - 22 - strip.height + 0))
 
 
+# ---------------------------------------------------------------- Çok paragraflı zengin metin
+def _segments_md(line: str):
+    """'**kalın** normal' -> [(kelime, kalın_mı), ...]"""
+    out = []
+    for i, part in enumerate(re.split(r"\*\*", line)):
+        for w in part.split():
+            out.append((w, i % 2 == 1))
+    return out
+
+
+def _layout_body(markup: str, maxw: int, max_h: int):
+    paras = [p.strip("\n") for p in re.split(r"\n\s*\n", markup.strip()) if p.strip()]
+    for size in range(42, 25, -2):
+        fb, fr = font("bold", size), font("medium", size)
+        lh, gap = int(size * 1.22), int(size * 0.75)
+        sp = fr.getlength(" ")
+        rows, h = [], 0
+        for pi, para in enumerate(paras):
+            if pi:
+                rows.append(None)  # paragraf boşluğu
+                h += gap
+            for src in para.split("\n"):
+                cur, curw = [], 0
+                for w, b in _segments_md(src):
+                    ww = (fb if b else fr).getlength(w)
+                    if cur and curw + sp + ww > maxw:
+                        rows.append(cur); h += lh
+                        cur, curw = [], 0
+                    cur.append((w, b)); curw += (sp if len(cur) > 1 else 0) + ww
+                if cur:
+                    rows.append(cur); h += lh
+        if h <= max_h or size <= 26:
+            return {"rows": rows, "fb": fb, "fr": fr, "lh": lh, "gap": gap, "sp": sp, "height": h}
+
+
+def _draw_layout(d, L, x0, y0, fill):
+    y = y0
+    for row in L["rows"]:
+        if row is None:
+            y += L["gap"]
+            continue
+        x = x0
+        for w, b in row:
+            f = L["fb"] if b else L["fr"]
+            d.text((x, y), w, font=f, fill=fill)
+            x += f.getlength(w) + L["sp"]
+        y += L["lh"]
+
+
 def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label="TÜRKİYE",
                 brand=None, theme=None, when: datetime | None = None, out_path=None,
-                footer: str | None = None) -> Image.Image:
+                footer: str | None = None, body: str | None = None) -> Image.Image:
     brand = brand or {"name": "DEEP HUMOR", "short": "DEEP HUMOR", "monogram": "DH"}
     theme = theme or {}
     navy = hex2rgb(theme.get("overlay", theme.get("navy", "#06322F")))   # karartma tonu
@@ -194,40 +244,34 @@ def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label=
     im = load_photo(photo) if photo is not None else None
     base = ImageOps.fit(im, (W, H), Image.LANCZOS, centering=(0.5, 0.4)) if im else _fallback_bg(navy)
 
-    # Başlık ölçüsü
-    f, lines, size = _fit(title.strip(), TEXT_R - TEXT_X)
-    lh = int(size * 1.02)
-    head_bottom = 1120
-    head_top = head_bottom - lh * len(lines)
+    # Metin düzeni: body (çok paragraflı, **kalın** işaretli) varsa o, yoksa başlık
+    markup = body if body else f"**{title.strip()}**"
+    layout = _layout_body(markup, TEXT_R - TEXT_X, max_h=600)
+    head_bottom = 1180
+    head_top = head_bottom - layout["height"]
 
-    canvas = _grade(base, navy, start=max(560, head_top - 420))
+    canvas = _grade(base, navy, start=max(380, head_top - 380))
     d = ImageDraw.Draw(canvas)
 
-    # Silik büyük tırnak
-    q = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    _quote_mark(q, 205, head_top - 140, accent + (55,))
-    canvas.alpha_composite(q.filter(ImageFilter.GaussianBlur(2)))
+    # Silik büyük tırnak (yalnızca alıntı içeren metinlerde)
+    if "“" in markup or '"' in markup:
+        q = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        _quote_mark(q, 205, head_top - 110, accent + (50,))
+        canvas.alpha_composite(q.filter(ImageFilter.GaussianBlur(2)))
 
     # Sol şerit + logo
     d.rounded_rectangle([BAR_X, BAR_TOP, BAR_X + BAR_W, BAR_BOTTOM], BAR_W // 2, fill=strip)
     _logo(d, canvas, accent, brand, ring=strip, ink=hex2rgb(theme.get("logo_text", "#FFFFFF")))
     _side_labels(canvas, strip_txt, brand.get("short", brand.get("name", "")), label)
 
-    # Başlık üstünde kısa vurgu çizgisi
+    # Metnin üstünde kısa vurgu çizgisi
     d.rounded_rectangle([TEXT_X, head_top - 30, TEXT_X + 70, head_top - 22], 4, fill=accent)
 
-    # Başlık (gölgeli)
+    # Metin (önce gölge, sonra yazı)
     sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    sd = ImageDraw.Draw(sh)
-    y = head_top
-    for ln in lines:
-        sd.text((TEXT_X + 2, y + 3), ln, font=f, fill=(0, 0, 20, 140))
-        y += lh
+    _draw_layout(ImageDraw.Draw(sh), layout, TEXT_X + 2, head_top + 3, (0, 0, 20, 150))
     canvas.alpha_composite(sh.filter(ImageFilter.GaussianBlur(3)))
-    y = head_top
-    for ln in lines:
-        d.text((TEXT_X, y), ln, font=f, fill=txt)
-        y += lh
+    _draw_layout(d, layout, TEXT_X, head_top, txt)
 
     # Sağ alt yazı (varsayılan boş; teyit/fotoğraf bilgisi görselde gösterilmez)
     if footer:

@@ -38,6 +38,12 @@ Doğrulanmış bir haber varsa birkaç dakika içinde sayfanda ilk paylaşım g�
 
 ---
 
+## Bağlamlı metin (isteğe bağlı ama önerilir)
+Görseldeki ve açıklamadaki metin, haberin tam metni okunarak Claude API ile **kendi cümlelerimizle** yazılır:
+alıntı (Kişi: “söz”), maddeli (ana cümle + — bağlam maddeleri) ya da kısa kalıp. Görseldeki metin ile
+Facebook açıklaması aynıdır. Bunun için depoya `ANTHROPIC_API_KEY` gizli anahtarını ekle
+(console.anthropic.com → API Keys). Anahtar yoksa başlık + özet cümlesi kullanılır.
+
 ## Takip
 - **Actions** sekmesinde her çalışmanın kaydı var: hangi kaynaklar tarandı, ne paylaşıldı, haberin geçtiği tüm kaynak linkleri.
 - `state/state.json` dosyasında paylaşılan son 200 haber ve kaynak linkleri tutulur.

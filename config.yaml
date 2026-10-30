@@ -6,7 +6,11 @@ brand:
   name: "DEEP HUMOR"
   short: "DEEP HUMOR"         # sol şeritte dikey yazan isim
   monogram: "DH"              # yuvarlak logoda yazan harfler (assets/logo.png varsa o kullanılır)
-  hashtags: "#Haber #SonDakika #Gündem"
+  hashtags: ""                # açıklama sonuna eklenecek etiketler (boş = etiket yok)
+
+# Metin yazımı (Claude API). ANTHROPIC_API_KEY gizli anahtarı yoksa başlık + özet kullanılır.
+writer:
+  model: "claude-haiku-5-5"
 
 # Doğrulama kuralları
 verify:
