@@ -60,4 +60,9 @@ sources:
   - {name: "Sözcü",          url: "https://www.sozcu.com.tr/feeds-rss-category-gundem", group: "sozcu"}
   - {name: "Cumhuriyet",     url: "https://www.cumhuriyet.com.tr/rss/son_dakika.xml", group: "cumhuriyet"}
   - {name: "Yeni Şafak",     url: "https://www.yenisafak.com/rss?xml=gundem",        group: "albayrak"}
-  - {name: "Evrensel",       url: "https://www.evrensel.net/rss/haber.xml",          group: "evrensel"}
+  - {name: "Evrensel",       url: "https://www.evrensel.net/rss/haber.xml",          group: "evrensel", independent: true}
+  - {name: "Medyascope",     url: "https://medyascope.tv/feed/",                     group: "medyascope", independent: true}
+  - {name: "BirGün",         url: "https://www.birgun.net/rss/home",                 group: "birgun", independent: true}
+  - {name: "Karar",          url: "https://www.karar.com/service/rss.php",           group: "karar", independent: true}
+  - {name: "Diken",          url: "https://www.diken.com.tr/feed/",                  group: "diken", independent: true}
+  - {name: "Serbestiyet",    url: "https://www.serbestiyet.com/feed/",               group: "serbestiyet", independent: true}

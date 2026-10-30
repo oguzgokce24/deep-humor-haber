@@ -82,6 +82,32 @@ def build_caption(c, title, credit, brand) -> str:
     return "\n".join(lines).strip()
 
 
+# ---------------------------------------------------------------- Haber seçimi
+# Bağımsız haber sayfası tarzı: alıntılı / insan hikâyesi / gündemi sarsan haberler öne,
+# protokol ve tören haberleri geriye.
+PROTOKOL = ["forum", "zirve", "konsey", "tören", "törenle", "resepsiyon", "tebrik", "kutladı", "kutlama",
+            "paylaşımı", "mesajı", "anma", "ziyaret etti", "kabul etti", "görüştü", "bir araya geldi",
+            "katıldı", "toplantısı", "çalıştayı", "işbirliği", "imza töreni"]
+CEKICI = ["istifa", "tepki", "itiraf", "sert", "olay", "ilk kez", "yüzde", "zam", "maaş", "fiyat",
+          "tutuklandı", "gözaltı", "karar", "rekor", "açıkladı", "çağrı", "uyardı", "iddia"]
+
+
+def interest_score(c) -> float:
+    t = " " + " ".join(i.title.lower() for i in c.items[:6]) + " "
+    lead = c.lead().title
+    score = min(len(c.groups), 8)                       # haberin büyüklüğü (en fazla 8 puan)
+    if re.search(r"^[^:]{3,60}:\s", lead) or "\"" in lead or "“" in lead or "'" in lead[:1]:
+        score += 2.5                                    # "Kişi: söz" biçimi / doğrudan alıntı
+    if any(i.independent for i in c.items):
+        score += 1.5                                    # bağımsız sitelerde de yer alıyor
+    score += 0.5 * sum(1 for w in CEKICI if w in t)
+    score -= 3 * sum(1 for w in PROTOKOL if w in t)
+    if c.latest:
+        age_h = (datetime.now(timezone.utc) - c.latest).total_seconds() / 3600
+        score -= age_h                                  # eskidikçe geriye
+    return score
+
+
 # ---------------------------------------------------------------- Yeni haber bulma
 def find_new(cfg, st):
     v = cfg["verify"]
@@ -91,7 +117,7 @@ def find_new(cfg, st):
     ok = verified(clusters, v["min_groups"], v["require_anchor"])
     log(f"{len(items)} haber, {len(clusters)} küme, {len(ok)} doğrulanmış küme")
     fresh = []
-    for c in ok:
+    for c in sorted(ok, key=interest_score, reverse=True):
         fp = c.fingerprint
         if any(similarity(fp, set(s["fp"])) >= 0.5 for s in st["seen"]):
             continue

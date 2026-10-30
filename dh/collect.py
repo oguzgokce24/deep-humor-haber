@@ -26,6 +26,7 @@ class Item:
     image: str | None = None
     published: datetime | None = None
     tokens: set = field(default_factory=set)
+    independent: bool = False
 
 
 def _text(el, *tags):
@@ -104,7 +105,7 @@ def parse_feed(xml_bytes: bytes, src: dict) -> list[Item]:
         pub = _parse_date(_text(el, "pubDate", NS_ATOM + "published", NS_ATOM + "updated",
                                 "{http://purl.org/dc/elements/1.1/}date"))
         out.append(Item(src["name"], src["group"], bool(src.get("anchor")), title, link,
-                        summary[:600], _find_image(el), pub))
+                        summary[:600], _find_image(el), pub, independent=bool(src.get("independent"))))
     return out
 
 
