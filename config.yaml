@@ -1,0 +1,60 @@
+# ============================================================
+#  Deep Humor Haber Otomasyonu - Ayarlar
+# ============================================================
+
+brand:
+  name: "DEEP HUMOR"
+  short: "DEEP HUMOR"         # sol şeritte dikey yazan isim
+  monogram: "DH"              # yuvarlak logoda yazan harfler (assets/logo.png varsa o kullanılır)
+  hashtags: "#DeepHumor #Haber #SonDakika #Gündem"
+
+# Doğrulama kuralları
+verify:
+  min_groups: 3            # Haberi veren en az kaç FARKLI medya grubu olmalı
+  require_anchor: true     # En az bir "çapa" kaynak (ajans / kamu yayıncısı / uluslararası) şart
+  max_age_hours: 4         # Bu süreden eski haberler dikkate alınmaz
+  similarity: 0.34         # Başlık benzerlik eşiği (0-1). Yükseltirsen daha katı eşleşir.
+
+# Akış
+publish:
+  max_per_run: 1           # Her çalışmada paylaşılacak en fazla haber
+  min_gap_minutes: 25      # İki paylaşım arası en az süre (dk). 15 dk tarama ile saatte en fazla 2 paylaşım
+  graph_version: "v21.0"   # Facebook Graph API sürümü
+
+# Şablon renkleri
+theme:
+  # Seçili ton: 3 · Petrol Yeşili + Mint
+  overlay: "#06322F"       # fotoğrafın alttan karartma tonu
+  accent: "#2FD39B"        # logo, başlık üstü çizgi, silik tırnak
+  strip: "#FFFFFF"         # sol dikey şerit
+  strip_text: "#06322F"    # şeritteki yazılar
+  logo_text: "#06322F"     # logodaki harfler
+  text: "#FFFFFF"          # başlık
+  # Diğer hazır tonlar (yukarıdaki değerlerle değiştir):
+  #  1 Gece Siyahı + Turuncu: overlay #111114  accent #FF6A13  strip #FFFFFF  strip_text #111114  logo_text #FFFFFF
+  #  2 Bordo + Altın:        overlay #3D0A18  accent #E3B04B  strip #F6EFE3  strip_text #3D0A18  logo_text #3D0A18
+  #  4 Antrasit + Kırmızı:   overlay #1A1D24  accent #E5262E  strip #E5262E  strip_text #FFFFFF  logo_text #FFFFFF
+
+# ------------------------------------------------------------
+# Kaynaklar. group = medya grubu / sahiplik. Aynı gruptaki
+# siteler doğrulamada TEK kaynak sayılır.
+# anchor: true -> ajans, kamu yayıncısı veya uluslararası kuruluş
+# ------------------------------------------------------------
+sources:
+  - {name: "Anadolu Ajansı", url: "https://www.aa.com.tr/tr/rss/default?cat=guncel", group: "aa", anchor: true}
+  - {name: "TRT Haber",      url: "https://www.trthaber.com/sondakika.rss",          group: "trt", anchor: true}
+  - {name: "BBC Türkçe",     url: "https://feeds.bbci.co.uk/turkce/rss.xml",         group: "bbc", anchor: true}
+  - {name: "DW Türkçe",      url: "https://rss.dw.com/xml/rss-tur-all",              group: "dw", anchor: true}
+  - {name: "Euronews",       url: "https://tr.euronews.com/rss",                     group: "euronews", anchor: true}
+  - {name: "Hürriyet",       url: "https://www.hurriyet.com.tr/rss/gundem",          group: "demiroren"}
+  - {name: "Milliyet",       url: "https://www.milliyet.com.tr/rss/rssnew/gundemrss.xml", group: "demiroren"}
+  - {name: "CNN Türk",       url: "https://www.cnnturk.com/feed/rss/all/news",       group: "demiroren"}
+  - {name: "Sabah",          url: "https://www.sabah.com.tr/rss/gundem.xml",         group: "turkuvaz"}
+  - {name: "NTV",            url: "https://www.ntv.com.tr/gundem.rss",               group: "dogus"}
+  - {name: "Habertürk",      url: "https://www.haberturk.com/rss",                   group: "ciner"}
+  - {name: "Sözcü",          url: "https://www.sozcu.com.tr/feeds-rss-category-gundem", group: "sozcu"}
+  - {name: "Cumhuriyet",     url: "https://www.cumhuriyet.com.tr/rss/son_dakika.xml", group: "cumhuriyet"}
+  - {name: "T24",            url: "https://t24.com.tr/rss",                          group: "t24"}
+  - {name: "Yeni Şafak",     url: "https://www.yenisafak.com/rss?xml=gundem",        group: "albayrak"}
+  - {name: "Halk TV",        url: "https://halktv.com.tr/service/rss.php",           group: "halktv"}
+  - {name: "Evrensel",       url: "https://www.evrensel.net/rss/haber.xml",          group: "evrensel"}

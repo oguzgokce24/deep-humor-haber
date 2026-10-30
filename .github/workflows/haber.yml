@@ -1,0 +1,37 @@
+name: Deep Humor Haber
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 30 dakikada bir (gizli depoda ücretsiz süre sınırı için)
+  workflow_dispatch: {}       # Actions sekmesinden elle çalıştırma
+
+permissions:
+  contents: write
+
+concurrency:
+  group: haber
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Haberleri tara ve paylaş
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: python main.py
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          git config user.name "deep-humor-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state/state.json
+          git diff --cached --quiet || (git commit -m "durum güncellendi [skip ci]" && git push)
