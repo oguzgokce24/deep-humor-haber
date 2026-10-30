@@ -106,7 +106,7 @@ def _call_claude(source_text: str, model: str, key: str) -> dict:
     if not text or len(text.split()) > 90:
         raise ValueError("metin boş ya da çok uzun")
     cat = (data.get("kategori") or "").strip().upper().replace("I", "I")
-    return {"text": text, "category": cat if cat in KATEGORILER else None}
+    return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude"}
 
 
 def fallback(cluster) -> dict:
@@ -116,7 +116,7 @@ def fallback(cluster) -> dict:
     m = re.match(r"(.{30,240}?[.!?])(\s|$)", s)
     if m and m.group(1).lower()[:30] != lead.title.lower()[:30]:
         text += "\n\n" + m.group(1)
-    return {"text": text, "category": None}
+    return {"text": text, "category": None, "mode": "yedek"}
 
 
 def write(cluster, model: str, log=print) -> dict:

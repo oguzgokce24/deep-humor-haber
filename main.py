@@ -162,6 +162,7 @@ def main():
             log(f"HATA paylaşım: {e}")
             continue
         st["posted"].append({"id": pid, "post_id": post_id, "title": title, "at": now,
+                             "yazim": w.get("mode"), "metin": caption,
                              "sources": [f"{i.source}: {i.link}" for i in c.items[:6]]})
         log(f"Paylaşıldı: {title} -> {post_id}\nKaynaklar:\n{links}")
         sent += 1

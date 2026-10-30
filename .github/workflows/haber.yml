@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "*/30 * * * *"   # 30 dakikada bir (gizli depoda ücretsiz süre sınırı için)
   workflow_dispatch: {}       # Actions sekmesinden elle çalıştırma
+  push:                       # .github/calistir dosyası değişince hemen bir kez çalışır
+    branches: [main]
+    paths: [".github/calistir"]
 
 permissions:
   contents: write
