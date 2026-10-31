@@ -653,6 +653,39 @@
     "sprin"
    ],
    "at": "2026-10-31T10:33:34.437476+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "8",
+    "büyük",
+    "depre",
+    "osman"
+   ],
+   "at": "2026-10-31T10:44:44.121721+00:00"
+  },
+  {
+   "fp": [
+    "araç",
+    "dan",
+    "düğün",
+    "emsal",
+    "hayal",
+    "karar",
+    "kuran",
+    "yargı"
+   ],
+   "at": "2026-10-31T10:45:01.460466+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "ilerl",
+    "iran",
+    "kayde",
+    "müzak"
+   ],
+   "at": "2026-10-31T10:45:45.929161+00:00"
   }
  ],
  "posted": [
@@ -1121,6 +1154,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/motogp-de-malezya-sprintinin-kazanani-pedro-acosta-2551945",
     "BirGün: https://www.birgun.net/haber/malezyada-sprint-zaferi-pedro-acostanin-743652"
    ]
+  },
+  {
+   "id": "800fe86f88",
+   "post_id": "529346797199852_1453332140239827",
+   "title": "İran'dan ABD'ye sert mesaj",
+   "at": "2026-10-31T10:45:45.929161+00:00",
+   "yazim": "claude",
+   "metin": "İran Ordu Sözcüsü Tuğgeneral Muhammed Ekreminiya, ABD'nin İran'a olası yeni bir saldırısının bölgesel bir savaşa yol açabileceği konusunda uyardı.\n\n— Ekreminiya, İran ordusunun savaş hazırlıklarını sürdürdüğünü söyledi.\n— ABD'nin bölgedeki hareketlerini yakından izlediklerini de belirtti.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/katar-basinindan-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydedildigi-iddiasi-961793.html",
+    "Habertürk: https://www.haberturk.com/dunya/katar-basinindan-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydedildigi-iddiasi-3923899",
+    "BirGün: https://www.birgun.net/haber/iran-dan-abd-ye-sert-mesaj-743648"
+   ]
   }
  ],
  "fails": {
@@ -1142,11 +1188,12 @@
   "1cc29861b8": 1,
   "070e2a05d9": 1,
   "82c683f3f3": 1,
-  "9bb6bcfe23": 2,
-  "0761dff0da": 2,
-  "022fe1caa1": 1,
-  "0b9d5d77d2": 1,
-  "4a9cd2d782": 1,
-  "0cdc5e3f3f": 1
+  "022fe1caa1": 2,
+  "0b9d5d77d2": 2,
+  "4a9cd2d782": 2,
+  "0cdc5e3f3f": 2,
+  "520012cd9c": 1,
+  "f8e841451d": 1,
+  "e9182070a0": 1
  }
 }
