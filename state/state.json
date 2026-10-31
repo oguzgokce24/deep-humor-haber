@@ -576,6 +576,19 @@
     "ülkel"
    ],
    "at": "2026-10-31T09:41:12.504263+00:00"
+  },
+  {
+   "fp": [
+    "akade",
+    "alt",
+    "atama",
+    "dönem",
+    "merke",
+    "sınır",
+    "yükse",
+    "ünive"
+   ],
+   "at": "2026-10-31T09:54:09.349443+00:00"
   }
  ],
  "posted": [
@@ -991,6 +1004,20 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi-961808.html",
     "BirGün: https://www.birgun.net/haber/iddia-abd-iran-a-saldiri-icin-korfez-ulkelerine-tarih-verdi-743656"
    ]
+  },
+  {
+   "id": "50ddc9cb91",
+   "post_id": "529346797199852_1453296513576723",
+   "title": "Üniversitelerde atama ve yükselmede yeni dönem: 'Merkezi alt sınır' geliyor",
+   "at": "2026-10-31T09:54:09.349443+00:00",
+   "yazim": "claude",
+   "metin": "Üniversitelerde akademik atama ve yükseltmeler için merkezi bir alt sınır geliyor.\n\n— Düzenleme, 2027 Yılı Cumhurbaşkanlığı Yıllık Programı'nda yer alıyor.\n— Mevzuat çalışmalarının 2027 içinde bitmesi planlanıyor.\n— Açık öğretimin ağırlığı azaltılacak, kontenjanlar iş gücü ihtiyacına göre belirlenecek.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/universitelerde-akademik-atama-ve-yukseltmede-merkezi-alt-sinir-duzenlemesi-2027de-tamamlanacak/4107112",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/10/31/universitelerde-akademik-atama-ve-yukseltmede-yeni-donem-mevzuat-calismalari-gelecek-yil-sonuclanacak",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/universitelerde-atama-ve-yukselmede-yeni-donem-merkezi-alt-sinir-geliyor-2551936",
+    "BirGün: https://www.birgun.net/haber/universitelerde-atama-ve-yukselmede-kriterler-degisiyor-yeni-sartlar-belli-oldu-743647"
+   ]
   }
  ],
  "fails": {
@@ -1011,7 +1038,8 @@
   "ffe5169e33": 1,
   "1cc29861b8": 1,
   "070e2a05d9": 1,
-  "1739a3b9e7": 1,
-  "420c5312ce": 1
+  "1739a3b9e7": 2,
+  "420c5312ce": 2,
+  "82c683f3f3": 1
  }
 }
