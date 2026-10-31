@@ -424,6 +424,35 @@
     "yakal"
    ],
    "at": "2026-10-31T07:13:15.997355+00:00"
+  },
+  {
+   "fp": [
+    "atand",
+    "borç",
+    "kayyu",
+    "milyo",
+    "nun",
+    "ortay",
+    "resto",
+    "sivri",
+    "somer",
+    "çıktı",
+    "ünlü",
+    "şef"
+   ],
+   "at": "2026-10-31T07:16:47.364420+00:00"
+  },
+  {
+   "fp": [
+    "alınd",
+    "askıy",
+    "boğaz",
+    "gemi",
+    "istan",
+    "nda",
+    "trafi"
+   ],
+   "at": "2026-10-31T07:16:51.125570+00:00"
   }
  ],
  "posted": [
@@ -719,6 +748,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bayrampasa-da-dugun-salonunda-korkutan-yangin-ekipler-mudahale-etti-2551871",
     "Yeni Şafak: https://www.yenisafak.com/gundem/bayrampasada-dugun-salonunda-cikan-yangin-sonduruldu-4868568"
    ]
+  },
+  {
+   "id": "5d9484fe2a",
+   "post_id": "529346797199852_1453196930253348",
+   "title": "İstanbul Boğazı'nda gemi trafiği askıya alındı",
+   "at": "2026-10-31T07:16:51.125570+00:00",
+   "yazim": "claude",
+   "metin": "Boğazda gemi trafiği, 'Aroyat' adlı geminin geçişi nedeniyle durduruldu.\n\n— Palau bayraklı kuru yük gemisi Aroyat, Rusya açıklarında İHA saldırısına uğramıştı.\n— Boğazda trafik iki yönde de geçici olarak askıya alındı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbul-bogazinda-gemi-trafigi-askiya-alindi-43361325",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-bogaz-trafigi-askiya-alindi-3923878",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-bogazi-nda-gemi-trafigi-askiya-alindi-2551896"
+   ]
   }
  ],
  "fails": {
@@ -728,7 +770,6 @@
   "1ed5991ceb": 1,
   "809af3547b": 1,
   "de38287d77": 1,
-  "83996e6d3c": 2,
   "5d9484fe2a": 1
  }
 }
