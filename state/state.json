@@ -903,6 +903,16 @@
     "uyarı"
    ],
    "at": "2026-10-31T11:26:01.379555+00:00"
+  },
+  {
+   "fp": [
+    "adana",
+    "oluşt",
+    "yol",
+    "çukur",
+    "çöktü"
+   ],
+   "at": "2026-10-31T11:42:12.263235+00:00"
   }
  ],
  "posted": [
@@ -1384,6 +1394,19 @@
     "Habertürk: https://www.haberturk.com/dunya/katar-basinindan-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydedildigi-iddiasi-3923899",
     "BirGün: https://www.birgun.net/haber/iran-dan-abd-ye-sert-mesaj-743648"
    ]
+  },
+  {
+   "id": "b10f0ebff6",
+   "post_id": "529346797199852_1453374953568879",
+   "title": "Adana'da çöken yolda çukur oluştu: Ekipler çalışma başlattı",
+   "at": "2026-10-31T11:42:12.263235+00:00",
+   "yazim": "claude",
+   "metin": "Adana'nın Yüreğir ilçesinde bir caddede yol çöktü, çukur oluştu.\n\n— Altından su gider hattı geçen yolun neden çöktüğü henüz belli değil.\n— Çevredeki esnaf, durum netleşene kadar çukurun etrafına kasalarla önlem aldı.\n— Adana Büyükşehir Belediyesi ekipleri çukuru kapatmak ve yolu onarmak için çalışmaya başladı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/adana-da-yol-coktu-cukur-olustu-3923920",
+    "BirGün: https://www.birgun.net/haber/adana-da-su-gider-hattinin-bulundugu-yol-coktu-743665",
+    "Karar: https://www.karar.com/sehir-haberleri/adanada-coken-yolda-cukur-olustu-ekipler-calisma-baslatti-2081639"
+   ]
   }
  ],
  "fails": {
@@ -1410,7 +1433,7 @@
   "d3cabf4252": 2,
   "cce3cf5a1f": 1,
   "9e7a42ddb8": 2,
-  "4086f012d8": 1,
-  "c6a673ccb8": 1
+  "4086f012d8": 2,
+  "c6a673ccb8": 2
  }
 }
