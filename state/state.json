@@ -1062,6 +1062,17 @@
     "tekne"
    ],
    "at": "2026-10-31T13:00:04.773345+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "devle",
+    "geldi",
+    "istan",
+    "ukray",
+    "zelen"
+   ],
+   "at": "2026-10-31T13:03:35.109237+00:00"
   }
  ],
  "posted": [
@@ -1598,6 +1609,18 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-3-yil-sarti-getirildi-3487119",
     "Karar: https://www.karar.com/guncel-haberler/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-sart-geldi-2081641"
    ]
+  },
+  {
+   "id": "c9ee968745",
+   "post_id": "529346797199852_1453438423562532",
+   "title": "Ukrayna Devlet Başkanı Zelenski İstanbul'a geldi",
+   "at": "2026-10-31T13:03:35.109237+00:00",
+   "yazim": "claude",
+   "metin": "Ukrayna Devlet Başkanı Volodimir Zelenski:\n\n“Ekibimizle birlikte İstanbul'a vardık. Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan ile önemli görüşmelerimiz olacak.\n\nKaradeniz'deki deniz ulaşımına ilişkin önemli meseleler söz konusu.”",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-istanbula-geldi/4107359",
+    "Sözcü: https://www.sozcu.com.tr/ukrayna-devlet-baskani-zelenski-istanbula-geldi-p374612"
+   ]
   }
  ],
  "fails": {
@@ -1630,6 +1653,7 @@
   "159f40983e": 1,
   "f0f0e877eb": 1,
   "e09b78a8ea": 1,
-  "c12c228145": 2
+  "c12c228145": 2,
+  "360140526a": 1
  }
 }
