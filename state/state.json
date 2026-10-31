@@ -983,6 +983,19 @@
     "üreti"
    ],
    "at": "2026-10-31T12:15:26.256908+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "atama",
+    "getir",
+    "müdür",
+    "sınav",
+    "yardı",
+    "yıl",
+    "şartı"
+   ],
+   "at": "2026-10-31T12:28:13.456028+00:00"
   }
  ],
  "posted": [
@@ -1506,6 +1519,19 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-aciklamalar-3487135",
     "Sabah: https://www.sabah.com.tr/gundem/2026/10/31/son-dakika-baskan-erdogandan-onemli-aciklamalar"
    ]
+  },
+  {
+   "id": "b751e1211a",
+   "post_id": "529346797199852_1453409250232116",
+   "title": "Sınavsız müdür ve müdür yardımcısı atamalarına şart geldi",
+   "at": "2026-10-31T12:28:13.456028+00:00",
+   "yazim": "claude",
+   "metin": "Müdür ve müdür yardımcılığına sınavsız atanmak için yeni şart geldi.\n\n— Bu kadrolara sınavsız atanabilmek için, üst görevlerde kesintisiz en az 3 yıl asıl görevde ve fiilen çalışmış olmak gerekecek.\n— Değişiklik, Resmi Gazete'de yayımlanan yönetmelikle yürürlüğe girdi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-3-yil-sarti-getirildi-961817.html",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-3-yil-sarti-getirildi-3487119",
+    "Karar: https://www.karar.com/guncel-haberler/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-sart-geldi-2081641"
+   ]
   }
  ],
  "fails": {
@@ -1535,6 +1561,8 @@
   "b751e1211a": 2,
   "eb67796b21": 2,
   "4d6b897f52": 1,
-  "956b5c708d": 2
+  "956b5c708d": 2,
+  "159f40983e": 1,
+  "b0ef3505b2": 1
  }
 }
