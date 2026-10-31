@@ -1507,6 +1507,30 @@
     "zirve"
    ],
    "at": "2026-10-31T18:02:03.568944+00:00"
+  },
+  {
+   "fp": [
+    "48",
+    "düzen",
+    "istan",
+    "marat",
+    "metro",
+    "neden",
+    "sefer",
+    "toplu",
+    "tramv",
+    "ulaşı",
+    "vapur"
+   ],
+   "at": "2026-10-31T19:11:22.867887+00:00"
+  },
+  {
+   "fp": [
+    "durum",
+    "guend",
+    "zor"
+   ],
+   "at": "2026-10-31T19:11:29.827004+00:00"
   }
  ],
  "posted": [
@@ -2122,6 +2146,19 @@
     "Sözcü: https://www.sozcu.com.tr/yanan-evde-68-yasindaki-adamin-cesedi-bulundu-p374657",
     "BirGün: https://www.birgun.net/haber/kagithane-de-kaybolan-80-yasindaki-yurttasin-cansiz-bedeni-bogaz-da-bulundu-743719"
    ]
+  },
+  {
+   "id": "681a2c8375",
+   "post_id": "529346797199852_1453729253533449",
+   "title": "Matteo Guendouzi: 'Zor bir durumdayız'",
+   "at": "2026-10-31T19:11:29.827004+00:00",
+   "yazim": "claude",
+   "metin": "Fenerbahçe'de Matteo Guendouzi:\n\n“Zor bir durumdayız. Bu durumdan çıkmak için daha iyisini yapmak zorundayız.”\n\nFenerbahçe, Trendyol Süper Lig'in 10. haftasında 1-0 öne geçtiği maçta Göztepe'ye 2-1 yenildi.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/spor/matteo-guendouzi-zor-bir-durumdayiz-3924005",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/matteo-guendouzi-zor-bir-durumdayiz-2552064",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/matteo-guendouzi-cok-zor-bir-durumdayiz-43361962"
+   ]
   }
  ],
  "fails": {
@@ -2165,7 +2202,6 @@
   "1e62844f13": 1,
   "225e25b03e": 1,
   "7a21e83062": 1,
-  "66e5ea8360": 2,
   "6e948e955c": 2
  }
 }
