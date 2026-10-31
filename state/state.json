@@ -479,6 +479,28 @@
     "şüphe"
    ],
    "at": "2026-10-31T07:42:24.501004+00:00"
+  },
+  {
+   "fp": [
+    "beşik",
+    "bolog",
+    "depla",
+    "dönüş",
+    "geri",
+    "tan",
+    "virtu"
+   ],
+   "at": "2026-10-31T07:53:57.510758+00:00"
+  },
+  {
+   "fp": [
+    "büyük",
+    "sürüc",
+    "tartı",
+    "trafi",
+    "çarpt"
+   ],
+   "at": "2026-10-31T07:54:16.234656+00:00"
   }
  ],
  "posted": [
@@ -814,6 +836,19 @@
     "NTV: https://www.ntv.com.tr/turkiye/firari-suc-orgutu-suphelisi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-1748740",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/adanada-mit-destekli-operasyon-aranan-supheli-yakalandi-7691318"
    ]
+  },
+  {
+   "id": "3f9668ba06",
+   "post_id": "529346797199852_1453220893584285",
+   "title": "Büyükçekmece'de trafikte tartıştığı sürücünün otomobiline çarptı",
+   "at": "2026-10-31T07:54:16.234656+00:00",
+   "yazim": "claude",
+   "metin": "Trafikte yol verme tartışması, arkadan çarpmayla bitti.\n\n— Büyükçekmece'de Hadımköy Yolu Caddesi'nde, sağ şeride geçmek isteyen bir sürücüyle diğer sürücü yol verme yüzünden tartıştı.\n— İddiaya göre sürücülerden biri, diğerinin otomobiline arkadan çarpıp olay yerinden uzaklaştı.\n— Yaşananlar, hasar gören sürücünün cep telefonu kamerasıyla kaydedildi.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/trafikte-tartistigi-surucunun-otomobiline-arkadan-carpip-kacti-p374494",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/buyukcekmece-de-trafikte-tartistigi-surucunun-otomobiline-carpti-2551876",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/buyukcekmecede-trafik-magandasi-dehset-sacti-tartistigi-surucunun-aracina-arkadan-bilerek-carpti-4868593"
+   ]
   }
  ],
  "fails": {
@@ -824,8 +859,8 @@
   "809af3547b": 1,
   "de38287d77": 1,
   "5d9484fe2a": 1,
-  "8c59705486": 2,
-  "99495249e0": 1,
-  "cff04f7974": 1
+  "99495249e0": 2,
+  "cff04f7974": 2,
+  "44658dc58b": 1
  }
 }
