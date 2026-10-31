@@ -453,6 +453,15 @@
     "trafi"
    ],
    "at": "2026-10-31T07:16:51.125570+00:00"
+  },
+  {
+   "fp": [
+    "30",
+    "erdi",
+    "somal",
+    "sona"
+   ],
+   "at": "2026-10-31T07:29:31.895678+00:00"
   }
  ],
  "posted": [
@@ -761,6 +770,18 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-bogaz-trafigi-askiya-alindi-3923878",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-bogazi-nda-gemi-trafigi-askiya-alindi-2551896"
    ]
+  },
+  {
+   "id": "3b34b2b4c5",
+   "post_id": "529346797199852_1453205463585828",
+   "title": "Somali'de 30 yıllık dönem sona erdi",
+   "at": "2026-10-31T07:29:31.895678+00:00",
+   "yazim": "claude",
+   "metin": "BM'nin Somali'deki siyasi misyonu sona erdi. Ülkede 30 yılı aşkın süredir barış, devlet kurma ve uzlaşı çalışmalarına destek veren misyon, iki yıllık geçiş sürecinin ardından 31 Ekim'de kapandı.\n\nBM, Somali'de insani yardım ve kalkınma işlerine devam edecek.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/somalide-bmnin-30-yili-askin-suredir-yuruttugu-siyasi-misyonlar-sona-erdi/4107051",
+    "BirGün: https://www.birgun.net/haber/somali-de-30-yillik-donem-sona-erdi-743627"
+   ]
   }
  ],
  "fails": {
@@ -770,6 +791,7 @@
   "1ed5991ceb": 1,
   "809af3547b": 1,
   "de38287d77": 1,
-  "5d9484fe2a": 1
+  "5d9484fe2a": 1,
+  "8c59705486": 1
  }
 }
