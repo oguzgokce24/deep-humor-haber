@@ -513,6 +513,19 @@
     "yarın"
    ],
    "at": "2026-10-31T08:07:00.473527+00:00"
+  },
+  {
+   "fp": [
+    "31",
+    "akary",
+    "benzi",
+    "ekim",
+    "fiyat",
+    "günce",
+    "kaç",
+    "zam"
+   ],
+   "at": "2026-10-31T08:19:54.570160+00:00"
   }
  ],
  "posted": [
@@ -875,6 +888,19 @@
     "Habertürk: https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891",
     "BirGün: https://www.birgun.net/haber/besiktas-zorlu-kasimpasa-deplasmanina-cikiyor-743625"
    ]
+  },
+  {
+   "id": "c2663efaed",
+   "post_id": "529346797199852_1453237750249266",
+   "title": "31 Ekim 2026 Benzin ve Motorin Fiyatlarında İndirim, Zam Var mı? Güncel Akaryakıt Fiyatları",
+   "at": "2026-10-31T08:19:54.570160+00:00",
+   "yazim": "claude",
+   "metin": "1 Kasım'da akaryakıta ÖTV zammı bekleniyor.\n\n— Benzine 4,15 TL, motorine 3,60 TL zam bekleniyor.\n— LPG için 9 TL'lik artış iddiası konuşuluyor.\n— Döviz kurundaki oynaklık ve art arda gelen ÖTV zamları fiyatları etkiliyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/ekonomi/guncel-altin-fiyatlarinda-son-durum-31-ekim-altin-fiyatlari-ne-kadar-ceyrek-altin-kac-tl-islam-memisten-altin-alacaklara-uyari-3486950",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/akaryakita-dev-zam-benzine-mazota-ne-kadar-zam-gelecek-31-ekim-akaryakit-fiyatlari-ne-kadar-guncel-yakit-fiyatlari-kac-tl-2551883",
+    "BirGün: https://www.birgun.net/haber/31-ekim-2026-benzin-ve-motorin-fiyatlarinda-indirim-zam-var-mi-guncel-akaryakit-fiyatlari-743634"
+   ]
   }
  ],
  "fails": {
@@ -888,7 +914,8 @@
   "99495249e0": 2,
   "cff04f7974": 2,
   "44658dc58b": 1,
-  "2ba19862ef": 1,
-  "5afc9f00fd": 1
+  "2ba19862ef": 2,
+  "5afc9f00fd": 2,
+  "85b363b4cb": 1
  }
 }
