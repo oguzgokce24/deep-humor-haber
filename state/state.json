@@ -633,6 +633,26 @@
     "kasım"
    ],
    "at": "2026-10-31T10:20:03.814646+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "sarıg",
+    "soruş",
+    "tutuk"
+   ],
+   "at": "2026-10-31T10:32:38.647882+00:00"
+  },
+  {
+   "fp": [
+    "acost",
+    "kazan",
+    "malez",
+    "motog",
+    "pedro",
+    "sprin"
+   ],
+   "at": "2026-10-31T10:33:34.437476+00:00"
   }
  ],
  "posted": [
@@ -1088,6 +1108,19 @@
     "Habertürk: https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891",
     "BirGün: https://www.birgun.net/haber/besiktas-zorlu-kasimpasa-deplasmanina-cikiyor-743625"
    ]
+  },
+  {
+   "id": "76770ed2dd",
+   "post_id": "529346797199852_1453323283574046",
+   "title": "MotoGP'de Malezya sprintinin kazananı Pedro Acosta",
+   "at": "2026-10-31T10:33:34.437476+00:00",
+   "yazim": "claude",
+   "metin": "MotoGP Malezya sprintini Pedro Acosta kazandı.\n\nRed Bull KTM pilotu Acosta, Sepang'taki 5,54 kilometrelik pistte birinci bitirdi. Marc Marquez 0,578 saniye gerisinde ikinci, Marco Bezzecchi 1,310 saniye farkla üçüncü oldu.\n\nAna yarış 1 Kasım Pazar günü TSİ 10.00'da başlayacak.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/motogp-malezya-grand-prixsinde-sprint-yarisini-pedro-acosta-kazandi/4107188",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/motogp-de-malezya-sprintinin-kazanani-pedro-acosta-2551945",
+    "BirGün: https://www.birgun.net/haber/malezyada-sprint-zaferi-pedro-acostanin-743652"
+   ]
   }
  ],
  "fails": {
@@ -1109,8 +1142,11 @@
   "1cc29861b8": 1,
   "070e2a05d9": 1,
   "82c683f3f3": 1,
-  "aa470b76e8": 2,
-  "9bb6bcfe23": 1,
-  "0761dff0da": 1
+  "9bb6bcfe23": 2,
+  "0761dff0da": 2,
+  "022fe1caa1": 1,
+  "0b9d5d77d2": 1,
+  "4a9cd2d782": 1,
+  "0cdc5e3f3f": 1
  }
 }
