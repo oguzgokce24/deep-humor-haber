@@ -559,6 +559,23 @@
     "öldür"
    ],
    "at": "2026-10-31T08:46:08.518858+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "abd",
+    "başla",
+    "iddia",
+    "iran",
+    "kasım",
+    "konus",
+    "körfe",
+    "nin",
+    "saldı",
+    "uyard",
+    "ülkel"
+   ],
+   "at": "2026-10-31T09:41:12.504263+00:00"
   }
  ],
  "posted": [
@@ -961,6 +978,19 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-eski-erkek-arkadasi-uzaklastirilamadi-kumsal-kayan-i-da-kaybettik-3923894",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/aydinda-korkunc-son-eski-erkek-arkadasi-tarafindan-olduruldu-7691335"
    ]
+  },
+  {
+   "id": "d6ca81d8dc",
+   "post_id": "529346797199852_1453288620244179",
+   "title": "İddia: ABD, İran'a saldırı için Körfez ülkelerine tarih verdi",
+   "at": "2026-10-31T09:41:12.504263+00:00",
+   "yazim": "claude",
+   "metin": "ABD'nin İran'a yeni bir saldırı için Körfez ülkelerine tarih verdiği iddia edildi.\n\n— İddiaya göre ABD, saldırıların 4 Kasım'da yapılacağını bu ülkelere bildirdi.\n\n— Haberde iddianın doğruluğuna dair bir açıklama yer almıyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi/4107125",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi-961808.html",
+    "BirGün: https://www.birgun.net/haber/iddia-abd-iran-a-saldiri-icin-korfez-ulkelerine-tarih-verdi-743656"
+   ]
   }
  ],
  "fails": {
@@ -980,6 +1010,8 @@
   "6585619ca1": 1,
   "ffe5169e33": 1,
   "1cc29861b8": 1,
-  "070e2a05d9": 1
+  "070e2a05d9": 1,
+  "1739a3b9e7": 1,
+  "420c5312ce": 1
  }
 }
