@@ -548,6 +548,17 @@
     "yetme"
    ],
    "at": "2026-10-31T08:32:45.108672+00:00"
+  },
+  {
+   "fp": [
+    "arkad",
+    "aydın",
+    "erkek",
+    "eski",
+    "korku",
+    "öldür"
+   ],
+   "at": "2026-10-31T08:46:08.518858+00:00"
   }
  ],
  "posted": [
@@ -936,6 +947,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/scottie-barnes-in-41-sayisi-toronto-raptors-a-yetmedi-2551922",
     "BirGün: https://www.birgun.net/haber/nba-kupasinda-scottie-barnesin-41-sayisi-galibiyete-yetmedi-743626"
    ]
+  },
+  {
+   "id": "25482d4f1a",
+   "post_id": "529346797199852_1453254280247613",
+   "title": "Hamile kızını ve erkek arkadaşını öldürdü",
+   "at": "2026-10-31T08:46:08.518858+00:00",
+   "yazim": "claude",
+   "metin": "Ankara Mamak'ta bir baba, iddiaya göre kızını ve kızının erkek arkadaşını silahla öldürdü.\n\n— Tartışma kavgaya dönünce olay, erkek arkadaşın evinde yaşandı.\n— Tartışmanın nedeni henüz belirlenemedi.\n— Ölen kız 19 yaşındaydı ve hamileydi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/aydinda-korkunc-son-eski-erkek-arkadasi-tarafindan-olduruldu-7691335",
+    "NTV: https://www.ntv.com.tr/turkiye/hamile-kizini-ve-erkek-arkadasini-oldurdu-1748704",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-eski-erkek-arkadasi-uzaklastirilamadi-kumsal-kayan-i-da-kaybettik-3923894",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/aydinda-korkunc-son-eski-erkek-arkadasi-tarafindan-olduruldu-7691335"
+   ]
   }
  ],
  "fails": {
@@ -950,7 +975,11 @@
   "cff04f7974": 2,
   "44658dc58b": 1,
   "5afc9f00fd": 2,
-  "85b363b4cb": 1,
-  "abab22fecc": 1
+  "85b363b4cb": 2,
+  "abab22fecc": 2,
+  "6585619ca1": 1,
+  "ffe5169e33": 1,
+  "1cc29861b8": 1,
+  "070e2a05d9": 1
  }
 }
