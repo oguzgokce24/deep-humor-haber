@@ -462,6 +462,23 @@
     "sona"
    ],
    "at": "2026-10-31T07:29:31.895678+00:00"
+  },
+  {
+   "fp": [
+    "adana",
+    "arana",
+    "deste",
+    "firar",
+    "mit",
+    "opera",
+    "ortak",
+    "polis",
+    "suç",
+    "yakal",
+    "örgüt",
+    "şüphe"
+   ],
+   "at": "2026-10-31T07:42:24.501004+00:00"
   }
  ],
  "posted": [
@@ -782,6 +799,21 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/somalide-bmnin-30-yili-askin-suredir-yuruttugu-siyasi-misyonlar-sona-erdi/4107051",
     "BirGün: https://www.birgun.net/haber/somali-de-30-yillik-donem-sona-erdi-743627"
    ]
+  },
+  {
+   "id": "29d08f5e3c",
+   "post_id": "529346797199852_1453213330251708",
+   "title": "Firari suç örgütü şüphelisi MİT ve polisin ortak operasyonuyla yakalandı",
+   "at": "2026-10-31T07:42:24.501004+00:00",
+   "yazim": "claude",
+   "metin": "Bayğaralar suç örgütü dosyasında aranan bir şüpheli, polis ve MİT'in ortak operasyonuyla Adana'da yakalandı.\n\n— Şüpheli, Çukurova ilçesindeki bir evde saklanırken bulundu.\n— Gözaltına alınan şüpheli, sevk edildiği mahkemece tutuklandı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/adanada-suc-orgutu-uyeliginden-aranan-zanli-mit-destekli-operasyonla-yakalandi/4107059",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/firari-suc-orgutu-uyesi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-961790.html",
+    "Milliyet: https://www.milliyet.com.tr/gundem/adanada-mit-destekli-operasyon-aranan-supheli-yakalandi-7691318",
+    "NTV: https://www.ntv.com.tr/turkiye/firari-suc-orgutu-suphelisi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-1748740",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/adanada-mit-destekli-operasyon-aranan-supheli-yakalandi-7691318"
+   ]
   }
  ],
  "fails": {
@@ -792,6 +824,8 @@
   "809af3547b": 1,
   "de38287d77": 1,
   "5d9484fe2a": 1,
-  "8c59705486": 1
+  "8c59705486": 2,
+  "99495249e0": 1,
+  "cff04f7974": 1
  }
 }
