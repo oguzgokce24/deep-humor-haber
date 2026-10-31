@@ -626,6 +626,13 @@
     "maçın"
    ],
    "at": "2026-10-31T10:07:09.175527+00:00"
+  },
+  {
+   "fp": [
+    "beşik",
+    "kasım"
+   ],
+   "at": "2026-10-31T10:20:03.814646+00:00"
   }
  ],
  "posted": [
@@ -1068,6 +1075,19 @@
     "Habertürk: https://www.haberturk.com/spor/fenerbahce-goztepe-karsisinda-moral-ariyor-fenerbahce-goztepe-maci-saat-kacta-hangi-kanalda-fenerbahce-goztepe-muhtemel-11-ler-3923869",
     "Karar: https://www.karar.com/spor-haberleri/fenerbahce-goztepe-macinin-var-hakemi-aciklandi-2081618"
    ]
+  },
+  {
+   "id": "8d4e283c8a",
+   "post_id": "529346797199852_1453314433574931",
+   "title": "Beşiktaş, zorlu Kasımpaşa deplasmanına çıkıyor",
+   "at": "2026-10-31T10:20:03.814646+00:00",
+   "yazim": "claude",
+   "metin": "Beşiktaş yarın Kasımpaşa deplasmanına çıkıyor.\n\nSüper Lig'in 10. haftasında karşılaşma saat 19.00'da başlayacak.\n\nSiyah-beyazlılar bu maçta deplasmanda üç puan almak istiyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/besiktasta-kasimpasa-maci-oncesi-2-eksik-3486998",
+    "Habertürk: https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891",
+    "BirGün: https://www.birgun.net/haber/besiktas-zorlu-kasimpasa-deplasmanina-cikiyor-743625"
+   ]
   }
  ],
  "fails": {
@@ -1089,6 +1109,8 @@
   "1cc29861b8": 1,
   "070e2a05d9": 1,
   "82c683f3f3": 1,
-  "aa470b76e8": 1
+  "aa470b76e8": 2,
+  "9bb6bcfe23": 1,
+  "0761dff0da": 1
  }
 }
