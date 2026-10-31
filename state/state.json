@@ -1278,6 +1278,37 @@
     "rizes"
    ],
    "at": "2026-10-31T15:10:26.321587+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "arakç",
+    "bakan",
+    "dışiş",
+    "görüş",
+    "iran",
+    "makam",
+    "planı",
+    "yetki",
+    "yok"
+   ],
+   "at": "2026-10-31T15:13:48.957190+00:00"
+  },
+  {
+   "fp": [
+    "aile",
+    "bolu",
+    "cenaz",
+    "dağı",
+    "döndü",
+    "giden",
+    "kaza",
+    "korku",
+    "nde",
+    "tünel",
+    "ölümd"
+   ],
+   "at": "2026-10-31T15:13:56.550915+00:00"
   }
  ],
  "posted": [
@@ -1852,6 +1883,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/nevzat-aydin-a-tehdit-sorusturmasi-4-kisi-daha-gozaltina-alindi-2552020",
     "Karar: https://www.karar.com/guncel-haberler/nevzat-aydina-tehdit-operasyonunda-4-gozalti-daha-2081657"
    ]
+  },
+  {
+   "id": "eea35aa0d1",
+   "post_id": "529346797199852_1453546000218441",
+   "title": "Bolu Dağı Tüneli'nde korkunç kaza: Cenazeye giden aile ölümden döndü!",
+   "at": "2026-10-31T15:13:56.550915+00:00",
+   "yazim": "claude",
+   "metin": "Bolu Dağı Tüneli'nde tır, cenazeye giden ailenin otomobiline çarptı.\n\nOtomobil takla attı ve ters döndü. Araçtaki 4 kişi yaralandı.\n\nTır sürücüsü olay yerinden kaçtı. Jandarma sürücüyü yakalamak için çalışıyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/cenazeye-giden-aile-olumden-dondu-bolu-dagi-tunelinde-korkunc-kaza-7691570",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bolu-dagi-tuneli-nde-korkunc-kaza-cenazeye-giden-aile-olumden-dondu-2552030",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/bolu-dagi-tunelinde-dehset-carpip-kacan-tir-dort-kisiyi-yaraladi-4868694",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/cenazeye-giden-aile-olumden-dondu-bolu-dagi-tunelinde-korkunc-kaza-7691570"
+   ]
   }
  ],
  "fails": {
@@ -1885,7 +1930,6 @@
   "f0f0e877eb": 1,
   "e09b78a8ea": 1,
   "c12c228145": 2,
-  "d52a4aa57d": 2,
-  "f071a2fa01": 2
+  "d52a4aa57d": 2
  }
 }
