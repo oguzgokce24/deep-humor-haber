@@ -589,6 +589,43 @@
     "ünive"
    ],
    "at": "2026-10-31T09:54:09.349443+00:00"
+  },
+  {
+   "fp": [
+    "142",
+    "310",
+    "bin",
+    "ele",
+    "elekt",
+    "geçir",
+    "istan",
+    "milyo",
+    "opera",
+    "sigar"
+   ],
+   "at": "2026-10-31T10:06:45.454471+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "360",
+    "bin",
+    "ceza",
+    "kavga",
+    "sopal",
+    "sürüc",
+    "trafi"
+   ],
+   "at": "2026-10-31T10:07:01.849414+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "fener",
+    "gözte",
+    "maçın"
+   ],
+   "at": "2026-10-31T10:07:09.175527+00:00"
   }
  ],
  "posted": [
@@ -1018,6 +1055,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/universitelerde-atama-ve-yukselmede-yeni-donem-merkezi-alt-sinir-geliyor-2551936",
     "BirGün: https://www.birgun.net/haber/universitelerde-atama-ve-yukselmede-kriterler-degisiyor-yeni-sartlar-belli-oldu-743647"
    ]
+  },
+  {
+   "id": "403fdea27e",
+   "post_id": "529346797199852_1453305576909150",
+   "title": "Fenerbahçe-Göztepe maçının VAR hakemi açıklandı",
+   "at": "2026-10-31T10:07:09.175527+00:00",
+   "yazim": "claude",
+   "metin": "Fenerbahçe - Göztepe maçının VAR hakemi belli oldu.\n\nBu akşam Fenerbahçe, sahasında Göztepe'yi ağırlayacak. Maçı Oğuzhan Çakır yönetecek.\n\n— VAR'da Avusturyalı Alan Kijas görev yapacak.\n— AVAR'da Murat Tuğberk Curbay olacak.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/live-fenerbahce-goztepe-macina-dogru-muhtemel-11ler-3487011",
+    "Habertürk: https://www.haberturk.com/spor/fenerbahce-goztepe-karsisinda-moral-ariyor-fenerbahce-goztepe-maci-saat-kacta-hangi-kanalda-fenerbahce-goztepe-muhtemel-11-ler-3923869",
+    "Karar: https://www.karar.com/spor-haberleri/fenerbahce-goztepe-macinin-var-hakemi-aciklandi-2081618"
+   ]
   }
  ],
  "fails": {
@@ -1038,8 +1088,7 @@
   "ffe5169e33": 1,
   "1cc29861b8": 1,
   "070e2a05d9": 1,
-  "1739a3b9e7": 2,
-  "420c5312ce": 2,
-  "82c683f3f3": 1
+  "82c683f3f3": 1,
+  "aa470b76e8": 1
  }
 }
