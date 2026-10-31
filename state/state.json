@@ -501,6 +501,18 @@
     "çarpt"
    ],
    "at": "2026-10-31T07:54:16.234656+00:00"
+  },
+  {
+   "fp": [
+    "beşik",
+    "kasım",
+    "konuk",
+    "lig",
+    "olaca",
+    "süper",
+    "yarın"
+   ],
+   "at": "2026-10-31T08:07:00.473527+00:00"
   }
  ],
  "posted": [
@@ -849,6 +861,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/buyukcekmece-de-trafikte-tartistigi-surucunun-otomobiline-carpti-2551876",
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/buyukcekmecede-trafik-magandasi-dehset-sacti-tartistigi-surucunun-aracina-arkadan-bilerek-carpti-4868593"
    ]
+  },
+  {
+   "id": "398900df15",
+   "post_id": "529346797199852_1453229586916749",
+   "title": "Beşiktaş, zorlu Kasımpaşa deplasmanına çıkıyor",
+   "at": "2026-10-31T08:07:00.473527+00:00",
+   "yazim": "claude",
+   "metin": "Beşiktaş yarın Kasımpaşa deplasmanına çıkıyor.\n\n— Süper Lig'in 10. haftasında maç saat 19.00'da başlayacak.\n— Beşiktaş deplasmanda üç puan arayacak.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/basaksehir-super-ligde-yarin-samsunsporu-agirlayacak/4107055",
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042",
+    "Habertürk: https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891",
+    "BirGün: https://www.birgun.net/haber/besiktas-zorlu-kasimpasa-deplasmanina-cikiyor-743625"
+   ]
   }
  ],
  "fails": {
@@ -861,6 +887,8 @@
   "5d9484fe2a": 1,
   "99495249e0": 2,
   "cff04f7974": 2,
-  "44658dc58b": 1
+  "44658dc58b": 1,
+  "2ba19862ef": 1,
+  "5afc9f00fd": 1
  }
 }
