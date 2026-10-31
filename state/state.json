@@ -1381,6 +1381,68 @@
     "neden"
    ],
    "at": "2026-10-31T17:24:52.004258+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "aydın",
+    "bakan",
+    "den",
+    "izmir",
+    "meteo",
+    "muğla",
+    "uyarı",
+    "yağış",
+    "şidde"
+   ],
+   "at": "2026-10-31T17:41:40.014997+00:00"
+  },
+  {
+   "fp": [
+    "ağıre",
+    "cezae",
+    "emniy",
+    "murat",
+    "tutuk",
+    "yapmı"
+   ],
+   "at": "2026-10-31T17:41:47.768545+00:00"
+  },
+  {
+   "fp": [
+    "frans",
+    "hayat",
+    "karşı",
+    "pahal",
+    "sarı",
+    "sokak",
+    "sokağ",
+    "yelek",
+    "çıktı"
+   ],
+   "at": "2026-10-31T17:42:09.599412+00:00"
+  },
+  {
+   "fp": [
+    "ele",
+    "geçir",
+    "kilo",
+    "opera",
+    "uyuşt"
+   ],
+   "at": "2026-10-31T17:42:18.030713+00:00"
+  },
+  {
+   "fp": [
+    "80",
+    "adamı",
+    "beden",
+    "boğaz",
+    "bulun",
+    "cansı",
+    "yaşın"
+   ],
+   "at": "2026-10-31T17:42:27.622279+00:00"
   }
  ],
  "posted": [
@@ -1983,6 +2045,19 @@
     "Evrensel: https://www.evrensel.net/haber/6007472/fenerbahcede-kadroya-alinmamisti-mason-greenwoodun-neden-oynamadigi-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/dirk-kuyt-acikladi-mason-greenwood-neden-kadroda-yok-43361854"
    ]
+  },
+  {
+   "id": "d1087abfef",
+   "post_id": "529346797199852_1453665016873206",
+   "title": "Kağıthane'de kaybolan 80 yaşındaki yurttaşın cansız bedeni Boğaz'da bulundu",
+   "at": "2026-10-31T17:42:27.622279+00:00",
+   "yazim": "claude",
+   "metin": "Kağıthane'de evinden ayrıldıktan sonra kendisinden haber alınamayan 80 yaşındaki bir adamın cansız bedeni İstanbul Boğazı'nda bulundu.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/bir-suredir-haber-alinamiyordu-80-yasindaki-adamin-cansiz-bedeni-bogazda-bulundu-43361859",
+    "Sözcü: https://www.sozcu.com.tr/yanan-evde-68-yasindaki-adamin-cesedi-bulundu-p374657",
+    "BirGün: https://www.birgun.net/haber/kagithane-de-kaybolan-80-yasindaki-yurttasin-cansiz-bedeni-bogaz-da-bulundu-743719"
+   ]
   }
  ],
  "fails": {
@@ -2019,15 +2094,12 @@
   "d52a4aa57d": 2,
   "a16ddd909a": 1,
   "d8a35bf860": 1,
-  "8287ecca57": 2,
   "87e9b34eae": 1,
   "2689901305": 1,
   "d1087abfef": 2,
   "3a5c907650": 2,
-  "23f932b46f": 2,
-  "2038668747": 2,
-  "f6b8cf7d56": 2,
-  "a51bb08ea4": 1,
-  "4e6a6c094b": 1
+  "a51bb08ea4": 2,
+  "4e6a6c094b": 2,
+  "bf055995b7": 1
  }
 }
