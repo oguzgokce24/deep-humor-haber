@@ -3,28 +3,6 @@
   {
    "fp": [
     "beşik",
-    "bolog",
-    "depla",
-    "dönüş",
-    "geri",
-    "tan",
-    "virtu"
-   ],
-   "at": "2026-10-31T07:53:57.510758+00:00"
-  },
-  {
-   "fp": [
-    "büyük",
-    "sürüc",
-    "tartı",
-    "trafi",
-    "çarpt"
-   ],
-   "at": "2026-10-31T07:54:16.234656+00:00"
-  },
-  {
-   "fp": [
-    "beşik",
     "kasım",
     "konuk",
     "lig",
@@ -2221,6 +2199,18 @@
     "ıtali"
    ],
    "at": "2026-11-01T19:49:28.950141+00:00"
+  },
+  {
+   "fp": [
+    "cop31",
+    "deste",
+    "ingil",
+    "tarka",
+    "uyan",
+    "verdi",
+    "şarkı"
+   ],
+   "at": "2026-11-01T20:02:08.972001+00:00"
   }
  ],
  "posted": [
@@ -3160,6 +3150,22 @@
     "Habertürk: https://www.haberturk.com/spor/amir-murillo-2-0-dan-sonra-ritmimizi-kaybettik-3924171",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/vincenzo-italiano-dan-kasimpasa-aciklamasi-deplasmandaki-oyunu-duzeltmeliyiz-2552298"
    ]
+  },
+  {
+   "id": "553adcedd4",
+   "post_id": "529346797199852_1454784693427905",
+   "title": "Tarkan, 2008'de yazdığı şarkıyı COP31 için yeniden yorumladı",
+   "at": "2026-11-01T20:02:08.972001+00:00",
+   "yazim": "claude",
+   "metin": "Tarkan:\n\n“Zamanımız daralıyor. Çok geç olmadan harekete geçmeliyiz.”\n\nTarkan, 2008'de yazdığı “Uyan” şarkısını COP31 için “Wake Up” adıyla İngilizce sözlerle yeniden seslendirdi. Konferans 9-20 Kasım'da Antalya'da yapılacak.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/cevre/tarkan-cop31-turkiye-icin-soyledi-uyan-961898.html",
+    "Milliyet: https://www.milliyet.com.tr/gundem/tarkan-cop31-icin-ingilizce-sarki-ile-destek-verdi-7692220",
+    "Evrensel: https://www.evrensel.net/haber/6007593/tarkan-2008de-yazdigi-sarkiyi-cop31-icin-yeniden-yorumladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/tarkan-uyan-sarkisini-cop31-icin-ingilizce-seslendirdi-cok-gec-olmadan-harekete-gecmeliyiz-743894",
+    "Diken: https://www.diken.com.tr/tarkan-cop31-icin-uyan-sarkisini-ingilizce-soyledi/?utm_source=rss&utm_medium=rss&utm_campaign=tarkan-cop31-icin-uyan-sarkisini-ingilizce-soyledi",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/tarkan-cop31-icin-ingilizce-sarki-ile-destek-verdi-7692220"
+   ]
   }
  ],
  "fails": {
@@ -3226,6 +3232,7 @@
   "a5b165cdab": 1,
   "65eb5f9722": 1,
   "490a8a7a18": 1,
-  "b401c2f608": 1
+  "b401c2f608": 1,
+  "b2ee42fae4": 1
  }
 }
