@@ -2277,6 +2277,20 @@
     "şans"
    ],
    "at": "2026-11-01T17:53:04.748472+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "abd",
+    "bayra",
+    "cadıl",
+    "kişi",
+    "kutla",
+    "saldı",
+    "silah",
+    "sıras"
+   ],
+   "at": "2026-11-01T18:17:10.078027+00:00"
   }
  ],
  "posted": [
@@ -3178,6 +3192,18 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/emzirilirken-fenalasan-iki-aylik-bebek-hayatini-kaybetti-4868903",
     "Karar: https://www.karar.com/guncel-haberler/aniden-fenalasan-2-aylik-bebek-hayatini-kaybetti-2081793"
    ]
+  },
+  {
+   "id": "a39b30f55b",
+   "post_id": "529346797199852_1454714570101584",
+   "title": "ABD'de Cadılar Bayramı kutlamaları sırasında 3 silahlı saldırı: İlk belirlemelere göre 6 kişi öldü",
+   "at": "2026-11-01T18:17:10.078027+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de üç farklı kentteki Cadılar Bayramı kutlamalarında silahlı saldırılar oldu.\n\n— İlk belirlemelere göre en az 6 kişi öldü.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdde-cadilar-bayrami-kutlamalari-sirasinda-duzenlenen-silahli-saldirilarda-en-az-6-kisi-yasamini-yitirdi/4108175",
+    "BirGün: https://www.birgun.net/haber/abd-de-cadilar-bayrami-kutlamalari-sirasinda-3-silahli-saldiri-ilk-belirlemelere-gore-6-kisi-oldu-743890"
+   ]
   }
  ],
  "fails": {
@@ -3242,6 +3268,7 @@
   "44cf7cdd69": 1,
   "4f4c971acf": 2,
   "a5b165cdab": 1,
-  "65eb5f9722": 1
+  "65eb5f9722": 1,
+  "f6fe7d94ad": 1
  }
 }
