@@ -2199,6 +2199,22 @@
     "şarkı"
    ],
    "at": "2026-11-01T20:02:08.972001+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "5",
+    "ağır",
+    "devri",
+    "feci",
+    "gazia",
+    "kaza",
+    "minib",
+    "taşıy",
+    "yaral",
+    "yolcu"
+   ],
+   "at": "2026-11-01T20:18:28.567995+00:00"
   }
  ],
  "posted": [
@@ -3154,6 +3170,21 @@
     "Diken: https://www.diken.com.tr/tarkan-cop31-icin-uyan-sarkisini-ingilizce-soyledi/?utm_source=rss&utm_medium=rss&utm_campaign=tarkan-cop31-icin-uyan-sarkisini-ingilizce-soyledi",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/tarkan-cop31-icin-ingilizce-sarki-ile-destek-verdi-7692220"
    ]
+  },
+  {
+   "id": "b2ee42fae4",
+   "post_id": "529346797199852_1454793786760329",
+   "title": "Adıyaman-Gaziantep yolunda yolcu minibüsü kaza yaptı: 5'i ağır 12 yaralı",
+   "at": "2026-11-01T20:18:28.567995+00:00",
+   "yazim": "claude",
+   "metin": "Gaziantep'in Araban ilçesinde yolcu minibüsü devrildi, 12 kişi yaralandı.\n\n— İlk belirlemelere göre 5'i ağır durumda.\n— Kaza saat 21.00 sıralarında Karadağ geçidi yakınında oldu.\n— Gaziantep-Adıyaman seferi yapan minibüs kontrolden çıkıp şarampole devrildi.\n— Sürücünün kimliği henüz öğrenilemedi, soruşturma sürüyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/gaziantepte-feci-kaza-yolcu-tasiyan-minibus-devrildi-12-yarali-7692228",
+    "Habertürk: https://www.haberturk.com/gundem/gaziantep-te-yolcu-minibusu-kaza-yapti-15-yarali-3924174",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gaziantep-te-minibus-devrildi-5-i-agir-12-yarali-2552306",
+    "BirGün: https://www.birgun.net/haber/adiyaman-gaziantep-yolunda-yolcu-minibusu-kaza-yapti-5-i-agir-12-yarali-743895",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/gaziantepte-feci-kaza-yolcu-tasiyan-minibus-devrildi-12-yarali-7692228"
+   ]
   }
  ],
  "fails": {
@@ -3225,6 +3256,7 @@
   "82f8aa9b71": 1,
   "dd76f4f415": 1,
   "396bee5f79": 1,
-  "cdd2d2e1db": 1
+  "cdd2d2e1db": 1,
+  "8327c6174a": 1
  }
 }
