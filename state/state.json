@@ -1800,6 +1800,32 @@
     "tbmm"
    ],
    "at": "2026-11-01T08:47:58.456820+00:00"
+  },
+  {
+   "fp": [
+    "41",
+    "anlar",
+    "beni",
+    "kamer",
+    "klima",
+    "muhas",
+    "yaşın",
+    "çarpt"
+   ],
+   "at": "2026-11-01T09:04:40.049612+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "iran",
+    "içind",
+    "kalan",
+    "nükle",
+    "tesis",
+    "trump",
+    "vurab"
+   ],
+   "at": "2026-11-01T09:04:43.872054+00:00"
   }
  ],
  "posted": [
@@ -2494,6 +2520,18 @@
     "TRT Haber: https://www.trthaber.com/haber/gundem/tbmmde-bu-hafta-butce-ve-kanun-teklifi-mesaisi-961865.html",
     "BirGün: https://www.birgun.net/haber/tbmmde-bu-hafta-neler-gorusulecek-743821"
    ]
+  },
+  {
+   "id": "a6d14a8a4e",
+   "post_id": "529346797199852_1454297936809914",
+   "title": "Trump: İran’ın kalan nükleer tesislerini 10 dakika içinde vurabiliriz",
+   "at": "2026-11-01T09:04:43.872054+00:00",
+   "yazim": "claude",
+   "metin": "ABD Başkanı Donald Trump:\n\n“Halen ilgilenmemiz gereken, bir ya da iki tesis diyebilirim. Ancak bunu 10 dakika içinde yapabiliriz.”\n\nTrump, Mar-a-Lago'da gazetecilerin sorularını yanıtlarken İran'daki kalan nükleer tesislere yönelik bir planın olduğunu söyledi.\n\n— Müzakereler için ise İran'ın “pek güvenilir olmadığını” ve bir anlaşma yapıp sonra vazgeçtiğini savundu.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-iranin-kalan-nukleer-tesislerini-sadece-10-dakika-icinde-vurabileceklerini-savundu/4107838",
+    "Karar: https://www.karar.com/dunya-haberleri/trump-iranin-kalan-nukleer-tesislerini-10-dakika-icinde-vurabiliriz-2081736"
+   ]
   }
  ],
  "fails": {
@@ -2542,9 +2580,10 @@
   "aca81dde82": 1,
   "be2543cb9d": 2,
   "0ef673e36f": 2,
-  "1ed71362f6": 2,
-  "6321dd83e1": 1,
+  "6321dd83e1": 2,
   "1e03301a4d": 1,
-  "a6d14a8a4e": 1
+  "a6d14a8a4e": 1,
+  "157f757920": 1,
+  "a1b5acd502": 1
  }
 }
