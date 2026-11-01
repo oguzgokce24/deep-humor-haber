@@ -2180,6 +2180,14 @@
     "öldüğ"
    ],
    "at": "2026-11-01T15:12:25.738605+00:00"
+  },
+  {
+   "fp": [
+    "başak",
+    "mağlu",
+    "samsu"
+   ],
+   "at": "2026-11-01T15:16:07.000607+00:00"
   }
  ],
  "posted": [
@@ -3031,6 +3039,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/alanya-da-denize-giren-54-yasindaki-turist-boguldu-2552251",
     "Yeni Şafak: https://www.yenisafak.com/gundem/alanyada-yabanci-turist-denizde-boguldu-4868879"
    ]
+  },
+  {
+   "id": "141eef5ffd",
+   "post_id": "529346797199852_1454577450115296",
+   "title": "Başakşehir'den Samsunspor'a farklı tarife! Üst üste 8. mağlubiyet...",
+   "at": "2026-11-01T15:16:07.000607+00:00",
+   "yazim": "claude",
+   "metin": "Başakşehir, Samsunspor'u 5-2 yendi.\n\nSüper Lig'in 10. haftasında Fatih Terim Stadı'nda oynanan maçı ev sahibi ekip kazandı.\n\n— Samsunspor üst üste 8. maçını kaybetti. Puanı 4'te kaldı, 17. sırada.\n— Başakşehir 14 puana yükseldi ve 10. sıraya çıktı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/basaksehir-samsunsporu-sahasinda-maglup-etti/4108060",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/basaksehir-den-samsunspor-a-farkli-tarife-ust-uste-8-maglubiyet-2552256"
+   ]
   }
  ],
  "fails": {
@@ -3093,6 +3113,7 @@
   "7d6f036739": 1,
   "104ccb5945": 2,
   "44cf7cdd69": 1,
-  "4f4c971acf": 1
+  "4f4c971acf": 2,
+  "09d0c91aa7": 1
  }
 }
