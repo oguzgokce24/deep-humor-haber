@@ -2188,6 +2188,20 @@
     "samsu"
    ],
    "at": "2026-11-01T15:16:07.000607+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "47",
+    "artış",
+    "ekim",
+    "enfla",
+    "fiyat",
+    "giyim",
+    "istan",
+    "yüzde"
+   ],
+   "at": "2026-11-01T15:28:50.254717+00:00"
   }
  ],
  "posted": [
@@ -3051,6 +3065,19 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/basaksehir-samsunsporu-sahasinda-maglup-etti/4108060",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/basaksehir-den-samsunspor-a-farkli-tarife-ust-uste-8-maglubiyet-2552256"
    ]
+  },
+  {
+   "id": "d43cee1715",
+   "post_id": "529346797199852_1454588030114238",
+   "title": "İstanbul’un ekim enflasyonu belli oldu: Fiyatlar yüzde 2,47 arttı",
+   "at": "2026-11-01T15:28:50.254717+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da ekim ayında fiyatlar aylık yüzde 2,47 arttı. En çok zamlanan grup giyim ve ayakkabı oldu.\n\n— Eylülde aylık artış yüzde 1,66'da kalmıştı.\n\n— Giyim ve ayakkabıda fiyatlar yüzde 10,60 yükseldi. Kış sezonu bu artışta etkili oldu.\n\n— Yıllık enflasyon yüzde 34,96'dan yüzde 32,47'ye geriledi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6007553/ito-istanbul-un-ekim-ayi-enflasyonunu-acikladi-en-buyuk-artis-giyim-ve-ayakkabida?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/01/istanbulda-ekim-enflasyonu-yuzde-247ye-yukseldi/",
+    "Karar: https://www.karar.com/ekonomi-haberleri/istanbulun-ekim-enflasyonu-belli-oldu-fiyatlar-yuzde-247-artti-2081775"
+   ]
   }
  ],
  "fails": {
@@ -3114,6 +3141,7 @@
   "104ccb5945": 2,
   "44cf7cdd69": 1,
   "4f4c971acf": 2,
-  "09d0c91aa7": 1
+  "09d0c91aa7": 2,
+  "a5b165cdab": 1
  }
 }
