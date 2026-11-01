@@ -2291,6 +2291,18 @@
     "sıras"
    ],
    "at": "2026-11-01T18:17:10.078027+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "başba",
+    "başka",
+    "carne",
+    "görüş",
+    "kanad",
+    "trump"
+   ],
+   "at": "2026-11-01T18:29:51.067747+00:00"
   }
  ],
  "posted": [
@@ -3204,6 +3216,19 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdde-cadilar-bayrami-kutlamalari-sirasinda-duzenlenen-silahli-saldirilarda-en-az-6-kisi-yasamini-yitirdi/4108175",
     "BirGün: https://www.birgun.net/haber/abd-de-cadilar-bayrami-kutlamalari-sirasinda-3-silahli-saldiri-ilk-belirlemelere-gore-6-kisi-oldu-743890"
    ]
+  },
+  {
+   "id": "0f75a79903",
+   "post_id": "529346797199852_1454723900100651",
+   "title": "Kanada Başbakanı Carney ile ABD Başkanı Trump görüşme gerçekleştirdi",
+   "at": "2026-11-01T18:29:51.067747+00:00",
+   "yazim": "claude",
+   "metin": "Kanada Başbakanı Carney, ABD Başkanı Trump ile telefonda görüştü.\n\nTrump'ın açıklamaları yüzünden uzun süredir anlaşmazlık yaşayan iki ülkenin liderleri bir araya geldi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abd-baskani-trump-ile-ikili-ticaret-meselesini-gorustu/4108169",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/kanada-basbakani-carney-trump-ile-gorustu-961895.html",
+    "BirGün: https://www.birgun.net/haber/kanada-basbakani-carney-ile-abd-baskani-trump-gorusme-gerceklestirdi-743889"
+   ]
   }
  ],
  "fails": {
@@ -3269,6 +3294,6 @@
   "4f4c971acf": 2,
   "a5b165cdab": 1,
   "65eb5f9722": 1,
-  "f6fe7d94ad": 1
+  "f6fe7d94ad": 2
  }
 }
