@@ -2146,6 +2146,16 @@
     "kasım"
    ],
    "at": "2026-11-01T14:41:56.602318+00:00"
+  },
+  {
+   "fp": [
+    "alany",
+    "boğul",
+    "deniz",
+    "turis",
+    "yaban"
+   ],
+   "at": "2026-11-01T14:54:37.152360+00:00"
   }
  ],
  "posted": [
@@ -2984,6 +2994,19 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-01-kasim-2026/4108015",
     "NTV Son Dakika: https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-kasim-2026-1748829"
    ]
+  },
+  {
+   "id": "1507d935dd",
+   "post_id": "529346797199852_1454559523450422",
+   "title": "Alanya'da denize giren 54 yaşındaki turist boğuldu",
+   "at": "2026-11-01T14:54:37.152360+00:00",
+   "yazim": "claude",
+   "metin": "Alanya'da denize giren 54 yaşındaki Çekya vatandaşı bir turist hayatını kaybetti.\n\nEşi, kadının denizden çıkmadığını fark edip durumu yetkililere haber verdi. Sahil Güvenlik ekipleri arama başlattı ve kadının cansız bedenini buldu.\n\nOlay Alanya'nın Türkler Mahallesi'nde yaşandı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/antalya/alanyada-yabanci-turist-denizde-boguldu-3487482",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/alanya-da-denize-giren-54-yasindaki-turist-boguldu-2552251",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/alanyada-yabanci-turist-denizde-boguldu-4868879"
+   ]
   }
  ],
  "fails": {
@@ -3045,6 +3068,7 @@
   "deffe333d5": 1,
   "7d6f036739": 1,
   "104ccb5945": 2,
-  "44cf7cdd69": 1
+  "44cf7cdd69": 1,
+  "09b14d38af": 1
  }
 }
