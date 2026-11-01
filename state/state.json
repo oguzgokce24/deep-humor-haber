@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "arkad",
-    "aydın",
-    "erkek",
-    "eski",
-    "korku",
-    "öldür"
-   ],
-   "at": "2026-10-31T08:46:08.518858+00:00"
-  },
-  {
-   "fp": [
     "4",
     "abd",
     "başla",
@@ -2225,6 +2214,19 @@
     "çiftç"
    ],
    "at": "2026-11-01T20:38:18.728427+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "elend",
+    "gitti",
+    "isim",
+    "kasım",
+    "kim",
+    "maste",
+    "veda"
+   ],
+   "at": "2026-11-01T21:39:10.314803+00:00"
   }
  ],
  "posted": [
@@ -3195,6 +3197,19 @@
     "BirGün: https://www.birgun.net/haber/adiyaman-gaziantep-yolunda-yolcu-minibusu-kaza-yapti-5-i-agir-12-yarali-743895",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/gaziantepte-feci-kaza-yolcu-tasiyan-minibus-devrildi-12-yarali-7692228"
    ]
+  },
+  {
+   "id": "abfae38934",
+   "post_id": "529346797199852_1454842716755436",
+   "title": "MasterChef'te kim elendi? 1 Kasım 2026 MasterChef'te kim elendi, kim kazandı? MasterChef'e veda eden isim...",
+   "at": "2026-11-01T21:39:10.314803+00:00",
+   "yazim": "claude",
+   "metin": "MasterChef Türkiye'de bu hafta veda eden isim Hasan Alp oldu.\n\nHaftanın son dokunulmazlık oyunundan sonra yarışmacılar, bir hafta daha kalmak için en iyi tabağını hazırladı. Günün sonunda elenen isim Hasan Alp oldu.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/magazin/masterchef-elenen-isim-1-kasim-masterchefte-kim-elendi-kim-veda-etti-masterchefte-kim-gitti-3487552",
+    "Habertürk: https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-kim-gitti-1-kasim-masterchef-turkiyeye-veda-eden-isim-aciklandi-mi-3924178",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-te-kim-elendi-1-kasim-2026-masterchef-te-kim-elendi-kim-kazandi-masterchef-e-veda-eden-isim-2552358"
+   ]
   }
  ],
  "fails": {
@@ -3266,6 +3281,9 @@
   "82f8aa9b71": 1,
   "dd76f4f415": 1,
   "cdd2d2e1db": 1,
-  "8327c6174a": 1
+  "8327c6174a": 1,
+  "5378ba2058": 1,
+  "5203f7fd44": 1,
+  "557a05b748": 1
  }
 }
