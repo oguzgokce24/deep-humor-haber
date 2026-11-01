@@ -2021,6 +2021,24 @@
     "veril"
    ],
    "at": "2026-11-01T11:25:04.089882+00:00"
+  },
+  {
+   "fp": [
+    "36",
+    "alany",
+    "antal",
+    "arası",
+    "dakik",
+    "düşec"
+   ],
+   "at": "2026-11-01T11:37:47.190960+00:00"
+  },
+  {
+   "fp": [
+    "borcu",
+    "trabz"
+   ],
+   "at": "2026-11-01T11:37:51.398014+00:00"
   }
  ],
  "posted": [
@@ -2767,6 +2785,19 @@
     "BirGün: https://www.birgun.net/haber/ito-verileri-istanbul-un-ekim-ayi-enflasyonu-belli-oldu-743851",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/son-dakika-istanbul-un-ekim-ayi-enflasyonu-belli-oldu-p374851"
    ]
+  },
+  {
+   "id": "6d23f118f3",
+   "post_id": "529346797199852_1454401213466253",
+   "title": "Trabzonspor'un borcu açıklandı",
+   "at": "2026-11-01T11:37:51.398014+00:00",
+   "yazim": "claude",
+   "metin": "Trabzonspor'un net borcu 2 milyar 951 milyon lira.\n\n— Kulüp, olağan mali genel kurulunda borç tutarını açıkladı.\n\n— 31 Ağustos 2026 itibarıyla net borç 2 milyar 951 milyon 474 bin 836 lira.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/spor/trabzonspor-un-net-borcu-2-milyat-951-milyon-474-bin-836-tl-olarak-aciklandi-3924101",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/trabzonspor-un-borcu-aciklandi-2552200",
+    "BirGün: https://www.birgun.net/haber/trabzonspor-un-borcu-aciklandi-743836"
+   ]
   }
  ],
  "fails": {
@@ -2823,7 +2854,7 @@
   "43b000e306": 2,
   "aba91128d1": 1,
   "69c6b6135e": 1,
-  "c56bace62b": 2,
-  "4f7bb28348": 2
+  "4f7bb28348": 2,
+  "a3b7e4c205": 1
  }
 }
