@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "anaya",
-    "bastı",
-    "cumhu",
-    "mahke",
-    "polis",
-    "polon"
-   ],
-   "at": "2026-10-30T20:34:14.101331+00:00"
-  },
-  {
-   "fp": [
     "0",
     "4",
     "depla",
@@ -1772,6 +1761,16 @@
     "umut"
    ],
    "at": "2026-11-01T08:10:46.065935+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "hazır",
+    "kurul",
+    "olağa",
+    "parti"
+   ],
+   "at": "2026-11-01T08:35:01.960192+00:00"
   }
  ],
  "posted": [
@@ -2441,6 +2440,19 @@
     "Habertürk: https://www.haberturk.com/spor/houston-rockets-evinde-oklahoma-city-thunder-i-devirdi-alperen-sengun-sov-yapti-3924065",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/alperen-sengun-triple-double-i-kil-payi-kacirdi-rockets-thunder-i-maglup-etti-2552146"
    ]
+  },
+  {
+   "id": "abdb3468ed",
+   "post_id": "529346797199852_1454276806812027",
+   "title": "YENİ Parti 1. Olağan Kurultayı'na hazırlanıyor: Takvim nasıl işleyecek?",
+   "at": "2026-11-01T08:35:01.960192+00:00",
+   "yazim": "claude",
+   "metin": "YENİ Parti ilk olağan kurultayını 14-15 Kasım'da yapacak.\n\n— Kurultayda 1000'i aşkın delege genel başkanı, 80 kişilik Parti Meclisi'ni ve 15 kişilik Yüksek Disiplin Kurulu'nu seçecek.\n— Genel Başkan Özgür Özel, 8 Kasım'da 81 ilde yapılacak ön seçimde üyelerin oyuyla yeniden aday olacak. Tek aday olması bekleniyor.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberler-yeni-parti-de-1-olagan-kurultay-icin-hazirliklar-suruyor-3924079",
+    "BirGün: https://www.birgun.net/haber/yeni-parti-1-olagan-kurultayi-na-hazirlaniyor-takvim-nasil-isleyecek-743823",
+    "Karar: https://www.karar.com/guncel-haberler/yeni-partinin-ilk-olagan-kurultayi-14-15-kasimda-yapilacak-2081735"
+   ]
   }
  ],
  "fails": {
@@ -2489,7 +2501,7 @@
   "aca81dde82": 1,
   "be2543cb9d": 2,
   "777c81b241": 2,
-  "af97e65696": 1,
+  "af97e65696": 2,
   "0ef673e36f": 1
  }
 }
