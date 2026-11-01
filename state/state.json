@@ -2,18 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bitec",
-    "erece",
-    "iran",
-    "savaş",
-    "sona",
-    "trump",
-    "yakın"
-   ],
-   "at": "2026-10-30T19:42:57.710416+00:00"
-  },
-  {
-   "fp": [
     "anaya",
     "bastı",
     "cumhu",
@@ -1635,6 +1623,74 @@
     "tuttu"
    ],
    "at": "2026-11-01T07:42:24.135724+00:00"
+  },
+  {
+   "fp": [
+    "alkol",
+    "anlar",
+    "aracı",
+    "bahçe",
+    "bastı",
+    "düştü",
+    "fren",
+    "gaza",
+    "kamer",
+    "otomo",
+    "sürüc",
+    "yerin"
+   ],
+   "at": "2026-11-01T07:45:59.189268+00:00"
+  },
+  {
+   "fp": [
+    "başın",
+    "bulga",
+    "cumhu",
+    "daki",
+    "gitti",
+    "ikinc",
+    "sandı",
+    "seçim",
+    "traky",
+    "turu",
+    "vatan",
+    "çifte"
+   ],
+   "at": "2026-11-01T07:46:31.642543+00:00"
+  },
+  {
+   "fp": [
+    "damga",
+    "derbi",
+    "gecey",
+    "milan",
+    "morei",
+    "vurdu"
+   ],
+   "at": "2026-11-01T07:46:40.274021+00:00"
+  },
+  {
+   "fp": [
+    "100",
+    "1000",
+    "19",
+    "78",
+    "bahçe",
+    "ilçe"
+   ],
+   "at": "2026-11-01T07:46:47.819504+00:00"
+  },
+  {
+   "fp": [
+    "alper",
+    "doubl",
+    "rocke",
+    "thund",
+    "tripl",
+    "yakla",
+    "şengü"
+   ],
+   "at": "2026-11-01T07:47:02.061635+00:00"
   }
  ],
  "posted": [
@@ -2291,6 +2347,19 @@
     "Habertürk: https://www.haberturk.com/gundem/bagcilar-da-4-bina-tahliye-edildi-3924037",
     "BirGün: https://www.birgun.net/haber/bagcilar-da-insaat-calismasi-sonrasi-binalarda-catlaklar-olustu-4-bina-tahliye-edildi-743788"
    ]
+  },
+  {
+   "id": "80a288cee4",
+   "post_id": "529346797199852_1454243606815347",
+   "title": "Alperen Şengün 'triple-double'ı kıl payı kaçırdı: Rockets, Thunder'ı mağlup etti",
+   "at": "2026-11-01T07:47:02.061635+00:00",
+   "yazim": "claude",
+   "metin": "Alperen Şengün triple-double'ı kıl payı kaçırdı, Rockets Thunder'ı 119-98 yendi.\n\n— Şengün 16 sayı, 9 ribaunt, 9 asist ve 1 blokla oynadı.\n— Rockets bu sezonki 6. galibiyetini aldı. Thunder'da Shai Gilgeous-Alexander 26 sayı attı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-triple-doublea-yaklastigi-macta-thunderi-yendi/4107758",
+    "Habertürk: https://www.haberturk.com/spor/houston-rockets-evinde-oklahoma-city-thunder-i-devirdi-alperen-sengun-sov-yapti-3924065",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/alperen-sengun-triple-double-i-kil-payi-kacirdi-rockets-thunder-i-maglup-etti-2552146"
+   ]
   }
  ],
  "fails": {
@@ -2337,14 +2406,10 @@
   "3870a10f2f": 1,
   "43064be2b3": 1,
   "aca81dde82": 1,
-  "c69bd64280": 2,
-  "9eeee977f8": 2,
-  "bbdb17a428": 2,
-  "3897752d77": 2,
   "be2543cb9d": 2,
-  "713202d8a0": 1,
-  "54e1f463ef": 1,
-  "301e97beea": 1,
-  "551dfb3b9a": 1
+  "713202d8a0": 2,
+  "54e1f463ef": 2,
+  "301e97beea": 2,
+  "551dfb3b9a": 2
  }
 }
