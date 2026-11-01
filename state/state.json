@@ -1771,6 +1771,35 @@
     "parti"
    ],
    "at": "2026-11-01T08:35:01.960192+00:00"
+  },
+  {
+   "fp": [
+    "dan",
+    "dava",
+    "edenl",
+    "emre",
+    "hakar",
+    "hukuk",
+    "kınay"
+   ],
+   "at": "2026-11-01T08:47:32.140889+00:00"
+  },
+  {
+   "fp": [
+    "başlı",
+    "başvu",
+    "kredi",
+    "nefes",
+    "tobb"
+   ],
+   "at": "2026-11-01T08:47:47.108428+00:00"
+  },
+  {
+   "fp": [
+    "hafta",
+    "tbmm"
+   ],
+   "at": "2026-11-01T08:47:58.456820+00:00"
   }
  ],
  "posted": [
@@ -2453,6 +2482,18 @@
     "BirGün: https://www.birgun.net/haber/yeni-parti-1-olagan-kurultayi-na-hazirlaniyor-takvim-nasil-isleyecek-743823",
     "Karar: https://www.karar.com/guncel-haberler/yeni-partinin-ilk-olagan-kurultayi-14-15-kasimda-yapilacak-2081735"
    ]
+  },
+  {
+   "id": "e289e0ff70",
+   "post_id": "529346797199852_1454286016811106",
+   "title": "TBMM’de bu hafta neler görüşülecek?",
+   "at": "2026-11-01T08:47:58.456820+00:00",
+   "yazim": "claude",
+   "metin": "Meclis'te bu hafta Kızılay yasası ve bütçe görüşülecek.\n\n— Genel Kurul'da Türk Kızılay Kanun Teklifi'nin görüşmeleri sürecek.\n— Mekke Anlaşması'na ilişkin kanun teklifinin de gündeme gelmesi bekleniyor.\n— Plan ve Bütçe Komisyonu, Hazine ve Maliye Bakanlığı dahil beş bakanlığın 2027 bütçesini ele alacak.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/tbmmde-bu-hafta-butce-ve-kanun-teklifi-mesaisi-961865.html",
+    "BirGün: https://www.birgun.net/haber/tbmmde-bu-hafta-neler-gorusulecek-743821"
+   ]
   }
  ],
  "fails": {
@@ -2500,8 +2541,7 @@
   "43064be2b3": 1,
   "aca81dde82": 1,
   "be2543cb9d": 2,
-  "777c81b241": 2,
-  "af97e65696": 2,
-  "0ef673e36f": 1
+  "0ef673e36f": 2,
+  "1ed71362f6": 1
  }
 }
