@@ -2,26 +2,6 @@
  "seen": [
   {
    "fp": [
-    "den",
-    "erdoğ",
-    "görüş",
-    "kriti",
-    "ortak",
-    "zelen",
-    "zirve"
-   ],
-   "at": "2026-10-31T20:11:21.405156+00:00"
-  },
-  {
-   "fp": [
-    "arnav",
-    "sürüy",
-    "öğren"
-   ],
-   "at": "2026-10-31T20:28:01.030059+00:00"
-  },
-  {
-   "fp": [
     "ateşk",
     "değer",
     "karad",
@@ -1622,6 +1602,28 @@
     "tekni"
    ],
    "at": "2026-11-02T08:07:37.225164+00:00"
+  },
+  {
+   "fp": [
+    "32",
+    "41",
+    "fetö",
+    "ilde",
+    "opera",
+    "tutuk",
+    "şüphe"
+   ],
+   "at": "2026-11-02T08:43:21.423504+00:00"
+  },
+  {
+   "fp": [
+    "45",
+    "donci",
+    "laker",
+    "luka",
+    "rapto"
+   ],
+   "at": "2026-11-02T08:43:36.511680+00:00"
   }
  ],
  "posted": [
@@ -2754,6 +2756,19 @@
     "Karar: https://www.karar.com/spor-haberleri/fenerbahcenin-yeni-teknik-adami-belli-oldu-1-2081863",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/fenerbahcenin-yeni-teknik-direktoru-belli-oldu-jorge-jesus-aziz-yildirima-gencligimi-goruyorum-demisti-43362868"
    ]
+  },
+  {
+   "id": "0d0b847ca2",
+   "post_id": "529346797199852_1455237060049335",
+   "title": "Luka Doncic, 45 sayıyla yıldızlaştı: Lakers, Raptors'ı devirdi",
+   "at": "2026-11-02T08:43:36.511680+00:00",
+   "yazim": "claude",
+   "metin": "Luka Doncic 45 sayı attı, Lakers Raptors'ı 131-125 yendi.\n\n— Doncic 15 ribaunt, 6 asist ve 5 top çalmayla da öne çıktı.\n— Lakers sezonun beşinci maçını kazandı. Austin Reaves 19 sayı attı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/nba/luka-doncic-yine-sihrini-konusturdu-lakers-kazandi-3487718",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/luka-doncic-45-sayiyla-yildizlasti-lakers-raptors-i-devirdi-2552413",
+    "BirGün: https://www.birgun.net/haber/luka-doncicten-45-sayi-lakers-raptorsi-maglup-etti-743965"
+   ]
   }
  ],
  "fails": {
@@ -2851,11 +2866,11 @@
   "dc1e8d68c3": 2,
   "b78bfa4c2f": 1,
   "fc33117ed9": 1,
-  "974132652d": 2,
   "4b8bd9e53b": 1,
   "8b79527dfe": 1,
   "b3580c720f": 2,
   "98994085e4": 1,
-  "e9494c301c": 1
+  "e9494c301c": 1,
+  "19e3d049a8": 1
  }
 }
