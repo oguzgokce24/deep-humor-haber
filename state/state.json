@@ -1474,6 +1474,14 @@
     "ısınm"
    ],
    "at": "2026-11-02T06:10:08.444902+00:00"
+  },
+  {
+   "fp": [
+    "7",
+    "yaral",
+    "zinci"
+   ],
+   "at": "2026-11-02T06:27:10.968624+00:00"
   }
  ],
  "posted": [
@@ -2526,6 +2534,18 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-uyari-kuvvetli-saganak-yagmur-etkili-olacak-2-kasim-hava-durumu-3924198",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-2-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2552365"
    ]
+  },
+  {
+   "id": "c0ced57262",
+   "post_id": "529346797199852_1455154826724225",
+   "title": "Ankara-Kırıkkale kara yolunda zincirleme trafik kazası: 7 yaralı",
+   "at": "2026-11-02T06:27:10.968624+00:00",
+   "yazim": "claude",
+   "metin": "Ankara-Kırıkkale kara yolunda zincirleme kazada 7 kişi yaralandı.\n\n— Yaralılar arasında çocuklar da var.\n— Sağlık ekipleri ilk müdahaleyi yaptı, yaralılar ambulanslarla hastaneye götürüldü.\n— Kaza nedeniyle yolda araç kuyrukları oluştu.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/zincirleme-kazada-4-arac-birbirine-girdi-7-yarali-961920.html",
+    "Sözcü: https://www.sozcu.com.tr/ankara-kirikkale-kara-yolunda-zincirleme-trafik-kazasi-7-yarali-p375047"
+   ]
   }
  ],
  "fails": {
@@ -2606,7 +2626,8 @@
   "29ebcf492b": 2,
   "16d02b624c": 2,
   "d803834894": 2,
-  "65586948f2": 1,
-  "9918b1ed3e": 1
+  "65586948f2": 2,
+  "9918b1ed3e": 1,
+  "0e2e5db7df": 1
  }
 }
