@@ -1491,6 +1491,107 @@
     "ukray"
    ],
    "at": "2026-11-02T07:40:48.985370+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "baskı",
+    "carls",
+    "dan",
+    "dünya",
+    "gazet",
+    "iddia",
+    "iran",
+    "netan",
+    "nükle",
+    "saldı",
+    "sarsa",
+    "trump",
+    "tucke"
+   ],
+   "at": "2026-11-02T07:53:42.320406+00:00"
+  },
+  {
+   "fp": [
+    "avrup",
+    "bakan",
+    "den",
+    "dışiş",
+    "eski",
+    "iranl",
+    "mutta",
+    "savaş",
+    "sıçra",
+    "uyarı"
+   ],
+   "at": "2026-11-02T07:53:49.990483+00:00"
+  },
+  {
+   "fp": [
+    "açıkl",
+    "dem",
+    "den",
+    "kent",
+    "parti",
+    "seçil",
+    "uzlaş",
+    "üyele"
+   ],
+   "at": "2026-11-02T07:53:57.752699+00:00"
+  },
+  {
+   "fp": [
+    "22",
+    "geçmi",
+    "gözal",
+    "ilaçl",
+    "kanse",
+    "opera",
+    "piyas",
+    "tarih"
+   ],
+   "at": "2026-11-02T07:54:05.864891+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "anlaş",
+    "kanad",
+    "olduk",
+    "ticar",
+    "trump",
+    "varma",
+    "yakın"
+   ],
+   "at": "2026-11-02T07:54:22.658068+00:00"
+  },
+  {
+   "fp": [
+    "belir",
+    "botu",
+    "gelir",
+    "grok",
+    "kıyas",
+    "maliy",
+    "musk",
+    "seviy",
+    "sürdü",
+    "yapay",
+    "zeka"
+   ],
+   "at": "2026-11-02T07:54:40.004694+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "ayda",
+    "engel",
+    "erişi",
+    "hesab",
+    "iföd",
+    "iki"
+   ],
+   "at": "2026-11-02T07:54:48.006167+00:00"
   }
  ],
  "posted": [
@@ -2595,6 +2696,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/rusya-ukrayna-hattinda-yeni-gelisme-kremlin-den-gorusme-sinyali-2552385",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/oleskide-ateskes-sona-erdi-43362842"
    ]
+  },
+  {
+   "id": "4b8bd9e53b",
+   "post_id": "529346797199852_1455207360052305",
+   "title": "İFÖD'den sansür raporu: İki ayda 2 bin 137 X hesabına erişim engeli",
+   "at": "2026-11-02T07:54:48.006167+00:00",
+   "yazim": "claude",
+   "metin": "İFÖD'e göre iki ayda 2 bin 137 X hesabı erişime engellendi.\n\n— Eylül'de 1.270, ekimde 867 hesap engellendi.\n— Gazeteciler, akademisyenler, siyasi partiler ve Halk TV, T24 gibi büyük hesaplar da listede.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ifod-den-sansur-raporu-iki-ayda-2-bin-137-x-hesabina-erisim-engeli-2552387",
+    "Evrensel: https://www.evrensel.net/haber/6007614/ifod-duyurdu-eylul-ayinda-1270-ekim-ayinda-867-x-hesabi-erisime-engellendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Diken: https://www.diken.com.tr/ifod-iki-ayda-2-bini-askin-x-hesabi-erisime-engellendi/?utm_source=rss&utm_medium=rss&utm_campaign=ifod-iki-ayda-2-bini-askin-x-hesabi-erisime-engellendi"
+   ]
   }
  ],
  "fails": {
@@ -2689,18 +2803,15 @@
   "3f0c382a01": 1,
   "291edacee2": 1,
   "fff7874e4c": 1,
-  "46b6449680": 2,
-  "a5a677edef": 2,
-  "3aefb221bd": 2,
   "dc1e8d68c3": 2,
   "b78bfa4c2f": 1,
-  "1ffbd73251": 2,
-  "640feb60d3": 2,
-  "d27913b521": 2,
-  "92a6c58fbb": 1,
+  "92a6c58fbb": 2,
   "fc33117ed9": 1,
-  "974132652d": 1,
+  "974132652d": 2,
   "4b8bd9e53b": 1,
-  "8b79527dfe": 1
+  "8b79527dfe": 1,
+  "b3580c720f": 1,
+  "98994085e4": 1,
+  "e9494c301c": 1
  }
 }
