@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ateşk",
-    "değer",
-    "karad",
-    "nin",
-    "rubio",
-    "sevki",
-    "tahıl",
-    "tekli",
-    "türki"
-   ],
-   "at": "2026-10-31T21:11:26.826060+00:00"
-  },
-  {
-   "fp": [
-    "adım",
-    "anaya",
-    "atmay",
-    "başba",
-    "geri",
-    "krizi",
-    "mahke",
-    "polon",
-    "suçla",
-    "tusk"
-   ],
-   "at": "2026-10-31T21:19:09.481509+00:00"
-  },
-  {
-   "fp": [
-    "abdul",
-    "geçti",
-    "imral",
-    "mitha",
-    "sanca",
-    "yere",
-    "öcala"
-   ],
-   "at": "2026-10-31T21:19:18.602862+00:00"
-  },
-  {
-   "fp": [
     "atand",
     "atcı",
     "başka",
@@ -1654,6 +1613,18 @@
     "özetl"
    ],
    "at": "2026-11-02T09:09:21.926085+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "giriş",
+    "kaza",
+    "köprü",
+    "nde",
+    "temmu",
+    "şehit"
+   ],
+   "at": "2026-11-02T09:22:00.544668+00:00"
   }
  ],
  "posted": [
@@ -2827,6 +2798,22 @@
     "CNN Türk: https://www.cnnturk.com/ekonomi/rekabet-kurumundan-googlein-yapay-zeka-ozetlerine-yonelik-tedbir-karari-3487726",
     "BirGün: https://www.birgun.net/haber/rekabet-kurumu-ndan-google-in-yapay-zeka-ozetleri-hakkinda-gecici-tedbir-karari-743998"
    ]
+  },
+  {
+   "id": "6425a69c21",
+   "post_id": "529346797199852_1455262136713494",
+   "title": "15 Temmuz Şehitler Köprüsü'nde iki otomobil çarpıştı: Müdahale sürüyor",
+   "at": "2026-11-02T09:22:00.544668+00:00",
+   "yazim": "claude",
+   "metin": "15 Temmuz Şehitler Köprüsü'nün Anadolu Yakası girişinde kaza oldu.\n\nHaberlere göre karışan otomobil sayısı farklı: bir habere göre dört, diğerine göre iki araç.\n\nEkipler müdahale ediyor. Bölgede trafik yoğun.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/15-temmuz-sehitler-koprusu-girisinde-kaza-7692551",
+    "CNN Türk: https://www.cnnturk.com/turkiye/15-temmuz-sehitler-koprusu-girisinde-trafigi-kitleyen-kaza-3487782",
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusu-girisinde-kaza-1749020",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberler-istanbul-da-15-temmuz-sehitler-koprusu-girisinde-kaza-meydana-geldi-3924283",
+    "Karar: https://www.karar.com/guncel-haberler/15-temmuz-sehitler-koprusunde-iki-otomobil-carpisti-mudahale-suruyor-2081881",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/15-temmuz-sehitler-koprusu-girisinde-kaza-7692551"
+   ]
   }
  ],
  "fails": {
@@ -2931,7 +2918,7 @@
   "e9494c301c": 1,
   "19e3d049a8": 2,
   "71ae780624": 1,
-  "a113d65e54": 1,
+  "a113d65e54": 2,
   "f2ae5f6eca": 1
  }
 }
