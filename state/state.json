@@ -2304,6 +2304,23 @@
     "tcmb"
    ],
    "at": "2026-11-02T14:42:33.322540+00:00"
+  },
+  {
+   "fp": [
+    "02",
+    "2",
+    "2026",
+    "60",
+    "bugün",
+    "faizl",
+    "kampa",
+    "kasım",
+    "kredi",
+    "nissa",
+    "saniy",
+    "sıfır"
+   ],
+   "at": "2026-11-02T14:55:17.445171+00:00"
   }
  ],
  "posted": [
@@ -3676,6 +3693,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/tcmb-rezervlerinde-buyuk-erime-dusus-serisi-uc-haftaya-cikti-2552581",
     "Karar: https://www.karar.com/ekonomi-haberleri/tcmb-rezervlerinde-dusus-serisi-suruyor-2081934"
    ]
+  },
+  {
+   "id": "ba7883acf9",
+   "post_id": "529346797199852_1455521386687569",
+   "title": "Nissan X-Trail Kasım 2026 kampanyası açıklandı: 2 milyon TL sıfır faizli kredi",
+   "at": "2026-11-02T14:55:17.445171+00:00",
+   "yazim": "claude",
+   "metin": "Nissan X-Trail için Kasım kampanyası açıklandı.\n\nKampanyada 2 milyon TL'lik sıfır faizli kredi fırsatı var. Kredinden kimlerin yararlanabileceği de merak ediliyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-kasim-2026/4108828",
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-02-kasim-2026/4108825",
+    "Habertürk: https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-2-kasim-2026-haberleri-fon-sorusturmasinda-183-milyar-tllik-iade-dogum-izni-donusundeki-magduriyete-yargitay-dur-dedi-dem-partiden-kent-uzlasisi-aciklamasi/921931",
+    "BirGün: https://www.birgun.net/haber/nissan-x-trail-kasim-2026-kampanyasi-aciklandi-2-milyon-tl-sifir-faizli-kredi-744065",
+    "BirGün: https://www.birgun.net/haber/nissan-juke-kasim-2026-kampanyasi-aciklandi-fiyat-ve-sifir-faizli-kredi-firsati-744059"
+   ]
   }
  ],
  "fails": {
@@ -3820,6 +3852,7 @@
   "c5c08054d1": 2,
   "2ef114ecf5": 2,
   "d4b5dbcfa8": 2,
-  "0e47046480": 1
+  "0e47046480": 1,
+  "532a879b5d": 1
  }
 }
