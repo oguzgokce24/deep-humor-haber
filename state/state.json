@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "fener",
-    "ortod",
-    "patri",
-    "rum",
-    "zelen",
-    "ziyar"
-   ],
-   "at": "2026-10-31T22:43:16.884597+00:00"
-  },
-  {
-   "fp": [
     "10",
     "15",
     "den",
@@ -1689,6 +1678,37 @@
     "yerle"
    ],
    "at": "2026-11-02T10:37:13.779991+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "abd",
+    "anket",
+    "ara",
+    "açıkl",
+    "dhbt",
+    "düzen",
+    "kpss",
+    "nasıl",
+    "nered",
+    "seçim",
+    "sonuç",
+    "sorgu",
+    "sınav",
+    "yarın",
+    "zaman"
+   ],
+   "at": "2026-11-02T10:51:03.114236+00:00"
+  },
+  {
+   "fp": [
+    "210",
+    "buzağ",
+    "telef",
+    "yangı",
+    "çiftl"
+   ],
+   "at": "2026-11-02T10:51:08.104209+00:00"
   }
  ],
  "posted": [
@@ -2934,6 +2954,18 @@
     "Evrensel: https://www.evrensel.net/haber/6007638/mugla-bodrumda-kuvvetli-saganak-ev-ve-is-yerlerini-su-basti-otomobil-denize-suruklendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/bodrumda-yagis-sele-donustu-ev-ve-is-yerlerini-su-basti-otomobil-denize-suruklendi-7692530"
    ]
+  },
+  {
+   "id": "8a215e1bf7",
+   "post_id": "529346797199852_1455326196707088",
+   "title": "Kırklareli'nde çiftlik yangını felaketi: 210 buzağı telef oldu",
+   "at": "2026-11-02T10:51:08.104209+00:00",
+   "yazim": "claude",
+   "metin": "Kırklareli'nde bir hayvan çiftliğinde çıkan yangında 210 buzağı öldü.\n\n— Yangın Değirmencik köyündeki çiftlikte çıktı, rüzgarın da etkisiyle alevler hızla yayıldı.\n— İtfaiye ekipleri yangını söndürdü. Yangının nedeni henüz belli değil, inceleme başlatıldı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/hayvan-ciftliginde-yangin-cikti-210-buzagi-telef-oldu-961949.html",
+    "Karar: https://www.karar.com/sehir-haberleri/kirklarelinde-ciftlik-yangini-felaketi-210-buzagi-telef-oldu-2081918"
+   ]
   }
  ],
  "fails": {
@@ -3049,7 +3081,6 @@
   "47274a152d": 2,
   "0feaa4b500": 2,
   "61449e22a2": 2,
-  "feb2ead8f2": 2,
   "ec1dc896b5": 1,
   "7b154aa319": 2,
   "4f3ebcc694": 2,
@@ -3061,15 +3092,20 @@
   "6cf8ad7e8a": 1,
   "126ad1840e": 1,
   "cef2f6530b": 2,
-  "5991989406": 1,
+  "5991989406": 2,
   "5db7feb7f8": 1,
   "d65ab66d4e": 2,
   "dc489ae309": 1,
   "1a46a2d201": 1,
   "0205305ab5": 1,
   "c28cb04217": 1,
-  "20713597fe": 1,
-  "171ef68962": 1,
-  "b6e3d7a10d": 1
+  "20713597fe": 2,
+  "171ef68962": 2,
+  "b6e3d7a10d": 2,
+  "970500fa42": 1,
+  "05e1911375": 1,
+  "aa890a268c": 1,
+  "4ea99395eb": 1,
+  "0918c21b04": 1
  }
 }
