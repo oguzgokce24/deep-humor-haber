@@ -2200,6 +2200,28 @@
     "şiir"
    ],
    "at": "2026-11-02T13:15:39.900445+00:00"
+  },
+  {
+   "fp": [
+    "20",
+    "husil",
+    "lahic",
+    "merke",
+    "saldı",
+    "sağlı",
+    "sivil",
+    "yaral",
+    "öldü"
+   ],
+   "at": "2026-11-02T13:19:15.936005+00:00"
+  },
+  {
+   "fp": [
+    "izmir",
+    "kapla",
+    "sis"
+   ],
+   "at": "2026-11-02T13:19:24.487436+00:00"
   }
  ],
  "posted": [
@@ -3529,6 +3551,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/ismail-jakobs-yarin-mutlaka-kazanmamiz-gerekiyor-2552503",
     "Karar: https://www.karar.com/spor-haberleri/ismail-jakobs-mutlaka-kazanmamiz-gerekiyor-2081942"
    ]
+  },
+  {
+   "id": "70af4210ab",
+   "post_id": "529346797199852_1455443353362039",
+   "title": "İzmir'i sis bürüdü!",
+   "at": "2026-11-02T13:19:24.487436+00:00",
+   "yazim": "claude",
+   "metin": "Meteoroloji İzmir'in merkez ve ilçeleri için gök gürültülü sağanak uyarısı yaptı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmiri-sis-kapladi-3487915",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmiri-sis-kapladi-3487914",
+    "Sözcü: https://www.sozcu.com.tr/izmirde-yagmurun-ardindan-sis-etkili-oldu-p375280",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/izmirde-yagmur-ve-sis-ayni-anda-etkisini-gosterdi-4869147"
+   ]
   }
  ],
  "fails": {
@@ -3667,6 +3703,6 @@
   "a8d0c551a7": 2,
   "c809db5d86": 2,
   "4914092c19": 1,
-  "c0dbf7df19": 2
+  "93ee1b843d": 1
  }
 }
