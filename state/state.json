@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "balis",
-    "başlı",
-    "bomba",
-    "füzel",
-    "kore",
-    "kuzey",
-    "miske",
-    "takti",
-    "test"
-   ],
-   "at": "2026-11-01T07:59:43.095479+00:00"
-  },
-  {
-   "fp": [
-    "15",
-    "başla",
-    "devle",
-    "doğru",
-    "girdi",
-    "medya",
-    "nasıl",
-    "sosya",
-    "sınır",
-    "yapıl",
-    "yaş",
-    "yürür"
-   ],
-   "at": "2026-11-01T07:59:51.247512+00:00"
-  },
-  {
-   "fp": [
-    "abd",
-    "ara",
-    "seçim",
-    "trump"
-   ],
-   "at": "2026-11-01T08:00:07.445217+00:00"
-  },
-  {
-   "fp": [
-    "dan",
-    "deniz",
-    "hava",
-    "ilan",
-    "ingil",
-    "iran",
-    "kuvve",
-    "nin",
-    "terör",
-    "örgüt"
-   ],
-   "at": "2026-11-01T08:00:15.094609+00:00"
-  },
-  {
-   "fp": [
     "fener",
     "kötü",
     "liver",
@@ -2625,6 +2570,15 @@
     "çöktü"
    ],
    "at": "2026-11-02T19:56:49.707598+00:00"
+  },
+  {
+   "fp": [
+    "anlaş",
+    "iran",
+    "tan",
+    "trump"
+   ],
+   "at": "2026-11-02T20:00:30.997478+00:00"
   }
  ],
  "posted": [
@@ -4140,6 +4094,19 @@
     "BirGün: https://www.birgun.net/haber/mus-ta-adliye-insaatinda-is-kazasi-beton-pompasinin-altinda-kalan-2-isci-yaralandi-744122",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/musta-adliye-binasi-insaatinda-is-kazasi-2-yarali-7692830"
    ]
+  },
+  {
+   "id": "d552f44eba",
+   "post_id": "529346797199852_1455752316664476",
+   "title": "Trump'tan seçime 1 gün kala İran ile anlaşma sinyali!",
+   "at": "2026-11-02T20:00:30.997478+00:00",
+   "yazim": "claude",
+   "metin": "Donald Trump:\n\n“Onlar bir anlaşma yapmak istiyor ve bu gerçekleşebilir.”\n\nTrump, Tahran yönetiminin Washington ile anlaşmak istediğini iddia etti.\n\nBu sırada Katarlı arabulucular olası anlaşma için Tahran'a gitti. Heyet, sekiz gündür üzerinde çalışılan ABD-İran taslağının bir versiyonunu ele aldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/video/dunya/trumptan-irana-balyoz-tehdidi-3487979",
+    "Habertürk: https://www.haberturk.com/dunya/donald-trump-iran-la-anlasma-olabilir-3924430",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/trump-yeni-iran-aciklamasi-2-kasim-2026-p375358"
+   ]
   }
  ],
  "fails": {
@@ -4289,6 +4256,7 @@
   "b2f9cc9eef": 1,
   "29d7d52fcd": 1,
   "aed7b526f7": 1,
-  "d552f44eba": 1
+  "d552f44eba": 1,
+  "61adbb1338": 1
  }
 }
