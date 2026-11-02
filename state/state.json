@@ -2,21 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alarm",
-    "alınd",
-    "ekipl",
-    "geçti",
-    "harek",
-    "karan",
-    "kimya",
-    "sızın",
-    "treni",
-    "yük"
-   ],
-   "at": "2026-10-31T19:30:55.728595+00:00"
-  },
-  {
-   "fp": [
     "4",
     "afyon",
     "bina",
@@ -1495,6 +1480,17 @@
     "çıktı"
    ],
    "at": "2026-11-02T07:26:43.706960+00:00"
+  },
+  {
+   "fp": [
+    "ateşk",
+    "erdi",
+    "hattı",
+    "rusya",
+    "sona",
+    "ukray"
+   ],
+   "at": "2026-11-02T07:40:48.985370+00:00"
   }
  ],
  "posted": [
@@ -2586,6 +2582,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ekiplerden-istanbul-da-uyusturucu-operasyonu-tam-336-kilo-ele-gecirildi-2552398",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/pendikte-kamyonet-takibe-alindi-icinden-336-kilo-uyusturucu-cikti-43362925"
    ]
+  },
+  {
+   "id": "b51b6ae39f",
+   "post_id": "529346797199852_1455199053386469",
+   "title": "Rusya-Ukrayna hattında yeni gelişme: Kremlin'den görüşme sinyali",
+   "at": "2026-11-02T07:40:48.985370+00:00",
+   "yazim": "claude",
+   "metin": "Kremlin Dış Politika Danışmanı Yuriy Uşakov:\n\n“Putin, hiçbir zaman görüşmekten vazgeçmedi.”\n\nUşakov, Zelenskiy arayacak olursa Putin'in telefonu açacağını söyledi. Zelenskiy'nin Moskova'da görüşmek istediğini de hatırlatarak “Madem bu kadar görüşmek istiyor, buyursun gelsin” dedi.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-sona-erdigini-duyurdu-3924235",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/rusya-ukrayna-hattinda-yeni-gelisme-kremlin-den-gorusme-sinyali-2552385",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/oleskide-ateskes-sona-erdi-43362842"
+   ]
   }
  ],
  "fails": {
@@ -2675,18 +2684,23 @@
   "514ed721dc": 1,
   "d7bac54e4b": 1,
   "1f6bec6862": 1,
-  "8dbb91a378": 1,
+  "8dbb91a378": 2,
   "d6085cbded": 1,
   "3f0c382a01": 1,
   "291edacee2": 1,
   "fff7874e4c": 1,
-  "46b6449680": 1,
-  "a5a677edef": 1,
-  "3aefb221bd": 1,
-  "dc1e8d68c3": 1,
+  "46b6449680": 2,
+  "a5a677edef": 2,
+  "3aefb221bd": 2,
+  "dc1e8d68c3": 2,
   "b78bfa4c2f": 1,
-  "1ffbd73251": 1,
-  "640feb60d3": 1,
-  "d27913b521": 1
+  "1ffbd73251": 2,
+  "640feb60d3": 2,
+  "d27913b521": 2,
+  "92a6c58fbb": 1,
+  "fc33117ed9": 1,
+  "974132652d": 1,
+  "4b8bd9e53b": 1,
+  "8b79527dfe": 1
  }
 }
