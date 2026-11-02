@@ -1482,6 +1482,16 @@
     "zinci"
    ],
    "at": "2026-11-02T06:27:10.968624+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "başla",
+    "fiyat",
+    "hafta",
+    "yükse"
+   ],
+   "at": "2026-11-02T06:39:58.894439+00:00"
   }
  ],
  "posted": [
@@ -2546,6 +2556,18 @@
     "TRT Haber: https://www.trthaber.com/haber/turkiye/zincirleme-kazada-4-arac-birbirine-girdi-7-yarali-961920.html",
     "Sözcü: https://www.sozcu.com.tr/ankara-kirikkale-kara-yolunda-zincirleme-trafik-kazasi-7-yarali-p375047"
    ]
+  },
+  {
+   "id": "00c44f5c98",
+   "post_id": "529346797199852_1455161860056855",
+   "title": "Altın fiyatlarında yeni hafta yükselişle başladı: Gram, çeyrek ve Cumhuriyet altını ne kadar?",
+   "at": "2026-11-02T06:39:58.894439+00:00",
+   "yazim": "claude",
+   "metin": "Altın yeni haftaya yükselişle başladı.\n\n— Geçen hafta sert düşen ons altın, cuma günü 3 bin 870 dolara kadar gerilemişti.\n— Bugün sabah ons 3 bin 905 dolara çıktı.\n— İç piyasada gram altın 6 bin 268 lira, çeyrek altının satış fiyatı 10 bin 318 lira.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/ekonomi/altin-haftaya-yukselisle-basladi-iste-fiyatlar-961921.html",
+    "Evrensel: https://www.evrensel.net/haber/6007603/altin-fiyatlarinda-yeni-hafta-yukselisle-basladi-gram-ceyrek-ve-cumhuriyet-altini-ne-kadar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -2628,6 +2650,8 @@
   "d803834894": 2,
   "65586948f2": 2,
   "9918b1ed3e": 1,
-  "0e2e5db7df": 1
+  "0e2e5db7df": 1,
+  "df6c90590f": 1,
+  "dd65ef44ed": 1
  }
 }
