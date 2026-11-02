@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "15",
-    "altı",
-    "medya",
-    "sosya",
-    "yasağ",
-    "yaş"
-   ],
-   "at": "2026-10-31T22:10:26.127053+00:00"
-  },
-  {
-   "fp": [
     "fener",
     "ortod",
     "patri",
@@ -1619,6 +1608,69 @@
     "sefer"
    ],
    "at": "2026-11-02T10:08:12.168544+00:00"
+  },
+  {
+   "fp": [
+    "başlı",
+    "celse",
+    "davas",
+    "dinle",
+    "gizli",
+    "ibb",
+    "müşte",
+    "tanık",
+    "üçünc"
+   ],
+   "at": "2026-11-02T10:21:18.200852+00:00"
+  },
+  {
+   "fp": [
+    "başba",
+    "belçi",
+    "bütçe",
+    "istif",
+    "krizi",
+    "wever"
+   ],
+   "at": "2026-11-02T10:21:58.339511+00:00"
+  },
+  {
+   "fp": [
+    "50",
+    "9",
+    "akary",
+    "aşaca",
+    "bekle",
+    "otoga",
+    "zam"
+   ],
+   "at": "2026-11-02T10:22:13.972362+00:00"
+  },
+  {
+   "fp": [
+    "anket",
+    "dan",
+    "demok",
+    "feti",
+    "masum",
+    "ortam",
+    "yaptı",
+    "yıldı",
+    "zedel",
+    "çağrı",
+    "şirke"
+   ],
+   "at": "2026-11-02T10:22:22.188654+00:00"
+  },
+  {
+   "fp": [
+    "ayını",
+    "ekim",
+    "istan",
+    "zam",
+    "şampi"
+   ],
+   "at": "2026-11-02T10:24:04.607992+00:00"
   }
  ],
  "posted": [
@@ -2835,6 +2887,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-metrobus-arizasi-zincirlikuyu-da-seferler-aksadi-duraklarda-yogunluk-olustu-2552416",
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/istanbulda-metrobus-cilesi-altunizadede-yine-uzun-kuyruklar-olustu-4869058"
    ]
+  },
+  {
+   "id": "126ad1840e",
+   "post_id": "529346797199852_1455307893375585",
+   "title": "İstanbul'da ekim ayının zam ve indirim şampiyonları belli oldu!",
+   "at": "2026-11-02T10:24:04.607992+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da ekim ayında en çok zamlanan ürün salatalık oldu.\n\n— Salatalık bir önceki aya göre yüzde 50,71 pahalandı. Domates yüzde 36,98 artışla ikinci sırada.\n— En çok ucuzlayan ürün limon oldu, fiyatı yüzde 26,21 düştü.\n— İTO verilerine göre incelenen 336 üründen 231'inin fiyatı arttı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/ekonomi/istanbul-da-fiyati-en-cok-artan-urun-salatalik-en-cok-dusen-urun-limon-oldu-3924240",
+    "Sözcü: https://www.sozcu.com.tr/istanbul-da-ekim-ayinin-zam-ve-indirim-sampiyonlari-belli-oldu-p375161",
+    "BirGün: https://www.birgun.net/haber/ekim-ayinin-zam-sampiyonu-belli-oldu-743944"
+   ]
   }
  ],
  "fails": {
@@ -2941,29 +3006,33 @@
   "71ae780624": 1,
   "f2ae5f6eca": 1,
   "119d541ffc": 1,
-  "3d01b5f7fb": 2,
   "fc2c91a24c": 2,
   "6494486ac8": 1,
-  "586533a9bc": 2,
-  "fffda22d97": 2,
   "a0ad463560": 1,
-  "fbe65475b0": 2,
   "bfb02fea7f": 1,
-  "d8db690eda": 1,
-  "7043ed5332": 1,
-  "47274a152d": 1,
-  "0feaa4b500": 1,
-  "61449e22a2": 1,
-  "feb2ead8f2": 1,
+  "d8db690eda": 2,
+  "7043ed5332": 2,
+  "47274a152d": 2,
+  "0feaa4b500": 2,
+  "61449e22a2": 2,
+  "feb2ead8f2": 2,
   "ec1dc896b5": 1,
-  "7b154aa319": 1,
-  "4f3ebcc694": 1,
-  "85dbb88ced": 1,
+  "7b154aa319": 2,
+  "4f3ebcc694": 2,
+  "85dbb88ced": 2,
   "607ae4b9a0": 1,
-  "56e7b2fb5a": 1,
-  "e6799e6879": 1,
-  "a1bbe6ecd9": 1,
+  "56e7b2fb5a": 2,
+  "e6799e6879": 2,
+  "a1bbe6ecd9": 2,
   "6cf8ad7e8a": 1,
-  "126ad1840e": 1
+  "126ad1840e": 1,
+  "cef2f6530b": 1,
+  "5991989406": 1,
+  "5db7feb7f8": 1,
+  "d65ab66d4e": 1,
+  "dc489ae309": 1,
+  "1a46a2d201": 1,
+  "0205305ab5": 1,
+  "c28cb04217": 1
  }
 }
