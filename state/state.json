@@ -1724,6 +1724,37 @@
     "çocuğ"
    ],
    "at": "2026-11-02T11:02:49.449275+00:00"
+  },
+  {
+   "fp": [
+    "fener",
+    "frans",
+    "hakem",
+    "liver",
+    "maçın"
+   ],
+   "at": "2026-11-02T11:15:16.461528+00:00"
+  },
+  {
+   "fp": [
+    "edip",
+    "evden",
+    "evi",
+    "eşini",
+    "kaçan",
+    "kovdu",
+    "kızın",
+    "tehdi",
+    "uyuya",
+    "yakal",
+    "yaktı",
+    "yangı",
+    "yapar",
+    "yemek",
+    "çıktı",
+    "şüphe"
+   ],
+   "at": "2026-11-02T11:16:17.478269+00:00"
   }
  ],
  "posted": [
@@ -2997,6 +3028,22 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-boyle-arkadas-olmaz-olsun-anahtari-kopyaladilar-hatay-haberleri-3924205",
     "Sözcü: https://www.sozcu.com.tr/sokak-ortasinda-3-yasindaki-cocugunu-doven-anne-tutuklandi-p375223"
    ]
+  },
+  {
+   "id": "594ce08a87",
+   "post_id": "529346797199852_1455343990038642",
+   "title": "Eşini ve kızını tehdit edip evden kovdu: Yemek yaparken uyuyakalıp yangına neden oldu",
+   "at": "2026-11-02T11:16:17.478269+00:00",
+   "yazim": "claude",
+   "metin": "Samsun'da bir adam eşini ve kızını ölümle tehdit edip evden kovdu.\n\n— Sonra yemek pişirirken uyuyakalınca evde yangın çıktı.\n— Yangının ardından adam gözaltına alındı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/esini-ve-kizini-tehditle-kovdu-yemek-yaparken-evi-yakti-kacan-supheli-yakalandi-43363324",
+    "Milliyet: https://www.milliyet.com.tr/gundem/esini-ve-kizini-evden-kovdu-yemek-yaparken-uyuyakalinca-yangin-cikti-7692630",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/once-esini-ve-kizini-tehdit-edip-sokaga-atti-yemek-yaparken-uyuyakalinca-evi-yakti-4869097",
+    "Evrensel: https://www.evrensel.net/haber/6007654/esini-ve-kizini-tehdit-edip-evden-kovdu-yemek-yaparken-uyuyakalip-yangina-neden-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/esini-ve-kizini-evden-kovdu-yemek-yaparken-uyuyakalinca-yangin-cikti-7692630",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/esini-ve-kizini-tehditle-kovdu-yemek-yaparken-evi-yakti-kacan-supheli-yakalandi-43363324"
+   ]
   }
  ],
  "fails": {
@@ -3109,7 +3156,6 @@
   "bfb02fea7f": 1,
   "d8db690eda": 2,
   "7043ed5332": 2,
-  "47274a152d": 2,
   "0feaa4b500": 2,
   "61449e22a2": 2,
   "ec1dc896b5": 1,
@@ -3134,9 +3180,11 @@
   "171ef68962": 2,
   "b6e3d7a10d": 2,
   "970500fa42": 1,
-  "05e1911375": 1,
-  "aa890a268c": 1,
-  "4ea99395eb": 1,
-  "0918c21b04": 1
+  "05e1911375": 2,
+  "aa890a268c": 2,
+  "4ea99395eb": 2,
+  "0918c21b04": 1,
+  "8aa59935c5": 1,
+  "bd74ecb471": 1
  }
 }
