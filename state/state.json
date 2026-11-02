@@ -2579,6 +2579,18 @@
     "yerin"
    ],
    "at": "2026-11-02T17:04:45.311989+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "2026",
+    "afad",
+    "bugün",
+    "depre",
+    "kasım",
+    "nered"
+   ],
+   "at": "2026-11-02T17:18:00.977846+00:00"
   }
  ],
  "posted": [
@@ -4007,6 +4019,19 @@
     "Habertürk: https://www.haberturk.com/gundem/kayseri-nin-melikgazi-ilcesinde-cikan-is-yeri-yanginina-ekipler-mudahale-ediyor-3924412",
     "Habertürk: https://www.haberturk.com/gundem/metrobuste-korkutan-yangin-3924378"
    ]
+  },
+  {
+   "id": "9eaec633c0",
+   "post_id": "529346797199852_1455637623342612",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 02 Kasım 2026",
+   "at": "2026-11-02T17:18:00.977846+00:00",
+   "yazim": "claude",
+   "metin": "AFAD'ın son deprem verileri il il listelendi.\n\nİstanbul, Ankara ve İzmir dahil illerdeki son depremleri 2 Kasım 2026 tarihli listeden takip edebilirsiniz.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-deprem-2-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-2-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3487670",
+    "Habertürk: https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-2-kasim-2026-haberleri-fon-sorusturmasinda-183-milyar-tllik-iade-dogum-izni-donusundeki-magduriyete-yargitay-dur-dedi-dem-partiden-kent-uzlasisi-aciklamasi/921931",
+    "NTV Son Dakika: https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-02-kasim-2026-1748963"
+   ]
   }
  ],
  "fails": {
@@ -4150,7 +4175,11 @@
   "127f1f8ab4": 2,
   "a889ff5631": 2,
   "7419408236": 1,
-  "7b007bfb93": 1,
-  "ce0ac38294": 1
+  "7b007bfb93": 2,
+  "ce0ac38294": 1,
+  "a2b103ba3e": 1,
+  "c592a6613e": 1,
+  "b2f9cc9eef": 1,
+  "bba52d8f94": 1
  }
 }
