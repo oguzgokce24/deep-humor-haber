@@ -2,38 +2,6 @@
  "seen": [
   {
    "fp": [
-    "6",
-    "altın",
-    "porta",
-    "taş",
-    "tüy"
-   ],
-   "at": "2026-10-31T21:46:50.494221+00:00"
-  },
-  {
-   "fp": [
-    "alma",
-    "atama",
-    "gazet",
-    "görev",
-    "karar",
-    "resmi"
-   ],
-   "at": "2026-10-31T22:00:08.020080+00:00"
-  },
-  {
-   "fp": [
-    "alınd",
-    "başka",
-    "cvp",
-    "genel",
-    "gözal",
-    "serka"
-   ],
-   "at": "2026-10-31T22:07:05.381141+00:00"
-  },
-  {
-   "fp": [
     "15",
     "altı",
     "medya",
@@ -1640,6 +1608,17 @@
     "çoğu"
    ],
    "at": "2026-11-02T09:35:49.101709+00:00"
+  },
+  {
+   "fp": [
+    "aksad",
+    "arıza",
+    "istan",
+    "metro",
+    "oluşt",
+    "sefer"
+   ],
+   "at": "2026-11-02T10:08:12.168544+00:00"
   }
  ],
  "posted": [
@@ -2842,6 +2821,20 @@
     "Karar: https://www.karar.com/teknoloji-haberleri/openai-ceosu-yapay-zeka-artik-cogu-bilim-insanindan-daha-zeki-2081876",
     "Diken: https://www.diken.com.tr/openai-ceosu-yapay-zeka-cogu-bilim-insanindan-daha-zeki/?utm_source=rss&utm_medium=rss&utm_campaign=openai-ceosu-yapay-zeka-cogu-bilim-insanindan-daha-zeki"
    ]
+  },
+  {
+   "id": "61c22f3de9",
+   "post_id": "529346797199852_1455297380043303",
+   "title": "Beşiktaş'ta arızalanan metrobüs nedeniyle seferler aksadı",
+   "at": "2026-11-02T10:08:12.168544+00:00",
+   "yazim": "claude",
+   "metin": "Beşiktaş'ta arızalanan metrobüs yüzünden seferler aksadı.\n\n— Avcılar yönüne giden metrobüs, Zincirlikuyu Durağı yakınında yolda kaldı.\n— Araç yolu kapattı, metrobüs kuyruğu oluştu ve duraklarda yolcular birikti.\n— Arızalı aracın kaldırılmasıyla seferler yeniden normale döndü.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-metrobus-arizasi-961939.html",
+    "Sözcü: https://www.sozcu.com.tr/besiktasta-arizalanan-metrobus-nedeniyle-seferler-aksadi-p375125",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-metrobus-arizasi-zincirlikuyu-da-seferler-aksadi-duraklarda-yogunluk-olustu-2552416",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/istanbulda-metrobus-cilesi-altunizadede-yine-uzun-kuyruklar-olustu-4869058"
+   ]
   }
  ],
  "fails": {
@@ -2948,12 +2941,29 @@
   "71ae780624": 1,
   "f2ae5f6eca": 1,
   "119d541ffc": 1,
-  "3d01b5f7fb": 1,
-  "fc2c91a24c": 1,
+  "3d01b5f7fb": 2,
+  "fc2c91a24c": 2,
   "6494486ac8": 1,
-  "586533a9bc": 1,
-  "fffda22d97": 1,
+  "586533a9bc": 2,
+  "fffda22d97": 2,
   "a0ad463560": 1,
-  "fbe65475b0": 1
+  "fbe65475b0": 2,
+  "bfb02fea7f": 1,
+  "d8db690eda": 1,
+  "7043ed5332": 1,
+  "47274a152d": 1,
+  "0feaa4b500": 1,
+  "61449e22a2": 1,
+  "feb2ead8f2": 1,
+  "ec1dc896b5": 1,
+  "7b154aa319": 1,
+  "4f3ebcc694": 1,
+  "85dbb88ced": 1,
+  "607ae4b9a0": 1,
+  "56e7b2fb5a": 1,
+  "e6799e6879": 1,
+  "a1bbe6ecd9": 1,
+  "6cf8ad7e8a": 1,
+  "126ad1840e": 1
  }
 }
