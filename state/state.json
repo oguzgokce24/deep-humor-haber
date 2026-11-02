@@ -2,29 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bıçak",
-    "düğün",
-    "kavga",
-    "kişi",
-    "küçük",
-    "salon"
-   ],
-   "at": "2026-11-01T07:08:57.232953+00:00"
-  },
-  {
-   "fp": [
-    "akom",
-    "dan",
-    "düşüş",
-    "istan",
-    "sağan",
-    "sıcak",
-    "uyarı"
-   ],
-   "at": "2026-11-01T07:09:13.124695+00:00"
-  },
-  {
-   "fp": [
     "3",
     "6",
     "dolar",
@@ -2694,6 +2671,18 @@
     "şüphe"
    ],
    "at": "2026-11-02T19:06:28.631707+00:00"
+  },
+  {
+   "fp": [
+    "duyur",
+    "msb",
+    "oğuz",
+    "uzman",
+    "çavuş",
+    "şahin",
+    "şehit"
+   ],
+   "at": "2026-11-02T19:09:59.607760+00:00"
   }
  ],
  "posted": [
@@ -4181,6 +4170,19 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-haberi-kayseride-plastik-urun-magazasinda-yangin-3487966",
     "Habertürk: https://www.haberturk.com/gundem/kayseri-nin-melikgazi-ilcesinde-cikan-is-yeri-yanginina-ekipler-mudahale-ediyor-3924412",
     "Sözcü: https://www.sozcu.com.tr/kayseri-de-plastik-ve-zuccaciye-magazasinda-yangin-p375341"
+   ]
+  },
+  {
+   "id": "aed7b526f7",
+   "post_id": "529346797199852_1455719876667720",
+   "title": "MSB duyurdu: Piyade Uzman Çavuş Oğuz Şahin şehit oldu",
+   "at": "2026-11-02T19:09:59.607760+00:00",
+   "yazim": "claude",
+   "metin": "Piyade Uzman Çavuş Oğuz Şahin şehit oldu.\n\n— Van'ın Çaldıran ilçesinde, Alparslan Hudut Karakolu sorumluluk sahasında rahatsızlanmıştı.\n— Milli Savunma Bakanlığı, 2 Kasım 2026'da şehit olduğunu açıkladı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/oguz-sahin-sehit-oldu-p375351",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/msb-duyurdu-piyade-uzman-cavus-oguz-sahin-sehit-oldu-2552638",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/vanda-gorev-yapan-uzman-cavus-rahatsizlanarak-sehit-oldu-4869215"
    ]
   }
  ],
