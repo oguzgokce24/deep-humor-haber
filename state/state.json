@@ -1639,6 +1639,21 @@
     "şampi"
    ],
    "at": "2026-11-02T08:56:29.090768+00:00"
+  },
+  {
+   "fp": [
+    "geçic",
+    "googl",
+    "karar",
+    "kurum",
+    "ndan",
+    "rekab",
+    "tedbi",
+    "yapay",
+    "zeka",
+    "özetl"
+   ],
+   "at": "2026-11-02T09:09:21.926085+00:00"
   }
  ],
  "posted": [
@@ -2799,6 +2814,19 @@
     "Evrensel: https://www.evrensel.net/haber/6007615/uefa-sampiyonlar-ligi-nde-4-uncu-hafta-maclari-yarin-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/sampiyonlar-liginde-4-uncu-haftanin-programi-743959"
    ]
+  },
+  {
+   "id": "8e2e051919",
+   "post_id": "529346797199852_1455254070047634",
+   "title": "Rekabet Kurumu'ndan Google'ın yapay zeka özetleri hakkında geçici tedbir kararı",
+   "at": "2026-11-02T09:09:21.926085+00:00",
+   "yazim": "claude",
+   "metin": "Rekabet Kurumu, Google'ın yapay zekâ özetleriyle ilgili geçici tedbir kararı aldı.\n\n— Google, haber sitelerini yapay zekâ sistemine dahil olmaya zorlayamayacak.\n— Kurum, özetlerin doğrudan arama ekranında sunulmasının haber sitelerinin ziyaretçi trafiğini etkileyip etkilemediğine bakacak.\n— Ayrıca içerik lisanslarında ayrımcılık yapılıp yapılmadığını inceleyecek.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/bilim-teknoloji/rekabet-kurulundan-googlein-yapay-zeka-hizmetlerine-sorusturma-ve-gecici-tedbir-karari/4108501",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/rekabet-kurumundan-googlein-yapay-zeka-ozetlerine-yonelik-tedbir-karari-3487726",
+    "BirGün: https://www.birgun.net/haber/rekabet-kurumu-ndan-google-in-yapay-zeka-ozetleri-hakkinda-gecici-tedbir-karari-743998"
+   ]
   }
  ],
  "fails": {
@@ -2902,6 +2930,8 @@
   "98994085e4": 1,
   "e9494c301c": 1,
   "19e3d049a8": 2,
-  "71ae780624": 1
+  "71ae780624": 1,
+  "a113d65e54": 1,
+  "f2ae5f6eca": 1
  }
 }
