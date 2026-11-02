@@ -2557,6 +2557,40 @@
     "zorlu"
    ],
    "at": "2026-11-02T20:34:03.637750+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "abd",
+    "acele",
+    "anlaş",
+    "açıkl",
+    "basın",
+    "başka",
+    "geliş",
+    "ileti",
+    "iran",
+    "kala",
+    "savaş",
+    "seçim",
+    "tan",
+    "trump",
+    "yok"
+   ],
+   "at": "2026-11-02T20:40:52.077225+00:00"
+  },
+  {
+   "fp": [
+    "antal",
+    "düştü",
+    "etkil",
+    "eve",
+    "gök",
+    "gürül",
+    "sağan",
+    "yıldı"
+   ],
+   "at": "2026-11-02T20:41:08.333935+00:00"
   }
  ],
  "posted": [
@@ -4085,6 +4119,19 @@
     "Habertürk: https://www.haberturk.com/dunya/donald-trump-iran-la-anlasma-olabilir-3924430",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/trump-yeni-iran-aciklamasi-2-kasim-2026-p375358"
    ]
+  },
+  {
+   "id": "f571722e0d",
+   "post_id": "529346797199852_1455775863328788",
+   "title": "Antalya'da gök gürültülü sağanak etkili oldu: Bir eve yıldırım düştü",
+   "at": "2026-11-02T20:41:08.333935+00:00",
+   "yazim": "claude",
+   "metin": "Antalya'da akşam saatlerinde gök gürültülü sağanak etkili oldu.\n\n— Kepez'in Göçerler Mahallesi'nde bir müstakil eve yıldırım düştü, çatıda yangın çıktı.\n— Evde o sırada kimse yoktu. İtfaiye yangını söndürdü, ev kullanılamaz hale geldi.\n— Yağmur sonrası ana caddelerde su birikti, sürücüler zorlandı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/antalya-da-gok-gurultulu-saganak-etkili-oldu-eve-yildirim-dustu-2552655",
+    "Evrensel: https://www.evrensel.net/haber/6007730/antalyada-gok-gurultulu-saganak-etkili-oldu-bir-eve-yildirim-dustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/antalya-da-saganak-yagis-bir-eve-yildirim-dustu-744123"
+   ]
   }
  ],
  "fails": {
@@ -4237,6 +4284,6 @@
   "d552f44eba": 1,
   "61adbb1338": 1,
   "8ae528835e": 2,
-  "f52f456b8a": 2
+  "66753b53eb": 1
  }
 }
