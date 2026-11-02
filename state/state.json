@@ -2,40 +2,6 @@
  "seen": [
   {
    "fp": [
-    "48",
-    "düzen",
-    "istan",
-    "marat",
-    "metro",
-    "neden",
-    "sefer",
-    "toplu",
-    "tramv",
-    "ulaşı",
-    "vapur"
-   ],
-   "at": "2026-10-31T19:11:22.867887+00:00"
-  },
-  {
-   "fp": [
-    "durum",
-    "guend",
-    "zor"
-   ],
-   "at": "2026-10-31T19:11:29.827004+00:00"
-  },
-  {
-   "fp": [
-    "2",
-    "dakik",
-    "fener",
-    "gözte",
-    "mağlu"
-   ],
-   "at": "2026-10-31T19:24:01.643189+00:00"
-  },
-  {
-   "fp": [
     "alarm",
     "alınd",
     "ekipl",
@@ -1492,6 +1458,43 @@
     "yükse"
    ],
    "at": "2026-11-02T06:39:58.894439+00:00"
+  },
+  {
+   "fp": [
+    "325",
+    "actio",
+    "alınd",
+    "deste",
+    "eylem",
+    "filis",
+    "gözal",
+    "ingil",
+    "kişi",
+    "müdah",
+    "pales",
+    "sayıs",
+    "yükse"
+   ],
+   "at": "2026-11-02T07:26:32.068361+00:00"
+  },
+  {
+   "fp": [
+    "336",
+    "550",
+    "alınd",
+    "ele",
+    "geçir",
+    "gram",
+    "istan",
+    "içind",
+    "kamyo",
+    "kilo",
+    "pendi",
+    "takib",
+    "uyuşt",
+    "çıktı"
+   ],
+   "at": "2026-11-02T07:26:43.706960+00:00"
   }
  ],
  "posted": [
@@ -2568,6 +2571,21 @@
     "TRT Haber: https://www.trthaber.com/haber/ekonomi/altin-haftaya-yukselisle-basladi-iste-fiyatlar-961921.html",
     "Evrensel: https://www.evrensel.net/haber/6007603/altin-fiyatlarinda-yeni-hafta-yukselisle-basladi-gram-ceyrek-ve-cumhuriyet-altini-ne-kadar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "1265373564",
+   "post_id": "529346797199852_1455190173387357",
+   "title": "Ekiplerden İstanbul'da 'uyuşturucu' operasyonu: Tam 336 kilo ele geçirildi!",
+   "at": "2026-11-02T07:26:43.706960+00:00",
+   "yazim": "claude",
+   "metin": "Pendik'te kapalı kasa kamyonetten 336 kilo 550 gram skunk çıktı.\n\n— Polis, takip ettiği kamyoneti otoyolda durdurdu.\n— Sürücü gözaltına alındı, adliyeye sevk edilecek.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-336-kilo-550-gram-uyusturucu-ele-gecirildi-961928.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/pendikte-kamyonet-takibe-alindi-icinden-336-kilo-uyusturucu-cikti-43362925",
+    "Sözcü: https://www.sozcu.com.tr/istanbulda-kamyonette-336-kilo-550-gram-uyusturucu-bulundu-p375089",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ekiplerden-istanbul-da-uyusturucu-operasyonu-tam-336-kilo-ele-gecirildi-2552398",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/pendikte-kamyonet-takibe-alindi-icinden-336-kilo-uyusturucu-cikti-43362925"
+   ]
   }
  ],
  "fails": {
@@ -2652,7 +2670,6 @@
   "9918b1ed3e": 1,
   "0e2e5db7df": 1,
   "df6c90590f": 1,
-  "dd65ef44ed": 2,
   "49016a3792": 1,
   "d739f0bf13": 1,
   "514ed721dc": 1,
@@ -2661,6 +2678,15 @@
   "8dbb91a378": 1,
   "d6085cbded": 1,
   "3f0c382a01": 1,
-  "291edacee2": 1
+  "291edacee2": 1,
+  "fff7874e4c": 1,
+  "46b6449680": 1,
+  "a5a677edef": 1,
+  "3aefb221bd": 1,
+  "dc1e8d68c3": 1,
+  "b78bfa4c2f": 1,
+  "1ffbd73251": 1,
+  "640feb60d3": 1,
+  "d27913b521": 1
  }
 }
