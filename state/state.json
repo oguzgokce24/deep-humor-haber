@@ -1755,6 +1755,108 @@
     "şüphe"
    ],
    "at": "2026-11-02T11:16:17.478269+00:00"
+  },
+  {
+   "fp": [
+    "emir",
+    "iddia",
+    "sarıg",
+    "soruş",
+    "özel",
+    "özgür"
+   ],
+   "at": "2026-11-02T11:28:46.113650+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "2",
+    "arası",
+    "dakik",
+    "düşec",
+    "gazia",
+    "hızlı",
+    "mersi",
+    "saat",
+    "tren",
+    "trenl"
+   ],
+   "at": "2026-11-02T11:28:53.406390+00:00"
+  },
+  {
+   "fp": [
+    "düzen",
+    "isveç",
+    "marke",
+    "saldı",
+    "siber",
+    "siste",
+    "soğut",
+    "ukray",
+    "uyarı",
+    "zinci"
+   ],
+   "at": "2026-11-02T11:29:00.783499+00:00"
+  },
+  {
+   "fp": [
+    "atış",
+    "kazar",
+    "kendi",
+    "mann",
+    "micha",
+    "polig",
+    "vurdu",
+    "yönet",
+    "ünlü"
+   ],
+   "at": "2026-11-02T11:29:30.373532+00:00"
+  },
+  {
+   "fp": [
+    "18",
+    "3",
+    "fon",
+    "iade",
+    "lira",
+    "milya",
+    "soruş"
+   ],
+   "at": "2026-11-02T11:29:53.008547+00:00"
+  },
+  {
+   "fp": [
+    "31",
+    "allia",
+    "iflas",
+    "türki",
+    "yüzde"
+   ],
+   "at": "2026-11-02T11:30:00.458032+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "açıkl",
+    "dan",
+    "iran",
+    "nin",
+    "sahas",
+    "top"
+   ],
+   "at": "2026-11-02T11:30:08.140462+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "adliy",
+    "ailes",
+    "kişi",
+    "sarıg",
+    "soruş",
+    "yönel"
+   ],
+   "at": "2026-11-02T11:30:39.301812+00:00"
   }
  ],
  "posted": [
@@ -3044,6 +3146,20 @@
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/esini-ve-kizini-evden-kovdu-yemek-yaparken-uyuyakalinca-yangin-cikti-7692630",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/esini-ve-kizini-tehditle-kovdu-yemek-yaparken-evi-yakti-kacan-supheli-yakalandi-43363324"
    ]
+  },
+  {
+   "id": "6bd683470b",
+   "post_id": "529346797199852_1455356430037398",
+   "title": "Sarıgül soruşturmasında 10 kişi adliyeye sevk edildi",
+   "at": "2026-11-02T11:30:39.301812+00:00",
+   "yazim": "claude",
+   "metin": "Sarıgül ailesine yönelik soruşturmada gözaltına alınan 10 kişi adliyeye sevk edildi.\n\n— Soruşturma, suçtan kaynaklanan malvarlığı değerlerini aklama iddiasıyla yürütülüyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/sarigul-ailesine-yonelik-sorusturmada-10-kisi-adliyede-43363026",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasi-10-supheli-adliyede-3924251",
+    "BirGün: https://www.birgun.net/haber/sarigul-sorusturmasinda-10-kisi-adliyeye-sevk-edildi-744011",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/sarigul-ailesine-yonelik-sorusturmada-10-kisi-adliyede-43363026"
+   ]
   }
  ],
  "fails": {
@@ -3156,8 +3272,6 @@
   "bfb02fea7f": 1,
   "d8db690eda": 2,
   "7043ed5332": 2,
-  "0feaa4b500": 2,
-  "61449e22a2": 2,
   "ec1dc896b5": 1,
   "7b154aa319": 2,
   "4f3ebcc694": 2,
@@ -3168,23 +3282,23 @@
   "a1bbe6ecd9": 2,
   "6cf8ad7e8a": 1,
   "126ad1840e": 1,
-  "cef2f6530b": 2,
-  "5991989406": 2,
   "5db7feb7f8": 1,
   "d65ab66d4e": 2,
-  "dc489ae309": 1,
+  "dc489ae309": 2,
   "1a46a2d201": 1,
   "0205305ab5": 1,
   "c28cb04217": 1,
   "20713597fe": 2,
   "171ef68962": 2,
-  "b6e3d7a10d": 2,
   "970500fa42": 1,
   "05e1911375": 2,
-  "aa890a268c": 2,
-  "4ea99395eb": 2,
   "0918c21b04": 1,
-  "8aa59935c5": 1,
-  "bd74ecb471": 1
+  "8aa59935c5": 2,
+  "bd74ecb471": 2,
+  "222656b514": 1,
+  "bb74657bca": 1,
+  "fd4460b052": 1,
+  "1fd323cf7a": 1,
+  "35d4427fd4": 1
  }
 }
