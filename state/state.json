@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "atand",
-    "atcı",
-    "başka",
-    "kurul",
-    "muhsi",
-    "spk"
-   ],
-   "at": "2026-10-31T21:26:09.135565+00:00"
-  },
-  {
-   "fp": [
     "6",
     "altın",
     "porta",
@@ -1625,6 +1614,32 @@
     "şehit"
    ],
    "at": "2026-11-02T09:22:00.544668+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "aksar",
+    "bıçak",
+    "darbe",
+    "eski",
+    "eşini",
+    "kadın",
+    "öldür"
+   ],
+   "at": "2026-11-02T09:34:36.838533+00:00"
+  },
+  {
+   "fp": [
+    "bilim",
+    "ceo",
+    "insan",
+    "opena",
+    "yapay",
+    "zeka",
+    "zeki",
+    "çoğu"
+   ],
+   "at": "2026-11-02T09:35:49.101709+00:00"
   }
  ],
  "posted": [
@@ -2814,6 +2829,19 @@
     "Karar: https://www.karar.com/guncel-haberler/15-temmuz-sehitler-koprusunde-iki-otomobil-carpisti-mudahale-suruyor-2081881",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/15-temmuz-sehitler-koprusu-girisinde-kaza-7692551"
    ]
+  },
+  {
+   "id": "33225b2bf1",
+   "post_id": "529346797199852_1455273176712390",
+   "title": "OpenAI CEO’su: Yapay zeka artık çoğu bilim insanından daha zeki",
+   "at": "2026-11-02T09:35:49.101709+00:00",
+   "yazim": "claude",
+   "metin": "OpenAI CEO'su Sam Altman:\n\n“Bu yılın başında yapay zeka en zeki bilim insanlarımız kadar akıllı değildi. Ancak şimdi çoğu (bilim insanından) daha zeki.”\n\nAltman, yapay zekanın beyaz yakalı işlerin büyük bölümünü yapabildiğini söyledi. Bu dönüşümün ekonomideki etkilerini de yöneteceklerini savundu.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/bilim-teknoloji/openai-ceosu-altman-yapay-zekanin-su-an-cogu-bilim-insanindan-zeki-oldugunu-savundu/4108442",
+    "Karar: https://www.karar.com/teknoloji-haberleri/openai-ceosu-yapay-zeka-artik-cogu-bilim-insanindan-daha-zeki-2081876",
+    "Diken: https://www.diken.com.tr/openai-ceosu-yapay-zeka-cogu-bilim-insanindan-daha-zeki/?utm_source=rss&utm_medium=rss&utm_campaign=openai-ceosu-yapay-zeka-cogu-bilim-insanindan-daha-zeki"
+   ]
   }
  ],
  "fails": {
@@ -2918,7 +2946,14 @@
   "e9494c301c": 1,
   "19e3d049a8": 2,
   "71ae780624": 1,
-  "a113d65e54": 2,
-  "f2ae5f6eca": 1
+  "f2ae5f6eca": 1,
+  "119d541ffc": 1,
+  "3d01b5f7fb": 1,
+  "fc2c91a24c": 1,
+  "6494486ac8": 1,
+  "586533a9bc": 1,
+  "fffda22d97": 1,
+  "a0ad463560": 1,
+  "fbe65475b0": 1
  }
 }
