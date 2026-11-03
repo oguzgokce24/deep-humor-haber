@@ -2,20 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "bugün",
-    "hava",
-    "kasım",
-    "kuvve",
-    "nasıl",
-    "olaca",
-    "sağan",
-    "yağmu"
-   ],
-   "at": "2026-11-02T05:43:52.283347+00:00"
-  },
-  {
-   "fp": [
     "111",
     "brent",
     "dolar",
@@ -3349,6 +3335,17 @@
     "vurdu"
    ],
    "at": "2026-11-03T17:36:50.449355+00:00"
+  },
+  {
+   "fp": [
+    "bina",
+    "nda",
+    "tahli",
+    "teras",
+    "zeyti",
+    "çöken"
+   ],
+   "at": "2026-11-03T17:49:50.866821+00:00"
   }
  ],
  "posted": [
@@ -5436,6 +5433,19 @@
     "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulu-saganak-vurdu-yollar-gole-dondu-araclar-suya-gomuldu-962128.html",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tekirdag-i-siddetli-saganak-vurdu-cadde-ve-sokaklar-gole-dondu-2552921"
    ]
+  },
+  {
+   "id": "31aad755e0",
+   "post_id": "529346797199852_1456643783241996",
+   "title": "Zeytinburnu'nda terası kısmen çöken 4 katlı bina boşaltıldı",
+   "at": "2026-11-03T17:49:50.866821+00:00",
+   "yazim": "claude",
+   "metin": "Zeytinburnu'nda terası kısmen çöken 4 katlı bina boşaltıldı.\n\n— Çöken teras en üst kattaki daireye ait. Alt katlardaki balkonlarda da hasar oluştu.\n\n— 34 yıllık binadaki 17 daire, önlem amacıyla tahliye edildi.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/istanbul-da-balkonu-coken-bina-tahliye-edildi-3924678",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/zeytinburnunda-terasi-coken-bina-tahliye-edildi-4869482",
+    "BirGün: https://www.birgun.net/haber/zeytinburnu-nda-terasi-kismen-coken-4-katli-bina-bosaltildi-744328"
+   ]
   }
  ],
  "fails": {
@@ -5682,6 +5692,6 @@
   "4cd5c18917": 2,
   "bbab651dfd": 1,
   "640d3c2e8b": 2,
-  "19f2c9a4ff": 1
+  "19f2c9a4ff": 2
  }
 }
