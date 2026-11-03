@@ -2,21 +2,6 @@
  "seen": [
   {
    "fp": [
-    "geçic",
-    "googl",
-    "karar",
-    "kurum",
-    "ndan",
-    "rekab",
-    "tedbi",
-    "yapay",
-    "zeka",
-    "özetl"
-   ],
-   "at": "2026-11-02T09:09:21.926085+00:00"
-  },
-  {
-   "fp": [
     "15",
     "giriş",
     "kaza",
@@ -3304,6 +3289,32 @@
     "yangı"
    ],
    "at": "2026-11-03T21:06:02.497604+00:00"
+  },
+  {
+   "fp": [
+    "20",
+    "3",
+    "ceset",
+    "cinay",
+    "deki",
+    "faili",
+    "geliş",
+    "mersi",
+    "meçhu",
+    "mumya",
+    "tutuk",
+    "yıllı"
+   ],
+   "at": "2026-11-03T21:18:39.023910+00:00"
+  },
+  {
+   "fp": [
+    "batra",
+    "galat",
+    "golle",
+    "stutt"
+   ],
+   "at": "2026-11-03T21:18:59.877245+00:00"
   }
  ],
  "posted": [
@@ -5501,6 +5512,19 @@
     "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/avmde-yangin-panigi-bir-kisi-hastaneye-kaldirildi-4869540",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/zonguldakta-avmdeki-magazada-yangin-1-kisi-dumandan-etkilendi-7693684"
    ]
+  },
+  {
+   "id": "5822be5160",
+   "post_id": "529346797199852_1456782846561423",
+   "title": "Galatasaray, Stuttgart'ı Batrakov'un golleriyle yendi",
+   "at": "2026-11-03T21:18:59.877245+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray, Şampiyonlar Ligi'nde Stuttgart'ı 2-0 yendi.\n\n— Golleri Rus futbolcu Aleksey Batrakov attı: 12. ve 15. dakikalarda.\n— Sarı-kırmızılılar puanını 6'ya çıkardı.\n— Sıradaki maç 24 Kasım'da İstanbul'da Aston Villa ile.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/galatasaray-stuttgarti-iki-golle-gecti-962137.html",
+    "Diken: https://www.diken.com.tr/galatasaray-stuttgarti-batrakovun-golleriyle-yendi/?utm_source=rss&utm_medium=rss&utm_campaign=galatasaray-stuttgarti-batrakovun-golleriyle-yendi",
+    "Serbestiyet: https://serbestiyet.com/haberler/spor/galatasaray-stuttgarti-batrakovun-golleriyle-devirdi-sampiyonlar-liginde-ikinci-galibiyet-252787/"
+   ]
   }
  ],
  "fails": {
@@ -5757,8 +5781,9 @@
   "12bc7f63e6": 2,
   "78edec7946": 1,
   "c85cf58ac4": 1,
-  "0cc5f9db8e": 2,
   "3a6513e0ff": 1,
-  "7dc4d9b090": 2
+  "7dc4d9b090": 2,
+  "7c95179364": 1,
+  "e59158d0e9": 1
  }
 }
