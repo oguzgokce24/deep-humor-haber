@@ -3,46 +3,6 @@
   {
    "fp": [
     "3",
-    "4",
-    "6",
-    "araç",
-    "kızıl",
-    "yaral",
-    "çarpı",
-    "çocuk"
-   ],
-   "at": "2026-11-01T21:55:20.352832+00:00"
-  },
-  {
-   "fp": [
-    "5",
-    "dalto",
-    "istan",
-    "opera",
-    "suç",
-    "yakal",
-    "yönel",
-    "örgüt"
-   ],
-   "at": "2026-11-01T21:55:28.191038+00:00"
-  },
-  {
-   "fp": [
-    "abd",
-    "düştü",
-    "flori",
-    "jet",
-    "kenti",
-    "nin",
-    "ortas",
-    "özel",
-    "şehri"
-   ],
-   "at": "2026-11-01T21:55:36.109035+00:00"
-  },
-  {
-   "fp": [
-    "3",
     "bina",
     "izmir",
     "kayma",
@@ -2288,6 +2248,53 @@
     "çığır"
    ],
    "at": "2026-11-03T09:42:28.562879+00:00"
+  },
+  {
+   "fp": [
+    "alınd",
+    "gözal",
+    "kişi",
+    "opera",
+    "tinde"
+   ],
+   "at": "2026-11-03T09:55:04.418527+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "galat",
+    "ler",
+    "maçın",
+    "muhte",
+    "stutt"
+   ],
+   "at": "2026-11-03T09:55:28.647240+00:00"
+  },
+  {
+   "fp": [
+    "21",
+    "bidon",
+    "ele",
+    "geçir",
+    "güver",
+    "kümes",
+    "peyni",
+    "tutuk",
+    "uyuşt"
+   ],
+   "at": "2026-11-03T09:56:11.037584+00:00"
+  },
+  {
+   "fp": [
+    "hong",
+    "ikinc",
+    "kong",
+    "sönme",
+    "tura",
+    "yükse",
+    "zeyne"
+   ],
+   "at": "2026-11-03T09:56:45.562057+00:00"
   }
  ],
  "posted": [
@@ -4096,6 +4103,19 @@
     "Karar: https://www.karar.com/guncel-haberler/115-milyon-yillik-dinozor-fosilinde-kanin-kimyasal-izleri-tespit-edildi-2082094",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/cigir-acan-bir-kesif-115-milyon-yillik-bir-dinozorun-kemiginde-ilk-kez-bulundu-7693211"
    ]
+  },
+  {
+   "id": "f9c48c7e76",
+   "post_id": "529346797199852_1456273986612309",
+   "title": "Zeynep Sönmez, Hong Kong'da ikinci tura yükseldi",
+   "at": "2026-11-03T09:56:45.562057+00:00",
+   "yazim": "claude",
+   "metin": "Milli tenisçi Zeynep Sönmez, Hong Kong'da ikinci tura yükseldi.\n\n— Prudential Hong Kong Açık'ın ilk turunda Ukraynalı Dayana Yastremska'yı 6-4, 6-2 yendi.\n— Dünya sıralamasında 67. olan Sönmez, 99. sıradaki rakibine karşı iki sette üstün çıktı.\n— Bir sonraki rakibi, Leylah Fernandez ile Sofia Kenin arasındaki maçın galibi olacak.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/spor/zeynep-sonmez-hong-kong-da-2-turda-3924547",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/zeynep-sonmez-hong-kong-da-ikinci-tura-yukseldi-2552812",
+    "BirGün: https://www.birgun.net/haber/zeynep-sonmez-hong-kongda-ikinci-tura-yukseldi-744247"
+   ]
   }
  ],
  "fails": {
@@ -4285,7 +4305,6 @@
   "ca3d405c70": 1,
   "89631b8e1d": 1,
   "0cfe574e83": 1,
-  "cec923bb53": 2,
   "ba1cab2503": 1,
   "0c34a99176": 1,
   "a4fde2cefd": 1,
@@ -4294,13 +4313,19 @@
   "511e9e9aa5": 1,
   "3c540aba44": 1,
   "d432a0bf75": 1,
-  "4443e29af2": 2,
-  "9bcc5d273e": 2,
   "622e85c0a6": 2,
   "44e34bc6ae": 1,
   "344982ab67": 1,
   "74e42ffee0": 1,
-  "a0d8b3a709": 1,
-  "ec1ea3bf71": 1
+  "a0d8b3a709": 2,
+  "ec1ea3bf71": 1,
+  "9f2f6d6e9e": 1,
+  "0c745c2140": 1,
+  "4b59b1a78d": 1,
+  "f8771881ed": 1,
+  "14b5da8c89": 1,
+  "03aed2aa7d": 1,
+  "5ba63e3362": 1,
+  "74bdf41945": 1
  }
 }
