@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "9",
-    "düştü",
-    "hayat",
-    "kaybe",
-    "kişi",
-    "özel"
-   ],
-   "at": "2026-11-02T03:56:44.084615+00:00"
-  },
-  {
-   "fp": [
     "anlaş",
     "genel",
     "kurul",
@@ -3214,6 +3203,34 @@
     "vurul"
    ],
    "at": "2026-11-03T15:48:03.336048+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "başka",
+    "donal",
+    "kesec",
+    "mali",
+    "trump",
+    "yardı"
+   ],
+   "at": "2026-11-03T15:59:45.473463+00:00"
+  },
+  {
+   "fp": [
+    "7",
+    "ailed",
+    "alarm",
+    "aynı",
+    "hasta",
+    "kaldı",
+    "kişi",
+    "manta",
+    "siirt",
+    "yiyen",
+    "zehir"
+   ],
+   "at": "2026-11-03T15:59:49.315195+00:00"
   }
  ],
  "posted": [
@@ -5231,6 +5248,21 @@
     "BirGün: https://www.birgun.net/haber/dirk-kuyt-liverpool-maci-icin-cok-iyi-bir-planimiz-var-744322",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/dirk-kuyt-liverpool-maci-icin-cok-iyi-bir-planimiz-var-bu-plana-inanmaliyiz-43364697"
    ]
+  },
+  {
+   "id": "7c29c08c26",
+   "post_id": "529346797199852_1456563433250031",
+   "title": "Aynı aileden 7 kişi zehirlenme şüphesiyle hastaneye kaldırıldı",
+   "at": "2026-11-03T15:59:49.315195+00:00",
+   "yazim": "claude",
+   "metin": "Aynı aileden 7 kişi, mantar zehirlenmesi şüphesiyle hastaneye kaldırıldı.\n\nYakınlarının ihbarı üzerine 112 Acil Sağlık ekipleri bölgeye gitti. İlk müdahalenin ardından hastalar Şirvan İlçe Entegre Devlet Hastanesi'ne, oradan da Siirt Eğitim ve Araştırma Hastanesi'ne sevk edildi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/topladiklari-mantarlari-yiyen-7-kisi-hastanelik-oldu-962123.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/siirtte-mantar-yiyen-7-kisi-hastaneye-kaldirildi-43364942",
+    "Milliyet: https://www.milliyet.com.tr/gundem/siirtte-mantar-zehirlenmesi-alarmi-ayni-aileden-7-kisi-hastaneye-kaldirildi-7693599",
+    "Sözcü: https://www.sozcu.com.tr/ayni-aileden-7-kisi-zehirlenme-suphesiyle-hastaneye-kaldirildi-p375701",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/siirtte-mantar-zehirlenmesi-alarmi-ayni-aileden-7-kisi-hastaneye-kaldirildi-7693599"
+   ]
   }
  ],
  "fails": {
@@ -5472,7 +5504,6 @@
   "ce386d3ce3": 1,
   "b57da3c41c": 1,
   "6cc5c54a2c": 1,
-  "54cfdc2725": 2,
-  "1b9a66264e": 1
+  "1b9a66264e": 2
  }
 }
