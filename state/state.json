@@ -2165,6 +2165,16 @@
     "yolcu"
    ],
    "at": "2026-11-03T05:55:41.251454+00:00"
+  },
+  {
+   "fp": [
+    "baba",
+    "bulun",
+    "evde",
+    "kızı",
+    "ölü"
+   ],
+   "at": "2026-11-03T06:11:35.890836+00:00"
   }
  ],
  "posted": [
@@ -3790,6 +3800,19 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/konyada-yolcu-otobusu-devrildi-45-yarali-4869291",
     "Karar: https://www.karar.com/sehir-haberleri/konyada-yolcu-otobusu-devrildi-45-yarali-2082042"
    ]
+  },
+  {
+   "id": "1ce2916083",
+   "post_id": "529346797199852_1456128109960230",
+   "title": "Kötü koku ihbarı yapılan evde baba ve kızının cansız bedenleri bulundu",
+   "at": "2026-11-03T06:11:35.890836+00:00",
+   "yazim": "claude",
+   "metin": "Hatay'ın Antakya ilçesinde evden kötü koku yayılınca girilen evde, 54 yaşındaki bir baba ve 18 yaşındaki kızı ölü bulundu.\n\n— Mahalle sakinleri durumu polise bildirdi. Polis, itfaiyenin yardımıyla eve girdi.\n— Iki kişiden bir süredir haber alınamıyordu. Ölüm nedenleri otopsiyle belirlenecek.\n— Polis olayla ilgili geniş çaplı soruşturma başlattı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/hatay-da-baba-ve-kizi-evde-olu-bulundu-3924456",
+    "BirGün: https://www.birgun.net/haber/kotu-koku-ihbari-yapilan-evde-baba-ve-kizinin-cansiz-bedenleri-bulundu-744161",
+    "Karar: https://www.karar.com/sehir-haberleri/hatayda-baba-ve-kizi-evde-olu-bulundu-2082033"
+   ]
   }
  ],
  "fails": {
@@ -3950,7 +3973,7 @@
   "3c24728c58": 1,
   "27f73a1149": 1,
   "ac739601ea": 1,
-  "b21b4a2032": 1,
+  "b21b4a2032": 2,
   "1ce2916083": 1
  }
 }
