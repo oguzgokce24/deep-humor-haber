@@ -2,51 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "den",
-    "fener",
-    "futbo",
-    "hakan",
-    "istem",
-    "safi",
-    "sahay",
-    "çıkma"
-   ],
-   "at": "2026-11-01T20:34:49.691008+00:00"
-  },
-  {
-   "fp": [
-    "5",
-    "cem",
-    "dalto",
-    "fener",
-    "gölba",
-    "hazır",
-    "lider",
-    "saldı",
-    "silah",
-    "tribü",
-    "yakal",
-    "şüphe"
-   ],
-   "at": "2026-11-01T20:38:11.615075+00:00"
-  },
-  {
-   "fp": [
-    "bakan",
-    "başka",
-    "güven",
-    "istan",
-    "içişl",
-    "topla",
-    "tutuk",
-    "yapıl",
-    "çiftç"
-   ],
-   "at": "2026-11-01T20:38:18.728427+00:00"
-  },
-  {
-   "fp": [
     "1",
     "elend",
     "gitti",
@@ -2223,6 +2178,20 @@
     "yıllı"
    ],
    "at": "2026-11-03T08:33:17.468866+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "3",
+    "gözal",
+    "ilde",
+    "karar",
+    "opera",
+    "para",
+    "sahte",
+    "şüphe"
+   ],
+   "at": "2026-11-03T08:46:24.325114+00:00"
   }
  ],
  "posted": [
@@ -3962,6 +3931,21 @@
     "Medyascope: https://medyascope.tv/2026/11/03/yillik-enflasyon-ekimde-yuzde-2977ye-cikti/",
     "Diken: https://www.diken.com.tr/tuike-gore-enflasyon-yuzde-2977/?utm_source=rss&utm_medium=rss&utm_campaign=tuike-gore-enflasyon-yuzde-2977"
    ]
+  },
+  {
+   "id": "78c2778b5f",
+   "post_id": "529346797199852_1456224906617217",
+   "title": "3 ilde eş zamanlı 'sahte para' operasyonu: Çok sayıda gözaltı",
+   "at": "2026-11-03T08:46:24.325114+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul merkezli 3 ilde sahte para operasyonu: 10 şüpheli gözaltına alındı.\n\n— 15 şüpheli hakkında gözaltı kararı çıktı. Sahte Türk lirası, dolar ve avroyu piyasaya sürerek haksız kazanç elde ettikleri iddia ediliyor.\n— İstanbul, Ankara ve İzmir'deki 13 adreste eş zamanlı operasyon yapıldı.\n— Kalan 5 şüphelinin yakalanması için çalışmalar sürüyor.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/teror-orgutu-deas-ile-baglantili-kisilere-para-transferleri-belirlenen-9-supheli-icin-gozalti-karari-962057.html",
+    "Sözcü: https://www.sozcu.com.tr/3-ilde-sahte-para-operasyonu-15-supheliye-gozalti-karari-p375468",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/3-ilde-es-zamanli-sahte-para-operasyonu-cok-sayida-gozalti-2552772",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/3-ilde-sahte-para-ve-uyusturucu-operasyonu-15-supheli-hakkinda-gozalti-karari-4869297",
+    "BirGün: https://www.birgun.net/haber/istanbul-merkezli-3-ilde-sahte-para-operasyonu-10-gozalti-744198"
+   ]
   }
  ],
  "fails": {
@@ -4144,6 +4128,9 @@
   "baed04557f": 1,
   "60a6302acd": 1,
   "55a6226bd0": 1,
-  "8a9c2a0310": 1
+  "8a9c2a0310": 2,
+  "636fa96cde": 1,
+  "86190f2b2e": 1,
+  "5c66e2a241": 1
  }
 }
