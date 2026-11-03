@@ -2277,6 +2277,17 @@
     "trabz"
    ],
    "at": "2026-11-03T10:11:09.190715+00:00"
+  },
+  {
+   "fp": [
+    "açıkl",
+    "bakan",
+    "dan",
+    "emekl",
+    "maaşı",
+    "ışıkh"
+   ],
+   "at": "2026-11-03T10:31:03.094239+00:00"
   }
  ],
  "posted": [
@@ -4113,6 +4124,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/celtic-besiktas-macina-alman-hakem-2552821",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/trabzonspor-freiburg-macinin-hakemi-belli-oldu-2552820"
    ]
+  },
+  {
+   "id": "6124a3000a",
+   "post_id": "529346797199852_1456299106609797",
+   "title": "Emekli maaşı düzenlemesi: Bakan Işıkhan detayları açıkladı",
+   "at": "2026-11-03T10:31:03.094239+00:00",
+   "yazim": "claude",
+   "metin": "Çalışma Bakanı Vedat Işıkhan, emekli maaşlarıyla ilgili yeni düzenlemenin detaylarını anlattı.\n\n— Düzenleme, mevcut yasal artışların üzerine ek iyileştirmeler de getirecek.\n— Hedef, uygulamanın 2027 yılı Ocak ayından itibaren geçerli olması.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/ekonomi/bakan-isikhandan-emekli-maasi-aciklamasi-962081.html",
+    "Habertürk: https://www.haberturk.com/ekonomi/son-dakika-bakan-isikhan-dan-emekli-maasi-aciklamasi-3924538",
+    "BirGün: https://www.birgun.net/haber/emekli-maasi-duzenlemesi-bakan-isikhan-detaylari-acikladi-744250"
+   ]
   }
  ],
  "fails": {
@@ -4327,6 +4351,7 @@
   "56caf65767": 1,
   "26f855aad8": 1,
   "a434ad1d9e": 1,
-  "7897d34e05": 1
+  "7897d34e05": 1,
+  "252c7ff17d": 1
  }
 }
