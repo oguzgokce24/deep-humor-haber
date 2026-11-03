@@ -2,44 +2,6 @@
  "seen": [
   {
    "fp": [
-    "0",
-    "2",
-    "dan",
-    "vince",
-    "ıtali"
-   ],
-   "at": "2026-11-01T19:49:28.950141+00:00"
-  },
-  {
-   "fp": [
-    "cop31",
-    "deste",
-    "ingil",
-    "tarka",
-    "uyan",
-    "verdi",
-    "şarkı"
-   ],
-   "at": "2026-11-01T20:02:08.972001+00:00"
-  },
-  {
-   "fp": [
-    "12",
-    "5",
-    "ağır",
-    "devri",
-    "feci",
-    "gazia",
-    "kaza",
-    "minib",
-    "taşıy",
-    "yaral",
-    "yolcu"
-   ],
-   "at": "2026-11-01T20:18:28.567995+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "den",
     "fener",
@@ -2217,6 +2179,50 @@
     "ölümü"
    ],
    "at": "2026-11-03T07:48:47.717590+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "14",
+    "21",
+    "ankar",
+    "fetö",
+    "gözal",
+    "ilde",
+    "merke",
+    "opera"
+   ],
+   "at": "2026-11-03T08:32:57.846552+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "3",
+    "altın",
+    "başla",
+    "borsa",
+    "düşüş",
+    "gram",
+    "güne",
+    "kasım",
+    "nasıl"
+   ],
+   "at": "2026-11-03T08:33:08.439214+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "29",
+    "45",
+    "77",
+    "enag",
+    "enfla",
+    "göre",
+    "tüik",
+    "yüzde",
+    "yıllı"
+   ],
+   "at": "2026-11-03T08:33:17.468866+00:00"
   }
  ],
  "posted": [
@@ -3940,6 +3946,22 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/new-yorkta-30-yil-sonra-kizamik-kaynakli-ilk-cocuk-olumu-962052.html",
     "Medyascope: https://medyascope.tv/2026/11/03/abdde-kizamik-vakalari-iki-katina-cikti-new-yorkta-30-yil-sonra-bir-cocuk-oldu/"
    ]
+  },
+  {
+   "id": "d5c0cbf675",
+   "post_id": "529346797199852_1456217506617957",
+   "title": "Ekimde yıllık enflasyon: TÜİK yüzde 29,77, ENAG yüzde 45,12 açıkladı",
+   "at": "2026-11-03T08:33:17.468866+00:00",
+   "yazim": "claude",
+   "metin": "Ekimde enflasyon aylık yüzde 2,58, yıllık yüzde 29,77 oldu.\n\n— Eylülde yıllık enflasyon yüzde 29,73'tü. Ekimde 0,04 puan yükseldi.\n— Bağımsız ENAG'a göre ekimde yıllık enflasyon yüzde 45,12.\n— Kasım ayında kiralarda uygulanabilecek artış tavanı yüzde 31,23 oldu.",
+   "sources": [
+    "BBC Türkçe: https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss",
+    "DW Türkçe: https://www.dw.com/tr/yıllık-enflasyon-tüik-e-göre-yüzde-29-77-enag-a-göre-yüzde-45-12/a-79835642?maca=tur-rss-tur-all-1495-xml-mrss",
+    "Euronews: https://tr.euronews.com/2026/11/03/ekimde-yillik-enflasyon-tuik-yuzde-2977-enag-yuzde-4512-acikladi",
+    "Evrensel: https://www.evrensel.net/haber/6007763/egitim-ve-saglikta-yangin-var-tuik-ekim-ayi-enflasyonunu-yillik-yuzde-29-77-olarak-acikladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/03/yillik-enflasyon-ekimde-yuzde-2977ye-cikti/",
+    "Diken: https://www.diken.com.tr/tuike-gore-enflasyon-yuzde-2977/?utm_source=rss&utm_medium=rss&utm_campaign=tuike-gore-enflasyon-yuzde-2977"
+   ]
   }
  ],
  "fails": {
@@ -4109,8 +4131,6 @@
   "8ff43e60f8": 1,
   "986d8e6b91": 1,
   "ce13bf968e": 1,
-  "3f78585097": 2,
-  "c681f81d5a": 2,
   "428af73c96": 1,
   "3f44098b9a": 2,
   "3cd4f23379": 1,
@@ -4122,6 +4142,8 @@
   "a328652893": 1,
   "de87251b49": 1,
   "baed04557f": 1,
-  "60a6302acd": 1
+  "60a6302acd": 1,
+  "55a6226bd0": 1,
+  "8a9c2a0310": 1
  }
 }
