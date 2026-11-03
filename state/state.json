@@ -3340,6 +3340,15 @@
     "yolcu"
    ],
    "at": "2026-11-03T17:33:03.878206+00:00"
+  },
+  {
+   "fp": [
+    "döndü",
+    "göle",
+    "sağan",
+    "vurdu"
+   ],
+   "at": "2026-11-03T17:36:50.449355+00:00"
   }
  ],
  "posted": [
@@ -5415,6 +5424,18 @@
     "CNN Türk: https://www.cnnturk.com/dunya/haydar-aliyev-parki-iddialarina-dmmden-yanit-3488535",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/dmm-den-haydar-aliyev-parki-aciklamasi-bust-kaldirilmayacak-2553003"
    ]
+  },
+  {
+   "id": "bbe8dc04d6",
+   "post_id": "529346797199852_1456634936576214",
+   "title": "Tekirdağ'ı şiddetli sağanak vurdu: Cadde ve sokaklar göle döndü",
+   "at": "2026-11-03T17:36:50.449355+00:00",
+   "yazim": "claude",
+   "metin": "Tekirdağ'da sağanak yağış caddeleri göle çevirdi.\n\n— Meteoroloji'nin uyarısının ardından Süleymanpaşa'da yağmur bastırdı.\n— Cumhuriyet Mahallesi Ataç Sokak ile Değirmenaltı Mahallesi Çay Sokak'ta yollar su altında kaldı.\n— Yürümekte zorlanan vatandaşlar iş yerlerinin tentelerine sığındı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulu-saganak-vurdu-yollar-gole-dondu-araclar-suya-gomuldu-962128.html",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tekirdag-i-siddetli-saganak-vurdu-cadde-ve-sokaklar-gole-dondu-2552921"
+   ]
   }
  ],
  "fails": {
@@ -5660,6 +5681,7 @@
   "3a5a2cd788": 1,
   "4cd5c18917": 2,
   "bbab651dfd": 1,
-  "640d3c2e8b": 2
+  "640d3c2e8b": 2,
+  "19f2c9a4ff": 1
  }
 }
