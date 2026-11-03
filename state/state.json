@@ -2,28 +2,6 @@
  "seen": [
   {
    "fp": [
-    "32",
-    "41",
-    "fetö",
-    "ilde",
-    "opera",
-    "tutuk",
-    "şüphe"
-   ],
-   "at": "2026-11-02T08:43:21.423504+00:00"
-  },
-  {
-   "fp": [
-    "45",
-    "donci",
-    "laker",
-    "luka",
-    "rapto"
-   ],
-   "at": "2026-11-02T08:43:36.511680+00:00"
-  },
-  {
-   "fp": [
     "4",
     "başlı",
     "hafta",
@@ -3300,6 +3278,20 @@
     "turan"
    ],
    "at": "2026-11-03T20:37:26.304964+00:00"
+  },
+  {
+   "fp": [
+    "aleks",
+    "batra",
+    "büyük",
+    "dan",
+    "galat",
+    "geçti",
+    "taraf",
+    "tarih",
+    "övgü"
+   ],
+   "at": "2026-11-03T20:49:03.482348+00:00"
   }
  ],
  "posted": [
@@ -5470,6 +5462,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/arda-turan-in-ekibi-shakhtar-donetsk-sporting-e-dis-geciremedi-2553054",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/shakhtar-donetsk-0-1-sporting-lizbon-uefa-sampiyonlar-ligi-arda-turan-43365127"
    ]
+  },
+  {
+   "id": "12bc7f63e6",
+   "post_id": "529346797199852_1456765053229869",
+   "title": "Aleksey Batrakov'dan Galatasaray taraftarına büyük övgü!",
+   "at": "2026-11-03T20:49:03.482348+00:00",
+   "yazim": "claude",
+   "metin": "Aleksey Batrakov:\n\n“Bu taraftar inanılmaz! Ben de onları seviyorum.”\n\n— Galatasaray'ın Rus futbolcusu Stuttgart maçında iki gol attı.\n— Bu sezon Şampiyonlar Ligi'nde 4 golü var.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/spor/galatasaray-stuttgart-maci-sonrasi-aleksey-batrakov-dan-taraftarlara-buyuk-ovgu-3924731",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/aleksey-batrakov-dan-galatasaray-taraftarina-buyuk-ovgu-2553056",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/aleksey-batrakov-galatasaray-tarihine-gecti-2553032",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/galatasarayda-aleksey-batrakov-tarihe-gecti-sampiyonlar-liginde-rekorlari-altust-etti-43365085"
+   ]
   }
  ],
  "fails": {
@@ -5724,6 +5730,8 @@
   "a4c6d8deb5": 2,
   "ae63da8bfa": 2,
   "12bc7f63e6": 2,
-  "78edec7946": 1
+  "78edec7946": 1,
+  "b6713f74da": 1,
+  "c85cf58ac4": 1
  }
 }
