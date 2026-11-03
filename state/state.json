@@ -2,32 +2,6 @@
  "seen": [
   {
    "fp": [
-    "15",
-    "aksar",
-    "bıçak",
-    "darbe",
-    "eski",
-    "eşini",
-    "kadın",
-    "öldür"
-   ],
-   "at": "2026-11-02T09:34:36.838533+00:00"
-  },
-  {
-   "fp": [
-    "bilim",
-    "ceo",
-    "insan",
-    "opena",
-    "yapay",
-    "zeka",
-    "zeki",
-    "çoğu"
-   ],
-   "at": "2026-11-02T09:35:49.101709+00:00"
-  },
-  {
-   "fp": [
     "aksad",
     "arıza",
     "istan",
@@ -3316,6 +3290,18 @@
     "yaral"
    ],
    "at": "2026-11-03T21:31:47.626711+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "hatay",
+    "kişi",
+    "otomo",
+    "tır",
+    "yaral",
+    "çarpı"
+   ],
+   "at": "2026-11-03T21:46:11.873623+00:00"
   }
  ],
  "posted": [
@@ -5540,6 +5526,20 @@
     "Sözcü: https://www.sozcu.com.tr/aydin-da-pazarcilari-tasiyan-kamyonet-devrildi-7-yarali-p375756",
     "Yeni Şafak: https://www.yenisafak.com/gundem/pazarcilari-tasiyan-kamyonet-devrildi-yedi-kisi-yaralandi-4869525"
    ]
+  },
+  {
+   "id": "7691e1a8f9",
+   "post_id": "529346797199852_1456799153226459",
+   "title": "Hatay’da TIR ile otomobil çarpıştı: 4 kişi araçta sıkıştı",
+   "at": "2026-11-03T21:46:11.873623+00:00",
+   "yazim": "claude",
+   "metin": "Hatay'da TIR ile çarpışan otomobilde 4 kişi araç içinde sıkıştı.\n\n— İtfaiye ekipleri 4 yaralıyı araçtan çıkardı.\n— Yaralılar ambulanslarla hastanelere kaldırıldı.\n— TIR şoförü ifadesi alınmak üzere jandarmaya götürüldü. Kazayla ilgili soruşturma başlatıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/hatay/hassa/tir-ile-carpisan-otomobil-demir-yigini-haline-donustu-4-yarali-3488639",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/hatay/hatayda-tirla-carpisan-otomobildeki-4-kisi-yaralandi-3488632",
+    "Sözcü: https://www.sozcu.com.tr/hatay-da-tir-ile-otomobil-carpisti-4-kisi-aracta-sikisti-p375772",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/bursada-tir-ile-zeytin-yuklu-traktor-carpisti-iki-kisi-yaralandi-4869549"
+   ]
   }
  ],
  "fails": {
@@ -5800,6 +5800,7 @@
   "7dc4d9b090": 2,
   "7c95179364": 1,
   "e59158d0e9": 1,
-  "7691e1a8f9": 1
+  "7691e1a8f9": 1,
+  "d25bca3e83": 1
  }
 }
