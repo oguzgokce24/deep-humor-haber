@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "bina",
-    "izmir",
-    "kayma",
-    "tahli",
-    "topra"
-   ],
-   "at": "2026-11-01T22:06:20.100315+00:00"
-  },
-  {
-   "fp": [
-    "bulga",
-    "cumhu",
-    "kazan",
-    "mevcu",
-    "olmay",
-    "resmi",
-    "seçim",
-    "sonuç",
-    "yotov"
-   ],
-   "at": "2026-11-01T22:06:29.110899+00:00"
-  },
-  {
-   "fp": [
-    "adli",
-    "fon",
-    "genel",
-    "güner",
-    "kontr",
-    "müdür",
-    "soruş",
-    "takas",
-    "umut"
-   ],
-   "at": "2026-11-01T22:09:50.859151+00:00"
-  },
-  {
-   "fp": [
     "anlam",
     "cop31",
     "dan",
@@ -2295,6 +2256,27 @@
     "zeyne"
    ],
    "at": "2026-11-03T09:56:45.562057+00:00"
+  },
+  {
+   "fp": [
+    "emekl",
+    "enfla",
+    "farkı"
+   ],
+   "at": "2026-11-03T10:10:32.955190+00:00"
+  },
+  {
+   "fp": [
+    "alman",
+    "beşik",
+    "celti",
+    "eston",
+    "freib",
+    "hakem",
+    "maçın",
+    "trabz"
+   ],
+   "at": "2026-11-03T10:11:09.190715+00:00"
   }
  ],
  "posted": [
@@ -4116,6 +4098,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/zeynep-sonmez-hong-kong-da-ikinci-tura-yukseldi-2552812",
     "BirGün: https://www.birgun.net/haber/zeynep-sonmez-hong-kongda-ikinci-tura-yukseldi-744247"
    ]
+  },
+  {
+   "id": "eb83189f8b",
+   "post_id": "529346797199852_1456286163277758",
+   "title": "Trabzonspor - Freiburg maçının hakemi belli oldu",
+   "at": "2026-11-03T10:11:09.190715+00:00",
+   "yazim": "claude",
+   "metin": "Beşiktaş'ın Celtic deplasmanını Alman hakem Sascha Stegemann yönetecek.\n\n— Avrupa Ligi'nin 4. haftasında oynanacak maç 5 Kasım Perşembe günü, Celtic Park'ta saat 23.00'te başlayacak.\n— Yardımcı hakemler Christof Günsch ile Marco Achmüller, dördüncü hakem ise Martin Petersen olacak.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/trabzonspor-freiburg-macini-estonyali-hakem-kristo-tohver-yonetecek/4109728",
+    "Habertürk: https://www.haberturk.com/spor/trabzonspor-freiburg-macini-estonyali-hakem-kristo-tohver-yonetecek-3924573",
+    "Habertürk: https://www.haberturk.com/spor/celtic-besiktas-macini-hakem-sascha-stegemann-yonetecek-3924570",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/celtic-besiktas-macina-alman-hakem-2552821",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/trabzonspor-freiburg-macinin-hakemi-belli-oldu-2552820"
+   ]
   }
  ],
  "fails": {
@@ -4314,18 +4311,22 @@
   "3c540aba44": 1,
   "d432a0bf75": 1,
   "622e85c0a6": 2,
-  "44e34bc6ae": 1,
+  "44e34bc6ae": 2,
   "344982ab67": 1,
   "74e42ffee0": 1,
-  "a0d8b3a709": 2,
   "ec1ea3bf71": 1,
   "9f2f6d6e9e": 1,
-  "0c745c2140": 1,
+  "0c745c2140": 2,
   "4b59b1a78d": 1,
-  "f8771881ed": 1,
-  "14b5da8c89": 1,
-  "03aed2aa7d": 1,
-  "5ba63e3362": 1,
-  "74bdf41945": 1
+  "f8771881ed": 2,
+  "14b5da8c89": 2,
+  "03aed2aa7d": 2,
+  "5ba63e3362": 2,
+  "74bdf41945": 2,
+  "6bd7cfc95e": 1,
+  "56caf65767": 1,
+  "26f855aad8": 1,
+  "a434ad1d9e": 1,
+  "7897d34e05": 1
  }
 }
