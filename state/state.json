@@ -3346,6 +3346,17 @@
     "çöken"
    ],
    "at": "2026-11-03T17:49:50.866821+00:00"
+  },
+  {
+   "fp": [
+    "ankar",
+    "don",
+    "sıcak",
+    "uyarı",
+    "valil",
+    "zirai"
+   ],
+   "at": "2026-11-03T18:08:42.873248+00:00"
   }
  ],
  "posted": [
@@ -5446,6 +5457,22 @@
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/zeytinburnunda-terasi-coken-bina-tahliye-edildi-4869482",
     "BirGün: https://www.birgun.net/haber/zeytinburnu-nda-terasi-kismen-coken-4-katli-bina-bosaltildi-744328"
    ]
+  },
+  {
+   "id": "80a436893c",
+   "post_id": "529346797199852_1456658733240501",
+   "title": "Ankara Valiliğinden kış uyarısı: Sıcaklıklar hissedilir derecede azalacak",
+   "at": "2026-11-03T18:08:42.873248+00:00",
+   "yazim": "claude",
+   "metin": "Ankara'da 4-10 Kasım arasında sıcaklıklar sıfıra kadar düşecek.\n\n— Ankara Valiliği, Meteoroloji'nin son verilerine dayanarak uyarı yaptı.\n— İl merkezinde en düşük sıcaklığın 0 dereceye kadar inmesi bekleniyor.\n— Yerel ölçekte zirai don riski var. Valilik, vatandaşlardan tedbirli olmalarını istedi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/valilikten-ankaralilara-soguk-hava-ve-zirai-don-uyarisi-962131.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/meteorolojiden-zirai-don-uyarisi-43364939",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/bakanliktan-ic-kesimler-icin-zirai-don-uyarisi-sicakliklar-sifirin-altina-dusecek-4869473",
+    "Evrensel: https://www.evrensel.net/haber/6007879/ankara-valiliginden-kis-uyarisi-sicakliklar-hissedilir-derecede-azalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/guncel-haberler/valilik-ankaralilari-uyardi-sicakliklar-sifiri-gorecek-1-2082212",
+    "Diken: https://www.diken.com.tr/ic-kesimler-icin-don-uyarisi/?utm_source=rss&utm_medium=rss&utm_campaign=ic-kesimler-icin-don-uyarisi"
+   ]
   }
  ],
  "fails": {
@@ -5694,7 +5721,7 @@
   "640d3c2e8b": 2,
   "19f2c9a4ff": 2,
   "36cca2ef5f": 1,
-  "d0706b2215": 1,
+  "d0706b2215": 2,
   "3b8b1d13e7": 1
  }
 }
