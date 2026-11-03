@@ -2610,6 +2610,17 @@
     "ölçek"
    ],
    "at": "2026-11-03T12:01:10.811544+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "90",
+    "aştı",
+    "baraj",
+    "istan",
+    "yüzde"
+   ],
+   "at": "2026-11-03T12:04:59.083869+00:00"
   }
  ],
  "posted": [
@@ -4531,6 +4542,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/edirne-de-rusvet-operasyonu-7-tutuklama-2552780",
     "BirGün: https://www.birgun.net/haber/edirne-de-tapu-mudurluklerinde-rusvet-sorusturmasi-7-kisi-tutuklandi-744287"
    ]
+  },
+  {
+   "id": "59359d61dd",
+   "post_id": "529346797199852_1456374153268959",
+   "title": "İSKİ baraj doluluk oranları 3 Kasım: İstanbul barajları yüzde kaç dolu?",
+   "at": "2026-11-03T12:04:59.083869+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul barajlarının toplam doluluk oranı yüzde 54,17'ye çıktı.\n\n— Bir yıl önce aynı dönemde oran yüzde 22,54'tü.\n— Darlık Barajı yüzde 90,23 ile en dolu baraj oldu.\n— Kazandere'de yüzde 4,05, Pabuçdere'de yüzde 2,96 ile seviyeler çok düşük.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-istanbul-barajlarinda-ucurum-kimi-yuzde-90i-asti-kimi-yuzde-3te-kaldi-1749192",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/iski-son-verileri-paylasti-iste-10-barajin-doluluk-oranlari-4869364",
+    "Evrensel: https://www.evrensel.net/haber/6007810/iski-baraj-doluluk-oranlari-3-kasim-istanbul-barajlari-yuzde-kac-dolu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -4758,6 +4782,7 @@
   "cc4c96d857": 2,
   "56e80c5864": 1,
   "285175561b": 1,
-  "d13118d9ea": 1
+  "d13118d9ea": 1,
+  "99021f0975": 1
  }
 }
