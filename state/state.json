@@ -2,23 +2,6 @@
  "seen": [
   {
    "fp": [
-    "anlam",
-    "cop31",
-    "dan",
-    "geçme",
-    "harek",
-    "iklim",
-    "karşı",
-    "krizi",
-    "tarka",
-    "wake",
-    "çağrı",
-    "şarkı"
-   ],
-   "at": "2026-11-01T23:17:25.745458+00:00"
-  },
-  {
-   "fp": [
     "1",
     "anton",
     "formu",
@@ -2453,6 +2436,46 @@
     "hafta"
    ],
    "at": "2026-11-03T11:16:39.895480+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "devre",
+    "gözal",
+    "kript",
+    "opera",
+    "platf",
+    "tmsf",
+    "şirke"
+   ],
+   "at": "2026-11-03T11:27:57.678177+00:00"
+  },
+  {
+   "fp": [
+    "atand",
+    "elibo",
+    "genel",
+    "gökha",
+    "müdür",
+    "takas"
+   ],
+   "at": "2026-11-03T11:28:55.326759+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "anlaş",
+    "arası",
+    "başka",
+    "derin",
+    "devle",
+    "güney",
+    "imzal",
+    "kore",
+    "lee",
+    "türki"
+   ],
+   "at": "2026-11-03T11:29:09.119626+00:00"
   }
  ],
  "posted": [
@@ -4344,6 +4367,22 @@
     "Evrensel: https://www.evrensel.net/haber/6007809/euroleague-de-10-uncu-hafta-yarin-basliyor-anadolu-efes-fenerbahce-ve-besiktas-evinde-galibiyet-arayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/euroleaguede-10-hafta-basliyor-uc-turk-temsilcisi-de-evinde-oynayacak-744254"
    ]
+  },
+  {
+   "id": "9b6999d0cf",
+   "post_id": "529346797199852_1456340606605647",
+   "title": "Türkiye ile Güney Kore arasında 4 anlaşma imzalandı",
+   "at": "2026-11-03T11:29:09.119626+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye ile Güney Kore 4 anlaşma imzaladı.\n\n— Anlaşmalar bilim ve teknoloji, doğal kaynaklar ve madencilik alanlarını kapsıyor.\n\n— Enerji ve nükleer enerji de anlaşmaların konuları arasında.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/guney-kore-devlet-baskani-leeden-turkiye-ile-is-birligini-derinlestirme-mesaji-962073.html",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/turkiye-ile-guney-kore-arasinda-anlasmalar-imzalandi-962071.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/guney-kore-devlet-baskani-lee-savunma-sanayisi-isbirligini-derinlestirmeyi-kararlastirdik-43364464",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/enerjiden-nukleere-madencilikten-teknolojiye-turkiye-ile-guney-kore-arasinda-4-buyuk-anlasma-4869378",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-seulde-tarihi-zirvenin-detaylarini-duyurdu-turkiye-ile-guney-kore-arasinda-4-kritik-anlasma-4869374",
+    "BirGün: https://www.birgun.net/haber/turkiye-ile-guney-kore-arasinda-4-anlasma-imzalandi-744279"
+   ]
   }
  ],
  "fails": {
@@ -4521,7 +4560,6 @@
   "988797fc46": 1,
   "d0d6d6f28d": 1,
   "6198ac5d5c": 1,
-  "a328652893": 2,
   "de87251b49": 1,
   "baed04557f": 1,
   "60a6302acd": 1,
@@ -4551,7 +4589,6 @@
   "14b5da8c89": 2,
   "6bd7cfc95e": 1,
   "56caf65767": 1,
-  "26f855aad8": 2,
   "a434ad1d9e": 1,
   "7897d34e05": 1,
   "252c7ff17d": 1,
@@ -4561,11 +4598,17 @@
   "fa5f81e4b7": 2,
   "d05e3fbcbb": 1,
   "6f7abd9efb": 1,
-  "4c5bda9f99": 1,
-  "4104edb7a3": 1,
+  "4c5bda9f99": 2,
+  "4104edb7a3": 2,
   "298e65fedc": 1,
-  "173d1228e3": 1,
-  "86633abcd0": 1,
-  "e6b09240d0": 1
+  "173d1228e3": 2,
+  "86633abcd0": 2,
+  "e6b09240d0": 1,
+  "290a187d0f": 1,
+  "27700c92f3": 1,
+  "7695d3c0ee": 1,
+  "aee2c48791": 1,
+  "bef24e9587": 1,
+  "084fd53014": 1
  }
 }
