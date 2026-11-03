@@ -2,19 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "elend",
-    "gitti",
-    "isim",
-    "kasım",
-    "kim",
-    "maste",
-    "veda"
-   ],
-   "at": "2026-11-01T21:39:10.314803+00:00"
-  },
-  {
-   "fp": [
     "3",
     "4",
     "6",
@@ -2256,6 +2243,51 @@
     "migue"
    ],
    "at": "2026-11-03T09:28:18.048204+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "beled",
+    "doğan",
+    "görev",
+    "merke",
+    "uzakl",
+    "şeniz"
+   ],
+   "at": "2026-11-03T09:40:54.058769+00:00"
+  },
+  {
+   "fp": [
+    "attı",
+    "işitm",
+    "kadın",
+    "kaybı",
+    "kolum",
+    "nevşe",
+    "sokak",
+    "tanım",
+    "tokat",
+    "çarpt"
+   ],
+   "at": "2026-11-03T09:41:04.124389+00:00"
+  },
+  {
+   "fp": [
+    "115",
+    "açan",
+    "bulun",
+    "dinoz",
+    "izler",
+    "kanın",
+    "kemiğ",
+    "kez",
+    "keşif",
+    "kimya",
+    "milyo",
+    "yıllı",
+    "çığır"
+   ],
+   "at": "2026-11-03T09:42:28.562879+00:00"
   }
  ],
  "posted": [
@@ -4050,6 +4082,20 @@
     "Medyascope: https://medyascope.tv/2026/11/03/ispanyol-futbolcu-jesus-de-miguel-hayatini-kaybetti/",
     "Karar: https://www.karar.com/dunya-haberleri/ispanyol-futbolcu-jesus-de-miguel-yasamini-yitirdi-2082113"
    ]
+  },
+  {
+   "id": "1604e3508b",
+   "post_id": "529346797199852_1456263666613341",
+   "title": "115 milyon yıllık dinozor fosilinde kanın kimyasal izleri tespit edildi",
+   "at": "2026-11-03T09:42:28.562879+00:00",
+   "yazim": "claude",
+   "metin": "Brezilya'da bulunan 115 milyon yıllık bir dinozor fosilinin kemiğinde, kanın oksijen taşıyan \"hem\" molekülünün izleri bulundu.\n\n— Araştırmacılar bu izleri mineralleşmiş kırmızı kan hücrelerine bağladı.\n— Bağımsız uzmanlar ise bu yapıların gerçekten kan hücresi olup olmadığı konusunda temkinli davranıyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/dunya/cigir-acan-bir-kesif-115-milyon-yillik-bir-dinozorun-kemiginde-ilk-kez-bulundu-7693211",
+    "BirGün: https://www.birgun.net/haber/115-milyon-yillik-dinozor-kemiginde-kanin-kimyasal-izleri-bulundu-744227",
+    "Karar: https://www.karar.com/guncel-haberler/115-milyon-yillik-dinozor-fosilinde-kanin-kimyasal-izleri-tespit-edildi-2082094",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/cigir-acan-bir-kesif-115-milyon-yillik-bir-dinozorun-kemiginde-ilk-kez-bulundu-7693211"
+   ]
   }
  ],
  "fails": {
@@ -4238,10 +4284,8 @@
   "36dfdbd4bf": 1,
   "ca3d405c70": 1,
   "89631b8e1d": 1,
-  "94da87bbfb": 2,
-  "6d78931600": 2,
   "0cfe574e83": 1,
-  "cec923bb53": 1,
+  "cec923bb53": 2,
   "ba1cab2503": 1,
   "0c34a99176": 1,
   "a4fde2cefd": 1,
@@ -4250,8 +4294,13 @@
   "511e9e9aa5": 1,
   "3c540aba44": 1,
   "d432a0bf75": 1,
-  "4443e29af2": 1,
-  "9bcc5d273e": 1,
-  "622e85c0a6": 1
+  "4443e29af2": 2,
+  "9bcc5d273e": 2,
+  "622e85c0a6": 2,
+  "44e34bc6ae": 1,
+  "344982ab67": 1,
+  "74e42ffee0": 1,
+  "a0d8b3a709": 1,
+  "ec1ea3bf71": 1
  }
 }
