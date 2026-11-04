@@ -2546,6 +2546,20 @@
     "tesis"
    ],
    "at": "2026-11-04T09:47:17.648616+00:00"
+  },
+  {
+   "fp": [
+    "410",
+    "artış",
+    "ayda",
+    "bin",
+    "dikka",
+    "kişi",
+    "nüfus",
+    "türki",
+    "çeken"
+   ],
+   "at": "2026-11-04T10:00:43.493781+00:00"
   }
  ],
  "posted": [
@@ -5002,6 +5016,19 @@
     "BirGün: https://www.birgun.net/haber/fransa-da-kan-depolama-tesislerine-siber-saldiri-744491",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/fransada-yeni-siber-saldiri-alarmi-saglik-sektoru-hedefte-7694013"
    ]
+  },
+  {
+   "id": "d569181e83",
+   "post_id": "529346797199852_1457278023178572",
+   "title": "Türkiye nüfusunda dikkat çeken artış: 9 ayda 410 bin kişi",
+   "at": "2026-11-04T10:00:43.493781+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'nin nüfusu 2026'nın ilk 9 ayında 410 bin 118 kişi arttı.\n\n— 2025'in sonunda 86 milyon 92 bin 168 olan nüfus, 1 Ekim'de 86 milyon 502 bin 286 kişiye ulaştı.\n— Sadece son 3 ayda (1 Temmuz-1 Ekim) 181 bin 684 kişi daha arttı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/bilgi/foto/iski-baraj-doluluk-oranlari-4-kasim-2026-3-baraj-yuzde-70-in-uzerinde-2-baraj-yuzde-5-in-altinda-istanbul-barajlari-yuzde-kac-doldu-son-durum-ne-3924775",
+    "Karar: https://www.karar.com/guncel-haberler/turkiye-nufusunda-dikkat-ceken-artis-9-ayda-410-bin-kisi-2082282",
+    "Diken: https://www.diken.com.tr/turkiyenin-nufusu-dokuz-ayda-410-bin-118-kisi-artti/?utm_source=rss&utm_medium=rss&utm_campaign=turkiyenin-nufusu-dokuz-ayda-410-bin-118-kisi-artti"
+   ]
   }
  ],
  "fails": {
@@ -5288,7 +5315,7 @@
   "a1c3d80db2": 2,
   "31315d8c67": 1,
   "93ae1d2066": 1,
-  "8610eb1864": 1,
+  "8610eb1864": 2,
   "d569181e83": 1,
   "93d0ceeeff": 1,
   "3b9d3f1b5d": 1,
@@ -5301,9 +5328,12 @@
   "0e36d74ff1": 1,
   "f5f7cace79": 2,
   "1f4135f3d8": 1,
-  "5d378207f8": 1,
-  "0238d3e66c": 1,
-  "d0fcc079ab": 1,
-  "36628179b6": 1
+  "5d378207f8": 2,
+  "0238d3e66c": 2,
+  "d0fcc079ab": 2,
+  "36628179b6": 2,
+  "a5d73773d7": 1,
+  "556e34c5dd": 1,
+  "0ca1eb7bb1": 1
  }
 }
