@@ -2,23 +2,6 @@
  "seen": [
   {
    "fp": [
-    "300",
-    "ahmet",
-    "akın",
-    "altay",
-    "avuka",
-    "borsa",
-    "gürle",
-    "iddia",
-    "işare",
-    "liral",
-    "milyo",
-    "şık"
-   ],
-   "at": "2026-11-02T20:57:12.106314+00:00"
-  },
-  {
-   "fp": [
     "aleyh",
     "açıkl",
     "bahis",
@@ -2452,6 +2435,25 @@
     "öğren"
    ],
    "at": "2026-11-04T08:49:14.590688+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "ara",
+    "ardın",
+    "başba",
+    "gölge",
+    "harek",
+    "iddia",
+    "israi",
+    "kalam",
+    "netan",
+    "seçim",
+    "siyas",
+    "sonra",
+    "şok"
+   ],
+   "at": "2026-11-04T09:02:10.106430+00:00"
   }
  ],
  "posted": [
@@ -4848,6 +4850,22 @@
     "Evrensel: https://www.evrensel.net/haber/6007947/2026-kpss-lisans-brans-bazinda-siralamalari-aciklandi-siralama-nasil-ogrenilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/kpss-lisans-brans-siralamasi-son-dakika-osym-ais-brans-bazinda-siralama-2082293"
    ]
+  },
+  {
+   "id": "3367ccccc9",
+   "post_id": "529346797199852_1457233856516322",
+   "title": "Çin'den ABD seçimleri sonrası açıklama: Birlikte çalışmaya hazırız",
+   "at": "2026-11-04T09:02:10.106430+00:00",
+   "yazim": "claude",
+   "metin": "Çin, ABD'deki seçimleri ülkenin iç meselesi olarak gördüğünü söyledi.\n\nDışişleri Sözcüsü Mao Ning, Washington yönetimiyle birlikte çalışmaya hazır olduklarını belirtti.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/israilli-siyasiler-abd-secim-sonuclarinin-ardindan-netanyahunun-basbakan-olarak-kalamayacagini-vurguladi/4111171",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/israilli-siyasetciler-abd-secimleri-sonrasi-netanyahu-basbakan-kalamaz-962205.html",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi-962194.html",
+    "Milliyet: https://www.milliyet.com.tr/dunya/son-dakika-abd-ara-secimlerinin-golgesinde-israilde-hareketlilik-sok-netanyahu-iddiasi-7693984",
+    "BirGün: https://www.birgun.net/haber/cin-den-abd-secimleri-sonrasi-aciklama-birlikte-calismaya-haziriz-744461",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/son-dakika-abd-ara-secimlerinin-golgesinde-israilde-hareketlilik-sok-netanyahu-iddiasi-7693984"
+   ]
   }
  ],
  "fails": {
@@ -5132,6 +5150,8 @@
   "b207c2b49e": 1,
   "588f227562": 1,
   "d4964f4a9f": 1,
-  "a1c3d80db2": 1
+  "a1c3d80db2": 2,
+  "31315d8c67": 1,
+  "6e6b29c5e3": 1
  }
 }
