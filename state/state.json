@@ -2896,6 +2896,16 @@
     "tutuk"
    ],
    "at": "2026-11-04T14:20:18.057335+00:00"
+  },
+  {
+   "fp": [
+    "bulun",
+    "cesed",
+    "deniz",
+    "izmir",
+    "kadın"
+   ],
+   "at": "2026-11-04T14:33:18.640009+00:00"
   }
  ],
  "posted": [
@@ -5578,6 +5588,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/27-5-milyar-liralik-islem-hacmi-ortaya-cikti-198-kisi-tutuklandi-2553259",
     "BirGün: https://www.birgun.net/haber/27-milyar-509-milyon-liralik-islem-hacmi-21-ildeki-operasyonlarda-198-kisi-tutuklandi-744540"
    ]
+  },
+  {
+   "id": "d067d8ba16",
+   "post_id": "529346797199852_1457497856489922",
+   "title": "İzmir'de şüpheli ölüm: Denizden cesedi çıktı, kimliği bulunamadı",
+   "at": "2026-11-04T14:33:18.640009+00:00",
+   "yazim": "claude",
+   "metin": "İzmir Bayraklı'da denizde bir kadın cesedi bulundu.\n\n— 30 yaşlarında olduğu değerlendirilen kadının üzerinden kimlik belgesi çıkmadı.\n— Cenaze otopsi için Adli Tıp morguna kaldırıldı. Polis inceleme yürütüyor.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-denizde-kadin-cesedi-bulundu-3924911",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/izmir-de-supheli-olum-denizden-cesedi-cikti-kimligi-bulunamadi-2553320",
+    "BirGün: https://www.birgun.net/haber/izmir-de-denizde-kadin-cesedi-bulundu-744595",
+    "BirGün: https://www.birgun.net/haber/izmir-de-bir-kadin-evinde-yarali-halde-bulundu-aile-uyeleri-gozaltina-alindi-744573"
+   ]
   }
  ],
  "fails": {
@@ -5928,6 +5952,9 @@
   "2dbd02c098": 1,
   "8216887570": 1,
   "07b8c16759": 1,
-  "5b013e5599": 1
+  "5b013e5599": 1,
+  "8a6ffbad2d": 1,
+  "4e7c23534b": 1,
+  "f59030faa9": 1
  }
 }
