@@ -2399,6 +2399,15 @@
     "trump"
    ],
    "at": "2026-11-04T06:05:49.515161+00:00"
+  },
+  {
+   "fp": [
+    "50",
+    "aştı",
+    "dolar",
+    "liray"
+   ],
+   "at": "2026-11-04T06:26:57.433558+00:00"
   }
  ],
  "posted": [
@@ -4664,6 +4673,19 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-turkiye-nin-tamami-saganak-yagislarin-etkisi-altinda-2-turuncu-21-sari-uyari-4-kasim-hava-durumu-3924760",
     "Evrensel: https://www.evrensel.net/haber/6007910/saganak-ve-firtina-etkisini-artiracak-meteorolojiden-bircok-il-icin-sel-ve-su-baskini-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "aa4bfb29da",
+   "post_id": "529346797199852_1457129736526734",
+   "title": "Döviz kurlarında yükseliş sürüyor: Dolar 50 lirayı aştı",
+   "at": "2026-11-04T06:26:57.433558+00:00",
+   "yazim": "claude",
+   "metin": "Dolar 50 lirayı aştı, euro 56 lirayı geçti.\n\n— Serbest piyasada dolar 50,02 liradan güne başladı. Dün 49,98 liradan kapanmıştı.\n— Yatırımcılar ABD'deki ara seçimleri ve İran'la süren savaşı yakından izliyor.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/bilgi/foto/lpg-ye-zam-geldi-otogaz-litre-fiyati-50-tl-yi-asti-guncel-lpg-benzin-ve-motorin-fiyatlari-ne-kadar-iste-3-kasim-2026-akaryakit-fiyatlari-3924630",
+    "BirGün: https://www.birgun.net/haber/doviz-kurlarinda-yukselis-suruyor-dolar-50-lirayi-asti-744411",
+    "Diken: https://www.diken.com.tr/dolar-50-lirayi-asti-4-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dolar-50-lirayi-asti-4-kasim-2026"
+   ]
   }
  ],
  "fails": {
@@ -4933,6 +4955,7 @@
   "bd10cec7a0": 2,
   "ffc7a09622": 2,
   "cc037c8fac": 2,
-  "aa4bfb29da": 1
+  "aa4bfb29da": 1,
+  "800e36f870": 1
  }
 }
