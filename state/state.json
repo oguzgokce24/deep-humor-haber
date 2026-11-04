@@ -2447,6 +2447,21 @@
     "göçer"
    ],
    "at": "2026-11-04T07:39:38.589467+00:00"
+  },
+  {
+   "fp": [
+    "74",
+    "bakan",
+    "depre",
+    "indir",
+    "konut",
+    "peşin",
+    "yerle",
+    "yüzde",
+    "çiftç",
+    "ödeme"
+   ],
+   "at": "2026-11-04T07:52:17.724222+00:00"
   }
  ],
  "posted": [
@@ -4781,6 +4796,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/magazin/ferhat-gocer-cerrahligi-birakma-kararini-anlatti-aglaya-aglaya-biraktim-2553124",
     "Karar: https://www.karar.com/hayat-haberleri/ferhat-gocer-cerrahligi-aglaya-aglaya-biraktim-2082266"
    ]
+  },
+  {
+   "id": "0796a76c12",
+   "post_id": "529346797199852_1457182976521410",
+   "title": "Deprem konutları ve iş yerleri: Bakan Çiftçi peşin ödeme indirimlerini açıkladı",
+   "at": "2026-11-04T07:52:17.724222+00:00",
+   "yazim": "claude",
+   "metin": "Bakan Çiftçi duyurdu: Deprem konutlarında peşin ödemeye yüzde 74, iş yerlerinde yüzde 48 indirim uygulanıyor.\n\n— Peşin ödemelerde indirim 31 Aralık 2026'ya kadar geçerli.\n— Taksitli ödemede konut teslim tarihinden sonra 2 yıl ödeme yok, vade 18 yıl.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/bakan-ciftci-deprem-konutlari-ve-is-yerlerindeki-pesin-odeme-indirimlerini-duyurdu/4111037",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/deprem-bolgesindeki-kalici-konutlarda-pesin-odemeye-yuzde-74-indirim-962184.html",
+    "Habertürk: https://www.haberturk.com/ekonomi/deprem-konutlarinda-pesin-odemeye-yuzde-74-indirim-3924808",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/yuzde-74-indirim-2-yil-odemesiz-18-yil-vade-son-tarih-aciklandi-deprem-konutlari-icin-buyuk-firsat-4869652",
+    "BirGün: https://www.birgun.net/haber/deprem-konutlari-ve-is-yerleri-bakan-ciftci-pesin-odeme-indirimlerini-acikladi-744442"
+   ]
   }
  ],
  "fails": {
@@ -5058,6 +5088,7 @@
   "0796a76c12": 2,
   "b36c3cf7d7": 2,
   "1bd8c6767b": 1,
-  "f5a483189d": 1
+  "f5a483189d": 1,
+  "290b6fe4b4": 1
  }
 }
