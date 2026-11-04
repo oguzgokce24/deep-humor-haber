@@ -2,18 +2,6 @@
  "seen": [
   {
    "fp": [
-    "108",
-    "bakan",
-    "bin",
-    "ceza",
-    "lira",
-    "rekla",
-    "yanıl"
-   ],
-   "at": "2026-11-03T02:53:01.873685+00:00"
-  },
-  {
-   "fp": [
     "2",
     "düştü",
     "kişi",
@@ -2916,6 +2904,14 @@
     "sigar"
    ],
    "at": "2026-11-04T14:46:25.863296+00:00"
+  },
+  {
+   "fp": [
+    "etkil",
+    "istan",
+    "sağan"
+   ],
+   "at": "2026-11-04T14:59:30.198646+00:00"
   }
  ],
  "posted": [
@@ -5625,6 +5621,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aracta-arama-yapildi-kirsehir-de-kacakcilik-operasyonu-cok-sayida-sigara-ve-alkol-ele-gecirildi-2553319",
     "Yeni Şafak: https://www.yenisafak.com/gundem/kirsehirde-kacak-urun-baskini-binlerce-liralik-urun-ele-gecirildi-4869803"
    ]
+  },
+  {
+   "id": "4b1ed6ce57",
+   "post_id": "529346797199852_1457519666487741",
+   "title": "İstanbul'da sağanak etkili oldu",
+   "at": "2026-11-04T14:59:30.198646+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da sağanak etkili oldu.\n\n— Yağmur Anadolu Yakası'nın birçok ilçesinde, Avrupa Yakası'nda ise Beşiktaş ve Şişli'de görüldü.\n— Bazı yollarda ve caddelerde su birikti.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/antalya/alanyada-saganak-hayati-olumsuz-etkiledi-3489036",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/son-dakika-istanbulda-yagmur-saat-kaca-kadar-yagacak-yagis-ne-kadar-surecek-4869777",
+    "BirGün: https://www.birgun.net/haber/istanbul-da-saganak-etkili-oldu-744568"
+   ]
   }
  ],
  "fails": {
@@ -5981,7 +5990,9 @@
   "f59030faa9": 1,
   "53e05813e1": 1,
   "f1a7a7d39c": 1,
-  "50f533a1c9": 1,
-  "e7f582acad": 1
+  "50f533a1c9": 2,
+  "e7f582acad": 2,
+  "d68d2dc848": 1,
+  "c3d198b70d": 1
  }
 }
