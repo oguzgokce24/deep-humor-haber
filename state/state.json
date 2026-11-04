@@ -2597,6 +2597,43 @@
     "çarpı"
    ],
    "at": "2026-11-04T11:23:00.423903+00:00"
+  },
+  {
+   "fp": [
+    "acil",
+    "araçt",
+    "bildi",
+    "bulun",
+    "cesed",
+    "durum",
+    "ekipl",
+    "geçir",
+    "harek",
+    "insan",
+    "kaza",
+    "kocae",
+    "korku",
+    "olay",
+    "otoma",
+    "yanan",
+    "ölü"
+   ],
+   "at": "2026-11-04T11:35:28.369081+00:00"
+  },
+  {
+   "fp": [
+    "14",
+    "ağır",
+    "evin",
+    "garaj",
+    "metru",
+    "nevşe",
+    "yangı",
+    "yaral",
+    "yaşın",
+    "çocuk"
+   ],
+   "at": "2026-11-04T11:35:31.871647+00:00"
   }
  ],
  "posted": [
@@ -5140,6 +5177,20 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/esenyurtta-iki-metrobus-capisti-yaralilar-var-4869737",
     "Karar: https://www.karar.com/guncel-haberler/son-dakika-iki-metrobus-carpisti-yaralilar-var-2082341"
    ]
+  },
+  {
+   "id": "3fefee41dc",
+   "post_id": "529346797199852_1457346926505015",
+   "title": "Nevşehir'de metruk evin garajında yangın: 14 yaşındaki çocuk ağır yaralandı",
+   "at": "2026-11-04T11:35:31.871647+00:00",
+   "yazim": "claude",
+   "metin": "Nevşehir'de metruk bir evin garajındaki hurda araçta yangın çıktı, garajda bulunan 14 yaşındaki bir çocuk ağır yaralandı.\n\n— Kıyafetleri alev alan çocuk dışarı çıktı, çevredekilerin müdahalesiyle kurtarıldı.\n— Ağır yaralanan çocuk ambulansla Nevşehir Devlet Hastanesi'ne kaldırıldı.\n— Yangının nedeni henüz belirlenemedi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/nevsehir/nevsehirde-garajda-cikan-yanginda-bir-cocuk-agir-yaralandi-3488904",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/metruk-evin-garajinda-yangin-14-yasindaki-cocuk-agir-yaralandi-2553237",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-iscilerin-kaldigi-konteynerdeki-yangin-3-u-agir-12-kisi-yaralandi-2553217",
+    "BirGün: https://www.birgun.net/haber/nevsehir-de-metruk-evin-garajinda-yangin-14-yasindaki-cocuk-agir-yaralandi-744517"
+   ]
   }
  ],
  "fails": {
@@ -5453,7 +5504,6 @@
   "824bf1d45c": 1,
   "45463049d5": 1,
   "9b3b1e91fa": 1,
-  "ed533d5e30": 1,
-  "048a857177": 2
+  "ed533d5e30": 1
  }
 }
