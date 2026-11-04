@@ -2,19 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "adliy",
-    "binas",
-    "inşaa",
-    "işçi",
-    "kazas",
-    "muş",
-    "yaral"
-   ],
-   "at": "2026-11-02T19:37:20.266283+00:00"
-  },
-  {
-   "fp": [
     "istan",
     "sağan",
     "taksi",
@@ -2450,6 +2437,16 @@
     "şampi"
    ],
    "at": "2026-11-04T07:26:33.009405+00:00"
+  },
+  {
+   "fp": [
+    "ağlay",
+    "bırak",
+    "cerra",
+    "ferha",
+    "göçer"
+   ],
+   "at": "2026-11-04T07:39:38.589467+00:00"
   }
  ],
  "posted": [
@@ -4771,6 +4768,19 @@
     "BirGün: https://www.birgun.net/haber/anadolu-efes-euroleaguede-paris-basketbolu-agirlayacak-744441",
     "BirGün: https://www.birgun.net/haber/besiktas-avrupa-liginde-celtic-deplasmanina-cikiyor-744431"
    ]
+  },
+  {
+   "id": "3b661d40a3",
+   "post_id": "529346797199852_1457174436522264",
+   "title": "Ferhat Göçer cerrahlığı bırakma kararını anlattı: 'Ağlaya ağlaya bıraktım'",
+   "at": "2026-11-04T07:39:38.589467+00:00",
+   "yazim": "claude",
+   "metin": "Müzisyen Ferhat Göçer:\n\n“Ama en son ağlaya ağlaya bıraktım. En ufak bir hata hastanın hayatına mal olabilir.”",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/magazin/foto/ferhat-gocer-cerrahligi-aglaya-aglaya-biraktim-3924646",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/magazin/ferhat-gocer-cerrahligi-birakma-kararini-anlatti-aglaya-aglaya-biraktim-2553124",
+    "Karar: https://www.karar.com/hayat-haberleri/ferhat-gocer-cerrahligi-aglaya-aglaya-biraktim-2082266"
+   ]
   }
  ],
  "fails": {
@@ -5045,8 +5055,9 @@
   "bfb6beadb1": 2,
   "3b661d40a3": 2,
   "b38828a66a": 1,
-  "0796a76c12": 1,
-  "b36c3cf7d7": 1,
-  "1bd8c6767b": 1
+  "0796a76c12": 2,
+  "b36c3cf7d7": 2,
+  "1bd8c6767b": 1,
+  "f5a483189d": 1
  }
 }
