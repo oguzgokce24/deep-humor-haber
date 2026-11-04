@@ -2,41 +2,6 @@
  "seen": [
   {
    "fp": [
-    "gök",
-    "gürül",
-    "istan",
-    "sağan",
-    "uyarı"
-   ],
-   "at": "2026-11-02T23:39:57.386164+00:00"
-  },
-  {
-   "fp": [
-    "12",
-    "2",
-    "adana",
-    "gözal",
-    "taban",
-    "vurul",
-    "yaral",
-    "yaşın",
-    "yüzün",
-    "çocuk"
-   ],
-   "at": "2026-11-02T23:40:05.244496+00:00"
-  },
-  {
-   "fp": [
-    "etkil",
-    "istan",
-    "oluyo",
-    "sağan",
-    "çöktü"
-   ],
-   "at": "2026-11-02T23:53:41.594506+00:00"
-  },
-  {
-   "fp": [
     "1",
     "12",
     "13",
@@ -2634,6 +2599,27 @@
     "çocuk"
    ],
    "at": "2026-11-04T11:35:31.871647+00:00"
+  },
+  {
+   "fp": [
+    "27",
+    "327",
+    "5",
+    "dolan",
+    "etmiş",
+    "gözal",
+    "hacmi",
+    "işlem",
+    "liral",
+    "mağdu",
+    "milya",
+    "opera",
+    "sayıd",
+    "vatan",
+    "vurgu",
+    "şebek"
+   ],
+   "at": "2026-11-04T11:58:21.563249+00:00"
   }
  ],
  "posted": [
@@ -5191,6 +5177,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-iscilerin-kaldigi-konteynerdeki-yangin-3-u-agir-12-kisi-yaralandi-2553217",
     "BirGün: https://www.birgun.net/haber/nevsehir-de-metruk-evin-garajinda-yangin-14-yasindaki-cocuk-agir-yaralandi-744517"
    ]
+  },
+  {
+   "id": "eb8677e42a",
+   "post_id": "529346797199852_1457364719836569",
+   "title": "27 milyar 509 milyon liralık işlem hacmi: 21 ildeki operasyonlarda 198 kişi tutuklandı",
+   "at": "2026-11-04T11:58:21.563249+00:00",
+   "yazim": "claude",
+   "metin": "21 ilde yapılan dolandırıcılık operasyonlarında 198 kişi tutuklandı.\n\n— Şüphelilerin hesaplarında 27 milyar 509 milyon liralık işlem hacmi bulundu.\n— Bilgiler MASAK raporlarından çıktı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/27-5-milyar-liralik-vurgun-yapmislar-cok-sayida-magdur-var-dolandiricilik-sebekelerine-operasyon-327-gozalti-43365652",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-icisleri-bakanligi-327-supheli-yakalandi-dolandiricilik-operasyonu-3924867",
+    "BirGün: https://www.birgun.net/haber/27-milyar-509-milyon-liralik-islem-hacmi-21-ildeki-operasyonlarda-198-kisi-tutuklandi-744540",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/27-5-milyar-liralik-vurgun-yapmislar-cok-sayida-magdur-var-dolandiricilik-sebekelerine-operasyon-327-gozalti-43365652"
+   ]
   }
  ],
  "fails": {
@@ -5503,7 +5503,10 @@
   "83acc246c5": 1,
   "824bf1d45c": 1,
   "45463049d5": 1,
-  "9b3b1e91fa": 1,
-  "ed533d5e30": 1
+  "9b3b1e91fa": 2,
+  "ed533d5e30": 1,
+  "e266a4c664": 1,
+  "3b9bae444d": 1,
+  "b05b99e9bd": 1
  }
 }
