@@ -2,20 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ahmet",
-    "başka",
-    "hayat",
-    "holdi",
-    "kaybe",
-    "kurul",
-    "nazif",
-    "yönet",
-    "zorlu"
-   ],
-   "at": "2026-11-02T20:34:03.637750+00:00"
-  },
-  {
-   "fp": [
     "1",
     "abd",
     "acele",
@@ -2455,6 +2441,36 @@
     "şüphe"
    ],
    "at": "2026-11-04T08:04:49.709285+00:00"
+  },
+  {
+   "fp": [
+    "502",
+    "86",
+    "milyo",
+    "nin",
+    "nüfus",
+    "türki"
+   ],
+   "at": "2026-11-04T08:35:52.046418+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "4",
+    "baraj",
+    "bugün",
+    "diyen",
+    "dolul",
+    "durum",
+    "günlü",
+    "iski",
+    "istan",
+    "kasım",
+    "menüs",
+    "pişir",
+    "yemeğ"
+   ],
+   "at": "2026-11-04T08:36:20.773652+00:00"
   }
  ],
  "posted": [
@@ -4820,6 +4836,21 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/04/11-ilde-4-ayri-operasyon-230-supheliye-islem",
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-11-ilde-4-ayri-operasyon-230-gozalti-3924807"
    ]
+  },
+  {
+   "id": "9cb8a52189",
+   "post_id": "529346797199852_1457216156518092",
+   "title": "İSKİ verileri açıkladı: İstanbul'da barajların doluluk oranında son durum",
+   "at": "2026-11-04T08:36:20.773652+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'daki barajların ortalama doluluk oranı yüzde 54,75 oldu.\n\n— İSKİ'nin 4 Kasım 2026 tarihli ölçümlerine göre, kente su veren on ana barajın ortalaması bu.\n— En dolu baraj yüzde 90,34 ile Darlık Barajı. En boş baraj ise yüzde 3,08 ile Pabuçdere Barajı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/iski-acikladi-4-kasim-2026-istanbul-baraj-doluluk-oranlari-yuzde-kac-oldu-barajlarda-son-durum-2553119",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-4-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2553108",
+    "BirGün: https://www.birgun.net/haber/iski-verileri-acikladi-istanbul-da-barajlarin-doluluk-oraninda-son-durum-744422",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-4-kasim-2026-43365349",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-4-kasim-2026-43365349"
+   ]
   }
  ],
  "fails": {
@@ -5098,6 +5129,10 @@
   "b36c3cf7d7": 2,
   "1bd8c6767b": 1,
   "f5a483189d": 1,
-  "290b6fe4b4": 1
+  "290b6fe4b4": 1,
+  "82fbe53c18": 1,
+  "9a08212200": 1,
+  "b207c2b49e": 1,
+  "588f227562": 1
  }
 }
