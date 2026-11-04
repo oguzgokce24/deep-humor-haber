@@ -2403,6 +2403,40 @@
     "uyuşt"
    ],
    "at": "2026-11-04T06:43:32.863478+00:00"
+  },
+  {
+   "fp": [
+    "akom",
+    "birço",
+    "dahil",
+    "dan",
+    "den",
+    "fırtı",
+    "geliy",
+    "hava",
+    "istan",
+    "kar",
+    "meteo",
+    "sağan",
+    "serin",
+    "tarih",
+    "uyarı",
+    "veril",
+    "yağış",
+    "şidde"
+   ],
+   "at": "2026-11-04T06:47:30.351488+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "bugün",
+    "kasım",
+    "var",
+    "yayın",
+    "çarşa"
+   ],
+   "at": "2026-11-04T06:47:42.190597+00:00"
   }
  ],
  "posted": [
@@ -4681,6 +4715,19 @@
     "BirGün: https://www.birgun.net/haber/doviz-kurlarinda-yukselis-suruyor-dolar-50-lirayi-asti-744411",
     "Diken: https://www.diken.com.tr/dolar-50-lirayi-asti-4-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dolar-50-lirayi-asti-4-kasim-2026"
    ]
+  },
+  {
+   "id": "45f4c918c0",
+   "post_id": "529346797199852_1457142316525476",
+   "title": "4 Kasım Çarşamba bugün Yeraltı var mı, yeni bölüm saat kaçta yayınlanacak?",
+   "at": "2026-11-04T06:47:42.190597+00:00",
+   "yazim": "claude",
+   "metin": "Bu akşam Yeraltı var, saat 20.00'de NOW TV'de.\n\n— Dizinin yeni bölümü 4 Kasım Çarşamba akşamı ekrana geliyor.\n— Kaçıranlar bölümün tamamını NOW'un sitesi ve uygulamalarından izleyebilecek.\n— 28 Ocak 2026'da başlayan dizide Deniz Can Aktaş başrolde.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/4-kasim-carsamba-okullar-tatl-mi-yarin-okul-var-mi-istanbul-antalya-mugla-izmir-4-kasim-carsamba-okullar-tatil-mi-3488367",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/tv-yayin-akisi-4-kasim-carsamba-bugun-hangi-kanalda-ne-var-2553116",
+    "Karar: https://www.karar.com/hayat-haberleri/4-kasim-carsamba-bugun-yeralti-var-mi-yeni-bolum-saat-kacta-yayinlanacak-2082256"
+   ]
   }
  ],
  "fails": {
@@ -4950,9 +4997,9 @@
   "ffc7a09622": 2,
   "cc037c8fac": 2,
   "aa4bfb29da": 1,
-  "af141b9e9b": 2,
   "45f4c918c0": 2,
   "d7e0711bd2": 2,
-  "bfb6beadb1": 2
+  "bfb6beadb1": 2,
+  "3b661d40a3": 1
  }
 }
