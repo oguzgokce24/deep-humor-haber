@@ -2906,6 +2906,16 @@
     "kadın"
    ],
    "at": "2026-11-04T14:33:18.640009+00:00"
+  },
+  {
+   "fp": [
+    "ele",
+    "geçir",
+    "kaçak",
+    "kırşe",
+    "sigar"
+   ],
+   "at": "2026-11-04T14:46:25.863296+00:00"
   }
  ],
  "posted": [
@@ -5602,6 +5612,19 @@
     "BirGün: https://www.birgun.net/haber/izmir-de-denizde-kadin-cesedi-bulundu-744595",
     "BirGün: https://www.birgun.net/haber/izmir-de-bir-kadin-evinde-yarali-halde-bulundu-aile-uyeleri-gozaltina-alindi-744573"
    ]
+  },
+  {
+   "id": "e78b1a23c3",
+   "post_id": "529346797199852_1457509413155433",
+   "title": "Araçta arama yapıldı... Kırşehir'de 'kaçakçılık' operasyonu: Çok sayıda sigara ve alkol ele geçirildi!",
+   "at": "2026-11-04T14:46:25.863296+00:00",
+   "yazim": "claude",
+   "metin": "Kırşehir'de bir araçta yapılan aramada çok sayıda kaçak ürün çıktı.\n\n— 300 paket kaçak sigara, 4 litre alkollü içki, 8 parfüm ve 18 kilo nargile tütünü ele geçirildi.\n— Polis, yolcu olarak bulunan bir kişi hakkında adli işlem başlattı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/kirsehir/kirsehirde-gumruk-kacagi-parfum-icki-sigara-ve-tutun-ele-gecirildi-3489035",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aracta-arama-yapildi-kirsehir-de-kacakcilik-operasyonu-cok-sayida-sigara-ve-alkol-ele-gecirildi-2553319",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/kirsehirde-kacak-urun-baskini-binlerce-liralik-urun-ele-gecirildi-4869803"
+   ]
   }
  ],
  "fails": {
@@ -5955,6 +5978,10 @@
   "5b013e5599": 1,
   "8a6ffbad2d": 1,
   "4e7c23534b": 1,
-  "f59030faa9": 1
+  "f59030faa9": 1,
+  "53e05813e1": 1,
+  "f1a7a7d39c": 1,
+  "50f533a1c9": 1,
+  "e7f582acad": 1
  }
 }
