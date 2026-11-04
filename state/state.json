@@ -2,18 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alınd",
-    "avuka",
-    "bakım",
-    "hakan",
-    "killa",
-    "rapçi",
-    "yoğun"
-   ],
-   "at": "2026-11-03T05:21:07.153985+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "adası",
     "ara",
@@ -3218,23 +3206,36 @@
     "türki"
    ],
    "at": "2026-11-04T17:05:56.964120+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "adamı",
+    "deki",
+    "hezim",
+    "neden",
+    "seçim",
+    "trump",
+    "yakın"
+   ],
+   "at": "2026-11-04T17:28:31.379900+00:00"
+  },
+  {
+   "fp": [
+    "emir",
+    "etkin",
+    "karar",
+    "musta",
+    "oğlu",
+    "pişma",
+    "sarıg",
+    "tahli",
+    "yarar"
+   ],
+   "at": "2026-11-04T17:28:44.781724+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e5868f7429",
-   "post_id": "529346797199852_1452399503666424",
-   "title": "AYM'den eksik ödenen memur maaşlarına ilişkin ihlal kararı",
-   "at": "2026-10-30T12:46:11.312095+00:00",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/aymden-eksik-odenen-memur-maaslarina-iliskin-ihlal-karari/4106120",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/iki-lise-ogrencisi-aymye-basvurdu-mahkemeden-hak-ihlali-karari-tazminat-odenecek-43360368",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-anayasa-mahkemesi-nden-emsal-karar-okul-degistirme-cezasi-verilen-ogrencileri-haberlern-egitim-hakki-ihlal-edildi-3923701",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aym-den-memur-alacaklari-icin-emsal-karar-sure-asimi-gerekcesi-kabul-edilmedi-2551710",
-    "Evrensel: https://www.evrensel.net/haber/6007275/aym-den-eksik-odenen-memur-maaslarina-iliskin-ihlal-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Evrensel: https://www.evrensel.net/haber/6007261/aymden-okul-degistirme-cezasi-verilen-lise-ogrencileri-icin-hak-ihlali-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "4f19e43963",
    "post_id": "529346797199852_1452456113660763",
@@ -5980,6 +5981,21 @@
     "Sözcü: https://www.sozcu.com.tr/ali-mahir-basarir-gorevden-af-iddialarina-yanit-p376052",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ali-mahir-basarir-dan-gorevinden-affini-istedi-iddiasina-yanit-tek-kelimesi-bile-2553352"
    ]
+  },
+  {
+   "id": "14c607cee5",
+   "post_id": "529346797199852_1457636779809363",
+   "title": "Emir Sarıgül tahliye edildi!",
+   "at": "2026-11-04T17:28:44.781724+00:00",
+   "yazim": "claude",
+   "metin": "Emir Sarıgül tahliye edildi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigulun-oglu-emir-sarigul-etkin-pismanliktan-yararlandi-7694406",
+    "Sözcü: https://www.sozcu.com.tr/emir-sarigul-tahliye-edildi-iddiasi-p376062",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/emir-sarigul-ev-hapsi-karariyla-tahliye-edildi-4869839",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/emir-sarigul-tahliye-edildi-iddiasi-p376062",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigulun-oglu-emir-sarigul-etkin-pismanliktan-yararlandi-7694406"
+   ]
   }
  ],
  "fails": {
@@ -6347,7 +6363,7 @@
   "0fc0855ee0": 1,
   "cfdd6ae8b7": 1,
   "a73f0818ca": 1,
-  "15eb194678": 2,
-  "1dd7b896a7": 1
+  "1dd7b896a7": 2,
+  "c94f3cab32": 1
  }
 }
