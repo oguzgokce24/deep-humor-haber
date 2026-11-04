@@ -2645,6 +2645,36 @@
     "maçın"
    ],
    "at": "2026-11-04T12:11:51.977643+00:00"
+  },
+  {
+   "fp": [
+    "61",
+    "725",
+    "arsa",
+    "artır",
+    "açık",
+    "den",
+    "ilde",
+    "ildek",
+    "satış",
+    "toki"
+   ],
+   "at": "2026-11-04T12:24:26.680655+00:00"
+  },
+  {
+   "fp": [
+    "27",
+    "ekim",
+    "israi",
+    "kesin",
+    "komit",
+    "merke",
+    "netan",
+    "onayl",
+    "seçim",
+    "sonuç"
+   ],
+   "at": "2026-11-04T12:24:39.432703+00:00"
   }
  ],
  "posted": [
@@ -5232,6 +5262,21 @@
     "BirGün: https://www.birgun.net/haber/besiktasin-celtic-maci-kadrosu-aciklandi-744539",
     "BirGün: https://www.birgun.net/haber/besiktas-celtic-karsisinda-268-avrupa-macina-cikacak-744488"
    ]
+  },
+  {
+   "id": "51a6a654a5",
+   "post_id": "529346797199852_1457384329834608",
+   "title": "İsrail'de seçim sonuçları kesinleşti: Muhalefet 67, Netanyahu bloku 53 sandalye aldı",
+   "at": "2026-11-04T12:24:39.432703+00:00",
+   "yazim": "claude",
+   "metin": "İsrail'de seçim sonuçları kesinleşti: muhalefet 67, Netanyahu'nun bloku 53 sandalye aldı.\n\n— Meclis'te hükümet kurmak için 61 sandalye gerekiyor.\n— İki blok da bu sayıya ulaşamadı, hükümeti kimin kuracağı partilerin görüşmelerine kaldı.\n— Seçime dış müdahale iddialarının soruşturması sürerken Merkez Seçim Komitesi sonuçları onayladı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/israil-merkez-secim-komitesi-27-ekim-secimlerinin-sonuclarini-onayladi/4111387",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/israil-merkez-secim-komitesi-27-ekim-secimlerinin-sonuclarini-onayladi-962219.html",
+    "CNN Türk: https://www.cnnturk.com/dunya/israilde-secim-sonuclari-kesinlesti-komiteden-onay-geldi-3488923",
+    "Evrensel: https://www.evrensel.net/haber/6007991/israilde-secim-sonuclari-kesinlesti-muhalefet-67-netanyahu-bloku-53-sandalye-aldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/bir-kotu-haberde-netanyahuya-israildeki-sonuclar-onaylandi-43365707"
+   ]
   }
  ],
  "fails": {
@@ -5545,13 +5590,13 @@
   "824bf1d45c": 1,
   "45463049d5": 1,
   "ed533d5e30": 1,
-  "e266a4c664": 2,
   "3b9bae444d": 2,
   "b05b99e9bd": 1,
   "d1160341ed": 1,
   "6435b241f1": 1,
   "d4700a97f6": 1,
   "5de2c45eae": 1,
-  "5ba02373f5": 1
+  "5ba02373f5": 1,
+  "b0138331b5": 1
  }
 }
