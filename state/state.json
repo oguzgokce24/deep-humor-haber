@@ -2841,6 +2841,61 @@
     "uyarı"
    ],
    "at": "2026-11-04T13:54:54.438673+00:00"
+  },
+  {
+   "fp": [
+    "alarm",
+    "araçl",
+    "duvar",
+    "istan",
+    "kaldı",
+    "mahsu",
+    "sağan",
+    "yol",
+    "yıkıl",
+    "çöktü"
+   ],
+   "at": "2026-11-04T14:19:36.858439+00:00"
+  },
+  {
+   "fp": [
+    "dört",
+    "dünya",
+    "madal",
+    "milli",
+    "ndan",
+    "palet",
+    "takım",
+    "yüzme",
+    "şampi"
+   ],
+   "at": "2026-11-04T14:19:44.525735+00:00"
+  },
+  {
+   "fp": [
+    "eşini",
+    "ifşa",
+    "kadın",
+    "malte",
+    "polis",
+    "sessi",
+    "yardı"
+   ],
+   "at": "2026-11-04T14:19:54.203714+00:00"
+  },
+  {
+   "fp": [
+    "198",
+    "27",
+    "5",
+    "hacmi",
+    "işlem",
+    "kişi",
+    "liral",
+    "milya",
+    "tutuk"
+   ],
+   "at": "2026-11-04T14:20:18.057335+00:00"
   }
  ],
  "posted": [
@@ -5510,6 +5565,19 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/meteorolojiden-2-il-icin-turuncu-17-il-icin-sari-kodlu-uyari/4111574",
     "Diken: https://www.diken.com.tr/kuvvetli-yagis-iki-ile-turuncu-17-ile-sari-kodlu-uyari/?utm_source=rss&utm_medium=rss&utm_campaign=kuvvetli-yagis-iki-ile-turuncu-17-ile-sari-kodlu-uyari"
    ]
+  },
+  {
+   "id": "bd8fa91ffb",
+   "post_id": "529346797199852_1457486053157769",
+   "title": "27,5 milyar liralık işlem hacmi ortaya çıktı: 198 kişi tutuklandı",
+   "at": "2026-11-04T14:20:18.057335+00:00",
+   "yazim": "claude",
+   "metin": "21 ilde yapılan dolandırıcılık operasyonunda 327 şüpheliden 198’i tutuklandı.\n\n— Şüphelilerin sahte sağlık raporu, sahte ilan ve yüksek kazançlı yatırım vaatleriyle yurttaşları 464 milyon lira dolandırdığı öne sürülüyor.\n— MASAK raporlarında şüphelilerin hesaplarında 27 milyar 509 milyon liralık işlem hacmi görüldü.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-icisleri-bakanligi-327-supheli-yakalandi-dolandiricilik-operasyonu-3924867",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/27-5-milyar-liralik-islem-hacmi-ortaya-cikti-198-kisi-tutuklandi-2553259",
+    "BirGün: https://www.birgun.net/haber/27-milyar-509-milyon-liralik-islem-hacmi-21-ildeki-operasyonlarda-198-kisi-tutuklandi-744540"
+   ]
   }
  ],
  "fails": {
@@ -5841,16 +5909,13 @@
   "7c7e832ce4": 1,
   "067d254062": 1,
   "d4c98e38bb": 1,
-  "36a67b6ac0": 2,
   "8418994ac1": 2,
   "6896556b84": 2,
   "86ba596eb5": 1,
   "13aa9bd3e5": 2,
   "d855433f9b": 2,
   "cf39980cb7": 1,
-  "c5592dda41": 2,
   "e85bcc79dc": 2,
-  "8f691e2782": 2,
   "644d1e8e65": 1,
   "42ddfcb0af": 1,
   "7dc3e3470e": 1,
@@ -5860,6 +5925,9 @@
   "12983a2140": 1,
   "343500932c": 1,
   "770fd7186a": 1,
-  "2dbd02c098": 1
+  "2dbd02c098": 1,
+  "8216887570": 1,
+  "07b8c16759": 1,
+  "5b013e5599": 1
  }
 }
