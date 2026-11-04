@@ -2,51 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başka",
-    "beled",
-    "doğan",
-    "görev",
-    "merke",
-    "uzakl",
-    "şeniz"
-   ],
-   "at": "2026-11-03T09:40:54.058769+00:00"
-  },
-  {
-   "fp": [
-    "attı",
-    "işitm",
-    "kadın",
-    "kaybı",
-    "kolum",
-    "nevşe",
-    "sokak",
-    "tanım",
-    "tokat",
-    "çarpt"
-   ],
-   "at": "2026-11-03T09:41:04.124389+00:00"
-  },
-  {
-   "fp": [
-    "115",
-    "açan",
-    "bulun",
-    "dinoz",
-    "izler",
-    "kanın",
-    "kemiğ",
-    "kez",
-    "keşif",
-    "kimya",
-    "milyo",
-    "yıllı",
-    "çığır"
-   ],
-   "at": "2026-11-03T09:42:28.562879+00:00"
-  },
-  {
-   "fp": [
     "alınd",
     "gözal",
     "kişi",
@@ -3221,23 +3176,20 @@
     "uçağı"
    ],
    "at": "2026-11-04T21:36:32.264324+00:00"
+  },
+  {
+   "fp": [
+    "53",
+    "brezi",
+    "kart",
+    "kırmı",
+    "maçta",
+    "çıktı"
+   ],
+   "at": "2026-11-04T21:49:12.822847+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "65ef9b2dfc",
-   "post_id": "529346797199852_1452734076966300",
-   "title": "Trump: İran'la savaş yakında bitecek",
-   "at": "2026-10-30T19:42:57.710416+00:00",
-   "yazim": "yedek",
-   "metin": "Trump: İran'la savaş yakında bitecek.\n\nABD Başkanı Donald Trump, İran'la devam eden savaşın yakında sona ereceğini söyledi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-savasin-yakinda-sona-erecegini-belirtti/4106778",
-    "Milliyet: https://www.milliyet.com.tr/dunya/trump-iranla-savasin-yakinda-sona-erecegini-iddia-etti-7691028",
-    "CNN Türk: https://www.cnnturk.com/dunya/iran-savasi-ne-zaman-bitecek-trump-acikladi-3486834",
-    "Karar: https://www.karar.com/dunya-haberleri/trump-iranla-savas-yakinda-bitecek-2081545"
-   ]
-  },
   {
    "id": "0af70b0ffb",
    "post_id": "529346797199852_1452766843629690",
@@ -5986,6 +5938,19 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/israil-devlet-televizyonu-abd-envanterindeki-iki-casus-ucagindan-birini-orta-doguya-gonderdi/4112061",
     "BirGün: https://www.birgun.net/haber/israil-devlet-televizyonunun-iddiasi-abd-envanterindeki-iki-casus-ucagindan-birini-ortadogu-ya-gonderdi-744659"
    ]
+  },
+  {
+   "id": "4accb9d3c9",
+   "post_id": "529346797199852_1457816089791432",
+   "title": "Yeşil sahalarda görülmemiş olay: Brezilya'da bir maçta tam 53 kırmızı kart çıktı",
+   "at": "2026-11-04T21:49:12.822847+00:00",
+   "yazim": "claude",
+   "metin": "Brezilya'da 20 yaş altı bir maçta 53 kişiye kırmızı kart çıktı.\n\n— Uberlandia ile Mamore arasındaki maçın 54. dakikasında futbolcular kavga etti.\n— Kavga kısa sürede sahaya yayıldı, büyük bir arbedeye dönüştü.\n— Ihraç edilenler arasında 43 futbolcu, 8 antrenör ve 2 kulüp yöneticisi var.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/brezilyadaki-bir-macta-53-kirmizi-kart-cikti/4112091",
+    "Habertürk: https://www.haberturk.com/spor/brezilya-daki-bir-macta-53-kirmizi-kart-cikti-3925002",
+    "Karar: https://www.karar.com/spor-haberleri/yesil-sahalarda-gorulmemis-olay-brezilyada-bir-macta-tam-53-kirmizi-kart-2082433"
+   ]
   }
  ],
  "fails": {
@@ -6358,6 +6323,6 @@
   "ac195bc44a": 1,
   "cc0e72d242": 1,
   "dbbce7b0dc": 2,
-  "e569a6fd64": 1
+  "e569a6fd64": 2
  }
 }
