@@ -2569,6 +2569,38 @@
     "tp2"
    ],
    "at": "2026-11-04T10:57:37.245756+00:00"
+  },
+  {
+   "fp": [
+    "birle",
+    "davad",
+    "demir",
+    "dosya",
+    "geliş",
+    "selah",
+    "yargı"
+   ],
+   "at": "2026-11-04T11:10:21.808556+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "altın",
+    "ele",
+    "eser",
+    "geçir",
+    "gözal",
+    "istan",
+    "kapla",
+    "kaçak",
+    "kitap",
+    "opera",
+    "tarih",
+    "yazma",
+    "yazıl",
+    "şok"
+   ],
+   "at": "2026-11-04T11:10:25.939486+00:00"
   }
  ],
  "posted": [
@@ -5080,6 +5112,22 @@
     "Evrensel: https://www.evrensel.net/haber/6007956/takasbanktan-tera-portfoye-ait-tp2-fonuna-iliskin-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/tera-portfoy-e-ait-takasbank-tan-tp2-fonuna-iliskin-aciklama-744495"
    ]
+  },
+  {
+   "id": "a9bfd5ca73",
+   "post_id": "529346797199852_1457327063173668",
+   "title": "İstanbul'da 'tarihi eser' operasyonu: Altın kaplama İbranice kitap ele geçirildi",
+   "at": "2026-11-04T11:10:25.939486+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da tarihi eser satmak için müşteri arayan 4 şüpheli jandarma operasyonunda gözaltına alındı.\n\n— Aramalarda Roma ve Bizans dönemlerine ait olduğu değerlendirilen iki kitap, bir ikona ve beş sikke ele geçirildi.\n— Altın kaplama İbranice yazılı 38 sayfalık kitap da bulundu.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbulda-tarihi-eser-kacakcilarina-operasyon-4-gozalti-altin-kaplama-yazili-kitap-ele-gecirildi-43365665",
+    "Milliyet: https://www.milliyet.com.tr/gundem/istanbulda-sok-operasyon-altin-yazmali-kitaplar-ele-gecirildi-7694149",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-tarihi-eser-operasyonu-altin-kaplama-ibranice-kitap-ele-gecirildi-2553228",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tokat-ta-kacak-icki-operasyonu-bin-172-litre-ele-gecirildi-2553206",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/istanbulda-tarihi-eser-kacakcilarina-operasyon-altin-kaplama-yazili-kitap-ele-gecirildi-4869720",
+    "Diken: https://www.diken.com.tr/istanbulda-tarihi-eser-kacakciligi-dort-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-tarihi-eser-kacakciligi-dort-gozalti"
+   ]
   }
  ],
  "fails": {
@@ -5382,7 +5430,6 @@
   "5d378207f8": 2,
   "0238d3e66c": 2,
   "d0fcc079ab": 2,
-  "a5d73773d7": 2,
   "556e34c5dd": 1,
   "0ca1eb7bb1": 1,
   "1d8b03af4a": 1,
@@ -5394,6 +5441,7 @@
   "824bf1d45c": 1,
   "45463049d5": 1,
   "9b3b1e91fa": 1,
-  "ed533d5e30": 1
+  "ed533d5e30": 1,
+  "048a857177": 1
  }
 }
