@@ -3154,23 +3154,20 @@
     "yıkıl"
    ],
    "at": "2026-11-04T16:29:48.727904+00:00"
+  },
+  {
+   "fp": [
+    "den",
+    "mhp",
+    "parti",
+    "refor",
+    "yerel",
+    "yönet"
+   ],
+   "at": "2026-11-04T16:33:24.728977+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "be80aa91e7",
-   "post_id": "529346797199852_1452304980342543",
-   "title": "Mustafa Sarıgül partisinden istifa etti",
-   "at": "2026-10-30T10:43:13.501098+00:00",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/mustafa-sarigul-partisinden-istifa-etti-961732.html",
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigul-yeni-partiden-istifa-etti-7690806",
-    "NTV: https://www.ntv.com.tr/turkiye/mustafa-sarigul-yeni-partiden-istifa-etti-1748633",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-mustafa-sarigul-yeni-parti-den-istifa-etti-3923730",
-    "Habertürk: https://www.haberturk.com/gundem/yeni-parti-den-mustafa-sarigul-aciklamasi-3923138",
-    "Sözcü: https://www.sozcu.com.tr/son-dakika-mustafa-sarigul-yeni-parti-den-istifa-etti-p374315"
-   ]
-  },
   {
    "id": "be14452596",
    "post_id": "529346797199852_1452342047005503",
@@ -5917,6 +5914,19 @@
     "Habertürk: https://www.haberturk.com/bilgi/foto/sans-topu-sonuclari-ne-zaman-aciklanacak-4-kasim-sans-topu-cekilis-sonuclari-bilet-sorgulama-ekrani-3924946",
     "Evrensel: https://www.evrensel.net/haber/6008001/vgm-burs-sonuclari-ne-zaman-aciklanacak-2026-2027-sonuc-tarihi-belli-oldu-mu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "cfdd6ae8b7",
+   "post_id": "529346797199852_1457592166480491",
+   "title": "AKP'den MHP'ye ziyaret: \"Yerel yönetim reformu\" masada",
+   "at": "2026-11-04T16:33:24.728977+00:00",
+   "yazim": "claude",
+   "metin": "AKP ile MHP yerel yönetim reformunu masaya yatırdı.\n\n— AKP Genel Başkan Yardımcısı Mustafa Demir, MHP'den Sadir Durmaz ile görüştü.\n— Konu: yerel yönetimler reformu.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/ak-parti-ve-mhpden-yerel-yonetimler-reform-hamlesi-taslak-erdogan-ve-bahceliye-sunulacak-43366213",
+    "Habertürk: https://www.haberturk.com/gundem/ak-parti-ve-mhp-den-yerel-yonetimler-reform-gorusmesi-3924954",
+    "BirGün: https://www.birgun.net/haber/akp-den-mhp-ye-ziyaret-yerel-yonetim-reformu-masada-744604"
+   ]
   }
  ],
  "fails": {
@@ -6282,7 +6292,7 @@
   "5fbba62582": 2,
   "231f29811c": 2,
   "0fc0855ee0": 1,
-  "0352de2d7f": 1,
+  "0352de2d7f": 2,
   "cfdd6ae8b7": 1,
   "a73f0818ca": 1
  }
