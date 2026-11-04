@@ -2953,6 +2953,16 @@
     "saniy"
    ],
    "at": "2026-11-04T15:13:28.152023+00:00"
+  },
+  {
+   "fp": [
+    "ambul",
+    "sağan",
+    "sulta",
+    "yol",
+    "çöktü"
+   ],
+   "at": "2026-11-04T15:28:15.593702+00:00"
   }
  ],
  "posted": [
@@ -5689,6 +5699,19 @@
     "Habertürk: https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-4-kasim-2026-haberleri-abdde-ilklere-sahne-olan-secim-trump-yenilgiyi-kabul-etti-veto-kartini-gosterdi-irandan-ilk-yorum-piyasala/922125",
     "NTV Son Dakika: https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-04-kasim-2026-1749271"
    ]
+  },
+  {
+   "id": "82ac454c4f",
+   "post_id": "529346797199852_1457541936485514",
+   "title": "Sultangazi’de sağanak sonrası yol çöktü: Araçlar ve ambulans mahsur kaldı",
+   "at": "2026-11-04T15:28:15.593702+00:00",
+   "yazim": "claude",
+   "metin": "Sultangazi'de sağanak sonrası yol çöktü.\n\n— Çöken yolda bazı araçlar mahsur kaldı, ihbara giden ambulans da ilerleyemedi.\n— İddiaya göre İSKİ ekiplerinin kazı çalışmasından sonra yol gerekli önlemler alınmadan bırakılmış.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/sultangazi-de-saganakta-yol-coktu-3924940",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/sultangazide-yol-coktu-ambulans-ve-otomobiller-hareket-edemedi-4869786",
+    "Evrensel: https://www.evrensel.net/haber/6008008/sultangazide-saganak-sonrasi-yol-coktu-araclar-ve-ambulans-mahsur-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -6047,12 +6070,13 @@
   "f1a7a7d39c": 1,
   "d68d2dc848": 1,
   "c3d198b70d": 1,
-  "809ff7951f": 1,
+  "809ff7951f": 2,
   "b0fe64376e": 1,
-  "d59f859cd8": 1,
-  "20fbf8f57c": 1,
+  "d59f859cd8": 2,
+  "20fbf8f57c": 2,
   "82ac454c4f": 1,
   "b330aed49f": 1,
-  "68c944da1b": 1
+  "68c944da1b": 1,
+  "641489c3d9": 1
  }
 }
