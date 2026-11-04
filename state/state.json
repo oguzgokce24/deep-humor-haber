@@ -2,22 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aleyh",
-    "açıkl",
-    "bahis",
-    "hacıo",
-    "ibrah",
-    "kendi",
-    "lig",
-    "ndan",
-    "süper",
-    "takım",
-    "yönet"
-   ],
-   "at": "2026-11-02T21:41:48.782264+00:00"
-  },
-  {
-   "fp": [
     "başda",
     "cumhu",
     "seçim",
@@ -2508,6 +2492,60 @@
     "yaral"
    ],
    "at": "2026-11-04T09:33:39.942807+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "abdul",
+    "ara",
+    "demok",
+    "kongr",
+    "müslü",
+    "nin",
+    "sayed",
+    "senat",
+    "seçil",
+    "seçim",
+    "tarih"
+   ],
+   "at": "2026-11-04T09:46:11.151124+00:00"
+  },
+  {
+   "fp": [
+    "freib",
+    "trabz"
+   ],
+   "at": "2026-11-04T09:46:48.447032+00:00"
+  },
+  {
+   "fp": [
+    "asker",
+    "diyen",
+    "dönmü",
+    "görev",
+    "ihraç",
+    "kemal",
+    "musta",
+    "teğme",
+    "yenid"
+   ],
+   "at": "2026-11-04T09:47:11.388551+00:00"
+  },
+  {
+   "fp": [
+    "alarm",
+    "depol",
+    "düzen",
+    "frans",
+    "hedef",
+    "kan",
+    "saldı",
+    "sağlı",
+    "sektö",
+    "siber",
+    "tesis"
+   ],
+   "at": "2026-11-04T09:47:17.648616+00:00"
   }
  ],
  "posted": [
@@ -4949,6 +4987,21 @@
     "Sözcü: https://www.sozcu.com.tr/otobus-duragina-silahli-saldiri-3-kisi-yaralandi-p375925",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-otobus-duragina-silahli-saldiri-yaralilar-var-2553188"
    ]
+  },
+  {
+   "id": "598d6bc71c",
+   "post_id": "529346797199852_1457268759846165",
+   "title": "Fransa'da kan depolama tesislerine siber saldırı",
+   "at": "2026-11-04T09:47:17.648616+00:00",
+   "yazim": "claude",
+   "metin": "Fransa'da bilgisayar korsanları, kan depolama tesislerinin soğutma sistemine saldırdı.\n\n— Korsanlar, kan numunelerinin saklandığı tesislerde sıcaklık ayarını eksi 30 dereceden 110 dereceye çıkardı.\n— Saldırı zamanında fark edildi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/fransada-kan-depolama-tesislerine-siber-saldiri-duzenlendi/4111245",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/fransada-kan-depolama-tesislerine-siber-saldiri-duzenlendi-962211.html",
+    "Milliyet: https://www.milliyet.com.tr/dunya/fransada-yeni-siber-saldiri-alarmi-saglik-sektoru-hedefte-7694013",
+    "BirGün: https://www.birgun.net/haber/fransa-da-kan-depolama-tesislerine-siber-saldiri-744491",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/fransada-yeni-siber-saldiri-alarmi-saglik-sektoru-hedefte-7694013"
+   ]
   }
  ],
  "fails": {
@@ -5234,21 +5287,23 @@
   "d4964f4a9f": 1,
   "a1c3d80db2": 2,
   "31315d8c67": 1,
-  "d2bffb2a19": 2,
-  "8fb3877e2b": 2,
   "93ae1d2066": 1,
   "8610eb1864": 1,
   "d569181e83": 1,
   "93d0ceeeff": 1,
   "3b9d3f1b5d": 1,
   "3d5aa071fb": 1,
-  "368714eb5c": 2,
   "87044b321b": 1,
   "11409373b3": 1,
   "8479087c66": 1,
   "0c2226304d": 1,
   "a6a70364a4": 1,
   "0e36d74ff1": 1,
-  "f5f7cace79": 1
+  "f5f7cace79": 2,
+  "1f4135f3d8": 1,
+  "5d378207f8": 1,
+  "0238d3e66c": 1,
+  "d0fcc079ab": 1,
+  "36628179b6": 1
  }
 }
