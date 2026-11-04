@@ -3237,21 +3237,24 @@
     "şer"
    ],
    "at": "2026-11-04T20:11:05.071679+00:00"
+  },
+  {
+   "fp": [
+    "bağla",
+    "hayat",
+    "iran",
+    "itira",
+    "kaybe",
+    "pahal",
+    "savaş",
+    "seçim",
+    "tan",
+    "trump"
+   ],
+   "at": "2026-11-04T20:23:48.712413+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d463ee24ea",
-   "post_id": "529346797199852_1452552686984439",
-   "title": "Emine Erdoğan: Konseyimizin kalıcı bir işbirliği zemini olmasını hedefliyoruz",
-   "at": "2026-10-30T15:45:17.109851+00:00",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/emine-erdogan-konseyimizin-kalici-bir-isbirligi-zemini-olmasini-hedefliyoruz-961743.html",
-    "CNN Türk: https://www.cnnturk.com/turkiye/ilk-adim-atildi-emine-erdoganin-himayeleri-ile-aile-ve-kadin-konseyi-kuruluyor-3486757",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/30/emine-erdogan-aile-toplumun-gorunmez-kalesidir",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/bakan-goktas-duyurdu-emine-erdoganin-himayesinde-aile-ve-kadin-konseyi-kuruluyor-4868456"
-   ]
-  },
   {
    "id": "d3014f6fdd",
    "post_id": "529346797199852_1452606046979103",
@@ -5999,6 +6002,22 @@
     "BirGün: https://www.birgun.net/haber/izmir-de-kampuste-palmiye-agaci-yakan-ogrencilere-50-ser-fidan-dikme-sartiyla-serbestlik-744620",
     "Karar: https://www.karar.com/guncel-haberler/agaci-yakip-gulmuslerdi-2-ogrenciye-50ser-fidan-dikme-cezasi-2082397"
    ]
+  },
+  {
+   "id": "e1b0416704",
+   "post_id": "529346797199852_1457765646463143",
+   "title": "Trump, seçim yenilgisinde İran savaşı ve benzin fiyatlarının rol oynadığını kabul etti",
+   "at": "2026-11-04T20:23:48.712413+00:00",
+   "yazim": "claude",
+   "metin": "ABD Başkanı Donald Trump:\n\n“Büyük ölçüde doğru, çünkü kısa vadede benzin fiyatlarını biraz yükseltti.”\n\nTrump, Cumhuriyetçilerin ara seçimdeki yenilgisinde İran savaşının rol oynadığını kabul etti. Başkan Yardımcısı JD Vance de savaşın yenilgide başrol oynadığını söylemişti.\n\nTrump yine de savaşı başlatmaktan pişmanlık duymadığını belirtti.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-demokratlara-karsi-secimleri-kaybetmelerini-iranla-savas-ve-hayat-pahaliligina-bagladi/4111910",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/trump-kaybetmemizin-sebebi-iran-savasi-962265.html",
+    "BBC Türkçe: https://www.bbc.com/turkce/articles/c317kjny5jedo?at_medium=RSS&at_campaign=rss",
+    "Milliyet: https://www.milliyet.com.tr/dunya/trumptan-kongre-secimleri-itirafi-tarihi-hezimeti-iran-savasi-ve-hayat-pahaliligina-bagladi-7694425",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/trump-tan-secim-itirafi-geldi-iran-savasi-buna-deger-miydi-sorusunu-yanitladi-2553385",
+    "Medyascope: https://medyascope.tv/2026/11/04/transatlantik-trumpin-zor-secimi-iran-savasi-yeniden-tirmanacak-mi/"
+   ]
   }
  ],
  "fails": {
@@ -6369,6 +6388,7 @@
   "3e45ad0967": 1,
   "15df79c780": 1,
   "ac195bc44a": 1,
-  "cc0e72d242": 1
+  "cc0e72d242": 1,
+  "d33a75935b": 1
  }
 }
