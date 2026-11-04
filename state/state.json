@@ -2,40 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "abd",
-    "acele",
-    "anlaş",
-    "açıkl",
-    "basın",
-    "başka",
-    "geliş",
-    "ileti",
-    "iran",
-    "kala",
-    "savaş",
-    "seçim",
-    "tan",
-    "trump",
-    "yok"
-   ],
-   "at": "2026-11-02T20:40:52.077225+00:00"
-  },
-  {
-   "fp": [
-    "antal",
-    "düştü",
-    "etkil",
-    "eve",
-    "gök",
-    "gürül",
-    "sağan",
-    "yıldı"
-   ],
-   "at": "2026-11-02T20:41:08.333935+00:00"
-  },
-  {
-   "fp": [
     "300",
     "ahmet",
     "akın",
@@ -2471,6 +2437,21 @@
     "yemeğ"
    ],
    "at": "2026-11-04T08:36:20.773652+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "ais",
+    "bazın",
+    "branş",
+    "kpss",
+    "lisan",
+    "nasıl",
+    "sıral",
+    "ösym",
+    "öğren"
+   ],
+   "at": "2026-11-04T08:49:14.590688+00:00"
   }
  ],
  "posted": [
@@ -4851,6 +4832,22 @@
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-4-kasim-2026-43365349",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-4-kasim-2026-43365349"
    ]
+  },
+  {
+   "id": "03083f2d70",
+   "post_id": "529346797199852_1457224693183905",
+   "title": "Son Dakika.... ÖSYM duyurdu: KPSS branş sıralamaları açıklandı",
+   "at": "2026-11-04T08:49:14.590688+00:00",
+   "yazim": "claude",
+   "metin": "ÖSYM, 2026 KPSS Lisans branş bazındaki sıralamaları açtı.\n\n— Adaylar T.C. kimlik numarası ve şifreleriyle ÖSYM Aday İşlemleri Sistemi'ne (AİS) girip sıralamalarına bakabiliyor.\n— ÖSYM, sıralamaların yerleştirmeye bir etkisi olmadığını ve sayfanın resmi belge olmadığını bildirdi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/kpss-brans-siralamasi-2026-sorgulama-kpss-brans-siralamasina-nasil-nereden-bakilir-kpss-brans-bazinda-siralamalar-osym-ais-3488713",
+    "Habertürk: https://www.haberturk.com/bilgi/foto/kpss-li-sans-brans-siralamasi-2026-aciklandi-lisans-kpss-brans-siralamasi-nasil-ogrenilir-osym-kpss-lisans-brans-bazinda-siralama-sorgulama-ekrani-3924833",
+    "Habertürk: https://www.haberturk.com/bilgi/foto/kpss-brans-siralamasi-aciklandi-mi-2026-kpss-lisans-on-lisans-ortaogretim-brans-siralamalari-ne-zaman-aciklanacak-nasil-sorgulanir-3924625",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-osym-duyurdu-kpss-brans-siralamalari-aciklandi-2553167",
+    "Evrensel: https://www.evrensel.net/haber/6007947/2026-kpss-lisans-brans-bazinda-siralamalari-aciklandi-siralama-nasil-ogrenilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/guncel-haberler/kpss-lisans-brans-siralamasi-son-dakika-osym-ais-brans-bazinda-siralama-2082293"
+   ]
   }
  ],
  "fails": {
@@ -5133,6 +5130,8 @@
   "82fbe53c18": 1,
   "9a08212200": 1,
   "b207c2b49e": 1,
-  "588f227562": 1
+  "588f227562": 1,
+  "d4964f4a9f": 1,
+  "a1c3d80db2": 1
  }
 }
