@@ -2,21 +2,6 @@
  "seen": [
   {
    "fp": [
-    "binay",
-    "düştü",
-    "finan",
-    "istan",
-    "kules",
-    "merke",
-    "nde",
-    "yıldı",
-    "ümran",
-    "şidde"
-   ],
-   "at": "2026-11-02T23:20:09.929321+00:00"
-  },
-  {
-   "fp": [
     "gök",
     "gürül",
     "istan",
@@ -2601,6 +2586,17 @@
     "şok"
    ],
    "at": "2026-11-04T11:10:25.939486+00:00"
+  },
+  {
+   "fp": [
+    "eseny",
+    "iki",
+    "metro",
+    "var",
+    "yaral",
+    "çarpı"
+   ],
+   "at": "2026-11-04T11:23:00.423903+00:00"
   }
  ],
  "posted": [
@@ -5128,6 +5124,22 @@
     "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/istanbulda-tarihi-eser-kacakcilarina-operasyon-altin-kaplama-yazili-kitap-ele-gecirildi-4869720",
     "Diken: https://www.diken.com.tr/istanbulda-tarihi-eser-kacakciligi-dort-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-tarihi-eser-kacakciligi-dort-gozalti"
    ]
+  },
+  {
+   "id": "8cc9611700",
+   "post_id": "529346797199852_1457337279839313",
+   "title": "Son Dakika... İstanbul'da metrobüs kaza yaptı: Yaralılar var!",
+   "at": "2026-11-04T11:23:00.423903+00:00",
+   "yazim": "claude",
+   "metin": "Esenyurt'ta yolcu almak için duran metrobüse arkadan başka bir metrobüs çarptı.\n\nKaza Haramidere-Sanayi Durağı'nda oldu. Kazada yaralılar olduğu öğrenildi. Kazanın nedeni henüz belli değil.\n\nOlay yerine itfaiye, sağlık ve polis ekipleri sevk edildi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-duraktaki-imetrobusler-carpisti-43365783",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-iki-metrobus-carpisti-ekipler-sevk-edildi-3924881",
+    "Sözcü: https://www.sozcu.com.tr/esenyurt-ta-metrobusler-birbirine-girdi-yaralilar-var-p375969",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-istanbul-da-metrobus-kaza-yapti-yaralilar-var-2553245",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/esenyurtta-iki-metrobus-capisti-yaralilar-var-4869737",
+    "Karar: https://www.karar.com/guncel-haberler/son-dakika-iki-metrobus-carpisti-yaralilar-var-2082341"
+   ]
   }
  ],
  "fails": {
@@ -5442,6 +5454,6 @@
   "45463049d5": 1,
   "9b3b1e91fa": 1,
   "ed533d5e30": 1,
-  "048a857177": 1
+  "048a857177": 2
  }
 }
