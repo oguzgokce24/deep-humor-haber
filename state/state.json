@@ -2,20 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "düştü",
-    "kişi",
-    "küçük",
-    "meksi",
-    "uçak",
-    "yerin",
-    "yerle",
-    "ölü"
-   ],
-   "at": "2026-11-03T03:53:34.937740+00:00"
-  },
-  {
-   "fp": [
     "ayı",
     "açıkl",
     "ekim",
@@ -3034,23 +3020,22 @@
     "yağış"
    ],
    "at": "2026-11-04T15:41:37.140399+00:00"
+  },
+  {
+   "fp": [
+    "alt",
+    "bastı",
+    "beşik",
+    "geçid",
+    "kapat",
+    "trafi",
+    "yol",
+    "zinci"
+   ],
+   "at": "2026-11-04T15:54:46.501391+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3b83619c85",
-   "post_id": "529346797199852_1452230763683298",
-   "title": "FETÖ'nün güncel yapılanmasına operasyon: 10 gözaltı",
-   "at": "2026-10-30T08:53:16.712727+00:00",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/fetonun-guncel-yapilanmasina-operasyon-10-gozalti-961702.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbul-merkezli-3-ilde-feto-operasyonu-10-gozalti-43360085",
-    "CNN Türk: https://www.cnnturk.com/turkiye/istanbul-merkezli-3-ilde-feto-operasyonu-10-gozalti-3486547",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-sarigul-sorusturmasinda-yeni-operasyon-10-gozalti",
-    "NTV: https://www.ntv.com.tr/turkiye/fetonun-guncel-yapilanmasina-operasyon-13-milyon-lira-degerinde-doviz-ve-altin-ele-gecirildi-1748588",
-    "NTV: https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-yeni-dalga-11-kisi-icin-yeni-gozalti-karari-1748585"
-   ]
-  },
   {
    "id": "8b0b2a8b5d",
    "post_id": "529346797199852_1452266683679706",
@@ -5796,6 +5781,21 @@
     "Sözcü: https://www.sozcu.com.tr/istanbul-da-24-saatteki-saganak-yagisin-bilancosu-belli-oldu-o-ilcelerde-yagis-miktari-zirvede-p376032",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-un-saganak-bilancosu-belli-oldu-en-fazla-yagis-alan-ilce-hangisi-2553347"
    ]
+  },
+  {
+   "id": "8a73b6ed68",
+   "post_id": "529346797199852_1457563129816728",
+   "title": "Zincirlikuyu'da alt geçidi su bastı: Yol trafiğe kapatıldı",
+   "at": "2026-11-04T15:54:46.501391+00:00",
+   "yazim": "claude",
+   "metin": "Zincirlikuyu'da alt geçidi sağanak sonrası su bastı, yol trafiğe kapatıldı.\n\n— İstanbul'da dün akşamdan beri aralıklarla yağan yağmur bugün etkisini artırdı.\n— Nispetiye Caddesi ile Barbaros Bulvarı'nı bağlayan alt geçit suyla doldu.\n— Ekipler suyu boşaltmak için çalışıyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/zincirlikuyuda-alt-gecidi-su-basti-yol-trafige-kapatildi-7694369",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/zincirlikuyu-da-alt-gecidi-su-basti-yol-trafige-kapatildi-2553349",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/besiktas-ta-alt-gecidi-su-basti-yol-trafige-kapatildi-2553323",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/besiktasta-alt-gecidi-su-basti-yol-trafige-kapatildi-4869814",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/zincirlikuyuda-alt-gecidi-su-basti-yol-trafige-kapatildi-7694369"
+   ]
   }
  ],
  "fails": {
@@ -6158,6 +6158,9 @@
   "b330aed49f": 1,
   "68c944da1b": 1,
   "641489c3d9": 2,
-  "fb28c2eda6": 1
+  "fb28c2eda6": 2,
+  "0795c1a5bf": 1,
+  "b8522cc692": 1,
+  "3ca49dc623": 1
  }
 }
