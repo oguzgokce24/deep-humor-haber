@@ -3206,25 +3206,24 @@
     "yayın"
    ],
    "at": "2026-11-04T21:33:02.980137+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "birin",
+    "casus",
+    "devle",
+    "envan",
+    "gönde",
+    "iki",
+    "israi",
+    "telev",
+    "uçağı"
+   ],
+   "at": "2026-11-04T21:36:32.264324+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bd345c953a",
-   "post_id": "529346797199852_1452677903638584",
-   "title": "Bakan Gürlek duyurdu: 4 faili meçhul cinayet daha aydınlatıldı",
-   "at": "2026-10-30T18:18:35.955387+00:00",
-   "yazim": "yedek",
-   "metin": "Bakan Gürlek duyurdu: 4 faili meçhul cinayet daha aydınlatıldı.\n\nAdalet Bakanı Akın Gürlek, Faili Meçhul Suçları Araştırma Daire Başkanlığının koordinasyonunda Konya, Kahramanmaraş, Mersin ve Hatay'da 4 ayrı faili meçhul cinayet dosyasının aydınlatıldığını açıkladı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/mersinde-faili-mechul-cinayetin-aydinlatilmasina-iliskin-sorusturmada-yeni-bilgilere-ulasildi/4106856",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-aydinlatildi-961763.html",
-    "Milliyet: https://www.milliyet.com.tr/gundem/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-aydinlatildi-7691033",
-    "CNN Türk: https://www.cnnturk.com/dunya/bakan-gurlek-duyurdu-4-faili-mechul-olay-aydinlatildi-3486828",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/30/bakan-gurlek-duyurdu-4-faili-mechul-cinayet-daha-aydinlatildi",
-    "NTV: https://www.ntv.com.tr/turkiye/adalet-bakani-gurlek-duyurdu-dort-faili-mechul-cinayet-daha-aydinlatildi-1748684"
-   ]
-  },
   {
    "id": "65ef9b2dfc",
    "post_id": "529346797199852_1452734076966300",
@@ -5975,6 +5974,18 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/04/baskan-erdogan-yurda-dondu",
     "Habertürk: https://www.haberturk.com/gundem/cumhurbaskani-erdogan-guney-kore-deki-resmi-temaslarinin-ardindan-istanbul-a-donus-yapti-3924982"
    ]
+  },
+  {
+   "id": "272347cc32",
+   "post_id": "529346797199852_1457809399792101",
+   "title": "İsrail devlet televizyonunun iddiası: ABD, envanterindeki iki casus uçağından birini Ortadoğu'ya gönderdi",
+   "at": "2026-11-04T21:36:32.264324+00:00",
+   "yazim": "claude",
+   "metin": "İsrail devlet televizyonu KAN'a göre ABD, iki casus uçağından birini Ortadoğu'ya gönderdi.\n\n— Haberde bu uçağın RC-135U tipi olduğu belirtiliyor.\n— KAN, uçağın bölgeye gönderilmesinin İran'a yönelik olası bir askeri hazırlığın parçası olabileceğini aktardı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/israil-devlet-televizyonu-abd-envanterindeki-iki-casus-ucagindan-birini-orta-doguya-gonderdi/4112061",
+    "BirGün: https://www.birgun.net/haber/israil-devlet-televizyonunun-iddiasi-abd-envanterindeki-iki-casus-ucagindan-birini-ortadogu-ya-gonderdi-744659"
+   ]
   }
  ],
  "fails": {
@@ -6346,6 +6357,7 @@
   "15df79c780": 1,
   "ac195bc44a": 1,
   "cc0e72d242": 1,
-  "dbbce7b0dc": 2
+  "dbbce7b0dc": 2,
+  "e569a6fd64": 1
  }
 }
