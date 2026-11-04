@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "14",
-    "21",
-    "ankar",
-    "fetö",
-    "gözal",
-    "ilde",
-    "merke",
-    "opera"
-   ],
-   "at": "2026-11-03T08:32:57.846552+00:00"
-  },
-  {
-   "fp": [
-    "2026",
-    "3",
-    "altın",
-    "başla",
-    "borsa",
-    "düşüş",
-    "gram",
-    "güne",
-    "kasım",
-    "nasıl"
-   ],
-   "at": "2026-11-03T08:33:08.439214+00:00"
-  },
-  {
-   "fp": [
-    "12",
-    "29",
-    "45",
-    "77",
-    "enag",
-    "enfla",
-    "göre",
-    "tüik",
-    "yüzde",
-    "yıllı"
-   ],
-   "at": "2026-11-03T08:33:17.468866+00:00"
-  },
-  {
-   "fp": [
     "15",
     "3",
     "gözal",
@@ -3252,21 +3208,21 @@
     "trump"
    ],
    "at": "2026-11-04T20:23:48.712413+00:00"
+  },
+  {
+   "fp": [
+    "18",
+    "den",
+    "fener",
+    "gelen",
+    "tarih",
+    "yıl",
+    "zafer"
+   ],
+   "at": "2026-11-04T20:34:39.050710+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d3014f6fdd",
-   "post_id": "529346797199852_1452606046979103",
-   "title": "İletişim Başkanı Duran'dan Türk Dünyası Diyalog Forumu paylaşımı",
-   "at": "2026-10-30T16:43:00.391415+00:00",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-turk-dunyasi-diyalog-forumu-paylasimi/4106626",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-tdt-zirvesi-paylasimi-961762.html",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-turk-dunyasi-2040-vizyonu-vurgusu-961755.html",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/30/iletisim-baskani-duran-turk-dunyasi-olarak-isbirligimizi-gelistirmeliyiz"
-   ]
-  },
   {
    "id": "6e44ce3754",
    "post_id": "529346797199852_1452657296973978",
@@ -6018,6 +5974,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/trump-tan-secim-itirafi-geldi-iran-savasi-buna-deger-miydi-sorusunu-yanitladi-2553385",
     "Medyascope: https://medyascope.tv/2026/11/04/transatlantik-trumpin-zor-secimi-iran-savasi-yeniden-tirmanacak-mi/"
    ]
+  },
+  {
+   "id": "45fab8fd80",
+   "post_id": "529346797199852_1457771809795860",
+   "title": "Fenerbahçe'den 18 yıl sonra gelen tarihi galibiyet!",
+   "at": "2026-11-04T20:34:39.050710+00:00",
+   "yazim": "claude",
+   "metin": "Fenerbahçe, Liverpool'u 3-2 yenerek Şampiyonlar Ligi'nde 18 yıl sonra galip geldi.\n\n— Sarı-lacivertliler maçta iki kez geriye düştü, ama sonunda çevirdi.\n— Son galibiyeti 2008'de Chelsea karşısında 2-1 almıştı.\n— Golleri Mason Greenwood, Archie Brown ve Vedat Muriqi attı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/spor/foto/kadikoy-de-liverpool-a-karsi-tarihi-zafer-fenerbahce-18-yil-sonra-uefa-sampiyonlar-ligi-nde-kazandi-3924989",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/fenerbahce-den-18-yil-sonra-gelen-tarihi-galibiyet-2553409",
+    "BirGün: https://www.birgun.net/haber/fenerbahce-den-tarihi-zafer-744637"
+   ]
   }
  ],
  "fails": {
@@ -6389,6 +6358,6 @@
   "15df79c780": 1,
   "ac195bc44a": 1,
   "cc0e72d242": 1,
-  "d33a75935b": 1
+  "d33a75935b": 2
  }
 }
