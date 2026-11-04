@@ -2912,6 +2912,47 @@
     "sağan"
    ],
    "at": "2026-11-04T14:59:30.198646+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "burcu",
+    "burç",
+    "günlü",
+    "istan",
+    "kasım",
+    "okull",
+    "perşe",
+    "tatil",
+    "yarın",
+    "yorum"
+   ],
+   "at": "2026-11-04T15:12:32.798715+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "2027",
+    "açıkl",
+    "dönem",
+    "nasıl",
+    "sonuç",
+    "sınav",
+    "takvi",
+    "zaman"
+   ],
+   "at": "2026-11-04T15:12:40.978053+00:00"
+  },
+  {
+   "fp": [
+    "04",
+    "2026",
+    "60",
+    "bugün",
+    "kasım",
+    "saniy"
+   ],
+   "at": "2026-11-04T15:13:28.152023+00:00"
   }
  ],
  "posted": [
@@ -5634,6 +5675,20 @@
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/son-dakika-istanbulda-yagmur-saat-kaca-kadar-yagacak-yagis-ne-kadar-surecek-4869777",
     "BirGün: https://www.birgun.net/haber/istanbul-da-saganak-etkili-oldu-744568"
    ]
+  },
+  {
+   "id": "4e219f48f2",
+   "post_id": "529346797199852_1457530723153302",
+   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Kasım 2026",
+   "at": "2026-11-04T15:13:28.152023+00:00",
+   "yazim": "claude",
+   "metin": "AFAD'ın son depremleri il il derlendi.\n\n— İstanbul, Ankara, İzmir ve diğer illerdeki son depremler tek listede toplandı.\n— Liste 4 Kasım 2026 tarihli.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-04-kasim-2026/4111532",
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-04-kasim-2026/4111533",
+    "Habertürk: https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-4-kasim-2026-haberleri-abdde-ilklere-sahne-olan-secim-trump-yenilgiyi-kabul-etti-veto-kartini-gosterdi-irandan-ilk-yorum-piyasala/922125",
+    "NTV Son Dakika: https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-04-kasim-2026-1749271"
+   ]
   }
  ],
  "fails": {
@@ -5983,16 +6038,21 @@
   "770fd7186a": 1,
   "2dbd02c098": 1,
   "8216887570": 1,
-  "07b8c16759": 1,
+  "07b8c16759": 2,
   "5b013e5599": 1,
   "8a6ffbad2d": 1,
   "4e7c23534b": 1,
   "f59030faa9": 1,
   "53e05813e1": 1,
   "f1a7a7d39c": 1,
-  "50f533a1c9": 2,
-  "e7f582acad": 2,
   "d68d2dc848": 1,
-  "c3d198b70d": 1
+  "c3d198b70d": 1,
+  "809ff7951f": 1,
+  "b0fe64376e": 1,
+  "d59f859cd8": 1,
+  "20fbf8f57c": 1,
+  "82ac454c4f": 1,
+  "b330aed49f": 1,
+  "68c944da1b": 1
  }
 }
