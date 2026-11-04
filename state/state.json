@@ -2,20 +2,6 @@
  "seen": [
   {
    "fp": [
-    "7",
-    "etkil",
-    "kuvve",
-    "meteo",
-    "olaca",
-    "sağan",
-    "sel",
-    "uyarı",
-    "yağış"
-   ],
-   "at": "2026-11-03T04:43:35.882670+00:00"
-  },
-  {
-   "fp": [
     "alınd",
     "avuka",
     "bakım",
@@ -3165,23 +3151,42 @@
     "yönet"
    ],
    "at": "2026-11-04T16:33:24.728977+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "deki",
+    "değil",
+    "iran",
+    "israi",
+    "kaybe",
+    "neden",
+    "paniğ",
+    "savaş",
+    "seçim",
+    "tek",
+    "trump",
+    "vurdu"
+   ],
+   "at": "2026-11-04T16:46:00.885213+00:00"
+  },
+  {
+   "fp": [
+    "affın",
+    "ali",
+    "başar",
+    "dan",
+    "görev",
+    "iddia",
+    "isted",
+    "mahir",
+    "seddk",
+    "yanıt"
+   ],
+   "at": "2026-11-04T16:46:04.990012+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "be14452596",
-   "post_id": "529346797199852_1452342047005503",
-   "title": "LGS kapsamındaki merkezi sınav 13 Haziran 2027'de yapılacak",
-   "at": "2026-10-30T11:34:18.002018+00:00",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027de-yapilacak/4106186",
-    "TRT Haber: https://www.trthaber.com/haber/egitim/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027de-yapilacak-961737.html",
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-2027-lgs-sinavinda-tarih-belli-oldu-7690821",
-    "CNN Türk: https://www.cnnturk.com/turkiye/2027-lgs-tarihi-lgs-ne-zaman-hangi-tarihte-yapilacak-meb-liselere-gecis-sinavi-tarihini-duyurdu-3486673",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-lgs-tarihi-belli-oldu-3486671",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/30/son-dakika-liselere-gecis-sistemi-sinavi-lgs-tarihi-belli-oldu"
-   ]
-  },
   {
    "id": "e5868f7429",
    "post_id": "529346797199852_1452399503666424",
@@ -5927,6 +5932,20 @@
     "Habertürk: https://www.haberturk.com/gundem/ak-parti-ve-mhp-den-yerel-yonetimler-reform-gorusmesi-3924954",
     "BirGün: https://www.birgun.net/haber/akp-den-mhp-ye-ziyaret-yerel-yonetim-reformu-masada-744604"
    ]
+  },
+  {
+   "id": "a73f0818ca",
+   "post_id": "529346797199852_1457601876479520",
+   "title": "Ali Mahir Başarır'dan 'görevden affını istediği' iddialarına yanıt",
+   "at": "2026-11-04T16:46:04.990012+00:00",
+   "yazim": "claude",
+   "metin": "Yeni Parti Grup Başkanvekili Ali Mahir Başarır:\n\n“Tek kelimesi bile doğru olmayan bir haber! Yeni Parti'de istifa süreci çalışır. Affını istemek, AKP'nin siyaset literatürüne bir armağanıdır.”\n\nBaşarır'ın Özgür Özel ile görüşmesinde grup başkanvekilliğinden ayrılmak istediği iddia edildi. İktidara yakın medyada çıkan habere Başarır sosyal medya hesabından yanıt verdi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/seddkden-fon-sorusturmasi-surecindeki-iddialara-iliskin-aciklama/4111687",
+    "Habertürk: https://www.haberturk.com/ekonomi/seddk-dan-hakkindaki-iddialara-aciklama-hukuki-surec-baslatilacak-3924886",
+    "Sözcü: https://www.sozcu.com.tr/ali-mahir-basarir-gorevden-af-iddialarina-yanit-p376052",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ali-mahir-basarir-dan-gorevinden-affini-istedi-iddiasina-yanit-tek-kelimesi-bile-2553352"
+   ]
   }
  ],
  "fails": {
@@ -6292,7 +6311,6 @@
   "5fbba62582": 2,
   "231f29811c": 2,
   "0fc0855ee0": 1,
-  "0352de2d7f": 2,
   "cfdd6ae8b7": 1,
   "a73f0818ca": 1
  }
