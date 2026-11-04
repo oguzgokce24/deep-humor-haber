@@ -2,33 +2,6 @@
  "seen": [
   {
    "fp": [
-    "9",
-    "bilet",
-    "karab",
-    "kişi",
-    "satış",
-    "yapan"
-   ],
-   "at": "2026-11-02T22:33:24.852980+00:00"
-  },
-  {
-   "fp": [
-    "adası",
-    "basın",
-    "boğaz",
-    "duyul",
-    "hürmü",
-    "iran",
-    "keşm",
-    "nda",
-    "ndaki",
-    "patla",
-    "sesle"
-   ],
-   "at": "2026-11-02T22:36:43.787245+00:00"
-  },
-  {
-   "fp": [
     "binay",
     "düştü",
     "finan",
@@ -2557,6 +2530,17 @@
     "ölü"
    ],
    "at": "2026-11-04T10:13:20.425224+00:00"
+  },
+  {
+   "fp": [
+    "avcıl",
+    "duvar",
+    "neden",
+    "parkı",
+    "sağan",
+    "yıkıl"
+   ],
+   "at": "2026-11-04T10:43:32.283900+00:00"
   }
  ],
  "posted": [
@@ -5042,6 +5026,19 @@
     "BirGün: https://www.birgun.net/haber/mus-ta-pikap-devrildi-2-kisi-oldu-3-kisi-yaralandi-744471",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/musta-feci-kaza-pikap-takla-atti-2-olu-3-yarali-7694015"
    ]
+  },
+  {
+   "id": "1f72ebfe45",
+   "post_id": "529346797199852_1457307753175599",
+   "title": "Avcılar’da sağanak etkili oldu: Parkın duvarı yıkıldı",
+   "at": "2026-11-04T10:43:32.283900+00:00",
+   "yazim": "claude",
+   "metin": "Avcılar'da sağanak bir parkın duvarını yıktı.\n\n— Yarım saat süren yağmurda toprak yumuşadı. Ambarlı Mahallesi'ndeki parkın taş duvarının bir bölümü yürüyüş yoluna doğru yıkıldı.\n— Duvarın bazı yerlerinde çatlaklar oluştu.\n— Avcılar Belediyesi ekipleri parka gidip şerit çekti ve bölgede güvenlik önlemi aldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/avcilar/avcilarda-saganak-nedeniyle-parkin-duvari-yikildi-3488878",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/avcilar-da-saganak-etkili-oldu-parkin-duvari-yikildi-2553209",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/istanbulda-tehlikeli-anlar-saganak-nedeniyle-parkin-duvari-yikildi-4869711"
+   ]
   }
  ],
  "fails": {
@@ -5347,6 +5344,8 @@
   "36628179b6": 2,
   "a5d73773d7": 1,
   "556e34c5dd": 1,
-  "0ca1eb7bb1": 1
+  "0ca1eb7bb1": 1,
+  "1d8b03af4a": 1,
+  "67fc295718": 1
  }
 }
