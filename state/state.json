@@ -2,30 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "100",
-    "34",
-    "aklam",
-    "bahis",
-    "dışı",
-    "gelir",
-    "gözal",
-    "ilde",
-    "kara",
-    "konul",
-    "liral",
-    "milya",
-    "opera",
-    "para",
-    "suç",
-    "yakal",
-    "yasa",
-    "şüphe"
-   ],
-   "at": "2026-11-03T13:50:00.934228+00:00"
-  },
-  {
-   "fp": [
     "acil",
     "alarm",
     "avrup",
@@ -2575,24 +2551,19 @@
     "ödeme"
    ],
    "at": "2026-11-05T00:16:44.727799+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "4",
+    "afyon",
+    "büyük",
+    "depre"
+   ],
+   "at": "2026-11-05T01:52:53.467398+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0af70b0ffb",
-   "post_id": "529346797199852_1452766843629690",
-   "title": "Polonya'da Anayasa Mahkemesi krizi: Polis binayı kuşattı, Cumhurbaşkanı yurt dışı ziyaretini yarıda kesti",
-   "at": "2026-10-30T20:34:14.101331+00:00",
-   "yazim": "yedek",
-   "metin": "Polonya'da Anayasa Mahkemesi krizi: Polis binayı kuşattı, Cumhurbaşkanı yurt dışı ziyaretini yarıda kesti.\n\nPolonya'da yargı krizi yargı krizi, Anayasa Mahkemesi Başkanı ve Başkan Yardımcısı'nın görevlerinin askıya alındığının duyurulmasıyla yeni bir boyuta taşındı.",
-   "sources": [
-    "Euronews: https://tr.euronews.com/2026/10/30/polonyada-anayasa-mahkemesi-krizi-polis-binayi-kusatti-cumhurbaskani-yurt-disi-ziyaretini-",
-    "Milliyet: https://www.milliyet.com.tr/dunya/bir-avrupa-ulkesi-daha-karisti-cumhurbaskani-ulkede-yokken-anayasa-mahkemesini-polis-basti-7691096",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/polonya-da-siyasi-kriz-polis-anayasa-mahkemesi-ne-baskin-duzenledi-2551838",
-    "Diken: https://www.diken.com.tr/polonyada-polis-anayasa-mahkemesini-basti/?utm_source=rss&utm_medium=rss&utm_campaign=polonyada-polis-anayasa-mahkemesini-basti",
-    "Serbestiyet: https://serbestiyet.com/dis-haber/polonyada-polis-gece-yarisi-anayasa-mahkemesini-basti-252532/"
-   ]
-  },
   {
    "id": "c45b241cb1",
    "post_id": "529346797199852_1452802483626126",
@@ -5338,6 +5309,22 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/brezilyadaki-bir-macta-53-kirmizi-kart-cikti/4112091",
     "Habertürk: https://www.haberturk.com/spor/brezilya-daki-bir-macta-53-kirmizi-kart-cikti-3925002",
     "Karar: https://www.karar.com/spor-haberleri/yesil-sahalarda-gorulmemis-olay-brezilyada-bir-macta-tam-53-kirmizi-kart-2082433"
+   ]
+  },
+  {
+   "id": "fd24616b0b",
+   "post_id": "529346797199852_1457964829776558",
+   "title": "Afyonkarahisar'da 4.1 büyüklüğünde deprem",
+   "at": "2026-11-05T01:52:53.467398+00:00",
+   "yazim": "claude",
+   "metin": "Afyonkarahisar'ın Dinar ilçesinde 4.1 büyüklüğünde deprem oldu.\n\nAFAD'a göre sarsıntı saat 03:23'te, 7,02 kilometre derinlikte kaydedildi. Bölgede şu an bir olumsuzluk tespit edilmediği bildirildi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/afyonkarahisarda-4-1-buyuklugunde-deprem/4112132",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-962277.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/afyonkarahisarda-4-1-buyuklugunde-deprem-43366408",
+    "NTV: https://www.ntv.com.tr/turkiye/dinarda-41-buyuklugunde-deprem-1749432",
+    "Habertürk: https://www.haberturk.com/gundem/afyonkarahisar-da-4-1-buyuklugunde-deprem-3925011",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/afyonkarahisarda-41-buyuklugunde-deprem-4869931"
    ]
   }
  ],
