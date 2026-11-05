@@ -2,20 +2,6 @@
  "seen": [
   {
    "fp": [
-    "biri",
-    "demir",
-    "güven",
-    "ihtiy",
-    "mesaj",
-    "selah",
-    "süreç",
-    "tan",
-    "öneml"
-   ],
-   "at": "2026-11-03T19:00:27.626189+00:00"
-  },
-  {
-   "fp": [
     "1",
     "111",
     "6",
@@ -2188,22 +2174,20 @@
     "yangı"
    ],
    "at": "2026-11-05T06:49:56.488330+00:00"
+  },
+  {
+   "fp": [
+    "geçir",
+    "kazas",
+    "sinan",
+    "trafi",
+    "özen",
+    "şarkı"
+   ],
+   "at": "2026-11-05T07:19:18.940430+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "85f791a2b4",
-   "post_id": "529346797199852_1453057690267272",
-   "title": "Hudut geçişine müdahalede ateş açıldı: Bir asker şehit",
-   "at": "2026-10-31T03:58:24.731138+00:00",
-   "yazim": "claude",
-   "metin": "Hudut geçişine müdahalede ateş açıldı, bir asker şehit oldu.\n\n— Yaralanan asker helikopterle hastaneye kaldırıldı.\n— Hastanedeki tüm müdahalelere rağmen kurtarılamadı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/hakkaride-hudut-gecis-olayina-mudahale-ederken-acilan-atesle-yaralanan-asker-sehit-oldu/4107021",
-    "Sözcü: https://www.sozcu.com.tr/hudut-gecisine-mudahalede-ates-acildi-bir-asker-sehit-p374482",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/hudut-gecisine-mudahalede-ates-acildi-bir-asker-sehit-p374482"
-   ]
-  },
   {
    "id": "67c77a340c",
    "post_id": "529346797199852_1453114173594957",
@@ -4950,6 +4934,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-iscilerin-kaldigi-konteynerlerde-yangin-4-konteyner-kule-dondu-2553485",
     "Evrensel: https://www.evrensel.net/haber/6008069/arnavutkoyde-isci-konteynerlerinde-yangin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "c58167def2",
+   "post_id": "529346797199852_1458181273088247",
+   "title": "Kardeşi duyurdu: Şarkıcı Sinan Özen trafik kazası geçirdi",
+   "at": "2026-11-05T07:19:18.940430+00:00",
+   "yazim": "claude",
+   "metin": "Kardeşi Hızır Özen:\n\n“Tokat dönüşü Sakarya gişelerinde yaşadığımız kaza. Çok şükür iyiyiz.”\n\nŞarkıcı Sinan Özen, 3 Kasım'da Tokat'taki konserinin ardından İstanbul'a dönerken otoyoldaki Sakarya gişelerinde kaza geçirdi. Araçta bulunan kardeşi Hızır Özen ile birlikte yara almadan kurtuldu. Kazayı sosyal medyadan duyuran Hızır Özen, araçların fotoğraflarını da paylaştı.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/sarkici-sinan-ozen-trafik-kazasi-gecirdi-1749475",
+    "Habertürk: https://www.haberturk.com/magazin/sinan-ozen-trafik-kazasi-gecirdi-3925051",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kardesi-duyurdu-sarkici-sinan-ozen-trafik-kazasi-gecirdi-2553498"
+   ]
   }
  ],
  "fails": {
@@ -4958,6 +4955,13 @@
   "97dc9d4a38": 2,
   "e0f688eb11": 1,
   "32ada085dc": 1,
-  "1a52b5872a": 1
+  "1a52b5872a": 1,
+  "c3063a6b0d": 1,
+  "d06aad3f05": 1,
+  "46f43d6a08": 1,
+  "f222a8b67c": 1,
+  "afddc012ba": 1,
+  "98bc072e51": 1,
+  "d2a62457d3": 1
  }
 }
