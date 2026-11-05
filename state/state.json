@@ -2,14 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alman",
-    "starl",
-    "türk"
-   ],
-   "at": "2026-11-03T19:58:21.920856+00:00"
-  },
-  {
-   "fp": [
     "0",
     "2",
     "batra",
@@ -2208,22 +2200,41 @@
     "şişli"
    ],
    "at": "2026-11-05T07:46:30.140398+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "2",
+    "abd",
+    "aldı",
+    "alev",
+    "den",
+    "ele",
+    "geçer",
+    "geçir",
+    "hürmü",
+    "iha",
+    "iran",
+    "petro",
+    "römor",
+    "tanke"
+   ],
+   "at": "2026-11-05T07:59:37.921796+00:00"
+  },
+  {
+   "fp": [
+    "arata",
+    "karik",
+    "kemal",
+    "kimdi",
+    "yaşam",
+    "yitir",
+    "öldü"
+   ],
+   "at": "2026-11-05T07:59:46.654265+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5d9484fe2a",
-   "post_id": "529346797199852_1453196930253348",
-   "title": "İstanbul Boğazı'nda gemi trafiği askıya alındı",
-   "at": "2026-10-31T07:16:51.125570+00:00",
-   "yazim": "claude",
-   "metin": "Boğazda gemi trafiği, 'Aroyat' adlı geminin geçişi nedeniyle durduruldu.\n\n— Palau bayraklı kuru yük gemisi Aroyat, Rusya açıklarında İHA saldırısına uğramıştı.\n— Boğazda trafik iki yönde de geçici olarak askıya alındı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbul-bogazinda-gemi-trafigi-askiya-alindi-43361325",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-bogaz-trafigi-askiya-alindi-3923878",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-bogazi-nda-gemi-trafigi-askiya-alindi-2551896"
-   ]
-  },
   {
    "id": "3b34b2b4c5",
    "post_id": "529346797199852_1453205463585828",
@@ -4971,6 +4982,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sisli-de-agac-devrildi-yol-trafige-kapandi-2553484",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/tesvikiyede-agac-devrildi-sokak-trafige-kapandi-43366527"
    ]
+  },
+  {
+   "id": "b8dfd9770b",
+   "post_id": "529346797199852_1458206946419013",
+   "title": "Kemal Aratan kimdir? Karikatürist Kemal Aratan neden öldü?",
+   "at": "2026-11-05T07:59:46.654265+00:00",
+   "yazim": "claude",
+   "metin": "Karikatürist ve çizgi roman sanatçısı Kemal Aratan, 61 yaşında hayatını kaybetti.\n\nGırgır, Limon ve Leman gibi mizah dergilerinde eserleri yayımlanmış, \"Vah Vahap Vah\" karakteriyle tanınıyordu.\n\nSanat ve mizah çevresinden çok sayıda isim taziye mesajı paylaştı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/kemal-aratan-kimdir-oldu-mu-kac-yasindaydi-ve-nereli-p376206",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/yasam/kemal-aratan-kimdir-karikaturist-kemal-aratan-neden-oldu-2553499",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/kultur-sanat/karikaturist-kemal-aratan-yasamini-yitirdi-2553462",
+    "Medyascope: https://medyascope.tv/2026/11/05/karikaturist-kemal-aratan-hayatini-kaybetti-kemal-aratan-kimdir/",
+    "Karar: https://www.karar.com/guncel-haberler/karikaturist-kemal-aratan-yasamini-yitirdi-2082451"
+   ]
   }
  ],
  "fails": {
@@ -4981,10 +5007,10 @@
   "1a52b5872a": 1,
   "afddc012ba": 2,
   "98bc072e51": 1,
-  "d2a62457d3": 2,
   "e4d1343ca5": 1,
-  "b9251423c1": 1,
-  "4acf539185": 1,
-  "77fa7a893a": 1
+  "b9251423c1": 2,
+  "4acf539185": 2,
+  "77fa7a893a": 2,
+  "fece2c78d0": 1
  }
 }
