@@ -2567,22 +2567,34 @@
     "zehir"
    ],
    "at": "2026-11-05T11:44:44.037861+00:00"
+  },
+  {
+   "fp": [
+    "avrup",
+    "bomba",
+    "ihbar",
+    "uçakl"
+   ],
+   "at": "2026-11-05T11:55:06.255910+00:00"
+  },
+  {
+   "fp": [
+    "121",
+    "adli",
+    "alkol",
+    "genel",
+    "içki",
+    "işlem",
+    "kaçak",
+    "opera",
+    "sahte",
+    "yapıl",
+    "şüphe"
+   ],
+   "at": "2026-11-05T11:55:13.060204+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8d4e283c8a",
-   "post_id": "529346797199852_1453314433574931",
-   "title": "Beşiktaş, zorlu Kasımpaşa deplasmanına çıkıyor",
-   "at": "2026-10-31T10:20:03.814646+00:00",
-   "yazim": "claude",
-   "metin": "Beşiktaş yarın Kasımpaşa deplasmanına çıkıyor.\n\nSüper Lig'in 10. haftasında karşılaşma saat 19.00'da başlayacak.\n\nSiyah-beyazlılar bu maçta deplasmanda üç puan almak istiyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/besiktasta-kasimpasa-maci-oncesi-2-eksik-3486998",
-    "Habertürk: https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891",
-    "BirGün: https://www.birgun.net/haber/besiktas-zorlu-kasimpasa-deplasmanina-cikiyor-743625"
-   ]
-  },
   {
    "id": "76770ed2dd",
    "post_id": "529346797199852_1453323283574046",
@@ -5338,6 +5350,21 @@
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/aksarayda-tur-midibusu-devrildi-14-kisi-yaralandi-4869987",
     "Karar: https://www.karar.com/sehir-haberleri/giresunda-kar-nedeniyle-otomobil-ucuruma-yuvarlandi-yaralilar-var-2082515"
    ]
+  },
+  {
+   "id": "bfc7746b36",
+   "post_id": "529346797199852_1458376756402032",
+   "title": "Türkiye genelinde sahte alkol operasyonu, 121 şüpheliye işlem",
+   "at": "2026-11-05T11:55:13.060204+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye genelinde kaçak ve sahte alkol operasyonunda 121 şüpheli hakkında işlem yapıldı.\n\n— 9 kaçak imalathane deşifre edildi.\n— 5 bin 754 litre kaçak ve sahte içki, 44 bin 677 litre etil alkol ele geçirildi.\n\nSahte alkol vatandasların sağlığını tehdit ediyor. İçişleri Bakanlığı bu üreticilere karşı mücadelenin kararlılıkla süreceğini bildirdi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/ulke-genelindeki-kacak-ve-sahte-icki-operasyonlarinda-121-supheliye-adli-islem-yapildi/4112858",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/kacak-ve-sahte-icki-operasyonlarinda-121-supheliye-adli-islem-yapildi-962342.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/alkol-kacakciligi-operasyon-121-supheli-hakkinda-islem-yapildi-43367089",
+    "NTV: https://www.ntv.com.tr/turkiye/turkiye-genelinde-sahte-alkol-operasyonu-121-supheliye-islem-1749534",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/alkol-kacakciligi-operasyon-121-supheli-hakkinda-islem-yapildi-43367089"
+   ]
   }
  ],
  "fails": {
@@ -5376,8 +5403,7 @@
   "4256d85da3": 1,
   "ca1706699a": 2,
   "c1b4c446fb": 1,
-  "48f8766ceb": 2,
-  "5b10bfd177": 1,
+  "5b10bfd177": 2,
   "70b9436139": 1
  }
 }
