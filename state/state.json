@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "barış",
-    "fener",
-    "göktü",
-    "istif",
-    "ten",
-    "yönet"
-   ],
-   "at": "2026-11-03T18:34:10.127785+00:00"
-  },
-  {
-   "fp": [
     "aldı",
     "alev",
     "işçil",
@@ -2192,25 +2181,19 @@
     "yaral"
    ],
    "at": "2026-11-05T06:20:59.211367+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "hafta",
+    "heyec",
+    "lig",
+    "süper"
+   ],
+   "at": "2026-11-05T06:37:31.931038+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0692e58f6a",
-   "post_id": "529346797199852_1452829683623406",
-   "title": "Fidan ve Rubio Atlanta’da görüştü: Gündemde İran ve Gazze vardı",
-   "at": "2026-10-30T22:18:26.625441+00:00",
-   "yazim": "yedek",
-   "metin": "Fidan ve Rubio Atlanta’da görüştü: Gündemde İran ve Gazze vardı.\n\nDışişleri Bakanı Hakan Fidan, Atlanta’daki G20 Dışişleri Bakanları Toplantısı kapsamında ABD Dışişleri Bakanı Marco Rubi...",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-abd-disisleri-bakani-rubio-ile-bir-araya-geldi/4106951",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-abdli-mevkidasi-rubio-ile-gorustu-43361161",
-    "Milliyet: https://www.milliyet.com.tr/dunya/disisleri-bakani-hakan-fidan-g20-disisleri-bakanlari-toplantisina-katildi-7691058",
-    "Milliyet: https://www.milliyet.com.tr/gundem/atlantada-kritik-temas-disisleri-bakani-hakan-fidan-ve-abdli-mevkidasi-marco-rubio-ile-gorustu-7691101",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/30/abdde-kritik-zirve-bakan-fidan-rubio-ile-gorustu-gazze-ve-bolgesel-baris-vurgusu",
-    "NTV: https://www.ntv.com.tr/turkiye/bakan-fidan-abdli-mevkidasi-rubio-ile-gorustu-1748700"
-   ]
-  },
   {
    "id": "d057813042",
    "post_id": "529346797199852_1452957556943952",
@@ -4960,12 +4943,25 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/abdde-helikopterin-denize-dusmesi-sonucu-1-kisi-oldu-2-kisi-yaralandi-962294.html",
     "Karar: https://www.karar.com/dunya-haberleri/abdde-helikopter-denize-dustu-1-olu-2-yarali-2082456"
    ]
+  },
+  {
+   "id": "e0e74c124f",
+   "post_id": "529346797199852_1458155273090847",
+   "title": "Süper Lig'de 11'inci hafta heyecanı başlıyor",
+   "at": "2026-11-05T06:37:31.931038+00:00",
+   "yazim": "claude",
+   "metin": "Süper Lig'de 11. hafta 6 Kasım'da açılıyor: Gaziantep FK, Kasımpaşa'yı ağırlıyor.\n\nHaftanın ilk ve tek maçı Gaziantep Stadı'nda saat 20.00'de başlayacak.\n\nBu haftanın ardından lig 21 Kasım'a kadar milli ara nedeniyle duracak.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/super-ligde-11-hafta-heyecani-yarin-baslayacak/4112171",
+    "Evrensel: https://www.evrensel.net/haber/6008070/super-lig-de-11-inci-hafta-heyecani-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Diken: https://www.diken.com.tr/super-ligde-haftanin-programi-2/?utm_source=rss&utm_medium=rss&utm_campaign=super-ligde-haftanin-programi-2"
+   ]
   }
  ],
  "fails": {
   "a51b359a6c": 1,
-  "35be036fa2": 1,
-  "97dc9d4a38": 1,
+  "35be036fa2": 2,
+  "97dc9d4a38": 2,
   "e0f688eb11": 1,
   "32ada085dc": 1,
   "1a52b5872a": 1
