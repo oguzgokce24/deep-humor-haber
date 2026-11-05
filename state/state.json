@@ -2374,22 +2374,30 @@
     "yasa"
    ],
    "at": "2026-11-05T11:07:59.006164+00:00"
+  },
+  {
+   "fp": [
+    "asker",
+    "den",
+    "iran",
+    "msb",
+    "sınır",
+    "şehit"
+   ],
+   "at": "2026-11-05T11:11:43.003706+00:00"
+  },
+  {
+   "fp": [
+    "devri",
+    "gires",
+    "kişi",
+    "otomo",
+    "yaral"
+   ],
+   "at": "2026-11-05T11:12:03.470328+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "403fdea27e",
-   "post_id": "529346797199852_1453305576909150",
-   "title": "Fenerbahçe-Göztepe maçının VAR hakemi açıklandı",
-   "at": "2026-10-31T10:07:09.175527+00:00",
-   "yazim": "claude",
-   "metin": "Fenerbahçe - Göztepe maçının VAR hakemi belli oldu.\n\nBu akşam Fenerbahçe, sahasında Göztepe'yi ağırlayacak. Maçı Oğuzhan Çakır yönetecek.\n\n— VAR'da Avusturyalı Alan Kijas görev yapacak.\n— AVAR'da Murat Tuğberk Curbay olacak.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/live-fenerbahce-goztepe-macina-dogru-muhtemel-11ler-3487011",
-    "Habertürk: https://www.haberturk.com/spor/fenerbahce-goztepe-karsisinda-moral-ariyor-fenerbahce-goztepe-maci-saat-kacta-hangi-kanalda-fenerbahce-goztepe-muhtemel-11-ler-3923869",
-    "Karar: https://www.karar.com/spor-haberleri/fenerbahce-goztepe-macinin-var-hakemi-aciklandi-2081618"
-   ]
-  },
   {
    "id": "8d4e283c8a",
    "post_id": "529346797199852_1453314433574931",
@@ -5145,6 +5153,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/izmir-de-polisin-parmagini-isiran-firariden-sasirtan-sozler-yaptiginiz-muameleye-bak-2553529",
     "Yeni Şafak: https://www.yenisafak.com/gundem/firari-hukumlu-kendisini-yakalayan-polisin-parmagini-isirdi-4870025"
    ]
+  },
+  {
+   "id": "f0f870e596",
+   "post_id": "529346797199852_1458343153072059",
+   "title": "Giresun'da kar nedeniyle otomobil uçuruma yuvarlandı: Yaralılar var",
+   "at": "2026-11-05T11:12:03.470328+00:00",
+   "yazim": "claude",
+   "metin": "Giresun'un Dereli ilçesinde kar yüzünden kayganlaşan yolda bir otomobil 50 metrelik uçuruma yuvarlandı.\n\nSürücü aracın kontrolünü kaybetti. Otomobil taklalar atarak şarampole düştü ve içindeki iki kişi yaralandı.\n\nYaralılar Giresun Üniversitesi Eğitim ve Araştırma Hastanesi'nde tedavi altına alındı. Kaza için soruşturma başlatıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/giresun/giresunda-sarampole-devrilen-otomobildeki-2-kisi-yaralandi-3489395",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/aksarayda-tur-midibusu-devrildi-14-kisi-yaralandi-4869987",
+    "Karar: https://www.karar.com/sehir-haberleri/giresunda-kar-nedeniyle-otomobil-ucuruma-yuvarlandi-yaralilar-var-2082515"
+   ]
   }
  ],
  "fails": {
@@ -5181,10 +5202,9 @@
   "c324ae61df": 2,
   "12575edde7": 1,
   "4256d85da3": 1,
-  "f13998ed23": 2,
   "ca1706699a": 2,
-  "73fb90692d": 1,
-  "5378f3312b": 1,
+  "73fb90692d": 2,
+  "5378f3312b": 2,
   "3d7c8a9ef7": 1,
   "2cdf8fbf87": 1,
   "c1b4c446fb": 1,
