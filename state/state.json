@@ -2711,25 +2711,22 @@
     "merke"
    ],
    "at": "2026-11-05T13:10:04.514556+00:00"
+  },
+  {
+   "fp": [
+    "bisik",
+    "evine",
+    "giden",
+    "isabe",
+    "mardi",
+    "mermi",
+    "yorgu",
+    "öğret"
+   ],
+   "at": "2026-11-05T13:17:36.668964+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "be11ebec32",
-   "post_id": "529346797199852_1453399383566436",
-   "title": "Cumhurbaşkanı Erdoğan: Tıbbi ekipmanlarımızı artık biz üretiyoruz",
-   "at": "2026-10-31T12:15:26.256908+00:00",
-   "yazim": "claude",
-   "metin": "Cumhurbaşkanı Recep Tayyip Erdoğan:\n\n“Sağlık ekipmanlarını dışarıdan almak yerine artık biz üretiyoruz. Şimdiki hedefimiz kendi ultrason cihazımızı üretmek.”\n\nErdoğan, Aziz Sancar Bilim, Hizmet ve Teşvik Ödülleri töreninde konuştu.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-saglikta-yerli-uretim-modeliyle-tibbi-cihaz-ve-ekipmanlarimizi-artik-biz-uretiyoruz/4107253",
-    "TRT Haber: https://www.trthaber.com/haber/ekonomi/yerli-asi-ve-tibbi-cihazda-yerli-hamle-961806.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-vizyonumuz-saglikli-turkiye-yuzyili-43361592",
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-7691513",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-aciklamalar-3487135",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/31/son-dakika-baskan-erdogandan-onemli-aciklamalar"
-   ]
-  },
   {
    "id": "b751e1211a",
    "post_id": "529346797199852_1453409250232116",
@@ -5487,6 +5484,19 @@
     "BirGün: https://www.birgun.net/haber/merkez-bankasi-rezervleri-dustu-son-durum-ne-744781",
     "Karar: https://www.karar.com/ekonomi-haberleri/merkez-bankasi-rezervleri-1581-milyar-dolar-oldu-2082537"
    ]
+  },
+  {
+   "id": "7d1a2c71da",
+   "post_id": "529346797199852_1458441996395508",
+   "title": "Mardin'de bisikletiyle evine giden öğretmene yorgun mermi isabet etti",
+   "at": "2026-11-05T13:17:36.668964+00:00",
+   "yazim": "claude",
+   "metin": "Mardin'in Kızıltepe ilçesinde bisikletiyle evine giden bir öğretmen, bacağına yorgun mermi isabet ederek yaralandı.\n\nOlay öğle saatlerinde Mezopotamya Mahallesi'nde yaşandı. Öğretmen ambulansla hastaneye kaldırıldı ve sağlık durumunun iyi olduğu bildirildi.\n\nPolis, merminin hangi silahtan ateşlendiğini ve kimin ateş ettiğini araştırıyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/mardin/mardin-bisikletle-giden-ogretmenin-bacagina-yorgun-mermi-isabet-etti-3489507",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mardin-de-bisikletiyle-evine-giden-ogretmene-yorgun-mermi-isabet-etti-2553614",
+    "Evrensel: https://www.evrensel.net/haber/6008156/mardinde-evine-giderken-yorgun-merminin-hedefi-olan-ogretmen-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -5532,6 +5542,7 @@
   "d18e545535": 2,
   "31ad77fc00": 2,
   "7811f5f46a": 1,
-  "cbde70215a": 1
+  "cbde70215a": 1,
+  "edd1999c29": 1
  }
 }
