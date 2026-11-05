@@ -17,10 +17,16 @@ def tr_lower(s: str) -> str:
     return s.replace("I", "ı").replace("İ", "i").lower()
 
 
+# Yazıyla sayılar rakama çevrilir: "beş kişi" ile "5 kişi" aynı sayılsın
+NUM = {"iki": "2", "üç": "3", "dört": "4", "beş": "5", "altı": "6", "yedi": "7", "sekiz": "8",
+       "dokuz": "9", "on": "10", "yirmi": "20", "otuz": "30", "kırk": "40", "elli": "50", "yüz": "100"}
+
+
 def tokens(title: str) -> set[str]:
     words = re.findall(r"[a-zçğıöşüâîû0-9]+", tr_lower(title))
     out = set()
     for w in words:
+        w = NUM.get(w, w)
         if w in STOP or (len(w) < 3 and not w.isdigit()):
             continue
         # Türkçe ekler nedeniyle kelimenin ilk 5 harfi (gövde yaklaşık) kullanılır
@@ -140,3 +146,21 @@ def verified(clusters, min_groups: int, require_anchor: bool, fast_minutes: int 
     ok = [c for c in clusters if ok_(c)]
     ok.sort(key=lambda c: (len(c.groups), c.latest.timestamp() if c.latest else 0), reverse=True)
     return ok
+
+
+# ---------------------------------------------------------------- Tekrar paylaşım kontrolü
+def story_tokens(c, extra: str = "") -> set[str]:
+    """Bir haberi tanımlayan ayırt edici kelimeler: tüm başlıklar + ana özet (+ paylaşılan metin)."""
+    text = " ".join(i.title for i in c.items) + " " + (c.lead().summary or "")[:300] + " " + extra
+    return {t for t in tokens(text) if _strong(t)}
+
+
+def is_duplicate(a: set, b: set) -> bool:
+    """İki haber aynı olay mı? Ayırt edici kelimelerin önemli kısmı ortaksa evet.
+    Ör. 'İhsaniye'de iki otomobilin içinde 5 kişinin cesedi' ile 'Afyon'da bir otomobilde beş kişinin cesedi'."""
+    if not a or not b:
+        return False
+    common = a & b
+    if len(common) >= 5:
+        return True
+    return len(common) >= 3 and len(common) / min(len(a), len(b)) >= 0.4

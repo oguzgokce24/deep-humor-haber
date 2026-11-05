@@ -23,7 +23,7 @@ import yaml
 from dh.collect import fetch_all, og_image
 from dh.render import render_card, pick_photo
 from dh import writer
-from dh.verify import cluster, verified, similarity
+from dh.verify import cluster, verified, similarity, story_tokens, is_duplicate
 from dh.channels import FacebookPage
 
 ROOT = Path(__file__).resolve().parent
@@ -153,7 +153,9 @@ def find_new(cfg, st):
         if excluded(c, excl):
             continue
         fp = c.fingerprint
-        if any(similarity(fp, set(s["fp"])) >= 0.5 for s in st["seen"]):
+        toks = story_tokens(c)
+        if any(similarity(fp, set(s["fp"])) >= 0.5 or is_duplicate(toks, set(s.get("tok", [])))
+               for s in st["seen"]):
             continue
         fresh.append(c)
     return fresh
@@ -221,7 +223,8 @@ def main():
             if len(fails) > 300:
                 st["fails"] = fails = dict(list(fails.items())[-150:])
             if fails[fkey] >= 3:   # 3 turda da yazılamadıysa bu haberden vazgeç
-                st["seen"].append({"fp": sorted(c.fingerprint), "at": datetime.now(timezone.utc).isoformat()})
+                st["seen"].append({"fp": sorted(c.fingerprint), "tok": sorted(story_tokens(c))[:80],
+                                   "at": datetime.now(timezone.utc).isoformat()})
                 fails.pop(fkey, None)
             log("  Metin yazılamadı; bu haber bu tur paylaşılmıyor.")
             continue
@@ -235,7 +238,7 @@ def main():
         links = "\n".join(f"  {i.source}: {i.link}" for i in c.items[:6])
         now = datetime.now(timezone.utc).isoformat()
         # Aynı haber bir daha denenmesin (paylaşım hata verse bile)
-        st["seen"].append({"fp": sorted(c.fingerprint), "at": now})
+        st["seen"].append({"fp": sorted(c.fingerprint), "tok": sorted(story_tokens(c, caption))[:80], "at": now})
 
         if dry:
             log(f"\n[{pid}] {path.name}\n{caption}\nKaynaklar:\n{links}\n")
