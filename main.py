@@ -24,6 +24,7 @@ from dh.collect import fetch_all, og_image
 from dh.render import render_card, pick_photo
 from dh import writer
 from dh.verify import cluster, verified, similarity, story_tokens, is_duplicate
+from dh.verify import tokens as vtokens, _strong as vstrong
 from dh.channels import FacebookPage
 
 ROOT = Path(__file__).resolve().parent
@@ -148,6 +149,11 @@ def find_new(cfg, st):
     ok = verified(clusters, v["min_groups"], v["require_anchor"], v.get("fast_lane_minutes", 0))
     log(f"{len(items)} haber, {len(clusters)} küme, {len(ok)} doğrulanmış küme")
     excl = [w.strip() for w in cfg.get("exclude", []) if str(w).strip()]
+    # Son 36 saatte paylaşılanların başlık + metinlerinden ayırt edici kelimeler (tekrar kontrolü için)
+    now = datetime.now(timezone.utc)
+    recent_posts = [{t for t in vtokens(p["title"] + " " + p.get("metin", "")) if vstrong(t)}
+                    for p in st.get("posted", [])
+                    if now - datetime.fromisoformat(p["at"]) < timedelta(hours=36)]
     fresh = []
     for c in sorted(ok, key=interest_score, reverse=True):
         if excluded(c, excl):
@@ -155,7 +161,7 @@ def find_new(cfg, st):
         fp = c.fingerprint
         toks = story_tokens(c)
         if any(similarity(fp, set(s["fp"])) >= 0.5 or is_duplicate(toks, set(s.get("tok", [])))
-               for s in st["seen"]):
+               for s in st["seen"]) or any(is_duplicate(toks, pt) for pt in recent_posts):
             continue
         fresh.append(c)
     return fresh
