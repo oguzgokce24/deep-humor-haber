@@ -12,6 +12,32 @@ brand:
 writer:
   model: "claude-haiku-5-5"
 
+# Hiç paylaşılmayacak konular: başlık ya da özetinde bu ifadelerden biri geçen haber atlanır
+exclude:
+  - basketbol
+  - basket
+  - nba
+  - euroleague
+  - euroliga
+  - eurocup
+  - fiba
+  - bsl
+  - 12 dev adam
+  - potada
+  - smaç
+  - ribaund
+  - alperen şengün
+  - şengün
+  - cedi osman
+  - anadolu efes
+  - fenerbahçe beko
+  - galatasaray mct
+  - beşiktaş fibabanka
+  - pınar karşıyaka
+  - bahçeşehir koleji
+  - darüşşafaka
+  - türk telekom basketbol
+
 # Doğrulama kuralları
 verify:
   min_groups: 3            # Haberi veren en az kaç FARKLI medya grubu olmalı

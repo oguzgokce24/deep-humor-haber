@@ -98,6 +98,21 @@ CEKICI = ["istifa", "tepki", "itiraf", "sert", "olay", "ilk kez", "yüzde", "zam
           "ünlü", "oyuncu", "şarkıcı", "fenomen", "gazeteci"]
 
 
+def _tr_low(t: str) -> str:
+    return t.replace("I", "ı").replace("İ", "i").lower()
+
+
+def excluded(c, words) -> bool:
+    """Başlık/özetlerinde hariç tutulan bir ifade geçen haber (ör. basketbol) paylaşılmaz."""
+    if not words:
+        return False
+    text = " " + _tr_low(" ".join(i.title + " " + (i.summary or "") for i in c.items)) + " "
+    for w in words:
+        if re.search(r"(?<![a-zçğıöşü0-9])" + re.escape(_tr_low(str(w))), text):
+            return True
+    return False
+
+
 def interest_score(c) -> float:
     t = " " + " ".join(i.title.lower() for i in c.items[:6]) + " "
     lead = c.lead().title
@@ -132,8 +147,11 @@ def find_new(cfg, st):
     clusters = cluster(items, v["similarity"])
     ok = verified(clusters, v["min_groups"], v["require_anchor"], v.get("fast_lane_minutes", 0))
     log(f"{len(items)} haber, {len(clusters)} küme, {len(ok)} doğrulanmış küme")
+    excl = [w.strip() for w in cfg.get("exclude", []) if str(w).strip()]
     fresh = []
     for c in sorted(ok, key=interest_score, reverse=True):
+        if excluded(c, excl):
+            continue
         fp = c.fingerprint
         if any(similarity(fp, set(s["fp"])) >= 0.5 for s in st["seen"]):
             continue
