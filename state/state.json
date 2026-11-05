@@ -2161,21 +2161,50 @@
     "trump"
    ],
    "at": "2026-11-05T06:17:27.362476+00:00"
+  },
+  {
+   "fp": [
+    "16",
+    "2",
+    "aksar",
+    "ağır",
+    "devri",
+    "midib",
+    "taşıy",
+    "turis",
+    "yaral"
+   ],
+   "at": "2026-11-05T06:20:47.613716+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "5",
+    "başla",
+    "bugün",
+    "durum",
+    "güne",
+    "hava",
+    "kasım",
+    "meteo",
+    "nasıl",
+    "olaca"
+   ],
+   "at": "2026-11-05T06:20:55.805421+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "2",
+    "abd",
+    "deniz",
+    "helik",
+    "yaral"
+   ],
+   "at": "2026-11-05T06:20:59.211367+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6b6f523c09",
-   "post_id": "529346797199852_1452822520290789",
-   "title": "TOKİ başvurusu tuzağı! Sahte sitelerle vatandaşları dolandırdılar",
-   "at": "2026-10-30T22:06:01.032534+00:00",
-   "yazim": "claude",
-   "metin": "TOKİ başvurusu yapmak isteyenleri sahte sitelerle dolandıran 8 şüpheliden 6'sı tutuklandı.\n\n— Polis 5 ilde operasyon yaptı: Ankara, İstanbul, Kocaeli, Manisa ve Mersin.\n— Şüpheliler, bilişim sistemlerini kullanarak dolandırıcılık yapmakla suçlanıyor.\n— 2 kişi serbest bırakıldı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/sahte-toki-siteleri-uzerinden-dolandiricilik-yapan-6-supheli-tutuklandi-961781.html",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/toki-basvurusu-tuzagi-sahte-sitelerle-vatandaslari-dolandirdilar-2551852"
-   ]
-  },
   {
    "id": "0692e58f6a",
    "post_id": "529346797199852_1452829683623406",
@@ -4929,11 +4958,21 @@
     "BirGün: https://www.birgun.net/haber/abd-secimleri-piyasalari-hareketlendirdi-altin-yeniden-yukselise-gecti-744673",
     "Karar: https://www.karar.com/ekonomi-haberleri/abd-secimleri-piyasalari-hareketlendirdi-altin-yeniden-yukseliste-2082449"
    ]
+  },
+  {
+   "id": "24c265d7df",
+   "post_id": "529346797199852_1458143586425349",
+   "title": "ABD'de helikopter denize düştü: 1 ölü, 2 yaralı",
+   "at": "2026-11-05T06:20:59.211367+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de küçük bir helikopter denize düştü, bir kişi öldü.\n\nKaza dün Florida'nın Miami kenti yakınlarındaki Key Biscayne açıklarında yaşandı. Helikopterdeki üç kişiden biri hayatını kaybetti, ikisi yaralandı.\n\nABD'de Ulusal Ulaşım Güvenliği Kurulu (NTSB) ile Federal Havacılık İdaresi (FAA), kazanın nedenini bulmak için inceleme başlattı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/abdde-helikopterin-denize-dusmesi-sonucu-1-kisi-oldu-2-kisi-yaralandi-962294.html",
+    "Karar: https://www.karar.com/dunya-haberleri/abdde-helikopter-denize-dustu-1-olu-2-yarali-2082456"
+   ]
   }
  ],
  "fails": {
-  "a51b359a6c": 1,
-  "2d0d9a0c03": 2,
-  "4cb79d13c4": 2
+  "a51b359a6c": 1
  }
 }
