@@ -2280,23 +2280,20 @@
     "çarpt"
    ],
    "at": "2026-11-05T10:36:55.302889+00:00"
+  },
+  {
+   "fp": [
+    "firar",
+    "hüküm",
+    "parma",
+    "polis",
+    "yakal",
+    "ısırd"
+   ],
+   "at": "2026-11-05T10:49:37.031787+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "50ddc9cb91",
-   "post_id": "529346797199852_1453296513576723",
-   "title": "Üniversitelerde atama ve yükselmede yeni dönem: 'Merkezi alt sınır' geliyor",
-   "at": "2026-10-31T09:54:09.349443+00:00",
-   "yazim": "claude",
-   "metin": "Üniversitelerde akademik atama ve yükseltmeler için merkezi bir alt sınır geliyor.\n\n— Düzenleme, 2027 Yılı Cumhurbaşkanlığı Yıllık Programı'nda yer alıyor.\n— Mevzuat çalışmalarının 2027 içinde bitmesi planlanıyor.\n— Açık öğretimin ağırlığı azaltılacak, kontenjanlar iş gücü ihtiyacına göre belirlenecek.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/universitelerde-akademik-atama-ve-yukseltmede-merkezi-alt-sinir-duzenlemesi-2027de-tamamlanacak/4107112",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/31/universitelerde-akademik-atama-ve-yukseltmede-yeni-donem-mevzuat-calismalari-gelecek-yil-sonuclanacak",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/universitelerde-atama-ve-yukselmede-yeni-donem-merkezi-alt-sinir-geliyor-2551936",
-    "BirGün: https://www.birgun.net/haber/universitelerde-atama-ve-yukselmede-kriterler-degisiyor-yeni-sartlar-belli-oldu-743647"
-   ]
-  },
   {
    "id": "403fdea27e",
    "post_id": "529346797199852_1453305576909150",
@@ -5050,6 +5047,21 @@
     "BirGün: https://www.birgun.net/haber/mersin-de-kontrolden-cikan-minibus-5-araca-carparak-durabildi-14-yarali-744740",
     "Karar: https://www.karar.com/sehir-haberleri/mersinde-zincirleme-kaza-minibus-5-araca-carpti-16-yarali-2082509"
    ]
+  },
+  {
+   "id": "c4d87c821e",
+   "post_id": "529346797199852_1458326566407051",
+   "title": "İzmir'de polisin parmağını ısıran firariden şaşırtan sözler: 'Yaptığınız muameleye bak'",
+   "at": "2026-11-05T10:49:37.031787+00:00",
+   "yazim": "claude",
+   "metin": "Yakalanan firari (22):\n\n“Yaptığınız muameleye bak.”\n\nİzmir Narlıdere'de 33 gündür aranan ve hakkında 18 yıl 5 ay kesinleşmiş hapis cezası bulunan firari, kaçarken bir polis memurunun parmağını ısırdı. Adliyeye ters kelepçeyle götürülürken bu sözleri söyledi ve tutuklanarak cezaevine gönderildi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/manisa/manisada-3-firari-hukumlu-yakalandi-3489402",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/nevsehir/nevsehirde-2-firari-hukumlu-yakalandi-3489388",
+    "Habertürk: https://www.haberturk.com/gundem/firari-hukumlu-polisin-parmagini-isirdi-3925115",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/izmir-de-polisin-parmagini-isiran-firariden-sasirtan-sozler-yaptiginiz-muameleye-bak-2553529",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/firari-hukumlu-kendisini-yakalayan-polisin-parmagini-isirdi-4870025"
+   ]
   }
  ],
  "fails": {
@@ -5092,6 +5104,8 @@
   "3942803941": 1,
   "c324ae61df": 1,
   "12575edde7": 1,
-  "4256d85da3": 1
+  "4256d85da3": 1,
+  "f13998ed23": 1,
+  "ca1706699a": 1
  }
 }
