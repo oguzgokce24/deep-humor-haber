@@ -353,5 +353,5 @@ def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label=
 
     out = canvas.convert("RGB")
     if out_path:
-        out.save(out_path, "JPEG", quality=92)
+        out.save(out_path, "JPEG", quality=95, subsampling=0, optimize=True)  # yazılar keskin kalsın
     return out
