@@ -2205,22 +2205,21 @@
     "şengü"
    ],
    "at": "2026-11-05T08:51:37.682205+00:00"
+  },
+  {
+   "fp": [
+    "den",
+    "fırtı",
+    "geliy",
+    "kar",
+    "meteo",
+    "sıcak",
+    "uyarı"
+   ],
+   "at": "2026-11-05T09:04:51.144893+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3f9668ba06",
-   "post_id": "529346797199852_1453220893584285",
-   "title": "Büyükçekmece'de trafikte tartıştığı sürücünün otomobiline çarptı",
-   "at": "2026-10-31T07:54:16.234656+00:00",
-   "yazim": "claude",
-   "metin": "Trafikte yol verme tartışması, arkadan çarpmayla bitti.\n\n— Büyükçekmece'de Hadımköy Yolu Caddesi'nde, sağ şeride geçmek isteyen bir sürücüyle diğer sürücü yol verme yüzünden tartıştı.\n— İddiaya göre sürücülerden biri, diğerinin otomobiline arkadan çarpıp olay yerinden uzaklaştı.\n— Yaşananlar, hasar gören sürücünün cep telefonu kamerasıyla kaydedildi.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/trafikte-tartistigi-surucunun-otomobiline-arkadan-carpip-kacti-p374494",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/buyukcekmece-de-trafikte-tartistigi-surucunun-otomobiline-carpti-2551876",
-    "Yeni Şafak: https://www.yenisafak.com/video/gundem/buyukcekmecede-trafik-magandasi-dehset-sacti-tartistigi-surucunun-aracina-arkadan-bilerek-carpti-4868593"
-   ]
-  },
   {
    "id": "398900df15",
    "post_id": "529346797199852_1453229586916749",
@@ -4971,6 +4970,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/alperen-sengun-un-triple-double-i-yetmedi-houston-minnesota-ya-maglup-oldu-2553509",
     "Karar: https://www.karar.com/spor-haberleri/alperenden-triple-double-2082478"
    ]
+  },
+  {
+   "id": "7d0b8dd654",
+   "post_id": "529346797199852_1458251783081196",
+   "title": "Meteoroloji'den korkutan uyarı geldi: Sıcaklık düşüyor, kar ve fırtına geliyor",
+   "at": "2026-11-05T09:04:51.144893+00:00",
+   "yazim": "claude",
+   "metin": "Sibirya soğukları sıcaklığı 8 derece düşürdü. Yağmurun ardından hafta sonu kar ve fırtına geliyor.\n\n— Pazar günü Bolu, Kastamonu, Kayseri, Erzurum, Kars, Ardahan ve Sivas gibi birçok ilde kar yağışı bekleniyor.\n— MGM bugün 16 il için sarı ve turuncu kodlu uyarı verdi.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-sicaklik-8-derece-dustu-firtina-ve-kar-geliyor-1749447",
+    "Sözcü: https://www.sozcu.com.tr/meteorolojiden-korkulan-uyari-geldi-sicaklik-dusuyor-kar-ve-firtina-geliyor-p376152",
+    "Karar: https://www.karar.com/guncel-haberler/meteorolojiden-16-il-icin-kuvvetli-yagis-uyarisi-sel-heyelan-ve-kar-2082491"
+   ]
   }
  ],
  "fails": {
@@ -4987,10 +4999,12 @@
   "fece2c78d0": 2,
   "a31c55dbf1": 1,
   "acbc418c81": 1,
-  "9e83e4a32d": 1,
-  "a240b07534": 1,
-  "da6044b08c": 1,
+  "9e83e4a32d": 2,
+  "a240b07534": 2,
+  "da6044b08c": 2,
   "660ebad39a": 1,
-  "26a9176535": 1
+  "26a9176535": 1,
+  "3167668184": 1,
+  "1a9496c3ae": 1
  }
 }
