@@ -2,20 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aleks",
-    "batra",
-    "büyük",
-    "dan",
-    "galat",
-    "geçti",
-    "taraf",
-    "tarih",
-    "övgü"
-   ],
-   "at": "2026-11-03T20:49:03.482348+00:00"
-  },
-  {
-   "fp": [
     "akp",
     "araşt",
     "borsa",
@@ -2209,24 +2195,19 @@
     "yoğun"
    ],
    "at": "2026-11-05T08:38:09.155398+00:00"
+  },
+  {
+   "fp": [
+    "alper",
+    "doubl",
+    "tripl",
+    "yetme",
+    "şengü"
+   ],
+   "at": "2026-11-05T08:51:37.682205+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "29d08f5e3c",
-   "post_id": "529346797199852_1453213330251708",
-   "title": "Firari suç örgütü şüphelisi MİT ve polisin ortak operasyonuyla yakalandı",
-   "at": "2026-10-31T07:42:24.501004+00:00",
-   "yazim": "claude",
-   "metin": "Bayğaralar suç örgütü dosyasında aranan bir şüpheli, polis ve MİT'in ortak operasyonuyla Adana'da yakalandı.\n\n— Şüpheli, Çukurova ilçesindeki bir evde saklanırken bulundu.\n— Gözaltına alınan şüpheli, sevk edildiği mahkemece tutuklandı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/adanada-suc-orgutu-uyeliginden-aranan-zanli-mit-destekli-operasyonla-yakalandi/4107059",
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/firari-suc-orgutu-uyesi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-961790.html",
-    "Milliyet: https://www.milliyet.com.tr/gundem/adanada-mit-destekli-operasyon-aranan-supheli-yakalandi-7691318",
-    "NTV: https://www.ntv.com.tr/turkiye/firari-suc-orgutu-suphelisi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-1748740",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/adanada-mit-destekli-operasyon-aranan-supheli-yakalandi-7691318"
-   ]
-  },
   {
    "id": "3f9668ba06",
    "post_id": "529346797199852_1453220893584285",
@@ -4977,6 +4958,19 @@
     "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/istanbulda-metrobuslerde-sabah-yogunlugu-avcilar-ile-sefakoy-arasinda-uzun-kuyruk-olustu-4869985",
     "Evrensel: https://www.evrensel.net/haber/6008092/istanbulda-metrobusler-uzun-kuyruklar-olusturdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "e9ae4824cd",
+   "post_id": "529346797199852_1458242523082122",
+   "title": "Alperen Şengün'ün 'triple-double'ı yetmedi: Houston, Minnesota'ya mağlup oldu",
+   "at": "2026-11-05T08:51:37.682205+00:00",
+   "yazim": "claude",
+   "metin": "Alperen Şengün 17 sayı, 12 ribaunt, 10 asist ve 3 blokla triple-double yaptı ama Houston Rockets, sahasında Minnesota Timberwolves'a 117-107 yenildi.\n\nBu, Şengün'ün bu sezonki ilk, kariyerindeki de 13. triple-double'ı. Sakatlığı olan Anthony Edwards'sız oynayan konuk Minnesota'da Ayo Dosunmu 21 sayıyla öne çıktı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/alperen-sengunun-triple-doublei-rocketsa-yetmedi/4112252",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/alperen-sengun-un-triple-double-i-yetmedi-houston-minnesota-ya-maglup-oldu-2553509",
+    "Karar: https://www.karar.com/spor-haberleri/alperenden-triple-double-2082478"
+   ]
   }
  ],
  "fails": {
@@ -4990,7 +4984,13 @@
   "e4d1343ca5": 1,
   "4acf539185": 2,
   "77fa7a893a": 2,
-  "fece2c78d0": 1,
-  "a31c55dbf1": 1
+  "fece2c78d0": 2,
+  "a31c55dbf1": 1,
+  "acbc418c81": 1,
+  "9e83e4a32d": 1,
+  "a240b07534": 1,
+  "da6044b08c": 1,
+  "660ebad39a": 1,
+  "26a9176535": 1
  }
 }
