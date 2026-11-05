@@ -2,19 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aldı",
-    "alev",
-    "işçil",
-    "kaldı",
-    "konte",
-    "sakar",
-    "yangı",
-    "çıktı"
-   ],
-   "at": "2026-11-03T18:44:31.415757+00:00"
-  },
-  {
-   "fp": [
     "biri",
     "demir",
     "güven",
@@ -2191,25 +2178,19 @@
     "süper"
    ],
    "at": "2026-11-05T06:37:31.931038+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "arnav",
+    "işçi",
+    "konte",
+    "yangı"
+   ],
+   "at": "2026-11-05T06:49:56.488330+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d057813042",
-   "post_id": "529346797199852_1452957556943952",
-   "title": "Tur otobüsü TIR'a arkadan çarptı: 10 turist yaralı",
-   "at": "2026-10-31T01:52:45.019470+00:00",
-   "yazim": "claude",
-   "metin": "Tur otobüsü bir TIR'a arkadan çarptı, 10 turist yaralandı.\n\nOtobüste Bulgaristan uyruklu 51 turist ve iki şoför vardı. Yaralılar iki hastaneye kaldırılarak tedavi altına alındı. Kazayla ilgili inceleme sürüyor.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/edirnede-tur-otobusu-tira-carpti-10-yarali-43361240",
-    "Milliyet: https://www.milliyet.com.tr/gundem/edirnede-tur-otobusu-ile-tira-carpti-10-yarali-7691266",
-    "Habertürk: https://www.haberturk.com/gundem/edirne-de-tur-otobusu-tir-ile-carpisti-10-yarali-3923859",
-    "Sözcü: https://www.sozcu.com.tr/edirnede-tur-otobusu-tira-arkadan-carpti-10-turist-yarali-p374480",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/usakta-motosiklet-halk-otobusune-carpti-bir-kisi-oldu-bir-kisi-agir-yaralandi-4868526",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/edirnede-tur-otobusu-ile-tira-carpti-10-yarali-7691266"
-   ]
-  },
   {
    "id": "85f791a2b4",
    "post_id": "529346797199852_1453057690267272",
@@ -4955,6 +4936,19 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/super-ligde-11-hafta-heyecani-yarin-baslayacak/4112171",
     "Evrensel: https://www.evrensel.net/haber/6008070/super-lig-de-11-inci-hafta-heyecani-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Diken: https://www.diken.com.tr/super-ligde-haftanin-programi-2/?utm_source=rss&utm_medium=rss&utm_campaign=super-ligde-haftanin-programi-2"
+   ]
+  },
+  {
+   "id": "bcb5a470ee",
+   "post_id": "529346797199852_1458162506423457",
+   "title": "Arnavutköy'de işçilerin kaldığı konteynerlerde yangın: 4 konteyner küle döndü",
+   "at": "2026-11-05T06:49:56.488330+00:00",
+   "yazim": "claude",
+   "metin": "Arnavutköy'de inşaat işçilerinin kaldığı konteynerde çıkan yangın, bitişikteki 3 konteynere daha sıçradı.\n\nAlevleri fark eden işçiler, uyuyan arkadaşlarını uyandırıp dışarı çıkardı. Can kaybı ya da yaralanma olmadı, ama 4 konteyner kullanılamaz hale geldi.\n\nİlk değerlendirmeye göre yangın elektrikli sobadan çıkmış olabilir. Kesin nedeni inceleme belirleyecek.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/arnavutkoy/arnavutkoyde-yangin-cikan-4-isci-konteyneri-kullanilamaz-hale-geldi-3489218",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-iscilerin-kaldigi-konteynerlerde-yangin-4-konteyner-kule-dondu-2553485",
+    "Evrensel: https://www.evrensel.net/haber/6008069/arnavutkoyde-isci-konteynerlerinde-yangin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
