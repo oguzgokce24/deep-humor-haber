@@ -2,33 +2,6 @@
  "seen": [
   {
    "fp": [
-    "cumhu",
-    "ekono",
-    "fetva",
-    "fon",
-    "kurul",
-    "ortay",
-    "pusul",
-    "tera",
-    "var",
-    "çıktı",
-    "üyesi"
-   ],
-   "at": "2026-11-03T17:32:55.741760+00:00"
-  },
-  {
-   "fp": [
-    "avrup",
-    "bomba",
-    "ihbar",
-    "uçağı",
-    "yedi",
-    "yolcu"
-   ],
-   "at": "2026-11-03T17:33:03.878206+00:00"
-  },
-  {
-   "fp": [
     "döndü",
     "göle",
     "sağan",
@@ -4914,6 +4887,8 @@
   }
  ],
  "fails": {
-  "a51b359a6c": 1
+  "a51b359a6c": 1,
+  "eece0f8e49": 1,
+  "9ffcfec0b7": 1
  }
 }
