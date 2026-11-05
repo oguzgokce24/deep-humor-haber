@@ -23,7 +23,7 @@ Paylaşım hızı: iki paylaşım arası en az 25 dk → saatte en fazla 2 haber
    - `access_token` → `FB_PAGE_TOKEN` (bu sayfa anahtarının süresi dolmaz)
    - `id` → `FB_PAGE_ID`
 
-> **Önemli:** Uygulama **Canlı (Live / Published)** modda olmalı. Geliştirme modundaki bir uygulamanın paylaştığı gönderileri yalnızca uygulama yöneticileri görür; takipçilere görüntülenme 0 olur. Canlıya almak için Ayarlar → Temel'de gizlilik politikası adresi (bu deponun `docs/` sayfası, GitHub Pages) ve kategori girilip **Yayın → Publish** yapılır.
+> **Önemli:** Uygulama **Canlı (Live / Published)** modda olmalı. Geliştirme modundaki bir uygulamanın paylaştığı gönderileri yalnızca uygulama yöneticileri görür; takipçilere görüntülenme 0 olur. Canlıya almak için Ayarlar → Temel'de gizlilik politikası adresi (bu deponun `gh-pages` dalı, GitHub Pages — botun kayıtları bu sayfayı yeniden yayınlatmaz) ve kategori girilip **Yayın → Publish** yapılır.
 
 ### 2) GitHub
 1. https://github.com → **New repository** → ad: `deep-humor-haber`.
