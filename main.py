@@ -114,6 +114,16 @@ def excluded(c, words) -> bool:
     return False
 
 
+SPOR = ["maç", "gol", "lig", "transfer", "teknik direktör", "hakem", "penaltı", "şampiyonlar ligi",
+        "avrupa ligi", "konferans ligi", "süper lig", "milli takım", "galatasaray", "fenerbahçe", "beşiktaş",
+        "trabzonspor", "derbi", "futbol", "uefa", "fifa", "skor", "deplasman"]
+
+
+def is_sport(text: str) -> bool:
+    t = " " + _tr_low(text) + " "
+    return sum(1 for w in SPOR if re.search(r"(?<![a-zçğıöşü])" + re.escape(w), t)) >= 1
+
+
 def interest_score(c) -> float:
     t = " " + " ".join(i.title.lower() for i in c.items[:6]) + " "
     lead = c.lead().title
@@ -149,14 +159,30 @@ def find_new(cfg, st):
     ok = verified(clusters, v["min_groups"], v["require_anchor"], v.get("fast_lane_minutes", 0))
     log(f"{len(items)} haber, {len(clusters)} küme, {len(ok)} doğrulanmış küme")
     excl = [w.strip() for w in cfg.get("exclude", []) if str(w).strip()]
+    # Konu çeşitliliği: son paylaşımların konuları
+    last = st.get("posted", [])[-3:]
+    last_toks = [{t for t in vtokens(p["title"] + " " + p.get("metin", "")[:200]) if vstrong(t)} for p in last]
+    last_sport = sum(1 for p in last[-2:] if is_sport(p["title"] + " " + p.get("metin", "")))
     # Son 36 saatte paylaşılanların başlık + metinlerinden ayırt edici kelimeler (tekrar kontrolü için)
     now = datetime.now(timezone.utc)
     recent_posts = [{t for t in vtokens(p["title"] + " " + p.get("metin", "")) if vstrong(t)}
                     for p in st.get("posted", [])
                     if now - datetime.fromisoformat(p["at"]) < timedelta(hours=36)]
     fresh = []
-    for c in sorted(ok, key=interest_score, reverse=True):
+    def score(c):
+        sc = interest_score(c)
+        if is_sport(" ".join(i.title for i in c.items[:4])):
+            sc -= 3 * last_sport                    # son paylaşımlar sporsa sporu geriye at
+        return sc
+
+    for c in sorted(ok, key=score, reverse=True):
         if excluded(c, excl):
+            continue
+        # Aynı konunun devamı (ör. aynı maçın ikinci haberi) son 3 paylaşımdan biriyle 2+ özel isim paylaşıyorsa atla
+        lt = {t for t in vtokens(c.lead().title) if vstrong(t)}
+        sport_now = is_sport(c.lead().title)
+        if any(len(lt & pt) >= 2 or (sport_now and lt & pt and is_sport(p["title"]))
+               for pt, p in zip(last_toks, last)):
             continue
         fp = c.fingerprint
         titles = [i.title for i in c.items]
