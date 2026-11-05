@@ -156,9 +156,12 @@ def _check_text(text: str):
         raise ValueError("metin yarıda kesilmiş")
     if t.count("“") != t.count("”") or t.count('"') % 2 or t.count("**") % 2:
         raise ValueError("tırnak/kalın işaretleri eşleşmiyor")
-    last = re.sub(r"[*”\"’')\s]+$", "", t)
-    if last and last[-1] not in ".!?:":
-        raise ValueError("metin cümle ortasında bitiyor")
+    # Son satır madde ("— ...") ise noktasız bitebilir; düz paragraf ise cümle bitmiş olmalı
+    last_line = t.splitlines()[-1].strip()
+    if not last_line.startswith(("—", "-", "–")):
+        last = re.sub(r"[*”\"’')\s]+$", "", last_line)
+        if last and last[-1] not in ".!?:" and not last[-1].isdigit():
+            raise ValueError("metin cümle ortasında bitiyor")
 
 
 def _clean_sentence(summary: str, title: str) -> str | None:

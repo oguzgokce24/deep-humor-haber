@@ -197,10 +197,14 @@ def main():
         w = writer.write(c, cfg.get("writer", {}).get("model", "claude-haiku-5-5"), log)
         if w is None:
             fails = st.setdefault("fails", {})
-            fails[pid] = fails.get(pid, 0) + 1
-            if fails[pid] >= 3:   # 3 turda da yazılamadıysa bu haberden vazgeç
+            # Küme büyüdükçe parmak izi değişir; denemeleri haberin ilk bağlantısına göre say
+            fkey = hashlib.sha1(min(i.link for i in c.items).encode()).hexdigest()[:10]
+            fails[fkey] = fails.get(fkey, 0) + 1
+            if len(fails) > 300:
+                st["fails"] = fails = dict(list(fails.items())[-150:])
+            if fails[fkey] >= 3:   # 3 turda da yazılamadıysa bu haberden vazgeç
                 st["seen"].append({"fp": sorted(c.fingerprint), "at": datetime.now(timezone.utc).isoformat()})
-                fails.pop(pid, None)
+                fails.pop(fkey, None)
             log("  Metin yazılamadı; bu haber bu tur paylaşılmıyor.")
             continue
         label = w["category"] or label_for(c)
