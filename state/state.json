@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "111",
-    "6",
-    "706",
-    "83",
-    "bin",
-    "ceza",
-    "cezay",
-    "ilan",
-    "isted",
-    "lira",
-    "milyo",
-    "satıc",
-    "sites",
-    "yazdı",
-    "yazıp",
-    "yedi"
-   ],
-   "at": "2026-11-03T19:19:31.709601+00:00"
-  },
-  {
-   "fp": [
-    "aldı",
-    "bakan",
-    "karar",
-    "topla"
-   ],
-   "at": "2026-11-03T19:23:18.912437+00:00"
-  },
-  {
-   "fp": [
-    "binan",
-    "bulgu",
-    "saldı",
-    "siber",
-    "uğrad"
-   ],
-   "at": "2026-11-03T19:27:13.074847+00:00"
-  },
-  {
-   "fp": [
     "anlaş",
     "günde",
     "mekke",
@@ -2185,25 +2144,26 @@
     "şarkı"
    ],
    "at": "2026-11-05T07:19:18.940430+00:00"
+  },
+  {
+   "fp": [
+    "47",
+    "evind",
+    "evine",
+    "hazır",
+    "hücre",
+    "iddia",
+    "insan",
+    "istan",
+    "mühim",
+    "suika",
+    "tanın",
+    "çıktı"
+   ],
+   "at": "2026-11-05T07:32:44.582710+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "67c77a340c",
-   "post_id": "529346797199852_1453114173594957",
-   "title": "Merkezefendi Belediyesi'ne soruşturma: Belediye Başkanı dahil 5 kişi tutuklandı",
-   "at": "2026-10-31T05:27:40.650108+00:00",
-   "yazim": "claude",
-   "metin": "Denizli'de Merkezefendi Belediyesi'ne yönelik soruşturmada 5 kişi tutuklandı.\n\n— Gözaltına alınanlar arasında Belediye Başkanı Şeniz Doğan ve eşi de vardı.\n— Tutuklananlar arasında başkan ve eşi de yer alıyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/denizlide-merkezefendi-belediyesine-yonelik-sorusturmada-5-supheli-tutuklandi-961783.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/merkezefendi-belediyesi-operasyonunda-baskan-dahil-5-tutuklama-43361256",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/toki-basvurularina-yonelik-dolandiricilik-sorusturmasi-kapsaminda-6-supheli-tutuklandi-3486945",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/10/30/merkezefendi-belediyesi-operasyonunda-5-kisi-tutuklandi",
-    "Habertürk: https://www.haberturk.com/gundem/merkezefendi-belediye-baskani-seniz-dogan-tutuklandi-3923861",
-    "BirGün: https://www.birgun.net/haber/merkezefendi-belediyesi-ne-sorusturma-belediye-baskani-dahil-5-kisi-tutuklandi-743614"
-   ]
-  },
   {
    "id": "135fbd2b3a",
    "post_id": "529346797199852_1453149303591444",
@@ -4947,6 +4907,21 @@
     "Habertürk: https://www.haberturk.com/magazin/sinan-ozen-trafik-kazasi-gecirdi-3925051",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kardesi-duyurdu-sarkici-sinan-ozen-trafik-kazasi-gecirdi-2553498"
    ]
+  },
+  {
+   "id": "07a1ecbdaa",
+   "post_id": "529346797199852_1458189036420804",
+   "title": "İstanbul'da iş insanına suikast hazırlığı iddiası: Hücre evine operasyon!",
+   "at": "2026-11-05T07:32:44.582710+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Kağıthane'de bir hücre evine operasyon düzenlendi. Polis, ünlü bir iş insanına suikast hazırlandığı iddiasıyla 4 kişiyi gözaltına aldı.\n\nEvde bir AK-47 tüfek, ruhsatsız bir tabanca ve çok sayıda fişek bulundu.\n\nŞüphelilerin İstanbul dışından gelip evi kiraladıkları iddia ediliyor. Soruşturma sürüyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/hucre-evine-baskin-yapildi-taninmis-is-insanina-suikast-plani-son-anda-onlendi-43366568",
+    "Milliyet: https://www.milliyet.com.tr/gundem/istanbulda-taninmis-bir-is-insanina-suikast-hazirligi-iddiasi-hucre-evinden-ak-47-ve-muhimmat-cikti-7694677",
+    "NTV: https://www.ntv.com.tr/turkiye/hucre-evinden-unlu-is-insanina-suikast-hazirligi-cikti-1749483",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-is-insanina-suikast-hazirligi-iddiasi-hucre-evine-operasyon-2553489",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/istanbulda-taninmis-bir-is-insanina-suikast-hazirligi-iddiasi-hucre-evinden-ak-47-ve-muhimmat-cikti-7694677"
+   ]
   }
  ],
  "fails": {
@@ -4956,12 +4931,13 @@
   "e0f688eb11": 1,
   "32ada085dc": 1,
   "1a52b5872a": 1,
-  "c3063a6b0d": 1,
-  "d06aad3f05": 1,
-  "46f43d6a08": 1,
-  "f222a8b67c": 1,
-  "afddc012ba": 1,
+  "c3063a6b0d": 2,
+  "d06aad3f05": 2,
+  "46f43d6a08": 2,
+  "f222a8b67c": 2,
+  "afddc012ba": 2,
   "98bc072e51": 1,
-  "d2a62457d3": 1
+  "d2a62457d3": 1,
+  "e4d1343ca5": 1
  }
 }
