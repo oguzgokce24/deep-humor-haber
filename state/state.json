@@ -2592,22 +2592,22 @@
     "şüphe"
    ],
    "at": "2026-11-05T11:55:13.060204+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "8",
+    "aracı",
+    "kaza",
+    "polis",
+    "sakar",
+    "yaral",
+    "zinci"
+   ],
+   "at": "2026-11-05T12:05:55.846924+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "76770ed2dd",
-   "post_id": "529346797199852_1453323283574046",
-   "title": "MotoGP'de Malezya sprintinin kazananı Pedro Acosta",
-   "at": "2026-10-31T10:33:34.437476+00:00",
-   "yazim": "claude",
-   "metin": "MotoGP Malezya sprintini Pedro Acosta kazandı.\n\nRed Bull KTM pilotu Acosta, Sepang'taki 5,54 kilometrelik pistte birinci bitirdi. Marc Marquez 0,578 saniye gerisinde ikinci, Marco Bezzecchi 1,310 saniye farkla üçüncü oldu.\n\nAna yarış 1 Kasım Pazar günü TSİ 10.00'da başlayacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/motogp-malezya-grand-prixsinde-sprint-yarisini-pedro-acosta-kazandi/4107188",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/motogp-de-malezya-sprintinin-kazanani-pedro-acosta-2551945",
-    "BirGün: https://www.birgun.net/haber/malezyada-sprint-zaferi-pedro-acostanin-743652"
-   ]
-  },
   {
    "id": "800fe86f88",
    "post_id": "529346797199852_1453332140239827",
@@ -5365,6 +5365,19 @@
     "NTV: https://www.ntv.com.tr/turkiye/turkiye-genelinde-sahte-alkol-operasyonu-121-supheliye-islem-1749534",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/alkol-kacakciligi-operasyon-121-supheli-hakkinda-islem-yapildi-43367089"
    ]
+  },
+  {
+   "id": "62d71d3ab1",
+   "post_id": "529346797199852_1458384696401238",
+   "title": "Sakarya'da 8 aracın karıştığı zincirleme kaza: 4 polis yaralandı",
+   "at": "2026-11-05T12:05:55.846924+00:00",
+   "yazim": "claude",
+   "metin": "Sakarya'da 8 aracın karıştığı zincirleme kazada 4 polis memuru hafif yaralandı.\n\nKocaeli'den Antalya'ya göreve giden polis ekipleri de kazaya karıştı. D-650'de Bilecik yönüne kilometrelerce araç kuyruğu oluştu. Yaralı polislerin hayati tehlikesi yok. Kazanın nedeni inceleniyor.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/sakarya-da-8-aracin-karistigi-zincirleme-kaza-4-polis-yaralandi-p376269",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-8-aracli-zincirleme-kaza-4-polis-memuru-yaralandi-2553579",
+    "BirGün: https://www.birgun.net/haber/sakarya-da-zincirleme-kaza-5-i-polis-araci-8-arac-carpisti-4-polis-yaralandi-744767"
+   ]
   }
  ],
  "fails": {
@@ -5404,6 +5417,9 @@
   "ca1706699a": 2,
   "c1b4c446fb": 1,
   "5b10bfd177": 2,
-  "70b9436139": 1
+  "70b9436139": 1,
+  "8f8bfe1a44": 1,
+  "fbcecb1879": 1,
+  "4157439974": 1
  }
 }
