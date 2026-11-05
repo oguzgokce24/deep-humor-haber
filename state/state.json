@@ -2605,22 +2605,25 @@
     "zinci"
    ],
    "at": "2026-11-05T12:05:55.846924+00:00"
+  },
+  {
+   "fp": [
+    "beled",
+    "beyko",
+    "chp",
+    "den",
+    "depre",
+    "grubu",
+    "istif",
+    "kurul",
+    "mecli",
+    "nde",
+    "parti"
+   ],
+   "at": "2026-11-05T12:18:34.475012+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "800fe86f88",
-   "post_id": "529346797199852_1453332140239827",
-   "title": "İran'dan ABD'ye sert mesaj",
-   "at": "2026-10-31T10:45:45.929161+00:00",
-   "yazim": "claude",
-   "metin": "İran Ordu Sözcüsü Tuğgeneral Muhammed Ekreminiya, ABD'nin İran'a olası yeni bir saldırısının bölgesel bir savaşa yol açabileceği konusunda uyardı.\n\n— Ekreminiya, İran ordusunun savaş hazırlıklarını sürdürdüğünü söyledi.\n— ABD'nin bölgedeki hareketlerini yakından izlediklerini de belirtti.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/katar-basinindan-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydedildigi-iddiasi-961793.html",
-    "Habertürk: https://www.haberturk.com/dunya/katar-basinindan-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydedildigi-iddiasi-3923899",
-    "BirGün: https://www.birgun.net/haber/iran-dan-abd-ye-sert-mesaj-743648"
-   ]
-  },
   {
    "id": "b10f0ebff6",
    "post_id": "529346797199852_1453374953568879",
@@ -5378,6 +5381,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-8-aracli-zincirleme-kaza-4-polis-memuru-yaralandi-2553579",
     "BirGün: https://www.birgun.net/haber/sakarya-da-zincirleme-kaza-5-i-polis-araci-8-arac-carpisti-4-polis-yaralandi-744767"
    ]
+  },
+  {
+   "id": "2a180ef592",
+   "post_id": "529346797199852_1458394636400244",
+   "title": "Beykoz Belediye Meclisinde CHP'den toplu istifa: YENİ Parti grubu kuruldu",
+   "at": "2026-11-05T12:18:34.475012+00:00",
+   "yazim": "claude",
+   "metin": "Beykoz'da CHP'li 9 meclis üyesi partisinden istifa edip YENİ Parti'ye geçti.\n\n— İstifaların ardından belediye meclisinde YENİ Parti grubu kuruldu.\n— Divan katibi Fatih Çelik de istifa edenler arasında.\n— Meclisin bir sonraki toplantısı 7 Aralık 2026'da yapılacak.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/chp-den-9-meclis-uyesi-istifa-etti-yeni-parti-grubu-kuruldu-p376350",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/beykoz-belediye-meclisinde-chp-den-toplu-istifa-yeni-parti-grubu-kuruldu-2553608",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/atasehir-belediye-meclisinde-istifa-deprem-4870039",
+    "BirGün: https://www.birgun.net/haber/beykoz-belediye-meclisi-nde-istifa-depremi-yeni-bir-grup-kuruldu-744777"
+   ]
   }
  ],
  "fails": {
@@ -5418,7 +5435,7 @@
   "c1b4c446fb": 1,
   "5b10bfd177": 2,
   "70b9436139": 1,
-  "8f8bfe1a44": 1,
+  "8f8bfe1a44": 2,
   "fbcecb1879": 1,
   "4157439974": 1
  }
