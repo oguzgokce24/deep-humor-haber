@@ -2133,21 +2133,22 @@
     "yarıs"
    ],
    "at": "2026-11-05T05:49:53.348366+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "altın",
+    "geçti",
+    "harek",
+    "piyas",
+    "seçim",
+    "yenid",
+    "yükse"
+   ],
+   "at": "2026-11-05T06:01:07.181800+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "37ca6124d6",
-   "post_id": "529346797199852_1452815123624862",
-   "title": "ABD Başkanı Trump: \"Bazı aptal insanlar Rusya'ya yeni yaptırımlar uygulamamı istiyorlardı\"",
-   "at": "2026-10-30T21:53:35.543636+00:00",
-   "yazim": "yedek",
-   "metin": "ABD Başkanı Trump: \"Bazı aptal insanlar Rusya'ya yeni yaptırımlar uygulamamı istiyorlardı\".",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-bazi-aptal-insanlar-rusyaya-yeni-yaptirimlar-uygulamami-istiyorlardi/4106962",
-    "BirGün: https://www.birgun.net/haber/abd-baskani-trump-bazi-aptal-insanlar-rusya-ya-yeni-yaptirimlar-uygulamami-istiyorlardi-743609"
-   ]
-  },
   {
    "id": "6b6f523c09",
    "post_id": "529346797199852_1452822520290789",
@@ -4900,9 +4901,23 @@
     "Habertürk: https://www.haberturk.com/gundem/adana-da-3-8-buyuklugunde-deprem-3925013",
     "Sözcü: https://www.sozcu.com.tr/afad-duyurdu-adanada-gece-yarisi-korkutan-deprem-p376142"
    ]
+  },
+  {
+   "id": "0881e6395c",
+   "post_id": "529346797199852_1458129516426756",
+   "title": "ABD seçimleri piyasaları hareketlendirdi: Altın yeniden yükselişe geçti",
+   "at": "2026-11-05T06:01:07.181800+00:00",
+   "yazim": "claude",
+   "metin": "Ons altın 4 bin 100 doların üzerine çıktı. ABD'deki ara seçimlerde Demokratların kazanımları ve İran'la çatışmaların sona erebileceği beklentisi piyasaları hareketlendirdi.\n\n— Petrol fiyatlarındaki sert düşüş ve dolardaki zayıflama altına olan talebi artırdı.\n— Serbest piyasada gram altın 6 bin 669 liradan işlem görüyor.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008067/abd-secimlerinin-ardindan-altin-yukselise-gecti-gram-ceyrek-ve-cumhuriyet-altini-ne-kadar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/abd-secimleri-piyasalari-hareketlendirdi-altin-yeniden-yukselise-gecti-744673",
+    "Karar: https://www.karar.com/ekonomi-haberleri/abd-secimleri-piyasalari-hareketlendirdi-altin-yeniden-yukseliste-2082449"
+   ]
   }
  ],
  "fails": {
-  "a51b359a6c": 1
+  "a51b359a6c": 1,
+  "60f0e78eee": 1
  }
 }
