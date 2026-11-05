@@ -2863,22 +2863,24 @@
     "seçim"
    ],
    "at": "2026-11-05T14:52:32.350667+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "freib",
+    "hangi",
+    "kanal",
+    "kaçta",
+    "ler",
+    "maçı",
+    "muhte",
+    "saat",
+    "trabz"
+   ],
+   "at": "2026-11-05T14:57:19.447209+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a424887604",
-   "post_id": "529346797199852_1453519483554426",
-   "title": "'Nevzat Aydın’a tehdit' soruşturması: 4 kişi daha gözaltına alındı",
-   "at": "2026-10-31T14:43:06.961875+00:00",
-   "yazim": "claude",
-   "metin": "Yemeksepeti'nin kurucusu Nevzat Aydın'a yönelik tehdit soruşturmasında gözaltı sayısı 8'e çıktı.\n\n— Aydın, oğlunun öldürüleceği tehdidiyle 1 milyon euro istendiğini polise bildirmişti.\n— Son operasyonda 4 kişi daha gözaltına alındı. Evlerde 3 ruhsatsız tabanca ve 900 uyuşturucu hap bulundu.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/is-insani-nevzat-aydina-tehdit-sorusturmasinda-4-supheli-daha-gozaltina-alindi-43361807",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/nevzat-aydin-a-tehdit-sorusturmasi-4-kisi-daha-gozaltina-alindi-2552020",
-    "Karar: https://www.karar.com/guncel-haberler/nevzat-aydina-tehdit-operasyonunda-4-gozalti-daha-2081657"
-   ]
-  },
   {
    "id": "eea35aa0d1",
    "post_id": "529346797199852_1453546000218441",
@@ -5640,6 +5642,20 @@
     "BirGün: https://www.birgun.net/haber/trump-yanitladi-abd-savunma-bakani-gorevden-alinacak-mi-744797",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/trumptan-hegsethi-savunma-bakani-olarak-gorevde-tutma-sorusuna-yanit-7695103"
    ]
+  },
+  {
+   "id": "49ecf9bb3d",
+   "post_id": "529346797199852_1458528549720186",
+   "title": "Trabzonspor - Freiburg Maçı Saat Kaçta, Hangi Kanalda? Muhtemel 11'ler",
+   "at": "2026-11-05T14:57:19.447209+00:00",
+   "yazim": "claude",
+   "metin": "Trabzonspor, UEFA Konferans Ligi'nde Freiburg ile karşılaşıyor. Maç 5 Kasım Perşembe günü saat 20.45'te Papara Park'ta oynanacak ve TRT 1'den canlı, şifresiz yayınlanacak.\n\nBordo-mavililer ilk iki maçını kazanıp 6 puana ulaştı. Freiburg'u da yenerse Avrupa'da 3'te 3 yapmayı hedefliyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/trabzonspor-freiburg-maci-saat-kacta-hangi-kanalda-ts-maci-sifresiz-nereden-izlenir-konferans-ligi-trabzonspor-freiburg-3489325",
+    "Habertürk: https://www.haberturk.com/bilgi/foto/trabzonspor-freiburg-maci-canli-i-zle-trabzonspor-freiburg-maci-ne-zaman-saat-kacta-hangi-kanalda-i-ste-ts-freiburg-muhtemel-11-ler-3925181",
+    "BirGün: https://www.birgun.net/haber/trabzonspor-freiburg-maci-saat-kacta-hangi-kanalda-muhtemel-11-ler-744800",
+    "BirGün: https://www.birgun.net/haber/real-sociedad-lyon-maci-saat-kacta-hangi-kanalda-muhtemel-11-ler-744798"
+   ]
   }
  ],
  "fails": {
@@ -5692,7 +5708,7 @@
   "3c045fba29": 2,
   "ebe2867b4c": 2,
   "bd7e704e33": 1,
-  "4935e79fd4": 1,
+  "4935e79fd4": 2,
   "2d2ddc7e34": 1,
   "48f8766ceb": 1,
   "4324bcbe76": 1,
