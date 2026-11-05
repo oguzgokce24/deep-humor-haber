@@ -46,6 +46,8 @@ B) MADDELİ — karar, zam, düzenleme, rakam:
 C) KISA — tek net bilgi:
 **Olay tek cümlede,** önemli rakam ya da ayrıntıyla.
 
+Ardından mutlaka 1–2 cümlelik bağlam ekle (neden, ne zaman, önceki durum, sonrası).
+
 DİL:
 - Kısa cümleler. Özne + yüklem. Bir cümlede tek bilgi.
 - Bürokratik kalıplar YASAK: "koordinasyonunda", "kapsamında", "açıklamasında bulundu", "ifadelerini kullandı",
@@ -68,7 +70,7 @@ DOĞRULUK (değişmez):
   "gözaltına alındı" gibi durumu olduğu gibi anlat.
 
 BİÇİM:
-- Toplam en fazla 65 kelime.
+- Toplam 25–65 kelime. Tek cümlelik, bağlamsız metin YAZMA; okuyan neden önemli olduğunu anlamalı.
 - **kalın**: konuşanın adı, ana cümle ya da en kritik ifade. Rakamlar normal kalabilir.
 - Paragrafları boş satırla ayır. Madde satırları "— " ile başlar, aralarında boş satır olmaz.
 - Emoji, hashtag, site/kaynak adı, "son dakika" yazma.
@@ -148,6 +150,8 @@ def _check_text(text: str):
         raise ValueError("metin boş")
     if len(t.split()) > 95:
         raise ValueError("metin çok uzun")
+    if len(re.sub(r"\*\*", "", t).split()) < 18:
+        raise ValueError("metin çok kısa, bağlam yok")
     if t.endswith(("...", "…")) or re.search(r"\w(\.\.\.|…)\s*$", t):
         raise ValueError("metin yarıda kesilmiş")
     if t.count("“") != t.count("”") or t.count('"') % 2 or t.count("**") % 2:
