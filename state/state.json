@@ -2621,22 +2621,56 @@
     "parti"
    ],
    "at": "2026-11-05T12:18:34.475012+00:00"
+  },
+  {
+   "fp": [
+    "ardın",
+    "astı",
+    "canın",
+    "dondu",
+    "döktü",
+    "eşini",
+    "intih",
+    "izmir",
+    "kadın",
+    "kan",
+    "kayna",
+    "kendi",
+    "kocas",
+    "korku",
+    "kıydı",
+    "olay",
+    "suyla",
+    "uyuya",
+    "yaral"
+   ],
+   "at": "2026-11-05T12:31:04.599636+00:00"
+  },
+  {
+   "fp": [
+    "adale",
+    "bakan",
+    "dem",
+    "demir",
+    "den",
+    "parti",
+    "yükse",
+    "önünd"
+   ],
+   "at": "2026-11-05T12:31:34.559983+00:00"
+  },
+  {
+   "fp": [
+    "antre",
+    "belöz",
+    "emre",
+    "fener",
+    "çıktı"
+   ],
+   "at": "2026-11-05T12:31:46.897221+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b10f0ebff6",
-   "post_id": "529346797199852_1453374953568879",
-   "title": "Adana'da çöken yolda çukur oluştu: Ekipler çalışma başlattı",
-   "at": "2026-10-31T11:42:12.263235+00:00",
-   "yazim": "claude",
-   "metin": "Adana'nın Yüreğir ilçesinde bir caddede yol çöktü, çukur oluştu.\n\n— Altından su gider hattı geçen yolun neden çöktüğü henüz belli değil.\n— Çevredeki esnaf, durum netleşene kadar çukurun etrafına kasalarla önlem aldı.\n— Adana Büyükşehir Belediyesi ekipleri çukuru kapatmak ve yolu onarmak için çalışmaya başladı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/adana-da-yol-coktu-cukur-olustu-3923920",
-    "BirGün: https://www.birgun.net/haber/adana-da-su-gider-hattinin-bulundugu-yol-coktu-743665",
-    "Karar: https://www.karar.com/sehir-haberleri/adanada-coken-yolda-cukur-olustu-ekipler-calisma-baslatti-2081639"
-   ]
-  },
   {
    "id": "93b117add2",
    "post_id": "529346797199852_1453383733568001",
@@ -5395,6 +5429,19 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/atasehir-belediye-meclisinde-istifa-deprem-4870039",
     "BirGün: https://www.birgun.net/haber/beykoz-belediye-meclisi-nde-istifa-depremi-yeni-bir-grup-kuruldu-744777"
    ]
+  },
+  {
+   "id": "c3bea544c5",
+   "post_id": "529346797199852_1458404793065895",
+   "title": "Emre Belözoğlu, Fenerbahçe'deki ilk antrenmanına çıktı",
+   "at": "2026-11-05T12:31:46.897221+00:00",
+   "yazim": "claude",
+   "metin": "Emre Belözoğlu, Fenerbahçe'nin yeni teknik direktörü olarak ilk antrenmanına çıktı.\n\nİsmail Kartal ile yollar ayrılmıştı. Takım, 8 Kasım'da Arca Çorum FK deplasmanındaki maçın hazırlıklarına Belözoğlu yönetiminde başladı.\n\nFutbolcular çabukluk, koordinasyon ve pas çalışmalarının ardından dar alanda çift kale maçlar yaptı. Sakatlığı bulunan Nathan Ake de bireysel çalışmaya başladı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/spor/fenerbahce-teknik-direktoru-emre-belozoglu-ilk-antrenmanina-cikti-3925180",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/emre-belozoglu-fenerbahce-deki-ilk-antrenmanina-cikti-2553603",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/fenerbahce-paylasti-emre-belozoglu-ilk-antrenmanina-cikti-43367128"
+   ]
   }
  ],
  "fails": {
@@ -5433,10 +5480,11 @@
   "4256d85da3": 1,
   "ca1706699a": 2,
   "c1b4c446fb": 1,
-  "5b10bfd177": 2,
   "70b9436139": 1,
-  "8f8bfe1a44": 2,
-  "fbcecb1879": 1,
-  "4157439974": 1
+  "fbcecb1879": 2,
+  "4157439974": 1,
+  "f071d07e37": 1,
+  "4bcd93672e": 1,
+  "09c8e70acc": 1
  }
 }
