@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "bakan",
-    "dan",
-    "edile",
-    "fonla",
-    "fonu",
-    "ilgis",
-    "işsiz",
-    "nun",
-    "sigor",
-    "tasfi",
-    "ışıkh"
-   ],
-   "at": "2026-11-03T22:06:57.848351+00:00"
-  },
-  {
-   "fp": [
-    "buruk",
-    "doğru",
-    "hedef",
-    "okan",
-    "tan",
-    "tepki"
-   ],
-   "at": "2026-11-03T22:07:05.230247+00:00"
-  },
-  {
-   "fp": [
-    "gezen",
-    "maymu",
-    "paniğ",
-    "samsu",
-    "yakal",
-    "çatıl"
-   ],
-   "at": "2026-11-03T22:10:34.924701+00:00"
-  },
-  {
-   "fp": [
     "kanun",
     "kızıl",
     "madde",
@@ -2218,23 +2179,63 @@
     "üçünc"
    ],
    "at": "2026-11-05T10:03:41.828158+00:00"
+  },
+  {
+   "fp": [
+    "açıkl",
+    "cumhu",
+    "dan",
+    "erdoğ",
+    "fon",
+    "girmi",
+    "hiç",
+    "insan",
+    "içeri",
+    "içine",
+    "işin",
+    "işler",
+    "ummad",
+    "vurgu"
+   ],
+   "at": "2026-11-05T10:16:18.724915+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "gözal",
+    "hazır",
+    "iddia",
+    "insan",
+    "isme",
+    "istan",
+    "opera",
+    "suika",
+    "yakal",
+    "ünlü",
+    "şüphe"
+   ],
+   "at": "2026-11-05T10:16:27.489059+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "altın",
+    "bahçe",
+    "göçük",
+    "inşaa",
+    "kalan",
+    "kaldı",
+    "kayma",
+    "kazıs",
+    "kişi",
+    "temel",
+    "topra",
+    "var"
+   ],
+   "at": "2026-11-05T10:16:31.741185+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "25482d4f1a",
-   "post_id": "529346797199852_1453254280247613",
-   "title": "Hamile kızını ve erkek arkadaşını öldürdü",
-   "at": "2026-10-31T08:46:08.518858+00:00",
-   "yazim": "claude",
-   "metin": "Ankara Mamak'ta bir baba, iddiaya göre kızını ve kızının erkek arkadaşını silahla öldürdü.\n\n— Tartışma kavgaya dönünce olay, erkek arkadaşın evinde yaşandı.\n— Tartışmanın nedeni henüz belirlenemedi.\n— Ölen kız 19 yaşındaydı ve hamileydi.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/aydinda-korkunc-son-eski-erkek-arkadasi-tarafindan-olduruldu-7691335",
-    "NTV: https://www.ntv.com.tr/turkiye/hamile-kizini-ve-erkek-arkadasini-oldurdu-1748704",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-eski-erkek-arkadasi-uzaklastirilamadi-kumsal-kayan-i-da-kaybettik-3923894",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/aydinda-korkunc-son-eski-erkek-arkadasi-tarafindan-olduruldu-7691335"
-   ]
-  },
   {
    "id": "d6ca81d8dc",
    "post_id": "529346797199852_1453288620244179",
@@ -4985,6 +4986,22 @@
     "Habertürk: https://www.haberturk.com/ekonomi/turk-telekom-un-gelirleri-yuzde-12-yukseldi-3925116",
     "Karar: https://www.karar.com/ekonomi-haberleri/turk-telekomun-ucuncu-ceyrek-kari-77-milyar-tl-oldu-gelirleri-yuzde-2082487"
    ]
+  },
+  {
+   "id": "0d9d89f370",
+   "post_id": "529346797199852_1458302606409447",
+   "title": "Bahçelievler'de temel kazısında göçük: Toprak altında kalanlar var",
+   "at": "2026-11-05T10:16:31.741185+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Bahçelievler'de bir inşaatın temel kazısında göçük oldu, iki kişi toprak altında kaldı.\n\nİhbar üzerine itfaiye, sağlık ve arama kurtarma ekipleri olay yerine sevk edildi. Ekipler, toprak altında kalan kişileri çıkarmak için çalışmalarını sürdürüyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-bahcelievlerde-insaatta-toprak-kaymasi-2-kisi-gocuk-altinda-kaldi-43366966",
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-istanbulda-insaat-kazisinda-dehset-2-kisi-toprak-altinda-kaldi-7694891",
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-bahcelievlerde-toprak-kaymasi-gocuk-altinda-kalanlar-var-1749527",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-bahcelievler-de-toprak-kaymasi-gocuk-altinda-kalanlar-var-3925148",
+    "Sözcü: https://www.sozcu.com.tr/bahcelievler-de-temel-kazisinda-gocuk-toprak-altinda-kalanlar-var-p376307",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-bahcelievler-de-insaat-kazisinda-gocuk-2-kisi-toprak-altinda-kaldi-2553569"
+   ]
   }
  ],
  "fails": {
@@ -5005,9 +5022,7 @@
   "26a9176535": 2,
   "3167668184": 1,
   "1a9496c3ae": 1,
-  "85650252a3": 2,
   "74cca9bb28": 1,
-  "4deaa305cf": 2,
   "a1c6f56a63": 1,
   "45d6c11803": 1,
   "774d82e855": 1,
@@ -5017,6 +5032,7 @@
   "c62b297c40": 1,
   "13ad7232d8": 1,
   "fa7c8160d6": 1,
-  "5b6717611f": 1
+  "5b6717611f": 1,
+  "2cdf8fbf87": 1
  }
 }
