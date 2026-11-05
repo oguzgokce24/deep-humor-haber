@@ -2,19 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "21",
-    "den",
-    "meteo",
-    "sarı",
-    "sağan",
-    "turun",
-    "uyarı"
-   ],
-   "at": "2026-11-04T04:13:40.838028+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "demok",
     "seçim",
@@ -2982,22 +2969,17 @@
     "çorap"
    ],
    "at": "2026-11-05T16:02:22.940826+00:00"
+  },
+  {
+   "fp": [
+    "barce",
+    "raphi",
+    "sözle"
+   ],
+   "at": "2026-11-05T16:39:41.148055+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d1087abfef",
-   "post_id": "529346797199852_1453665016873206",
-   "title": "Kağıthane'de kaybolan 80 yaşındaki yurttaşın cansız bedeni Boğaz'da bulundu",
-   "at": "2026-10-31T17:42:27.622279+00:00",
-   "yazim": "claude",
-   "metin": "Kağıthane'de evinden ayrıldıktan sonra kendisinden haber alınamayan 80 yaşındaki bir adamın cansız bedeni İstanbul Boğazı'nda bulundu.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/bir-suredir-haber-alinamiyordu-80-yasindaki-adamin-cansiz-bedeni-bogazda-bulundu-43361859",
-    "Sözcü: https://www.sozcu.com.tr/yanan-evde-68-yasindaki-adamin-cesedi-bulundu-p374657",
-    "BirGün: https://www.birgun.net/haber/kagithane-de-kaybolan-80-yasindaki-yurttasin-cansiz-bedeni-bogaz-da-bulundu-743719"
-   ]
-  },
   {
    "id": "681a2c8375",
    "post_id": "529346797199852_1453729253533449",
@@ -5760,6 +5742,19 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-vurulan-7-kisi-hayatini-kaybetti-1-kisi-yaralandi/4113099",
     "Medyascope: https://medyascope.tv/2026/11/05/afyonkarahisarda-silahli-saldirilarda-yedi-kisi-hayatini-kaybetti/"
    ]
+  },
+  {
+   "id": "f355467cea",
+   "post_id": "529346797199852_1458610639711977",
+   "title": "Barcelona'dan Raphinha kararı: Resmen açıklandı!",
+   "at": "2026-11-05T16:39:41.148055+00:00",
+   "yazim": "claude",
+   "metin": "Barcelona, Brezilyalı hücumcu Raphinha ile sözleşmesini 2030'a kadar uzattı.\n\n— 29 yaşındaki oyuncuyla imzalanan yeni sözleşme 4 yıllık.\n— Raphinha, bu sezon Barcelona formasıyla 13 maçta 19 gol attı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/barcelona-raphinha-ile-yeni-sozlesme-imzaladi-3489582",
+    "Habertürk: https://www.haberturk.com/spor/barcelona-raphinha-ile-sozlesme-uzatti-3925192",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/barcelona-dan-raphinha-karari-resmen-aciklandi-2553694"
+   ]
   }
  ],
  "fails": {
@@ -5817,6 +5812,7 @@
   "2379fe2fc7": 2,
   "01e17bb4a6": 1,
   "d605335a99": 1,
-  "cfaef692fc": 1
+  "cfaef692fc": 1,
+  "c92c72e331": 1
  }
 }
