@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bina",
-    "nda",
-    "tahli",
-    "teras",
-    "zeyti",
-    "çöken"
-   ],
-   "at": "2026-11-03T17:49:50.866821+00:00"
-  },
-  {
-   "fp": [
     "ankar",
     "don",
     "sıcak",
@@ -2131,23 +2120,22 @@
     "rekor"
    ],
    "at": "2026-11-05T05:43:14.421862+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "8",
+    "adana",
+    "afyon",
+    "büyük",
+    "depre",
+    "gece",
+    "yarıs"
+   ],
+   "at": "2026-11-05T05:49:53.348366+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c45b241cb1",
-   "post_id": "529346797199852_1452802483626126",
-   "title": "Galatasaray Konyaspor deplasmanında gol olup yağdı: 4-0",
-   "at": "2026-10-30T21:31:51.752731+00:00",
-   "yazim": "yedek",
-   "metin": "Galatasaray Konyaspor deplasmanında gol olup yağdı: 4-0.\n\nTrendyol Süper Lig'in 10. haftasında Galatasaray, deplasmanda Konyaspor'u 4-0 mağlup ederek liderlik yarışındaki iddiasını sürdürdü.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/galatasaray-deplasmanda-konyasporu-4-0-yenerek-liderligini-surdurdu/4106855",
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/live-konyaspor-0-4-galatasaray-mac-ozeti-aslan-deplasmanda-farkli-kazandi-3486750",
-    "BirGün: https://www.birgun.net/haber/galatasaray-konyaspor-deplasmaninda-rahat-kazandi-743569",
-    "Karar: https://www.karar.com/spor-haberleri/galatasaray-konyaspor-deplasmaninda-gol-olup-yagdi-4-0-2081557"
-   ]
-  },
   {
    "id": "37ca6124d6",
    "post_id": "529346797199852_1452815123624862",
@@ -4895,6 +4883,22 @@
     "NTV: https://www.ntv.com.tr/turkiye/dinarda-41-buyuklugunde-deprem-1749432",
     "Habertürk: https://www.haberturk.com/gundem/afyonkarahisar-da-4-1-buyuklugunde-deprem-3925011",
     "Yeni Şafak: https://www.yenisafak.com/gundem/afyonkarahisarda-41-buyuklugunde-deprem-4869931"
+   ]
+  },
+  {
+   "id": "b9876d2a19",
+   "post_id": "529346797199852_1458122023094172",
+   "title": "AFAD duyurdu! Afyonkarahisar ve Adana'da gece yarısı korkutan deprem",
+   "at": "2026-11-05T05:49:53.348366+00:00",
+   "yazim": "claude",
+   "metin": "Afyonkarahisar'ın Dinar ilçesinde 4.1 büyüklüğünde deprem oldu.\n\nAFAD verilerine göre sarsıntı saat 03.23'te meydana geldi ve çevre ilçelerde de hafif hissedildi.\n\nYaklaşık 18 dakika sonra Adana'nın Kozan ilçesinde 3.8 büyüklüğünde bir deprem daha yaşandı. İlk belirlemelere göre iki depremde de bir olumsuzluk tespit edilmedi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/adanada-3-8-buyuklugunde-deprem-43366412",
+    "CNN Türk: https://www.cnnturk.com/turkiye/afyonkarahisar-ve-adanada-deprem-3489187",
+    "NTV: https://www.ntv.com.tr/turkiye/afyonkarahisarda-41-buyuklugunde-deprem-1749432",
+    "Habertürk: https://www.haberturk.com/bilgi/afyon-adana-ve-manisa-da-pes-pese-depremler-5-kasim-2026-kandilli-rasathanesi-ve-afad-son-depremler-listesi-3925016",
+    "Habertürk: https://www.haberturk.com/gundem/adana-da-3-8-buyuklugunde-deprem-3925013",
+    "Sözcü: https://www.sozcu.com.tr/afad-duyurdu-adanada-gece-yarisi-korkutan-deprem-p376142"
    ]
   }
  ],
