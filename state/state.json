@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "hatay",
-    "kişi",
-    "otomo",
-    "tır",
-    "yaral",
-    "çarpı"
-   ],
-   "at": "2026-11-03T21:46:11.873623+00:00"
-  },
-  {
-   "fp": [
-    "ardın",
-    "bakan",
-    "facia",
-    "ispan",
-    "istif",
-    "kazas",
-    "puent",
-    "tren",
-    "ulaşt"
-   ],
-   "at": "2026-11-03T22:02:57.512731+00:00"
-  },
-  {
-   "fp": [
-    "aidat",
-    "apart",
-    "duyur",
-    "elekt",
-    "gizli",
-    "parti",
-    "yavuz",
-    "zammı"
-   ],
-   "at": "2026-11-03T22:03:12.991061+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "bakan",
     "dan",
@@ -2227,22 +2188,39 @@
     "şüphe"
    ],
    "at": "2026-11-05T09:32:15.200994+00:00"
+  },
+  {
+   "fp": [
+    "8",
+    "abd",
+    "azerb",
+    "açıkl",
+    "cumhu",
+    "dan",
+    "düşün",
+    "erdoğ",
+    "günü",
+    "kasım",
+    "nde",
+    "seçim",
+    "zafer",
+    "ziyar"
+   ],
+   "at": "2026-11-05T10:03:30.043317+00:00"
+  },
+  {
+   "fp": [
+    "gelir",
+    "telek",
+    "türk",
+    "yüzde",
+    "çeyre",
+    "üçünc"
+   ],
+   "at": "2026-11-05T10:03:41.828158+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fea9154dfb",
-   "post_id": "529346797199852_1453245523581822",
-   "title": "NBA Kupası’nda Scottie Barnes’ın 41 sayısı galibiyete yetmedi",
-   "at": "2026-10-31T08:32:45.108672+00:00",
-   "yazim": "claude",
-   "metin": "Toronto Raptors, NBA Kupası'nda Orlando Magic'e 121-114 yenildi.\n\n— Scottie Barnes 41 sayı, 5 asist ve 5 ribauntla maçın en skoreriydi ama bu yetmedi.\n— Aynı gecede Miami Heat, Indiana Pacers'ı 145-125 yendi.\n— Giannis Antetokounmpo 31 sayı, 18 ribaunt ve 10 asistle triple-double yaptı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/nba/scottie-barnesin-41-sayisi-yetmedi-raptors-magice-maglup-oldu-3486990",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/scottie-barnes-in-41-sayisi-toronto-raptors-a-yetmedi-2551922",
-    "BirGün: https://www.birgun.net/haber/nba-kupasinda-scottie-barnesin-41-sayisi-galibiyete-yetmedi-743626"
-   ]
-  },
   {
    "id": "25482d4f1a",
    "post_id": "529346797199852_1453254280247613",
@@ -4994,6 +4972,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/izmir-de-is-insanlarini-haraca-baglayan-suc-orgutune-operasyon-6-tutuklama-2553470",
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/izmirde-is-adamlarini-tehdit-eden-suc-orgutune-operasyon-6-supheli-tutuklandi-4869966"
    ]
+  },
+  {
+   "id": "bc5dc9abfd",
+   "post_id": "529346797199852_1458293836410324",
+   "title": "Türk Telekom'un üçüncü çeyrek kârı 7,7 milyar TL oldu: Gelirleri yüzde 11,9 arttı",
+   "at": "2026-11-05T10:03:41.828158+00:00",
+   "yazim": "claude",
+   "metin": "Türk Telekom'un üçüncü çeyrek net kârı 7,7 milyar TL oldu.\n\n— Gelirler yıllık bazda yüzde 11,9 artarak 86,4 milyar TL'ye çıktı.\n— Toplam abone sayısı 58,5 milyona ulaştı; mobilde 670 bin yeni abone eklendi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/turk-telekomdan-ucuncu-ceyrekte-gelir-ve-yatirimda-guclu-buyume/4112699",
+    "Habertürk: https://www.haberturk.com/ekonomi/turk-telekom-un-gelirleri-yuzde-12-yukseldi-3925116",
+    "Karar: https://www.karar.com/ekonomi-haberleri/turk-telekomun-ucuncu-ceyrek-kari-77-milyar-tl-oldu-gelirleri-yuzde-2082487"
+   ]
   }
  ],
  "fails": {
@@ -5014,10 +5005,9 @@
   "26a9176535": 2,
   "3167668184": 1,
   "1a9496c3ae": 1,
-  "3ac200fc36": 2,
-  "85650252a3": 1,
+  "85650252a3": 2,
   "74cca9bb28": 1,
-  "4deaa305cf": 1,
+  "4deaa305cf": 2,
   "a1c6f56a63": 1,
   "45d6c11803": 1,
   "774d82e855": 1,
@@ -5026,6 +5016,7 @@
   "d36e5df56e": 1,
   "c62b297c40": 1,
   "13ad7232d8": 1,
-  "fa7c8160d6": 1
+  "fa7c8160d6": 1,
+  "5b6717611f": 1
  }
 }
