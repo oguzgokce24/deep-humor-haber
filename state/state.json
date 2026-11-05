@@ -2,26 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "3",
-    "alama",
-    "attı",
-    "can",
-    "devri",
-    "feci",
-    "kaybı",
-    "kaza",
-    "muş",
-    "pikap",
-    "takla",
-    "viraj",
-    "yaral",
-    "ölü"
-   ],
-   "at": "2026-11-04T10:13:20.425224+00:00"
-  },
-  {
-   "fp": [
     "avcıl",
     "duvar",
     "neden",
@@ -3105,6 +3085,47 @@
     "özeti"
    ],
    "at": "2026-11-05T21:55:33.913762+00:00"
+  },
+  {
+   "fp": [
+    "54",
+    "70",
+    "acile",
+    "başvu",
+    "gıda",
+    "hasta",
+    "kütah",
+    "perso",
+    "zehir",
+    "şüphe"
+   ],
+   "tok": [
+    "acil",
+    "acile",
+    "başvu",
+    "belir",
+    "durum",
+    "edili",
+    "gıda",
+    "hasta",
+    "iyi",
+    "kütah",
+    "nde",
+    "perso",
+    "rahat",
+    "sağlı",
+    "servi",
+    "sürüy",
+    "tabur",
+    "tavuk",
+    "tedav",
+    "tüket",
+    "yemeğ",
+    "zehir",
+    "öğren",
+    "şehir"
+   ],
+   "at": "2026-11-05T22:14:50.815312+00:00"
   }
  ],
  "posted": [
@@ -5942,7 +5963,6 @@
   "04f62fed87": 2,
   "4b645ec13e": 1,
   "1c63b6fcc0": 2,
-  "0ea9b18be5": 1,
-  "9ca61942c9": 2
+  "0ea9b18be5": 1
  }
 }
