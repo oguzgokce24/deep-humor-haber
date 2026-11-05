@@ -2778,21 +2778,47 @@
     "çocuğ"
    ],
    "at": "2026-11-05T13:47:16.881331+00:00"
+  },
+  {
+   "fp": [
+    "avrup",
+    "banka",
+    "hedef",
+    "kan",
+    "marke",
+    "saldı",
+    "siber"
+   ],
+   "at": "2026-11-05T13:51:42.999315+00:00"
+  },
+  {
+   "fp": [
+    "29",
+    "aştı",
+    "banka",
+    "hacmi",
+    "kredi",
+    "liray",
+    "trily"
+   ],
+   "at": "2026-11-05T13:51:58.580900+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "5",
+    "afyon",
+    "araç",
+    "bulun",
+    "ceset",
+    "dehşe",
+    "içind",
+    "topla"
+   ],
+   "at": "2026-11-05T13:52:19.681443+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c9ee968745",
-   "post_id": "529346797199852_1453438423562532",
-   "title": "Ukrayna Devlet Başkanı Zelenski İstanbul'a geldi",
-   "at": "2026-10-31T13:03:35.109237+00:00",
-   "yazim": "claude",
-   "metin": "Ukrayna Devlet Başkanı Volodimir Zelenski:\n\n“Ekibimizle birlikte İstanbul'a vardık. Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan ile önemli görüşmelerimiz olacak.\n\nKaradeniz'deki deniz ulaşımına ilişkin önemli meseleler söz konusu.”",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/ukrayna-devlet-baskani-zelenskiy-istanbula-geldi/4107359",
-    "Sözcü: https://www.sozcu.com.tr/ukrayna-devlet-baskani-zelenski-istanbula-geldi-p374612"
-   ]
-  },
   {
    "id": "bf11e5d23a",
    "post_id": "529346797199852_1453456503560724",
@@ -5551,6 +5577,20 @@
     "Karar: https://www.karar.com/dunya-haberleri/almanyadan-turk-is-insanlarina-vize-kolayligi-icin-yeni-adim-2082546",
     "Diken: https://www.diken.com.tr/almanya-turk-is-insanlarina-vize-kolayligi-getiriyor/?utm_source=rss&utm_medium=rss&utm_campaign=almanya-turk-is-insanlarina-vize-kolayligi-getiriyor"
    ]
+  },
+  {
+   "id": "880df99876",
+   "post_id": "529346797199852_1458470029726038",
+   "title": "Afyonkarahisar'da vahşet! Otomobilin içinde 5 ceset bulundu",
+   "at": "2026-11-05T13:52:19.681443+00:00",
+   "yazim": "claude",
+   "metin": "Afyonkarahisar'da bir otomobilin içinde beş kişinin cesedi bulundu.\n\n— Olay İhsaniye ilçesine bağlı Kıyır köyü yakınlarında yaşandı.\n— İhbar üzerine gelen jandarma olay yerinde inceleme başlattı. Kimlik tespit çalışmaları sürüyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-afyonkarahisarda-dehset-2-arac-icinde-toplam-5-ceset-bulundu-7695086",
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-bir-arabada-bes-ceset-bulundu-1749559",
+    "Sözcü: https://www.sozcu.com.tr/afyonkarahisar-da-dehset-otomobilin-icinde-5-ceset-bulundu-p376387",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-afyonkarahisarda-dehset-2-arac-icinde-toplam-5-ceset-bulundu-7695086"
+   ]
   }
  ],
  "fails": {
@@ -5596,11 +5636,10 @@
   "7811f5f46a": 2,
   "cbde70215a": 2,
   "b414243c9f": 1,
-  "baf5036693": 2,
-  "3700085688": 2,
   "68c6d8c035": 2,
-  "94c47484a7": 1,
-  "b14fdcb363": 1,
-  "d4a815cc7a": 1
+  "94c47484a7": 2,
+  "b14fdcb363": 2,
+  "d4a815cc7a": 2,
+  "9bd56603c1": 1
  }
 }
