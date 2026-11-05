@@ -2836,22 +2836,25 @@
     "tutuk"
    ],
    "at": "2026-11-05T14:36:08.416272+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "devam",
+    "edece",
+    "görev",
+    "hegse",
+    "savun",
+    "sorus",
+    "tan",
+    "trump",
+    "tutma",
+    "yanıt"
+   ],
+   "at": "2026-11-05T14:39:53.214825+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bf11e5d23a",
-   "post_id": "529346797199852_1453456503560724",
-   "title": "Hatay'da otomobil dereye düştü: 3 kişi yaralandı",
-   "at": "2026-10-31T13:26:52.309950+00:00",
-   "yazim": "claude",
-   "metin": "Hatay'ın Antakya ilçesinde sürücüsünün kontrolünden çıkan otomobil dereye uçtu.\n\nAraçta mahsur kalan 3 kişi itfaiye ve AFAD ekiplerinin çalışmasıyla kurtarıldı.\n\nYaralılar ilk müdahalenin ardından sağlık ekiplerine teslim edildi. Kaza Paşaköy Mahallesi'nde yaşandı. Polis soruşturma başlattı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/hatay-da-otomobil-dereye-uctu-yaralilar-var-2551984",
-    "BirGün: https://www.birgun.net/haber/hatay-da-otomobil-dereye-dustu-3-kisi-yaralandi-743699",
-    "Karar: https://www.karar.com/sehir-haberleri/dereye-ucan-otomobil-hurdaya-dondu-3-yarali-2081642"
-   ]
-  },
   {
    "id": "a424887604",
    "post_id": "529346797199852_1453519483554426",
@@ -5611,6 +5614,21 @@
     "Sözcü: https://www.sozcu.com.tr/afyonkarahisar-da-dehset-otomobilin-icinde-5-ceset-bulundu-p376387",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-afyonkarahisarda-dehset-2-arac-icinde-toplam-5-ceset-bulundu-7695086"
    ]
+  },
+  {
+   "id": "e0c588bf40",
+   "post_id": "529346797199852_1458508043055570",
+   "title": "Trump yanıtladı: ABD Savunma Bakanı görevden alınacak mı?",
+   "at": "2026-11-05T14:39:53.214825+00:00",
+   "yazim": "claude",
+   "metin": "ABD Başkanı Donald Trump:\n\n“Onu görevde tutmak için her türlü niyetim var.”\n\nCumhuriyetçiler ara seçimlerde yenilmişti. Ardından Savunma Bakanı Pete Hegseth'i görevden alma çağrıları geldi. Trump bu çağrılara bu sözlerle yanıt verdi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-hegsethi-savunma-bakani-olarak-gorevde-tutmaya-devam-edecegini-acikladi/4113088",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/trump-hegsethi-savunma-bakani-olarak-gorevde-tutmaya-devam-edecek-962356.html",
+    "Milliyet: https://www.milliyet.com.tr/dunya/trumptan-hegsethi-savunma-bakani-olarak-gorevde-tutma-sorusuna-yanit-7695103",
+    "BirGün: https://www.birgun.net/haber/trump-yanitladi-abd-savunma-bakani-gorevden-alinacak-mi-744797",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/trumptan-hegsethi-savunma-bakani-olarak-gorevde-tutma-sorusuna-yanit-7695103"
+   ]
   }
  ],
  "fails": {
@@ -5659,7 +5677,7 @@
   "68c6d8c035": 2,
   "b14fdcb363": 2,
   "9bd56603c1": 2,
-  "dda8924d40": 1,
+  "dda8924d40": 2,
   "014eec2185": 1,
   "3c045fba29": 1,
   "ebe2867b4c": 1,
