@@ -37,6 +37,12 @@ exclude:
   - bahçeşehir koleji
   - darüşşafaka
   - türk telekom basketbol
+  # Haber olmayan yayın rehberi / tahmin içerikleri
+  - hangi kanalda
+  - saat kaçta
+  - muhtemel 11
+  - canlı izle
+  - şifresiz
 
 # Doğrulama kuralları
 verify:

@@ -23,7 +23,7 @@ import yaml
 from dh.collect import fetch_all, og_image
 from dh.render import render_card, pick_photo
 from dh import writer
-from dh.verify import cluster, verified, similarity, story_tokens, is_duplicate
+from dh.verify import cluster, verified, similarity, story_tokens, is_duplicate_title
 from dh.verify import tokens as vtokens, _strong as vstrong
 from dh.channels import FacebookPage
 
@@ -159,9 +159,9 @@ def find_new(cfg, st):
         if excluded(c, excl):
             continue
         fp = c.fingerprint
-        toks = story_tokens(c)
-        if any(similarity(fp, set(s["fp"])) >= 0.5 or is_duplicate(toks, set(s.get("tok", [])))
-               for s in st["seen"]) or any(is_duplicate(toks, pt) for pt in recent_posts):
+        titles = [i.title for i in c.items]
+        if any(similarity(fp, set(s["fp"])) >= 0.5 or is_duplicate_title(titles, set(s.get("tok", [])))
+               for s in st["seen"]) or any(is_duplicate_title(titles, pt) for pt in recent_posts):
             continue
         fresh.append(c)
     return fresh
