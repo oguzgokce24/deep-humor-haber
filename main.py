@@ -21,7 +21,7 @@ from pathlib import Path
 import yaml
 
 from dh.collect import fetch_all, og_image
-from dh.render import render_card
+from dh.render import render_card, pick_photo
 from dh import writer
 from dh.verify import cluster, verified, similarity
 from dh.channels import FacebookPage
@@ -82,6 +82,8 @@ def build_caption(c, title, credit, brand) -> str:
     return "\n".join(lines).strip()
 
 
+GENERIC_IMAGES: set[str] = set()
+
 # ---------------------------------------------------------------- Haber seçimi
 # Bağımsız haber sayfası tarzı: alıntılı / insan hikâyesi / gündemi sarsan haberler öne,
 # protokol ve tören haberleri geriye.
@@ -117,6 +119,16 @@ def find_new(cfg, st):
     v = cfg["verify"]
     log("Kaynaklar taranıyor…")
     items = fetch_all(cfg["sources"], v["max_age_hours"], log)
+    # Aynı görsel birden fazla FARKLI habere eklenmişse bu bir "son dakika" kartı / varsayılan görseldir
+    from collections import defaultdict
+    by_img = defaultdict(set)
+    for it in items:
+        if it.image:
+            by_img[it.image.split("?")[0]].add(it.title.strip().lower()[:40])
+    GENERIC_IMAGES.clear()
+    GENERIC_IMAGES.update(u for u, titles in by_img.items() if len(titles) >= 2)
+    if GENERIC_IMAGES:
+        log(f"  {len(GENERIC_IMAGES)} ortak/varsayılan görsel ayıklandı")
     clusters = cluster(items, v["similarity"])
     ok = verified(clusters, v["min_groups"], v["require_anchor"], v.get("fast_lane_minutes", 0))
     log(f"{len(items)} haber, {len(clusters)} küme, {len(ok)} doğrulanmış küme")
@@ -173,13 +185,12 @@ def main():
         if sent >= pub["max_per_run"]:
             break
         lead = c.lead()
-        img, credit = c.best_image()
-        if not img:
-            for it in sorted(c.usable, key=lambda i: not i.anchor)[:3]:
-                img = og_image(it.link)
-                if img:
-                    credit = it.source
-                    break
+        # Görsel adayları: önce RSS görselleri, sonra haber sayfalarının paylaşım görselleri.
+        # Son dakika kartı / logo / küçük ya da grafik görseller elenir; uygun yoksa düz zemin kullanılır.
+        cands = [(i.image, i.source) for i in sorted(c.usable, key=lambda i: not i.anchor) if i.image]
+        cands += [(og_image(i.link), i.source) for i in sorted(c.usable, key=lambda i: not i.anchor)[:3]]
+        cands = [(u, src) for u, src in cands if u and u.split("?")[0] not in GENERIC_IMAGES]
+        img, credit = pick_photo(cands, log)
         title = lead.title
         pid = hashlib.sha1(" ".join(sorted(c.fingerprint)).encode()).hexdigest()[:10]
         path = OUT / f"{pid}.jpg"

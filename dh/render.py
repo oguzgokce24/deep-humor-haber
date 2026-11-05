@@ -48,6 +48,8 @@ def hex2rgb(h: str):
 
 def load_photo(src) -> Image.Image | None:
     try:
+        if isinstance(src, Image.Image):
+            return src.convert("RGB")
         if isinstance(src, (str, Path)) and str(src).startswith("http"):
             r = requests.get(str(src), timeout=20, headers={"User-Agent": "Mozilla/5.0"})
             r.raise_for_status()
@@ -59,6 +61,70 @@ def load_photo(src) -> Image.Image | None:
         return ImageOps.exif_transpose(im).convert("RGB")
     except Exception:
         return None
+
+
+# Gerçek fotoğraf olmayan görselleri (son dakika kartı, logo, varsayılan görsel) ayıklamak için
+_BAD_URL = re.compile(r"(son-?dakika|sondakika|breaking|default|placeholder|no-?image|noimage|logo|"
+                      r"generic|bos-?gorsel|haber-?gorseli|share-?image|og-?default|fallback)", re.I)
+
+
+def photo_ok(im: Image.Image | None, url: str = "") -> tuple[bool, str]:
+    """Fotoğraf şablona uygun mu? (uygun_mu, neden)"""
+    if im is None:
+        return False, "indirilemedi"
+    if url and _BAD_URL.search(url.split("?")[0]):
+        return False, "varsayılan/son dakika görseli"
+    w, h = im.size
+    if min(w, h) < 380:
+        return False, "çok küçük"
+    if w / h > 2.4 or h / w > 2.4:
+        return False, "oranı uygun değil"
+    # Düz renkli grafik / yazı kartı mı? Fotoğraflarda renk çeşitliliği yüksektir.
+    small = im.resize((64, 64)).quantize(colors=256, method=Image.Quantize.MEDIANCUT)
+    used = len([c for c in small.getcolors(256) or [] if c[0] >= 2])
+    if used < 90:
+        return False, "fotoğraf değil (grafik/yazı kartı)"
+    return True, ""
+
+
+def pick_photo(candidates, log=print):
+    """[(url, kaynak), ...] içinden şablona uygun ilk fotoğrafı döndürür: (Image, kaynak) ya da (None, None)."""
+    seen = set()
+    for url, src in candidates:
+        if not url or url in seen:
+            continue
+        seen.add(url)
+        im = load_photo(url)
+        ok, why = photo_ok(im, url)
+        if ok:
+            return im, src
+        log(f"  görsel atlandı ({src}: {why})")
+    return None, None
+
+
+def compose_photo(im: Image.Image, text_top: int) -> Image.Image:
+    """Dikey (4:5) kadraja yerleştirir. Dikey/kareye yakın fotoğraflar doldurularak kırpılır;
+    yatay fotoğraflar KESİLMEZ: bulanık arka plan üzerine tam genişlikte, metnin üstündeki alana oturtulur."""
+    w, h = im.size
+    if w / h <= 0.95:
+        return ImageOps.fit(im, (W, H), Image.LANCZOS, centering=(0.5, 0.35))
+    bg = ImageOps.fit(im, (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(28))
+    bg = Image.blend(bg, Image.new("RGB", (W, H), (0, 0, 0)), 0.35)
+    fw = W
+    fh = int(h * fw / w)
+    space = max(text_top - 60, fh)          # metnin üstünde kalan alan
+    y = max(0, (space - fh) // 2)
+    fg = im.resize((fw, fh), Image.LANCZOS)
+    # kenarları yumuşak geçişle arka plana karışsın
+    mask = Image.new("L", (fw, fh), 255)
+    md = ImageDraw.Draw(mask)
+    fade = min(70, fh // 6)
+    for i in range(fade):
+        a = int(255 * i / fade)
+        md.line([(0, i), (fw, i)], fill=a)
+        md.line([(0, fh - 1 - i), (fw, fh - 1 - i)], fill=a)
+    bg.paste(fg, (0, y), mask)
+    return bg
 
 
 def _fallback_bg(navy) -> Image.Image:
@@ -241,14 +307,15 @@ def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label=
     strip_txt = hex2rgb(theme.get("strip_text", theme.get("overlay", "#06322F")))
     txt = hex2rgb(theme.get("text", "#FFFFFF"))
 
-    im = load_photo(photo) if photo is not None else None
-    base = ImageOps.fit(im, (W, H), Image.LANCZOS, centering=(0.5, 0.4)) if im else _fallback_bg(navy)
 
     # Metin düzeni: body (çok paragraflı, **kalın** işaretli) varsa o, yoksa başlık
     markup = body if body else f"**{title.strip()}**"
     layout = _layout_body(markup, TEXT_R - TEXT_X, max_h=600)
     head_bottom = 1180
     head_top = head_bottom - layout["height"]
+
+    im = load_photo(photo) if photo is not None else None
+    base = compose_photo(im, head_top) if im else _fallback_bg(navy)
 
     canvas = _grade(base, navy, start=max(380, head_top - 380))
     d = ImageDraw.Draw(canvas)
