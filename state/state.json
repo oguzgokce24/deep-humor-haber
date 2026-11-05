@@ -2,33 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "araşt",
-    "borsa",
-    "fon",
-    "iddia",
-    "mhp",
-    "nin",
-    "oylar",
-    "parti",
-    "redde",
-    "önerg"
-   ],
-   "at": "2026-11-03T21:05:51.868124+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "avm",
-    "hasta",
-    "kaldı",
-    "kişi",
-    "yangı"
-   ],
-   "at": "2026-11-03T21:06:02.497604+00:00"
-  },
-  {
-   "fp": [
     "20",
     "3",
     "ceset",
@@ -2217,23 +2190,25 @@
     "uyarı"
    ],
    "at": "2026-11-05T09:04:51.144893+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "5",
+    "akary",
+    "benzi",
+    "fiyat",
+    "günce",
+    "indir",
+    "kasım",
+    "lpg",
+    "motor",
+    "zam"
+   ],
+   "at": "2026-11-05T09:17:26.926624+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "398900df15",
-   "post_id": "529346797199852_1453229586916749",
-   "title": "Beşiktaş, zorlu Kasımpaşa deplasmanına çıkıyor",
-   "at": "2026-10-31T08:07:00.473527+00:00",
-   "yazim": "claude",
-   "metin": "Beşiktaş yarın Kasımpaşa deplasmanına çıkıyor.\n\n— Süper Lig'in 10. haftasında maç saat 19.00'da başlayacak.\n— Beşiktaş deplasmanda üç puan arayacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/basaksehir-super-ligde-yarin-samsunsporu-agirlayacak/4107055",
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-kasimpasaya-konuk-olacak/4107042",
-    "Habertürk: https://www.haberturk.com/spor/besiktas-super-lig-de-kasimpasa-ya-konuk-olacak-3923891",
-    "BirGün: https://www.birgun.net/haber/besiktas-zorlu-kasimpasa-deplasmanina-cikiyor-743625"
-   ]
-  },
   {
    "id": "c2663efaed",
    "post_id": "529346797199852_1453237750249266",
@@ -4983,6 +4958,20 @@
     "Sözcü: https://www.sozcu.com.tr/meteorolojiden-korkulan-uyari-geldi-sicaklik-dusuyor-kar-ve-firtina-geliyor-p376152",
     "Karar: https://www.karar.com/guncel-haberler/meteorolojiden-16-il-icin-kuvvetli-yagis-uyarisi-sel-heyelan-ve-kar-2082491"
    ]
+  },
+  {
+   "id": "d167b180e6",
+   "post_id": "529346797199852_1458260113080363",
+   "title": "Benzin fiyatları düşüyor: Motorine de indirim yolda",
+   "at": "2026-11-05T09:17:26.926624+00:00",
+   "yazim": "claude",
+   "metin": "Benzinde 6,08 TL indirim bekleniyor.\n\n— Petrol fiyatları son bir ayın en düşük seviyesine geriledi.\n— İndirim 6 Kasım'dan itibaren geçerli olursa İstanbul, Ankara ve İzmir'de benzin litresi 75 TL seviyelerine yaklaşacak.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/ekonomi/5-kasim-2026-akaryakit-fiyatlari-benzin-motorin-ve-lpgye-indirim-geliyor-mu-akaryakit-fiyatlarinda-son-durum-3489243",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/benzine-mazota-ne-kadar-zam-gelecek-5-ekim-akaryakit-fiyatlari-ne-kadar-guncel-yakit-fiyatlari-kac-tl-2553480",
+    "BirGün: https://www.birgun.net/haber/5-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-744703",
+    "BirGün: https://www.birgun.net/haber/benzin-fiyatlari-dusuyor-motorine-de-indirim-yolda-744682"
+   ]
   }
  ],
  "fails": {
@@ -5005,6 +4994,7 @@
   "660ebad39a": 1,
   "26a9176535": 1,
   "3167668184": 1,
-  "1a9496c3ae": 1
+  "1a9496c3ae": 1,
+  "3ac200fc36": 1
  }
 }
