@@ -2733,22 +2733,36 @@
     "karar"
    ],
    "at": "2026-11-05T13:31:10.849549+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "anne",
+    "duman",
+    "etkil",
+    "evde",
+    "hasta",
+    "izmir",
+    "kaldı",
+    "yangı",
+    "çocuğ",
+    "çıkan",
+    "öldü"
+   ],
+   "at": "2026-11-05T13:34:36.073078+00:00"
+  },
+  {
+   "fp": [
+    "alman",
+    "insan",
+    "kolay",
+    "türk",
+    "vize"
+   ],
+   "at": "2026-11-05T13:34:41.996441+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b751e1211a",
-   "post_id": "529346797199852_1453409250232116",
-   "title": "Sınavsız müdür ve müdür yardımcısı atamalarına şart geldi",
-   "at": "2026-10-31T12:28:13.456028+00:00",
-   "yazim": "claude",
-   "metin": "Müdür ve müdür yardımcılığına sınavsız atanmak için yeni şart geldi.\n\n— Bu kadrolara sınavsız atanabilmek için, üst görevlerde kesintisiz en az 3 yıl asıl görevde ve fiilen çalışmış olmak gerekecek.\n— Değişiklik, Resmi Gazete'de yayımlanan yönetmelikle yürürlüğe girdi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-3-yil-sarti-getirildi-961817.html",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-3-yil-sarti-getirildi-3487119",
-    "Karar: https://www.karar.com/guncel-haberler/sinavsiz-mudur-ve-mudur-yardimcisi-atamalarina-sart-geldi-2081641"
-   ]
-  },
   {
    "id": "c9ee968745",
    "post_id": "529346797199852_1453438423562532",
@@ -5506,6 +5520,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mardin-de-bisikletiyle-evine-giden-ogretmene-yorgun-mermi-isabet-etti-2553614",
     "Evrensel: https://www.evrensel.net/haber/6008156/mardinde-evine-giderken-yorgun-merminin-hedefi-olan-ogretmen-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "6761c8e060",
+   "post_id": "529346797199852_1458455619727479",
+   "title": "Almanya Dışişleri Bakanı: Türklere vize kolaylığı için çalışıyoruz",
+   "at": "2026-11-05T13:34:41.996441+00:00",
+   "yazim": "claude",
+   "metin": "Almanya Dışişleri Bakanı Johann Wadephul:\n\n“Bunun için tüm birimler görevlendirildi.”\n\nTürk iş insanlarına vize kolaylığı için karar hızla uygulanacak. Kuzey Ren-Vestfalya Başbakanı Hendrik Wüst de eylülde Türkiye ziyaretinde bu kolaylığın sağlanacağını söylemişti. Türkiye'de ek bir temsilcilik açılması da inceleniyor.",
+   "sources": [
+    "DW Türkçe: https://www.dw.com/tr/almanya-dışişleri-bakanı-türklere-vize-kolaylığı-için-çalışıyoruz/a-79865692?maca=tur-rss-tur-all-1495-xml-mrss",
+    "Karar: https://www.karar.com/dunya-haberleri/almanyadan-turk-is-insanlarina-vize-kolayligi-icin-yeni-adim-2082546",
+    "Diken: https://www.diken.com.tr/almanya-turk-is-insanlarina-vize-kolayligi-getiriyor/?utm_source=rss&utm_medium=rss&utm_campaign=almanya-turk-is-insanlarina-vize-kolayligi-getiriyor"
+   ]
   }
  ],
  "fails": {
@@ -5551,7 +5578,6 @@
   "d18e545535": 2,
   "7811f5f46a": 2,
   "cbde70215a": 2,
-  "edd1999c29": 2,
   "b414243c9f": 1,
   "baf5036693": 1,
   "3700085688": 1,
