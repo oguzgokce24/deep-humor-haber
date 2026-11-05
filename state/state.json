@@ -2959,23 +2959,19 @@
     "çakıc"
    ],
    "at": "2026-11-05T15:42:43.107364+00:00"
+  },
+  {
+   "fp": [
+    "afyon",
+    "hayat",
+    "kaybe",
+    "kişi",
+    "silah"
+   ],
+   "at": "2026-11-05T15:49:48.068071+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d8a35bf860",
-   "post_id": "529346797199852_1453650956874612",
-   "title": "Göztepe maçı kadrosuna alınmadı... Fenerbahçe'de Mason Greenwood gelişmesi",
-   "at": "2026-10-31T17:24:52.004258+00:00",
-   "yazim": "claude",
-   "metin": "Fenerbahçe'nin yıldız futbolcusu Mason Greenwood, Göztepe maçının kadrosunda yer almadı.\n\n— Sebep, futbolcunun yaşadığı hastalık.\n— Fenerbahçe, Süper Lig'in 10. haftasında Göztepe'yi Chobani Stadı'nda ağırlıyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/mason-greenwod-neden-kadroya-alinmadi-dirk-kuyt-acikladi-3487168",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/goztepe-maci-kadrosuna-alinmadi-fenerbahce-de-mason-greenwood-gelismesi-2552036",
-    "Evrensel: https://www.evrensel.net/haber/6007472/fenerbahcede-kadroya-alinmamisti-mason-greenwoodun-neden-oynamadigi-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/dirk-kuyt-acikladi-mason-greenwood-neden-kadroda-yok-43361854"
-   ]
-  },
   {
    "id": "d1087abfef",
    "post_id": "529346797199852_1453665016873206",
@@ -5739,6 +5735,18 @@
     "BirGün: https://www.birgun.net/haber/afyon-da-iki-otomobilde-5-kisi-silahla-vurulmus-halde-bulundu-744793",
     "Karar: https://www.karar.com/sehir-haberleri/son-dakika-afyonkarahisarda-dehset-arac-icinde-5-kisinin-cansiz-bedeni-2082550"
    ]
+  },
+  {
+   "id": "d3ef640d02",
+   "post_id": "529346797199852_1458570439715997",
+   "title": "Afyonkarahisar’da silahlı saldırılarda yedi kişi hayatını kaybetti",
+   "at": "2026-11-05T15:49:48.068071+00:00",
+   "yazim": "claude",
+   "metin": "Afyonkarahisar'da silahlı saldırılarda yedi kişi öldü.\n\nİhsaniye'de iki araçtaki beş kişi, Yukarıtandır'da ise iki kadın hayatını kaybetti. Saldırıların nedeni ve şüpheliler hakkında kaynaklarda henüz bir bilgi yer almıyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-vurulan-7-kisi-hayatini-kaybetti-1-kisi-yaralandi/4113099",
+    "Medyascope: https://medyascope.tv/2026/11/05/afyonkarahisarda-silahli-saldirilarda-yedi-kisi-hayatini-kaybetti/"
+   ]
   }
  ],
  "fails": {
@@ -5793,6 +5801,6 @@
   "48f8766ceb": 1,
   "0edf524409": 1,
   "295980389d": 1,
-  "a92b12d7bb": 1
+  "a92b12d7bb": 2
  }
 }
