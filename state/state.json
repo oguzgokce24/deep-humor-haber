@@ -2,19 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "altın",
-    "geçti",
-    "harek",
-    "piyas",
-    "seçim",
-    "yenid",
-    "yükse"
-   ],
-   "at": "2026-11-05T06:01:07.181800+00:00"
-  },
-  {
-   "fp": [
     "147",
     "240",
     "abd",
@@ -7797,21 +7784,76 @@
     "şile"
    ],
    "at": "2026-11-06T17:58:16.079174+00:00"
+  },
+  {
+   "fp": [
+    "20",
+    "başı",
+    "bolu",
+    "bulac",
+    "istan",
+    "kalın",
+    "kar",
+    "saat",
+    "santi",
+    "uyard",
+    "valil",
+    "verer",
+    "yanı"
+   ],
+   "tok": [
+    "aksam",
+    "alarm",
+    "bazı",
+    "başla",
+    "başı",
+    "bekle",
+    "bolu",
+    "bulac",
+    "buzla",
+    "cumar",
+    "etkil",
+    "genel",
+    "geçer",
+    "günü",
+    "günün",
+    "heyel",
+    "ila",
+    "kalın",
+    "kar",
+    "karla",
+    "karış",
+    "karşı",
+    "kasım",
+    "kent",
+    "kuvve",
+    "olaca",
+    "olmas",
+    "oluşa",
+    "pazar",
+    "riski",
+    "saat",
+    "sabah",
+    "santi",
+    "sel",
+    "ulaşı",
+    "uyard",
+    "uyarı",
+    "valil",
+    "vatan",
+    "verer",
+    "yanı",
+    "yarın",
+    "yağac",
+    "yağmu",
+    "yağış",
+    "yerle",
+    "örtüs"
+   ],
+   "at": "2026-11-06T18:10:44.091095+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "00c44f5c98",
-   "post_id": "529346797199852_1455161860056855",
-   "title": "Altın fiyatlarında yeni hafta yükselişle başladı: Gram, çeyrek ve Cumhuriyet altını ne kadar?",
-   "at": "2026-11-02T06:39:58.894439+00:00",
-   "yazim": "claude",
-   "metin": "Altın yeni haftaya yükselişle başladı.\n\n— Geçen hafta sert düşen ons altın, cuma günü 3 bin 870 dolara kadar gerilemişti.\n— Bugün sabah ons 3 bin 905 dolara çıktı.\n— İç piyasada gram altın 6 bin 268 lira, çeyrek altının satış fiyatı 10 bin 318 lira.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/ekonomi/altin-haftaya-yukselisle-basladi-iste-fiyatlar-961921.html",
-    "Evrensel: https://www.evrensel.net/haber/6007603/altin-fiyatlarinda-yeni-hafta-yukselisle-basladi-gram-ceyrek-ve-cumhuriyet-altini-ne-kadar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "1265373564",
    "post_id": "529346797199852_1455190173387357",
@@ -10556,6 +10598,20 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/06/gaziosmanpasa-belediye-baskani-hakan-bahcetepe-hakkinda-ev-hapsiyle-tahliye-karari",
     "NTV: https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
     "Sözcü: https://www.sozcu.com.tr/hakan-bahcetepe-ye-tahliye-6-kasim-2026-p376763"
+   ]
+  },
+  {
+   "id": "3006acec35",
+   "post_id": "529346797199852_1459743952931979",
+   "title": "Valilik uyardı: Bolu'da kar alarmı",
+   "at": "2026-11-06T18:10:44.091095+00:00",
+   "yazim": "claude",
+   "metin": "Bolu'da cumartesi günü kar yağacak, valilik uyardı.\n\n— Yağış 7 Kasım Cumartesi sabah 03.00'te başlayacak, bazı yerlerde karla karışık yağmur ve kar etkili olacak.\n— 5 ila 20 santimetre kar örtüsü oluşabilir. Uyarı 8 Kasım Pazar sabah 06.00'ya kadar geçerli.\n— Valilik ulaşımda aksamalar, heyelan, sel ve buzlanma riskine",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbulun-yani-basi-valilik-saat-vererek-uyardi-kar-kalinligi-20-santimetreyi-bulacak-43368863",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/bolu-valiliginden-kar-uyarisi-kalinligi-20-santimetreyi-bulacak-4870396",
+    "Karar: https://www.karar.com/guncel-haberler/valilik-uyardi-boluda-kar-alarmi-2082766",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/istanbulun-yani-basi-valilik-saat-vererek-uyardi-kar-kalinligi-20-santimetreyi-bulacak-43368863"
    ]
   }
  ],
