@@ -2,14 +2,6 @@
  "seen": [
   {
    "fp": [
-    "etkil",
-    "istan",
-    "sağan"
-   ],
-   "at": "2026-11-04T14:59:30.198646+00:00"
-  },
-  {
-   "fp": [
     "5",
     "burcu",
     "burç",
@@ -3333,22 +3325,59 @@
     "öneml"
    ],
    "at": "2026-11-06T02:46:47.074930+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "anlat",
+    "arı",
+    "ayakl",
+    "birgü",
+    "cezae",
+    "ismai",
+    "koşul",
+    "muhab",
+    "ranza"
+   ],
+   "tok": [
+    "alan",
+    "altın",
+    "anlat",
+    "arı",
+    "ayakl",
+    "birgü",
+    "burad",
+    "cezae",
+    "ederk",
+    "gazet",
+    "gündü",
+    "ifade",
+    "ismai",
+    "kaldı",
+    "kalem",
+    "kişil",
+    "koğuş",
+    "koşul",
+    "mektu",
+    "muhab",
+    "nde",
+    "ranza",
+    "sadec",
+    "sinca",
+    "tutul",
+    "uyudu",
+    "vücut",
+    "yaptı",
+    "yarıs",
+    "yatan",
+    "yazdı",
+    "yaşad",
+    "yerde"
+   ],
+   "at": "2026-11-06T02:59:24.357782+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fc7209ad7c",
-   "post_id": "529346797199852_1454333983472976",
-   "title": "Galatasaray - Stuttgart maçının hakemi belli oldu",
-   "at": "2026-11-01T09:58:20.807147+00:00",
-   "yazim": "claude",
-   "metin": "Galatasaray - Stuttgart maçını İngiliz hakem Chris Kavanagh yönetecek.\n\nKarşılaşma 3 Kasım Salı günü Rams Park'ta, saat 20.45'te oynanacak. Şampiyonlar Ligi'nin 4. haftasındaki maçta VAR görevini Darren England üstlenecek.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/son-dakika-galatasaray-stuttgart-macinin-hakemi-chris-kavanagh-oldu-3924100",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/galatasaray-stuttgart-macinin-hakemi-belli-oldu-2552177",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/galatasaray-stuttgart-macinin-hakemi-belli-oldu-43362313"
-   ]
-  },
   {
    "id": "3ef6442a3e",
    "post_id": "529346797199852_1454378330135208",
@@ -6111,6 +6140,17 @@
    "metin": "Kızılcahamam'da 3 bin hektarlık alan orman sınırları dışına çıkarıldı.\n\nBu karar, Ankara'nın en önemli içme suyu kaynaklarından Kurtboğazı Havzası'nı yapılaşma tehdidiyle karşı karşıya bıraktı.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/3-bin-hektar-orman-sinirlari-disina-cikarildi-ankara-nin-suyu-tehlikede-744817"
+   ]
+  },
+  {
+   "id": "759f8aad9c",
+   "post_id": "529346797199852_1459019103004464",
+   "title": "BirGün Muhabiri İsmail Arı, cezaevi koşullarını anlattı: Ayaklarımız ranzanın altında",
+   "at": "2026-11-06T02:59:24.357782+00:00",
+   "yazim": "claude",
+   "metin": "BirGün muhabiri İsmail Arı:\n\n“Sadece gazetecilik yaptığım için buradayım.”\n\n16 gündür Sincan Cezaevi'nde tutulan Arı, mektubunda koşulları anlattı. 28 kişilik koğuşta 62 kişinin kaldığını, yerde yatanların vücutlarının yarısının ranzanın altında uyuduğunu yazdı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/birgun-muhabiri-ismail-ari-cezaevi-kosullarini-anlatti-ayaklarimiz-ranzanin-altinda-744830"
    ]
   }
  ],
