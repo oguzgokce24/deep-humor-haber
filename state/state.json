@@ -2,22 +2,6 @@
  "seen": [
   {
    "fp": [
-    "adli",
-    "başsa",
-    "edece",
-    "itira",
-    "kalp",
-    "kozin",
-    "krizi",
-    "nun",
-    "rapor",
-    "tıp",
-    "ölümü"
-   ],
-   "at": "2026-11-05T04:32:03.954124+00:00"
-  },
-  {
-   "fp": [
     "beled",
     "davas",
     "gün",
@@ -7451,22 +7435,57 @@
     "şirke"
    ],
    "at": "2026-11-06T16:28:33.368737+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "72",
+    "arttı",
+    "borsa",
+    "hafta",
+    "tablo",
+    "yatır",
+    "yüzde"
+   ],
+   "tok": [
+    "appea",
+    "arası",
+    "arttı",
+    "avro",
+    "bazda",
+    "borsa",
+    "bıst",
+    "değer",
+    "diken",
+    "emekl",
+    "endek",
+    "first",
+    "fonla",
+    "göre",
+    "hafta",
+    "hisse",
+    "içind",
+    "kapat",
+    "kazan",
+    "linka",
+    "liray",
+    "post",
+    "puana",
+    "puand",
+    "sened",
+    "site",
+    "tablo",
+    "the",
+    "yatır",
+    "yükse",
+    "yüzde",
+    "çıktı",
+    "öncek"
+   ],
+   "at": "2026-11-06T16:41:18.448516+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "abfae38934",
-   "post_id": "529346797199852_1454842716755436",
-   "title": "MasterChef'te kim elendi? 1 Kasım 2026 MasterChef'te kim elendi, kim kazandı? MasterChef'e veda eden isim...",
-   "at": "2026-11-01T21:39:10.314803+00:00",
-   "yazim": "claude",
-   "metin": "MasterChef Türkiye'de bu hafta veda eden isim Hasan Alp oldu.\n\nHaftanın son dokunulmazlık oyunundan sonra yarışmacılar, bir hafta daha kalmak için en iyi tabağını hazırladı. Günün sonunda elenen isim Hasan Alp oldu.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/magazin/masterchef-elenen-isim-1-kasim-masterchefte-kim-elendi-kim-veda-etti-masterchefte-kim-gitti-3487552",
-    "Habertürk: https://www.haberturk.com/bilgi/foto/masterchef-kim-elendi-kim-gitti-1-kasim-masterchef-turkiyeye-veda-eden-isim-aciklandi-mi-3924178",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-te-kim-elendi-1-kasim-2026-masterchef-te-kim-elendi-kim-kazandi-masterchef-e-veda-eden-isim-2552358"
-   ]
-  },
   {
    "id": "99ee29aa9b",
    "post_id": "529346797199852_1454897253416649",
@@ -10214,6 +10233,17 @@
     "Habertürk: https://www.haberturk.com/ekonomi/spk-alim-satima-kapatilan-yatirim-fonlarinin-acilma-kosullarini-acikladi-3925466",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/spk-dan-isleme-kapatilan-yatirim-fonlari-icin-aciklama-2553990"
    ]
+  },
+  {
+   "id": "661aa4b0bf",
+   "post_id": "529346797199852_1459659812940393",
+   "title": "Yatırımda haftalık tablo: Borsa yüzde 6,72 arttı",
+   "at": "2026-11-06T16:41:18.448516+00:00",
+   "yazim": "claude",
+   "metin": "Borsa bu hafta yüzde 6,72 yükseldi.\n\n— BIST 100 endeksi haftayı önceki haftaya göre 11.482,60 puandan kapattı. Hafta içinde 11.617,00 puana kadar çıktı.\n— Dolar yüzde 0,42, avro yüzde 0,37 değer kazandı. Dolar 50,1580 liraya, avro 55,9290 liraya yükseldi.\n— Yatırım fonları yüzde 0,84, emeklilik fonları yüzde 1,10 kazandı. Yatırım fonları arasında en çok kazandıran hisse senedi fonları oldu, yüzde 2,51 ile.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/yatirimda-haftalik-tablo-borsa-yuzde-672-artti/?utm_source=rss&utm_medium=rss&utm_campaign=yatirimda-haftalik-tablo-borsa-yuzde-672-artti"
+   ]
   }
  ],
  "fails": {
@@ -10319,7 +10349,7 @@
   "41540a0762": 1,
   "df507153b9": 2,
   "94b196a426": 1,
-  "d66a1de93f": 1
+  "d66a1de93f": 2
  },
  "fail_log": [
   "2026-11-06T16:08 Victor Osimhen ameliyat olacak! Galatasaray taraftarını kahr -> ValueError: yanıt okunamadı",
@@ -10328,6 +10358,9 @@
   "2026-11-06T16:28 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
   "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı",
   "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı"
+  "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı"
  ]
 }
