@@ -2,16 +2,6 @@
  "seen": [
   {
    "fp": [
-    "fon",
-    "sürec",
-    "tasfi",
-    "yapıl",
-    "ödeme"
-   ],
-   "at": "2026-11-05T00:16:44.727799+00:00"
-  },
-  {
-   "fp": [
     "1",
     "4",
     "afyon",
@@ -6131,21 +6121,62 @@
     "şirke"
    ],
    "at": "2026-11-06T11:57:29.448541+00:00"
+  },
+  {
+   "fp": [
+    "alt",
+    "bastı",
+    "diyar",
+    "döndü",
+    "geçit",
+    "göle",
+    "sağan",
+    "yolla"
+   ],
+   "tok": [
+    "alt",
+    "ardın",
+    "artır",
+    "bastı",
+    "bazı",
+    "cadde",
+    "diyar",
+    "döndü",
+    "döner",
+    "etkil",
+    "etkis",
+    "geçit",
+    "göle",
+    "ilerl",
+    "katta",
+    "kazal",
+    "kentt",
+    "kuvve",
+    "meteo",
+    "nin",
+    "nokta",
+    "olums",
+    "otomo",
+    "otopa",
+    "saatl",
+    "sağan",
+    "sokak",
+    "sürüc",
+    "trafi",
+    "uyarı",
+    "yağış",
+    "yaşam",
+    "yerle",
+    "yolla",
+    "zemin",
+    "zorla",
+    "çevir",
+    "öğle"
+   ],
+   "at": "2026-11-06T13:02:17.414191+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6a5604b754",
-   "post_id": "529346797199852_1454600983446276",
-   "title": "İspanya Superbike Şampiyonası: Milli motosikletçi Kadir Erbay ilk yarışta üçüncü oldu",
-   "at": "2026-11-01T15:45:07.247778+00:00",
-   "yazim": "claude",
-   "metin": "Milli motosikletçi Kadir Erbay, İspanya Superbike Şampiyonası'nın ilk yarışında üçüncü oldu.\n\nSezonun son ayağı Jerez de la Frontera'da yapıldı. Erbay, I+DENT takımıyla yarıştı. İkinci yarışı ise dördüncü bitirdi.\n\nSezon sonu genel klasman sıralaması henüz açıklanmadı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/milli-motosikletci-kadir-erbay-ispanya-superbike-sampiyonasinda-ilk-yarista-3-oldu/4108080",
-    "Diken: https://www.diken.com.tr/ispanya-superbike-sampiyonasi-milli-motosikletci-kadir-erbay-ilk-yarista-ucuncu-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=ispanya-superbike-sampiyonasi-milli-motosikletci-kadir-erbay-ilk-yarista-ucuncu-oldu"
-   ]
-  },
   {
    "id": "8098b6ca1c",
    "post_id": "529346797199852_1454627610110280",
@@ -8899,6 +8930,20 @@
    "metin": "TMMOB Adana İKK, Yüreğir Belediyesi'nin bir iş birliği protokolünü iptal etmesine tepki gösterdi.\n\nBelediye, 2024'te 8 meslek odasıyla imzaladığı teknik iş birliği protokolünü iptal etti. TMMOB'ye göre bu adım, yapı güvenliği ve kamu yararı açısından önemli bir mekanizmayı ortadan kaldırıyor.",
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6008280/tmmobden-yuregir-belediyesine-protokol-tepkisi-kamu-yarari-siyasi-tercihlere-kurban-edilemez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "99f1e7b24f",
+   "post_id": "529346797199852_1459454469627594",
+   "title": "Diyarbakır'da sağanak etkisi: Yollar göle döndü, alt geçitleri su bastı",
+   "at": "2026-11-06T13:02:17.414191+00:00",
+   "yazim": "claude",
+   "metin": "Diyarbakır'da öğle saatlerinde etkisini artıran sağanak, cadde ve sokakları göle çevirdi.\n\nBazı alt geçitleri, otoparkları ve zemin kattaki iş yerlerini su bastı. Sürücüler araçlarıyla ilerlemekte zorlandı, bazı noktalarda kazalar oldu.\n\nMeteoroloji'nin kuvvetli yağış uyarısının ardından yağış etkisini artırdı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/diyarbakirda-saganak-yollar-gole-dondu-alt-gecitleri-su-basti-3489942",
+    "Sözcü: https://www.sozcu.com.tr/diyarbakirda-saganak-alt-gecitleri-ve-is-yerlerini-su-basti-p376719",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-saganak-yollar-gole-dondu-alt-gecitleri-su-basti-2553916",
+    "BirGün: https://www.birgun.net/haber/diyarbakir-da-saganak-etkisi-yollar-gole-dondu-alt-gecitleri-su-basti-744985"
    ]
   }
  ],
