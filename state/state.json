@@ -7632,22 +7632,76 @@
     "ünive"
    ],
    "at": "2026-11-06T17:07:01.724194+00:00"
+  },
+  {
+   "fp": [
+    "2027",
+    "ags",
+    "başvu",
+    "meb",
+    "sınav",
+    "takvi",
+    "yapıl",
+    "zaman",
+    "ösym"
+   ],
+   "tok": [
+    "adayl",
+    "ags",
+    "ais",
+    "akade",
+    "alan",
+    "arası",
+    "başla",
+    "başvu",
+    "bekle",
+    "bilgi",
+    "duyur",
+    "etkil",
+    "gerçe",
+    "giriş",
+    "göre",
+    "günde",
+    "günü",
+    "hafta",
+    "hangi",
+    "hazir",
+    "hazır",
+    "ise",
+    "kasım",
+    "katıl",
+    "mart",
+    "mayıs",
+    "meb",
+    "nin",
+    "pazar",
+    "peki",
+    "planı",
+    "saati",
+    "sonu",
+    "sonuç",
+    "sınav",
+    "takvi",
+    "tarih",
+    "testi",
+    "uygul",
+    "var",
+    "yapıl",
+    "yıla",
+    "yılın",
+    "zaman",
+    "çekil",
+    "öabt",
+    "öncek",
+    "öne",
+    "ösym",
+    "öğret",
+    "üzeri"
+   ],
+   "at": "2026-11-06T17:19:49.903181+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0dd2c574c8",
-   "post_id": "529346797199852_1455020603404314",
-   "title": "Cumhurbaşkanlığına Cevdet Yılmaz vekalet edecek",
-   "at": "2026-11-02T02:53:02.172911+00:00",
-   "yazim": "claude",
-   "metin": "Cumhurbaşkanlığına 2-4 Kasım'da Cevdet Yılmaz vekalet edecek.\n\n— Erdoğan bu tarihlerde Güney Kore ziyaretine gidiyor.\n— Konuya ilişkin karar Resmi Gazete'de yayımlandı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/resmi-gazetede-yayimlandi-cumhurbaskanligina-cevdet-yilmaz-vekalet-edecek-43362848",
-    "Habertürk: https://www.haberturk.com/gundem/cumhurbaskani-yardimcisi-yilmaz-cumhurbaskani-erdogan-a-vekalet-edecek-3924190",
-    "BirGün: https://www.birgun.net/haber/cumhurbaskanligina-cevdet-yilmaz-vekalet-edecek-743913"
-   ]
-  },
   {
    "id": "29ebcf492b",
    "post_id": "529346797199852_1455117063394668",
@@ -10387,6 +10441,19 @@
    "sources": [
     "Karar: https://www.karar.com/insan-haberleri/57-yasinda-universite-siralarina-dondu-o-diplomayi-84-yasindaki-anneme-2082762"
    ]
+  },
+  {
+   "id": "aaa2777533",
+   "post_id": "529346797199852_1459698072936567",
+   "title": "MEB AGS ÖABT 2027: AGS Ne Zaman? İşte 2027 MEB AGS ÖABT Başvuru ve Sınav Tarihi",
+   "at": "2026-11-06T17:19:49.903181+00:00",
+   "yazim": "claude",
+   "metin": "2027 MEB-AGS 8 Mayıs'ta yapılacak.\n\n— ÖABT ise 9 Mayıs Pazar günü uygulanacak. Sınav saati 10:15.\n— Başvurular 19-29 Mart 2027 tarihleri arasında ÖSYM AİS üzerinden yapılacak.\n— Sonuçlar 11 Haziran 2027'de açıklanacak.\n— Tarihler bir önceki yıla göre öne çekildi, hazırlık planını etkileyebilir.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/hafta-sonu-sinav-var-mi-7-8-kasimda-hangi-sinavlar-yapilacak-osym-sinav-takvimi-gundemde-3490052",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/egitim/2027-meb-ags-ne-zaman-yapilacak-osym-2027-akademi-giris-sinavi-ve-basvuru-takvimi-2554002",
+    "BirGün: https://www.birgun.net/haber/meb-ags-oabt-2027-ags-ne-zaman-iste-2027-meb-ags-oabt-basvuru-ve-sinav-tarihi-745005"
+   ]
   }
  ],
  "fails": {
@@ -10491,7 +10558,8 @@
   "62e981073f": 1,
   "41540a0762": 1,
   "df507153b9": 2,
-  "94b196a426": 1
+  "94b196a426": 1,
+  "20e7cbfe7b": 1
  },
  "fail_log": [
   "2026-11-06T16:08 Victor Osimhen ameliyat olacak! Galatasaray taraftarını kahr -> ValueError: yanıt okunamadı",
@@ -10512,6 +10580,9 @@
   "2026-11-06T16:54 Yeni Parti'den Bakan Ersoy'a Diyarbakır tepkisi: Surlara iki -> ValueError: yanıt okunamadı",
   "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
   "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı"
+  "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı"
  ]
 }
