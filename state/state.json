@@ -7412,24 +7412,48 @@
     "şoku"
    ],
    "at": "2026-11-06T16:07:58.781386+00:00"
+  },
+  {
+   "fp": [
+    "dan",
+    "fonla",
+    "kapal",
+    "spk",
+    "yatır"
+   ],
+   "tok": [
+    "alım",
+    "açıla",
+    "açılm",
+    "banka",
+    "başvu",
+    "dan",
+    "dışı",
+    "fonla",
+    "gerek",
+    "ileti",
+    "ilişk",
+    "işlem",
+    "kanal",
+    "kapal",
+    "kapat",
+    "kurul",
+    "piyas",
+    "portf",
+    "satım",
+    "serma",
+    "spk",
+    "tefas",
+    "yatır",
+    "yenid",
+    "yönet",
+    "ziraa",
+    "şirke"
+   ],
+   "at": "2026-11-06T16:28:33.368737+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b2ee42fae4",
-   "post_id": "529346797199852_1454793786760329",
-   "title": "Adıyaman-Gaziantep yolunda yolcu minibüsü kaza yaptı: 5'i ağır 12 yaralı",
-   "at": "2026-11-01T20:18:28.567995+00:00",
-   "yazim": "claude",
-   "metin": "Gaziantep'in Araban ilçesinde yolcu minibüsü devrildi, 12 kişi yaralandı.\n\n— İlk belirlemelere göre 5'i ağır durumda.\n— Kaza saat 21.00 sıralarında Karadağ geçidi yakınında oldu.\n— Gaziantep-Adıyaman seferi yapan minibüs kontrolden çıkıp şarampole devrildi.\n— Sürücünün kimliği henüz öğrenilemedi, soruşturma sürüyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/gaziantepte-feci-kaza-yolcu-tasiyan-minibus-devrildi-12-yarali-7692228",
-    "Habertürk: https://www.haberturk.com/gundem/gaziantep-te-yolcu-minibusu-kaza-yapti-15-yarali-3924174",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gaziantep-te-minibus-devrildi-5-i-agir-12-yarali-2552306",
-    "BirGün: https://www.birgun.net/haber/adiyaman-gaziantep-yolunda-yolcu-minibusu-kaza-yapti-5-i-agir-12-yarali-743895",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/gaziantepte-feci-kaza-yolcu-tasiyan-minibus-devrildi-12-yarali-7692228"
-   ]
-  },
   {
    "id": "abfae38934",
    "post_id": "529346797199852_1454842716755436",
@@ -10177,6 +10201,19 @@
     "Diken: https://www.diken.com.tr/osimhen-sakatlandi-ameliyat-olacak/?utm_source=rss&utm_medium=rss&utm_campaign=osimhen-sakatlandi-ameliyat-olacak",
     "Sözcü Spor: https://www.sozcu.com.tr/victor-osimhen-ameliyat-olacak-galatasaray-taraftarini-kahreden-haber-p376755"
    ]
+  },
+  {
+   "id": "8999892831",
+   "post_id": "529346797199852_1459647772941597",
+   "title": "SPK'dan işleme kapatılan yatırım fonları için açıklama",
+   "at": "2026-11-06T16:28:33.368737+00:00",
+   "yazim": "yedek",
+   "metin": "SPK'dan işleme kapatılan yatırım fonları için açıklama.\n\nSermaye Piyasası Kurulu, TEFAS ve TEFAS dışı kanallarda alım satıma kapatılan yatırım fonlarının yeniden işleme açılmasına ilişkin açıklama yaptı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/finans-haberler/spkdan-kapali-yatirim-fonlarina-iliskin-aciklama-3490066",
+    "Habertürk: https://www.haberturk.com/ekonomi/spk-alim-satima-kapatilan-yatirim-fonlarinin-acilma-kosullarini-acikladi-3925466",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/spk-dan-isleme-kapatilan-yatirim-fonlari-icin-aciklama-2553990"
+   ]
   }
  ],
  "fails": {
@@ -10281,9 +10318,16 @@
   "62e981073f": 1,
   "41540a0762": 1,
   "df507153b9": 2,
-  "94b196a426": 1
+  "94b196a426": 1,
+  "d66a1de93f": 1
  },
  "fail_log": [
-  "2026-11-06T16:08 Victor Osimhen ameliyat olacak! Galatasaray taraftarını kahr -> ValueError: yanıt okunamadı"
+  "2026-11-06T16:08 Victor Osimhen ameliyat olacak! Galatasaray taraftarını kahr -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:28 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:28 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:28 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı",
+  "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı"
  ]
 }
