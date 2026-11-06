@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "53",
-    "brezi",
-    "kart",
-    "kırmı",
-    "maçta",
-    "çıktı"
-   ],
-   "at": "2026-11-04T21:49:12.822847+00:00"
-  },
-  {
-   "fp": [
     "10",
     "32",
     "bahis",
@@ -5123,21 +5112,61 @@
     "çamur"
    ],
    "at": "2026-11-06T09:36:55.359055+00:00"
+  },
+  {
+   "fp": [
+    "bıçak",
+    "ikinc",
+    "isted",
+    "içind",
+    "kadın",
+    "kanla",
+    "kez",
+    "saldı",
+    "yardı"
+   ],
+   "tok": [
+    "alınd",
+    "ambul",
+    "avcıl",
+    "belir",
+    "bilin",
+    "bıçak",
+    "erkek",
+    "evde",
+    "gelen",
+    "göre",
+    "halde",
+    "hasta",
+    "henüz",
+    "iddia",
+    "ikinc",
+    "isted",
+    "istem",
+    "istey",
+    "içind",
+    "kadın",
+    "kahve",
+    "kaldı",
+    "kanla",
+    "kanlı",
+    "kez",
+    "kıyaf",
+    "neden",
+    "peşin",
+    "sevgi",
+    "sokak",
+    "sokağ",
+    "tartı",
+    "yardı",
+    "yenid",
+    "çıkar",
+    "çıktı"
+   ],
+   "at": "2026-11-06T09:49:23.691869+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "141eef5ffd",
-   "post_id": "529346797199852_1454577450115296",
-   "title": "Başakşehir'den Samsunspor'a farklı tarife! Üst üste 8. mağlubiyet...",
-   "at": "2026-11-01T15:16:07.000607+00:00",
-   "yazim": "claude",
-   "metin": "Başakşehir, Samsunspor'u 5-2 yendi.\n\nSüper Lig'in 10. haftasında Fatih Terim Stadı'nda oynanan maçı ev sahibi ekip kazandı.\n\n— Samsunspor üst üste 8. maçını kaybetti. Puanı 4'te kaldı, 17. sırada.\n— Başakşehir 14 puana yükseldi ve 10. sıraya çıktı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/basaksehir-samsunsporu-sahasinda-maglup-etti/4108060",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/basaksehir-den-samsunspor-a-farkli-tarife-ust-uste-8-maglubiyet-2552256"
-   ]
-  },
   {
    "id": "d43cee1715",
    "post_id": "529346797199852_1454588030114238",
@@ -7892,6 +7921,19 @@
     "Evrensel: https://www.evrensel.net/haber/6008270/buyukcekmece-golunun-rengi-kahverengiye-dondu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/yagislarin-ardindan-buyukcekmece-golu-kahverengiye-dondu-744933",
     "Karar: https://www.karar.com/guncel-haberler/buyukcekmece-golunun-rengi-yagislarin-ardindan-kahverengiye-dondu-2082664"
+   ]
+  },
+  {
+   "id": "68335325ad",
+   "post_id": "529346797199852_1459288962977478",
+   "title": "Avcılar'da kadına bıçaklı saldırı: Yardım istemek için sokağa çıktı, yeniden bıçaklandı",
+   "at": "2026-11-06T09:49:23.691869+00:00",
+   "yazim": "claude",
+   "metin": "Avcılar'da bir erkek, evde tartıştığı sevgilisi olduğu belirtilen kadını bıçakladı. Yaralı kadın yardım istemek için sokağa çıktı, ama peşinden gelen erkek bu kez sokakta yeniden bıçakladı.\n\nİddiaya göre tartışmanın nedeni henüz bilinmiyor. Saldırgan kahvehanede kanlı kıyafetleriyle yakalanıp gözaltına alındı. Kadın ambulansla hastaneye kaldırıldı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/kadin-kanlar-icinde-yardim-istedi-saldirgan-ikinci-kez-bicakladi-7695604",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/avcilar-da-kadina-bicakli-saldiri-yardim-istemek-icin-sokaga-cikti-yeniden-bicaklandi-2553882",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/kadin-kanlar-icinde-yardim-istedi-saldirgan-ikinci-kez-bicakladi-7695604"
    ]
   }
  ],
