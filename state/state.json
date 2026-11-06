@@ -2,16 +2,6 @@
  "seen": [
   {
    "fp": [
-    "green",
-    "hisse",
-    "kazan",
-    "mason",
-    "maçı"
-   ],
-   "at": "2026-11-04T21:17:36.623400+00:00"
-  },
-  {
-   "fp": [
     "dünya",
     "düşüy",
     "gözle",
@@ -4999,21 +4989,127 @@
     "öldür"
    ],
    "at": "2026-11-06T09:16:55.341097+00:00"
+  },
+  {
+   "fp": [
+    "arda",
+    "güneş",
+    "ten",
+    "övgü"
+   ],
+   "tok": [
+    "ancak",
+    "arası",
+    "arda",
+    "büyük",
+    "direk",
+    "dünya",
+    "futbo",
+    "göste",
+    "güler",
+    "güneş",
+    "iyi",
+    "konus",
+    "milli",
+    "nin",
+    "ortay",
+    "oyunc",
+    "seviy",
+    "sorun",
+    "tekni",
+    "ten",
+    "vurgu",
+    "yaşad",
+    "yeten",
+    "yetiş",
+    "çıkar",
+    "öneml",
+    "övgü",
+    "şenol"
+   ],
+   "at": "2026-11-06T09:20:34.843784+00:00"
+  },
+  {
+   "fp": [
+    "dan",
+    "ronal",
+    "ınfan"
+   ],
+   "tok": [
+    "araya",
+    "bırak",
+    "crist",
+    "dan",
+    "fıfa",
+    "getir",
+    "giann",
+    "ifade",
+    "ilham",
+    "kariy",
+    "kulla",
+    "mesaj",
+    "milli",
+    "miras",
+    "nesil",
+    "nokta",
+    "porte",
+    "rekor",
+    "ronal",
+    "takım",
+    "taraf",
+    "veda",
+    "verdi",
+    "vurgu",
+    "yayım",
+    "yıldı",
+    "ötesi",
+    "ınfan"
+   ],
+   "at": "2026-11-06T09:20:42.307176+00:00"
+  },
+  {
+   "fp": [
+    "aym",
+    "bedel",
+    "hakkı",
+    "iptal",
+    "mülki",
+    "paylı",
+    "rayiç",
+    "önalı"
+   ],
+   "tok": [
+    "anaya",
+    "aykır",
+    "aym",
+    "bedel",
+    "belir",
+    "bular",
+    "buldu",
+    "den",
+    "düzen",
+    "girec",
+    "girme",
+    "hakim",
+    "hakkı",
+    "hâkim",
+    "iptal",
+    "kulla",
+    "kural",
+    "mülki",
+    "paylı",
+    "payın",
+    "rayiç",
+    "taşın",
+    "var",
+    "yürür",
+    "önalı",
+    "öngör"
+   ],
+   "at": "2026-11-06T09:20:46.268561+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bbfd3c890a",
-   "post_id": "529346797199852_1454549783451396",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 01 Kasım 2026",
-   "at": "2026-11-01T14:41:56.602318+00:00",
-   "yazim": "claude",
-   "metin": "Bu sayfada 1 Kasım 2026 tarihli son depremler yer alıyor.\n\n— Haberde hangi ilde, kaç büyüklüğünde deprem olduğuna dair bilgi yok.\n— İstanbul, Ankara ve İzmir dahil illere göre AFAD verileri sayfada listeleniyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-01-kasim-2026/4108015",
-    "NTV Son Dakika: https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-01-kasim-2026-1748829"
-   ]
-  },
   {
    "id": "1507d935dd",
    "post_id": "529346797199852_1454559523450422",
@@ -7767,6 +7863,18 @@
     "BirGün: https://www.birgun.net/haber/iski-paylasti-istanbul-da-barajlarin-doluluk-oraninda-son-durum-744892",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/iski-acikladi-iste-istanbulda-barajlarin-doluluk-oraninda-son-durum-7695558"
    ]
+  },
+  {
+   "id": "96dcc6c0c0",
+   "post_id": "529346797199852_1459269686312739",
+   "title": "AYM'den paylı mülkiyette önalım hakkı kararı: Rayiç bedel düzenlemesi iptal edildi",
+   "at": "2026-11-06T09:20:46.268561+00:00",
+   "yazim": "claude",
+   "metin": "Anayasa Mahkemesi, paylı mülkiyette önalım hakkında taşınmaz payının rayiç bedelini hâkimin belirlemesini öngören düzenlemeyi iptal etti.\n\n— Mahkeme bu kuralı Anayasa'ya aykırı buldu.\n— Kararın yürürlüğe girmesi için 9 ay var.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/aym-payli-mulkiyette-onalim-hakkindaki-rayic-bedel-kuralini-iptal-etti/4113741",
+    "BirGün: https://www.birgun.net/haber/aym-den-payli-mulkiyette-onalim-hakki-karari-rayic-bedel-duzenlemesi-iptal-edildi-744932"
+   ]
   }
  ],
  "fails": {
@@ -7856,8 +7964,6 @@
   "4be9ed6f85": 1,
   "7372bcc521": 2,
   "4be83af0ff": 1,
-  "627cf76521": 1,
-  "6640cd2a74": 2,
-  "0437429627": 2
+  "627cf76521": 1
  }
 }
