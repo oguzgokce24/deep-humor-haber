@@ -2,38 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "2",
-    "abd",
-    "aldı",
-    "alev",
-    "den",
-    "ele",
-    "geçer",
-    "geçir",
-    "hürmü",
-    "iha",
-    "iran",
-    "petro",
-    "römor",
-    "tanke"
-   ],
-   "at": "2026-11-05T07:59:37.921796+00:00"
-  },
-  {
-   "fp": [
-    "arata",
-    "karik",
-    "kemal",
-    "kimdi",
-    "yaşam",
-    "yitir",
-    "öldü"
-   ],
-   "at": "2026-11-05T07:59:46.654265+00:00"
-  },
-  {
-   "fp": [
     "bülte",
     "dalto",
     "gökha",
@@ -8117,22 +8085,62 @@
     "üstel"
    ],
    "at": "2026-11-06T19:58:22.955981+00:00"
+  },
+  {
+   "fp": [
+    "alarm",
+    "ardın",
+    "dağıt",
+    "halka",
+    "iran",
+    "iyot",
+    "kaldı",
+    "nükle",
+    "saldı",
+    "table",
+    "uyarı",
+    "zaman"
+   ],
+   "tok": [
+    "abd",
+    "alarm",
+    "ardın",
+    "başla",
+    "daki",
+    "dağı",
+    "dağıt",
+    "dikka",
+    "düzen",
+    "günde",
+    "halka",
+    "hazır",
+    "iddia",
+    "ila",
+    "iran",
+    "iyot",
+    "kaldı",
+    "kazma",
+    "kilom",
+    "korur",
+    "nin",
+    "nükle",
+    "sağlı",
+    "table",
+    "tahra",
+    "tesis",
+    "trump",
+    "uyarı",
+    "yakın",
+    "yaşay",
+    "yerin",
+    "yetki",
+    "zaman",
+    "çekic"
+   ],
+   "at": "2026-11-06T20:11:12.378061+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "33225b2bf1",
-   "post_id": "529346797199852_1455273176712390",
-   "title": "OpenAI CEO’su: Yapay zeka artık çoğu bilim insanından daha zeki",
-   "at": "2026-11-02T09:35:49.101709+00:00",
-   "yazim": "claude",
-   "metin": "OpenAI CEO'su Sam Altman:\n\n“Bu yılın başında yapay zeka en zeki bilim insanlarımız kadar akıllı değildi. Ancak şimdi çoğu (bilim insanından) daha zeki.”\n\nAltman, yapay zekanın beyaz yakalı işlerin büyük bölümünü yapabildiğini söyledi. Bu dönüşümün ekonomideki etkilerini de yöneteceklerini savundu.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/bilim-teknoloji/openai-ceosu-altman-yapay-zekanin-su-an-cogu-bilim-insanindan-zeki-oldugunu-savundu/4108442",
-    "Karar: https://www.karar.com/teknoloji-haberleri/openai-ceosu-yapay-zeka-artik-cogu-bilim-insanindan-daha-zeki-2081876",
-    "Diken: https://www.diken.com.tr/openai-ceosu-yapay-zeka-cogu-bilim-insanindan-daha-zeki/?utm_source=rss&utm_medium=rss&utm_campaign=openai-ceosu-yapay-zeka-cogu-bilim-insanindan-daha-zeki"
-   ]
-  },
   {
    "id": "61c22f3de9",
    "post_id": "529346797199852_1455297380043303",
@@ -10867,6 +10875,17 @@
     "BirGün: https://www.birgun.net/haber/bakan-fidan-dan-kibris-meselesine-cozum-cozumun-kibris-taki-iki-devletin-var-olmasindan-gectigine-inaniyoruz-745035",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-kibrista-en-gercekci-cozum-iki-devletlin-yan-yana-var-olmasi-7695974"
    ]
+  },
+  {
+   "id": "ecd3b4c760",
+   "post_id": "529346797199852_1459827639590277",
+   "title": "“Çok az zaman kaldı” uyarısının ardından İran’da nükleer saldırı alarmı: Halka iyot tabletleri dağıtılıyor",
+   "at": "2026-11-06T20:11:12.378061+00:00",
+   "yazim": "yedek",
+   "metin": "“Çok az zaman kaldı” uyarısının ardından İran’da nükleer saldırı alarmı: Halka iyot tabletleri dağıtılıyor.\n\nABD’nin İran’daki Kazma Dağı nükleer tesisine saldırı düzenleyebileceği iddiaları gündemdeki yerini korurken, Tahran’da dikkat çekici bir hazırlık başladı.",
+   "sources": [
+    "Karar: https://www.karar.com/dunya-haberleri/cok-az-zaman-kaldi-uyarisinin-ardindan-iranda-nukleer-saldiri-alarmi-2082779"
+   ]
   }
  ],
  "fails": {
@@ -10979,15 +10998,10 @@
   "9de3f8d1f2": 1,
   "059e235a29": 1,
   "d4b6873cc3": 2,
-  "fd73af00b8": 1
+  "fd73af00b8": 1,
+  "90ee7ff142": 1
  },
  "fail_log": [
-  "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:02 Kemal Kılıçdaroğlu, Ekrem İmamoğlu'nu \"siyasi tutuklu\" olara -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:02 Kemal Kılıçdaroğlu, Ekrem İmamoğlu'nu \"siyasi tutuklu\" olara -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:02 Kemal Kılıçdaroğlu, Ekrem İmamoğlu'nu \"siyasi tutuklu\" olara -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11021,17 +11035,23 @@
   "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:11 İçişleri Bakanı Mustafa Çiftçi: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:11 İçişleri Bakanı Mustafa Çiftçi: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:11 İçişleri Bakanı Mustafa Çiftçi: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:11 “Çok az zaman kaldı” uyarısının ardından İran’da nükleer sal -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:11 “Çok az zaman kaldı” uyarısının ardından İran’da nükleer sal -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:11 “Çok az zaman kaldı” uyarısının ardından İran’da nükleer sal -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118792858173911462",
+   "since_id": "2118797654142378169",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118794861193179483",
+   "since_id": "2118796975307215095",
    "started": true
   }
  }
