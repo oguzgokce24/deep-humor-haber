@@ -7836,22 +7836,59 @@
     "şerid"
    ],
    "at": "2026-11-06T18:23:15.162850+00:00"
+  },
+  {
+   "fp": [
+    "boşal",
+    "freni",
+    "kamyo",
+    "ortal"
+   ],
+   "tok": [
+    "akşam",
+    "alanı",
+    "ambul",
+    "anı",
+    "atm",
+    "aşağı",
+    "başke",
+    "boşal",
+    "cadde",
+    "dikme",
+    "freni",
+    "güven",
+    "hafri",
+    "hasta",
+    "ilçes",
+    "kaldı",
+    "kamer",
+    "kamyo",
+    "karış",
+    "kontr",
+    "lere",
+    "minib",
+    "nde",
+    "nın",
+    "ortal",
+    "otomo",
+    "saatl",
+    "savaş",
+    "servi",
+    "sürüc",
+    "taksi",
+    "yansı",
+    "yaşan",
+    "yokuş",
+    "çanka",
+    "çarpt",
+    "çevir",
+    "çıkar",
+    "çıktı"
+   ],
+   "at": "2026-11-06T18:35:59.186104+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b51b6ae39f",
-   "post_id": "529346797199852_1455199053386469",
-   "title": "Rusya-Ukrayna hattında yeni gelişme: Kremlin'den görüşme sinyali",
-   "at": "2026-11-02T07:40:48.985370+00:00",
-   "yazim": "claude",
-   "metin": "Kremlin Dış Politika Danışmanı Yuriy Uşakov:\n\n“Putin, hiçbir zaman görüşmekten vazgeçmedi.”\n\nUşakov, Zelenskiy arayacak olursa Putin'in telefonu açacağını söyledi. Zelenskiy'nin Moskova'da görüşmek istediğini de hatırlatarak “Madem bu kadar görüşmek istiyor, buyursun gelsin” dedi.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/dunya/melania-trump-rusya-ile-ukrayna-arasindaki-bolgesel-ateskesin-sona-erdigini-duyurdu-3924235",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/rusya-ukrayna-hattinda-yeni-gelisme-kremlin-den-gorusme-sinyali-2552385",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/oleskide-ateskes-sona-erdi-43362842"
-   ]
-  },
   {
    "id": "4b8bd9e53b",
    "post_id": "529346797199852_1455207360052305",
@@ -10595,6 +10632,18 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/katil-israil-gazzede-15-yasindaki-cocugu-futbol-oynarken-oldurdu-962462.html",
     "BirGün: https://www.birgun.net/haber/israil-askerleri-cadir-kente-ates-acti-han-yunus-ta-15-yasinda-bir-cocuk-olduruldu-745013"
    ]
+  },
+  {
+   "id": "d4c84e66c7",
+   "post_id": "529346797199852_1459762366263471",
+   "title": "Başkentte freni boşalan kamyon ortalığı karıştırdı: 2 araca çarptı, 3 yaralı",
+   "at": "2026-11-06T18:35:59.186104+00:00",
+   "yazim": "claude",
+   "metin": "Çankaya'da freni boşalan hafriyat kamyonu yokuş aşağı kontrolden çıktı, 2 araca ve ATM'lere çarptı.\n\n— Akşam saatlerinde Dikmen Caddesi'nde yaşanan kazada 3 kişi yaralandı. Yaralılar ambulanslarla hastaneye kaldırıldı.\n— Kaza anı güvenlik kamerasına yansıdı.\n— Kamyon sürücüsü g",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/freni-bosalan-hafriyat-kamyonu-ortaligi-savas-alanina-cevirdi-p376767",
+    "Karar: https://www.karar.com/guncel-haberler/baskentte-freni-bosalan-kamyon-ortaligi-karistirdi-2-araca-carpti-3-2082770"
+   ]
   }
  ],
  "fails": {
@@ -10700,7 +10749,8 @@
   "41540a0762": 1,
   "df507153b9": 2,
   "94b196a426": 1,
-  "20e7cbfe7b": 1
+  "20e7cbfe7b": 1,
+  "ef2bbadb9f": 1
  },
  "fail_log": [
   "2026-11-06T16:08 Victor Osimhen ameliyat olacak! Galatasaray taraftarını kahr -> ValueError: yanıt okunamadı",
@@ -10733,7 +10783,10 @@
   "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
   "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: metin cümle ortasında bitiyor",
   "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: metin cümle ortasında bitiyor",
-  "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: yanıt okunamadı"
+  "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: yanıt okunamadı",
+  "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı",
+  "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı",
+  "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
@@ -10743,7 +10796,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118770072986829047",
+   "since_id": "2118772176564207834",
    "started": true
   }
  }
