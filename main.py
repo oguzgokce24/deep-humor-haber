@@ -124,6 +124,17 @@ def is_sport(text: str) -> bool:
     return sum(1 for w in SPOR if re.search(r"(?<![a-zçğıöşü])" + re.escape(w), t)) >= 1
 
 
+# Bir haberin YENİ GELİŞMESİNİ gösteren kelime gövdeleri (gözaltı -> tutuklandı -> tahliye gibi)
+GELISME = ["tutuk", "tahli", "serbe", "beraa", "istif", "öldü", "hayat", "yakal", "gözal", "itira", "yanıt",
+           "hapis", "cezas", "mahkû", "sevk", "ifade", "görev", "atand", "ihrac", "kabul", "redde", "onayl", "iptal"]
+
+
+def new_development(title: str, old_raw: set) -> bool:
+    """Yeni başlık, eski haberde olmayan bir gelişme içeriyorsa (ör. önce gözaltı, şimdi tutuklama) True."""
+    tt = vtokens(title)
+    return any(t.startswith(g) for t in tt for g in GELISME if not any(o.startswith(g) for o in old_raw))
+
+
 def interest_score(c) -> float:
     t = " " + " ".join(i.title.lower() for i in c.items[:6]) + " "
     lead = c.lead().title
@@ -165,9 +176,11 @@ def find_new(cfg, st):
     last_sport = sum(1 for p in last[-2:] if is_sport(p["title"] + " " + p.get("metin", "")))
     # Son 36 saatte paylaşılanların başlık + metinlerinden ayırt edici kelimeler (tekrar kontrolü için)
     now = datetime.now(timezone.utc)
-    recent_posts = [{t for t in vtokens(p["title"] + " " + p.get("metin", "")) if vstrong(t)}
-                    for p in st.get("posted", [])
-                    if now - datetime.fromisoformat(p["at"]) < timedelta(hours=36)]
+    recent_raw = []
+    for p in st.get("posted", []):
+        if now - datetime.fromisoformat(p["at"]) < timedelta(hours=36):
+            raw = vtokens(p["title"] + " " + p.get("metin", ""))
+            recent_raw.append(({t for t in raw if vstrong(t)}, raw))
     fresh = []
     def score(c):
         sc = interest_score(c)
@@ -181,13 +194,17 @@ def find_new(cfg, st):
         # Aynı konunun devamı (ör. aynı maçın ikinci haberi) son 3 paylaşımdan biriyle 2+ özel isim paylaşıyorsa atla
         lt = {t for t in vtokens(c.lead().title) if vstrong(t)}
         sport_now = is_sport(c.lead().title)
-        if any(len(lt & pt) >= 2 or (sport_now and lt & pt and is_sport(p["title"]))
+        if any((len(lt & pt) >= 2 or (sport_now and lt & pt and is_sport(p["title"])))
+               and not new_development(c.lead().title, vtokens(p["title"] + " " + p.get("metin", "")))
                for pt, p in zip(last_toks, last)):
             continue
         fp = c.fingerprint
         titles = [i.title for i in c.items]
-        if any(similarity(fp, set(s["fp"])) >= 0.5 or is_duplicate_title(titles, set(s.get("tok", [])))
-               for s in st["seen"]) or any(is_duplicate_title(titles, pt) for pt in recent_posts):
+        lead_t = c.lead().title
+        if any((similarity(fp, set(s["fp"])) >= 0.5 or is_duplicate_title(titles, set(s.get("tok", []))))
+               and not new_development(lead_t, set(s["fp"]) | set(s.get("tok", [])))
+               for s in st["seen"]) or any(is_duplicate_title(titles, pt) and not new_development(lead_t, raw)
+                                          for pt, raw in recent_raw):
             continue
         fresh.append(c)
     return fresh
@@ -233,6 +250,7 @@ def main():
             return
 
     sent = 0
+    tried = 0
     for c in find_new(cfg, st):
         if sent >= pub["max_per_run"]:
             break
@@ -246,6 +264,9 @@ def main():
         title = lead.title
         pid = hashlib.sha1(" ".join(sorted(c.fingerprint)).encode()).hexdigest()[:10]
         path = OUT / f"{pid}.jpg"
+        tried += 1
+        if tried > 3:
+            break
         w = writer.write(c, cfg.get("writer", {}).get("model", "claude-haiku-5-5"), log)
         if w is None:
             fails = st.setdefault("fails", {})

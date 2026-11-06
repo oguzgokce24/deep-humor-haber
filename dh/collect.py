@@ -118,7 +118,14 @@ def fetch_all(sources: list[dict], max_age_hours: float, log=print) -> list[Item
         try:
             r = requests.get(s["url"], headers={"User-Agent": UA}, timeout=20)
             r.raise_for_status()
-            got = parse_feed(r.content, s)
+            try:
+                got = parse_feed(r.content, s)
+            except ET.ParseError:
+                # Kaçışsız & ve kontrol karakterlerini düzeltip yeniden dene
+                txt = r.content.decode(r.encoding or "utf-8", errors="replace")
+                txt = re.sub(r"&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)", "&amp;", txt)
+                txt = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", txt)
+                got = parse_feed(txt.encode("utf-8"), s)
         except Exception as e:
             log(f"  ! {s['name']}: {e.__class__.__name__}: {str(e)[:80]}")
             continue

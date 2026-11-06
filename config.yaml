@@ -43,10 +43,26 @@ exclude:
   - muhtemel 11
   - canlı izle
   - şifresiz
+  # SEO / servis içerikleri (haber değil)
+  - kimdir
+  - nereli
+  - kaç yaşında
+  - burç
+  - nöbetçi eczane
+  - namaz vakti
+  - sayısal loto
+  - şans topu
+  - on numara
+  - süper loto
+  - fragman
+  - reyting
+  - yemek tarifi
+  - tarifi
+  - çekiliş sonuçları
 
 # Doğrulama kuralları
 verify:
-  min_groups: 3            # Haberi veren en az kaç FARKLI medya grubu olmalı
+  min_groups: 1            # 1 = tek kaynakta görülen haber de paylaşılır (bağımsız/kullanılabilir bir kaynakta olmalı). Çok kaynaklı haberler yine önce gelir
   require_anchor: false    # true: en az bir ajans/kamu/uluslararası kaynak şart. false: 3 farklı grup yeterli
   max_age_hours: 4         # Bu süreden eski haberler dikkate alınmaz
   similarity: 0.34         # Başlık benzerlik eşiği (0-1). Yükseltirsen daha katı eşleşir.
