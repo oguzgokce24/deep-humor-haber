@@ -2,46 +2,6 @@
  "seen": [
   {
    "fp": [
-    "dört",
-    "dünya",
-    "madal",
-    "milli",
-    "ndan",
-    "palet",
-    "takım",
-    "yüzme",
-    "şampi"
-   ],
-   "at": "2026-11-04T14:19:44.525735+00:00"
-  },
-  {
-   "fp": [
-    "eşini",
-    "ifşa",
-    "kadın",
-    "malte",
-    "polis",
-    "sessi",
-    "yardı"
-   ],
-   "at": "2026-11-04T14:19:54.203714+00:00"
-  },
-  {
-   "fp": [
-    "198",
-    "27",
-    "5",
-    "hacmi",
-    "işlem",
-    "kişi",
-    "liral",
-    "milya",
-    "tutuk"
-   ],
-   "at": "2026-11-04T14:20:18.057335+00:00"
-  },
-  {
-   "fp": [
     "bulun",
     "cesed",
     "deniz",
@@ -3108,21 +3068,121 @@
     "öğret"
    ],
    "at": "2026-11-06T01:54:33.731736+00:00"
+  },
+  {
+   "fp": [
+    "ege",
+    "kurma",
+    "kırık",
+    "sonba",
+    "tadı",
+    "tuzlu",
+    "zaman",
+    "zeyti",
+    "çizik"
+   ],
+   "tok": [
+    "ege",
+    "kurma",
+    "kırık",
+    "sonba",
+    "tadı",
+    "tuzlu",
+    "zaman",
+    "zeyti",
+    "çizik"
+   ],
+   "at": "2026-11-06T02:23:00.215648+00:00"
+  },
+  {
+   "fp": [
+    "alınm",
+    "ayrın",
+    "belge",
+    "dikka",
+    "fon",
+    "icaze",
+    "skand",
+    "çeken"
+   ],
+   "tok": [
+    "aktif",
+    "aldığ",
+    "alına",
+    "alınm",
+    "alırk",
+    "ayrın",
+    "belge",
+    "birgü",
+    "danış",
+    "dikka",
+    "diyan",
+    "doğru",
+    "elbet",
+    "etmek",
+    "fetva",
+    "finan",
+    "fon",
+    "fonun",
+    "icaze",
+    "ikna",
+    "ilkel",
+    "katıl",
+    "kurul",
+    "nın",
+    "ortay",
+    "portf",
+    "pusul",
+    "sadec",
+    "skand",
+    "tera",
+    "ulaşt",
+    "uygun",
+    "vakfı",
+    "yatır",
+    "çeken",
+    "çıktı",
+    "şeyin"
+   ],
+   "at": "2026-11-06T02:23:08.110453+00:00"
+  },
+  {
+   "fp": [
+    "144",
+    "cezae",
+    "cezas",
+    "dolul",
+    "oranı",
+    "yüzde"
+   ],
+   "tok": [
+    "artar",
+    "bin",
+    "cezae",
+    "cezas",
+    "dolu",
+    "dolul",
+    "ekim",
+    "günde",
+    "ise",
+    "itiba",
+    "kapas",
+    "kasım",
+    "nin",
+    "nüfus",
+    "oranı",
+    "topla",
+    "ulaşt",
+    "yani",
+    "yüzde",
+    "çalış",
+    "çıktı",
+    "üzeri"
+   ],
+   "at": "2026-11-06T02:23:15.709901+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e289e0ff70",
-   "post_id": "529346797199852_1454286016811106",
-   "title": "TBMM’de bu hafta neler görüşülecek?",
-   "at": "2026-11-01T08:47:58.456820+00:00",
-   "yazim": "claude",
-   "metin": "Meclis'te bu hafta Kızılay yasası ve bütçe görüşülecek.\n\n— Genel Kurul'da Türk Kızılay Kanun Teklifi'nin görüşmeleri sürecek.\n— Mekke Anlaşması'na ilişkin kanun teklifinin de gündeme gelmesi bekleniyor.\n— Plan ve Bütçe Komisyonu, Hazine ve Maliye Bakanlığı dahil beş bakanlığın 2027 bütçesini ele alacak.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/tbmmde-bu-hafta-butce-ve-kanun-teklifi-mesaisi-961865.html",
-    "BirGün: https://www.birgun.net/haber/tbmmde-bu-hafta-neler-gorusulecek-743821"
-   ]
-  },
   {
    "id": "a6d14a8a4e",
    "post_id": "529346797199852_1454297936809914",
@@ -5889,6 +5949,17 @@
     "Medyascope: https://medyascope.tv/2026/11/06/mekke-anlasmasi-tbmm-genel-kurulunda-kabul-edildi/",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/mekke-ortak-savunma-anlasmasi-tbmmde-kabul-edildi-7695231"
    ]
+  },
+  {
+   "id": "2267b2ea80",
+   "post_id": "529346797199852_1458995176340190",
+   "title": "Cezaevlerinde doluluk ‘cezası’: Doluluk oranı yüzde 144",
+   "at": "2026-11-06T02:23:15.709901+00:00",
+   "yazim": "claude",
+   "metin": "Cezaevlerindeki doluluk oranı yüzde 144'e çıktı.\n\n— 1 Ekim'de 434 bin 337 olan cezaevi nüfusu, 33 günde 3 bin 552 kişi artarak 4 Kasım'da 437 bin 889 oldu.\n— 402 cezaevinin toplam kapasitesi 304 bin 304 kişi.\n— Yani cezaevleri kapasitesinin üzerinde dolu çalışıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/cezaevlerinde-doluluk-cezasi-doluluk-orani-yuzde-144-744831"
+   ]
   }
  ],
  "fails": {
@@ -5956,8 +6027,6 @@
   "61b553e8ba": 2,
   "25b2de825d": 1,
   "173c999c4e": 1,
-  "7680f14988": 2,
-  "72839348e8": 2,
   "4040cd04ce": 2
  }
 }
