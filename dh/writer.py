@@ -75,8 +75,10 @@ BİÇİM:
 - Paragrafları boş satırla ayır. Madde satırları "— " ile başlar, aralarında boş satır olmaz.
 - Emoji, hashtag, site/kaynak adı, "son dakika" yazma.
 
-Yanıtı YALNIZCA şu JSON biçiminde ver:
-{"kategori": "TÜRKİYE" | "DÜNYA" | "EKONOMİ" | "SPOR", "metin": "..."}"""
+Yanıtı YALNIZCA şu biçimde ver (JSON KULLANMA):
+KATEGORİ: TÜRKİYE | DÜNYA | EKONOMİ | SPOR
+---
+(görsele yazılacak metin)"""
 
 
 def _article_text(url: str, limit: int = 3500) -> str:
@@ -146,21 +148,24 @@ def _repair(t: str) -> str:
 
 
 def _parse(raw: str) -> dict:
-    """Model yanıtını okur. Metin içinde satır atlaması olsa bile (geçersiz JSON) çalışır."""
-    m = re.search(r"\{.*\}", raw, re.S)
-    blob = m.group(0) if m else raw
-    try:
-        return json.loads(blob, strict=False)
-    except Exception:
-        pass
-    out = {}
-    for key in ("kategori", "metin"):
-        mm = re.search(r'"%s"\s*:\s*"(.*?)"\s*(,\s*"|\})' % key, blob, re.S)
-        if mm:
-            out[key] = mm.group(1).replace('\\n', "\n").replace('\\"', '"')
-    if not out.get("metin"):
-        raise ValueError("yanıt okunamadı")
-    return out
+    """Model yanıtını okur. Önce düz metin biçimi (KATEGORİ: ... / --- / metin), sonra JSON denenir."""
+    raw = raw.strip()
+    m = re.match(r"(?is)\s*KATEGOR[İI]\s*:\s*([^\n]+)\n\s*-{3,}\s*\n(.*)$", raw)
+    if m:
+        return {"kategori": m.group(1).strip(), "metin": m.group(2).strip()}
+    j = re.search(r"\{.*\}", raw, re.S)
+    if j:
+        try:
+            return json.loads(j.group(0), strict=False)
+        except Exception:
+            mm = re.search(r'"metin"\s*:\s*"(.*)"\s*\}\s*$', j.group(0), re.S)   # son alana kadar her şey
+            if mm:
+                kat = re.search(r'"kategori"\s*:\s*"([^"]*)"', j.group(0))
+                return {"kategori": kat.group(1) if kat else "",
+                        "metin": mm.group(1).replace('\\n', "\n").replace('\\"', '"')}
+    if raw and len(raw.split()) >= 12 and "{" not in raw:
+        return {"kategori": "", "metin": raw}
+    raise ValueError("yanıt okunamadı")
 
 
 def _check_text(text: str):
