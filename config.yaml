@@ -139,6 +139,8 @@ sources:
   - {name: "Diken",          url: "https://www.diken.com.tr/feed/",                  group: "diken", independent: true}
   - {name: "Serbestiyet",    url: "https://www.serbestiyet.com/feed/",               group: "serbestiyet", independent: true}
   # Son dakika / asayiş / magazin dahil tüm haberler
+  - {name: "Sözcü Spor",       url: "https://www.sozcu.com.tr/feeds-rss-category-spor", group: "sozcu"}
+  - {name: "NTV Spor",         url: "https://www.ntv.com.tr/spor.rss",               group: "dogus"}
   - {name: "Sözcü Son Dakika", url: "https://www.sozcu.com.tr/feeds-son-dakika",    group: "sozcu"}
   - {name: "NTV Son Dakika",   url: "https://www.ntv.com.tr/son-dakika.rss",        group: "dogus"}
   - {name: "Milliyet Son Dakika", url: "https://www.milliyet.com.tr/rss/rssnew/sondakikarss.xml", group: "demiroren", verify_only: true}

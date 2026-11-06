@@ -308,6 +308,10 @@ def main():
         log(f"Paylaşıldı: {title} -> {post_id}\nKaynaklar:\n{links}")
         sent += 1
 
+    if writer.LAST_ERRORS:
+        st["fail_log"] = (st.get("fail_log", []) + [f"{datetime.now(timezone.utc).isoformat()[:16]} {e}"
+                                                    for e in writer.LAST_ERRORS])[-40:]
+        writer.LAST_ERRORS.clear()
     if not sent:
         log("Yeni doğrulanmış haber yok.")
     if not dry:

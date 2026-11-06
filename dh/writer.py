@@ -109,20 +109,40 @@ def gather_sources(cluster, max_sources: int = 3) -> str:
     return "\n\n".join(parts)
 
 
-def _call_claude(source_text: str, model: str, key: str) -> dict:
+def _call_claude(source_text: str, model: str, key: str, feedback: str = "") -> dict:
+    user = f"Kaynak metinler:\n\n{source_text}"
+    if feedback:
+        user += f"\n\nÖNCEKİ YANITIN REDDEDİLDİ: {feedback}. Kurallara uyarak yeniden yaz."
     r = requests.post(API_URL, timeout=60, headers={
         "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
-        json={"model": model, "max_tokens": 700, "system": SYSTEM,
-              "messages": [{"role": "user", "content": f"Kaynak metinler:\n\n{source_text}"}]})
+        json={"model": model, "max_tokens": 900, "system": SYSTEM,
+              "messages": [{"role": "user", "content": user}]})
     js = r.json()
     if "error" in js:
-        raise RuntimeError(js["error"].get("message"))
+        raise RuntimeError("API: " + str(js["error"].get("message")))
     raw = "".join(b.get("text", "") for b in js.get("content", []))
     data = _parse(raw)
-    text = (data.get("metin") or "").strip()
+    text = _repair((data.get("metin") or "").strip())
     _check_text(text)
     cat = (data.get("kategori") or "").strip().upper()
     return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude"}
+
+
+def _repair(t: str) -> str:
+    """Küçük biçim hatalarını reddetmek yerine düzeltir."""
+    t = t.replace('\\n', "\n").strip()
+    # Eşleşmeyen kalın işaretleri: sondaki tek ** fazlalığını sil
+    if t.count("**") % 2:
+        i = t.rfind("**")
+        t = t[:i] + t[i + 2:]
+    # Açılmış ama kapanmamış tırnak: sona kapanış tırnağı ekle
+    if t.count("“") > t.count("”"):
+        t = t.rstrip() + "”"
+    elif t.count("”") > t.count("“"):
+        t = "“" + t if not t.startswith("**") else t.replace("”", "\"", t.count("”") - t.count("“"))
+    if t.count('"') % 2:
+        t = t.replace('"', "")
+    return t
 
 
 def _parse(raw: str) -> dict:
@@ -150,7 +170,7 @@ def _check_text(text: str):
         raise ValueError("metin boş")
     if len(t.split()) > 95:
         raise ValueError("metin çok uzun")
-    if len(re.sub(r"\*\*", "", t).split()) < 18:
+    if len(re.sub(r"\*\*", "", t).split()) < 12:
         raise ValueError("metin çok kısa, bağlam yok")
     if t.endswith(("...", "…")) or re.search(r"\w(\.\.\.|…)\s*$", t):
         raise ValueError("metin yarıda kesilmiş")
@@ -187,20 +207,35 @@ def fallback(cluster) -> dict:
     return {"text": text, "category": None, "mode": "yedek"}
 
 
+LAST_ERRORS: list[str] = []
+
+
 def write(cluster, model: str, log=print) -> dict | None:
-    """Anahtar varsa metni Claude yazar (2 deneme). Başarısız olursa None döner ve haber bu tur
-    PAYLAŞILMAZ (yarım/kalitesiz metin yerine beklemek tercih edilir). Anahtar yoksa yedek metin."""
+    """Anahtar varsa metni Claude yazar. Reddedilen yanıt, ret nedeniyle birlikte tekrar yazdırılır (3 deneme).
+    Yine olmazsa, temiz bir yedek metin kuralları geçiyorsa o kullanılır; geçmiyorsa haber bu tur atlanır."""
     key = os.environ.get("ANTHROPIC_API_KEY")
     if not key:
         log("  (ANTHROPIC_API_KEY yok; basit metin kullanılıyor)")
         return fallback(cluster)
     src = gather_sources(cluster)
-    for attempt in (1, 2):
+    feedback = ""
+    for attempt in (1, 2, 3):
         try:
-            return _call_claude(src, model, key)
+            return _call_claude(src, model, key, feedback)
         except Exception as e:
-            log(f"  ! Metin yazımı başarısız (deneme {attempt}: {e.__class__.__name__}: {str(e)[:80]})")
-    return None
+            feedback = str(e)[:160]
+            msg = f"{e.__class__.__name__}: {feedback}"
+            LAST_ERRORS.append(f"{cluster.lead().title[:60]} -> {msg}")
+            log(f"  ! Metin yazımı başarısız (deneme {attempt}: {msg[:100]})")
+            if feedback.startswith("API:"):
+                break   # API hatası (kredi, erişim): tekrar denemek boşuna
+    fb = fallback(cluster)
+    try:
+        _check_text(fb["text"])
+        log("  Yedek metin kullanıldı.")
+        return fb
+    except ValueError:
+        return None
 
 
 def plain(markup: str) -> str:
