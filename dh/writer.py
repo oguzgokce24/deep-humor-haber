@@ -70,8 +70,10 @@ DOĞRULUK (değişmez):
   "gözaltına alındı" gibi durumu olduğu gibi anlat.
 
 BİÇİM:
-- Toplam 25–65 kelime. Her madde ve her paragraf TAM bir cümle olmalı ve nokta ile bitmeli. Sınıra sığmıyorsa
-  cümleyi kesme, madde sayısını azalt ya da cümleyi kısalt. Tek cümlelik, bağlamsız metin YAZMA; okuyan neden önemli olduğunu anlamalı.
+- Toplam 30–120 kelime. Metnin TAMAMI Facebook açıklamasına yazılır; görsele ise baştan sığdığı kadar
+  satır konur. Bu yüzden İLK paragraf (kalın ana cümle ya da alıntı) tek başına okunduğunda olayı anlatmalı,
+  ayrıntılar ve arka plan alttaki maddelerde olmalı (önemliden aza doğru).
+- Her madde ve her paragraf TAM bir cümle olmalı ve nokta ile bitmeli. Hiçbir cümleyi yarıda bırakma. Tek cümlelik, bağlamsız metin YAZMA; okuyan neden önemli olduğunu anlamalı.
 - **kalın**: konuşanın adı, ana cümle ya da en kritik ifade. Rakamlar normal kalabilir.
 - Paragrafları boş satırla ayır. Madde satırları "— " ile başlar, aralarında boş satır olmaz.
 - Emoji, hashtag, site/kaynak adı, "son dakika" yazma.
@@ -84,7 +86,7 @@ Yanıtı YALNIZCA şu biçimde ver (JSON KULLANMA):
 KATEGORİ: TÜRKİYE | DÜNYA | EKONOMİ | SPOR
 KİŞİ: (haberin merkezindeki tanınmış kişinin tam adı; yoksa boş bırak)
 ---
-(görsele yazılacak metin)"""
+(metin)"""
 
 
 def _article_text(url: str, limit: int = 3500) -> str:
@@ -189,7 +191,7 @@ def _check_text(text: str):
     t = text.strip()
     if not t:
         raise ValueError("metin boş")
-    if len(t.split()) > 95:
+    if len(t.split()) > 150:
         raise ValueError("metin çok uzun")
     if len(re.sub(r"\*\*", "", t).split()) < 12:
         raise ValueError("metin çok kısa, bağlam yok")

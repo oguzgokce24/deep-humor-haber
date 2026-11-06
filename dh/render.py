@@ -306,6 +306,21 @@ def _layout_body(markup: str, maxw: int, max_h: int):
             return {"rows": rows, "fb": fb, "fr": fr, "lh": lh, "gap": gap, "sp": sp, "height": h}
 
 
+def fit_card_text(markup: str, maxw: int, max_h: int = 450, min_size: int = 34) -> str:
+    """Görsele sığacak kadar metin: okunur boyutta (min_size) sığmayan son satırlar/maddeler atılır.
+    İlk paragraf her zaman kalır. Tam metin açıklamada yer aldığı için hiçbir bilgi kaybolmaz."""
+    lines = markup.strip().split("\n")
+    while True:
+        L = _layout_body("\n".join(lines), maxw, max_h)
+        size = L["fb"].size
+        first_para_end = next((i for i, l in enumerate(lines) if not l.strip()), len(lines))
+        if (L["height"] <= max_h and size >= min_size) or len(lines) <= first_para_end:
+            return "\n".join(lines).strip()
+        lines = lines[:-1]
+        while lines and not lines[-1].strip():
+            lines = lines[:-1]
+
+
 def _draw_layout(d, L, x0, y0, fill):
     y = y0
     for row in L["rows"]:
@@ -333,8 +348,8 @@ def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label=
 
 
     # Metin düzeni: body (çok paragraflı, **kalın** işaretli) varsa o, yoksa başlık
-    markup = body if body else f"**{title.strip()}**"
-    layout = _layout_body(markup, TEXT_R - TEXT_X, max_h=600)
+    markup = fit_card_text(body, TEXT_R - TEXT_X, max_h=480) if body else f"**{title.strip()}**"
+    layout = _layout_body(markup, TEXT_R - TEXT_X, max_h=480)
     head_bottom = 1180
     head_top = head_bottom - layout["height"]
 
