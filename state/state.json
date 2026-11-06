@@ -8345,22 +8345,40 @@
     "özgür"
    ],
    "at": "2026-11-06T21:41:15.968025+00:00"
+  },
+  {
+   "fp": [
+    "112",
+    "bakan",
+    "durum",
+    "fon",
+    "soruş",
+    "tutuk",
+    "çiftç"
+   ],
+   "tok": [
+    "ana",
+    "bloka",
+    "dondu",
+    "durum",
+    "duyur",
+    "fon",
+    "gerçe",
+    "içişl",
+    "konul",
+    "mal",
+    "musta",
+    "sinin",
+    "topla",
+    "tüzel",
+    "varlı",
+    "çiftç",
+    "şahıs"
+   ],
+   "at": "2026-11-06T21:54:24.371720+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bc481e3330",
-   "post_id": "529346797199852_1455378096701898",
-   "title": "Okan Buruk'tan Stuttgart maçı öncesi konuştu: “Tam kadroyuz, formdayız”",
-   "at": "2026-11-02T11:59:15.789576+00:00",
-   "yazim": "claude",
-   "metin": "Galatasaray Teknik Direktörü Okan Buruk:\n\n“Ne benim ne de oyuncularım için bir bahane var.”\n\nStuttgart maçı öncesi konuşan Buruk, kazanarak Şampiyonlar Ligi’nde altı puana ulaşmak istediklerini söyledi.\n\nYönetimdeki istifalara da değinen Buruk, bunları bahane olarak görmediğini anlattı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/galatasaray-teknik-direktoru-okan-buruk-kara-bulutlari-dagittik/4108709",
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/galatasaray-teknik-direktoru-okan-buruk-iddiali-konustu-tam-kadroyuz-formdayiz-3487867",
-    "BirGün: https://www.birgun.net/haber/okan-buruk-tan-stuttgart-maci-oncesi-konustu-tam-kadroyuz-formdayiz-744071"
-   ]
-  },
   {
    "id": "1594a3b2ae",
    "post_id": "529346797199852_1455410086698699",
@@ -11086,6 +11104,18 @@
     "BirGün: https://www.birgun.net/haber/tutuklu-gazeteci-ariya-kent-mucadelesi-odulu-745020",
     "Muhbir (X): https://x.com/ajansmuhbir1923/status/2118817924307972283"
    ]
+  },
+  {
+   "id": "2f125a36a6",
+   "post_id": "529346797199852_1459884522917922",
+   "title": "Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 kişi tutuklandı, 111 kişinin mal varlıkları donduruldu",
+   "at": "2026-11-06T21:54:24.371720+00:00",
+   "yazim": "yedek",
+   "metin": "Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 kişi tutuklandı, 111 kişinin mal varlıkları donduruldu.\n\nİçişleri Bakanı Mustafa Çiftçi, fon soruşturmasında 433 şüpheliden 112’sinin tutuklandığını, 359 gerçek ve 111 tüzel kişinin mal varlıklarına blokaj konulduğunu açıkladı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-fon-sorusturmasinda-su-ana-kadar-toplamda-433-supheli-sahistan-112si-tutuklanmis-durumda/4114807",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasindan-son-durum-bakan-ciftci-duyurdu-112-kisi-tutuklandi-111-kisinin-mal-varliklari-donduruldu-2554050"
+   ]
   }
  ],
  "fails": {
@@ -11203,18 +11233,11 @@
   "95686bac75": 1,
   "9eb9112084": 2,
   "445fb6059f": 1,
-  "dd1876d6b8": 1
+  "dd1876d6b8": 1,
+  "376658fd81": 1,
+  "b2d652d457": 1
  },
  "fail_log": [
-  "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:11 İçişleri Bakanı Mustafa Çiftçi: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:11 İçişleri Bakanı Mustafa Çiftçi: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:11 İçişleri Bakanı Mustafa Çiftçi: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:11 “Çok az zaman kaldı” uyarısının ardından İran’da nükleer sal -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:11 “Çok az zaman kaldı” uyarısının ardından İran’da nükleer sal -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:11 “Çok az zaman kaldı” uyarısının ardından İran’da nükleer sal -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:37 İzmir Bornova’da bir kadın yolcunun Atatürk’e hakaret ettiği -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11245,17 +11268,26 @@
   "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118817547135197519",
+   "since_id": "2118822681042633078",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118817924307972283",
+   "since_id": "2118822678811304303",
    "started": true
   }
  }
