@@ -2,46 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ahmet",
-    "başka",
-    "holdi",
-    "kurul",
-    "nazif",
-    "uğurl",
-    "yolcu",
-    "yönet",
-    "zorlu"
-   ],
-   "at": "2026-11-04T13:17:33.588769+00:00"
-  },
-  {
-   "fp": [
-    "balcı",
-    "gazet",
-    "hapis",
-    "iddia",
-    "istem",
-    "musta",
-    "sevin",
-    "şaban"
-   ],
-   "at": "2026-11-04T13:17:44.009570+00:00"
-  },
-  {
-   "fp": [
-    "aslan",
-    "dem",
-    "eski",
-    "hayat",
-    "kaybe",
-    "nesri",
-    "parti",
-    "üyesi"
-   ],
-   "at": "2026-11-04T13:18:15.350618+00:00"
-  },
-  {
-   "fp": [
     "10",
     "14",
     "ağıre",
@@ -3031,22 +2991,56 @@
     "çıkan"
    ],
    "at": "2026-11-06T01:05:36.441601+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "2",
+    "devri",
+    "kişi",
+    "otomo",
+    "yaral",
+    "zongu",
+    "ölü",
+    "şaram"
+   ],
+   "tok": [
+    "başla",
+    "bulun",
+    "cesed",
+    "devle",
+    "devri",
+    "ereğl",
+    "gönde",
+    "hasta",
+    "ilgil",
+    "kaldı",
+    "kamyo",
+    "kara",
+    "kars",
+    "kazay",
+    "metre",
+    "mevki",
+    "olay",
+    "otomo",
+    "otops",
+    "saat",
+    "sürüc",
+    "sıral",
+    "yerin",
+    "yolun",
+    "yuvar",
+    "yükse",
+    "zongu",
+    "çarpt",
+    "çarpı",
+    "ören",
+    "şaram"
+   ],
+   "at": "2026-11-06T01:18:10.315112+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "80a288cee4",
-   "post_id": "529346797199852_1454243606815347",
-   "title": "Alperen Şengün 'triple-double'ı kıl payı kaçırdı: Rockets, Thunder'ı mağlup etti",
-   "at": "2026-11-01T07:47:02.061635+00:00",
-   "yazim": "claude",
-   "metin": "Alperen Şengün triple-double'ı kıl payı kaçırdı, Rockets Thunder'ı 119-98 yendi.\n\n— Şengün 16 sayı, 9 ribaunt, 9 asist ve 1 blokla oynadı.\n— Rockets bu sezonki 6. galibiyetini aldı. Thunder'da Shai Gilgeous-Alexander 26 sayı attı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-triple-doublea-yaklastigi-macta-thunderi-yendi/4107758",
-    "Habertürk: https://www.haberturk.com/spor/houston-rockets-evinde-oklahoma-city-thunder-i-devirdi-alperen-sengun-sov-yapti-3924065",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/alperen-sengun-triple-double-i-kil-payi-kacirdi-rockets-thunder-i-maglup-etti-2552146"
-   ]
-  },
   {
    "id": "abdb3468ed",
    "post_id": "529346797199852_1454276806812027",
@@ -5805,6 +5799,22 @@
    "sources": [
     "Habertürk: https://www.haberturk.com/gundem/kayseri-de-fabrika-yangini-3-isci-dumandan-etkilendi-3925287",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/boycelik-te-patlama-3-isci-dumandan-etkilendi-2553788"
+   ]
+  },
+  {
+   "id": "86bbf20e7f",
+   "post_id": "529346797199852_1458944739678567",
+   "title": "Zonguldak’ta otomobil şarampole devrildi: 1 kişi hayatını kaybetti, 2 kişi yaralandı",
+   "at": "2026-11-06T01:18:10.315112+00:00",
+   "yazim": "claude",
+   "metin": "Zonguldak'ta otomobil 150 metre yükseklikten şarampole yuvarlandı, sürücü hayatını kaybetti.\n\nKaza saat 22.30 sıralarında Ereğli-Zonguldak kara yolunun Ören mevkisinde oldu. Araçta bulunan iki kişi yaralanarak hastaneye kaldırıldı. Sürücünün cansız bedeni otopsi için devlet hastanesine gönderildi ve kazayla ilgili soruşturma başlatıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/zonguldak/eregli/zonguldakta-otomobil-sarampole-devrildi-1-olu-2-yarali-3489725",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/zonguldak/eregli/zonguldakta-otomobil-sarampole-devrildi-1-olu-2-yarali-3489723",
+    "Habertürk: https://www.haberturk.com/gundem/kars-ta-iki-arac-carpisti-1-olu-3-yarali-3925282",
+    "Sözcü: https://www.sozcu.com.tr/otomobil-150-metreden-yuvarlandi-1-olu-2-yarali-p376480",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/yuksekovada-otomobil-kamyona-carpti-iki-kisi-yaralandi-4870189",
+    "BirGün: https://www.birgun.net/haber/zonguldakta-otomobil-sarampole-devrildi-1-kisi-hayatini-kaybetti-2-kisi-yaralandi-744871"
    ]
   }
  ],
