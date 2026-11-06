@@ -7580,21 +7580,61 @@
     "öneml"
    ],
    "at": "2026-11-06T16:54:13.341690+00:00"
+  },
+  {
+   "fp": [
+    "57",
+    "84",
+    "annem",
+    "diplo",
+    "döndü",
+    "edece",
+    "hediy",
+    "sıral",
+    "yaşın",
+    "ünive"
+   ],
+   "tok": [
+    "annem",
+    "annes",
+    "ayşe",
+    "açık",
+    "bitir",
+    "bölüm",
+    "büyük",
+    "bırak",
+    "diplo",
+    "döndü",
+    "edece",
+    "eskiş",
+    "etmey",
+    "gezer",
+    "havac",
+    "hayal",
+    "hedef",
+    "hediy",
+    "hizme",
+    "kabin",
+    "kalan",
+    "kazan",
+    "lisey",
+    "mezun",
+    "pes",
+    "peşin",
+    "sivil",
+    "sıral",
+    "tekni",
+    "yarım",
+    "yaşay",
+    "yaşın",
+    "çocuk",
+    "öğren",
+    "ünive"
+   ],
+   "at": "2026-11-06T17:07:01.724194+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "79c67473f8",
-   "post_id": "529346797199852_1454907333415641",
-   "title": "Formula 1'de şampiyon Kimi Antonelli! İtalyan pilot tarihe geçti...",
-   "at": "2026-11-01T23:37:17.606488+00:00",
-   "yazim": "claude",
-   "metin": "Kimi Antonelli Formula 1'de dünya şampiyonu oldu.\n\n— Mercedes pilotu, Meksika Grand Prix'sinde üçüncü olarak şampiyonluğunu garantiledi.\n— 20 yaşındaki Antonelli, Sebastian Vettel'in 2010'daki rekorunu geride bırakarak tarihin en genç dünya şampiyonu oldu.\n— Bu sezon 19 yarışta 9 galibiyet ve 16 podyum aldı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/kimi-antonelli-2026-formula-1-dunya-sampiyonu-oldu/4108244",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/formula-1-de-sampiyon-kimi-antonelli-italyan-pilot-tarihe-gecti-2552364"
-   ]
-  },
   {
    "id": "0dd2c574c8",
    "post_id": "529346797199852_1455020603404314",
@@ -10336,6 +10376,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/yeni-partiden-bakan-ersoya-diyarbakir-tepkisi-surlara-iki-yildir-odenek-2082757"
    ]
+  },
+  {
+   "id": "fe4303e6e5",
+   "post_id": "529346797199852_1459680309605010",
+   "title": "57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşındaki anneme hediye edeceğim!\"",
+   "at": "2026-11-06T17:07:01.724194+00:00",
+   "yazim": "yedek",
+   "metin": "57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşındaki anneme hediye edeceğim!\".\n\nEskişehir'de yaşayan bir çocuk annesi Ayşe Gezer, yarım kalan çocukluk hayalinin peşini bırakmayarak 57 yaşında üniversite öğrencisi oldu.",
+   "sources": [
+    "Karar: https://www.karar.com/insan-haberleri/57-yasinda-universite-siralarina-dondu-o-diplomayi-84-yasindaki-anneme-2082762"
+   ]
   }
  ],
  "fails": {
@@ -10458,6 +10509,9 @@
   "2026-11-06T16:54 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
   "2026-11-06T16:54 Yeni Parti'den Bakan Ersoy'a Diyarbakır tepkisi: Surlara iki -> ValueError: yanıt okunamadı",
   "2026-11-06T16:54 Yeni Parti'den Bakan Ersoy'a Diyarbakır tepkisi: Surlara iki -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:54 Yeni Parti'den Bakan Ersoy'a Diyarbakır tepkisi: Surlara iki -> ValueError: yanıt okunamadı"
+  "2026-11-06T16:54 Yeni Parti'den Bakan Ersoy'a Diyarbakır tepkisi: Surlara iki -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı"
  ]
 }
