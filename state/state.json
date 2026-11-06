@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bebeğ",
-    "cezas",
-    "hemşi",
-    "uygul",
-    "şidde"
-   ],
-   "at": "2026-11-05T10:35:18.071355+00:00"
-  },
-  {
-   "fp": [
-    "açıkl",
-    "cumhu",
-    "dan",
-    "değil",
-    "dönüş",
-    "emine",
-    "erdoğ",
-    "güney",
-    "kore",
-    "mümkü",
-    "taviz",
-    "verme"
-   ],
-   "at": "2026-11-05T10:35:32.871229+00:00"
-  },
-  {
-   "fp": [
-    "alaca",
-    "burad",
-    "eylem",
-    "hakla",
-    "imbat",
-    "işçil",
-    "maden",
-    "tki",
-    "önünd"
-   ],
-   "at": "2026-11-05T10:36:13.844802+00:00"
-  },
-  {
-   "fp": [
-    "16",
-    "5",
-    "araca",
-    "mersi",
-    "minib",
-    "var",
-    "yaral",
-    "çarpt"
-   ],
-   "at": "2026-11-05T10:36:55.302889+00:00"
-  },
-  {
-   "fp": [
     "firar",
     "hüküm",
     "parma",
@@ -8405,22 +8351,77 @@
     "çıkın"
    ],
    "at": "2026-11-06T22:32:52.153697+00:00"
+  },
+  {
+   "fp": [
+    "100",
+    "alıcı",
+    "azalm",
+    "başla",
+    "berek",
+    "hasat",
+    "kilos",
+    "manis",
+    "yine",
+    "çıktı"
+   ],
+   "tok": [
+    "alıcı",
+    "arası",
+    "ayva",
+    "ayval",
+    "ayvas",
+    "azalm",
+    "başla",
+    "bekli",
+    "berek",
+    "edili",
+    "etkil",
+    "fiyat",
+    "görde",
+    "göste",
+    "hasad",
+    "hasat",
+    "hazır",
+    "hoş",
+    "ilgi",
+    "kalit",
+    "kilos",
+    "kokul",
+    "kompo",
+    "kışlı",
+    "manis",
+    "memnu",
+    "meşhu",
+    "olduk",
+    "olums",
+    "pazar",
+    "renkl",
+    "reçel",
+    "sarı",
+    "satıl",
+    "satış",
+    "sezon",
+    "söylü",
+    "taleb",
+    "tarla",
+    "tatlı",
+    "terci",
+    "tezga",
+    "topla",
+    "yapan",
+    "yapım",
+    "yine",
+    "yoğun",
+    "çıkma",
+    "çıktı",
+    "üreti",
+    "ürünü"
+   ],
+   "at": "2026-11-06T22:45:24.588442+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0e47046480",
-   "post_id": "529346797199852_1455510923355282",
-   "title": "TCMB rezervlerinde büyük erime: Düşüş serisi üç haftaya çıktı",
-   "at": "2026-11-02T14:42:33.322540+00:00",
-   "yazim": "claude",
-   "metin": "Merkez Bankası'nın toplam rezervleri üst üste üçüncü hafta geriledi.\n\nMatriks Haber'in hesabına göre rezervler 30 Ekim haftasında 158,1 milyar dolara indi. Bir hafta önce 162,2 milyar dolardı.\n\n— Yılın zirvesi 218,2 milyar dolardı, şu an o seviyenin 60,1 milyar dolar altındayız.\n— Resmi rezerv verileri 5 Kasım Perşembe günü açıklanacak.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-gerileme-3924352",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/tcmb-rezervlerinde-buyuk-erime-dusus-serisi-uc-haftaya-cikti-2552581",
-    "Karar: https://www.karar.com/ekonomi-haberleri/tcmb-rezervlerinde-dusus-serisi-suruyor-2081934"
-   ]
-  },
   {
    "id": "ba7883acf9",
    "post_id": "529346797199852_1455521386687569",
@@ -11137,6 +11138,17 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2118832813453750308"
    ]
+  },
+  {
+   "id": "28749f1ce4",
+   "post_id": "529346797199852_1459915636248144",
+   "title": "Manisa’da bereketli hasat başladı: Kilosu 100 TL’ye çıktı alıcısı yine de azalmadı!",
+   "at": "2026-11-06T22:45:24.588442+00:00",
+   "yazim": "claude",
+   "metin": "Manisa'da Gördes ayvasının hasadı başladı, kilosu 50-100 TL arasında satılıyor.\n\n— Sarı renkli ve hoş kokulu ayvalar ilçe pazarındaki tezgahlarda satışa çıktı.\n— Kışlık hazırlığı yapanlar yoğun ilgi gösteriyor, ayva reçel, komposto ve tatlı yapımında tercih ediliyor.\n— Üreticiler, ürünün kalitesinden ve fiyatlardan memnun olduklarını söylüyor.\n— Üreticiler bereketli bir satış sezonu geçirmeyi bekliyor.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/manisada-bereketli-hasat-basladi-kilosu-100-tlye-cikti-alicisi-yine-de-2082784"
+   ]
   }
  ],
  "fails": {
@@ -11305,7 +11317,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118832813453750308",
+   "since_id": "2118835684702032204",
    "started": true
   },
   "ajansmuhbir1923": {
