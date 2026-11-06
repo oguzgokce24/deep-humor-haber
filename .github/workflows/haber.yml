@@ -43,6 +43,7 @@ jobs:
           if [ "$PRIVATE" = "false" ]; then LIMIT=$((50*60)); echo "Açık depo: kesintisiz mod"; else LIMIT=0; echo "Gizli depo: tek tarama"; fi
           END=$((SECONDS+LIMIT))
           while :; do
+            git pull -q --rebase origin main || true   # kod güncellemeleri bir sonraki turda devreye girsin
             python main.py || true
             git add state/state.json
             if ! git diff --cached --quiet; then
