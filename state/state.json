@@ -2,46 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2028",
-    "başka",
-    "fox",
-    "ittif",
-    "peşin",
-    "seçme",
-    "tan",
-    "trump",
-    "uzakl",
-    "vance",
-    "yardı",
-    "önces"
-   ],
-   "at": "2026-11-05T07:45:58.894302+00:00"
-  },
-  {
-   "fp": [
-    "ara",
-    "etkis",
-    "küres",
-    "petro",
-    "piyas",
-    "seçim"
-   ],
-   "at": "2026-11-05T07:46:16.959326+00:00"
-  },
-  {
-   "fp": [
-    "ağaç",
-    "devri",
-    "kapan",
-    "sokak",
-    "teşvi",
-    "trafi",
-    "şişli"
-   ],
-   "at": "2026-11-05T07:46:30.140398+00:00"
-  },
-  {
-   "fp": [
     "1",
     "2",
     "abd",
@@ -8101,25 +8061,65 @@
     "özel"
    ],
    "at": "2026-11-06T19:45:48.052151+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "bakan",
+    "dan",
+    "devle",
+    "dışiş",
+    "fidan",
+    "gerçe",
+    "hakan",
+    "kktc",
+    "kıbrı",
+    "olmas",
+    "var",
+    "yan",
+    "yana",
+    "çözüm"
+   ],
+   "tok": [
+    "ada",
+    "başba",
+    "daki",
+    "dan",
+    "devle",
+    "dünya",
+    "dışiş",
+    "erhür",
+    "ertuğ",
+    "fidan",
+    "gerçe",
+    "geçti",
+    "görün",
+    "görüş",
+    "hakan",
+    "hesab",
+    "inanı",
+    "kktc",
+    "kuzey",
+    "kıbrı",
+    "medya",
+    "mesel",
+    "olmas",
+    "sosya",
+    "tahsi",
+    "taki",
+    "tufan",
+    "var",
+    "yan",
+    "yana",
+    "çağrı",
+    "çözüm",
+    "ünal",
+    "üstel"
+   ],
+   "at": "2026-11-06T19:58:22.955981+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6425a69c21",
-   "post_id": "529346797199852_1455262136713494",
-   "title": "15 Temmuz Şehitler Köprüsü'nde iki otomobil çarpıştı: Müdahale sürüyor",
-   "at": "2026-11-02T09:22:00.544668+00:00",
-   "yazim": "claude",
-   "metin": "15 Temmuz Şehitler Köprüsü'nün Anadolu Yakası girişinde kaza oldu.\n\nHaberlere göre karışan otomobil sayısı farklı: bir habere göre dört, diğerine göre iki araç.\n\nEkipler müdahale ediyor. Bölgede trafik yoğun.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/15-temmuz-sehitler-koprusu-girisinde-kaza-7692551",
-    "CNN Türk: https://www.cnnturk.com/turkiye/15-temmuz-sehitler-koprusu-girisinde-trafigi-kitleyen-kaza-3487782",
-    "NTV: https://www.ntv.com.tr/turkiye/galeri-15-temmuz-sehitler-koprusu-girisinde-kaza-1749020",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberler-istanbul-da-15-temmuz-sehitler-koprusu-girisinde-kaza-meydana-geldi-3924283",
-    "Karar: https://www.karar.com/guncel-haberler/15-temmuz-sehitler-koprusunde-iki-otomobil-carpisti-mudahale-suruyor-2081881",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/15-temmuz-sehitler-koprusu-girisinde-kaza-7692551"
-   ]
-  },
   {
    "id": "33225b2bf1",
    "post_id": "529346797199852_1455273176712390",
@@ -10852,6 +10852,21 @@
     "Evrensel: https://www.evrensel.net/haber/6008353/trump-danismani-stephen-miller-i-ozel-kalem-mudurlugune-getirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/trumptan-secim-yenilgisi-sonrasi-ilk-hamle-ozel-kalem-susie-wiles-gorevden-alindi-yerine-stephen-miller-getirildi-7695977"
    ]
+  },
+  {
+   "id": "3cf12ef7db",
+   "post_id": "529346797199852_1459819212924453",
+   "title": "Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs'taki iki devletin var olmasından geçtiğine inanıyoruz\"",
+   "at": "2026-11-06T19:58:22.955981+00:00",
+   "yazim": "yedek",
+   "metin": "Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs'taki iki devletin var olmasından geçtiğine inanıyoruz\".\n\nKuzey Kıbrıs Cumhurbaşkanı Tufan Erhürman, Başbakan Ünal Üstel ve Dışişleri Bakanı Tahsin Ertuğruloğlu ile görüşen Dışişleri Bakanı Hakan Fidan sosyal medya hesabından açıklama yaptı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-kibrista-en-gercekci-cozum-iki-devletlin-yan-yana-var-olmasi-7695974",
+    "CNN Türk: https://www.cnnturk.com/turkiye/bakan-fidandan-kktc-aciklamasi-cozum-iki-devlet-3490096",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/bakan-fidandan-dunyaya-kktc-cagrisi-adadaki-gercekleri-gorun-4870406",
+    "BirGün: https://www.birgun.net/haber/bakan-fidan-dan-kibris-meselesine-cozum-cozumun-kibris-taki-iki-devletin-var-olmasindan-gectigine-inaniyoruz-745035",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-kibrista-en-gercekci-cozum-iki-devletlin-yan-yana-var-olmasi-7695974"
+   ]
   }
  ],
  "fails": {
@@ -10967,9 +10982,6 @@
   "fd73af00b8": 1
  },
  "fail_log": [
-  "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11006,17 +11018,20 @@
   "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118789602333065433",
+   "since_id": "2118792858173911462",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118791613870973041",
+   "since_id": "2118794861193179483",
    "started": true
   }
  }
