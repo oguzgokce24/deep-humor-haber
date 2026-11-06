@@ -133,13 +133,11 @@ def _call_claude(source_text: str, model: str, key: str, feedback: str = "") -> 
         user += f"\n\nÖNCEKİ YANITIN REDDEDİLDİ: {feedback}. Kurallara uyarak yeniden yaz."
     r = requests.post(API_URL, timeout=60, headers={
         "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
-        json={"model": model, "max_tokens": 900, "system": SYSTEM,
+        json={"model": model, "max_tokens": 2500, "system": SYSTEM,
               "messages": [{"role": "user", "content": user}]})
     js = r.json()
     if "error" in js:
         raise RuntimeError("API: " + str(js["error"].get("message")))
-    if js.get("stop_reason") == "max_tokens":
-        raise ValueError("yanıt yarıda kesildi (uzunluk sınırı)")
     raw = "".join(b.get("text", "") for b in js.get("content", []))
     data = _parse(raw)
     text = _repair((data.get("metin") or "").strip())

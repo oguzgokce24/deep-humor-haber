@@ -289,6 +289,17 @@ def main():
             continue
         if img is None and w.get("person"):
             img, credit = wikimedia_photo(w["person"], log)
+        if img is None:
+            # Fotoğrafsız (düz yeşil) kart paylaşılmaz; haber sitelerine görsel düşerse sonraki turlarda tekrar denenir
+            fails = st.setdefault("fails", {})
+            fkey = hashlib.sha1(min(i.link for i in c.items).encode()).hexdigest()[:10]
+            fails[fkey] = fails.get(fkey, 0) + 1
+            if fails[fkey] >= 4:
+                st["seen"].append({"fp": sorted(c.fingerprint), "tok": sorted(story_tokens(c))[:80],
+                                   "at": datetime.now(timezone.utc).isoformat()})
+                fails.pop(fkey, None)
+            log("  Uygun fotoğraf yok; bu haber bu tur paylaşılmıyor.")
+            continue
         label = w["category"] or label_for(c)
         render_card(title, img, body=w["text"], label=label, brand=cfg["brand"], theme=cfg["theme"],
                     out_path=path, footer="FOTO: WIKIMEDIA COMMONS" if credit == "Wikimedia Commons" else "")
