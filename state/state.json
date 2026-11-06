@@ -3592,22 +3592,60 @@
     "şahıs"
    ],
    "at": "2026-11-06T05:06:02.395844+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "bolso",
+    "brezi",
+    "dan",
+    "kaçan",
+    "seçim"
+   ],
+   "tok": [
+    "abd",
+    "almad",
+    "ardın",
+    "ayrıl",
+    "bolso",
+    "brezi",
+    "daki",
+    "dan",
+    "devle",
+    "dışı",
+    "flavi",
+    "gitti",
+    "gizli",
+    "götür",
+    "hiçbi",
+    "hüküm",
+    "ilişk",
+    "itira",
+    "kaçan",
+    "kaçtı",
+    "mezar",
+    "nasıl",
+    "olmas",
+    "rağme",
+    "senat",
+    "seçim",
+    "sorul",
+    "soruy",
+    "sırrı",
+    "verdi",
+    "yanıt",
+    "yardı",
+    "yasağ",
+    "yenil",
+    "yurt",
+    "çarpı",
+    "çıkış",
+    "ülked"
+   ],
+   "at": "2026-11-06T05:09:35.179523+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "edf15121f0",
-   "post_id": "529346797199852_1454409846798723",
-   "title": "Fenerbahçe yönetiminden olağanüstü toplantı kararı: İstifa seçeneği de masada...",
-   "at": "2026-11-01T11:50:21.774349+00:00",
-   "yazim": "claude",
-   "metin": "Fenerbahçe yönetimi Göztepe yenilgisinin ardından bugün olağanüstü toplanıyor.\n\n— Sarı-lacivertliler sahasında Göztepe'ye 2-1 yenildi.\n— Aziz Yıldırım başkanlığındaki yönetim kurulu saat 14.00'te toplanacak.\n— Toplantıda istifa dahil radikal kararların çıkabileceği iddia ediliyor.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/son-dakika-fenerbahce-de-olaganustu-toplanti-karari-3924106",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/fenerbahce-yonetiminden-olaganustu-toplanti-karari-istifa-secenegi-de-masada-2552187",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/fenerbahcede-kritik-toplanti-aziz-yildirim-istifa-edecek-mi-43362423"
-   ]
-  },
   {
    "id": "e54fc5b7eb",
    "post_id": "529346797199852_1454420753464299",
@@ -6362,6 +6400,19 @@
    "sources": [
     "BirGün: https://www.birgun.net/makale/abden-kibris-uyarisi-iki-devletli-cozum-bm-kararlariyla-celisiyor-744873"
    ]
+  },
+  {
+   "id": "bead2fa986",
+   "post_id": "529346797199852_1459104522995922",
+   "title": "Brezilya'dan gizlice kaçan Bolsonaro'dan çarpıcı itiraf: 'Bu sırrı mezara götüreceğim'",
+   "at": "2026-11-06T05:09:35.179523+00:00",
+   "yazim": "claude",
+   "metin": "Senatör Flavio Bolsonaro:\n\n“Bu sırrı mezara götüreceğim.”\n\nSeçimi kaybeden Bolsonaro, yurt dışı çıkış yasağına rağmen ABD'ye gitti. Ülkeden nasıl ayrıldığı sorulunca bu yanıtı verdi. Hiçbir hükümetten yardım almadığını söyledi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/brezilyadaki-secim-yenilgisinin-ardindan-abdye-kacan-bolsonarodan-aciklama-962401.html",
+    "Habertürk: https://www.haberturk.com/dunya/brezilya-daki-secim-yenilgisinin-ardindan-bolsonaro-abd-ye-nasil-kacti-3925296",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/brezilya-dan-gizlice-kacan-bolsonaro-dan-carpici-itiraf-bu-sirri-mezara-goturecegim-2553811"
+   ]
   }
  ],
  "fails": {
@@ -6439,6 +6490,6 @@
   "52fc720758": 1,
   "d602ec016e": 2,
   "8f9025465c": 1,
-  "3ce7ee5f75": 1
+  "3ce7ee5f75": 2
  }
 }
