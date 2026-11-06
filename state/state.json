@@ -2,16 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "arnav",
-    "işçi",
-    "konte",
-    "yangı"
-   ],
-   "at": "2026-11-05T06:49:56.488330+00:00"
-  },
-  {
-   "fp": [
     "geçir",
     "kazas",
     "sinan",
@@ -7939,24 +7929,57 @@
     "ücret"
    ],
    "at": "2026-11-06T18:49:31.795375+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "bursa",
+    "işçi",
+    "otomo",
+    "servi",
+    "yaral",
+    "çarpı"
+   ],
+   "tok": [
+    "altın",
+    "alınd",
+    "ambul",
+    "anayo",
+    "bursa",
+    "devle",
+    "doman",
+    "geldi",
+    "gelen",
+    "giden",
+    "gündü",
+    "hasta",
+    "ilçes",
+    "inegö",
+    "istey",
+    "işçi",
+    "kaldı",
+    "kavşa",
+    "mahal",
+    "meyda",
+    "minib",
+    "nden",
+    "nın",
+    "otomo",
+    "saat",
+    "servi",
+    "sonuc",
+    "sıral",
+    "tedav",
+    "yolun",
+    "yönün",
+    "çarpt",
+    "çarpı",
+    "çıkma"
+   ],
+   "at": "2026-11-06T19:02:34.603134+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "98994085e4",
-   "post_id": "529346797199852_1455215246718183",
-   "title": "Fenerbahçe’nin yeni teknik direktörü: Sergio Conceiçao iddiası",
-   "at": "2026-11-02T08:07:37.225164+00:00",
-   "yazim": "claude",
-   "metin": "Fenerbahçe'de yeni hoca iddiası: Sergio Conceição öne çıktı.\n\n— HT Spor'un haberine göre kulüpte Portekizli çalıştırıcı konusunda anlaşma sağlandı.\n— Conceição'nun kısa süre içinde İstanbul'a gelmesi bekleniyor.\n— İsmail Kartal'ın ayrılmasının ardından takımın başında şu an Dirk Kuyt var.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/sergio-conceicao-kimdir-sergio-conceicao-fenerbahcenin-yeni-teknik-direktoru-mu-oluyor-jorge-jesus-referans-oldu-teknik-3487699",
-    "Evrensel: https://www.evrensel.net/haber/6007610/fenerbahce-nin-yeni-teknik-direktoru-sergio-conceicao-iddiasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/fenerbahcenin-yeni-teknik-direktoru-belli-oldu-iddiasi-743945",
-    "Karar: https://www.karar.com/spor-haberleri/fenerbahcenin-yeni-teknik-adami-belli-oldu-1-2081863",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/fenerbahcenin-yeni-teknik-direktoru-belli-oldu-jorge-jesus-aziz-yildirima-gencligimi-goruyorum-demisti-43362868"
-   ]
-  },
   {
    "id": "0d0b847ca2",
    "post_id": "529346797199852_1455237060049335",
@@ -10695,6 +10718,19 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/yeni-yilda-ehliyet-almak-luks-oluyor-ehliyet-fiyatlari-neden-50-bin-2082772"
    ]
+  },
+  {
+   "id": "12425bc47e",
+   "post_id": "529346797199852_1459784462927928",
+   "title": "Bursa’da işçi servisi otomobille çarpıştı: 9 kişi yaralandı",
+   "at": "2026-11-06T19:02:34.603134+00:00",
+   "yazim": "claude",
+   "metin": "Bursa'nın İnegöl ilçesinde bir otomobil ile işçi servisi minibüsü çarpıştı, 9 kişi yaralandı.\n\n— Kaza saat 19.00 sıralarında İnegöl-Domaniç yolunda, Gündüzlü Mahallesi kavşağında meydana geldi.\n— Gündüzlü Mahallesi'nden anayola çıkmak isteyen otomobil, Domaniç yönüne giden servis minibüsüne çarptı.\n— Yaralılar ambulanslarla İnegöl Devlet Hastanesi'ne kaldırılarak tedavi altına alındı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/bursada-isci-servisi-otomobille-carpisti-9-yarali-43368910",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bursa-da-isci-servisi-otomobille-carpisti-9-yarali-2554013",
+    "Evrensel: https://www.evrensel.net/haber/6008349/bursada-isci-servisi-otomobille-carpisti-9-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -10802,16 +10838,11 @@
   "94b196a426": 1,
   "20e7cbfe7b": 1,
   "ef2bbadb9f": 1,
-  "fcc5a5ac91": 1
+  "fcc5a5ac91": 1,
+  "87b71a0ca8": 1,
+  "9de3f8d1f2": 1
  },
  "fail_log": [
-  "2026-11-06T16:08 Victor Osimhen ameliyat olacak! Galatasaray taraftarını kahr -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:28 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:28 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:28 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:28 SPK'dan işleme kapatılan yatırım fonları için açıklama -> ValueError: yanıt okunamadı",
   "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
   "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
   "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
@@ -10844,17 +10875,24 @@
   "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:02 Kemal Kılıçdaroğlu, Ekrem İmamoğlu'nu \"siyasi tutuklu\" olara -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:02 Kemal Kılıçdaroğlu, Ekrem İmamoğlu'nu \"siyasi tutuklu\" olara -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:02 Kemal Kılıçdaroğlu, Ekrem İmamoğlu'nu \"siyasi tutuklu\" olara -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:02 Bursa’da işçi servisi otomobille çarpıştı: 9 kişi yaralandı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118774374249734573",
+   "since_id": "2118777870801862731",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118776223962738969",
+   "since_id": "2118779007797796963",
    "started": true
   }
  }
