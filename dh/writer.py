@@ -73,6 +73,10 @@ BİÇİM:
 - Toplam 30–120 kelime. Metnin TAMAMI Facebook açıklamasına yazılır; görsele ise baştan sığdığı kadar
   satır konur. Bu yüzden İLK paragraf (kalın ana cümle ya da alıntı) tek başına okunduğunda olayı anlatmalı,
   ayrıntılar ve arka plan alttaki maddelerde olmalı (önemliden aza doğru).
+- İLK CÜMLE kendi başına anlaşılmalı: olayın NE olduğunu ve varsa NEREDE (il/ilçe) olduğunu söyle.
+  Örnek: "Çanakkale'nin Çan ilçesinde TIR ile çarpışan otomobil alev aldı, araçtaki 2 kişi hayatını kaybetti."
+  Neyi kastettiği belli olmayan girişlerle BAŞLAMA: "Kazanın ardından", "Olayın ardından", "Açıklamanın ardından",
+  "Yaşanan olayda", "Söz konusu", "Bu gelişme" gibi. Okuyucu haberi ilk kez bu cümleden öğreniyor.
 - Her madde ve her paragraf TAM bir cümle olmalı ve nokta ile bitmeli. Hiçbir cümleyi yarıda bırakma. Tek cümlelik, bağlamsız metin YAZMA; okuyan neden önemli olduğunu anlamalı.
 - **kalın**: konuşanın adı, ana cümle ya da en kritik ifade. Rakamlar normal kalabilir.
 - Paragrafları boş satırla ayır. Madde satırları "— " ile başlar, aralarında boş satır olmaz.
@@ -201,6 +205,11 @@ def _check_text(text: str):
     if re.search(r"(teyit|doğrula|dogrula)\w*\s+(edilme|edilmiş değil|edilmedi|yapılma|değil)|sosyal medya paylaşımına dayan"
                  r"|bağımsız olarak (teyit|doğrula)|henüz (teyit|doğrula)", t, re.I):
         raise ValueError("metinde kaynak/teyit yorumu var; bu cümleyi tamamen çıkar, sadece olayı anlat")
+    first = re.sub(r"\*\*", "", t).strip().lower()
+    if re.match(r"(kazanın|olayın|açıklamanın|kararın|saldırının|yangının|gelişmenin|maçın|toplantının)\s+(ardından|sonrasında|sonra)"
+                r"|(yaşanan|söz konusu|bu)\s+(olay|kaza|gelişme)", first):
+        raise ValueError("ilk cümle neyi kastettiği belli olmayan bir girişle başlıyor; olayın ne olduğunu ve nerede "
+                         "olduğunu söyleyerek başla")
     if t.count("“") != t.count("”") or t.count('"') % 2 or t.count("**") % 2:
         raise ValueError("tırnak/kalın işaretleri eşleşmiyor")
     # HER satır (maddeler dahil) tam cümle olarak bitmeli. Model kelime sınırına sığmak için cümleyi
