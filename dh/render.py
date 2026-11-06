@@ -284,8 +284,8 @@ def _segments_md(line: str):
 def _layout_body(markup: str, maxw: int, max_h: int):
     paras = [p.strip("\n") for p in re.split(r"\n\s*\n", markup.strip()) if p.strip()]
     for size in range(42, 25, -2):
-        fb, fr = font("bold", size), font("medium", size)
-        lh, gap = int(size * 1.22), int(size * 0.75)
+        fb, fr = font("headline", size), font("bold", size)   # tüm metin kalın, vurgular daha da kalın
+        lh, gap = int(size * 1.2), int(size * 0.75)
         sp = fr.getlength(" ")
         rows, h = [], 0
         for pi, para in enumerate(paras):
@@ -330,6 +330,7 @@ def _draw_layout(d, L, x0, y0, fill):
         x = x0
         for w, b in row:
             f = L["fb"] if b else L["fr"]
+            d.text((x + 2, y + 2), w, font=f, fill=(0, 0, 0))     # hafif gölge: fotoğraf üstünde okunurluk
             d.text((x, y), w, font=f, fill=fill)
             x += f.getlength(w) + L["sp"]
         y += L["lh"]
