@@ -2,16 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ele",
-    "geçir",
-    "kaçak",
-    "kırşe",
-    "sigar"
-   ],
-   "at": "2026-11-04T14:46:25.863296+00:00"
-  },
-  {
-   "fp": [
     "etkil",
     "istan",
     "sağan"
@@ -3302,21 +3292,50 @@
     "özkan"
    ],
    "at": "2026-11-06T02:43:23.968242+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "ankar",
+    "bin",
+    "dışın",
+    "hekta",
+    "nın",
+    "orman",
+    "suyu",
+    "sınır",
+    "tehli",
+    "çıkar"
+   ],
+   "tok": [
+    "alan",
+    "başke",
+    "bin",
+    "böyle",
+    "bırak",
+    "dışın",
+    "havza",
+    "hekta",
+    "içme",
+    "kaldı",
+    "karşı",
+    "kayna",
+    "kurtb",
+    "kızıl",
+    "nın",
+    "orman",
+    "suyu",
+    "sınır",
+    "tehdi",
+    "tehli",
+    "yapıl",
+    "çıkar",
+    "öneml"
+   ],
+   "at": "2026-11-06T02:46:47.074930+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a6d14a8a4e",
-   "post_id": "529346797199852_1454297936809914",
-   "title": "Trump: İran’ın kalan nükleer tesislerini 10 dakika içinde vurabiliriz",
-   "at": "2026-11-01T09:04:43.872054+00:00",
-   "yazim": "claude",
-   "metin": "ABD Başkanı Donald Trump:\n\n“Halen ilgilenmemiz gereken, bir ya da iki tesis diyebilirim. Ancak bunu 10 dakika içinde yapabiliriz.”\n\nTrump, Mar-a-Lago'da gazetecilerin sorularını yanıtlarken İran'daki kalan nükleer tesislere yönelik bir planın olduğunu söyledi.\n\n— Müzakereler için ise İran'ın “pek güvenilir olmadığını” ve bir anlaşma yapıp sonra vazgeçtiğini savundu.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-iranin-kalan-nukleer-tesislerini-sadece-10-dakika-icinde-vurabileceklerini-savundu/4107838",
-    "Karar: https://www.karar.com/dunya-haberleri/trump-iranin-kalan-nukleer-tesislerini-10-dakika-icinde-vurabiliriz-2081736"
-   ]
-  },
   {
    "id": "fc7209ad7c",
    "post_id": "529346797199852_1454333983472976",
@@ -6081,6 +6100,17 @@
    "metin": "Cezaevlerindeki doluluk oranı yüzde 144'e çıktı.\n\n— 1 Ekim'de 434 bin 337 olan cezaevi nüfusu, 33 günde 3 bin 552 kişi artarak 4 Kasım'da 437 bin 889 oldu.\n— 402 cezaevinin toplam kapasitesi 304 bin 304 kişi.\n— Yani cezaevleri kapasitesinin üzerinde dolu çalışıyor.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/cezaevlerinde-doluluk-cezasi-doluluk-orani-yuzde-144-744831"
+   ]
+  },
+  {
+   "id": "3cdc898605",
+   "post_id": "529346797199852_1459010836338624",
+   "title": "3 bin hektar, orman sınırları dışına çıkarıldı: Ankara'nın suyu tehlikede",
+   "at": "2026-11-06T02:46:47.074930+00:00",
+   "yazim": "claude",
+   "metin": "Kızılcahamam'da 3 bin hektarlık alan orman sınırları dışına çıkarıldı.\n\nBu karar, Ankara'nın en önemli içme suyu kaynaklarından Kurtboğazı Havzası'nı yapılaşma tehdidiyle karşı karşıya bıraktı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/3-bin-hektar-orman-sinirlari-disina-cikarildi-ankara-nin-suyu-tehlikede-744817"
    ]
   }
  ],
