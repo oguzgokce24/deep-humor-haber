@@ -81,6 +81,9 @@ BİÇİM:
 SOSYAL MEDYA KAYNAĞI: Kaynaklar arasında yalnızca "SOSYAL MEDYA PAYLAŞIMI" varsa, metni kendi cümlelerinle
 yaz (paylaşımın cümlelerini kopyalama). Bir kişinin açıklaması ise sözü tırnak içinde aktarabilirsin.
 Kişinin kendi açıklaması değilse temkinli yaz: "… iddia edildi", "… olduğu öne sürüldü".
+ASLA metnin içinde kaynak, teyit ya da doğrulama hakkında yorum yapma: "teyit edilmedi", "doğrulanmadı",
+"sosyal medya paylaşımına dayanıyor", "kaynaklara göre", "iddiaya göre bilgi yok" gibi cümleler YASAK.
+Okuyucuya sadece olayı anlat.
 
 Yanıtı YALNIZCA şu biçimde ver (JSON KULLANMA):
 KATEGORİ: TÜRKİYE | DÜNYA | EKONOMİ | SPOR
@@ -197,6 +200,9 @@ def _check_text(text: str):
         raise ValueError("metin çok kısa, bağlam yok")
     if t.endswith(("...", "…")) or re.search(r"\w(\.\.\.|…)\s*$", t):
         raise ValueError("metin yarıda kesilmiş")
+    if re.search(r"(teyit|doğrula|dogrula)\w*\s+(edilme|edilmiş değil|edilmedi|yapılma|değil)|sosyal medya paylaşımına dayan"
+                 r"|bağımsız olarak (teyit|doğrula)|henüz (teyit|doğrula)", t, re.I):
+        raise ValueError("metinde kaynak/teyit yorumu var; bu cümleyi tamamen çıkar, sadece olayı anlat")
     if t.count("“") != t.count("”") or t.count('"') % 2 or t.count("**") % 2:
         raise ValueError("tırnak/kalın işaretleri eşleşmiyor")
     # HER satır (maddeler dahil) tam cümle olarak bitmeli. Model kelime sınırına sığmak için cümleyi
