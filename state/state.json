@@ -6718,22 +6718,47 @@
     "öneri"
    ],
    "at": "2026-11-06T14:28:50.594544+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "5",
+    "avrup",
+    "doğal",
+    "fiyat",
+    "gaz",
+    "yüzde"
+   ],
+   "tok": [
+    "avrup",
+    "azala",
+    "azalt",
+    "aşağı",
+    "bazda",
+    "bekle",
+    "daki",
+    "diplo",
+    "doğal",
+    "düştü",
+    "etkis",
+    "euroy",
+    "fiyat",
+    "gaz",
+    "gazın",
+    "geril",
+    "hafta",
+    "holla",
+    "megav",
+    "ortad",
+    "ttf",
+    "yolla",
+    "yüzde",
+    "çekti"
+   ],
+   "at": "2026-11-06T14:32:44.536630+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8098b6ca1c",
-   "post_id": "529346797199852_1454627610110280",
-   "title": "Aniden fenalaştı... 2 aylık bebek hayatını kaybetti: İnceleme başlatıldı",
-   "at": "2026-11-01T16:17:54.759368+00:00",
-   "yazim": "claude",
-   "metin": "Malatya'da annesinin emzirdiği sırada fenalaşan 2 aylık bebek hayatını kaybetti.\n\n— Olay Yeşilyurt'a bağlı İkizce Mahallesi'nde yaşandı.\n— Ailenin ihbarıyla adrese giden 112 ekipleri bebeğin öldüğünü belirledi.\n— Olayla ilgili inceleme sürüyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aniden-fenalasti-2-aylik-bebek-hayatini-kaybetti-inceleme-baslatildi-2552260",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/emzirilirken-fenalasan-iki-aylik-bebek-hayatini-kaybetti-4868903",
-    "Karar: https://www.karar.com/guncel-haberler/aniden-fenalasan-2-aylik-bebek-hayatini-kaybetti-2081793"
-   ]
-  },
   {
    "id": "a39b30f55b",
    "post_id": "529346797199852_1454714570101584",
@@ -9489,6 +9514,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-saganak-yollar-gole-dondu-alt-gecitleri-su-basti-2553916",
     "BirGün: https://www.birgun.net/haber/diyarbakir-da-saganak-etkisi-yollar-gole-dondu-alt-gecitleri-su-basti-744985"
    ]
+  },
+  {
+   "id": "b1b5c2fb5a",
+   "post_id": "529346797199852_1459543452952029",
+   "title": "Avrupa'da doğal gaz fiyatlarında Ortadoğu etkisi: Yüzde 15,5 gerileme",
+   "at": "2026-11-06T14:32:44.536630+00:00",
+   "yazim": "claude",
+   "metin": "Avrupa'da doğal gaz fiyatları haftalık bazda yüzde 15,5 düştü.\n\n— Ortadoğu'daki gerilimin diplomatik yollarla azalabileceği beklentisi fiyatları aşağı çekti.\n— Hollanda merkezli TTF'de doğal gazın megavatsaat fiyatı 87,87 euroya geriledi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-haftalik-bazda-yuzde-15-5-dustu/4114186",
+    "BirGün: https://www.birgun.net/haber/avrupa-da-dogal-gaz-fiyatlarinda-ortadogu-etkisi-yuzde-15-5-gerileme-744993"
+   ]
   }
  ],
  "fails": {
@@ -9592,7 +9629,7 @@
   "36b0917f0d": 2,
   "62e981073f": 1,
   "41540a0762": 1,
-  "9f64da986d": 1,
-  "0d3a212287": 1
+  "9f64da986d": 2,
+  "0d3a212287": 2
  }
 }
