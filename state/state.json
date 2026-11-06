@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "firar",
-    "hüküm",
-    "parma",
-    "polis",
-    "yakal",
-    "ısırd"
-   ],
-   "at": "2026-11-05T10:49:37.031787+00:00"
-  },
-  {
-   "fp": [
     "acil",
     "alarm",
     "asker",
@@ -8419,24 +8408,61 @@
     "ürünü"
    ],
    "at": "2026-11-06T22:45:24.588442+00:00"
+  },
+  {
+   "fp": [
+    "aktiv",
+    "ağır",
+    "baskı",
+    "ceza",
+    "dan",
+    "kırım",
+    "rusya",
+    "tatar",
+    "yağdı"
+   ],
+   "tok": [
+    "aktiv",
+    "annes",
+    "ağır",
+    "baskı",
+    "bağış",
+    "bin",
+    "ceza",
+    "cezal",
+    "cezas",
+    "dan",
+    "dayan",
+    "diana",
+    "hapis",
+    "havri",
+    "iddia",
+    "ise",
+    "kültü",
+    "kırım",
+    "miras",
+    "müdah",
+    "ndan",
+    "ordus",
+    "ruble",
+    "rus",
+    "rusya",
+    "sürüy",
+    "tatar",
+    "ukray",
+    "verdi",
+    "yakla",
+    "yaptı",
+    "yargı",
+    "yağdı",
+    "yönel",
+    "yıl",
+    "çocuk"
+   ],
+   "at": "2026-11-06T22:58:09.657164+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ba7883acf9",
-   "post_id": "529346797199852_1455521386687569",
-   "title": "Nissan X-Trail Kasım 2026 kampanyası açıklandı: 2 milyon TL sıfır faizli kredi",
-   "at": "2026-11-02T14:55:17.445171+00:00",
-   "yazim": "claude",
-   "metin": "Nissan X-Trail için Kasım kampanyası açıklandı.\n\nKampanyada 2 milyon TL'lik sıfır faizli kredi fırsatı var. Kredinden kimlerin yararlanabileceği de merak ediliyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-kasim-2026/4108828",
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-02-kasim-2026/4108825",
-    "Habertürk: https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-2-kasim-2026-haberleri-fon-sorusturmasinda-183-milyar-tllik-iade-dogum-izni-donusundeki-magduriyete-yargitay-dur-dedi-dem-partiden-kent-uzlasisi-aciklamasi/921931",
-    "BirGün: https://www.birgun.net/haber/nissan-x-trail-kasim-2026-kampanyasi-aciklandi-2-milyon-tl-sifir-faizli-kredi-744065",
-    "BirGün: https://www.birgun.net/haber/nissan-juke-kasim-2026-kampanyasi-aciklandi-fiyat-ve-sifir-faizli-kredi-firsati-744059"
-   ]
-  },
   {
    "id": "127f1f8ab4",
    "post_id": "529346797199852_1455550246684683",
@@ -11149,6 +11175,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/manisada-bereketli-hasat-basladi-kilosu-100-tlye-cikti-alicisi-yine-de-2082784"
    ]
+  },
+  {
+   "id": "50ee51c82b",
+   "post_id": "529346797199852_1459922632914111",
+   "title": "Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza yağdı",
+   "at": "2026-11-06T22:58:09.657164+00:00",
+   "yazim": "yedek",
+   "metin": "Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza yağdı.\n\nKırım'da, Kırım Tatarlarına yönelik gözaltılar, ağır hapis cezaları ve kültürel mirasa yönelik müdahaleler sürüyor.",
+   "sources": [
+    "Karar: https://www.karar.com/dunya-haberleri/kirim-tatarlarina-rusyadan-agir-baski-aktivistlere-ceza-yagdi-2082783"
+   ]
   }
  ],
  "fails": {
@@ -11273,9 +11310,6 @@
   "0dbc29f889": 1
  },
  "fail_log": [
-  "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11312,7 +11346,10 @@
   "2026-11-06T22:07 Efsaneleşen dizilerin yazarıydı… Senarist Güliz Kucur hayatı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
