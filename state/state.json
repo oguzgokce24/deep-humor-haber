@@ -2,22 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2026",
-    "5",
-    "akary",
-    "benzi",
-    "fiyat",
-    "günce",
-    "indir",
-    "kasım",
-    "lpg",
-    "motor",
-    "zam"
-   ],
-   "at": "2026-11-05T09:17:26.926624+00:00"
-  },
-  {
-   "fp": [
     "5",
     "aştı",
     "baraj",
@@ -8338,25 +8322,48 @@
     "yönet"
    ],
    "at": "2026-11-06T21:15:46.519084+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "atama",
+    "atand",
+    "gazet",
+    "rektö",
+    "resmi",
+    "ünive"
+   ],
+   "tok": [
+    "arala",
+    "atadı",
+    "atama",
+    "atand",
+    "bulun",
+    "dan",
+    "erciy",
+    "erdoğ",
+    "eskiş",
+    "gazet",
+    "getir",
+    "görev",
+    "imzas",
+    "isiml",
+    "kasım",
+    "konya",
+    "kurum",
+    "rektö",
+    "resmi",
+    "tarih",
+    "tekni",
+    "trabz",
+    "yayım",
+    "yükse",
+    "ünive"
+   ],
+   "at": "2026-11-06T21:28:35.665256+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "594ce08a87",
-   "post_id": "529346797199852_1455343990038642",
-   "title": "Eşini ve kızını tehdit edip evden kovdu: Yemek yaparken uyuyakalıp yangına neden oldu",
-   "at": "2026-11-02T11:16:17.478269+00:00",
-   "yazim": "claude",
-   "metin": "Samsun'da bir adam eşini ve kızını ölümle tehdit edip evden kovdu.\n\n— Sonra yemek pişirirken uyuyakalınca evde yangın çıktı.\n— Yangının ardından adam gözaltına alındı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/esini-ve-kizini-tehditle-kovdu-yemek-yaparken-evi-yakti-kacan-supheli-yakalandi-43363324",
-    "Milliyet: https://www.milliyet.com.tr/gundem/esini-ve-kizini-evden-kovdu-yemek-yaparken-uyuyakalinca-yangin-cikti-7692630",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/once-esini-ve-kizini-tehdit-edip-sokaga-atti-yemek-yaparken-uyuyakalinca-evi-yakti-4869097",
-    "Evrensel: https://www.evrensel.net/haber/6007654/esini-ve-kizini-tehdit-edip-evden-kovdu-yemek-yaparken-uyuyakalip-yangina-neden-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/esini-ve-kizini-evden-kovdu-yemek-yaparken-uyuyakalinca-yangin-cikti-7692630",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/esini-ve-kizini-tehditle-kovdu-yemek-yaparken-evi-yakti-kacan-supheli-yakalandi-43363324"
-   ]
-  },
   {
    "id": "6bd683470b",
    "post_id": "529346797199852_1455356430037398",
@@ -11077,6 +11084,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/disisleri-nden-dogu-akdeniz-aciklamasi-fransiz-gemisinin-arastirma-faaliyetine-izin-verilmedi-2554046",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-fransiz-gemisinin-dogu-akdenizdeki-arastirma-girisimine-iliskin-aciklama-43368934"
    ]
+  },
+  {
+   "id": "0758c0db42",
+   "post_id": "529346797199852_1459870889585952",
+   "title": "Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi Gazete’de",
+   "at": "2026-11-06T21:28:35.665256+00:00",
+   "yazim": "yedek",
+   "metin": "Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi Gazete’de.\n\nCumhurbaşkanı Erdoğan’ın imzasıyla 11 üniversiteye rektör atandı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-11-universiteye-rektor-atadi/4114801",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/11-universiteye-rektor-atamasi-962479.html",
+    "Milliyet: https://www.milliyet.com.tr/gundem/resmi-gazetede-yayimlandi-11-universiteye-yeni-rektor-atandi-7696005",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-11-universiteye-yeni-rektor-atamasi-3925530",
+    "Sözcü: https://www.sozcu.com.tr/resmi-gazete-atamalar-7-kasim-2026-p376803",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/hangi-universitelerin-rektorleri-degisti-atamalar-resmi-gazetede-duyuruldu-trabzon-universitesi-malatya-turgut-ozal-universitesi-ve-erciyes-universitesi-rektoru-kimdir-kac-yasinda-nereli-4870418"
+   ]
   }
  ],
  "fails": {
@@ -11197,9 +11220,6 @@
   "dd1876d6b8": 1
  },
  "fail_log": [
-  "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11236,12 +11256,15 @@
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118813535451161034",
+   "since_id": "2118817547135197519",
    "started": true
   },
   "ajansmuhbir1923": {
