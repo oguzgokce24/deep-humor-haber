@@ -8186,22 +8186,43 @@
     "şirke"
    ],
    "at": "2026-11-06T20:24:02.739384+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "ersoy",
+    "karta",
+    "nasıl",
+    "sorus",
+    "tan",
+    "uyuya",
+    "özçağ"
+   ],
+   "tok": [
+    "alan",
+    "bütçe",
+    "ersoy",
+    "görüş",
+    "hatır",
+    "karta",
+    "kültü",
+    "mille",
+    "nasıl",
+    "parti",
+    "sordu",
+    "sorus",
+    "suat",
+    "söz",
+    "tan",
+    "turiz",
+    "uyuya",
+    "yangı",
+    "özçağ"
+   ],
+   "at": "2026-11-06T20:37:19.867884+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "126ad1840e",
-   "post_id": "529346797199852_1455307893375585",
-   "title": "İstanbul'da ekim ayının zam ve indirim şampiyonları belli oldu!",
-   "at": "2026-11-02T10:24:04.607992+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da ekim ayında en çok zamlanan ürün salatalık oldu.\n\n— Salatalık bir önceki aya göre yüzde 50,71 pahalandı. Domates yüzde 36,98 artışla ikinci sırada.\n— En çok ucuzlayan ürün limon oldu, fiyatı yüzde 26,21 düştü.\n— İTO verilerine göre incelenen 336 üründen 231'inin fiyatı arttı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/ekonomi/istanbul-da-fiyati-en-cok-artan-urun-salatalik-en-cok-dusen-urun-limon-oldu-3924240",
-    "Sözcü: https://www.sozcu.com.tr/istanbul-da-ekim-ayinin-zam-ve-indirim-sampiyonlari-belli-oldu-p375161",
-    "BirGün: https://www.birgun.net/haber/ekim-ayinin-zam-sampiyonu-belli-oldu-743944"
-   ]
-  },
   {
    "id": "7043ed5332",
    "post_id": "529346797199852_1455316590041382",
@@ -10932,6 +10953,17 @@
     "Karar: https://www.karar.com/ekonomi-haberleri/eski-spk-baskani-karadagdan-fon-skandalinda-patronlar-cikisi-30-2082755",
     "Serbestiyet: https://serbestiyet.com/haberler/eski-borsa-istanbul-baskani-karadag-fon-krizinde-patronlar-yonetim-kurullari-ve-manipule-edilen-30-sirket-sorusturulmali-253021/"
    ]
+  },
+  {
+   "id": "92e19f80d7",
+   "post_id": "529346797199852_1459842069588834",
+   "title": "Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabiliyorsunuz?",
+   "at": "2026-11-06T20:37:19.867884+00:00",
+   "yazim": "yedek",
+   "metin": "Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabiliyorsunuz?.\n\nKültür ve Turizm Bakanlığının 2027 bütçesi görüşülürken söz alan Yeni Parti İstanbul Milletvekili Suat Özçağdaş, 78 kişinin hayatını kaybettiği Kartalkaya yangınını hatırlattı ve Bakan Ersoy'a \"nasıl uyuyabildiğini\" sordu.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008355/ozcagdastan-bakan-ersoya-kartalkaya-sorusu-nasil-uyuyabiliyorsunuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -11045,18 +11077,11 @@
   "059e235a29": 1,
   "d4b6873cc3": 2,
   "fd73af00b8": 1,
-  "90ee7ff142": 1
+  "90ee7ff142": 1,
+  "95686bac75": 1,
+  "9eb9112084": 1
  },
  "fail_log": [
-  "2026-11-06T19:02 Bursa’da işçi servisi otomobille çarpıştı: 9 kişi yaralandı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Süper Lig'de 11. haftanın açılış maçı: Kasımpaşa deplasmanda -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Süper Lig'de 11. haftanın açılış maçı: Kasımpaşa deplasmanda -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Süper Lig'de 11. haftanın açılış maçı: Kasımpaşa deplasmanda -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11087,17 +11112,26 @@
   "2026-11-06T20:11 “Çok az zaman kaldı” uyarısının ardından İran’da nükleer sal -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 İzmir Bornova’da bir kadın yolcunun Atatürk’e hakaret ettiği -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 İzmir Bornova’da bir kadın yolcunun Atatürk’e hakaret ettiği -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 İzmir Bornova’da bir kadın yolcunun Atatürk’e hakaret ettiği -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118797654142378169",
+   "since_id": "2118801818184806519",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118799196530565546",
+   "since_id": "2118802942132179254",
    "started": true
   }
  }
