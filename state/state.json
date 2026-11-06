@@ -2,23 +2,6 @@
  "seen": [
   {
    "fp": [
-    "47",
-    "evind",
-    "evine",
-    "hazır",
-    "hücre",
-    "iddia",
-    "insan",
-    "istan",
-    "mühim",
-    "suika",
-    "tanın",
-    "çıktı"
-   ],
-   "at": "2026-11-05T07:32:44.582710+00:00"
-  },
-  {
-   "fp": [
     "2026",
     "2027",
     "ara",
@@ -10933,18 +10916,11 @@
   "87b71a0ca8": 1,
   "9de3f8d1f2": 1,
   "059e235a29": 1,
-  "6a35fae54e": 1
+  "6a35fae54e": 2,
+  "d4b6873cc3": 1,
+  "fd73af00b8": 1
  },
  "fail_log": [
-  "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: metin cümle ortasında bitiyor",
-  "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: metin cümle ortasında bitiyor",
-  "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: yanıt okunamadı",
   "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
   "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
   "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
@@ -10975,17 +10951,26 @@
   "2026-11-06T19:28 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118782125914624320",
+   "since_id": "2118789602333065433",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118786624264049090",
+   "since_id": "2118789564173046116",
    "started": true
   }
  }
