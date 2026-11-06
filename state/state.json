@@ -2,18 +2,6 @@
  "seen": [
   {
    "fp": [
-    "den",
-    "fırtı",
-    "geliy",
-    "kar",
-    "meteo",
-    "sıcak",
-    "uyarı"
-   ],
-   "at": "2026-11-05T09:04:51.144893+00:00"
-  },
-  {
-   "fp": [
     "2026",
     "5",
     "akary",
@@ -8283,25 +8271,76 @@
     "ücret"
    ],
    "at": "2026-11-06T21:03:04.552231+00:00"
+  },
+  {
+   "fp": [
+    "akden",
+    "araşt",
+    "bakan",
+    "bayra",
+    "deki",
+    "doğu",
+    "dışiş",
+    "frans",
+    "gemin",
+    "gemis",
+    "giriş",
+    "ilişk",
+    "izins",
+    "kıta",
+    "ndan",
+    "nden",
+    "sahan",
+    "türk"
+   ],
+   "tok": [
+    "akden",
+    "amaçl",
+    "araşt",
+    "bayra",
+    "belir",
+    "bulun",
+    "dair",
+    "deki",
+    "deniz",
+    "doğu",
+    "döşem",
+    "dışiş",
+    "edild",
+    "faali",
+    "frans",
+    "gemin",
+    "gemis",
+    "gemiy",
+    "giriş",
+    "gkry",
+    "güney",
+    "ikazl",
+    "ilişk",
+    "iptal",
+    "izin",
+    "izins",
+    "içind",
+    "kablo",
+    "kıbrı",
+    "kıta",
+    "ndan",
+    "nden",
+    "nin",
+    "rum",
+    "sahan",
+    "seyir",
+    "tepki",
+    "veril",
+    "yapma",
+    "yayım",
+    "yunan",
+    "yönet"
+   ],
+   "at": "2026-11-06T21:15:46.519084+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "275c83be5d",
-   "post_id": "529346797199852_1455334283372946",
-   "title": "3 yaşındaki çocuğunu darbettiği belirlendi: O anneye tutuklama",
-   "at": "2026-11-02T11:02:49.449275+00:00",
-   "yazim": "claude",
-   "metin": "Gölbaşı'nda 3 yaşındaki çocuğuna şiddet uygulayan anne tutuklandı.\n\nSokakta yaşanan olayın görüntüleri sosyal medyada yayılınca polis harekete geçti. Araç plakasından kimliği bulunan anne gözaltına alındı.\n\n— Mahkeme annenin tutuklanmasına karar verdi.\n— Çocuk koruma altına alındı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/3-yasindaki-cocugunu-darp-eden-anne-tutuklandi-961955.html",
-    "Milliyet: https://www.milliyet.com.tr/gundem/ankarada-sokak-ortasinda-kucuk-cocugunu-darbetti-anne-goruntuler-sonrasi-tutuklandi-7692626",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/baskentte-3-yasindaki-cocugunu-darbettigi-iddiasiyla-gozaltina-alinan-anne-tutuklandi-3487852",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haber-3-yasindaki-cocuga-feci-siddet-boyle-anne-olmaz-olsun-ankara-haberleri-3924318",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-boyle-arkadas-olmaz-olsun-anahtari-kopyaladilar-hatay-haberleri-3924205",
-    "Sözcü: https://www.sozcu.com.tr/sokak-ortasinda-3-yasindaki-cocugunu-doven-anne-tutuklandi-p375223"
-   ]
-  },
   {
    "id": "594ce08a87",
    "post_id": "529346797199852_1455343990038642",
@@ -11022,6 +11061,22 @@
    "sources": [
     "Muhbir (X): https://x.com/ajansmuhbir1923/status/2118810441023398397"
    ]
+  },
+  {
+   "id": "6d7b2d7cd3",
+   "post_id": "529346797199852_1459863786253329",
+   "title": "Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin araştırma faaliyetine izin verilmedi'",
+   "at": "2026-11-06T21:15:46.519084+00:00",
+   "yazim": "yedek",
+   "metin": "Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin araştırma faaliyetine izin verilmedi'.\n\nDışişleri Bakanlığı, Fransız bayraklı bir geminin Doğu Akdeniz'de Türkiye'nin kıta sahanlığı içinde izinsiz kablo döşeme amaçlı deniz araştırması yapma girişiminde bulunduğunu açıkladı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/disislerinden-fransiz-bayrakli-geminin-turk-kita-sahanligindaki-izinsiz-arastirma-girisimine-iliskin-aciklama/4114711",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/disislerinden-fransiz-bayrakli-geminin-turk-kita-sahanligindaki-izinsiz-arastirma-girisimine-tepki-962472.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-fransiz-gemisinin-dogu-akdenizdeki-arastirma-girisimine-iliskin-aciklama-43368934",
+    "Habertürk: https://www.haberturk.com/dunya/disisleri-nden-fransiz-bayrakli-gemiye-dair-aciklama-3925523",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/disisleri-nden-dogu-akdeniz-aciklamasi-fransiz-gemisinin-arastirma-faaliyetine-izin-verilmedi-2554046",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-fransiz-gemisinin-dogu-akdenizdeki-arastirma-girisimine-iliskin-aciklama-43368934"
+   ]
   }
  ],
  "fails": {
@@ -11142,9 +11197,6 @@
   "dd1876d6b8": 1
  },
  "fail_log": [
-  "2026-11-06T19:45 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:45 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11181,17 +11233,20 @@
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118810346651840964",
+   "since_id": "2118813535451161034",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118810441023398397",
+   "since_id": "2118814108585996687",
    "started": true
   }
  }
