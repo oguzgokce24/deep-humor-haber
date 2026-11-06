@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "burcu",
-    "burç",
-    "günlü",
-    "istan",
-    "kasım",
-    "okull",
-    "perşe",
-    "tatil",
-    "yarın",
-    "yorum"
-   ],
-   "at": "2026-11-04T15:12:32.798715+00:00"
-  },
-  {
-   "fp": [
-    "2026",
-    "2027",
-    "açıkl",
-    "dönem",
-    "nasıl",
-    "sonuç",
-    "sınav",
-    "takvi",
-    "zaman"
-   ],
-   "at": "2026-11-04T15:12:40.978053+00:00"
-  },
-  {
-   "fp": [
-    "04",
-    "2026",
-    "60",
-    "bugün",
-    "kasım",
-    "saniy"
-   ],
-   "at": "2026-11-04T15:13:28.152023+00:00"
-  },
-  {
-   "fp": [
     "ambul",
     "sağan",
     "sulta",
@@ -3375,23 +3334,43 @@
     "yerde"
    ],
    "at": "2026-11-06T02:59:24.357782+00:00"
+  },
+  {
+   "fp": [
+    "insan",
+    "konfe",
+    "mesle",
+    "sokağ",
+    "yaşam",
+    "çıkıy",
+    "örgüt"
+   ],
+   "tok": [
+    "aralı",
+    "bütçe",
+    "doğru",
+    "düzen",
+    "düzey",
+    "göre",
+    "halkı",
+    "hazır",
+    "ihtiy",
+    "insan",
+    "konfe",
+    "mesle",
+    "mitin",
+    "sokağ",
+    "talep",
+    "yaşam",
+    "çıkar",
+    "çıkıy",
+    "örgüt",
+    "ücret"
+   ],
+   "at": "2026-11-06T03:25:56.576728+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3ef6442a3e",
-   "post_id": "529346797199852_1454378330135208",
-   "title": "Cumhurbaşkanı Erdoğan Güney Kore'ye gidiyor",
-   "at": "2026-11-01T11:05:14.715845+00:00",
-   "yazim": "claude",
-   "metin": "Cumhurbaşkanı Erdoğan 1-4 Kasım'da Güney Kore'ye gidiyor.\n\n— Güney Kore Cumhurbaşkanı Lee Jae Myung'un davetiyle Seul'u ziyaret edecek.\n— Ziyarette iki lider baş başa görüşecek. Ticaret, yatırım, savunma sanayisi ve enerji konularının konuşulması bekleniyor.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-guney-koreye-gidiyor-1748902",
-    "Habertürk: https://www.haberturk.com/dunya/cumhurbaskani-erdogan-guney-kore-ye-gidiyor-3924092",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-guney-koreye-gidiyor-4868858",
-    "Karar: https://www.karar.com/guncel-haberler/cumhurbaskani-erdogan-guney-koreye-gidiyor-2081756"
-   ]
-  },
   {
    "id": "40ad984962",
    "post_id": "529346797199852_1454391753467199",
@@ -6152,6 +6131,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/birgun-muhabiri-ismail-ari-cezaevi-kosullarini-anlatti-ayaklarimiz-ranzanin-altinda-744830"
    ]
+  },
+  {
+   "id": "2b215e70f8",
+   "post_id": "529346797199852_1459036363002738",
+   "title": "Meslek örgütleri ve konfederasyonlar, \"insanca yaşam\" için sokağa çıkıyor",
+   "at": "2026-11-06T03:25:56.576728+00:00",
+   "yazim": "claude",
+   "metin": "Meslek örgütleri ve konfederasyonlar 12 Aralık'ta Ankara'da miting düzenliyor.\n\n— Talepleri, bütçenin halkın ihtiyaçlarına göre hazırlanması.\n— Bir de ücretlerin insanca yaşam düzeyine çıkarılması.\n\nİki talep için örgütler sokağa çıkıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/meslek-orgutleri-ve-konfederasyonlar-insanca-yasam-icin-sokaga-cikiyor-744833"
+   ]
   }
  ],
  "fails": {
@@ -6219,6 +6209,7 @@
   "61b553e8ba": 2,
   "25b2de825d": 1,
   "173c999c4e": 1,
-  "4040cd04ce": 2
+  "4040cd04ce": 2,
+  "933cd488d9": 1
  }
 }
