@@ -2989,22 +2989,102 @@
     "şaram"
    ],
    "at": "2026-11-06T01:18:10.315112+00:00"
+  },
+  {
+   "fp": [
+    "betül",
+    "fatma",
+    "kaya",
+    "sayan",
+    "tutuk"
+   ],
+   "tok": [
+    "aile",
+    "akp",
+    "akın",
+    "amacı",
+    "ardın",
+    "betül",
+    "dikka",
+    "duyur",
+    "eski",
+    "ettiğ",
+    "fatma",
+    "gürle",
+    "işlem",
+    "kanun",
+    "kaya",
+    "kurul",
+    "muhal",
+    "nöbet",
+    "nın",
+    "olma",
+    "ortay",
+    "payla",
+    "piyas",
+    "polit",
+    "savcı",
+    "sayan",
+    "serma",
+    "sevk",
+    "sosya",
+    "spk",
+    "suç",
+    "suçla",
+    "taleb",
+    "talep",
+    "ten",
+    "yapmı",
+    "yazıs",
+    "çeken",
+    "çıkar",
+    "çıktı",
+    "örgüt",
+    "üye"
+   ],
+   "at": "2026-11-06T01:34:27.498931+00:00"
+  },
+  {
+   "fp": [
+    "anlaş",
+    "genel",
+    "kabul",
+    "kurul",
+    "mekke",
+    "nda",
+    "ortak",
+    "savun",
+    "tbmm"
+   ],
+   "tok": [
+    "alanı",
+    "anlaş",
+    "birli",
+    "evet",
+    "genel",
+    "güven",
+    "ittif",
+    "işbir",
+    "kabul",
+    "kurul",
+    "medya",
+    "mekke",
+    "nda",
+    "ortak",
+    "oylam",
+    "oyu",
+    "oyuyl",
+    "ret",
+    "savun",
+    "tbmm",
+    "yapac",
+    "çıktı",
+    "ülke"
+   ],
+   "at": "2026-11-06T01:34:30.994636+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "abdb3468ed",
-   "post_id": "529346797199852_1454276806812027",
-   "title": "YENİ Parti 1. Olağan Kurultayı'na hazırlanıyor: Takvim nasıl işleyecek?",
-   "at": "2026-11-01T08:35:01.960192+00:00",
-   "yazim": "claude",
-   "metin": "YENİ Parti ilk olağan kurultayını 14-15 Kasım'da yapacak.\n\n— Kurultayda 1000'i aşkın delege genel başkanı, 80 kişilik Parti Meclisi'ni ve 15 kişilik Yüksek Disiplin Kurulu'nu seçecek.\n— Genel Başkan Özgür Özel, 8 Kasım'da 81 ilde yapılacak ön seçimde üyelerin oyuyla yeniden aday olacak. Tek aday olması bekleniyor.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberler-yeni-parti-de-1-olagan-kurultay-icin-hazirliklar-suruyor-3924079",
-    "BirGün: https://www.birgun.net/haber/yeni-parti-1-olagan-kurultayi-na-hazirlaniyor-takvim-nasil-isleyecek-743823",
-    "Karar: https://www.karar.com/guncel-haberler/yeni-partinin-ilk-olagan-kurultayi-14-15-kasimda-yapilacak-2081735"
-   ]
-  },
   {
    "id": "e289e0ff70",
    "post_id": "529346797199852_1454286016811106",
@@ -5767,6 +5847,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/yuksekovada-otomobil-kamyona-carpti-iki-kisi-yaralandi-4870189",
     "BirGün: https://www.birgun.net/haber/zonguldakta-otomobil-sarampole-devrildi-1-kisi-hayatini-kaybetti-2-kisi-yaralandi-744871"
    ]
+  },
+  {
+   "id": "d0fd82dbf7",
+   "post_id": "529346797199852_1458955243010850",
+   "title": "Mekke Anlaşması TBMM Genel Kurulu’nda kabul edildi",
+   "at": "2026-11-06T01:34:30.994636+00:00",
+   "yazim": "claude",
+   "metin": "TBMM Genel Kurulu Mekke Anlaşması'nı kabul etti.\n\n— Oylamada 279 kabul, 119 ret oyu çıktı.\n— Anlaşmayla üç ülke ortak savunma ve güvenlik alanında iş birliği yapacak.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/mekke-ortak-savunma-anlasmasi-tbmmde-kabul-edildi-7695231",
+    "CNN Türk: https://www.cnnturk.com/dunya/mekke-ortak-savunma-itiifaki-anlasmasi-tbmmde-kabul-edildi-3489624",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/tbmm-genel-kurulunda-mekke-anlasmasi-kabul-edildi-3489718",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/mekke-anlasmasi-279-evetle-kabul-4870227",
+    "Medyascope: https://medyascope.tv/2026/11/06/mekke-anlasmasi-tbmm-genel-kurulunda-kabul-edildi/",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/mekke-ortak-savunma-anlasmasi-tbmmde-kabul-edildi-7695231"
+   ]
   }
  ],
  "fails": {
@@ -5830,7 +5926,6 @@
   "1c63b6fcc0": 2,
   "0ea9b18be5": 1,
   "9fe5c9f87c": 1,
-  "87f03420e9": 2,
   "3f5965e784": 1,
   "9c7616fae4": 1
  }
