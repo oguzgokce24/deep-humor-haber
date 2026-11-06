@@ -2,16 +2,6 @@
  "seen": [
   {
    "fp": [
-    "11",
-    "hafta",
-    "heyec",
-    "lig",
-    "süper"
-   ],
-   "at": "2026-11-05T06:37:31.931038+00:00"
-  },
-  {
-   "fp": [
     "4",
     "arnav",
     "işçi",
@@ -7886,22 +7876,72 @@
     "çıktı"
    ],
    "at": "2026-11-06T18:35:59.186104+00:00"
+  },
+  {
+   "fp": [
+    "50",
+    "almak",
+    "bin",
+    "dayan",
+    "değiş",
+    "direk",
+    "ehliy",
+    "fiyat",
+    "liray",
+    "lüks",
+    "neden",
+    "neler",
+    "oluyo",
+    "sınav",
+    "yılda"
+   ],
+   "tok": [
+    "aldığ",
+    "almak",
+    "arası",
+    "artan",
+    "bedel",
+    "bekle",
+    "bin",
+    "birli",
+    "bulun",
+    "dayan",
+    "devle",
+    "değer",
+    "değiş",
+    "direk",
+    "ehliy",
+    "eğiti",
+    "fiyat",
+    "gerek",
+    "göste",
+    "hafta",
+    "harç",
+    "kala",
+    "kağıt",
+    "kurs",
+    "kursl",
+    "liray",
+    "lüks",
+    "maliy",
+    "neden",
+    "neler",
+    "oluyo",
+    "sayıl",
+    "sürüc",
+    "sınav",
+    "taleb",
+    "yüzde",
+    "yıla",
+    "yılda",
+    "zam",
+    "çıkma",
+    "ücret"
+   ],
+   "at": "2026-11-06T18:49:31.795375+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4b8bd9e53b",
-   "post_id": "529346797199852_1455207360052305",
-   "title": "İFÖD'den sansür raporu: İki ayda 2 bin 137 X hesabına erişim engeli",
-   "at": "2026-11-02T07:54:48.006167+00:00",
-   "yazim": "claude",
-   "metin": "İFÖD'e göre iki ayda 2 bin 137 X hesabı erişime engellendi.\n\n— Eylül'de 1.270, ekimde 867 hesap engellendi.\n— Gazeteciler, akademisyenler, siyasi partiler ve Halk TV, T24 gibi büyük hesaplar da listede.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ifod-den-sansur-raporu-iki-ayda-2-bin-137-x-hesabina-erisim-engeli-2552387",
-    "Evrensel: https://www.evrensel.net/haber/6007614/ifod-duyurdu-eylul-ayinda-1270-ekim-ayinda-867-x-hesabi-erisime-engellendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Diken: https://www.diken.com.tr/ifod-iki-ayda-2-bini-askin-x-hesabi-erisime-engellendi/?utm_source=rss&utm_medium=rss&utm_campaign=ifod-iki-ayda-2-bini-askin-x-hesabi-erisime-engellendi"
-   ]
-  },
   {
    "id": "98994085e4",
    "post_id": "529346797199852_1455215246718183",
@@ -10644,6 +10684,17 @@
     "Sözcü: https://www.sozcu.com.tr/freni-bosalan-hafriyat-kamyonu-ortaligi-savas-alanina-cevirdi-p376767",
     "Karar: https://www.karar.com/guncel-haberler/baskentte-freni-bosalan-kamyon-ortaligi-karistirdi-2-araca-carpti-3-2082770"
    ]
+  },
+  {
+   "id": "49ff6f6ea5",
+   "post_id": "529346797199852_1459775406262167",
+   "title": "Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları neden 50 Bin Liraya dayanacak, direksiyon sınavında neler değişiyor?",
+   "at": "2026-11-06T18:49:31.795375+00:00",
+   "yazim": "yedek",
+   "metin": "Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları neden 50 Bin Liraya dayanacak, direksiyon sınavında neler değişiyor?.\n\nYeni yıla sayılı haftalar kala sürücü kursları, artan maliyetleri gerekçe göstererek 2027 eğitim ücretlerine yüzde 50 ile yüzde 80 arasında zam talebinde bulundu.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/yeni-yilda-ehliyet-almak-luks-oluyor-ehliyet-fiyatlari-neden-50-bin-2082772"
+   ]
   }
  ],
  "fails": {
@@ -10750,7 +10801,8 @@
   "df507153b9": 2,
   "94b196a426": 1,
   "20e7cbfe7b": 1,
-  "ef2bbadb9f": 1
+  "ef2bbadb9f": 1,
+  "fcc5a5ac91": 1
  },
  "fail_log": [
   "2026-11-06T16:08 Victor Osimhen ameliyat olacak! Galatasaray taraftarını kahr -> ValueError: yanıt okunamadı",
@@ -10786,17 +10838,23 @@
   "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: yanıt okunamadı",
   "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı",
   "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı",
-  "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı"
+  "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı",
+  "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T18:49 Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları nede -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118767585520910562",
+   "since_id": "2118774374249734573",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118772176564207834",
+   "since_id": "2118776223962738969",
    "started": true
   }
  }
