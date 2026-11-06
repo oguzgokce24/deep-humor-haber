@@ -2,21 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "birin",
-    "casus",
-    "devle",
-    "envan",
-    "gönde",
-    "iki",
-    "israi",
-    "telev",
-    "uçağı"
-   ],
-   "at": "2026-11-04T21:36:32.264324+00:00"
-  },
-  {
-   "fp": [
     "53",
     "brezi",
     "kart",
@@ -5086,22 +5071,61 @@
     "öngör"
    ],
    "at": "2026-11-06T09:20:46.268561+00:00"
+  },
+  {
+   "fp": [
+    "ardın",
+    "büyük",
+    "döndü",
+    "gölü",
+    "kahve",
+    "nün",
+    "rengi",
+    "yağış"
+   ],
+   "tok": [
+    "aralı",
+    "ardın",
+    "biri",
+    "büyük",
+    "dere",
+    "değiş",
+    "döndü",
+    "etkil",
+    "göl",
+    "gölde",
+    "gölü",
+    "gölün",
+    "görün",
+    "hafta",
+    "havad",
+    "havza",
+    "içme",
+    "kahve",
+    "kapla",
+    "kayna",
+    "kesim",
+    "nde",
+    "nün",
+    "rengi",
+    "renk",
+    "suyu",
+    "suyun",
+    "süren",
+    "tamam",
+    "taşıd",
+    "yakın",
+    "yatak",
+    "yağmu",
+    "yağış",
+    "yükse",
+    "yüzey",
+    "çamur"
+   ],
+   "at": "2026-11-06T09:36:55.359055+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1507d935dd",
-   "post_id": "529346797199852_1454559523450422",
-   "title": "Alanya'da denize giren 54 yaşındaki turist boğuldu",
-   "at": "2026-11-01T14:54:37.152360+00:00",
-   "yazim": "claude",
-   "metin": "Alanya'da denize giren 54 yaşındaki Çekya vatandaşı bir turist hayatını kaybetti.\n\nEşi, kadının denizden çıkmadığını fark edip durumu yetkililere haber verdi. Sahil Güvenlik ekipleri arama başlattı ve kadının cansız bedenini buldu.\n\nOlay Alanya'nın Türkler Mahallesi'nde yaşandı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/antalya/alanyada-yabanci-turist-denizde-boguldu-3487482",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/alanya-da-denize-giren-54-yasindaki-turist-boguldu-2552251",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/alanyada-yabanci-turist-denizde-boguldu-4868879"
-   ]
-  },
   {
    "id": "141eef5ffd",
    "post_id": "529346797199852_1454577450115296",
@@ -7853,6 +7877,21 @@
    "sources": [
     "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/aym-payli-mulkiyette-onalim-hakkindaki-rayic-bedel-kuralini-iptal-etti/4113741",
     "BirGün: https://www.birgun.net/haber/aym-den-payli-mulkiyette-onalim-hakki-karari-rayic-bedel-duzenlemesi-iptal-edildi-744932"
+   ]
+  },
+  {
+   "id": "c24c617368",
+   "post_id": "529346797199852_1459279819645059",
+   "title": "Büyükçekmece Gölü'nün rengi yağışların ardından kahverengiye döndü",
+   "at": "2026-11-06T09:36:55.359055+00:00",
+   "yazim": "claude",
+   "metin": "Büyükçekmece Gölü'nün suyu kahverengiye döndü.\n\nİstanbul'da bir haftadır aralıklarla süren yağmur, yüksek kesimlerden ve dere yataklarından çamur taşıdı. Çamur gölün yüzeyini kaplayınca havzaya yakın kesimler tamamen kahverengi göründü.\n\nGöl, İstanbul'un içme suyu kaynaklarından biri. Renk değişimi havadan görüntülendi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/buyukcekmece-golu-nun-rengi-yagislarin-ardindan-kahverengiye-dondu-2553848",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/buyukcekmece-golunun-rengi-yagislarin-ardindan-kahverengiye-dondu-4870281",
+    "Evrensel: https://www.evrensel.net/haber/6008270/buyukcekmece-golunun-rengi-kahverengiye-dondu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/yagislarin-ardindan-buyukcekmece-golu-kahverengiye-dondu-744933",
+    "Karar: https://www.karar.com/guncel-haberler/buyukcekmece-golunun-rengi-yagislarin-ardindan-kahverengiye-dondu-2082664"
    ]
   }
  ],
