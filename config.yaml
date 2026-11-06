@@ -43,6 +43,28 @@ exclude:
   - muhtemel 11
   - canlı izle
   - şifresiz
+  # LGBTİ+ ile ilgili tüm haberler
+  - lgbt
+  - lgbtq
+  - eşcinsel
+  - lezbiyen
+  - biseksüel
+  - queer
+  - trans kadın
+  - trans erkek
+  - trans birey
+  - transların
+  - trans hakları
+  - onur yürüyüşü
+  - onur haftası
+  - onur ayı
+  - kaos gl
+  - spod
+  - cinsel yönelim
+  - cinsiyet kimliği
+  - interseks
+  - non-binary
+  - nonbinary
   # SEO / servis içerikleri (haber değil)
   - kimdir
   - nereli
