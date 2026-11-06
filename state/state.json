@@ -2,17 +2,6 @@
  "seen": [
   {
    "fp": [
-    "geçir",
-    "kazas",
-    "sinan",
-    "trafi",
-    "özen",
-    "şarkı"
-   ],
-   "at": "2026-11-05T07:19:18.940430+00:00"
-  },
-  {
-   "fp": [
     "47",
     "evind",
     "evine",
@@ -8026,24 +8015,66 @@
     "şartı"
    ],
    "at": "2026-11-06T19:15:06.344513+00:00"
+  },
+  {
+   "fp": [
+    "emekl",
+    "getir",
+    "haval",
+    "hayat",
+    "ihram",
+    "imam",
+    "kaybe",
+    "salav",
+    "umre",
+    "veda",
+    "yere",
+    "yolcu",
+    "yığıl"
+   ],
+   "tok": [
+    "abdul",
+    "ancak",
+    "anide",
+    "anlar",
+    "anlat",
+    "dan",
+    "dua",
+    "edip",
+    "emekl",
+    "fenal",
+    "gelen",
+    "getir",
+    "gitme",
+    "hasta",
+    "hatip",
+    "haval",
+    "ihram",
+    "imam",
+    "kafil",
+    "kaldı",
+    "kişil",
+    "konya",
+    "kurta",
+    "kutsa",
+    "salav",
+    "sırad",
+    "topra",
+    "umre",
+    "veda",
+    "yakla",
+    "yaşın",
+    "yere",
+    "yolcu",
+    "yığıl",
+    "özkan",
+    "üzere",
+    "üzeri"
+   ],
+   "at": "2026-11-06T19:28:20.606892+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0b9bf607ae",
-   "post_id": "529346797199852_1455244530048588",
-   "title": "UEFA Şampiyonlar Ligi'nde 4’üncü hafta maçları yarın başlıyor",
-   "at": "2026-11-02T08:56:29.090768+00:00",
-   "yazim": "claude",
-   "metin": "UEFA Şampiyonlar Ligi'nde 4. hafta yarın başlıyor.\n\n— Hafta iki gün sürecek, toplam 18 maç oynanacak.\n— Galatasaray yarın Stuttgart'ı 20.45'te ağırlayacak.\n— Fenerbahçe, Liverpool'u 4 Kasım Çarşamba günü 20.45'te konuk edecek.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/uefa-sampiyonlar-liginde-4-hafta-maclari-oynanacak-3487720",
-    "Habertürk: https://www.haberturk.com/spor/uefa-sampiyonlar-ligi-nde-4-hafta-heyecani-yarin-baslayacak-3924241",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/uefa-sampiyonlar-ligi-nde-4-hafta-heyecani-basliyor-2552419",
-    "Evrensel: https://www.evrensel.net/haber/6007615/uefa-sampiyonlar-ligi-nde-4-uncu-hafta-maclari-yarin-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/sampiyonlar-liginde-4-uncu-haftanin-programi-743959"
-   ]
-  },
   {
    "id": "8e2e051919",
    "post_id": "529346797199852_1455254070047634",
@@ -10780,6 +10811,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/14-ilde-yasa-disi-bahis-operasyonu-34-kisi-tutuklandi-2554010",
     "BirGün: https://www.birgun.net/haber/aydin-merkezli-14-ilde-bahis-operasyonu-34-tutuklama-745019"
    ]
+  },
+  {
+   "id": "a422900595",
+   "post_id": "529346797199852_1459800136259694",
+   "title": "Havalimanında ihramlı veda: Umre yolcularına salavat getirirken yere yığılan emekli imam hayatını kaybetti!",
+   "at": "2026-11-06T19:28:20.606892+00:00",
+   "yazim": "yedek",
+   "metin": "Havalimanında ihramlı veda: Umre yolcularına salavat getirirken yere yığılan emekli imam hayatını kaybetti!.\n\nKonya’dan kutsal topraklara gitmek üzere havalimanına gelen 68 yaşındaki emekli imam hatip Abdullah Özkan, yaklaşık 180 kişilik umre kafilesine dua edip salavat getirdiği sırada ihramı üzerindeyken aniden fenalaşarak yere yığıldı.",
+   "sources": [
+    "Karar: https://www.karar.com/insan-haberleri/havalimaninda-ihramli-veda-umre-yolcularina-salavat-getirirken-yere-2082774"
+   ]
   }
  ],
  "fails": {
@@ -10889,18 +10931,11 @@
   "ef2bbadb9f": 1,
   "fcc5a5ac91": 1,
   "87b71a0ca8": 1,
-  "9de3f8d1f2": 1
+  "9de3f8d1f2": 1,
+  "059e235a29": 1,
+  "6a35fae54e": 1
  },
  "fail_log": [
-  "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:41 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:54 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:54 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:54 Merkez Bankası Başkanı Karahan \"kira enflasyonunun gerilediğ -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:54 Yeni Parti'den Bakan Ersoy'a Diyarbakır tepkisi: Surlara iki -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:54 Yeni Parti'den Bakan Ersoy'a Diyarbakır tepkisi: Surlara iki -> ValueError: yanıt okunamadı",
-  "2026-11-06T16:54 Yeni Parti'den Bakan Ersoy'a Diyarbakır tepkisi: Surlara iki -> ValueError: yanıt okunamadı",
   "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
   "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
   "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
@@ -10931,7 +10966,16 @@
   "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:02 Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuk -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:02 Bursa’da işçi servisi otomobille çarpıştı: 9 kişi yaralandı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T19:02 Bursa’da işçi servisi otomobille çarpıştı: 9 kişi yaralandı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Süper Lig'de 11. haftanın açılış maçı: Kasımpaşa deplasmanda -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Süper Lig'de 11. haftanın açılış maçı: Kasımpaşa deplasmanda -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Süper Lig'de 11. haftanın açılış maçı: Kasımpaşa deplasmanda -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
@@ -10941,7 +10985,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118783945441529968",
+   "since_id": "2118786624264049090",
    "started": true
   }
  }
