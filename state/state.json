@@ -2,32 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "3",
-    "devir",
-    "fener",
-    "liver"
-   ],
-   "at": "2026-11-04T20:00:45.382633+00:00"
-  },
-  {
-   "fp": [
-    "31",
-    "anlaş",
-    "beled",
-    "chp",
-    "den",
-    "deste",
-    "istif",
-    "mecli",
-    "mekke",
-    "üyesi",
-    "şişli"
-   ],
-   "at": "2026-11-04T20:00:53.158029+00:00"
-  },
-  {
-   "fp": [
     "117",
     "6",
     "fonla",
@@ -4624,22 +4598,101 @@
     "şartl"
    ],
    "at": "2026-11-06T07:53:35.719118+00:00"
+  },
+  {
+   "fp": [
+    "avuka",
+    "bakım",
+    "durum",
+    "hakan",
+    "killa",
+    "sağlı",
+    "uyutu",
+    "yoğun"
+   ],
+   "tok": [
+    "alman",
+    "avuka",
+    "bakım",
+    "den",
+    "durum",
+    "geldi",
+    "geçen",
+    "gören",
+    "hafta",
+    "hakan",
+    "ilgil",
+    "ilişk",
+    "iyi",
+    "kaldı",
+    "killa",
+    "kontr",
+    "kıyas",
+    "nasıl",
+    "neden",
+    "rapçi",
+    "sanat",
+    "sarıd",
+    "sağlı",
+    "sorun",
+    "tedav",
+    "uyutu",
+    "yoğun",
+    "şekil",
+    "şükrü"
+   ],
+   "at": "2026-11-06T08:00:42.730155+00:00"
+  },
+  {
+   "fp": [
+    "2028",
+    "abd",
+    "ayrıl",
+    "bakan",
+    "dışiş",
+    "edece",
+    "görev",
+    "iddia",
+    "istif",
+    "redde",
+    "rubio",
+    "seçim"
+   ],
+   "tok": [
+    "abd",
+    "aday",
+    "ayrıl",
+    "birli",
+    "dan",
+    "deki",
+    "dışiş",
+    "edece",
+    "fazla",
+    "gerçe",
+    "görev",
+    "iddia",
+    "istif",
+    "konuş",
+    "marco",
+    "olabi",
+    "olmak",
+    "planl",
+    "redde",
+    "rubio",
+    "sever",
+    "seçim",
+    "sonun",
+    "süres",
+    "trump",
+    "yanıt",
+    "yaptı",
+    "yönün",
+    "çalış"
+   ],
+   "at": "2026-11-06T08:00:46.497710+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7d6f036739",
-   "post_id": "529346797199852_1454490486790659",
-   "title": "İmamoğlu’nun “Millet Şahidimdir” kitabının X hesabına erişim engeli",
-   "at": "2026-11-01T13:31:23.902814+00:00",
-   "yazim": "claude",
-   "metin": "Tutuklu İBB Başkanı Ekrem İmamoğlu'nun Millet Şahidimdir kitabından alıntı paylaşan hesap erişime engellendi.\n\n— Hesap mahkeme kararıyla dün gece yarısı kapatıldı.\n\n— Çalışma artık yeni bir hesaptan sürdürülecek.\n\n— Açıklamada, okurlardan bu bilgiyi yaymaları istendi.",
-   "sources": [
-    "Medyascope: https://medyascope.tv/2026/11/01/millet-sahidimdir-hesabina-erisim-engeli/",
-    "BirGün: https://www.birgun.net/haber/millet-sahidimdir-hesabina-erisim-engeli-743840",
-    "Karar: https://www.karar.com/guncel-haberler/imamoglunun-millet-sahidimdir-kitabinin-x-hesabina-erisim-engeli-2081757"
-   ]
-  },
   {
    "id": "104ccb5945",
    "post_id": "529346797199852_1454506790122362",
@@ -7390,6 +7443,21 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/abd-secimleri-kuresel-teknoloji-hisselerinde-sert-dususe-yol-acti-962394.html",
     "BirGün: https://www.birgun.net/haber/demokratlarin-zaferi-musk-i-vurdu-sirket-hisselerinde-sert-dusus-744884"
    ]
+  },
+  {
+   "id": "010b7b3efa",
+   "post_id": "529346797199852_1459217262984648",
+   "title": "ABD Dışişleri Bakanı Rubio’dan görevinden ayrılacağı yönündeki iddialara yanıt",
+   "at": "2026-11-06T08:00:46.497710+00:00",
+   "yazim": "claude",
+   "metin": "ABD Dışişleri Bakanı Marco Rubio:\n\n“Gerçekten 2028 hakkında daha fazla konuşmayacağım.”\n\nRubio, 2028 başkanlık seçimlerinde aday olmak için görevinden ayrılacağı iddialarını reddetti. Dışişleri görevini severek yaptığını ve Trump'ın görev süresinin sonuna kadar birlikte çalışmayı planladıklarını söyledi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-2028-secimleri-icin-istifa-edecegi-iddiasini-reddetti/4113612",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/abd-disisleri-bakani-rubio-2028-secimleri-icin-istifa-edecegi-iddiasini-reddetti-962413.html",
+    "Habertürk: https://www.haberturk.com/dunya/abd-disisleri-bakani-rubio-2028-secimleri-icin-istifa-edecegi-iddiasini-reddetti-3925331",
+    "Evrensel: https://www.evrensel.net/haber/6008238/rubio-gorevinden-ayrilacagi-iddiasini-reddetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/abd-disisleri-bakani-rubiodan-gorevinden-ayrilacagi-yonundeki-iddialara-yanit-744899"
+   ]
   }
  ],
  "fails": {
@@ -7473,7 +7541,6 @@
   "e12f3d227b": 1,
   "112a0e6c58": 1,
   "2c2d89a50d": 2,
-  "4a3a20494d": 2,
   "efba45e9ce": 2,
   "5a6e994b36": 1
  }
