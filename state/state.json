@@ -2,121 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "bütçe",
-    "görüş",
-    "istif",
-    "karşı",
-    "mehme",
-    "mille",
-    "seyre",
-    "çağrı",
-    "şimşe"
-   ],
-   "at": "2026-11-05T11:29:10.371364+00:00"
-  },
-  {
-   "fp": [
-    "10",
-    "5",
-    "bebek",
-    "bebeğ",
-    "davas",
-    "hapis",
-    "hemşi",
-    "kuvöz",
-    "yıl",
-    "şidde"
-   ],
-   "at": "2026-11-05T11:29:28.365744+00:00"
-  },
-  {
-   "fp": [
-    "demir",
-    "geliy",
-    "ihbar",
-    "ray",
-    "siste",
-    "sıcak",
-    "yolla"
-   ],
-   "at": "2026-11-05T11:29:44.974245+00:00"
-  },
-  {
-   "fp": [
-    "avrup",
-    "byd",
-    "kısıt",
-    "parla",
-    "çağrı"
-   ],
-   "at": "2026-11-05T11:30:01.497804+00:00"
-  },
-  {
-   "fp": [
-    "1600",
-    "buluş",
-    "dünya",
-    "istan",
-    "londr",
-    "miras",
-    "yıllı"
-   ],
-   "at": "2026-11-05T11:30:08.462138+00:00"
-  },
-  {
-   "fp": [
-    "araya",
-    "bakan",
-    "cop31",
-    "eğiti",
-    "gelec"
-   ],
-   "at": "2026-11-05T11:30:16.246366+00:00"
-  },
-  {
-   "fp": [
-    "12",
-    "dayıs",
-    "iddia",
-    "ilgil",
-    "korku",
-    "melek",
-    "tutuk",
-    "vurul",
-    "yaşam",
-    "yaşın",
-    "yenge",
-    "yitir",
-    "yüzün",
-    "ölümü"
-   ],
-   "at": "2026-11-05T11:33:45.196333+00:00"
-  },
-  {
-   "fp": [
-    "derey",
-    "düşen",
-    "hatay",
-    "çocuk"
-   ],
-   "at": "2026-11-05T11:33:53.765652+00:00"
-  },
-  {
-   "fp": [
-    "ajet",
-    "bilet",
-    "dışı",
-    "indir",
-    "kampa",
-    "ten",
-    "uçuşl",
-    "yurt"
-   ],
-   "at": "2026-11-05T11:34:10.556943+00:00"
-  },
-  {
-   "fp": [
     "cop31",
     "dünya",
     "iklim",
@@ -8465,25 +8350,70 @@
     "üst"
    ],
    "at": "2026-11-06T23:28:32.304750+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "2",
+    "hafız",
+    "kapat",
+    "mürek",
+    "paran",
+    "yıllı"
+   ],
+   "tok": [
+    "başlı",
+    "başvu",
+    "burad",
+    "burs",
+    "bırak",
+    "devle",
+    "eğiti",
+    "gençl",
+    "girda",
+    "günde",
+    "gürül",
+    "güçlü",
+    "hafta",
+    "hafız",
+    "hak",
+    "ilgil",
+    "imkân",
+    "içilm",
+    "kapat",
+    "karma",
+    "kazan",
+    "kendi",
+    "kez",
+    "kredi",
+    "kudre",
+    "kuşan",
+    "kyk",
+    "mürek",
+    "onay",
+    "paran",
+    "soluk",
+    "sonuç",
+    "spor",
+    "sözcü",
+    "sürec",
+    "sıyrı",
+    "taahh",
+    "yapan",
+    "yenid",
+    "yıl",
+    "yıllı",
+    "yılı",
+    "öğren",
+    "öğret",
+    "üzeri",
+    "şerbe",
+    "şiiri"
+   ],
+   "at": "2026-11-06T23:41:06.152854+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "886577a639",
-   "post_id": "529346797199852_1455627720010269",
-   "title": "İş yerinde korkutan yangın! Müdahale sürüyor",
-   "at": "2026-11-02T17:04:45.311989+00:00",
-   "yazim": "claude",
-   "metin": "Kayseri Melikgazi'de bir plastik ve züccaciye toptan satış mağazasında yangın çıktı.\n\n— Yangının nedeni henüz bilinmiyor.\n— İhbar üzerine polis ve çok sayıda itfaiye ekibi bölgeye gönderildi.\n— Ekipler yangına müdahale ediyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/kayseride-is-yerinde-cikan-yangina-mudahale-ediliyor/4109019",
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/kayseride-toptan-satis-magazasinda-yangin-961984.html",
-    "Milliyet: https://www.milliyet.com.tr/gundem/kayseride-is-yerinde-yangin-ekipler-mudahale-ediyor-7692810",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-haberi-kayseride-plastik-urun-magazasinda-yangin-3487966",
-    "Habertürk: https://www.haberturk.com/gundem/kayseri-nin-melikgazi-ilcesinde-cikan-is-yeri-yanginina-ekipler-mudahale-ediyor-3924412",
-    "Habertürk: https://www.haberturk.com/gundem/metrobuste-korkutan-yangin-3924378"
-   ]
-  },
   {
    "id": "9eaec633c0",
    "post_id": "529346797199852_1455637623342612",
@@ -11189,6 +11119,17 @@
    "metin": "Trump, göçmen karşıtı politikalarıyla tanınan Stephen Miller'ı Beyaz Saray genel sekreterliğine getirdi.\n\n— Demokratlar ara seçimlerde Kongre çoğunluğunu alalı birkaç gün olmuştu. Trump bu görevden Susie Wiles'ı alıp yerine 41 yaşındaki Miller'ı getirdi.\n— Genel sekreter, başkanın programını yöneten ve kimin Trump'la görüşeceğine karar veren en üst düzey yardımcı. Miller pazartesi göreve başlayacak.\n— Miller, Trump'ın ilk döneminde sınırda göçmen çocukların ailelerinden ayrılmasına ve bazı Müslüman çoğunluklu ülkelere seyahat yasağına yol açan politikaların mimarıydı.\n\nTrump, Miller hakkında \"Stephen öteden beri yanımda. Ne yapılması gerektiğini biliyor.\" dedi.",
    "sources": [
     "Diken: https://www.diken.com.tr/nefret-taciri-stephen-miller-beyaz-sarayin-iki-numarasi-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=nefret-taciri-stephen-miller-beyaz-sarayin-iki-numarasi-oldu"
+   ]
+  },
+  {
+   "id": "a9435ac800",
+   "post_id": "529346797199852_1459946939578347",
+   "title": "Mürekkebin hafızası: On iki yıllık bir parantezi kapatmak",
+   "at": "2026-11-06T23:41:06.152854+00:00",
+   "yazim": "claude",
+   "metin": "Gençlik ve Spor Bakanlığı, 2026-2027 eğitim öğretim yılı KYK burs ve öğrenim kredisi sonuçlarını açıkladı.\n\n— Sonuçlar, bu yıl başvuru yapan öğrencileri ilgilendiriyor.\n— Öğrenciler sonuçlarını e-Devlet üzerinden öğrenebiliyor.\n— Burs ya da kredi hak kazanan öğrenciler için taahhütname onay süreci de başlıyor.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008321/murekkebin-hafizasi-on-iki-yillik-bir-parantezi-kapatmak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
