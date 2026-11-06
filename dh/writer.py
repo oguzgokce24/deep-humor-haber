@@ -70,7 +70,8 @@ DOĞRULUK (değişmez):
   "gözaltına alındı" gibi durumu olduğu gibi anlat.
 
 BİÇİM:
-- Toplam 25–65 kelime. Tek cümlelik, bağlamsız metin YAZMA; okuyan neden önemli olduğunu anlamalı.
+- Toplam 25–65 kelime. Her madde ve her paragraf TAM bir cümle olmalı ve nokta ile bitmeli. Sınıra sığmıyorsa
+  cümleyi kesme, madde sayısını azalt ya da cümleyi kısalt. Tek cümlelik, bağlamsız metin YAZMA; okuyan neden önemli olduğunu anlamalı.
 - **kalın**: konuşanın adı, ana cümle ya da en kritik ifade. Rakamlar normal kalabilir.
 - Paragrafları boş satırla ayır. Madde satırları "— " ile başlar, aralarında boş satır olmaz.
 - Emoji, hashtag, site/kaynak adı, "son dakika" yazma.
@@ -196,16 +197,16 @@ def _check_text(text: str):
         raise ValueError("metin yarıda kesilmiş")
     if t.count("“") != t.count("”") or t.count('"') % 2 or t.count("**") % 2:
         raise ValueError("tırnak/kalın işaretleri eşleşmiyor")
-    # Son satır madde ("— ...") ise noktasız bitebilir; düz paragraf ise cümle bitmiş olmalı
-    last_line = t.splitlines()[-1].strip()
-    last = re.sub(r"[*”\"’')\s]+$", "", last_line)
-    if last and last[-1] not in ".!?:" and not last[-1].isdigit():
-        if not last_line.startswith(("—", "-", "–")):
-            raise ValueError("metin cümle ortasında bitiyor")
-        # Noktasız biten madde ancak tam bir ifadeyse kabul edilir ("— Kamyon sürücüsü g" gibi kesikler reddedilir)
-        words = re.findall(r"[\wçğıöşüÇĞİÖŞÜ']+", last_line)
-        if len(words) < 4 or len(words[-1]) < 3:
-            raise ValueError("son madde yarıda kesilmiş, cümleyi tamamla")
+    # HER satır (maddeler dahil) tam cümle olarak bitmeli. Model kelime sınırına sığmak için cümleyi
+    # yarıda bırakabiliyor ("— Valilik ... buzlanma riskine"); bu durumda metin yeniden yazdırılır.
+    for line in t.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        end = re.sub(r"[*”\"’')\s]+$", "", line)
+        if end and end[-1] not in ".!?:%" and not end[-1].isdigit():
+            raise ValueError(f"cümle yarım kalmış: '{line[-40:]}'. Her madde tam cümle olmalı ve noktayla bitmeli; "
+                             "sığmıyorsa madde sayısını azalt")
 
 
 def _clean_sentence(summary: str, title: str) -> str | None:
