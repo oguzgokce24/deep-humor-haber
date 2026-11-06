@@ -4730,22 +4730,50 @@
     "yönün"
    ],
    "at": "2026-11-06T08:16:58.473352+00:00"
+  },
+  {
+   "fp": [
+    "baraj",
+    "dolul",
+    "durum",
+    "iski",
+    "istan",
+    "oranı"
+   ],
+   "tok": [
+    "arada",
+    "baraj",
+    "boş",
+    "değiş",
+    "dolu",
+    "dolul",
+    "durum",
+    "düşük",
+    "fark",
+    "göre",
+    "göste",
+    "ise",
+    "iski",
+    "itiba",
+    "kasım",
+    "kayde",
+    "nda",
+    "oran",
+    "oranı",
+    "pabuç",
+    "payla",
+    "sağla",
+    "veril",
+    "yükse",
+    "yüzde",
+    "ıstra",
+    "ıstır",
+    "şehri"
+   ],
+   "at": "2026-11-06T08:20:41.323449+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "104ccb5945",
-   "post_id": "529346797199852_1454506790122362",
-   "title": "Amedspor-Eyüpspor maçı: Amedspor karşılaşmadan 5-1 galip ayrıldı",
-   "at": "2026-11-01T13:51:18.210572+00:00",
-   "yazim": "claude",
-   "metin": "Amedspor, Eyüpspor'u 5-1 yendi.\n\n— Samuel Ballet üç gol attı, hat-trick yaptı.\n— Ballet, maçın son dakikasında kırmızı kart gördü.\n— Gelecek hafta Galatasaray maçında forma giyemeyecek.\n— Amedspor 23 puanla ikinci sırada yer almayı sürdürdü.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/amedspor-dan-galatasaray-maci-oncesi-5-gollu-galibiyet-2552223",
-    "Evrensel: https://www.evrensel.net/haber/6007540/amedspor-eyupspor-maci-amedspor-karsilasmadan-5-1-galip-ayrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/amedspordan-bes-gollu-galibiyet-743859"
-   ]
-  },
   {
    "id": "bbfd3c890a",
    "post_id": "529346797199852_1454549783451396",
@@ -7498,6 +7526,19 @@
     "Evrensel: https://www.evrensel.net/haber/6008238/rubio-gorevinden-ayrilacagi-iddiasini-reddetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/abd-disisleri-bakani-rubiodan-gorevinden-ayrilacagi-yonundeki-iddialara-yanit-744899"
    ]
+  },
+  {
+   "id": "77c8222924",
+   "post_id": "529346797199852_1459230069650034",
+   "title": "İSKİ paylaştı: İstanbul'da barajların doluluk oranında son durum",
+   "at": "2026-11-06T08:20:41.323449+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'a su sağlayan barajların doluluk oranı 6 Kasım'da yüzde 61,5 oldu.\n\nEn dolu baraj yüzde 98,04 ile Istrancalar Barajı. En boş olan ise yüzde 7,74 ile Pabuçdere Barajı. Aradaki fark, şehrin su durumunun barajlara göre çok değiştiğini gösteriyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/iski-acikladi-iste-istanbulda-barajlarin-doluluk-oraninda-son-durum-7695558",
+    "BirGün: https://www.birgun.net/haber/iski-paylasti-istanbul-da-barajlarin-doluluk-oraninda-son-durum-744892",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/iski-acikladi-iste-istanbulda-barajlarin-doluluk-oraninda-son-durum-7695558"
+   ]
   }
  ],
  "fails": {
@@ -7582,6 +7623,7 @@
   "112a0e6c58": 1,
   "efba45e9ce": 2,
   "f54e0ff69f": 2,
-  "fae217045a": 1
+  "fae217045a": 1,
+  "acda68281c": 1
  }
 }
