@@ -7699,24 +7699,55 @@
     "üzeri"
    ],
    "at": "2026-11-06T17:19:49.903181+00:00"
+  },
+  {
+   "fp": [
+    "açıkl",
+    "cevde",
+    "cumhu",
+    "dan",
+    "emekl",
+    "ilgil",
+    "yapıl",
+    "yardı",
+    "yılma"
+   ],
+   "tok": [
+    "ana",
+    "artış",
+    "belir",
+    "cevde",
+    "dan",
+    "düzen",
+    "edild",
+    "emekl",
+    "enfla",
+    "epeyd",
+    "fon",
+    "iade",
+    "ilgil",
+    "kasım",
+    "liran",
+    "milya",
+    "olaca",
+    "refah",
+    "sürec",
+    "tasfi",
+    "topla",
+    "yapıl",
+    "yardı",
+    "yatır",
+    "yılma",
+    "zam",
+    "zammı",
+    "çalış",
+    "ödeme",
+    "üzeri"
+   ],
+   "at": "2026-11-06T17:32:59.133770+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "29ebcf492b",
-   "post_id": "529346797199852_1455117063394668",
-   "title": "Yurt dışından kıyafet getirenlere '430 Euro' vergi açıklaması",
-   "at": "2026-11-02T05:24:10.864614+00:00",
-   "yazim": "claude",
-   "metin": "Ticaret Bakanlığı Müşaviri Bekir Kaplan:\n\n“Kişisel kıyafetlerde 430 Euro sınırı uygulanmıyor.”\n\n— Kişisel kıyafetler gümrük vergisinden muaf.\n— 430 euroluk sınır hediyelik eşyalar için geçerli.\n— 15 yaş altı yolcularda bu sınır 150 euro.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/ekonomi/yurt-disindan-giyim-alisverisi-yapanlara-430-euro-siniri-var-mi-bakanliktan-aciklama-geldi-3487643",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/yurt-disindan-getirilen-kisisel-kiyafetlerde-430-avro-siniri-uygulanmiyor-3487627",
-    "Habertürk: https://www.haberturk.com/ekonomi/bakanliktan-yurt-disindan-alisveriste-430-euro-aciklamasi-3924203",
-    "Sözcü: https://www.sozcu.com.tr/yurt-disindan-kiyafet-getirenlere-430-euro-vergi-aciklamasi-p375034",
-    "Karar: https://www.karar.com/guncel-haberler/ticaret-bakanligindan-yurt-disindan-gelen-yolculara-430-euro-uyarisi-2081811"
-   ]
-  },
   {
    "id": "16d02b624c",
    "post_id": "529346797199852_1455129816726726",
@@ -10454,6 +10485,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/egitim/2027-meb-ags-ne-zaman-yapilacak-osym-2027-akademi-giris-sinavi-ve-basvuru-takvimi-2554002",
     "BirGün: https://www.birgun.net/haber/meb-ags-oabt-2027-ags-ne-zaman-iste-2027-meb-ags-oabt-basvuru-ve-sinav-tarihi-745005"
    ]
+  },
+  {
+   "id": "a201ff7b06",
+   "post_id": "529346797199852_1459715232934851",
+   "title": "Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 Kasım'da yeni bir ödeme yapılacak",
+   "at": "2026-11-06T17:32:59.133770+00:00",
+   "yazim": "yedek",
+   "metin": "Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 Kasım'da yeni bir ödeme yapılacak.\n\nCumhurbaşkanı Yardımcısı Yılmaz, fon tasfiye sürecinde şu ana kadar toplam 130 milyar liranın yatırımcılara iade edildiğini belirtti.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/ekonomi/cumhurbaskani-yardimcisi-yilmazdan-fon-tasfiye-sureciyle-ilgili-aciklama-962464.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-cevdet-yilmazdan-aciklamalar-43368810",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/emekliye-ne-kadar-zam-yapilacak-cevdet-yilmazdan-aciklama-3490077",
+    "NTV: https://www.ntv.com.tr/turkiye/cumhurbaskani-yardimcisi-cevdet-yilmazdan-ntvye-ozel-aciklamalar-1749713",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-yardimcisi-yilmazdan-emekli-zammi-aciklamasi-enflasyonun-uzerinde-artis-olacak-4870389",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-cevdet-yilmazdan-aciklamalar-43368810"
+   ]
   }
  ],
  "fails": {
@@ -10583,6 +10630,9 @@
   "2026-11-06T17:07 57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşı -> ValueError: yanıt okunamadı",
   "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
   "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı"
+  "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: metin cümle ortasında bitiyor",
+  "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: metin cümle ortasında bitiyor",
+  "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: yanıt okunamadı"
  ]
 }
