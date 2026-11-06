@@ -5294,22 +5294,108 @@
     "vurgu"
    ],
    "at": "2026-11-06T10:21:14.975114+00:00"
+  },
+  {
+   "fp": [
+    "16",
+    "6",
+    "ataşe",
+    "bina",
+    "cinay",
+    "deki",
+    "gözal",
+    "katil",
+    "kuzen",
+    "metru",
+    "yakal",
+    "yaşın",
+    "zanlı",
+    "çocuğ"
+   ],
+   "tok": [
+    "adliy",
+    "adres",
+    "alına",
+    "arana",
+    "ataşe",
+    "bina",
+    "binad",
+    "bıçak",
+    "cinay",
+    "deki",
+    "diğer",
+    "düzen",
+    "gönde",
+    "ilişk",
+    "katil",
+    "kuzen",
+    "metru",
+    "nda",
+    "nın",
+    "sakla",
+    "yaşın",
+    "zanlı",
+    "zeyti",
+    "çocuğ",
+    "öldür"
+   ],
+   "at": "2026-11-06T10:24:44.533830+00:00"
+  },
+  {
+   "fp": [
+    "beled",
+    "den",
+    "edile",
+    "kamu",
+    "kurba",
+    "proto",
+    "siyas",
+    "tepki",
+    "terci",
+    "tmmob",
+    "yarar",
+    "yüreğ"
+   ],
+   "tok": [
+    "adana",
+    "adım",
+    "açısı",
+    "beled",
+    "belir",
+    "birli",
+    "den",
+    "edile",
+    "etmes",
+    "göre",
+    "göste",
+    "güven",
+    "ikk",
+    "imzal",
+    "iptal",
+    "kaldı",
+    "kamu",
+    "kurba",
+    "mekan",
+    "mesle",
+    "nin",
+    "odası",
+    "ortad",
+    "proto",
+    "siyas",
+    "tekni",
+    "tepki",
+    "terci",
+    "tmmob",
+    "yapı",
+    "yarar",
+    "yüreğ",
+    "yılın",
+    "öneml"
+   ],
+   "at": "2026-11-06T10:25:26.167736+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d43cee1715",
-   "post_id": "529346797199852_1454588030114238",
-   "title": "İstanbul’un ekim enflasyonu belli oldu: Fiyatlar yüzde 2,47 arttı",
-   "at": "2026-11-01T15:28:50.254717+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da ekim ayında fiyatlar aylık yüzde 2,47 arttı. En çok zamlanan grup giyim ve ayakkabı oldu.\n\n— Eylülde aylık artış yüzde 1,66'da kalmıştı.\n\n— Giyim ve ayakkabıda fiyatlar yüzde 10,60 yükseldi. Kış sezonu bu artışta etkili oldu.\n\n— Yıllık enflasyon yüzde 34,96'dan yüzde 32,47'ye geriledi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6007553/ito-istanbul-un-ekim-ayi-enflasyonunu-acikladi-en-buyuk-artis-giyim-ve-ayakkabida?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Medyascope: https://medyascope.tv/2026/11/01/istanbulda-ekim-enflasyonu-yuzde-247ye-yukseldi/",
-    "Karar: https://www.karar.com/ekonomi-haberleri/istanbulun-ekim-enflasyonu-belli-oldu-fiyatlar-yuzde-247-artti-2081775"
-   ]
-  },
   {
    "id": "6a5604b754",
    "post_id": "529346797199852_1454600983446276",
@@ -8065,6 +8151,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/avcilar-da-kadina-bicakli-saldiri-yardim-istemek-icin-sokaga-cikti-yeniden-bicaklandi-2553882",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/kadin-kanlar-icinde-yardim-istedi-saldirgan-ikinci-kez-bicakladi-7695604"
    ]
+  },
+  {
+   "id": "88b82a7b6f",
+   "post_id": "529346797199852_1459315972974777",
+   "title": "TMMOB’den Yüreğir Belediyesine protokol tepkisi: \"Kamu yararı siyasi tercihlere kurban edilemez\"",
+   "at": "2026-11-06T10:25:26.167736+00:00",
+   "yazim": "claude",
+   "metin": "TMMOB Adana İKK, Yüreğir Belediyesi'nin bir iş birliği protokolünü iptal etmesine tepki gösterdi.\n\nBelediye, 2024'te 8 meslek odasıyla imzaladığı teknik iş birliği protokolünü iptal etti. TMMOB'ye göre bu adım, yapı güvenliği ve kamu yararı açısından önemli bir mekanizmayı ortadan kaldırıyor.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008280/tmmobden-yuregir-belediyesine-protokol-tepkisi-kamu-yarari-siyasi-tercihlere-kurban-edilemez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -8158,7 +8255,7 @@
   "69b7e320b0": 1,
   "d3b3462805": 1,
   "27d30120c2": 1,
-  "072f13a928": 2,
-  "7ff3e6c603": 1
+  "7ff3e6c603": 1,
+  "67e3d1578f": 1
  }
 }
