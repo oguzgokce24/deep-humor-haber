@@ -132,6 +132,8 @@ def _call_claude(source_text: str, model: str, key: str, feedback: str = "") -> 
     js = r.json()
     if "error" in js:
         raise RuntimeError("API: " + str(js["error"].get("message")))
+    if js.get("stop_reason") == "max_tokens":
+        raise ValueError("yanıt yarıda kesildi (uzunluk sınırı)")
     raw = "".join(b.get("text", "") for b in js.get("content", []))
     data = _parse(raw)
     text = _repair((data.get("metin") or "").strip())
@@ -196,10 +198,14 @@ def _check_text(text: str):
         raise ValueError("tırnak/kalın işaretleri eşleşmiyor")
     # Son satır madde ("— ...") ise noktasız bitebilir; düz paragraf ise cümle bitmiş olmalı
     last_line = t.splitlines()[-1].strip()
-    if not last_line.startswith(("—", "-", "–")):
-        last = re.sub(r"[*”\"’')\s]+$", "", last_line)
-        if last and last[-1] not in ".!?:" and not last[-1].isdigit():
+    last = re.sub(r"[*”\"’')\s]+$", "", last_line)
+    if last and last[-1] not in ".!?:" and not last[-1].isdigit():
+        if not last_line.startswith(("—", "-", "–")):
             raise ValueError("metin cümle ortasında bitiyor")
+        # Noktasız biten madde ancak tam bir ifadeyse kabul edilir ("— Kamyon sürücüsü g" gibi kesikler reddedilir)
+        words = re.findall(r"[\wçğıöşüÇĞİÖŞÜ']+", last_line)
+        if len(words) < 4 or len(words[-1]) < 3:
+            raise ValueError("son madde yarıda kesilmiş, cümleyi tamamla")
 
 
 def _clean_sentence(summary: str, title: str) -> str | None:
