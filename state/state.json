@@ -2,31 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bülte",
-    "dalto",
-    "gökha",
-    "gürci",
-    "iade",
-    "kırmı",
-    "türki",
-    "üyesi",
-    "şahin"
-   ],
-   "at": "2026-11-05T08:38:04.453353+00:00"
-  },
-  {
-   "fp": [
-    "istan",
-    "kuyru",
-    "metro",
-    "oluşt",
-    "uzun",
-    "yoğun"
-   ],
-   "at": "2026-11-05T08:38:09.155398+00:00"
-  },
-  {
-   "fp": [
     "alper",
     "doubl",
     "tripl",
@@ -8220,25 +8195,52 @@
     "özçağ"
    ],
    "at": "2026-11-06T20:37:19.867884+00:00"
+  },
+  {
+   "fp": [
+    "2002",
+    "5",
+    "81",
+    "bakan",
+    "bayra",
+    "bugün",
+    "doğal",
+    "ilde",
+    "sadec",
+    "türki",
+    "var",
+    "vardı"
+   ],
+   "tok": [
+    "alpar",
+    "arası",
+    "bayra",
+    "belde",
+    "bugün",
+    "doğal",
+    "dışın",
+    "enerj",
+    "gaz",
+    "gazı",
+    "götür",
+    "ilçel",
+    "inci",
+    "kayna",
+    "sadec",
+    "sene",
+    "tabii",
+    "var",
+    "vardı",
+    "yani",
+    "yerin",
+    "yerle",
+    "yıl",
+    "yılın"
+   ],
+   "at": "2026-11-06T20:50:00.077588+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7043ed5332",
-   "post_id": "529346797199852_1455316590041382",
-   "title": "Bodrum'u sağanak vurdu: Ev ve iş yerlerini su bastı, otomobil denize sürüklendi!",
-   "at": "2026-11-02T10:37:13.779991+00:00",
-   "yazim": "claude",
-   "metin": "Bodrum'da kuvvetli sağanak cadde ve sokakları göle çevirdi.\n\n— 9 mahallede 17 ev, 3 iş yeri olmak üzere 20 noktayı su bastı.\n— Mazı'da Hurma Deresi'nin debisi yükseldi, bir otomobil sel sularına kapılarak denize sürüklendi.\n— Ekipler kurtarma çalışması başlattı. İlçeye metrekareye 46 kilogram yağış düştü.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/bodrumda-kuvvetli-saganak-20-noktayi-su-basti-otomobil-denize-suruklendi-43363175",
-    "Milliyet: https://www.milliyet.com.tr/gundem/bodrumda-yagis-sele-donustu-ev-ve-is-yerlerini-su-basti-otomobil-denize-suruklendi-7692530",
-    "Habertürk: https://www.haberturk.com/gundem/bodrum-da-otomobil-denize-suruklendi-3924307",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bodrum-u-saganak-vurdu-ev-ve-is-yerlerini-su-basti-otomobil-denize-suruklendi-2552460",
-    "Evrensel: https://www.evrensel.net/haber/6007638/mugla-bodrumda-kuvvetli-saganak-ev-ve-is-yerlerini-su-basti-otomobil-denize-suruklendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/bodrumda-yagis-sele-donustu-ev-ve-is-yerlerini-su-basti-otomobil-denize-suruklendi-7692530"
-   ]
-  },
   {
    "id": "8a215e1bf7",
    "post_id": "529346797199852_1455326196707088",
@@ -10964,6 +10966,18 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6008355/ozcagdastan-bakan-ersoya-kartalkaya-sorusu-nasil-uyuyabiliyorsunuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "ee5cbea474",
+   "post_id": "529346797199852_1459849209588120",
+   "title": "Bakan Bayraktar: \"2002'de Türkiye'de sadece 5 ilde doğalgaz vardı, bugün 81 ilde var\"",
+   "at": "2026-11-06T20:50:00.077588+00:00",
+   "yazim": "claude",
+   "metin": "Enerji Bakanı Alparslan Bayraktar:\n\n“2002 yılında Türkiye'de sadece 5 ilde doğal gaz vardı. Bugün 81 ilde doğal gaz var.”\n\n— Bakan, bu yıl 1000'inci yerleşim yerine doğal gaz götürdüklerini söyledi.\n— Bu yerleşimler arasında ilçelerin dışındaki beldeler de var.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/bakan-bayraktar-2002-yilinda-turkiyede-sadece-5-ilde-dogal-gaz-vardi-bugun-81-ilde-var-43368911",
+    "BirGün: https://www.birgun.net/haber/bakan-bayraktar-2002-de-turkiye-de-sadece-5-ilde-dogalgaz-vardi-bugun-81-ilde-var-745022"
+   ]
   }
  ],
  "fails": {
@@ -11079,12 +11093,9 @@
   "fd73af00b8": 1,
   "90ee7ff142": 1,
   "95686bac75": 1,
-  "9eb9112084": 1
+  "9eb9112084": 2
  },
  "fail_log": [
-  "2026-11-06T19:28 Havalimanında ihramlı veda: Umre yolcularına salavat getirir -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11121,17 +11132,20 @@
   "2026-11-06T20:37 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118801818184806519",
+   "since_id": "2118805732451573896",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118802942132179254",
+   "since_id": "2118805586498437280",
    "started": true
   }
  }
