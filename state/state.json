@@ -2,66 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "aştı",
-    "baraj",
-    "berek",
-    "dolul",
-    "günde",
-    "istan",
-    "kaç",
-    "oranl",
-    "yağış",
-    "yüzde"
-   ],
-   "at": "2026-11-05T09:30:28.836499+00:00"
-  },
-  {
-   "fp": [
-    "2026",
-    "4",
-    "ateş",
-    "ekran",
-    "kasım",
-    "kaçın",
-    "milli",
-    "piyan",
-    "reyti",
-    "sevda",
-    "sonuç",
-    "sorgu",
-    "sırad",
-    "sıral",
-    "yeral",
-    "çekil"
-   ],
-   "at": "2026-11-05T09:30:37.195841+00:00"
-  },
-  {
-   "fp": [
-    "enfla",
-    "fiyat",
-    "gıda",
-    "öne"
-   ],
-   "at": "2026-11-05T09:31:08.912488+00:00"
-  },
-  {
-   "fp": [
-    "6",
-    "insan",
-    "izmir",
-    "opera",
-    "suç",
-    "tehdi",
-    "tutuk",
-    "örgüt",
-    "şüphe"
-   ],
-   "at": "2026-11-05T09:32:15.200994+00:00"
-  },
-  {
-   "fp": [
     "8",
     "abd",
     "azerb",
@@ -8361,23 +8301,53 @@
     "ünive"
    ],
    "at": "2026-11-06T21:28:35.665256+00:00"
+  },
+  {
+   "fp": [
+    "arı",
+    "cezae",
+    "gazet",
+    "ismai",
+    "tutuk",
+    "ziyar",
+    "özel",
+    "özgür"
+   ],
+   "tok": [
+    "arı",
+    "birgü",
+    "bulun",
+    "cezae",
+    "değil",
+    "eşimi",
+    "gazet",
+    "genel",
+    "gözya",
+    "gündü",
+    "ismai",
+    "kent",
+    "muhab",
+    "mücad",
+    "nde",
+    "parti",
+    "sinca",
+    "sorul",
+    "teker",
+    "unuta",
+    "vurgu",
+    "yaman",
+    "yanıt",
+    "yardı",
+    "ziyar",
+    "ödülü",
+    "öncek",
+    "özel",
+    "özgür"
+   ],
+   "at": "2026-11-06T21:41:15.968025+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6bd683470b",
-   "post_id": "529346797199852_1455356430037398",
-   "title": "Sarıgül soruşturmasında 10 kişi adliyeye sevk edildi",
-   "at": "2026-11-02T11:30:39.301812+00:00",
-   "yazim": "claude",
-   "metin": "Sarıgül ailesine yönelik soruşturmada gözaltına alınan 10 kişi adliyeye sevk edildi.\n\n— Soruşturma, suçtan kaynaklanan malvarlığı değerlerini aklama iddiasıyla yürütülüyor.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/sarigul-ailesine-yonelik-sorusturmada-10-kisi-adliyede-43363026",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasi-10-supheli-adliyede-3924251",
-    "BirGün: https://www.birgun.net/haber/sarigul-sorusturmasinda-10-kisi-adliyeye-sevk-edildi-744011",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/sarigul-ailesine-yonelik-sorusturmada-10-kisi-adliyede-43363026"
-   ]
-  },
   {
    "id": "bc481e3330",
    "post_id": "529346797199852_1455378096701898",
@@ -11100,6 +11070,22 @@
     "Sözcü: https://www.sozcu.com.tr/resmi-gazete-atamalar-7-kasim-2026-p376803",
     "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/hangi-universitelerin-rektorleri-degisti-atamalar-resmi-gazetede-duyuruldu-trabzon-universitesi-malatya-turgut-ozal-universitesi-ve-erciyes-universitesi-rektoru-kimdir-kac-yasinda-nereli-4870418"
    ]
+  },
+  {
+   "id": "0e6b68c622",
+   "post_id": "529346797199852_1459877926251915",
+   "title": "Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti",
+   "at": "2026-11-06T21:41:15.968025+00:00",
+   "yazim": "yedek",
+   "metin": "Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti.\n\nYENİ Parti Genel Başkanı Özgür Özel, 16 gündür Sincan Cezaevi'nde tutuklu bulunan BirGün gazetesi muhabiri İsmail Arı'yı ziyaret etti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ozgur-ozel-gazeteci-ismail-ari-yi-cezaevinde-ziyaret-etti-2554011",
+    "Evrensel: https://www.evrensel.net/haber/6008284/gazeteci-ismail-ari-cezaevinden-sorularimizi-yanitladi-bu-vurgun-oncekiler-gibi-degil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Evrensel: https://www.evrensel.net/haber/6008348/ozgur-ozel-gazeteci-ismail-ariyi-cezaevinde-ziyaret-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/yeni-parti-genel-baskan-yardimcisi-yaman-tutuklu-gazeteciler-ari-ve-tekerek-i-cezaevinde-ziyaret-etti-745046",
+    "BirGün: https://www.birgun.net/haber/tutuklu-gazeteci-ariya-kent-mucadelesi-odulu-745020",
+    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2118817924307972283"
+   ]
   }
  ],
  "fails": {
@@ -11220,9 +11206,6 @@
   "dd1876d6b8": 1
  },
  "fail_log": [
-  "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:58 Bakan Fidan'dan Kıbrıs \"meselesine\" çözüm: \"Çözümün Kıbrıs't -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:11 İçişleri Bakanı Mustafa Çiftçi: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11259,7 +11242,10 @@
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
@@ -11269,7 +11255,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118814108585996687",
+   "since_id": "2118817924307972283",
    "started": true
   }
  }
