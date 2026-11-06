@@ -2,27 +2,6 @@
  "seen": [
   {
    "fp": [
-    "beled",
-    "davas",
-    "gün",
-    "savcı",
-    "tamam",
-    "şile"
-   ],
-   "at": "2026-11-05T05:43:06.505214+00:00"
-  },
-  {
-   "fp": [
-    "51",
-    "dünya",
-    "kart",
-    "kırmı",
-    "rekor"
-   ],
-   "at": "2026-11-05T05:43:14.421862+00:00"
-  },
-  {
-   "fp": [
     "3",
     "8",
     "adana",
@@ -7745,22 +7724,49 @@
     "üzeri"
    ],
    "at": "2026-11-06T17:32:59.133770+00:00"
+  },
+  {
+   "fp": [
+    "adayı",
+    "aigne",
+    "alman",
+    "cdu",
+    "csu",
+    "cumhu",
+    "göste",
+    "ılse"
+   ],
+   "tok": [
+    "aday",
+    "adayı",
+    "aigne",
+    "alman",
+    "basın",
+    "birli",
+    "cdu",
+    "csu",
+    "demok",
+    "göre",
+    "göste",
+    "halin",
+    "hazır",
+    "hrist",
+    "ilse",
+    "kadın",
+    "nun",
+    "nın",
+    "ocak",
+    "olaca",
+    "parti",
+    "seçil",
+    "seçme",
+    "sosya",
+    "ılse"
+   ],
+   "at": "2026-11-06T17:45:37.953698+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "16d02b624c",
-   "post_id": "529346797199852_1455129816726726",
-   "title": "Meteoroloji açıkladı: 2 Kasım 2026 hava durumu raporu... Bugün hava nasıl olacak?",
-   "at": "2026-11-02T05:43:52.283347+00:00",
-   "yazim": "claude",
-   "metin": "Bugün birçok ilde sağanak yağış bekleniyor.\n\n— İstanbul, İzmir ve Antalya da yağıştan etkilenecek.\n— Muğla çevrelerinde yağış çok kuvvetli ve şiddetli olabilir.\n— Sıcaklıklarda büyük bir değişiklik beklenmiyor, mevsim normalleri civarında kalacak.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/hava-durumu/3-ile-kuvvetli-ve-siddetli-saganak-uyarisi-bugun-2-kasim-hava-nasil-olacak-istanbulda-yagmur-yagacak-mi-3487647",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-uyari-kuvvetli-saganak-yagmur-etkili-olacak-2-kasim-hava-durumu-3924198",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-2-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2552365"
-   ]
-  },
   {
    "id": "c0ced57262",
    "post_id": "529346797199852_1455154826724225",
@@ -10501,6 +10507,19 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-yardimcisi-yilmazdan-emekli-zammi-aciklamasi-enflasyonun-uzerinde-artis-olacak-4870389",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/cumhurbaskani-yardimcisi-cevdet-yilmazdan-aciklamalar-43368810"
    ]
+  },
+  {
+   "id": "2da0b7baa2",
+   "post_id": "529346797199852_1459726156267092",
+   "title": "Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gösterildi",
+   "at": "2026-11-06T17:45:37.953698+00:00",
+   "yazim": "yedek",
+   "metin": "Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gösterildi.\n\nAlman basınına göre, Hristiyan Birlik ile Sosyal Demokrat Parti, CSU'lu Ilse Aigner'i cumhurbaşkanlığına aday gösterdi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/almanyada-cdu-ve-csu-ilse-aigneri-cumhurbaskani-adayi-gosterdi/4114625",
+    "DW Türkçe: https://www.dw.com/tr/alman-basını-cumhurbaşkanlığına-csu-lu-ilse-aigner-aday-gösterildi/a-79878706?maca=tur-rss-tur-all-1495-xml-mrss",
+    "Evrensel: https://www.evrensel.net/haber/6008344/almanya-ilk-kadin-cumhurbaskanini-secmeye-hazirlaniyor-cdu-ve-csunun-adayi-ilse-aigner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -10633,6 +10652,9 @@
   "2026-11-06T17:19 Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'ye ev hapsiyl -> ValueError: yanıt okunamadı",
   "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: metin cümle ortasında bitiyor",
   "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: metin cümle ortasında bitiyor",
-  "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: yanıt okunamadı"
+  "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı"
  ]
 }
