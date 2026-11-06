@@ -2,36 +2,6 @@
  "seen": [
   {
    "fp": [
-    "8",
-    "abd",
-    "azerb",
-    "açıkl",
-    "cumhu",
-    "dan",
-    "düşün",
-    "erdoğ",
-    "günü",
-    "kasım",
-    "nde",
-    "seçim",
-    "zafer",
-    "ziyar"
-   ],
-   "at": "2026-11-05T10:03:30.043317+00:00"
-  },
-  {
-   "fp": [
-    "gelir",
-    "telek",
-    "türk",
-    "yüzde",
-    "çeyre",
-    "üçünc"
-   ],
-   "at": "2026-11-05T10:03:41.828158+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "cumhu",
     "dan",
@@ -8376,22 +8346,68 @@
     "şahıs"
    ],
    "at": "2026-11-06T21:54:24.371720+00:00"
+  },
+  {
+   "fp": [
+    "güliz",
+    "hayat",
+    "kaybe",
+    "kucur",
+    "senar"
+   ],
+   "tok": [
+    "ailes",
+    "aliye",
+    "ardın",
+    "atan",
+    "attı",
+    "aynal",
+    "baba",
+    "bahar",
+    "bahçe",
+    "başsa",
+    "bilgi",
+    "birço",
+    "camii",
+    "cenaz",
+    "cumar",
+    "damat",
+    "defne",
+    "deli",
+    "diled",
+    "dizil",
+    "dizin",
+    "efsan",
+    "films",
+    "güliz",
+    "günü",
+    "hacı",
+    "ikinc",
+    "imza",
+    "kaldı",
+    "kasım",
+    "kucur",
+    "mezar",
+    "namaz",
+    "nda",
+    "nden",
+    "sarıg",
+    "senar",
+    "seven",
+    "sevil",
+    "süper",
+    "tahir",
+    "vakfı",
+    "yaban",
+    "yazar",
+    "yaşın",
+    "yürek",
+    "öğle"
+   ],
+   "at": "2026-11-06T22:07:26.339515+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1594a3b2ae",
-   "post_id": "529346797199852_1455410086698699",
-   "title": "Ismail Jakobs: 'Yarın mutlaka kazanmamız gerekiyor'",
-   "at": "2026-11-02T12:37:59.060028+00:00",
-   "yazim": "claude",
-   "metin": "Ismail Jakobs:\n\n“Yarın mutlaka kazanmamız gerekiyor. Tek gerçek de bu.”\n\nGalatasaray, Şampiyonlar Ligi'nde yarın Stuttgart'ı ağırlayacak. Jakobs, aynı mevkide oynadığı Eren Elmalı ile birbirlerine başarı dilediklerini söyledi.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/ismail-jakobs-yarin-mutlaka-kazanmamiz-gerekiyor-3924326",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/ismail-jakobs-yarin-mutlaka-kazanmamiz-gerekiyor-2552503",
-    "Karar: https://www.karar.com/spor-haberleri/ismail-jakobs-mutlaka-kazanmamiz-gerekiyor-2081942"
-   ]
-  },
   {
    "id": "70af4210ab",
    "post_id": "529346797199852_1455443353362039",
@@ -11116,6 +11132,18 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-fon-sorusturmasinda-su-ana-kadar-toplamda-433-supheli-sahistan-112si-tutuklanmis-durumda/4114807",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasindan-son-durum-bakan-ciftci-duyurdu-112-kisi-tutuklandi-111-kisinin-mal-varliklari-donduruldu-2554050"
    ]
+  },
+  {
+   "id": "483ab51b60",
+   "post_id": "529346797199852_1459894162916958",
+   "title": "Efsaneleşen dizilerin yazarıydı… Senarist Güliz Kucur hayatını kaybetti",
+   "at": "2026-11-06T22:07:26.339515+00:00",
+   "yazim": "claude",
+   "metin": "Senarist Güliz Kucur 61 yaşında hayatını kaybetti.\n\nKucur, 'Süper Baba', 'Aynalı Tahir', 'Deli Yürek', 'İkinci Bahar', 'Yabancı Damat' ve 'Aliye' gibi dizilerin senaryosuna imza attı. FilmSan Vakfı, ailesine ve sevenlerine başsağlığı diledi.\n\n— Cenazesi 7 Kasım Cumartesi günü öğle namazının ardından Hacı Sarıgül Camii'nden kaldırılacak.\n— Kucur, Bahçeköy Mezarlığı'nda defnedilecek.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/magazin/yabanci-damatin-senaristi-guliz-kucur-hayatini-kaybetti-3490114",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/efsanelesen-dizilerin-yazariydi-senarist-guliz-kucur-hayatini-kaybetti-2554069"
+   ]
   }
  ],
  "fails": {
@@ -11235,16 +11263,11 @@
   "445fb6059f": 1,
   "dd1876d6b8": 1,
   "376658fd81": 1,
-  "b2d652d457": 1
+  "b2d652d457": 1,
+  "7cfdc07e45": 1,
+  "0dbc29f889": 1
  },
  "fail_log": [
-  "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:24 Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:37 İzmir Bornova’da bir kadın yolcunun Atatürk’e hakaret ettiği -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:37 İzmir Bornova’da bir kadın yolcunun Atatürk’e hakaret ettiği -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:37 İzmir Bornova’da bir kadın yolcunun Atatürk’e hakaret ettiği -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:37 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:37 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:37 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11277,17 +11300,24 @@
   "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:07 Gedson Fernandes: \"Futbol izlemeyi hiç sevmiyorum. Oynadığım -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:07 Gedson Fernandes: \"Futbol izlemeyi hiç sevmiyorum. Oynadığım -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:07 Gedson Fernandes: \"Futbol izlemeyi hiç sevmiyorum. Oynadığım -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:07 44 yıl önce bugün, 1982 Anayasası %91,37 'Kabul' oyuyla yürü -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:07 44 yıl önce bugün, 1982 Anayasası %91,37 'Kabul' oyuyla yürü -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:07 44 yıl önce bugün, 1982 Anayasası %91,37 'Kabul' oyuyla yürü -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:07 Efsaneleşen dizilerin yazarıydı… Senarist Güliz Kucur hayatı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118822681042633078",
+   "since_id": "2118827316935786821",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118822678811304303",
+   "since_id": "2118827188405604492",
    "started": true
   }
  }
