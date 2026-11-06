@@ -228,8 +228,7 @@ def _clean_sentence(summary: str, title: str) -> str | None:
 def fallback(cluster) -> dict:
     site = [i for i in cluster.usable if not i.social]
     lead = sorted(site, key=lambda i: (not i.anchor, abs(len(i.title) - 70)))[0] if site else cluster.lead()
-    head = lead.title.strip().rstrip(".").rstrip()
-    text = f"**{head}**" if head.endswith(("?", "!")) else f"**{head}.**"
+    text = f"**{lead.title.rstrip('.').rstrip()}.**"
     sent = _clean_sentence(lead.summary, lead.title)
     if sent:
         text += "\n\n" + sent
