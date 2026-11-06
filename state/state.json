@@ -2,19 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alt",
-    "bastı",
-    "beşik",
-    "geçid",
-    "kapat",
-    "trafi",
-    "yol",
-    "zinci"
-   ],
-   "at": "2026-11-04T15:54:46.501391+00:00"
-  },
-  {
-   "fp": [
     "başka",
     "dolan",
     "güven",
@@ -3327,6 +3314,66 @@
     "yılki"
    ],
    "at": "2026-11-06T03:38:28.580592+00:00"
+  },
+  {
+   "fp": [
+    "gerçe",
+    "konuş",
+    "senge"
+   ],
+   "tok": [
+    "gerçe",
+    "konuş",
+    "senge"
+   ],
+   "at": "2026-11-06T03:54:40.397268+00:00"
+  },
+  {
+   "fp": [
+    "damga",
+    "fon",
+    "günde",
+    "isiml",
+    "kim",
+    "sürdü",
+    "ummad",
+    "vurgu",
+    "vurma"
+   ],
+   "tok": [
+    "adı",
+    "bakıy",
+    "boyut",
+    "ceza",
+    "damga",
+    "erdoğ",
+    "fon",
+    "gazet",
+    "geçen",
+    "gizle",
+    "günde",
+    "haber",
+    "hiç",
+    "iktid",
+    "insan",
+    "isiml",
+    "isten",
+    "kesil",
+    "kim",
+    "korur",
+    "sakla",
+    "sürdü",
+    "sır",
+    "sırad",
+    "ummad",
+    "vurgu",
+    "vurma",
+    "yakın",
+    "yapan",
+    "yerin",
+    "çabas"
+   ],
+   "at": "2026-11-06T03:54:48.204157+00:00"
   }
  ],
  "posted": [
@@ -6167,8 +6214,6 @@
   "25b2de825d": 1,
   "173c999c4e": 1,
   "4040cd04ce": 2,
-  "933cd488d9": 2,
-  "cad6e4a380": 2,
-  "b801b7271b": 1
+  "b801b7271b": 2
  }
 }
