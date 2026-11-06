@@ -7163,22 +7163,51 @@
     "üzere"
    ],
    "at": "2026-11-06T15:31:21.975851+00:00"
+  },
+  {
+   "fp": [
+    "ahlak",
+    "cop31",
+    "engel",
+    "erişi",
+    "genel",
+    "günde",
+    "hafta",
+    "lgbti",
+    "neler",
+    "opera",
+    "yaşan",
+    "şartı"
+   ],
+   "tok": [
+    "ahlak",
+    "açıld",
+    "başlı",
+    "cop31",
+    "engel",
+    "erişi",
+    "flört",
+    "genel",
+    "günde",
+    "hafta",
+    "izmir",
+    "kadın",
+    "lgbti",
+    "medya",
+    "neler",
+    "tartı",
+    "trans",
+    "uygul",
+    "yaşan",
+    "yönel",
+    "çıktı",
+    "öne",
+    "şartı"
+   ],
+   "at": "2026-11-06T15:35:12.864825+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0f75a79903",
-   "post_id": "529346797199852_1454723900100651",
-   "title": "Kanada Başbakanı Carney ile ABD Başkanı Trump görüşme gerçekleştirdi",
-   "at": "2026-11-01T18:29:51.067747+00:00",
-   "yazim": "claude",
-   "metin": "Kanada Başbakanı Carney, ABD Başkanı Trump ile telefonda görüştü.\n\nTrump'ın açıklamaları yüzünden uzun süredir anlaşmazlık yaşayan iki ülkenin liderleri bir araya geldi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/kanada-basbakani-carney-abd-baskani-trump-ile-ikili-ticaret-meselesini-gorustu/4108169",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/kanada-basbakani-carney-trump-ile-gorustu-961895.html",
-    "BirGün: https://www.birgun.net/haber/kanada-basbakani-carney-ile-abd-baskani-trump-gorusme-gerceklestirdi-743889"
-   ]
-  },
   {
    "id": "2db09f25f3",
    "post_id": "529346797199852_1454777116761996",
@@ -9933,6 +9962,17 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/ingiliz-yayin-kurulusu-sky-da-saldiri-tehdidi-aldigini-duyurdu/4114429",
     "BirGün: https://www.birgun.net/haber/ingiliz-yayin-kurulusu-sky-da-saldiri-tehdidi-aldi-canli-yayinlar-durduruldu-745001"
    ]
+  },
+  {
+   "id": "abb7b1566e",
+   "post_id": "529346797199852_1459603419612699",
+   "title": "Operasyonlar, erişim engelleri, COP31’de “genel ahlak” şartı: LGBTİ+ gündeminde bu hafta neler yaşandı?",
+   "at": "2026-11-06T15:35:12.864825+00:00",
+   "yazim": "claude",
+   "metin": "Bu hafta LGBTİ+ gündeminde üç başlık öne çıktı.\n\n— İzmir'de trans kadınlara yönelik gözaltılar yaşandı.\n— Flört uygulamalarına erişim engelleri gündemdeydi.\n— COP31'de “genel ahlak” şartı tartışmaya açıldı.",
+   "sources": [
+    "Medyascope: https://medyascope.tv/2026/11/06/operasyonlar-erisim-engelleri-cop31de-genel-ahlak-sarti-lgbti-gundeminde-bu-hafta-neler-yasandi/"
+   ]
   }
  ],
  "fails": {
@@ -10036,7 +10076,7 @@
   "36b0917f0d": 2,
   "62e981073f": 1,
   "41540a0762": 1,
-  "38b392a7c5": 1,
+  "38b392a7c5": 2,
   "a074376217": 1
  }
 }
