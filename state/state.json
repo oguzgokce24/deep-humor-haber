@@ -7977,22 +7977,58 @@
     "çıkma"
    ],
    "at": "2026-11-06T19:02:34.603134+00:00"
+  },
+  {
+   "fp": [
+    "14",
+    "34",
+    "bahis",
+    "dışı",
+    "ilde",
+    "kişi",
+    "opera",
+    "tutuk",
+    "yasa"
+   ],
+   "tok": [
+    "adana",
+    "adli",
+    "ait",
+    "alına",
+    "antal",
+    "aydın",
+    "ağınd",
+    "bahis",
+    "bursa",
+    "bırak",
+    "dahil",
+    "düzen",
+    "dışı",
+    "faali",
+    "giriş",
+    "hesap",
+    "incel",
+    "kasım",
+    "kişid",
+    "kontr",
+    "liral",
+    "masak",
+    "milya",
+    "para",
+    "serbe",
+    "tespi",
+    "trafi",
+    "yapıl",
+    "yasa",
+    "yönel",
+    "zaman",
+    "çıkış",
+    "şartı"
+   ],
+   "at": "2026-11-06T19:15:06.344513+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0d0b847ca2",
-   "post_id": "529346797199852_1455237060049335",
-   "title": "Luka Doncic, 45 sayıyla yıldızlaştı: Lakers, Raptors'ı devirdi",
-   "at": "2026-11-02T08:43:36.511680+00:00",
-   "yazim": "claude",
-   "metin": "Luka Doncic 45 sayı attı, Lakers Raptors'ı 131-125 yendi.\n\n— Doncic 15 ribaunt, 6 asist ve 5 top çalmayla da öne çıktı.\n— Lakers sezonun beşinci maçını kazandı. Austin Reaves 19 sayı attı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/nba/luka-doncic-yine-sihrini-konusturdu-lakers-kazandi-3487718",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/luka-doncic-45-sayiyla-yildizlasti-lakers-raptors-i-devirdi-2552413",
-    "BirGün: https://www.birgun.net/haber/luka-doncicten-45-sayi-lakers-raptorsi-maglup-etti-743965"
-   ]
-  },
   {
    "id": "0b9bf607ae",
    "post_id": "529346797199852_1455244530048588",
@@ -10731,6 +10767,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bursa-da-isci-servisi-otomobille-carpisti-9-yarali-2554013",
     "Evrensel: https://www.evrensel.net/haber/6008349/bursada-isci-servisi-otomobille-carpisti-9-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "6e270800be",
+   "post_id": "529346797199852_1459792052927169",
+   "title": "Yasa dışı bahis ağında milyarlık para trafiği: 34 kişi tutuklandı",
+   "at": "2026-11-06T19:15:06.344513+00:00",
+   "yazim": "claude",
+   "metin": "Aydın merkezli 14 ilde yasa dışı bahis operasyonunda 34 şüpheli tutuklandı.\n\nGözaltına alınan 37 kişiden 3'ü adli kontrol şartıyla serbest bırakıldı.\n\n— MASAK incelemesinde, soruşturmadaki 40 şüpheliye ait hesaplarda 3 milyar 484 milyon liralık para giriş çıkışı tespit edildi.\n— Operasyon 3 Kasım'da Adana, Ankara, Antalya ve Bursa dahil 14 ilde eş zamanlı yapıldı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/yasa-disi-bahis-aginda-milyarlik-para-trafigi-34-kisi-tutuklandi-p376769",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/14-ilde-yasa-disi-bahis-operasyonu-34-kisi-tutuklandi-2554010",
+    "BirGün: https://www.birgun.net/haber/aydin-merkezli-14-ilde-bahis-operasyonu-34-tutuklama-745019"
+   ]
   }
  ],
  "fails": {
@@ -10887,12 +10936,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118777870801862731",
+   "since_id": "2118782125914624320",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118779007797796963",
+   "since_id": "2118783945441529968",
    "started": true
   }
  }
