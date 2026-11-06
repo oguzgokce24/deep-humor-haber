@@ -82,6 +82,12 @@ exclude:
   - tarifi
   - çekiliş sonuçları
 
+# X (Twitter) erken uyarı hesapları — X_BEARER_TOKEN gizli anahtarı gerekir.
+# Bu hesaplardan yalnızca olay/bilgi alınır; metin yeniden yazılır, fotoğrafları kullanılmaz.
+x_accounts:
+  - {username: "bpthaber", name: "BPT"}
+  - {username: "ajansmuhbir1923", name: "Muhbir"}
+
 # Doğrulama kuralları
 verify:
   min_groups: 1            # 1 = tek kaynakta görülen haber de paylaşılır (bağımsız/kullanılabilir bir kaynakta olmalı). Çok kaynaklı haberler yine önce gelir

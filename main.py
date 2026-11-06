@@ -23,6 +23,8 @@ import yaml
 from dh.collect import fetch_all, og_image
 from dh.render import render_card, pick_photo
 from dh import writer
+from dh.xsource import fetch_x
+from dh.render import wikimedia_photo
 from dh.verify import cluster, verified, similarity, story_tokens, is_duplicate_title
 from dh.verify import tokens as vtokens, _strong as vstrong
 from dh.channels import FacebookPage
@@ -139,6 +141,8 @@ def interest_score(c) -> float:
     t = " " + " ".join(i.title.lower() for i in c.items[:6]) + " "
     lead = c.lead().title
     score = min(len(c.groups), 8)                       # haberin büyüklüğü (en fazla 8 puan)
+    if any(getattr(i, "social", False) for i in c.items):
+        score += 4                                      # BPT/Muhbir gibi hızlı sayfaların gündemi: öne al
     if re.search(r"^[^:]{3,60}:\s", lead) or "\"" in lead or "“" in lead or "'" in lead[:1]:
         score += 2.5                                    # "Kişi: söz" biçimi / doğrudan alıntı
     if any(i.independent for i in c.items):
@@ -156,6 +160,7 @@ def find_new(cfg, st):
     v = cfg["verify"]
     log("Kaynaklar taranıyor…")
     items = fetch_all(cfg["sources"], v["max_age_hours"], log)
+    items += fetch_x(cfg.get("x_accounts", []), st, log)
     # Aynı görsel birden fazla FARKLI habere eklenmişse bu bir "son dakika" kartı / varsayılan görseldir
     from collections import defaultdict
     by_img = defaultdict(set)
@@ -257,8 +262,9 @@ def main():
         lead = c.lead()
         # Görsel adayları: önce RSS görselleri, sonra haber sayfalarının paylaşım görselleri.
         # Son dakika kartı / logo / küçük ya da grafik görseller elenir; uygun yoksa düz zemin kullanılır.
-        cands = [(i.image, i.source) for i in sorted(c.usable, key=lambda i: not i.anchor) if i.image]
-        cands += [(og_image(i.link), i.source) for i in sorted(c.usable, key=lambda i: not i.anchor)[:3]]
+        site_items = [i for i in c.usable if not getattr(i, "social", False)]   # X fotoğrafları kullanılmaz
+        cands = [(i.image, i.source) for i in sorted(site_items, key=lambda i: not i.anchor) if i.image]
+        cands += [(og_image(i.link), i.source) for i in sorted(site_items, key=lambda i: not i.anchor)[:3]]
         cands = [(u, src) for u, src in cands if u and u.split("?")[0] not in GENERIC_IMAGES]
         img, credit = pick_photo(cands, log)
         title = lead.title
@@ -281,9 +287,11 @@ def main():
                 fails.pop(fkey, None)
             log("  Metin yazılamadı; bu haber bu tur paylaşılmıyor.")
             continue
+        if img is None and w.get("person"):
+            img, credit = wikimedia_photo(w["person"], log)
         label = w["category"] or label_for(c)
-        render_card(title, img, body=w["text"], label=label,
-                    brand=cfg["brand"], theme=cfg["theme"], out_path=path)
+        render_card(title, img, body=w["text"], label=label, brand=cfg["brand"], theme=cfg["theme"],
+                    out_path=path, footer="FOTO: WIKIMEDIA COMMONS" if credit == "Wikimedia Commons" else "")
         caption = writer.plain(w["text"])
         tags = cfg["brand"].get("hashtags", "").strip()
         if tags:

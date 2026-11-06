@@ -75,8 +75,13 @@ BİÇİM:
 - Paragrafları boş satırla ayır. Madde satırları "— " ile başlar, aralarında boş satır olmaz.
 - Emoji, hashtag, site/kaynak adı, "son dakika" yazma.
 
+SOSYAL MEDYA KAYNAĞI: Kaynaklar arasında yalnızca "SOSYAL MEDYA PAYLAŞIMI" varsa, metni kendi cümlelerinle
+yaz (paylaşımın cümlelerini kopyalama). Bir kişinin açıklaması ise sözü tırnak içinde aktarabilirsin.
+Kişinin kendi açıklaması değilse temkinli yaz: "… iddia edildi", "… olduğu öne sürüldü".
+
 Yanıtı YALNIZCA şu biçimde ver (JSON KULLANMA):
 KATEGORİ: TÜRKİYE | DÜNYA | EKONOMİ | SPOR
+KİŞİ: (haberin merkezindeki tanınmış kişinin tam adı; yoksa boş bırak)
 ---
 (görsele yazılacak metin)"""
 
@@ -104,9 +109,14 @@ def gather_sources(cluster, max_sources: int = 3) -> str:
     for it in sorted(cluster.usable, key=lambda i: (not i.anchor,)):
         if it.group in groups or len(parts) >= max_sources:
             continue
-        body = _article_text(it.link) or it.summary
+        if it.social:
+            body = it.summary
+            head = f"### SOSYAL MEDYA PAYLAŞIMI ({it.source}) — haber sitesinde teyit edilmemiş olabilir"
+        else:
+            body = _article_text(it.link) or it.summary
+            head = f"### {it.title}"
         if body:
-            parts.append(f"### {it.title}\n{body}")
+            parts.append(f"{head}\n{body}")
             groups.add(it.group)
     return "\n\n".join(parts)
 
@@ -127,7 +137,10 @@ def _call_claude(source_text: str, model: str, key: str, feedback: str = "") -> 
     text = _repair((data.get("metin") or "").strip())
     _check_text(text)
     cat = (data.get("kategori") or "").strip().upper()
-    return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude"}
+    person = (data.get("kisi") or "").strip(" .-")
+    if len(person.split()) > 5 or person.lower() in ("yok", "boş", "-"):
+        person = ""
+    return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude", "person": person}
 
 
 def _repair(t: str) -> str:
@@ -150,9 +163,9 @@ def _repair(t: str) -> str:
 def _parse(raw: str) -> dict:
     """Model yanıtını okur. Önce düz metin biçimi (KATEGORİ: ... / --- / metin), sonra JSON denenir."""
     raw = raw.strip()
-    m = re.match(r"(?is)\s*KATEGOR[İI]\s*:\s*([^\n]+)\n\s*-{3,}\s*\n(.*)$", raw)
+    m = re.match(r"(?is)\s*KATEGOR[İI]\s*:\s*([^\n]+)\n(?:\s*K[İI]Ş[İI]\s*:\s*([^\n]*)\n)?\s*-{3,}\s*\n(.*)$", raw)
     if m:
-        return {"kategori": m.group(1).strip(), "metin": m.group(2).strip()}
+        return {"kategori": m.group(1).strip(), "kisi": (m.group(2) or "").strip(), "metin": m.group(3).strip()}
     j = re.search(r"\{.*\}", raw, re.S)
     if j:
         try:
@@ -204,7 +217,8 @@ def _clean_sentence(summary: str, title: str) -> str | None:
 
 
 def fallback(cluster) -> dict:
-    lead = cluster.lead()
+    site = [i for i in cluster.usable if not i.social]
+    lead = sorted(site, key=lambda i: (not i.anchor, abs(len(i.title) - 70)))[0] if site else cluster.lead()
     text = f"**{lead.title.rstrip('.').rstrip()}.**"
     sent = _clean_sentence(lead.summary, lead.title)
     if sent:
@@ -219,7 +233,10 @@ def write(cluster, model: str, log=print) -> dict | None:
     """Anahtar varsa metni Claude yazar. Reddedilen yanıt, ret nedeniyle birlikte tekrar yazdırılır (3 deneme).
     Yine olmazsa, temiz bir yedek metin kuralları geçiyorsa o kullanılır; geçmiyorsa haber bu tur atlanır."""
     key = os.environ.get("ANTHROPIC_API_KEY")
+    social_only = not any(not i.social for i in cluster.usable)
     if not key:
+        if social_only:
+            return None
         log("  (ANTHROPIC_API_KEY yok; basit metin kullanılıyor)")
         return fallback(cluster)
     src = gather_sources(cluster)
@@ -234,6 +251,8 @@ def write(cluster, model: str, log=print) -> dict | None:
             log(f"  ! Metin yazımı başarısız (deneme {attempt}: {msg[:100]})")
             if feedback.startswith("API:"):
                 break   # API hatası (kredi, erişim): tekrar denemek boşuna
+    if social_only:
+        return None          # yalnızca sosyal medya kaynağı varsa onun metniyle yedek kurma
     fb = fallback(cluster)
     try:
         _check_text(fb["text"])

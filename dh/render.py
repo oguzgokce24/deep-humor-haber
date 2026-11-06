@@ -102,6 +102,30 @@ def pick_photo(candidates, log=print):
     return None, None
 
 
+def wikimedia_photo(person: str, log=print):
+    """Tanınmış kişinin SERBEST LİSANSLI (Wikimedia Commons) fotoğrafı. (Image, künye) ya da (None, None)."""
+    if not person:
+        return None, None
+    for lang in ("tr", "en"):
+        try:
+            r = requests.get(f"https://{lang}.wikipedia.org/w/api.php", timeout=15,
+                             headers={"User-Agent": "DeepHumorHaberBot/1.0 (haber otomasyonu)"},
+                             params={"action": "query", "titles": person, "prop": "pageimages",
+                                     "piprop": "original", "pilicense": "free", "redirects": 1, "format": "json"})
+            pages = r.json().get("query", {}).get("pages", {})
+            for pg in pages.values():
+                url = pg.get("original", {}).get("source")
+                if url and not url.lower().endswith((".svg", ".gif")):
+                    im = load_photo(url)
+                    ok, why = photo_ok(im, url)
+                    if ok:
+                        return im, "Wikimedia Commons"
+        except Exception:
+            continue
+    log(f"  Wikimedia'da uygun fotoğraf yok: {person}")
+    return None, None
+
+
 def compose_photo(im: Image.Image, text_top: int) -> Image.Image:
     """Dikey (4:5) kadraja yerleştirir. Dikey/kareye yakın fotoğraflar doldurularak kırpılır;
     yatay fotoğraflar KESİLMEZ: bulanık arka plan üzerine tam genişlikte, metnin üstündeki alana oturtulur."""

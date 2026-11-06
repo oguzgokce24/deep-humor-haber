@@ -28,6 +28,7 @@ class Item:
     tokens: set = field(default_factory=set)
     independent: bool = False
     verify_only: bool = False
+    social: bool = False          # X gibi sosyal medya erken uyarı kaynağı
 
 
 def _text(el, *tags):

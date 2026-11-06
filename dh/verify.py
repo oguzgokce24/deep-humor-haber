@@ -109,7 +109,7 @@ class Cluster:
 
     def lead(self):
         """Başlık için temsilci haber: yalnızca kullanılabilir kaynaklardan, makul uzunlukta olan."""
-        cands = sorted(self.usable or self.items, key=lambda i: (not i.anchor, abs(len(i.title) - 70)))
+        cands = sorted(self.usable or self.items, key=lambda i: (i.social, not i.anchor, abs(len(i.title) - 70)))
         return cands[0]
 
     def best_image(self):
