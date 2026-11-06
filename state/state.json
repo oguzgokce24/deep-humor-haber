@@ -2,49 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2026",
-    "2027",
-    "ara",
-    "başlı",
-    "kasım",
-    "okull",
-    "tatil",
-    "zaman"
-   ],
-   "at": "2026-11-05T07:45:34.955694+00:00"
-  },
-  {
-   "fp": [
-    "6",
-    "ailes",
-    "arkın",
-    "açıld",
-    "cüney",
-    "dava",
-    "davas",
-    "nden",
-    "telif",
-    "şirke"
-   ],
-   "at": "2026-11-05T07:45:43.349196+00:00"
-  },
-  {
-   "fp": [
-    "6",
-    "9",
-    "ayı",
-    "başla",
-    "engel",
-    "kasım",
-    "liral",
-    "milya",
-    "yaşlı",
-    "ödeme"
-   ],
-   "at": "2026-11-05T07:45:50.932693+00:00"
-  },
-  {
-   "fp": [
     "2028",
     "başka",
     "fox",
@@ -8055,22 +8012,98 @@
     "üzeri"
    ],
    "at": "2026-11-06T19:28:20.606892+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "beled",
+    "chp",
+    "derhâ",
+    "katıl",
+    "kılıç",
+    "parti",
+    "yapıy",
+    "yolsu"
+   ],
+   "tok": [
+    "adres",
+    "artık",
+    "beled",
+    "bunla",
+    "chp",
+    "dahi",
+    "deki",
+    "derhâ",
+    "edece",
+    "gitme",
+    "gün",
+    "iktid",
+    "katıl",
+    "kılıç",
+    "olmal",
+    "parti",
+    "serbe",
+    "seçim",
+    "taham",
+    "vatan",
+    "yapıy",
+    "yayın",
+    "yazıs",
+    "yolsu",
+    "zaman"
+   ],
+   "at": "2026-11-06T19:45:34.852397+00:00"
+  },
+  {
+   "fp": [
+    "alınd",
+    "danış",
+    "getir",
+    "görev",
+    "hamle",
+    "kalem",
+    "mille",
+    "seçim",
+    "sonra",
+    "steph",
+    "susie",
+    "tan",
+    "trump",
+    "wiles",
+    "yenil",
+    "yerin",
+    "özel"
+   ],
+   "tok": [
+    "abd",
+    "alınd",
+    "beyaz",
+    "danış",
+    "donal",
+    "duyur",
+    "getir",
+    "görev",
+    "hamle",
+    "kalem",
+    "mille",
+    "müdür",
+    "saray",
+    "seçim",
+    "sonra",
+    "steph",
+    "susie",
+    "tan",
+    "trump",
+    "wiles",
+    "yardı",
+    "yenil",
+    "yerin",
+    "özel"
+   ],
+   "at": "2026-11-06T19:45:48.052151+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8e2e051919",
-   "post_id": "529346797199852_1455254070047634",
-   "title": "Rekabet Kurumu'ndan Google'ın yapay zeka özetleri hakkında geçici tedbir kararı",
-   "at": "2026-11-02T09:09:21.926085+00:00",
-   "yazim": "claude",
-   "metin": "Rekabet Kurumu, Google'ın yapay zekâ özetleriyle ilgili geçici tedbir kararı aldı.\n\n— Google, haber sitelerini yapay zekâ sistemine dahil olmaya zorlayamayacak.\n— Kurum, özetlerin doğrudan arama ekranında sunulmasının haber sitelerinin ziyaretçi trafiğini etkileyip etkilemediğine bakacak.\n— Ayrıca içerik lisanslarında ayrımcılık yapılıp yapılmadığını inceleyecek.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/bilim-teknoloji/rekabet-kurulundan-googlein-yapay-zeka-hizmetlerine-sorusturma-ve-gecici-tedbir-karari/4108501",
-    "CNN Türk: https://www.cnnturk.com/ekonomi/rekabet-kurumundan-googlein-yapay-zeka-ozetlerine-yonelik-tedbir-karari-3487726",
-    "BirGün: https://www.birgun.net/haber/rekabet-kurumu-ndan-google-in-yapay-zeka-ozetleri-hakkinda-gecici-tedbir-karari-743998"
-   ]
-  },
   {
    "id": "6425a69c21",
    "post_id": "529346797199852_1455262136713494",
@@ -10805,6 +10838,20 @@
    "sources": [
     "Karar: https://www.karar.com/insan-haberleri/havalimaninda-ihramli-veda-umre-yolcularina-salavat-getirirken-yere-2082774"
    ]
+  },
+  {
+   "id": "89c40cfaf7",
+   "post_id": "529346797199852_1459811442925230",
+   "title": "Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne getirdi",
+   "at": "2026-11-06T19:45:48.052151+00:00",
+   "yazim": "yedek",
+   "metin": "Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne getirdi.\n\nABD Başkanı Donald Trump, Beyaz Saray Özel Kalem Müdür Yardımcısı Stephen Miller’ı özel kalem müdürlüğüne getireceğini duyurdu.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-ozel-kalemi-susie-wilesin-yerine-danismani-stephen-milleri-getiriyor/4114710",
+    "Milliyet: https://www.milliyet.com.tr/dunya/trumptan-secim-yenilgisi-sonrasi-ilk-hamle-ozel-kalem-susie-wiles-gorevden-alindi-yerine-stephen-miller-getirildi-7695977",
+    "Evrensel: https://www.evrensel.net/haber/6008353/trump-danismani-stephen-miller-i-ozel-kalem-mudurlugune-getirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/trumptan-secim-yenilgisi-sonrasi-ilk-hamle-ozel-kalem-susie-wiles-gorevden-alindi-yerine-stephen-miller-getirildi-7695977"
+   ]
   }
  ],
  "fails": {
@@ -10916,20 +10963,10 @@
   "87b71a0ca8": 1,
   "9de3f8d1f2": 1,
   "059e235a29": 1,
-  "6a35fae54e": 2,
-  "d4b6873cc3": 1,
+  "d4b6873cc3": 2,
   "fd73af00b8": 1
  },
  "fail_log": [
-  "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: metin cümle ortasında bitiyor",
-  "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: metin cümle ortasında bitiyor",
-  "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: yanıt okunamadı",
-  "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı",
-  "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı",
-  "2026-11-06T18:36 Kemal Kılıçdaroğlu: \"Bu durumda yarın erken seçimle ilgili b -> ValueError: yanıt okunamadı",
   "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T18:49 🎙️ \"Cumhurbaşkanlığı için yeniden aday olmayı düşünüyor musu -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -10960,7 +10997,16 @@
   "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T19:45 Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne get -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
@@ -10970,7 +11016,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118789564173046116",
+   "since_id": "2118791613870973041",
    "started": true
   }
  }
