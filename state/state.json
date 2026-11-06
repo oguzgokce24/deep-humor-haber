@@ -3988,22 +3988,129 @@
     "ülken"
    ],
    "at": "2026-11-06T05:59:30.177665+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "alınd",
+    "geliş",
+    "gözal",
+    "kişi",
+    "sarıg",
+    "soruş"
+   ],
+   "tok": [
+    "ailes",
+    "aklam",
+    "alınd",
+    "geliş",
+    "iddia",
+    "ilgil",
+    "ilişk",
+    "kara",
+    "musta",
+    "para",
+    "sarıg",
+    "yönel"
+   ],
+   "at": "2026-11-06T06:10:45.637935+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "8",
+    "afyon",
+    "katle",
+    "kişiy",
+    "saldı",
+    "yakal",
+    "yerde"
+   ],
+   "tok": [
+    "afyon",
+    "ağır",
+    "bakın",
+    "demiş",
+    "diyer",
+    "eskiş",
+    "gasbe",
+    "gören",
+    "görev",
+    "görün",
+    "götür",
+    "katle",
+    "kendi",
+    "mit",
+    "ortay",
+    "otomo",
+    "yerde",
+    "çoban",
+    "çıktı",
+    "öldür",
+    "şahıs"
+   ],
+   "at": "2026-11-06T06:10:58.282969+00:00"
+  },
+  {
+   "fp": [
+    "13",
+    "açıkl",
+    "beyko",
+    "gemi",
+    "karay",
+    "oturd",
+    "perso",
+    "tahli"
+   ],
+   "tok": [
+    "adlı",
+    "alınd",
+    "arıza",
+    "beyko",
+    "boğaz",
+    "byb",
+    "daki",
+    "deniz",
+    "durdu",
+    "durum",
+    "ekipl",
+    "emniy",
+    "gemi",
+    "gemid",
+    "gemin",
+    "gemiy",
+    "genel",
+    "incel",
+    "iyi",
+    "karay",
+    "kurta",
+    "kıyı",
+    "kıyıy",
+    "makin",
+    "müdür",
+    "müret",
+    "neden",
+    "othel",
+    "otura",
+    "oturd",
+    "perso",
+    "sağlı",
+    "sürük",
+    "sürüy",
+    "tahli",
+    "tekni",
+    "trafi",
+    "vurdu",
+    "yüklü",
+    "yüzün",
+    "çalış",
+    "çelik",
+    "çıkar"
+   ],
+   "at": "2026-11-06T06:11:05.771543+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e54fc5b7eb",
-   "post_id": "529346797199852_1454420753464299",
-   "title": "Mantar toplamak için girdiği ormanda kabusu yaşadı: 67 yaşındaki adama bozayı saldırdı!",
-   "at": "2026-11-01T12:03:04.583338+00:00",
-   "yazim": "claude",
-   "metin": "Sakarya'nın Pamukova ilçesinde mantar toplamak için ormana giden 67 yaşındaki bir adam bozayı saldırısına uğradı.\n\nYanındaki arkadaşı 112'yi arayarak yardım istedi. Sağlık ekipleri adamı önce ilçe hastanesine, ardından Sakarya Eğitim ve Araştırma Hastanesi'ne ulaştırdı.\n\nHayati tehlikesi yok, genel durumu iyi.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/mantar-toplarken-bozayi-saldirdi-ormanda-canini-zor-kurtardi-43362461",
-    "Sözcü: https://www.sozcu.com.tr/mantar-toplamak-icin-girdigi-ormanda-kabusu-yasadi-67-yasindaki-adama-bozayi-saldirdi-p374884",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-mantar-toplarken-bozayinin-saldirisina-ugrayan-67-yasindaki-vatandas-yaralandi-2552196"
-   ]
-  },
   {
    "id": "88b1413613",
    "post_id": "529346797199852_1454429773463397",
@@ -6758,6 +6865,18 @@
     "Habertürk: https://www.haberturk.com/dunya/brezilya-daki-secim-yenilgisinin-ardindan-bolsonaro-abd-ye-nasil-kacti-3925296",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/brezilya-dan-gizlice-kacan-bolsonaro-dan-carpici-itiraf-bu-sirri-mezara-goturecegim-2553811"
    ]
+  },
+  {
+   "id": "7c206c2b95",
+   "post_id": "529346797199852_1459142596325448",
+   "title": "Beykoz açıklarında gemi karaya oturdu: 13 personel tahliye edildi",
+   "at": "2026-11-06T06:11:05.771543+00:00",
+   "yazim": "claude",
+   "metin": "Beykoz açıklarında çelik yüklü bir gemi karaya oturdu.\n\nTeknik arıza yüzünden makineler durdu, gemi sürüklenerek kıyıya vurdu.\n\n— 13 mürettebat ekiplerin çalışmasıyla tahliye edildi, sağlık durumları iyi.\n— Boğaz'daki deniz trafiği emniyete alındı. Geminin çıkarılması için teknik inceleme sürüyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/beykoz-aciklarinda-gemi-karaya-oturdu-13-personel-tahliye-edildi-43367794",
+    "Karar: https://www.karar.com/guncel-haberler/beykoz-aciklarinda-gemi-karaya-oturdu-13-personel-tahliye-edildi-2082628"
+   ]
   }
  ],
  "fails": {
@@ -6837,8 +6956,6 @@
   "8f9025465c": 1,
   "425a76483a": 1,
   "8a807859d9": 2,
-  "df5f1262ce": 2,
-  "7680d70573": 2,
   "42b2e0bd25": 1
  }
 }
