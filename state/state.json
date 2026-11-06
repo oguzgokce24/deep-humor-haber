@@ -6914,21 +6914,49 @@
     "örgüt"
    ],
    "at": "2026-11-06T14:52:52.519928+00:00"
+  },
+  {
+   "fp": [
+    "ingil",
+    "kurul",
+    "saldı",
+    "sky",
+    "tehdi",
+    "yayın"
+   ],
+   "tok": [
+    "aldı",
+    "aldığ",
+    "arala",
+    "ardın",
+    "bazı",
+    "benze",
+    "binal",
+    "bomba",
+    "boşal",
+    "bulun",
+    "durdu",
+    "duyur",
+    "edere",
+    "gelmi",
+    "ingil",
+    "irlan",
+    "kamu",
+    "kendi",
+    "kurul",
+    "medya",
+    "nin",
+    "rte",
+    "sky",
+    "tahli",
+    "tehdi",
+    "yayın",
+    "yönel"
+   ],
+   "at": "2026-11-06T14:56:18.231079+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a39b30f55b",
-   "post_id": "529346797199852_1454714570101584",
-   "title": "ABD'de Cadılar Bayramı kutlamaları sırasında 3 silahlı saldırı: İlk belirlemelere göre 6 kişi öldü",
-   "at": "2026-11-01T18:17:10.078027+00:00",
-   "yazim": "claude",
-   "metin": "ABD'de üç farklı kentteki Cadılar Bayramı kutlamalarında silahlı saldırılar oldu.\n\n— İlk belirlemelere göre en az 6 kişi öldü.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdde-cadilar-bayrami-kutlamalari-sirasinda-duzenlenen-silahli-saldirilarda-en-az-6-kisi-yasamini-yitirdi/4108175",
-    "BirGün: https://www.birgun.net/haber/abd-de-cadilar-bayrami-kutlamalari-sirasinda-3-silahli-saldiri-ilk-belirlemelere-gore-6-kisi-oldu-743890"
-   ]
-  },
   {
    "id": "0f75a79903",
    "post_id": "529346797199852_1454723900100651",
@@ -9684,6 +9712,18 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-haftalik-bazda-yuzde-15-5-dustu/4114186",
     "BirGün: https://www.birgun.net/haber/avrupa-da-dogal-gaz-fiyatlarinda-ortadogu-etkisi-yuzde-15-5-gerileme-744993"
    ]
+  },
+  {
+   "id": "68b7c0240a",
+   "post_id": "529346797199852_1459561422950232",
+   "title": "İngiliz yayın kuruluşu Sky da saldırı tehdidi aldı: Canlı yayınlar durduruldu",
+   "at": "2026-11-06T14:56:18.231079+00:00",
+   "yazim": "claude",
+   "metin": "İngiliz yayın kuruluşu Sky de bombalı saldırı tehdidi aldı.\n\nİrlanda kamu yayıncısı RTE'nin de aralarında olduğu medya kuruluşlarına benzer tehditler gelmişti. Sky bu tehdidi kendisi açıkladı.\n\nTehditlerin ardından bazı kuruluşlar binalarını boşaltıp canlı yayınlarını durdurdu.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/ingiliz-yayin-kurulusu-sky-da-saldiri-tehdidi-aldigini-duyurdu/4114429",
+    "BirGün: https://www.birgun.net/haber/ingiliz-yayin-kurulusu-sky-da-saldiri-tehdidi-aldi-canli-yayinlar-durduruldu-745001"
+   ]
   }
  ],
  "fails": {
@@ -9787,6 +9827,6 @@
   "36b0917f0d": 2,
   "62e981073f": 1,
   "41540a0762": 1,
-  "7110e61f69": 1
+  "7110e61f69": 2
  }
 }
