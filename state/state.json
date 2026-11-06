@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "cumhu",
-    "dan",
-    "erdoğ",
-    "fon",
-    "girmi",
-    "hiç",
-    "insan",
-    "içeri",
-    "içine",
-    "işin",
-    "işler",
-    "ummad",
-    "vurgu"
-   ],
-   "at": "2026-11-05T10:16:18.724915+00:00"
-  },
-  {
-   "fp": [
-    "4",
-    "gözal",
-    "hazır",
-    "iddia",
-    "insan",
-    "isme",
-    "istan",
-    "opera",
-    "suika",
-    "yakal",
-    "ünlü",
-    "şüphe"
-   ],
-   "at": "2026-11-05T10:16:27.489059+00:00"
-  },
-  {
-   "fp": [
-    "2",
-    "altın",
-    "bahçe",
-    "göçük",
-    "inşaa",
-    "kalan",
-    "kaldı",
-    "kayma",
-    "kazıs",
-    "kişi",
-    "temel",
-    "topra",
-    "var"
-   ],
-   "at": "2026-11-05T10:16:31.741185+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "alınd",
     "den",
@@ -8405,23 +8351,43 @@
     "öğle"
    ],
    "at": "2026-11-06T22:07:26.339515+00:00"
+  },
+  {
+   "fp": [
+    "adası",
+    "basın",
+    "belir",
+    "bende",
+    "duyul",
+    "hamir",
+    "iran",
+    "kayna",
+    "keşm",
+    "patla",
+    "sesle"
+   ],
+   "tok": [
+    "adası",
+    "basın",
+    "belir",
+    "bende",
+    "bildi",
+    "boğaz",
+    "duyul",
+    "hamir",
+    "hürmü",
+    "iran",
+    "kayna",
+    "kenti",
+    "keşm",
+    "patla",
+    "sesle",
+    "yakın"
+   ],
+   "at": "2026-11-06T22:20:16.579929+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "70af4210ab",
-   "post_id": "529346797199852_1455443353362039",
-   "title": "İzmir'i sis bürüdü!",
-   "at": "2026-11-02T13:19:24.487436+00:00",
-   "yazim": "claude",
-   "metin": "Meteoroloji İzmir'in merkez ve ilçeleri için gök gürültülü sağanak uyarısı yaptı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmiri-sis-kapladi-3487915",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmiri-sis-kapladi-3487914",
-    "Sözcü: https://www.sozcu.com.tr/izmirde-yagmurun-ardindan-sis-etkili-oldu-p375280",
-    "Yeni Şafak: https://www.yenisafak.com/video/gundem/izmirde-yagmur-ve-sis-ayni-anda-etkisini-gosterdi-4869147"
-   ]
-  },
   {
    "id": "46a62b7c92",
    "post_id": "529346797199852_1455499973356377",
@@ -11144,6 +11110,18 @@
     "CNN Türk: https://www.cnnturk.com/magazin/yabanci-damatin-senaristi-guliz-kucur-hayatini-kaybetti-3490114",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/efsanelesen-dizilerin-yazariydi-senarist-guliz-kucur-hayatini-kaybetti-2554069"
    ]
+  },
+  {
+   "id": "5922f942b0",
+   "post_id": "529346797199852_1459902426249465",
+   "title": "İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz patlama sesleri duyuldu",
+   "at": "2026-11-06T22:20:16.579929+00:00",
+   "yazim": "yedek",
+   "metin": "İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz patlama sesleri duyuldu.\n\nHürmüz Boğazı’na yakın Keşm Adası ile Bender Hamir kenti yakınlarında kaynağı belirlenemeyen patlama seslerinin duyulduğu bildirildi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasi-ile-bender-hamir-de-kaynagi-belirsiz-patlama-sesleri-duyuldu/4114819",
+    "Evrensel: https://www.evrensel.net/haber/6008364/iran-basini-kesm-adasi-ile-bender-hamirde-kaynagi-belirsiz-patlama-sesleri-duyuldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -11268,9 +11246,6 @@
   "0dbc29f889": 1
  },
  "fail_log": [
-  "2026-11-06T20:37 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11307,7 +11282,10 @@
   "2026-11-06T22:07 44 yıl önce bugün, 1982 Anayasası %91,37 'Kabul' oyuyla yürü -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:07 44 yıl önce bugün, 1982 Anayasası %91,37 'Kabul' oyuyla yürü -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:07 44 yıl önce bugün, 1982 Anayasası %91,37 'Kabul' oyuyla yürü -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T22:07 Efsaneleşen dizilerin yazarıydı… Senarist Güliz Kucur hayatı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T22:07 Efsaneleşen dizilerin yazarıydı… Senarist Güliz Kucur hayatı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
