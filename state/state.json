@@ -2,16 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alper",
-    "doubl",
-    "tripl",
-    "yetme",
-    "şengü"
-   ],
-   "at": "2026-11-05T08:51:37.682205+00:00"
-  },
-  {
-   "fp": [
     "den",
     "fırtı",
     "geliy",
@@ -8238,21 +8228,64 @@
     "yılın"
    ],
    "at": "2026-11-06T20:50:00.077588+00:00"
+  },
+  {
+   "fp": [
+    "evini",
+    "kiral",
+    "payla",
+    "sahib",
+    "sited",
+    "ücret"
+   ],
+   "tok": [
+    "ailey",
+    "aylar",
+    "ayrın",
+    "bağım",
+    "bedel",
+    "belir",
+    "dayan",
+    "değil",
+    "doğal",
+    "duyur",
+    "edilm",
+    "etmed",
+    "etmem",
+    "evi",
+    "evine",
+    "evini",
+    "geçin",
+    "gider",
+    "hdxtx",
+    "henüz",
+    "https",
+    "iyi",
+    "karşı",
+    "kendi",
+    "kira",
+    "kiral",
+    "kış",
+    "maaşl",
+    "medya",
+    "payla",
+    "sahib",
+    "sited",
+    "sosya",
+    "talep",
+    "tek",
+    "teyit",
+    "verec",
+    "veril",
+    "yalnı",
+    "yazdı",
+    "çocuk",
+    "ücret"
+   ],
+   "at": "2026-11-06T21:03:04.552231+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8a215e1bf7",
-   "post_id": "529346797199852_1455326196707088",
-   "title": "Kırklareli'nde çiftlik yangını felaketi: 210 buzağı telef oldu",
-   "at": "2026-11-02T10:51:08.104209+00:00",
-   "yazim": "claude",
-   "metin": "Kırklareli'nde bir hayvan çiftliğinde çıkan yangında 210 buzağı öldü.\n\n— Yangın Değirmencik köyündeki çiftlikte çıktı, rüzgarın da etkisiyle alevler hızla yayıldı.\n— İtfaiye ekipleri yangını söndürdü. Yangının nedeni henüz belli değil, inceleme başlatıldı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/hayvan-ciftliginde-yangin-cikti-210-buzagi-telef-oldu-961949.html",
-    "Karar: https://www.karar.com/sehir-haberleri/kirklarelinde-ciftlik-yangini-felaketi-210-buzagi-telef-oldu-2081918"
-   ]
-  },
   {
    "id": "275c83be5d",
    "post_id": "529346797199852_1455334283372946",
@@ -10978,6 +11011,17 @@
     "Hürriyet: https://www.hurriyet.com.tr/gundem/bakan-bayraktar-2002-yilinda-turkiyede-sadece-5-ilde-dogal-gaz-vardi-bugun-81-ilde-var-43368911",
     "BirGün: https://www.birgun.net/haber/bakan-bayraktar-2002-de-turkiye-de-sadece-5-ilde-dogalgaz-vardi-bugun-81-ilde-var-745022"
    ]
+  },
+  {
+   "id": "6595d4148c",
+   "post_id": "529346797199852_1459855812920793",
+   "title": "Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını paylaştı:",
+   "at": "2026-11-06T21:03:04.552231+00:00",
+   "yazim": "claude",
+   "metin": "Bir ev sahibi, kiraladığı evi tek maaşla geçinen çocuklu bir aileye ücretsiz vereceğini sosyal medyada duyurdu.\n\n— Ev sahibi kira talep etmediğini yazdı.\n— Kış aylarında doğalgaz giderlerinin de kendisi tarafından karşılanacağını belirtti.\n\nPaylaşım henüz bağımsız olarak teyit edilmiş değil, ayrıntılar sosyal medya paylaşımına dayanıyor.",
+   "sources": [
+    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2118810441023398397"
+   ]
   }
  ],
  "fails": {
@@ -11093,17 +11137,11 @@
   "fd73af00b8": 1,
   "90ee7ff142": 1,
   "95686bac75": 1,
-  "9eb9112084": 2
+  "9eb9112084": 2,
+  "445fb6059f": 1,
+  "dd1876d6b8": 1
  },
  "fail_log": [
-  "2026-11-06T19:41 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Archie Brown'a verilen 3 maçlık ceza onandı. -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:41 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T19:45 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Cevdet Yılmaz: “Kasım ayı sonuna kadar bu sürecin tamamlanac -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T19:45 Kılıçdaroğlu: “Bir CHP’li belediye başkanı yolsuzluk yapıyor -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11135,17 +11173,25 @@
   "2026-11-06T20:37 Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabil -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118805732451573896",
+   "since_id": "2118810346651840964",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118805586498437280",
+   "since_id": "2118810441023398397",
    "started": true
   }
  }
