@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "147",
-    "240",
-    "abd",
-    "ara",
-    "cumhu",
-    "dağıl",
-    "deki",
-    "demok",
-    "durum",
-    "günce",
-    "kaybe",
-    "kazan",
-    "koltu",
-    "mecli",
-    "ndeki",
-    "neden",
-    "sanda",
-    "senat",
-    "seçim",
-    "temsi",
-    "trump"
-   ],
-   "at": "2026-11-05T06:17:27.362476+00:00"
-  },
-  {
-   "fp": [
-    "16",
-    "2",
-    "aksar",
-    "ağır",
-    "devri",
-    "midib",
-    "taşıy",
-    "turis",
-    "yaral"
-   ],
-   "at": "2026-11-05T06:20:47.613716+00:00"
-  },
-  {
-   "fp": [
-    "2026",
-    "5",
-    "başla",
-    "bugün",
-    "durum",
-    "güne",
-    "hava",
-    "kasım",
-    "meteo",
-    "nasıl",
-    "olaca"
-   ],
-   "at": "2026-11-05T06:20:55.805421+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "2",
-    "abd",
-    "deniz",
-    "helik",
-    "yaral"
-   ],
-   "at": "2026-11-05T06:20:59.211367+00:00"
-  },
-  {
-   "fp": [
     "11",
     "hafta",
     "heyec",
@@ -7851,24 +7784,61 @@
     "örtüs"
    ],
    "at": "2026-11-06T18:10:44.091095+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "israi",
+    "yaşın",
+    "öldür"
+   ],
+   "tok": [
+    "alıyo",
+    "asker",
+    "ateş",
+    "ateşt",
+    "ayrın",
+    "açtı",
+    "açtığ",
+    "açıld",
+    "berba",
+    "bilgi",
+    "dahil",
+    "edile",
+    "edilm",
+    "filis",
+    "futbo",
+    "gazze",
+    "güney",
+    "han",
+    "israi",
+    "kaldı",
+    "katil",
+    "kayna",
+    "kente",
+    "kimli",
+    "kişis",
+    "muham",
+    "nidal",
+    "nin",
+    "ordus",
+    "oynar",
+    "sonuc",
+    "yaşın",
+    "yer",
+    "yerin",
+    "yunus",
+    "çadır",
+    "çocuk",
+    "çocuğ",
+    "öldür",
+    "ölen",
+    "şerid"
+   ],
+   "at": "2026-11-06T18:23:15.162850+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1265373564",
-   "post_id": "529346797199852_1455190173387357",
-   "title": "Ekiplerden İstanbul'da 'uyuşturucu' operasyonu: Tam 336 kilo ele geçirildi!",
-   "at": "2026-11-02T07:26:43.706960+00:00",
-   "yazim": "claude",
-   "metin": "Pendik'te kapalı kasa kamyonetten 336 kilo 550 gram skunk çıktı.\n\n— Polis, takip ettiği kamyoneti otoyolda durdurdu.\n— Sürücü gözaltına alındı, adliyeye sevk edilecek.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-336-kilo-550-gram-uyusturucu-ele-gecirildi-961928.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/pendikte-kamyonet-takibe-alindi-icinden-336-kilo-uyusturucu-cikti-43362925",
-    "Sözcü: https://www.sozcu.com.tr/istanbulda-kamyonette-336-kilo-550-gram-uyusturucu-bulundu-p375089",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ekiplerden-istanbul-da-uyusturucu-operasyonu-tam-336-kilo-ele-gecirildi-2552398",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/pendikte-kamyonet-takibe-alindi-icinden-336-kilo-uyusturucu-cikti-43362925"
-   ]
-  },
   {
    "id": "b51b6ae39f",
    "post_id": "529346797199852_1455199053386469",
@@ -10613,6 +10583,18 @@
     "Karar: https://www.karar.com/guncel-haberler/valilik-uyardi-boluda-kar-alarmi-2082766",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/istanbulun-yani-basi-valilik-saat-vererek-uyardi-kar-kalinligi-20-santimetreyi-bulacak-43368863"
    ]
+  },
+  {
+   "id": "87ddba63e8",
+   "post_id": "529346797199852_1459753619597679",
+   "title": "İsrail askerleri çadır kente ateş açtı: Han Yunus'ta 15 yaşında bir çocuk öldürüldü",
+   "at": "2026-11-06T18:23:15.162850+00:00",
+   "yazim": "claude",
+   "metin": "İsrail ordusunun Han Yunus'ta çadırlara açtığı ateşte 15 yaşındaki bir çocuk hayatını kaybetti.\n\nGazze Şeridi'nin güneyinde yerinden edilmiş Filistinlilerin kaldığı çadır kente ateş açıldı. Ölen çocuğun kimliği, kaynaklarda kişisel bilgiler de dahil ayrıntılı olarak yer alıyor.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/katil-israil-gazzede-15-yasindaki-cocugu-futbol-oynarken-oldurdu-962462.html",
+    "BirGün: https://www.birgun.net/haber/israil-askerleri-cadir-kente-ates-acti-han-yunus-ta-15-yasinda-bir-cocuk-olduruldu-745013"
+   ]
   }
  ],
  "fails": {
@@ -10752,5 +10734,17 @@
   "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: metin cümle ortasında bitiyor",
   "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: metin cümle ortasında bitiyor",
   "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: yanıt okunamadı"
- ]
+ ],
+ "x": {
+  "bpthaber": {
+   "id": "2955315479",
+   "since_id": "2118767585520910562",
+   "started": true
+  },
+  "ajansmuhbir1923": {
+   "id": "2017473596227010561",
+   "since_id": "2118770072986829047",
+   "started": true
+  }
+ }
 }
