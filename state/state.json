@@ -2,19 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "8",
-    "adana",
-    "afyon",
-    "büyük",
-    "depre",
-    "gece",
-    "yarıs"
-   ],
-   "at": "2026-11-05T05:49:53.348366+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "altın",
     "geçti",
@@ -7764,21 +7751,55 @@
     "ılse"
    ],
    "at": "2026-11-06T17:45:37.953698+00:00"
+  },
+  {
+   "fp": [
+    "bahçe",
+    "başka",
+    "beled",
+    "davas",
+    "gazio",
+    "hakan",
+    "hapsi",
+    "karar",
+    "tahli"
+   ],
+   "tok": [
+    "ara",
+    "ardın",
+    "bahçe",
+    "beled",
+    "davas",
+    "den",
+    "devam",
+    "gazio",
+    "gop",
+    "görev",
+    "hakan",
+    "hapsi",
+    "hesab",
+    "ifade",
+    "kabad",
+    "komşu",
+    "kulla",
+    "medya",
+    "merha",
+    "mesaj",
+    "nın",
+    "payla",
+    "sosya",
+    "sürec",
+    "tahli",
+    "uzakl",
+    "veril",
+    "çıktı",
+    "özgür",
+    "şile"
+   ],
+   "at": "2026-11-06T17:58:16.079174+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c0ced57262",
-   "post_id": "529346797199852_1455154826724225",
-   "title": "Ankara-Kırıkkale kara yolunda zincirleme trafik kazası: 7 yaralı",
-   "at": "2026-11-02T06:27:10.968624+00:00",
-   "yazim": "claude",
-   "metin": "Ankara-Kırıkkale kara yolunda zincirleme kazada 7 kişi yaralandı.\n\n— Yaralılar arasında çocuklar da var.\n— Sağlık ekipleri ilk müdahaleyi yaptı, yaralılar ambulanslarla hastaneye götürüldü.\n— Kaza nedeniyle yolda araç kuyrukları oluştu.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/zincirleme-kazada-4-arac-birbirine-girdi-7-yarali-961920.html",
-    "Sözcü: https://www.sozcu.com.tr/ankara-kirikkale-kara-yolunda-zincirleme-trafik-kazasi-7-yarali-p375047"
-   ]
-  },
   {
    "id": "00c44f5c98",
    "post_id": "529346797199852_1455161860056855",
@@ -10520,6 +10541,22 @@
     "DW Türkçe: https://www.dw.com/tr/alman-basını-cumhurbaşkanlığına-csu-lu-ilse-aigner-aday-gösterildi/a-79878706?maca=tur-rss-tur-all-1495-xml-mrss",
     "Evrensel: https://www.evrensel.net/haber/6008344/almanya-ilk-kadin-cumhurbaskanini-secmeye-hazirlaniyor-cdu-ve-csunun-adayi-ilse-aigner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "99efe810aa",
+   "post_id": "529346797199852_1459736002932774",
+   "title": "Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba özgürlük…’",
+   "at": "2026-11-06T17:58:16.079174+00:00",
+   "yazim": "yedek",
+   "metin": "Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba özgürlük…’.\n\nGaziosmanpaşa Belediye Başkanı Hakan Bahçetepe, tahliye kararının ardından sosyal medya hesabından ilk paylaşımını yaptı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/gaziosmanpasa-belediyesi-davasinda-karar-43368824",
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-gaziosmanpasa-belediye-davasinda-karar-7695915",
+    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-gaziosmanpasa-belediyesi-davasinda-karar-hakan-bahcetepeye-ev-hapsiyle-tahliye-karari-3490075",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/06/gaziosmanpasa-belediye-baskani-hakan-bahcetepe-hakkinda-ev-hapsiyle-tahliye-karari",
+    "NTV: https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
+    "Sözcü: https://www.sozcu.com.tr/hakan-bahcetepe-ye-tahliye-6-kasim-2026-p376763"
+   ]
   }
  ],
  "fails": {
@@ -10655,6 +10692,9 @@
   "2026-11-06T17:33 Cevdet Yılmaz: Yatırımcılara 130 milyar TL iade edildi, 13 K -> ValueError: yanıt okunamadı",
   "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
   "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
-  "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı"
+  "2026-11-06T17:45 Alman basını: Cumhurbaşkanlığına CSU'lu Ilse Aigner aday gös -> ValueError: yanıt okunamadı",
+  "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: metin cümle ortasında bitiyor",
+  "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: metin cümle ortasında bitiyor",
+  "2026-11-06T17:58 Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba -> ValueError: yanıt okunamadı"
  ]
 }
