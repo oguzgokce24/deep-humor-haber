@@ -2,26 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alaat",
-    "bahçe",
-    "devle",
-    "ziyar",
-    "çakıc"
-   ],
-   "at": "2026-11-05T15:42:43.107364+00:00"
-  },
-  {
-   "fp": [
-    "afyon",
-    "hayat",
-    "kaybe",
-    "kişi",
-    "silah"
-   ],
-   "at": "2026-11-05T15:49:48.068071+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "bağış",
     "diamo",
@@ -8970,25 +8950,94 @@
     "üretk"
    ],
    "at": "2026-11-07T03:40:48.473951+00:00"
+  },
+  {
+   "fp": [
+    "000",
+    "5",
+    "670",
+    "adana",
+    "düştü",
+    "kilos",
+    "kolla",
+    "rekol",
+    "sıvan",
+    "ton"
+   ],
+   "tok": [
+    "adana",
+    "aksad",
+    "akın",
+    "alıcı",
+    "ancak",
+    "arası",
+    "ağaçt",
+    "bahçe",
+    "başla",
+    "başın",
+    "bekle",
+    "bin",
+    "buluy",
+    "deki",
+    "deste",
+    "doğan",
+    "dönüm",
+    "düştü",
+    "düşük",
+    "dışın",
+    "fiyat",
+    "fukum",
+    "gemi",
+    "genel",
+    "geçen",
+    "gidem",
+    "hasad",
+    "ihrac",
+    "ise",
+    "isted",
+    "kalan",
+    "kaldı",
+    "karad",
+    "kent",
+    "kentt",
+    "kilog",
+    "kilos",
+    "kolla",
+    "mehme",
+    "naren",
+    "navel",
+    "neden",
+    "nin",
+    "odası",
+    "porta",
+    "rekol",
+    "rusya",
+    "savaş",
+    "sene",
+    "seviy",
+    "sezon",
+    "sınır",
+    "sıvan",
+    "ton",
+    "trafi",
+    "tırla",
+    "ukray",
+    "yalnı",
+    "yeter",
+    "yurt",
+    "yükse",
+    "yüreğ",
+    "yıl",
+    "ziraa",
+    "üreti",
+    "ürün",
+    "ürünl",
+    "ürünü"
+   ],
+   "at": "2026-11-07T03:53:44.090326+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "86341c59a9",
-   "post_id": "529346797199852_1456144763291898",
-   "title": "İstanbul merkezli 39 ilde yasa dışı bahis operasyonu: 151 şüpheli yakalandı",
-   "at": "2026-11-03T06:36:36.767682+00:00",
-   "yazim": "claude",
-   "metin": "39 ilde Telegram üzerinden yasa dışı bahis operasyonu.\n\n— 194 şüpheli için gözaltı kararı verildi.\n— İçişleri Bakanlığı 151 şüphelinin yakalandığını açıkladı.\n— Tespitlerde yapay zekâ destekli AVCI projesi kullanıldı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/yapay-zeka-destekli-yasa-disi-bahis-operasyonu-151-gozalti-962031.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/avci-projesiyle-yasa-disi-bahise-dev-darbe-39-ilde-151-gozalti-43363939",
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-istanbul-merkezli-yapay-zeka-destekli-yasa-disi-bahis-operasyonu-151-gozalti-7693047",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/03/son-dakika-icisleri-bakanligi-duyurdu-avcidan-yasa-disi-bahis-darbesi-151-supheli-yakalandi",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-avci-destekli-operasyon-151-gozalti-3924482",
-    "Sözcü: https://www.sozcu.com.tr/39-ilde-yasa-disi-bahis-operasyonu-151-supheli-yakalandi-p375463"
-   ]
-  },
   {
    "id": "ce90244283",
    "post_id": "529346797199852_1456164869956554",
@@ -11648,6 +11697,17 @@
    "metin": "Cihangir Atölye Sahnesi'ndeki “Neredeyse Eşittir” oyunu, ekonominin yerleşik kabullerini alaya alıyor.\n\nOyunu İsveçli yazar Jonas Hassen Khemiri kaleme aldı, Hasret Güneş çevirdi, Serpil Göral yönetti.\n\n— Oyun, para ve değer kavramlarını eleştiriyor.\n— Oyun şu soruyu soruyor: “Bir insanın değeri neyle ölçülür? Sahip olduklarıyla mı, kazandığı parayla mı, üretkenliğiyle mi?”\n— Ekonomik sistemin kurallarına ayak uyduramayan birinin değerinin azalıp azalmayacağını da tartışıyor.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/cihangir-atolye-sahnesinden-neredeyse-esittir-oyunu-bir-insanin-degeri-neyle-olculur-745032"
+   ]
+  },
+  {
+   "id": "f74b79f5a0",
+   "post_id": "529346797199852_1460118729561168",
+   "title": "670.000 ton rekolte için kollar sıvandı: Adana’da kilosu 5 TL’ye düştü!",
+   "at": "2026-11-07T03:53:44.090326+00:00",
+   "yazim": "claude",
+   "metin": "Adana'da portakalın kilosu bahçede 5 TL'ye düştü, rekolte yüksek ama ihracat sınırlı.\n\n— Kentte 670 bin ton rekolte bekleniyor ve Navelina ile Fukumoto portakallarının hasadı başladı.\n— Geçen sene bahçede kilosu 27-32 TL olan portakal bu sezon 5-7 TL arasında alıcı buluyor.\n— Rusya-Ukrayna savaşı nedeniyle Karadeniz'deki gemi trafiği aksadı, ihracat yalnızca tırlarla sınırlı kaldı.\n— Yüreğir Ziraat Odası Başkanı Mehmet Akın Doğan, ağaçta kalan ürün için kilogram başına 5 lira destek istediğini söyledi.\n\nYüreğir Ziraat Odası Başkanı Mehmet Akın Doğan:\n\n\"Bu yıl rekoltemiz yüksek ancak Rusya-Ukrayna savaşı nedeniyle ürünlerimiz yurt dışına yeterince gidemiyor. O nedenle fiyatlar çok düşük seviyede kaldı.\"",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/670-000-ton-rekolte-icin-kollar-sivandi-adanada-kilosu-5-tlye-dustu-2082787"
    ]
   }
  ],
