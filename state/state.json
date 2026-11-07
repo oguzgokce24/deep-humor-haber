@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altın",
-    "anlat",
-    "arı",
-    "ayakl",
-    "birgü",
-    "cezae",
-    "ismai",
-    "koşul",
-    "muhab",
-    "ranza"
-   ],
-   "tok": [
-    "alan",
-    "altın",
-    "anlat",
-    "arı",
-    "ayakl",
-    "birgü",
-    "burad",
-    "cezae",
-    "ederk",
-    "gazet",
-    "gündü",
-    "ifade",
-    "ismai",
-    "kaldı",
-    "kalem",
-    "kişil",
-    "koğuş",
-    "koşul",
-    "mektu",
-    "muhab",
-    "nde",
-    "ranza",
-    "sadec",
-    "sinca",
-    "tutul",
-    "uyudu",
-    "vücut",
-    "yaptı",
-    "yarıs",
-    "yatan",
-    "yazdı",
-    "yaşad",
-    "yerde"
-   ],
-   "at": "2026-11-06T02:59:24.357782+00:00"
-  },
-  {
-   "fp": [
     "insan",
     "konfe",
     "mesle",
@@ -11171,24 +11121,50 @@
     "şampi"
    ],
    "at": "2026-11-07T14:55:28.512665+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "4",
+    "kişi",
+    "otomo",
+    "refüj",
+    "yaral",
+    "zongu"
+   ],
+   "tok": [
+    "ailed",
+    "aynı",
+    "basın",
+    "buhar",
+    "bulun",
+    "demir",
+    "fabri",
+    "geçit",
+    "hasta",
+    "hemze",
+    "kalan",
+    "kaldı",
+    "kesiş",
+    "maruz",
+    "muş",
+    "otomo",
+    "refüj",
+    "seviy",
+    "sıcak",
+    "treni",
+    "yaşan",
+    "yolun",
+    "yük",
+    "zongu",
+    "çarpa",
+    "çarpt",
+    "çarpı"
+   ],
+   "at": "2026-11-07T15:07:58.628711+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9cb8a52189",
-   "post_id": "529346797199852_1457216156518092",
-   "title": "İSKİ verileri açıkladı: İstanbul'da barajların doluluk oranında son durum",
-   "at": "2026-11-04T08:36:20.773652+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'daki barajların ortalama doluluk oranı yüzde 54,75 oldu.\n\n— İSKİ'nin 4 Kasım 2026 tarihli ölçümlerine göre, kente su veren on ana barajın ortalaması bu.\n— En dolu baraj yüzde 90,34 ile Darlık Barajı. En boş baraj ise yüzde 3,08 ile Pabuçdere Barajı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/iski-acikladi-4-kasim-2026-istanbul-baraj-doluluk-oranlari-yuzde-kac-oldu-barajlarda-son-durum-2553119",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-4-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2553108",
-    "BirGün: https://www.birgun.net/haber/iski-verileri-acikladi-istanbul-da-barajlarin-doluluk-oraninda-son-durum-744422",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-4-kasim-2026-43365349",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-4-kasim-2026-43365349"
-   ]
-  },
   {
    "id": "03083f2d70",
    "post_id": "529346797199852_1457224693183905",
@@ -13820,6 +13796,20 @@
     "Sözcü Spor: https://www.sozcu.com.tr/acun-ilicali-icin-muthis-iddia-ucuncu-kulubunu-aliyor-p376982",
     "BPT (X): https://x.com/bpthaber/status/2119079232873639998"
    ]
+  },
+  {
+   "id": "6dc96b84f9",
+   "post_id": "529346797199852_1460666846173023",
+   "title": "Muş'ta yük treniyle otomobil çarpıştı: 3 kişi yaralandı",
+   "at": "2026-11-07T15:07:58.628711+00:00",
+   "yazim": "claude",
+   "metin": "Muş'ta hemzemin geçitte yük treniyle çarpışan otomobildeki 3 kişi yaralandı.\n\nKaza, demiryolu ile yolun aynı seviyede kesiştiği geçitte yaşandı. Yaralılar hastaneye kaldırıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/zonguldak/merkez/otomobil-refuje-carpti-ayni-aileden-4-kisi-yaralandi-3490292",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/zonguldak/zonguldakta-refuje-carpan-otomobildeki-4-kisi-yaralandi-3490283",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/zonguldak/zonguldakta-fabrikada-basincli-sicak-su-buharina-maruz-kalan-3-kisi-yaralandi-3490276",
+    "BirGün: https://www.birgun.net/haber/mus-ta-yuk-treniyle-otomobil-carpisti-3-kisi-yaralandi-745149"
+   ]
   }
  ],
  "fails": {
@@ -14000,7 +13990,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119077152230391812",
+   "since_id": "2119084251865907210",
    "started": true
   }
  }
