@@ -10211,22 +10211,52 @@
     "ümit"
    ],
    "at": "2026-11-07T08:37:51.282221+00:00"
+  },
+  {
+   "fp": [
+    "ardın",
+    "değiş",
+    "kabin",
+    "seçim",
+    "trump",
+    "yenil"
+   ],
+   "tok": [
+    "abd",
+    "adım",
+    "almay",
+    "ancak",
+    "ardın",
+    "belir",
+    "birka",
+    "cbs",
+    "değiş",
+    "donal",
+    "geldi",
+    "genel",
+    "gidec",
+    "görev",
+    "hazır",
+    "hemen",
+    "ismi",
+    "kabin",
+    "kongr",
+    "konuş",
+    "memnu",
+    "news",
+    "planl",
+    "röpor",
+    "seçim",
+    "sinya",
+    "tan",
+    "trump",
+    "verdi",
+    "yenil"
+   ],
+   "at": "2026-11-07T08:50:22.251428+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "86d61c79d0",
-   "post_id": "529346797199852_1456406273265747",
-   "title": "Şevval İlayda Tarhan dünya şampiyonu oldu",
-   "at": "2026-11-03T12:43:20.981527+00:00",
-   "yazim": "claude",
-   "metin": "Milli atıcı Şevval İlayda Tarhan dünya şampiyonu oldu.\n\nKatar'da düzenlenen ISSF Tüm Dallar Dünya Şampiyonası'nda kadınlar 50 metre tabancada altın madalyayı o kazandı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/milli-atici-sevval-ilayda-tarhan-katarda-dunya-sampiyonu-oldu-/4109904",
-    "Habertürk: https://www.haberturk.com/spor/sevval-ilayda-tarhan-dunya-sampiyonu-oldu-3924591",
-    "BirGün: https://www.birgun.net/haber/sevval-ilayda-tarhan-dunya-sampiyonu-oldu-744298"
-   ]
-  },
   {
    "id": "2269426cc8",
    "post_id": "529346797199852_1456458849927156",
@@ -12855,6 +12885,18 @@
    "sources": [
     "Muhbir (X): https://x.com/ajansmuhbir1923/status/2118985284192809011"
    ]
+  },
+  {
+   "id": "4e893c84d2",
+   "post_id": "529346797199852_1460333786206329",
+   "title": "Seçim yenilgisinin ardından: Trump, kabinesinde değişikliğe hazırlanıyor",
+   "at": "2026-11-07T08:50:22.251428+00:00",
+   "yazim": "claude",
+   "metin": "ABD Başkanı Donald Trump, Cumhuriyetçilerin Kongre seçimlerini kaybetmesinin ardından kabinesinde değişikliğe gideceğini söyledi.\n\n— Trump, CBS News'e verdiği röportajda kabinesinden genel olarak memnun olduğunu ama birkaç ismi görevden almayı planladığını belirtti.\n\n— Açıklama, Cumhuriyetçilerin Kongre seçimlerindeki yenilgisinin hemen ardından geldi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/dunya/trumptan-kabine-degisikligi-sinyali-secim-yenilgisinin-ardindan-yeni-adim-3490151",
+    "BirGün: https://www.birgun.net/haber/secim-yenilgisinin-ardindan-trump-kabinesinde-degisiklige-hazirlaniyor-745060"
+   ]
   }
  ],
  "fails": {
@@ -13028,12 +13070,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118985966576628143",
+   "since_id": "2118987490468188317",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118985284192809011",
+   "since_id": "2118988601803386936",
    "started": true
   }
  }
