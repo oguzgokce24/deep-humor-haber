@@ -2,163 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açık",
-    "basıl",
-    "düğme",
-    "geliy",
-    "havad",
-    "kapsa",
-    "mecli",
-    "model",
-    "park",
-    "plajl",
-    "sigar",
-    "sokak",
-    "yasağ"
-   ],
-   "tok": [
-    "alanl",
-    "ardın",
-    "açık",
-    "aşama",
-    "basıl",
-    "birli",
-    "bütçe",
-    "dönem",
-    "düzen",
-    "düğme",
-    "geliy",
-    "görüş",
-    "havad",
-    "hazır",
-    "içici",
-    "kanun",
-    "kapsa",
-    "kulla",
-    "mecli",
-    "model",
-    "ocak",
-    "park",
-    "parti",
-    "pasif",
-    "plajl",
-    "planl",
-    "sigar",
-    "sokak",
-    "sunul",
-    "sınır",
-    "tamam",
-    "tbmm",
-    "tekli",
-    "tütün",
-    "ulaşt",
-    "yasal",
-    "yasağ",
-    "önley",
-    "şubat"
-   ],
-   "at": "2026-11-06T05:45:07.704668+00:00"
-  },
-  {
-   "fp": [
-    "8",
-    "afyon",
-    "katle",
-    "kişiy",
-    "saldı"
-   ],
-   "tok": [
-    "afyon",
-    "ağır",
-    "bakın",
-    "demiş",
-    "diyer",
-    "eskiş",
-    "gasbe",
-    "gören",
-    "görev",
-    "görün",
-    "götür",
-    "katle",
-    "kendi",
-    "mit",
-    "ortay",
-    "otomo",
-    "yerde",
-    "çoban",
-    "çıktı",
-    "öldür",
-    "şahıs"
-   ],
-   "at": "2026-11-06T05:48:38.344599+00:00"
-  },
-  {
-   "fp": [
-    "12",
-    "opera",
-    "suç",
-    "örgüt",
-    "şüphe"
-   ],
-   "tok": [
-    "alınd",
-    "bakır",
-    "başsa",
-    "eylem",
-    "farkl",
-    "karış",
-    "nesil",
-    "suç",
-    "yönel",
-    "yürüt",
-    "çocuk",
-    "örgüt",
-    "üyele"
-   ],
-   "at": "2026-11-06T05:48:45.983290+00:00"
-  },
-  {
-   "fp": [
-    "8",
-    "afyon",
-    "arala",
-    "katli",
-    "kişin",
-    "neden",
-    "perde",
-    "sır",
-    "öldür"
-   ],
-   "tok": [
-    "adam",
-    "afyon",
-    "arala",
-    "arif",
-    "ayrı",
-    "cinay",
-    "durum",
-    "görev",
-    "katli",
-    "kendi",
-    "kim",
-    "mit",
-    "neden",
-    "nedir",
-    "nokta",
-    "olayı",
-    "perde",
-    "sefa",
-    "sır",
-    "tanıt",
-    "öldür",
-    "öldüğ",
-    "özdem",
-    "öğren"
-   ],
-   "at": "2026-11-06T05:55:46.189044+00:00"
-  },
-  {
-   "fp": [
     "banka",
     "bddk",
     "faali",
@@ -13975,7 +13818,10 @@
   "c2720089a2": 1,
   "9b8719cc6f": 1,
   "7f798b1c2a": 1,
-  "511c434d74": 1
+  "511c434d74": 1,
+  "dbf6dd73c9": 1,
+  "8e326fc85d": 1,
+  "39f20286c7": 1
  },
  "fail_log": [
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -14022,12 +13868,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119120810053079283",
+   "since_id": "2119126674662916109",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119120367625150868",
+   "since_id": "2119123783361483099",
    "started": true
   }
  }
