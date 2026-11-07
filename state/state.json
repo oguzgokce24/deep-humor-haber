@@ -2,20 +2,6 @@
  "seen": [
   {
    "fp": [
-    "11",
-    "archi",
-    "batra",
-    "brown",
-    "hafta",
-    "inde",
-    "ligi",
-    "nde",
-    "şampi"
-   ],
-   "at": "2026-11-05T17:10:08.948732+00:00"
-  },
-  {
-   "fp": [
     "acil",
     "avrup",
     "bomba",
@@ -9306,24 +9292,54 @@
     "şoför"
    ],
    "at": "2026-11-07T05:05:46.578240+00:00"
+  },
+  {
+   "fp": [
+    "ailel",
+    "canım",
+    "daval",
+    "depre",
+    "fazla",
+    "karar",
+    "kaybe",
+    "tepki",
+    "yok"
+   ],
+   "tok": [
+    "adale",
+    "ailel",
+    "beraa",
+    "bizim",
+    "canım",
+    "ceza",
+    "daval",
+    "demir",
+    "depre",
+    "fazla",
+    "görev",
+    "göste",
+    "hesap",
+    "indir",
+    "isted",
+    "istiy",
+    "kadın",
+    "kahra",
+    "kamu",
+    "saray",
+    "tepki",
+    "topla",
+    "tuğçe",
+    "verme",
+    "yakın",
+    "yok",
+    "çıkan",
+    "önünd",
+    "şubat"
+   ],
+   "at": "2026-11-07T05:18:26.421096+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "78c2778b5f",
-   "post_id": "529346797199852_1456224906617217",
-   "title": "3 ilde eş zamanlı 'sahte para' operasyonu: Çok sayıda gözaltı",
-   "at": "2026-11-03T08:46:24.325114+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul merkezli 3 ilde sahte para operasyonu: 10 şüpheli gözaltına alındı.\n\n— 15 şüpheli hakkında gözaltı kararı çıktı. Sahte Türk lirası, dolar ve avroyu piyasaya sürerek haksız kazanç elde ettikleri iddia ediliyor.\n— İstanbul, Ankara ve İzmir'deki 13 adreste eş zamanlı operasyon yapıldı.\n— Kalan 5 şüphelinin yakalanması için çalışmalar sürüyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/teror-orgutu-deas-ile-baglantili-kisilere-para-transferleri-belirlenen-9-supheli-icin-gozalti-karari-962057.html",
-    "Sözcü: https://www.sozcu.com.tr/3-ilde-sahte-para-operasyonu-15-supheliye-gozalti-karari-p375468",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/3-ilde-es-zamanli-sahte-para-operasyonu-cok-sayida-gozalti-2552772",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/3-ilde-sahte-para-ve-uyusturucu-operasyonu-15-supheli-hakkinda-gozalti-karari-4869297",
-    "BirGün: https://www.birgun.net/haber/istanbul-merkezli-3-ilde-sahte-para-operasyonu-10-gozalti-744198"
-   ]
-  },
   {
    "id": "05a91677a7",
    "post_id": "529346797199852_1456234146616293",
@@ -11969,6 +11985,17 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/canakkalede-feci-kaza-tir-ile-carpisip-alev-alan-otomobildeki-2-kisi-oldu-3490117",
     "Karar: https://www.karar.com/sehir-haberleri/canakkalede-tir-ile-carpisan-otomobil-yandi-2-kisi-hayatini-kaybetti-2082789"
    ]
+  },
+  {
+   "id": "5b50514403",
+   "post_id": "529346797199852_1460182906221417",
+   "title": "Ailelerden deprem davalarındaki kararlara tepki: Kaybedecek daha fazla canımız yok",
+   "at": "2026-11-07T05:18:26.421096+00:00",
+   "yazim": "claude",
+   "metin": "Kahramanmaraş'ta 6 Şubat depremi davalarında çıkan beraat ve ceza indirimi kararlarına aileler tepki gösterdi.\n\nDepremde yakınını kaybeden bir kadın:\n\n“Bizim kaybedecek daha fazla canımız yok.”\n\n— Aileler, Kahramanmaraş Adalet Sarayı önünde toplandı.\n\n— Kamu görevlilerinin de hesap vermesini istiyorlar.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/ailelerden-deprem-davalarindaki-kararlara-tepki-kaybedecek-daha-fazla-canimiz-yok-745058"
+   ]
   }
  ],
  "fails": {
@@ -12091,7 +12118,8 @@
   "b2d652d457": 1,
   "7cfdc07e45": 1,
   "0dbc29f889": 1,
-  "0d97eb89a2": 1
+  "0d97eb89a2": 1,
+  "5921dae651": 1
  },
  "fail_log": [
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -12138,7 +12166,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118931864669053340",
+   "since_id": "2118934920546705585",
    "started": true
   },
   "ajansmuhbir1923": {
