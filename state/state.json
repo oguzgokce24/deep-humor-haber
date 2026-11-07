@@ -2,38 +2,6 @@
  "seen": [
   {
    "fp": [
-    "100",
-    "alaca",
-    "denet",
-    "sgk",
-    "yardı"
-   ],
-   "tok": [
-    "alaca",
-    "alına",
-    "başlı",
-    "başvu",
-    "denet",
-    "gazet",
-    "görev",
-    "güven",
-    "kasım",
-    "kurum",
-    "resmi",
-    "sgk",
-    "sosya",
-    "sözlü",
-    "sınav",
-    "taşra",
-    "teşki",
-    "yardı",
-    "yayım",
-    "üzere"
-   ],
-   "at": "2026-11-05T22:57:01.008242+00:00"
-  },
-  {
-   "fp": [
     "2",
     "3",
     "beşik",
@@ -10592,21 +10560,58 @@
     "ınter"
    ],
    "at": "2026-11-07T10:56:25.810191+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "alınd",
+    "aydın",
+    "fabri",
+    "kontr",
+    "mobil",
+    "yangı"
+   ],
+   "tok": [
+    "altın",
+    "alınd",
+    "aydın",
+    "belir",
+    "bölge",
+    "büyüy",
+    "depos",
+    "ediyo",
+    "ekibi",
+    "ekip",
+    "ekipl",
+    "etkis",
+    "fabri",
+    "gönde",
+    "henüz",
+    "ihbar",
+    "ilçes",
+    "itfai",
+    "kontr",
+    "kuşad",
+    "mahal",
+    "mobil",
+    "müdah",
+    "ndeki",
+    "neden",
+    "rüzga",
+    "sayıd",
+    "sağlı",
+    "sevk",
+    "söndü",
+    "sürüy",
+    "yangı",
+    "yayla",
+    "çıkan",
+    "çıktı"
+   ],
+   "at": "2026-11-07T11:09:02.529089+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a6440937fe",
-   "post_id": "529346797199852_1456667273239647",
-   "title": "Grönland Parlamentosu, anlaşmayı onayladı: ABD'nin Ada'daki askeri varlığı genişliyor",
-   "at": "2026-11-03T18:21:35.338559+00:00",
-   "yazim": "claude",
-   "metin": "Grönland Parlamentosu, ABD ile yapılan güvenlik anlaşmasını onayladı.\n\n— Anlaşma, ABD'nin adadaki askeri varlığını genişletmesinin önünü açıyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/gronland-parlamentosu-abd-ile-guvenlik-anlasmasini-onayladi-962132.html",
-    "BirGün: https://www.birgun.net/haber/gronland-parlamentosu-anlasmayi-onayladi-abd-nin-ada-daki-askeri-varligi-genisliyor-744353"
-   ]
-  },
   {
    "id": "6fba559c55",
    "post_id": "529346797199852_1456724703233904",
@@ -13234,6 +13239,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/italyan-basinindan-hakan-calhanoglu-iddiasi-galatasaray-ve-fenerbahce-transferde-karsi-karsiya-2554151",
     "BPT (X): https://x.com/bpthaber/status/2119019200526090537"
    ]
+  },
+  {
+   "id": "0cdea5c589",
+   "post_id": "529346797199852_1460446916195016",
+   "title": "Aydın'da mobilya fabrikasında yangın",
+   "at": "2026-11-07T11:09:02.529089+00:00",
+   "yazim": "claude",
+   "metin": "Aydın'ın Kuşadası ilçesinde bir mobilya fabrikasının deposunda yangın çıktı. Rüzgarın etkisiyle büyüyen yangına itfaiye ekipleri müdahale ediyor.\n\n— Yangın, Yaylaköy Mahallesi'ndeki fabrikanın deposunda çıktı.\n— Yangının nedeni henüz belirlenemedi.\n— İhbar üzerine bölgeye çok sayıda itfaiye ve sağlık ekibi gönderildi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/aydinda-mobilya-deposunda-cikan-yangin-kontrol-altina-alindi/4115027",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/aydinda-mobilya-deposunda-cikan-yangin-kontrol-altina-alindi-962528.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/aydinda-mobilya-fabrikasinda-yangin-ekipler-mudahale-ediyor-43369356",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aydin-da-mobilya-fabrikasinda-yangin-2554116",
+    "BirGün: https://www.birgun.net/haber/aydin-da-mobilya-fabrikasinda-yangin-745099",
+    "Karar: https://www.karar.com/sehir-haberleri/aydinda-mobilya-fabrikasinda-yangin-2082820"
+   ]
   }
  ],
  "fails": {
@@ -13407,12 +13428,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119019200526090537",
+   "since_id": "2119022581273743747",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119018355881316781",
+   "since_id": "2119022212787163465",
    "started": true
   }
  }
