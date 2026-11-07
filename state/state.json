@@ -2,44 +2,6 @@
  "seen": [
   {
    "fp": [
-    "avrup",
-    "bomba",
-    "ihbar",
-    "uçakl"
-   ],
-   "at": "2026-11-05T11:55:06.255910+00:00"
-  },
-  {
-   "fp": [
-    "121",
-    "adli",
-    "alkol",
-    "genel",
-    "içki",
-    "işlem",
-    "kaçak",
-    "opera",
-    "sahte",
-    "yapıl",
-    "şüphe"
-   ],
-   "at": "2026-11-05T11:55:13.060204+00:00"
-  },
-  {
-   "fp": [
-    "4",
-    "8",
-    "aracı",
-    "kaza",
-    "polis",
-    "sakar",
-    "yaral",
-    "zinci"
-   ],
-   "at": "2026-11-05T12:05:55.846924+00:00"
-  },
-  {
-   "fp": [
     "beled",
     "beyko",
     "chp",
@@ -8476,25 +8438,61 @@
     "örgüt"
    ],
    "at": "2026-11-06T23:53:48.155832+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "bakır",
+    "otomo",
+    "yaral",
+    "yayal",
+    "çarpt",
+    "öldü"
+   ],
+   "tok": [
+    "akşam",
+    "alınd",
+    "ayşe",
+    "ağır",
+    "bakır",
+    "başla",
+    "cadde",
+    "diğer",
+    "etkis",
+    "genç",
+    "geçme",
+    "hafif",
+    "halka",
+    "ilgil",
+    "ilçes",
+    "incel",
+    "karşı",
+    "kazay",
+    "kız",
+    "metre",
+    "nde",
+    "otomo",
+    "saat",
+    "savru",
+    "sonuc",
+    "sürüc",
+    "sürüy",
+    "sıral",
+    "tehli",
+    "ticar",
+    "vata",
+    "yayal",
+    "yaşın",
+    "yeşil",
+    "yolun",
+    "çalış",
+    "çarpm",
+    "çarpt"
+   ],
+   "at": "2026-11-07T00:06:22.914708+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c592a6613e",
-   "post_id": "529346797199852_1455653120007729",
-   "title": "Son Dakika... AFAD duyurdu: Datça açıklarında korkutan deprem!",
-   "at": "2026-11-02T17:33:28.003600+00:00",
-   "yazim": "claude",
-   "metin": "Akdeniz'de 5,1 büyüklüğünde deprem oldu.\n\n— Merkez üssü Muğla'nın Datça ilçesine 253 kilometre uzaklıkta.\n— Deprem saat 19.49'da, 9,07 kilometre derinlikte kaydedildi. Bilgi AFAD'dan.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/akdenizde-5-1-buyuklugunde-deprem/4109049",
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/akdenizde-51-buyuklugunde-deprem-961987.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/akdenizde-5-1-buyuklugunde-deprem-43363705",
-    "Milliyet: https://www.milliyet.com.tr/gundem/afad-duyurdu-mugla-datca-aciklarinda-5-1-buyuklugunde-deprem-7692813",
-    "NTV: https://www.ntv.com.tr/turkiye/akdenizde-mugla-aciklarinda-51-buyuklugunde-deprem-1749087",
-    "Habertürk: https://www.haberturk.com/gundem/mugla-da-5-1-buyuklugunde-deprem-3924414"
-   ]
-  },
   {
    "id": "ce0ac38294",
    "post_id": "529346797199852_1455662853340089",
@@ -11193,6 +11191,18 @@
    "metin": "Eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya, Tera Portföy fonlarındaki soruşturmada tutuklandı.\n\n— Suçlamalar \"suç işlemek amacıyla kurulan örgüte üye olma\" ve \"Sermaye Piyasası Kanunu'na muhalefet.\" Kaya'nın, fonun temerrüde düştüğü 16 Eylül'de hisselerini piyasada satmak yerine aracı kuruma devrettiği öne sürülüyor.\n\n— Aynı gün fon krizi patlamış, 131 fon tasfiye edilmiş ve 455 bin 758 kişinin birikimi çekilemez hale gelmişti.\n\n— Kaya, 7 Ekim'de partiden ihraç edilmişti. Mal varlıkları da donduruldu.",
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6008305/ucu-kime-dokunursa-retorigi-kesilen-kollar-korunan-govde-yarim-kalan-dosyalar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "89c3f68a08",
+   "post_id": "529346797199852_1459963792909995",
+   "title": "Bakırköy'de araç yayalara çarptı: 18 yaşındaki Ayşe öldü, 3 ağır yaralı",
+   "at": "2026-11-07T00:06:22.914708+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Bakırköy ilçesinde hafif ticari araç yolun karşısına geçmeye çalışan yayalara çarptı, 18 yaşındaki bir genç kız hayatını kaybetti.\n\n— Kaza akşam saat 18.30 sıralarında Yeşilköy Halkalı Caddesi'nde oldu.\n\n— Çarpmanın etkisiyle metrelerce savrulan 4 kişi yaralandı, ağır yaralanan genç kız hayatını kaybetti.\n\n— Diğer 3 yaralının hayati tehlikesi sürüyor. Aracın sürücüsü gözaltına alındı ve polis kazayla ilgili inceleme başlattı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/bakirkoyde-arac-yayalara-carpti-18-yasindaki-ayse-oldu-3-agir-yarali-p376786",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/bakirkoyde-hafif-ticari-arac-yayalara-carpti-bir-kisi-oldu-uc-kisi-yaralandi-4870422"
    ]
   }
  ],
