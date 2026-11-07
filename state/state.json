@@ -2,97 +2,6 @@
  "seen": [
   {
    "fp": [
-    "gasp",
-    "kadın",
-    "profi",
-    "sahte",
-    "tuzağ"
-   ],
-   "tok": [
-    "adana",
-    "ağlar",
-    "ağı",
-    "buluş",
-    "bıçak",
-    "dolan",
-    "dövdü",
-    "düşür",
-    "edere",
-    "ettil",
-    "eşyal",
-    "gasbe",
-    "gasp",
-    "ifşa",
-    "ilişk",
-    "kadın",
-    "medya",
-    "para",
-    "profi",
-    "sahte",
-    "sanal",
-    "sosya",
-    "tehdi",
-    "tuzağ",
-    "vaadi"
-   ],
-   "at": "2026-11-06T07:22:56.009238+00:00"
-  },
-  {
-   "fp": [
-    "3",
-    "devri",
-    "kapat",
-    "tem",
-    "tır",
-    "şerit"
-   ],
-   "tok": [
-    "altın",
-    "başak",
-    "devri",
-    "kapat",
-    "mevki",
-    "otoyo",
-    "tem",
-    "trafi",
-    "tır",
-    "şerit"
-   ],
-   "at": "2026-11-06T07:26:24.843496+00:00"
-  },
-  {
-   "fp": [
-    "2028",
-    "abd",
-    "bakan",
-    "dışiş",
-    "edece",
-    "iddia",
-    "istif",
-    "redde",
-    "rubio",
-    "seçim"
-   ],
-   "tok": [
-    "abd",
-    "adayı",
-    "ayrıl",
-    "dışiş",
-    "edece",
-    "görev",
-    "iddia",
-    "istif",
-    "marco",
-    "olmak",
-    "redde",
-    "rubio",
-    "seçim",
-    "yönün"
-   ],
-   "at": "2026-11-06T07:30:07.625284+00:00"
-  },
-  {
-   "fp": [
     "calif",
     "cezal",
     "cezas",
@@ -10889,21 +10798,72 @@
     "ürün"
    ],
    "at": "2026-11-07T19:22:33.526503+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "boşan",
+    "elazı",
+    "eski",
+    "evini",
+    "eşini",
+    "katle",
+    "keban",
+    "pompa",
+    "tüfek",
+    "yıl",
+    "önünd"
+   ],
+   "tok": [
+    "alınd",
+    "ancak",
+    "annes",
+    "ardın",
+    "boşan",
+    "cesed",
+    "cinay",
+    "deniz",
+    "ekipl",
+    "elazı",
+    "eski",
+    "evini",
+    "eşi",
+    "eşini",
+    "fırat",
+    "giriş",
+    "hasta",
+    "ilçes",
+    "kadın",
+    "kaldı",
+    "katle",
+    "kaçan",
+    "kaçtı",
+    "keban",
+    "köyün",
+    "morgu",
+    "nazmi",
+    "olay",
+    "olayı",
+    "otops",
+    "pompa",
+    "tüfek",
+    "var",
+    "vurar",
+    "vurul",
+    "yaşan",
+    "yaşın",
+    "yerin",
+    "yıl",
+    "çocuk",
+    "çocuğ",
+    "öldür",
+    "önünd",
+    "ünive"
+   ],
+   "at": "2026-11-07T19:35:02.903636+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "644d1e8e65",
-   "post_id": "529346797199852_1457456349827406",
-   "title": "Kuvvetli yağış: İki ile turuncu, 17 ile sarı kodlu uyarı",
-   "at": "2026-11-04T13:54:54.438673+00:00",
-   "yazim": "claude",
-   "metin": "5 Kasım'da iki ilde turuncu, 17 ilde sarı kodlu uyarı var.\n\n— Meteoroloji 19 ilde kuvvetli yağış bekliyor.\n— Sel, su baskını, yıldırım ve ulaşımda aksama riski var. Dikkatli olun.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/meteorolojiden-2-il-icin-turuncu-17-il-icin-sari-kodlu-uyari/4111574",
-    "Diken: https://www.diken.com.tr/kuvvetli-yagis-iki-ile-turuncu-17-ile-sari-kodlu-uyari/?utm_source=rss&utm_medium=rss&utm_campaign=kuvvetli-yagis-iki-ile-turuncu-17-ile-sari-kodlu-uyari"
-   ]
-  },
   {
    "id": "bd8fa91ffb",
    "post_id": "529346797199852_1457486053157769",
@@ -13502,6 +13462,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/yuzde-100-pamuk-diye-sattilar-polyester-cikti-1-milyon-lira-ceza-2554278",
     "Yeni Şafak: https://www.yenisafak.com/gundem/yuzde-100-pamuk-diye-polyester-sattilar-firmaya-1-milyon-tl-ceza-4870604"
    ]
+  },
+  {
+   "id": "cf87630375",
+   "post_id": "529346797199852_1460915406148167",
+   "title": "Elazığ’da kadın cinayeti: Eski eşi tarafından pompalı tüfekle öldürüldü",
+   "at": "2026-11-07T19:35:02.903636+00:00",
+   "yazim": "claude",
+   "metin": "Elazığ'ın Keban ilçesinde 5 yıl önce boşandığı eski eşi, 56 yaşındaki bir kadını evinin önünde pompalı tüfekle vurarak öldürdü.\n\n— Olay Denizli köyünde yaşandı. Kadının 2 çocuğu var.\n\n— Saldırgan olay yerinden kaçtı, ancak Keban ilçe girişinde jandarma ekipleri tarafından yakalanarak gözaltına alındı.\n\n— Kadının cansız bedeni otopsi için Fırat Üniversitesi Hastanesi morguna kaldırıldı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/elazig-kebanda-5-yil-once-bosandigi-eski-esini-evinin-onunde-pompali-tufekle-katletti-7696414",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/elazig-da-kadin-cinayeti-eski-esi-tarafindan-pompali-tufekle-olduruldu-2554280",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/elazig-kebanda-5-yil-once-bosandigi-eski-esini-evinin-onunde-pompali-tufekle-katletti-7696414"
+   ]
   }
  ],
  "fails": {
@@ -13684,7 +13657,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119144485192192238",
+   "since_id": "2119150599451426920",
    "started": true
   },
   "ajansmuhbir1923": {
