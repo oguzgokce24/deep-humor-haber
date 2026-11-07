@@ -2,46 +2,6 @@
  "seen": [
   {
    "fp": [
-    "14",
-    "adale",
-    "başlı",
-    "festi",
-    "izmir",
-    "kez",
-    "sahne",
-    "tiyat",
-    "ulusl"
-   ],
-   "tok": [
-    "adale",
-    "arası",
-    "başlı",
-    "başın",
-    "boyun",
-    "buluş",
-    "düzen",
-    "ekibi",
-    "festi",
-    "gün",
-    "izmir",
-    "kasım",
-    "kez",
-    "oyun",
-    "sahne",
-    "salon",
-    "tarih",
-    "temas",
-    "tiyat",
-    "topla",
-    "ulusl",
-    "yaban",
-    "yerli",
-    "yılki"
-   ],
-   "at": "2026-11-06T03:38:28.580592+00:00"
-  },
-  {
-   "fp": [
     "gerçe",
     "konuş",
     "senge"
@@ -11274,25 +11234,59 @@
     "üçlü"
    ],
    "at": "2026-11-07T15:33:14.686951+00:00"
+  },
+  {
+   "fp": [
+    "etmem",
+    "istif",
+    "mehme",
+    "şimşe"
+   ],
+   "tok": [
+    "akp",
+    "arama",
+    "bayra",
+    "dikka",
+    "düşmü",
+    "edece",
+    "eleşt",
+    "enfla",
+    "esnaf",
+    "etmem",
+    "etmes",
+    "etsin",
+    "fabri",
+    "gençl",
+    "git2t",
+    "https",
+    "iflas",
+    "isted",
+    "istif",
+    "kapan",
+    "kesec",
+    "kesen",
+    "kinay",
+    "mehme",
+    "nun",
+    "payla",
+    "soylu",
+    "sözle",
+    "umudu",
+    "var",
+    "yazar",
+    "yazıd",
+    "yazıs",
+    "yazıy",
+    "yükle",
+    "çekil",
+    "özgür",
+    "şafak",
+    "şimşe"
+   ],
+   "at": "2026-11-07T15:45:58.464198+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4967c0d749",
-   "post_id": "529346797199852_1457243779848663",
-   "title": "Beşiktaş'ta merdiven çöktü! Binadakiler mahsur kaldı",
-   "at": "2026-11-04T09:16:55.888888+00:00",
-   "yazim": "claude",
-   "metin": "Beşiktaş'ta toprak kayması yüzünden bir binanın giriş merdiveni çöktü.\n\n— Binada mahsur kalan 2 kişiyi itfaiye ekipleri kurtardı.\n— Olayda yaralanan olup olmadığı henüz açıklanmadı.\n— İtfaiye ekipleri olay yerinde çalışmaya devam ediyor.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/besiktasta-toprak-kaymasi-giris-merdiveni-coktu-binadakiler-mahsur-kaldi-43365528",
-    "Milliyet: https://www.milliyet.com.tr/gundem/besiktasta-toprak-kaymasi-merdiven-coktu-mahsur-kalanlar-var-7693983",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-merdiven-coktu-binadakiler-mahsur-kaldi-3924845",
-    "Sözcü: https://www.sozcu.com.tr/besiktas-ta-merdiven-coktu-binadakiler-mahsur-kaldi-p375914",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/besiktas-ta-merdiven-coktu-binada-mahsur-kaldilar-2553186",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/besiktasta-toprak-kaymasi-merdiven-coktu-mahsur-kalanlar-var-7693983"
-   ]
-  },
   {
    "id": "93ae1d2066",
    "post_id": "529346797199852_1457254146514293",
@@ -13917,6 +13911,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/avrupa-nin-ukrayna-planina-moskova-dan-sert-yanit-muzakere-masasinda-yeriniz-yok-2554233",
     "BirGün: https://www.birgun.net/haber/rusya-disisleri-bakanligi-ndan-avrupa-ya-rest-ukrayna-muzakere-masasinda-yerleri-yok-745174"
    ]
+  },
+  {
+   "id": "7f29736880",
+   "post_id": "529346797199852_1460698702836504",
+   "title": "⚠️ “Mehmet Şimşek istifa etmemeli.",
+   "at": "2026-11-07T15:45:58.464198+00:00",
+   "yazim": "claude",
+   "metin": "Yeni Şafak yazarı Özgür Bayram Soylu, AKP'li Bakan Mehmet Şimşek'in istifa etmesini istedi.\n\n— Soylu, kinayeli bir yazısında Şimşek'i eleştirdi.\n— Yazıda kapanan fabrikalara, iflas eden esnafa ve iş aramaktan umudunu kesen gençlere dikkat çekildi.\n— Soylu'nun paylaşımındaki sözleri: “Enflasyon düşmüyor Şimşek istifa etsin.”",
+   "sources": [
+    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119091628178600015"
+   ]
   }
  ],
  "fails": {
@@ -14098,7 +14103,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119089760513737178",
+   "since_id": "2119091628178600015",
    "started": true
   }
  }
