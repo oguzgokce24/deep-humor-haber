@@ -2,42 +2,6 @@
  "seen": [
   {
    "fp": [
-    "diş",
-    "eczac",
-    "hekim",
-    "istih"
-   ],
-   "at": "2026-11-05T14:35:41.591389+00:00"
-  },
-  {
-   "fp": [
-    "ağıre",
-    "fotoğ",
-    "murat",
-    "tamar",
-    "tanrı",
-    "tutuk"
-   ],
-   "at": "2026-11-05T14:36:08.416272+00:00"
-  },
-  {
-   "fp": [
-    "bakan",
-    "devam",
-    "edece",
-    "görev",
-    "hegse",
-    "savun",
-    "sorus",
-    "tan",
-    "trump",
-    "tutma",
-    "yanıt"
-   ],
-   "at": "2026-11-05T14:39:53.214825+00:00"
-  },
-  {
-   "fp": [
     "cumhu",
     "fatur",
     "hegse",
@@ -8806,23 +8770,60 @@
     "şirke"
    ],
    "at": "2026-11-07T02:29:40.586678+00:00"
+  },
+  {
+   "fp": [
+    "bütçe",
+    "düzel",
+    "hesab",
+    "müjde",
+    "sınır",
+    "yalan",
+    "yolda"
+   ],
+   "tok": [
+    "akp",
+    "ancak",
+    "artış",
+    "bekle",
+    "bütçe",
+    "büyük",
+    "düzel",
+    "erdoğ",
+    "ettiğ",
+    "görün",
+    "göste",
+    "hesab",
+    "ibare",
+    "işare",
+    "kalac",
+    "karşı",
+    "koydu",
+    "küçük",
+    "kısmı",
+    "liral",
+    "mehme",
+    "müjde",
+    "oluşa",
+    "ortay",
+    "rakam",
+    "sınır",
+    "takıl",
+    "trily",
+    "yalan",
+    "yani",
+    "yapıl",
+    "yarat",
+    "yerin",
+    "yolda",
+    "yükse",
+    "zam",
+    "şimşe"
+   ],
+   "at": "2026-11-07T02:50:39.112404+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5b3ae23ce5",
-   "post_id": "529346797199852_1456070159966025",
-   "title": "Hava soğuyor, kuvvetli yağış geliyor: Meteoroloji'den 4 bölgeye sağanak uyarısı",
-   "at": "2026-11-03T04:43:35.882670+00:00",
-   "yazim": "claude",
-   "metin": "Meteoroloji 4 bölge için sağanak yağış uyarısı yaptı.\n\n— Kıyı Ege, Edirne, Kırklareli ve Antalya'da yağışlar yerel olarak kuvvetli olabilir.\n— Batı bölgelerde sıcaklıklar hissedilir derecede düşecek.\n— Uyarı 3 Kasım tarihli hava durumu raporunda yer alıyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/7-il-icin-kuvvetli-yagis-uyarisi-962012.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/yurt-genelinde-gok-gurultulu-saganak-yagis-etkili-olacak-meteoroloji-saat-verdi-kuvvetli-yagis-ve-sel-uyarisi-7-ilde-alarm-43363885",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-7-il-icin-sari-kod-saganak-yagmur-etkili-olacak-sel-tehlikesi-kapida-3-kasim-hava-durumu-3924460",
-    "Evrensel: https://www.evrensel.net/haber/6007746/hava-soguyor-kuvvetli-yagis-geliyor-meteorolojiden-4-bolgeye-saganak-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "ac739601ea",
    "post_id": "529346797199852_1456110196628688",
@@ -11500,6 +11501,17 @@
     "BirGün: https://www.birgun.net/haber/eski-bir-bakan-da-aralarinda-spk-den-67-kisi-hakkinda-suc-duyurusu-ve-borsa-yasagi-karari-745051",
     "Karar: https://www.karar.com/guncel-haberler/spkden-67-kisi-hakkinda-suc-duyurusu-trive-yatirimin-faaliyetleri-2082785"
    ]
+  },
+  {
+   "id": "c71b6983ce",
+   "post_id": "529346797199852_1460078376231870",
+   "title": "Bütçe hesabı 'müjde'yi yalanladı: Sınırlı düzeltme yolda",
+   "at": "2026-11-07T02:50:39.112404+00:00",
+   "yazim": "claude",
+   "metin": "Bütçe rakamları, Cumhurbaşkanı Erdoğan'ın açıklamalarıyla oluşan yüksek zam beklentisinin karşılığının sınırlı kalacağını gösteriyor.\n\n— Bakan Mehmet Şimşek'in işaret ettiği 1 trilyon liralık bütçe artışı, bu beklentinin ancak küçük bir kısmının karşılanabileceğini ortaya koydu.\n\n— Yani beklenen büyük zam yerine sınırlı bir düzeltme yapılacak gibi görünüyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/butce-hesabi-mujde-yi-yalanladi-sinirli-duzeltme-yolda-745038"
+   ]
   }
  ],
  "fails": {
@@ -11622,7 +11634,7 @@
   "b2d652d457": 1,
   "7cfdc07e45": 1,
   "0dbc29f889": 1,
-  "77daddf6fa": 1
+  "77daddf6fa": 2
  },
  "fail_log": [
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
