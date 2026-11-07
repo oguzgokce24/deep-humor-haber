@@ -2,88 +2,6 @@
  "seen": [
   {
    "fp": [
-    "11",
-    "alınd",
-    "atand",
-    "geliş",
-    "gözal",
-    "kayyu",
-    "kişi",
-    "mesle",
-    "sarıg",
-    "soruş",
-    "yükse",
-    "şişli"
-   ],
-   "tok": [
-    "adli",
-    "ailes",
-    "alınd",
-    "atand",
-    "dahil",
-    "devam",
-    "ediyo",
-    "geliş",
-    "geniş",
-    "kapsa",
-    "kayyu",
-    "kayyı",
-    "kriti",
-    "kuruc",
-    "mesle",
-    "musta",
-    "myo",
-    "müdür",
-    "sarıg",
-    "süreç",
-    "veril",
-    "yönel",
-    "yükse",
-    "yürüt",
-    "şişli"
-   ],
-   "at": "2026-11-06T06:40:55.580590+00:00"
-  },
-  {
-   "fp": [
-    "15",
-    "araba",
-    "cezas",
-    "manis",
-    "necat",
-    "suç",
-    "yakal",
-    "yönet",
-    "yıl",
-    "örgüt"
-   ],
-   "tok": [
-    "adamı",
-    "araba",
-    "aranı",
-    "belir",
-    "bulun",
-    "cehen",
-    "cezas",
-    "düzen",
-    "firar",
-    "hapis",
-    "hüküm",
-    "kesin",
-    "manis",
-    "necat",
-    "nin",
-    "suç",
-    "vardı",
-    "yönet",
-    "yıl",
-    "çıkar",
-    "örgüt"
-   ],
-   "at": "2026-11-06T06:44:36.886259+00:00"
-  },
-  {
-   "fp": [
     "ameli",
     "dokto",
     "estet",
@@ -11014,22 +10932,63 @@
     "öne"
    ],
    "at": "2026-11-07T18:25:31.772315+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "9",
+    "kaza",
+    "minib",
+    "tır",
+    "van",
+    "yaral",
+    "çarpı",
+    "ölü"
+   ],
+   "tok": [
+    "afad",
+    "ambul",
+    "ardın",
+    "belir",
+    "birli",
+    "bölge",
+    "ekipl",
+    "feci",
+    "göre",
+    "haber",
+    "hasta",
+    "ihbar",
+    "ise",
+    "itfai",
+    "karay",
+    "karış",
+    "katli",
+    "minib",
+    "nda",
+    "olay",
+    "olayd",
+    "sayıd",
+    "sayıs",
+    "sevk",
+    "sonuc",
+    "topla",
+    "tır",
+    "tırın",
+    "ulaşt",
+    "umke",
+    "van",
+    "var",
+    "yaşan",
+    "yerin",
+    "zinci",
+    "çarpı",
+    "ölenl",
+    "özalp"
+   ],
+   "at": "2026-11-07T18:44:44.345037+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d7271d8b94",
-   "post_id": "529346797199852_1457395289833512",
-   "title": "Yeni Parti kurultay sloganını “Türkiye Yenileniyor” olarak belirlendi",
-   "at": "2026-11-04T12:38:54.607745+00:00",
-   "yazim": "claude",
-   "metin": "YENİ Parti'nin kurultayının sloganı belli oldu: “Türkiye Yenileniyor”.\n\n— Kurultay 14-15 Kasım'da Ankara Arena'da toplanacak.\n— Açılışta CHP'deki mutlak butlan kararını ve YENİ Parti'nin kuruluş sürecini anlatan bir video izletilecek.\n— Parti Meclisi üye sayısının 80'den artırılması planlanıyor.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/yeni-parti-nin-birinci-olagan-kurultayi-nin-slogani-belli-oldu-p375955",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/yeni-parti-nin-birinci-olagan-kurultayi-nda-slogan-belli-oldu-turkiye-yenileniyor-2553226",
-    "Evrensel: https://www.evrensel.net/haber/6007981/yeni-parti-kurultay-sloganini-turkiye-yenileniyor-olarak-belirlendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "564a3a7c05",
    "post_id": "529346797199852_1457415046498203",
@@ -13629,6 +13588,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-karabagi-ziyaret-edecek-4870598",
     "BPT (X): https://x.com/bpthaber/status/2119130983475880210"
    ]
+  },
+  {
+   "id": "285aaadf14",
+   "post_id": "529346797199852_1460862506153457",
+   "title": "Van'da katliam gibi kaza: 9 kişi hayatını kaybetti, 5 kişi yaralandı",
+   "at": "2026-11-07T18:44:44.345037+00:00",
+   "yazim": "claude",
+   "metin": "Van-Özalp karayolunda tır ile minibüs çarpıştı, kazada 9 kişi hayatını kaybetti.\n\nOlayda 5 kişi de yaralandı.\n\n— Olay yerinde ve ardından hastanede ölenlerle birlikte toplam ölü sayısı 9'a ulaştı.\n— İhbar üzerine ambulans, polis, jandarma, AFAD, UMKE ve itfaiye ekipleri bölgeye sevk edildi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/vanda-tir-minibusle-carpisti-7-olu-7-yarali-43369872",
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-vanda-tir-minibusle-carpisti-9-olu-5-yarali-7696390",
+    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-vanda-feci-kaza-tir-ile-minibus-carpisti-7-olu-7-yarali-3490325",
+    "NTV: https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
+    "Habertürk: https://www.haberturk.com/gundem/van-ozalp-karayolunda-tir-ile-minibus-carpisti-7-kisi-yaralandi-3925686",
+    "Sözcü: https://www.sozcu.com.tr/son-dakika-van-da-feci-kaza-cok-sayida-olu-ve-yarali-var-p377006"
+   ]
   }
  ],
  "fails": {
@@ -13811,12 +13786,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119130983475880210",
+   "since_id": "2119137273346425322",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119133549085302858",
+   "since_id": "2119138367845626228",
    "started": true
   }
  }
