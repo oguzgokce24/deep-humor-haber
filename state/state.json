@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "artış",
-    "fiyat",
-    "geril",
-    "iran",
-    "petro",
-    "sürüy"
-   ],
-   "tok": [
-    "abd",
-    "ara",
-    "ardın",
-    "artış",
-    "başın",
-    "belir",
-    "brent",
-    "değer",
-    "etkil",
-    "fiyat",
-    "gelec",
-    "geril",
-    "gözle",
-    "hafta",
-    "ilişk",
-    "iran",
-    "petro",
-    "piyas",
-    "savaş",
-    "seans",
-    "seçim",
-    "sonra",
-    "sürer",
-    "sürüy",
-    "varil",
-    "yakla",
-    "yaşan",
-    "yükse",
-    "yüzde",
-    "öncek"
-   ],
-   "at": "2026-11-06T06:23:46.779447+00:00"
-  },
-  {
-   "fp": [
     "11",
     "alınd",
     "atand",
@@ -11028,24 +10984,39 @@
     "üstün"
    ],
    "at": "2026-11-07T18:12:55.335327+00:00"
+  },
+  {
+   "fp": [
+    "cumhu",
+    "edece",
+    "erdoğ",
+    "karab",
+    "yarın",
+    "ziyar"
+   ],
+   "tok": [
+    "aliye",
+    "azerb",
+    "davet",
+    "edece",
+    "erdoğ",
+    "https",
+    "iddia",
+    "ilham",
+    "karab",
+    "recep",
+    "sfnpu",
+    "sürül",
+    "tayyi",
+    "yapıl",
+    "yarın",
+    "ziyar",
+    "öne"
+   ],
+   "at": "2026-11-07T18:25:31.772315+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "51a6a654a5",
-   "post_id": "529346797199852_1457384329834608",
-   "title": "İsrail'de seçim sonuçları kesinleşti: Muhalefet 67, Netanyahu bloku 53 sandalye aldı",
-   "at": "2026-11-04T12:24:39.432703+00:00",
-   "yazim": "claude",
-   "metin": "İsrail'de seçim sonuçları kesinleşti: muhalefet 67, Netanyahu'nun bloku 53 sandalye aldı.\n\n— Meclis'te hükümet kurmak için 61 sandalye gerekiyor.\n— İki blok da bu sayıya ulaşamadı, hükümeti kimin kuracağı partilerin görüşmelerine kaldı.\n— Seçime dış müdahale iddialarının soruşturması sürerken Merkez Seçim Komitesi sonuçları onayladı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/israil-merkez-secim-komitesi-27-ekim-secimlerinin-sonuclarini-onayladi/4111387",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/israil-merkez-secim-komitesi-27-ekim-secimlerinin-sonuclarini-onayladi-962219.html",
-    "CNN Türk: https://www.cnnturk.com/dunya/israilde-secim-sonuclari-kesinlesti-komiteden-onay-geldi-3488923",
-    "Evrensel: https://www.evrensel.net/haber/6007991/israilde-secim-sonuclari-kesinlesti-muhalefet-67-netanyahu-bloku-53-sandalye-aldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/bir-kotu-haberde-netanyahuya-israildeki-sonuclar-onaylandi-43365707"
-   ]
-  },
   {
    "id": "d7271d8b94",
    "post_id": "529346797199852_1457395289833512",
@@ -13645,6 +13616,19 @@
     "Evrensel: https://www.evrensel.net/haber/6008460/galatasaray-amedspor-4-3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/spor-haberleri/rams-parkta-gol-duellosu-aslan-evinde-costu-amedspor-direnemedi-4-3-2082907"
    ]
+  },
+  {
+   "id": "d9b9b03e17",
+   "post_id": "529346797199852_1460849239488117",
+   "title": "Cumhurbaşkanı Erdoğan, İlham Aliyev'in davetiyle yarın Karabağ'ı ziyaret edecek.",
+   "at": "2026-11-07T18:25:31.772315+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın yarın Karabağ'ı ziyaret edeceği öne sürüldü.\n\nZiyaretin Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetiyle yapılacağı iddia edildi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-8-kasimda-karabaga-gidecek-43369879",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-karabagi-ziyaret-edecek-4870598",
+    "BPT (X): https://x.com/bpthaber/status/2119130983475880210"
+   ]
   }
  ],
  "fails": {
@@ -13827,12 +13811,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119129369817870684",
+   "since_id": "2119130983475880210",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119130186411118932",
+   "since_id": "2119133549085302858",
    "started": true
   }
  }
