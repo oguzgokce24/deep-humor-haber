@@ -10398,21 +10398,91 @@
     "öne"
    ],
    "at": "2026-11-07T10:19:18.621215+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "abd",
+    "arena",
+    "filis",
+    "mackl",
+    "redde",
+    "ret",
+    "turne",
+    "özgür"
+   ],
+   "tok": [
+    "abd",
+    "aldığ",
+    "arası",
+    "arena",
+    "asla",
+    "açıkç",
+    "barcl",
+    "bağış",
+    "böyle",
+    "büyük",
+    "cente",
+    "chase",
+    "deney",
+    "deste",
+    "devam",
+    "edece",
+    "ekim",
+    "eğlen",
+    "filis",
+    "garde",
+    "gelir",
+    "göre",
+    "görme",
+    "güçlü",
+    "halkı",
+    "isiml",
+    "kapat",
+    "kapıl",
+    "kariy",
+    "karşı",
+    "konse",
+    "kurul",
+    "londr",
+    "mackl",
+    "madis",
+    "neden",
+    "nin",
+    "rapçi",
+    "rağme",
+    "redde",
+    "ret",
+    "salon",
+    "sanat",
+    "savun",
+    "sektö",
+    "sheer",
+    "squar",
+    "sundu",
+    "sustu",
+    "tarih",
+    "tur",
+    "turne",
+    "uygun",
+    "var",
+    "verec",
+    "veril",
+    "yanıt",
+    "yardı",
+    "yıllı",
+    "zorlu",
+    "çalış",
+    "çıkar",
+    "özgür",
+    "öğren",
+    "şey",
+    "şeyle"
+   ],
+   "at": "2026-11-07T10:31:56.929144+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bbe8dc04d6",
-   "post_id": "529346797199852_1456634936576214",
-   "title": "Tekirdağ'ı şiddetli sağanak vurdu: Cadde ve sokaklar göle döndü",
-   "at": "2026-11-03T17:36:50.449355+00:00",
-   "yazim": "claude",
-   "metin": "Tekirdağ'da sağanak yağış caddeleri göle çevirdi.\n\n— Meteoroloji'nin uyarısının ardından Süleymanpaşa'da yağmur bastırdı.\n— Cumhuriyet Mahallesi Ataç Sokak ile Değirmenaltı Mahallesi Çay Sokak'ta yollar su altında kaldı.\n— Yürümekte zorlanan vatandaşlar iş yerlerinin tentelerine sığındı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulu-saganak-vurdu-yollar-gole-dondu-araclar-suya-gomuldu-962128.html",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tekirdag-i-siddetli-saganak-vurdu-cadde-ve-sokaklar-gole-dondu-2552921"
-   ]
-  },
   {
    "id": "31aad755e0",
    "post_id": "529346797199852_1456643783241996",
@@ -13042,6 +13112,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/cristiano-ronaldo-nun-milli-takima-vedasinda-jorge-jesus-etkisi-2554137",
     "BirGün: https://www.birgun.net/haber/cristiano-ronaldonun-milli-takim-vedasinda-jorge-jesus-etkisi-tartisiliyor-745105"
    ]
+  },
+  {
+   "id": "22ad8cc49f",
+   "post_id": "529346797199852_1460413449531696",
+   "title": "Macklemore’un “Özgür Filistin Turnesi”ne 9 ABD arenasından ret",
+   "at": "2026-11-07T10:31:56.929144+00:00",
+   "yazim": "claude",
+   "metin": "Macklemore:\n\n“20 yıllık tur deneyimimde böyle bir şeyle asla karşılaşmamıştım.”\n\nABD'li rapçi Macklemore'un gelirini Filistin halkını savunan kuruluşlara bağışlayacağı \"Özgür Filistin Turnesi\"ni 9 büyük ABD konser arenası reddetti.\n\n— Reddedenler arasında Madison Square Garden, Barclays Center ve Chase Center da var.\n— Macklemore'a göre salonlar önce uygun tarihler sundu, turnenin Filistin'e destek vereceği öğrenilince kapıları kapattı.\n— Eğlence sektöründeki güçlü isimlerin Filistin'i açıkça destekleyen sanatçıları susturmaya çalıştığını savundu.\n— Turnenin son konseri 31 Ekim'de Londra'da verilmişti. Macklemore, zorluklara rağmen Filistin için yardım konserlerine devam edeceğini söyledi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/rapci-macklemore-ozgur-filistin-turnesinin-9-buyuk-abdli-konser-arenasi-tarafindan-reddedildigini-soyledi/4115010",
+    "Habertürk: https://www.haberturk.com/magazin/macklemoreun-ozgur-filistin-turnesi-ne-9-abd-arenasindan-ret-3925602",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/macklemore-un-ozgur-filistin-turnesi-ne-abd-arenalarindan-ret-20-yillik-kariyerimde-boyle-sey-gormedim-2554145",
+    "Evrensel: https://www.evrensel.net/haber/6008407/macklemoreun-ozgur-filistin-turnesine-9-abd-arenasindan-ret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13220,7 +13304,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119011198930743463",
+   "since_id": "2119013670273290611",
    "started": true
   }
  }
