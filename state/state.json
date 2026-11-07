@@ -10098,22 +10098,71 @@
     "özbek"
    ],
    "at": "2026-11-07T08:12:43.595422+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "ara",
+    "büyük",
+    "davas",
+    "doruk",
+    "karar",
+    "sanığ",
+    "tahli"
+   ],
+   "tok": [
+    "ara",
+    "aydın",
+    "açıld",
+    "başla",
+    "bekçi",
+    "bulun",
+    "büyük",
+    "cesed",
+    "davas",
+    "delil",
+    "doruk",
+    "duruş",
+    "emekl",
+    "firma",
+    "geçmi",
+    "ilişk",
+    "incel",
+    "intih",
+    "inşaa",
+    "isted",
+    "izmir",
+    "işçi",
+    "kayıt",
+    "mayıs",
+    "memur",
+    "olay",
+    "olayı",
+    "oğlun",
+    "saat",
+    "sahip",
+    "sanık",
+    "sanığ",
+    "savcı",
+    "sonra",
+    "sonuc",
+    "sonun",
+    "süren",
+    "tahli",
+    "topla",
+    "tümge",
+    "verdi",
+    "veril",
+    "yargı",
+    "yaşan",
+    "yıl",
+    "ölümü",
+    "şanti"
+   ],
+   "at": "2026-11-07T08:25:18.852282+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "37593eab1a",
-   "post_id": "529346797199852_1456384276601280",
-   "title": "İsrail’de koalisyon pazarlığı başlıyor: Muhalefetin önündeki üç engel ne?",
-   "at": "2026-11-03T12:17:50.798099+00:00",
-   "yazim": "claude",
-   "metin": "İsrail'de 27 Ekim seçimlerinden sonra koalisyon pazarlığı başlıyor.\n\nCumhurbaşkanı Isaac Herzog, siyasi partilerle koalisyon görüşmelerine başlıyor.\n\nPeki muhalefetin önündeki üç engel ne? Haber bu soruya yanıt arıyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/israilde-muhalefet-liderlerinden-meclis-baskanini-degistirme-ve-eisenkotu-destekleme-karari/4109843",
-    "Habertürk: https://www.haberturk.com/dunya/israil-de-muhalefetten-kritik-koalisyon-toplantisi-acilen-hukumet-kurmaliyiz-3924597",
-    "Medyascope: https://medyascope.tv/2026/11/03/israilde-koalisyon-pazarligi-basliyor-muhalefetin-onundeki-uc-engel-ne/"
-   ]
-  },
   {
    "id": "6a90ad7279",
    "post_id": "529346797199852_1456393756600332",
@@ -12745,6 +12794,21 @@
     "Evrensel: https://www.evrensel.net/haber/6008393/kirmizi-bultenle-aranan-ozbekistan-uyruklu-supheli-mersinde-yakalandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/ozbekistan-in-kirmizi-bultenle-aradigi-uyusturucu-baronu-mersinde-yakalandi-745092"
    ]
+  },
+  {
+   "id": "33dadf411d",
+   "post_id": "529346797199852_1460317142874660",
+   "title": "Dorukhan Büyükışık davasında 22 saat süren duruşma: 12 tahliye kararı",
+   "at": "2026-11-07T08:25:18.852282+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'de 2018'de bir inşaat şantiyesinde ölü bulunan emekli tümgeneral oğlunun davasında, 22 saat süren duruşmanın sonunda 12 sanığın tahliyesine karar verildi.\n\n— Olay 13 Mayıs 2018'de yaşanmış, kayıtlara intihar olarak geçmişti. Savcılık sonradan yeni bir soruşturma başlattı.\n\n— Soruşturma sonucunda polis memurları, bekçiler, bir işçi ve inşaat firması sahipleri hakkında dava açıldı. Toplam 26 sanık yargılanıyor.\n\n— Mahkeme ara kararla 12 sanığın tahliyesine karar verdi ve olayın aydınlatılması için yeni delil incelemesi istedi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/dorukhan-buyukisik-davasinda-ara-karar-12-saniga-tahliye-7696123",
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-dorukhan-buyukisik-davasinda-22-saat-suren-durusma-12-tahliye-karari-1749780",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-dorukhan-buyukisik-davasinda-13-sanik-tahliye-edildi-3925577",
+    "Karar: https://www.karar.com/guncel-haberler/8-yil-once-santiyede-olu-bulunmustu-dorukhan-buyukisik-davasinda-12-2082815",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/dorukhan-buyukisik-davasinda-ara-karar-12-saniga-tahliye-7696123"
+   ]
   }
  ],
  "fails": {
@@ -12923,7 +12987,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118978120208515368",
+   "since_id": "2118982942009536974",
    "started": true
   }
  }
