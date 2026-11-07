@@ -2,100 +2,6 @@
  "seen": [
   {
    "fp": [
-    "38",
-    "anket",
-    "defa",
-    "sonar",
-    "sonuç",
-    "yıldı",
-    "çarpı"
-   ],
-   "tok": [
-    "akp",
-    "anket",
-    "araşt",
-    "ardın",
-    "dağıt",
-    "defa",
-    "diğer",
-    "grupl",
-    "orant",
-    "sonar",
-    "sonuç",
-    "yanıt",
-    "yüzde",
-    "yıldı",
-    "çarpı"
-   ],
-   "at": "2026-11-06T04:05:30.360033+00:00"
-  },
-  {
-   "fp": [
-    "annem",
-    "avrup",
-    "birli",
-    "böyle",
-    "dayat",
-    "dedir",
-    "nin",
-    "pes",
-    "şartl"
-   ],
-   "tok": [
-    "amira",
-    "annem",
-    "avrup",
-    "aşa",
-    "birli",
-    "böyle",
-    "cem",
-    "dayat",
-    "dedir",
-    "gürde",
-    "nin",
-    "pes",
-    "rapor",
-    "rum",
-    "savun",
-    "sözcü",
-    "yaptı",
-    "yunan",
-    "çıkar",
-    "ülkem",
-    "şartl"
-   ],
-   "at": "2026-11-06T04:05:37.637173+00:00"
-  },
-  {
-   "fp": [
-    "aklın",
-    "böyle",
-    "haksı",
-    "insan",
-    "yitir"
-   ],
-   "tok": [
-    "aklın",
-    "böyle",
-    "edeps",
-    "haksı",
-    "insan",
-    "içind",
-    "karşı",
-    "lider",
-    "mukay",
-    "olmas",
-    "parti",
-    "siyas",
-    "sınır",
-    "yitir",
-    "özel",
-    "şeyle"
-   ],
-   "at": "2026-11-06T04:09:17.310519+00:00"
-  },
-  {
-   "fp": [
     "2",
     "den",
     "devle",
@@ -11264,24 +11170,60 @@
     "ünlü"
    ],
    "at": "2026-11-07T15:58:45.403393+00:00"
+  },
+  {
+   "fp": [
+    "polon",
+    "saldı",
+    "sayıd",
+    "silah",
+    "var",
+    "yaral",
+    "ölü"
+   ],
+   "tok": [
+    "adam",
+    "alınd",
+    "ana",
+    "arası",
+    "arka",
+    "ateş",
+    "açtı",
+    "başba",
+    "bildi",
+    "donal",
+    "düzen",
+    "geldi",
+    "gelip",
+    "hasta",
+    "incel",
+    "kaldı",
+    "kaçma",
+    "kenti",
+    "kişil",
+    "koşul",
+    "krako",
+    "memur",
+    "meyda",
+    "nın",
+    "olayd",
+    "otomo",
+    "planı",
+    "polon",
+    "sayıd",
+    "silah",
+    "tarih",
+    "titiz",
+    "tusk",
+    "var",
+    "vurul",
+    "çalış",
+    "çevre"
+   ],
+   "at": "2026-11-07T16:11:21.917022+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "598d6bc71c",
-   "post_id": "529346797199852_1457268759846165",
-   "title": "Fransa'da kan depolama tesislerine siber saldırı",
-   "at": "2026-11-04T09:47:17.648616+00:00",
-   "yazim": "claude",
-   "metin": "Fransa'da bilgisayar korsanları, kan depolama tesislerinin soğutma sistemine saldırdı.\n\n— Korsanlar, kan numunelerinin saklandığı tesislerde sıcaklık ayarını eksi 30 dereceden 110 dereceye çıkardı.\n— Saldırı zamanında fark edildi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/fransada-kan-depolama-tesislerine-siber-saldiri-duzenlendi/4111245",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/fransada-kan-depolama-tesislerine-siber-saldiri-duzenlendi-962211.html",
-    "Milliyet: https://www.milliyet.com.tr/dunya/fransada-yeni-siber-saldiri-alarmi-saglik-sektoru-hedefte-7694013",
-    "BirGün: https://www.birgun.net/haber/fransa-da-kan-depolama-tesislerine-siber-saldiri-744491",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/fransada-yeni-siber-saldiri-alarmi-saglik-sektoru-hedefte-7694013"
-   ]
-  },
   {
    "id": "d569181e83",
    "post_id": "529346797199852_1457278023178572",
@@ -13900,6 +13842,21 @@
    "sources": [
     "Karar: https://www.karar.com/hayat-haberleri/unlu-oyuncu-eda-ecenin-zor-gunu-babasi-hastaneye-kaldirildi-haberi-2082895"
    ]
+  },
+  {
+   "id": "7eb3c3b99f",
+   "post_id": "529346797199852_1460722952834079",
+   "title": "Polonya'da silahlı saldırı! Ölü ve yaralılar var",
+   "at": "2026-11-07T16:11:21.917022+00:00",
+   "yazim": "claude",
+   "metin": "Polonya'nın Krakow kentindeki tarihi Ana Meydan'da bir adam otomobille gelip çevredeki kişilere ateş açtı; 5 kişi hayatını kaybetti.\n\n— Olayda çok sayıda kişi yaralandı, yaralılar arasında polis memurları da var.\n— Saldırgan polis tarafından vurularak yaralandı, hastaneye kaldırıldı ve gözaltına alındı.\n— Başbakan Donald Tusk, saldırının arka planının ve tüm koşulların polis tarafından titizlikle incelendiğini söyledi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/dunya/polonyada-silahli-saldiri-olu-ve-yaralilar-var-7696356",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/polonya-da-silahli-saldiri-olu-ve-yaralilar-var-2554246",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/polonya-da-silahli-saldiri-olu-ve-yaralilar-var-p376993",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/polonyada-silahli-saldiri-olu-ve-yaralilar-var-7696356",
+    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119098430794375376"
+   ]
   }
  ],
  "fails": {
@@ -14082,7 +14039,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119094114121834641",
+   "since_id": "2119098430794375376",
    "started": true
   }
  }
