@@ -10707,22 +10707,71 @@
     "öldür"
    ],
    "at": "2026-11-07T11:34:14.679872+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "eksik",
+    "fener",
+    "kadro",
+    "kafil",
+    "kamp",
+    "maçı",
+    "nin",
+    "çorum"
+   ],
+   "tok": [
+    "ake",
+    "almad",
+    "alınm",
+    "alıyo",
+    "archi",
+    "asens",
+    "bahçe",
+    "başla",
+    "brown",
+    "burak",
+    "cezas",
+    "duyur",
+    "eders",
+    "eksik",
+    "fener",
+    "hafta",
+    "isim",
+    "kadro",
+    "kafil",
+    "kamp",
+    "kart",
+    "karşı",
+    "kişil",
+    "konuk",
+    "lig",
+    "liste",
+    "lukak",
+    "marco",
+    "maçı",
+    "maçın",
+    "muriq",
+    "natha",
+    "neden",
+    "nin",
+    "olaca",
+    "oynay",
+    "romel",
+    "saat",
+    "sakat",
+    "süper",
+    "vedat",
+    "yarın",
+    "yer",
+    "yılma",
+    "çalış",
+    "çorum"
+   ],
+   "at": "2026-11-07T11:46:51.452049+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1efd45ae45",
-   "post_id": "529346797199852_1456758259897215",
-   "title": "Arda Turan'ın ekibi Shakhtar Donetsk, Sporting'e diş geçiremedi!",
-   "at": "2026-11-03T20:37:26.304964+00:00",
-   "yazim": "claude",
-   "metin": "Arda Turan'ın Shakhtar Donetsk'i Sporting'e 1-0 yenildi.\n\n— Issa Doumbia 59. dakikada attığı golle maçı Sporting'in lehine çevirdi.\n— Shakhtar, 4 puanla Şampiyonlar Ligi lig aşamasında 18. sırada kaldı.\n— Ukrayna ekibi 25 Kasım'da Fenerbahçe'yi konuk edecek.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/shakhtar-donetsk-sporting-cp-mac-sonucu-iste-shakhtar-donetsk-sporting-cp-maci-ozeti-ve-golleri-uefa-sampiyonlar-ligi-3924727",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/arda-turan-in-ekibi-shakhtar-donetsk-sporting-e-dis-geciremedi-2553054",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/shakhtar-donetsk-0-1-sporting-lizbon-uefa-sampiyonlar-ligi-arda-turan-43365127"
-   ]
-  },
   {
    "id": "12bc7f63e6",
    "post_id": "529346797199852_1456765053229869",
@@ -13350,6 +13399,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/malatya-da-komsu-kavgasi-cinayetle-bitti-2-cocuk-babasi-itfaiye-eri-olduruldu-2554148",
     "Evrensel: https://www.evrensel.net/haber/6008422/malatyada-itfaiye-eri-komsusu-tarafindan-olduruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "9ad89c2947",
+   "post_id": "529346797199852_1460474312858943",
+   "title": "Fenerbahçe, Çorum FK maçı kamp kadrosunu duyurdu: Üç isim listede yer almadı",
+   "at": "2026-11-07T11:46:51.452049+00:00",
+   "yazim": "claude",
+   "metin": "Fenerbahçe, yarın oynayacağı Çorum FK maçının kamp kadrosunu açıkladı ve üç isim listede yer almadı.\n\n— Marco Asensio ve Nathan Ake sakatlıkları nedeniyle kadroya alınmadı.\n— Archie Brown kart cezası nedeniyle kafilede yer almadı.\n— Süper Lig'in 11. haftasındaki karşılaşma yarın saat 16.00'da başlayacak. Çorum FK'yı Burak Yılmaz çalıştırıyor.\n— Fenerbahçe'nin 22 kişilik kadrosunda Ederson, Romelu Lukaku ve Vedat Muriqi de yer alıyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/fenerbahcenin-corum-fk-maci-kafilesi-belli-oldu-3490199",
+    "Habertürk: https://www.haberturk.com/spor/fenerbahce-nin-corum-kafilesinde-3-eksik-3925619",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/fenerbahce-corum-fk-maci-kamp-kadrosunu-duyurdu-uc-isim-listede-yer-almadi-2554153",
+    "Karar: https://www.karar.com/spor-haberleri/fenerbahcenin-corum-fk-maci-kamp-kadrosu-belli-oldu-2082845",
+    "Sözcü Spor: https://www.sozcu.com.tr/fenerbahce-nin-corum-fk-kadrosu-belli-oldu-3-eksik-p376926"
+   ]
   }
  ],
  "fails": {
@@ -13523,12 +13587,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119028107948572686",
+   "since_id": "2119031999142801864",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119026640680362276",
+   "since_id": "2119030668357198272",
    "started": true
   }
  }
