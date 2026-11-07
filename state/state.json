@@ -10182,24 +10182,55 @@
     "öztaş"
    ],
    "at": "2026-11-07T09:27:50.373448+00:00"
+  },
+  {
+   "fp": [
+    "cumhu",
+    "erdoğ",
+    "hakar",
+    "mecli",
+    "parti",
+    "ten",
+    "tutuk",
+    "üyesi"
+   ],
+   "tok": [
+    "ali",
+    "beled",
+    "bulun",
+    "deniz",
+    "edece",
+    "erdoğ",
+    "erhan",
+    "gazia",
+    "göste",
+    "günge",
+    "hakar",
+    "hesab",
+    "hiç",
+    "hukuk",
+    "ilçes",
+    "kesin",
+    "kimse",
+    "mecli",
+    "muame",
+    "parti",
+    "suçla",
+    "suçlu",
+    "sürec",
+    "takip",
+    "ten",
+    "tepki",
+    "yakın",
+    "yapıl",
+    "yıldı",
+    "üyesi",
+    "şahin"
+   ],
+   "at": "2026-11-07T09:40:24.242991+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7c29c08c26",
-   "post_id": "529346797199852_1456563433250031",
-   "title": "Aynı aileden 7 kişi zehirlenme şüphesiyle hastaneye kaldırıldı",
-   "at": "2026-11-03T15:59:49.315195+00:00",
-   "yazim": "claude",
-   "metin": "Aynı aileden 7 kişi, mantar zehirlenmesi şüphesiyle hastaneye kaldırıldı.\n\nYakınlarının ihbarı üzerine 112 Acil Sağlık ekipleri bölgeye gitti. İlk müdahalenin ardından hastalar Şirvan İlçe Entegre Devlet Hastanesi'ne, oradan da Siirt Eğitim ve Araştırma Hastanesi'ne sevk edildi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/topladiklari-mantarlari-yiyen-7-kisi-hastanelik-oldu-962123.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/siirtte-mantar-yiyen-7-kisi-hastaneye-kaldirildi-43364942",
-    "Milliyet: https://www.milliyet.com.tr/gundem/siirtte-mantar-zehirlenmesi-alarmi-ayni-aileden-7-kisi-hastaneye-kaldirildi-7693599",
-    "Sözcü: https://www.sozcu.com.tr/ayni-aileden-7-kisi-zehirlenme-suphesiyle-hastaneye-kaldirildi-p375701",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/siirtte-mantar-zehirlenmesi-alarmi-ayni-aileden-7-kisi-hastaneye-kaldirildi-7693599"
-   ]
-  },
   {
    "id": "9bcfd8b0d5",
    "post_id": "529346797199852_1456575306582177",
@@ -12823,6 +12854,21 @@
     "CNN Türk: https://www.cnnturk.com/spor/futbol/kocaelisporda-18-yil-sonra-bir-ilk-3490163",
     "BirGün: https://www.birgun.net/haber/kocaelispordan-18-yil-sonra-milli-takima-serhat-oztasdelen-aday-kadroda-745101"
    ]
+  },
+  {
+   "id": "a38c1a1fc2",
+   "post_id": "529346797199852_1460365426203165",
+   "title": "YENİ Partili meclis üyesi 'cumhurbaşkanına hakaret'ten tutuklandı",
+   "at": "2026-11-07T09:40:24.242991+00:00",
+   "yazim": "claude",
+   "metin": "Gaziantep'in Şahinbey ilçesinde YENİ Partili bir belediye meclis üyesi, \"Cumhurbaşkanına hakaret\" suçlamasıyla tutuklandı.\n\n— YENİ Parti Gaziantep İl Başkanı Erhan Deniz Güngen, tutuklamaya X hesabından açıklamayla tepki gösterdi.\n— Güngen, \"Hiç kimse hakkında kesinleşmiş bir mahkeme kararı bulunmadan suçlu muamelesi yapılamaz.\" dedi.\n— Parti, meclis üyesinin hukuki sürecini yakından takip edeceğini açıkladı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/yeni-partili-meclis-uyesi-erdogan-a-hakaret-ten-tutuklandi-p376906",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/yeni-partili-meclis-uyesi-cumhurbaskanina-hakaret-ten-tutuklandi-2554113",
+    "Evrensel: https://www.evrensel.net/haber/6008397/yeni-partili-meclis-uyesi-ali-yildirim-cumhurbaskanina-hakaret-suclamasiyla-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/yeni-partili-meclis-uyesi-erdogan-a-hakaret-ten-tutuklandi-745091",
+    "Karar: https://www.karar.com/guncel-haberler/yeni-partili-meclis-uyesi-cumhurbaskanina-hakaretten-tutuklandi-2082817"
+   ]
   }
  ],
  "fails": {
@@ -12996,12 +13042,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118990552020766995",
+   "since_id": "2118999931646300598",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118994889564410165",
+   "since_id": "2118999653316169879",
    "started": true
   }
  }
