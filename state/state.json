@@ -2,65 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "banka",
-    "faizi",
-    "ingil",
-    "merke"
-   ],
-   "at": "2026-11-05T13:10:04.514556+00:00"
-  },
-  {
-   "fp": [
-    "bisik",
-    "evine",
-    "giden",
-    "isabe",
-    "mardi",
-    "mermi",
-    "yorgu",
-    "öğret"
-   ],
-   "at": "2026-11-05T13:17:36.668964+00:00"
-  },
-  {
-   "fp": [
-    "azerb",
-    "dan",
-    "erdoğ",
-    "karar"
-   ],
-   "at": "2026-11-05T13:31:10.849549+00:00"
-  },
-  {
-   "fp": [
-    "2",
-    "anne",
-    "duman",
-    "etkil",
-    "evde",
-    "hasta",
-    "izmir",
-    "kaldı",
-    "yangı",
-    "çocuğ",
-    "çıkan",
-    "öldü"
-   ],
-   "at": "2026-11-05T13:34:36.073078+00:00"
-  },
-  {
-   "fp": [
-    "alman",
-    "insan",
-    "kolay",
-    "türk",
-    "vize"
-   ],
-   "at": "2026-11-05T13:34:41.996441+00:00"
-  },
-  {
-   "fp": [
     "23",
     "anne",
     "facia",
@@ -8605,22 +8546,80 @@
     "üyesi"
    ],
    "at": "2026-11-07T00:55:34.662652+00:00"
+  },
+  {
+   "fp": [
+    "aşman",
+    "bedel",
+    "doğal",
+    "fatur",
+    "kadem",
+    "sınır",
+    "tarif",
+    "vurdu",
+    "yansı",
+    "yurtt",
+    "zam"
+   ],
+   "tok": [
+    "abone",
+    "anlam",
+    "ayı",
+    "ayın",
+    "ayınd",
+    "aşan",
+    "aşara",
+    "aşman",
+    "aşınc",
+    "bedel",
+    "belin",
+    "belir",
+    "bin",
+    "büktü",
+    "daki",
+    "deste",
+    "devle",
+    "değil",
+    "değiş",
+    "doğal",
+    "ekim",
+    "fark",
+    "fatur",
+    "fiyat",
+    "geldi",
+    "geliy",
+    "gerek",
+    "geçen",
+    "göre",
+    "iller",
+    "kadem",
+    "karşı",
+    "kez",
+    "kısım",
+    "kış",
+    "metre",
+    "siste",
+    "sınır",
+    "tarif",
+    "tüket",
+    "uygul",
+    "vurdu",
+    "yani",
+    "yansı",
+    "yapan",
+    "yapıy",
+    "yaşam",
+    "yerin",
+    "yurtt",
+    "yüzde",
+    "zam",
+    "ödeme",
+    "ücret"
+   ],
+   "at": "2026-11-07T01:39:11.178602+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d552f44eba",
-   "post_id": "529346797199852_1455752316664476",
-   "title": "Trump'tan seçime 1 gün kala İran ile anlaşma sinyali!",
-   "at": "2026-11-02T20:00:30.997478+00:00",
-   "yazim": "claude",
-   "metin": "Donald Trump:\n\n“Onlar bir anlaşma yapmak istiyor ve bu gerçekleşebilir.”\n\nTrump, Tahran yönetiminin Washington ile anlaşmak istediğini iddia etti.\n\nBu sırada Katarlı arabulucular olası anlaşma için Tahran'a gitti. Heyet, sekiz gündür üzerinde çalışılan ABD-İran taslağının bir versiyonunu ele aldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/video/dunya/trumptan-irana-balyoz-tehdidi-3487979",
-    "Habertürk: https://www.haberturk.com/dunya/donald-trump-iran-la-anlasma-olabilir-3924430",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/trump-yeni-iran-aciklamasi-2-kasim-2026-p375358"
-   ]
-  },
   {
    "id": "f571722e0d",
    "post_id": "529346797199852_1455775863328788",
@@ -11309,6 +11308,17 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6008367/imbat-madencileri-direnisle-kazandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "70c11365f7",
+   "post_id": "529346797199852_1460033919569649",
+   "title": "Doğalgazda kademeli tarife yurttaşı vurdu: Tarifede sınırı aşmanın bedeli faturaya zam olarak yansıdı",
+   "at": "2026-11-07T01:39:11.178602+00:00",
+   "yazim": "claude",
+   "metin": "Ankara'da bir yurttaş, ekim ayında 76,8 metreküp sınırını aşınca doğalgaz faturası 2 bin 685 lira yerine 4 bin 53 lira geldi.\n\n— Kademeli doğalgaz tarifesi bu kış ilk kez uygulanıyor. Sınırı aşan aboneler Kademe-2 fiyatından ödeme yapıyor.\n— Sınırı geçen kısım değil, ayın tüm doğalgazı Kademe-2 fiyatıyla ücretlendiriliyor.\n— Ankara'daki faturada fark 1368 lira oldu, yani yüzde 51 zam anlamına geliyor. Kademe sınırları ile de illere göre değişiyor.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/dogalgazda-kademeli-tarife-yurttasi-vurdu-tarifede-siniri-asmanin-bedeli-faturaya-zam-olarak-yansidi-2554022"
+   ]
   }
  ],
  "fails": {
@@ -11482,7 +11492,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118840863350763979",
+   "since_id": "2118871304355111115",
    "started": true
   }
  }
