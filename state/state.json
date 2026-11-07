@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "duman",
-    "etkil",
-    "işçi"
-   ],
-   "tok": [
-    "ardın",
-    "başla",
-    "bilin",
-    "boyçe",
-    "bulun",
-    "bölge",
-    "deki",
-    "duman",
-    "ekipl",
-    "etkil",
-    "fabri",
-    "geldi",
-    "hasta",
-    "henüz",
-    "ilgil",
-    "itfai",
-    "işçi",
-    "kaldı",
-    "kayse",
-    "kompr",
-    "meyda",
-    "müdah",
-    "nde",
-    "neden",
-    "odası",
-    "olayl",
-    "organ",
-    "patla",
-    "sanay",
-    "söndü",
-    "yangı",
-    "çelik",
-    "çıkan"
-   ],
-   "at": "2026-11-06T01:05:36.441601+00:00"
-  },
-  {
-   "fp": [
     "1",
     "2",
     "devri",
@@ -11145,23 +11101,69 @@
     "şikay"
    ],
    "at": "2026-11-07T13:03:29.834208+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "depla",
+    "eyüps",
+    "geçti",
+    "golle",
+    "kocae",
+    "yendi"
+   ],
+   "tok": [
+    "agyei",
+    "aldı",
+    "attı",
+    "ağırl",
+    "berka",
+    "cumar",
+    "dakik",
+    "danie",
+    "depla",
+    "eseny",
+    "eyüps",
+    "fener",
+    "galib",
+    "geldi",
+    "geçti",
+    "gol",
+    "golle",
+    "günü",
+    "hafta",
+    "ilçes",
+    "kaldı",
+    "kasım",
+    "kendi",
+    "kocae",
+    "kutlu",
+    "lig",
+    "ligde",
+    "ligin",
+    "maçı",
+    "mağlu",
+    "puana",
+    "puanl",
+    "puanı",
+    "sahas",
+    "süper",
+    "sıras",
+    "sıray",
+    "trend",
+    "ulaşı",
+    "yarıd",
+    "yendi",
+    "yener",
+    "yükse",
+    "çıktı",
+    "üst",
+    "üste"
+   ],
+   "at": "2026-11-07T13:16:03.377971+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "42f9e136c0",
-   "post_id": "529346797199852_1456814189891622",
-   "title": "Binaların çatılarında gezen maymun yakalanarak koruma altına alındı",
-   "at": "2026-11-03T22:10:34.924701+00:00",
-   "yazim": "claude",
-   "metin": "Samsun'da 5 katlı 4 binanın çatısında bir maymun dolaştı.\n\nVatandaşlar durumu 112'ye bildirdi. İtfaiye ekipleri maymunu çatılardan yakalayıp Doğa Koruma ve Milli Parklar Müdürlüğü'ne teslim etti.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/samsunda-maymun-panigi-catilarda-gezerken-yakalandi-3488643",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/samsun/ilkadim/4-binanin-catilarinda-gezen-maymun-yakalandi-3488641",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/samsunda-sokakta-maymun-panigi-itfaiye-yakaladi-4869568",
-    "BirGün: https://www.birgun.net/haber/binalarin-catilarinda-gezen-maymun-yakalanarak-koruma-altina-alindi-744384"
-   ]
-  },
   {
    "id": "e6bbac496c",
    "post_id": "529346797199852_1457043969868644",
@@ -13796,6 +13798,20 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-mantar-dehseti-dikkat-tam-mevsimi-komsusundan-aldigi-mantar-hayattan-kopardi-3925618",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/komsusundan-aldigi-mantari-yiyen-kadin-oldu-2554155"
    ]
+  },
+  {
+   "id": "1041995d7b",
+   "post_id": "529346797199852_1460556092850765",
+   "title": "Süper Lig'in 11. hafta maçı: Kocaelispor deplasmanda Eyüpspor'u 2-0 yendi",
+   "at": "2026-11-07T13:16:03.377971+00:00",
+   "yazim": "claude",
+   "metin": "Kocaelispor, İstanbul'un Esenyurt ilçesinde Eyüpspor'u 2-0 yenerek üç puanı aldı.\n\nTrendyol Süper Lig'in 11. haftasında iki gol de ilk yarıda geldi.\n\n— Golleri 5. dakikada Daniel Agyei ve 28. dakikada Berkan Kutlu attı.\n— Bu galibiyetle Kocaelispor, ligdeki 6. galibiyetine ulaşıp 19 puana çıktı ve 6. sıraya yükseldi.\n— Eyüpspor üst üste 8. mağlubiyetini aldı ve 3 puanla ligin son sırasında kaldı.\n— Kocaelispor, 21 Kasım Cumartesi günü kendi sahasında Fenerbahçe'yi ağırlayacak.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/kocaelispor-deplasmanda-eyupsporu-yendi/4115162",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/kocaelispor-eyupspor-u-deplasmanda-2-golle-devirdi-2554172",
+    "Evrensel: https://www.evrensel.net/haber/6008437/super-ligin-11-hafta-maci-kocaelispor-deplasmanda-eyupsporu-2-0-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Sözcü Spor: https://www.sozcu.com.tr/kocaelispor-eyupspor-u-2-golle-gecti-p376956"
+   ]
   }
  ],
  "fails": {
@@ -13969,12 +13985,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119049847210991689",
+   "since_id": "2119055633026888141",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119051134274781309",
+   "since_id": "2119054349947019307",
    "started": true
   }
  }
