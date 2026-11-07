@@ -10640,22 +10640,76 @@
     "çıktı"
    ],
    "at": "2026-11-07T11:21:37.803585+00:00"
+  },
+  {
+   "fp": [
+    "eri",
+    "itfai",
+    "komşu",
+    "malat",
+    "öldür"
+   ],
+   "tok": [
+    "alınd",
+    "apart",
+    "arası",
+    "ateş",
+    "aynı",
+    "babas",
+    "başla",
+    "belir",
+    "bitti",
+    "büyüy",
+    "cinay",
+    "duyan",
+    "ekipl",
+    "erhan",
+    "eri",
+    "erini",
+    "eser",
+    "gayre",
+    "gelen",
+    "girdi",
+    "henüz",
+    "ihbar",
+    "ilgil",
+    "ilçes",
+    "itfai",
+    "kavga",
+    "kaya",
+    "komşu",
+    "koruc",
+    "köy",
+    "mahal",
+    "malat",
+    "ndeki",
+    "neden",
+    "nın",
+    "olay",
+    "olayl",
+    "olmay",
+    "otura",
+    "saatl",
+    "sabah",
+    "sağlı",
+    "sesle",
+    "silah",
+    "taban",
+    "tartı",
+    "vurul",
+    "yanın",
+    "yazıh",
+    "yaşam",
+    "yaşan",
+    "yaşın",
+    "yitir",
+    "çocuk",
+    "öldür"
+   ],
+   "at": "2026-11-07T11:34:14.679872+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "92817a45b0",
-   "post_id": "529346797199852_1456747949898246",
-   "title": "TFF duyurdu: A Milli Futbol Takımı aday kadrosu ne zaman açıklanacak?",
-   "at": "2026-11-03T20:20:33.845627+00:00",
-   "yazim": "claude",
-   "metin": "A Milli Takım'ın aday kadrosu 6 Kasım Cuma günü açıklanacak.\n\nTeknik direktör Sergen Yalçın kadroyu saat 14.00'te canlı yayında duyuracak.\n\n— 12 Kasım Perşembe: İzmir'de Belçika\n\n— 15 Kasım Pazar: Fransa deplasmanı\n\nİki maç da UEFA Uluslar Ligi 1. Grup'ta oynanacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminin-aday-kadrosu-canli-yayinda-aciklanacak/4110512",
-    "Habertürk: https://www.haberturk.com/spor/a-milli-futbol-takimimiz-in-uefa-uluslar-ligi-aday-kadrosunu-sergen-yalcin-canli-yayinda-aciklayacak-3924732",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/tff-duyurdu-a-milli-futbol-takimi-aday-kadrosu-ne-zaman-aciklanacak-2553051"
-   ]
-  },
   {
    "id": "1efd45ae45",
    "post_id": "529346797199852_1456758259897215",
@@ -13284,6 +13338,18 @@
     "Habertürk: https://www.haberturk.com/dunya/hurmuz-bogazi-nda-bir-petrol-tankeri-mayina-carpti-3925607",
     "Evrensel: https://www.evrensel.net/haber/6008419/iran-hurmuz-bogazinin-dogusunda-tanker-mayina-carpti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "908b45cd9b",
+   "post_id": "529346797199852_1460465372859837",
+   "title": "Malatya'da komşu kavgası cinayetle bitti: 2 çocuk babası itfaiye eri öldürüldü",
+   "at": "2026-11-07T11:34:14.679872+00:00",
+   "yazim": "claude",
+   "metin": "Malatya'nın Yazıhan ilçesinde komşular arasındaki tartışma cinayetle bitti. 42 yaşındaki itfaiye eri tabancayla vurularak öldürüldü.\n\nOlay sabah saatlerinde Gayret Mahallesi'ndeki bir apartmanda yaşandı.\n\n— Aynı apartmanda oturan iki komşu, henüz nedeni belli olmayan bir tartışmaya girdi.\n— Tartışma büyüyünce köy korucusu 40 yaşındaki komşu, yanındaki tabancayla iki el ateş etti.\n— Silah seslerini duyan komşuların ihbarıyla gelen sağlık ekipleri, 2 çocuk babası itfaiye erinin hayatını kaybettiğini belirledi.\n— Şüpheli polis tarafından gözaltına alındı. Olayla ilgili soruşturma başlatıldı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/malatya-da-komsu-kavgasi-cinayetle-bitti-2-cocuk-babasi-itfaiye-eri-olduruldu-2554148",
+    "Evrensel: https://www.evrensel.net/haber/6008422/malatyada-itfaiye-eri-komsusu-tarafindan-olduruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13457,7 +13523,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119022581273743747",
+   "since_id": "2119028107948572686",
    "started": true
   },
   "ajansmuhbir1923": {
