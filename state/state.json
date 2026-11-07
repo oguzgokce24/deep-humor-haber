@@ -10851,24 +10851,99 @@
     "yayın"
    ],
    "at": "2026-11-07T21:54:21.080921+00:00"
+  },
+  {
+   "fp": [
+    "bilim",
+    "dünya",
+    "etmed",
+    "gta",
+    "molas",
+    "müjde",
+    "oynam",
+    "oyun",
+    "patro",
+    "reçet",
+    "veren"
+   ],
+   "tok": [
+    "aksin",
+    "aldığ",
+    "algıl",
+    "almak",
+    "almas",
+    "ayınd",
+    "açtı",
+    "başla",
+    "bilim",
+    "büyük",
+    "deste",
+    "devam",
+    "dougl",
+    "duyul",
+    "dönem",
+    "dünya",
+    "edile",
+    "etkil",
+    "etkin",
+    "etmed",
+    "gta",
+    "göre",
+    "günü",
+    "heyec",
+    "hobi",
+    "ihlal",
+    "izin",
+    "kalka",
+    "karşı",
+    "kasım",
+    "kaçma",
+    "kesin",
+    "keyif",
+    "koruy",
+    "mcwil",
+    "mesai",
+    "molas",
+    "müjde",
+    "nın",
+    "olabi",
+    "olmas",
+    "oluşt",
+    "organ",
+    "oynam",
+    "oynuy",
+    "oyun",
+    "patro",
+    "planl",
+    "psiki",
+    "reçet",
+    "rol",
+    "sağlı",
+    "sendr",
+    "sorum",
+    "stres",
+    "tartı",
+    "topar",
+    "tüken",
+    "uzman",
+    "uğrat",
+    "veren",
+    "yapım",
+    "yardı",
+    "yerin",
+    "yerle",
+    "yol",
+    "zihin",
+    "çalış",
+    "çıkac",
+    "çıkış",
+    "önced",
+    "önlem"
+   ],
+   "at": "2026-11-07T22:06:56.618939+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "14c607cee5",
-   "post_id": "529346797199852_1457636779809363",
-   "title": "Emir Sarıgül tahliye edildi!",
-   "at": "2026-11-04T17:28:44.781724+00:00",
-   "yazim": "claude",
-   "metin": "Emir Sarıgül tahliye edildi.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigulun-oglu-emir-sarigul-etkin-pismanliktan-yararlandi-7694406",
-    "Sözcü: https://www.sozcu.com.tr/emir-sarigul-tahliye-edildi-iddiasi-p376062",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/emir-sarigul-ev-hapsi-karariyla-tahliye-edildi-4869839",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/emir-sarigul-tahliye-edildi-iddiasi-p376062",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigulun-oglu-emir-sarigul-etkin-pismanliktan-yararlandi-7694406"
-   ]
-  },
   {
    "id": "415ad8d994",
    "post_id": "529346797199852_1457678979805143",
@@ -13452,6 +13527,17 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/bbc-acil-durumda-en-az-3-gun-internetsiz-yayin-yapacak-radyo-studyosu-kurmayi-planliyor/4115559",
     "BirGün: https://www.birgun.net/haber/bbc-den-acil-durum-plani-en-az-3-gun-internetsiz-yayin-yapacak-radyo-studyosu-kuracak-745194"
    ]
+  },
+  {
+   "id": "88b7712387",
+   "post_id": "529346797199852_1461021462804228",
+   "title": "Patrona belli etmeden GTA molası verenlere müjde: Bilim dünyası, oyun oynamayı reçete etti",
+   "at": "2026-11-07T22:06:56.618939+00:00",
+   "yazim": "claude",
+   "metin": "Psikiyatrist Dr. Douglas McWilliams:\n\n“Bir kişinin keyif aldığı bir etkinlik için önceden planlanmış izin alması, algılandığı gibi bir sorumluluk ihlali oluşturmuyor; aksine zihinsel sağlığı desteklemede etkili bir rol oynuyor.”\n\n— GTA 6'nın kasım ayında çıkacak olması, çalışanların bu oyun için izin planlamasına yol açtı ve iş yerlerinde devamsızlık tartışması başlattı.\n— Uzmanlara göre heyecan duyulan bir hobi için önceden izin almak, tükenmişliği önlemeye yardımcı olabilir.",
+   "sources": [
+    "Karar: https://www.karar.com/teknoloji-haberleri/bilgisayar-konsol-oyunlari-stresi-azaltir-mi-oyun-oynamak-zihni-2082932"
+   ]
   }
  ],
  "fails": {
@@ -13638,7 +13724,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119184335697809604",
+   "since_id": "2119189542565498907",
    "started": true
   },
   "ajansmuhbir1923": {
