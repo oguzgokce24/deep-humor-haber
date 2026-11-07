@@ -2,37 +2,6 @@
  "seen": [
   {
    "fp": [
-    "34",
-    "63",
-    "göçme",
-    "ilde",
-    "kaçak",
-    "opera",
-    "organ",
-    "tutuk"
-   ],
-   "tok": [
-    "belir",
-    "bin",
-    "bot",
-    "duyur",
-    "düzen",
-    "göçme",
-    "içişl",
-    "kaçak",
-    "konul",
-    "kulla",
-    "motor",
-    "organ",
-    "otomo",
-    "yönel",
-    "zaman",
-    "ünün"
-   ],
-   "at": "2026-11-06T08:58:36.671852+00:00"
-  },
-  {
-   "fp": [
     "8",
     "afyon",
     "ifade",
@@ -10960,22 +10929,92 @@
     "öne"
    ],
    "at": "2026-11-07T20:52:01.485939+00:00"
+  },
+  {
+   "fp": [
+    "anaya",
+    "devle",
+    "müslü",
+    "yaban"
+   ],
+   "tok": [
+    "adale",
+    "alabi",
+    "anaya",
+    "anlat",
+    "bozdu",
+    "dayan",
+    "dayat",
+    "devle",
+    "değer",
+    "değil",
+    "dinda",
+    "dokun",
+    "doğan",
+    "dönüş",
+    "düzen",
+    "embri",
+    "etmez",
+    "fakih",
+    "geri",
+    "göre",
+    "görüş",
+    "günüm",
+    "hakkı",
+    "hanef",
+    "harek",
+    "hem",
+    "hâlin",
+    "ikbal",
+    "iktid",
+    "imanı",
+    "imkân",
+    "inanc",
+    "insan",
+    "islam",
+    "işe",
+    "kalmı",
+    "kalıc",
+    "kendi",
+    "korud",
+    "korum",
+    "metin",
+    "musta",
+    "müslü",
+    "neden",
+    "olman",
+    "oluşu",
+    "onu",
+    "onur",
+    "onuru",
+    "sahip",
+    "samim",
+    "savun",
+    "siyas",
+    "sor",
+    "sorgu",
+    "tanım",
+    "tanıy",
+    "teşhi",
+    "var",
+    "verip",
+    "yaban",
+    "yalnı",
+    "yaram",
+    "yarat",
+    "yazar",
+    "yazı",
+    "yazıd",
+    "yener",
+    "yüküm",
+    "zorla",
+    "çağrı",
+    "özgür"
+   ],
+   "at": "2026-11-07T21:04:43.546626+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c6c71bc928",
-   "post_id": "529346797199852_1457552153151159",
-   "title": "İstanbul'un sağanak bilançosu belli oldu: En fazla yağış alan ilçe hangisi?",
-   "at": "2026-11-04T15:41:37.140399+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da son 24 saatte en çok yağış Üsküdar'a düştü: 44,4 milimetre.\n\n— Meteoroloji verilerine göre Pendik / Ömerli Barajı 36,6 milimetre yağış aldı.\n— Arnavutköy / Terkos Barajı'nda 36,4 milimetre ölçüldü.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/istanbulda-yagisin-bilancosu-belli-oldu-iste-en-cok-yagmur-alan-ilceler-3489047",
-    "Sözcü: https://www.sozcu.com.tr/istanbul-da-24-saatteki-saganak-yagisin-bilancosu-belli-oldu-o-ilcelerde-yagis-miktari-zirvede-p376032",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-un-saganak-bilancosu-belli-oldu-en-fazla-yagis-alan-ilce-hangisi-2553347"
-   ]
-  },
   {
    "id": "8a73b6ed68",
    "post_id": "529346797199852_1457563129816728",
@@ -13568,6 +13607,17 @@
     "CNN Türk: https://www.cnnturk.com/spor/futbol/basaksehir-goztepe-deplasmaninda-kazandi-3490344",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/basaksehir-goztepe-nin-galibiyet-serisini-sonlandirdi-2554274"
    ]
+  },
+  {
+   "id": "0c9d03f653",
+   "post_id": "529346797199852_1460981036141604",
+   "title": "Anayasal Devlet: Müslümanların yabancısı mı?",
+   "at": "2026-11-07T21:04:43.546626+00:00",
+   "yazim": "claude",
+   "metin": "Yazıda, devletin insan onurunu yaratmadığı, yalnızca tanıyıp koruduğu savunuluyor.\n\n“Devlet onu var etmez; tanımak ve korumakla yükümlüdür.”\n\n— Yazara göre insan onuru, bir iktidarın verip geri alabildiği bir değer değil, insan olmanın kendisinden doğan bir değerdir.\n— Metin, dokunulmazlık hakkının inanca değil insan oluşuna dayandığını Hanefî fakihlerin görüşleriyle anlatıyor.\n— Yazı, zorla dayatılan dindarlığın hem işe yaramadığını hem de imanın samimiyetini bozduğunu savunuyor.",
+   "sources": [
+    "Karar: https://www.karar.com/gorusler/anayasal-devlet-muslumanlarin-yabancisi-mi-2082922"
+   ]
   }
  ],
  "fails": {
@@ -13706,7 +13756,8 @@
   "53dad999e7": 1,
   "6dcc1e39dc": 1,
   "49285a6dd1": 1,
-  "971bcb9696": 1
+  "971bcb9696": 1,
+  "67c9eaba45": 1
  },
  "fail_log": [
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13753,7 +13804,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119168609172009316",
+   "since_id": "2119173688243175709",
    "started": true
   },
   "ajansmuhbir1923": {
