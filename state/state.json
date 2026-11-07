@@ -2,43 +2,6 @@
  "seen": [
   {
    "fp": [
-    "biane",
-    "cuzda",
-    "soruş",
-    "vecih"
-   ],
-   "tok": [
-    "akp",
-    "ayaz",
-    "başla",
-    "biane",
-    "cuzda",
-    "gazet",
-    "gitti",
-    "haber",
-    "ifade",
-    "ilişk",
-    "işler",
-    "mayıs",
-    "mille",
-    "müdür",
-    "neden",
-    "okula",
-    "oğlu",
-    "sarıb",
-    "silah",
-    "sorum",
-    "ten",
-    "vecih",
-    "verdi",
-    "yayım",
-    "yazı",
-    "yelis"
-   ],
-   "at": "2026-11-06T04:32:48.948020+00:00"
-  },
-  {
-   "fp": [
     "11",
     "33",
     "katli",
@@ -11216,25 +11179,89 @@
     "şartl"
    ],
    "at": "2026-11-07T16:24:00.503914+00:00"
+  },
+  {
+   "fp": [
+    "afyon",
+    "anlar",
+    "anlat",
+    "bağır",
+    "daki",
+    "diye",
+    "kurtu",
+    "saldı",
+    "sağ",
+    "yapma",
+    "öğret"
+   ],
+   "tok": [
+    "afyon",
+    "aldığ",
+    "anlar",
+    "anlat",
+    "araba",
+    "ardın",
+    "arif",
+    "arkad",
+    "bağır",
+    "belir",
+    "bin",
+    "birde",
+    "cesed",
+    "daki",
+    "diye",
+    "dolu",
+    "durdu",
+    "düzen",
+    "dışar",
+    "eskiş",
+    "etmey",
+    "eğiti",
+    "fazla",
+    "gasp",
+    "gidin",
+    "inere",
+    "kalan",
+    "kaste",
+    "katli",
+    "kaçtı",
+    "koltu",
+    "korku",
+    "kulla",
+    "kurtu",
+    "liray",
+    "olayı",
+    "orada",
+    "ortay",
+    "otomo",
+    "otura",
+    "pompa",
+    "ruhsa",
+    "sadec",
+    "satın",
+    "sağ",
+    "sefa",
+    "silah",
+    "size",
+    "tüfeğ",
+    "verin",
+    "verme",
+    "yakla",
+    "yapma",
+    "yaşad",
+    "zarar",
+    "çalış",
+    "çıkam",
+    "çıktı",
+    "öldür",
+    "öldüğ",
+    "özdem",
+    "öğret"
+   ],
+   "at": "2026-11-07T16:41:26.515651+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a0763df9b9",
-   "post_id": "529346797199852_1457287099844331",
-   "title": "Muş'ta virajı alamayan pikap devrildi: 2 ölü, 3 ağır yaralı",
-   "at": "2026-11-04T10:13:20.425224+00:00",
-   "yazim": "claude",
-   "metin": "Muş'ta virajı alamayan pikap devrildi: 2 kişi öldü.\n\n— Batman'dan Muş merkeze doğru giden pikap, Kızılağaç beldesi Kurtuluş mevkisinde devrildi.\n— Araçtaki 2 kişi hayatını kaybetti, 3 kişi ağır yaralandı.\n— Yaralılar ambulanslarla Muş Devlet Hastanesi'ne kaldırıldı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/musta-feci-kaza-viraji-alamayan-pikap-takla-atti-2-can-kaybi-3-yarali-43365550",
-    "Milliyet: https://www.milliyet.com.tr/gundem/musta-feci-kaza-pikap-takla-atti-2-olu-3-yarali-7694015",
-    "CNN Türk: https://www.cnnturk.com/turkiye/pikap-takla-atti-2-olu-3-yarali-3488807",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mus-ta-viraji-alamayan-pikap-devrildi-2-olu-3-agir-yarali-2553215",
-    "BirGün: https://www.birgun.net/haber/mus-ta-pikap-devrildi-2-kisi-oldu-3-kisi-yaralandi-744471",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/musta-feci-kaza-pikap-takla-atti-2-olu-3-yarali-7694015"
-   ]
-  },
   {
    "id": "1f72ebfe45",
    "post_id": "529346797199852_1457307753175599",
@@ -13850,6 +13877,20 @@
    "sources": [
     "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119102669738705352"
    ]
+  },
+  {
+   "id": "6dbf7761c3",
+   "post_id": "529346797199852_1460755239497517",
+   "title": "Afyonkarahisar’daki katliamdan sağ olarak kurtulmuştu: Öğretmen yaşadığı korku dolu anları anlattı",
+   "at": "2026-11-07T16:41:26.515651+00:00",
+   "yazim": "claude",
+   "metin": "Afyonkarahisar'da bir otomobile silahlı saldırı düzenlendi, araçtaki 2 öğretmen hayatını kaybetti. Saldırgan olayın ardından Eskişehir'e kaçtı, orada yakalanarak birden fazla kişiyi kasten öldürmekten tutuklandı.\n\n— Saldırgan aracı durdurup gasp etmeye çalıştı. Ön koltukta oturan beden eğitimi öğretmeni araçtan inerek kurtuldu, arkada kalan iki öğretmen korkudan dışarı çıkamadı.\n— Saldırganın kullandığı pompalı tüfeğin ruhsatsız olduğu ortaya çıktı. Silahı yaklaşık bir ay önce 12 bin liraya satın aldığı belirtildi.\n\nSaldırıdan sağ kurtulan öğretmen olayı anlattı: \"Size zarar vermeyeceğim. Sadece arabayı verin ve gidin\" dedi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/afyonkarahisardaki-saldiridan-kurtulan-ogretmen-dehset-anlari-anlatti-yapma-diye-bagirdim-43369806",
+    "Sözcü: https://www.sozcu.com.tr/afyonkarahisar-daki-katliamdan-sag-olarak-kurtulmustu-ogretmen-yasadigi-korku-dolu-anlari-anlatti-p376992",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/afyonkarahisardaki-saldiridan-kurtulan-ogretmen-dehset-anlari-anlatti-yapma-diye-bagirdim-43369806",
+    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119106130895044625"
+   ]
   }
  ],
  "fails": {
@@ -14027,12 +14068,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119102626466078943",
+   "since_id": "2119105455985504308",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119102669738705352",
+   "since_id": "2119106130895044625",
    "started": true
   }
  }
