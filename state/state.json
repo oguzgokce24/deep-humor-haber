@@ -9383,23 +9383,78 @@
     "şekli"
    ],
    "at": "2026-11-07T05:30:53.289563+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "26",
+    "arap",
+    "dönem",
+    "israi",
+    "köken",
+    "mecli",
+    "siyas",
+    "temsi",
+    "vekil"
+   ],
+   "tok": [
+    "abbas",
+    "arap",
+    "ağırl",
+    "balad",
+    "beşte",
+    "birin",
+    "birle",
+    "birli",
+    "cassi",
+    "deki",
+    "dönem",
+    "dürzi",
+    "ekim",
+    "gitti",
+    "hadaş",
+    "ise",
+    "israi",
+    "kalıy",
+    "kazan",
+    "kness",
+    "kurdu",
+    "köken",
+    "lider",
+    "liste",
+    "mansu",
+    "mecli",
+    "mille",
+    "nüfus",
+    "ofer",
+    "olduk",
+    "oluşt",
+    "parla",
+    "parti",
+    "sanda",
+    "sayı",
+    "sayıs",
+    "segal",
+    "seçil",
+    "seçim",
+    "siyas",
+    "tarih",
+    "temsi",
+    "toplu",
+    "ulaşı",
+    "vekil",
+    "yahud",
+    "yakla",
+    "yaşıy",
+    "yoav",
+    "çıkar",
+    "ülke",
+    "üyeli"
+   ],
+   "at": "2026-11-07T05:43:28.498120+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d0b1160c8d",
-   "post_id": "529346797199852_1456244966615211",
-   "title": "Rockets, Alperen Şengün'ün 'double-double' yaptığı maçta Celtics'i devirdi",
-   "at": "2026-11-03T09:14:21.803139+00:00",
-   "yazim": "claude",
-   "metin": "Alperen Şengün 26 sayı ve 10 asistle Rockets'ı galibiyete taşıdı.\n\n— Houston, sahasında Boston Celtics'i 109-93 yendi.\n— Rockets bu sezonki yedinci galibiyetini aldı.\n— Celtics ise sezonun ikinci mağlubiyetini yaşadı.\n\nAynı gece Philadelphia 76ers, Chicago Bulls'u 126-107 yendi.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/nba-de-alperen-sengun-double-double-yapti-houston-rockets-kazandi-3924507",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/rockets-alperen-sengun-un-double-double-yaptigi-macta-celtics-i-devirdi-2552738",
-    "BirGün: https://www.birgun.net/haber/alperen-sengunden-26-sayi-10-asist-rockets-celticsi-yendi-744193",
-    "Karar: https://www.karar.com/spor-haberleri/alperen-sengunden-bir-double-double-daha-1-2082109"
-   ]
-  },
   {
    "id": "7224b48313",
    "post_id": "529346797199852_1456253929947648",
@@ -12041,6 +12096,17 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-26-kent-icin-sari-alarm-kar-sogugu-hissedilecek-hava-durumu-istanbul-3925545",
     "Karar: https://www.karar.com/guncel-haberler/26-kent-icin-sari-alarm-kar-sogugu-hissedilecek-6-bolgede-yagis-var-2082791"
    ]
+  },
+  {
+   "id": "3ab2446c54",
+   "post_id": "529346797199852_1460199056219802",
+   "title": "İsrail siyasetinde Arap temsili: 26. dönem (2026) İsrail meclisinde Arap kökenli vekiller",
+   "at": "2026-11-07T05:43:28.498120+00:00",
+   "yazim": "claude",
+   "metin": "İsrail'deki 27 Ekim 2026 seçimlerinde Arap partileri Knesset'te 19 sandalye kazandı.\n\n— 11 sandalye Hadaş, Ta'al ve Balad'ın kurduğu Birleşik Liste'ye, 8 sandalye Mansur Abbas'ın liderliğindeki Ra'am'a gitti.\n\n— Ofer Cassif ve Yoav Segalovitz Yahudi oldukları için Arap kökenli vekil sayısı 17'de kalıyor. Yahudi ağırlıklı partilerden seçilen iki Dürzi vekille birlikte bu sayı 19'a ulaşıyor.\n\n— İsrail'de yaklaşık 2,1 milyon Arap yaşıyor. Bu topluluk ülke nüfusunun yaklaşık beşte birini oluşturuyor.",
+   "sources": [
+    "Serbestiyet: https://serbestiyet.com/gunun-yazilari/israil-siyasetinde-arap-temsili-26-donem-2026-israil-meclisinde-arap-kokenli-vekiller-253037/"
+   ]
   }
  ],
  "fails": {
@@ -12211,7 +12277,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118937379566477597",
+   "since_id": "2118940145223106903",
    "started": true
   },
   "ajansmuhbir1923": {
