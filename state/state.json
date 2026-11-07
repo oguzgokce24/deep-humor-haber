@@ -2,44 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2026",
-    "5",
-    "kasım",
-    "kazan"
-   ],
-   "tok": [
-    "adayı",
-    "akşam",
-    "bilme",
-    "bugün",
-    "dokun",
-    "ekran",
-    "eleme",
-    "gerek",
-    "hafta",
-    "hangi",
-    "kasım",
-    "kazan",
-    "kim",
-    "kırmı",
-    "loto",
-    "maste",
-    "mavi",
-    "mpi",
-    "mücad",
-    "numar",
-    "peki",
-    "sonuç",
-    "sorgu",
-    "süper",
-    "takım",
-    "çekil",
-    "üçünc"
-   ],
-   "at": "2026-11-05T22:37:52.465752+00:00"
-  },
-  {
-   "fp": [
     "100",
     "alaca",
     "denet",
@@ -10480,22 +10442,89 @@
     "şeyle"
    ],
    "at": "2026-11-07T10:31:56.929144+00:00"
+  },
+  {
+   "fp": [
+    "adale",
+    "bahçe",
+    "böyle",
+    "hakan",
+    "hapsi",
+    "imamo",
+    "karar",
+    "ndan",
+    "nin",
+    "olmaz",
+    "tepki"
+   ],
+   "tok": [
+    "adale",
+    "aday",
+    "aktaş",
+    "alma",
+    "aydır",
+    "ayrıl",
+    "aziz",
+    "ağır",
+    "bahçe",
+    "beled",
+    "bulun",
+    "böyle",
+    "ceza",
+    "cezas",
+    "davad",
+    "davas",
+    "delil",
+    "diye",
+    "diyen",
+    "dönem",
+    "dönme",
+    "ekrem",
+    "eleşt",
+    "ermes",
+    "etmiş",
+    "ettiğ",
+    "gazio",
+    "gerek",
+    "görev",
+    "görül",
+    "göste",
+    "hakan",
+    "hapis",
+    "hapsi",
+    "hesab",
+    "ibb",
+    "ihsan",
+    "imamo",
+    "istem",
+    "ndan",
+    "nde",
+    "nin",
+    "niçin",
+    "ofisi",
+    "olmaz",
+    "ortad",
+    "rüşve",
+    "savcı",
+    "savun",
+    "sona",
+    "sordu",
+    "suçla",
+    "tahli",
+    "talep",
+    "tek",
+    "tepki",
+    "veril",
+    "yakla",
+    "yok",
+    "yıla",
+    "yılda",
+    "şartı"
+   ],
+   "at": "2026-11-07T10:43:47.256919+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "31aad755e0",
-   "post_id": "529346797199852_1456643783241996",
-   "title": "Zeytinburnu'nda terası kısmen çöken 4 katlı bina boşaltıldı",
-   "at": "2026-11-03T17:49:50.866821+00:00",
-   "yazim": "claude",
-   "metin": "Zeytinburnu'nda terası kısmen çöken 4 katlı bina boşaltıldı.\n\n— Çöken teras en üst kattaki daireye ait. Alt katlardaki balkonlarda da hasar oluştu.\n\n— 34 yıllık binadaki 17 daire, önlem amacıyla tahliye edildi.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/istanbul-da-balkonu-coken-bina-tahliye-edildi-3924678",
-    "Yeni Şafak: https://www.yenisafak.com/video/gundem/zeytinburnunda-terasi-coken-bina-tahliye-edildi-4869482",
-    "BirGün: https://www.birgun.net/haber/zeytinburnu-nda-terasi-kismen-coken-4-katli-bina-bosaltildi-744328"
-   ]
-  },
   {
    "id": "80a436893c",
    "post_id": "529346797199852_1456658733240501",
@@ -13126,6 +13155,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/macklemore-un-ozgur-filistin-turnesi-ne-abd-arenalarindan-ret-20-yillik-kariyerimde-boyle-sey-gormedim-2554145",
     "Evrensel: https://www.evrensel.net/haber/6008407/macklemoreun-ozgur-filistin-turnesine-9-abd-arenasindan-ret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "55e7d4579a",
+   "post_id": "529346797199852_1460421012864273",
+   "title": "Hakan Bahçetepe hakkında tahliye kararı: İmamoğlu “Niçin?” diye sordu",
+   "at": "2026-11-07T10:43:47.256919+00:00",
+   "yazim": "claude",
+   "metin": "Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe, yaklaşık 17 aydır tutuklu olduğu davada ev hapsi şartıyla tahliye edildi.\n\n— Dava, Aziz İhsan Aktaş soruşturmasından ayrılan ve İstanbul 10. Ağır Ceza Mahkemesi'nde görülen davadır.\n\n— Savcılık, Bahçetepe hakkında \"rüşvet alma\" suçlamasıyla 4 yıldan 12 yıla kadar hapis cezası istemiş ve tutukluluğun sona ermesini talep etmişti.\n\n— Tutuklu İBB Başkanı Ekrem İmamoğlu, kararı Cumhurbaşkanlığı Aday Ofisi'nin X hesabından eleştirdi. \"Böyle adalet olmaz. Ortada tek bir delil yok!\" diyen İmamoğlu, Bahçetepe'nin belediye başkanlığı görevine dönmesi gerektiğini savundu.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/hakan-bahcetepe-hakkinda-tahliye-karari-imamoglu-nicin-diye-sordu-2554125",
+    "BirGün: https://www.birgun.net/haber/imamoglu-ndan-hakan-bahcetepe-nin-ev-hapsi-kararina-tepki-boyle-adalet-olmaz-745115",
+    "Karar: https://www.karar.com/guncel-haberler/imamoglundan-bahcetepenin-ev-hapsine-tepki-boyle-adalet-olmaz-2082826"
+   ]
   }
  ],
  "fails": {
@@ -13257,7 +13299,6 @@
  "fail_log": [
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13294,7 +13335,8 @@
   "2026-11-07T00:43 T.C. ANKARA BATI 4. ASLİYE HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
   "2026-11-07T06:21 Fon skandalı devlet başkanını koltuğundan etti: Paraguay'da  -> ValueError: cümle yarım kalmış: 'üdahaleye uğrayan Ueno Bank ve bankadaki'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-07T09:02 Yağmur bereket getirdi üreticinin yüzü güldü: Hasat erkene ç -> ValueError: cümle yarım kalmış: '— İzmir,'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-07T10:19 Cristiano Ronaldo’nun milli takım vedasında Jorge Jesus etki -> ValueError: cümle yarım kalmış: 's ile yaşadığı anlaşmazlığın etkili olmu'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-07T10:19 Cristiano Ronaldo’nun milli takım vedasında Jorge Jesus etki -> ValueError: cümle yarım kalmış: 's ile yaşadığı anlaşmazlığın etkili olmu'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-07T10:43 Hakan Bahçetepe hakkında tahliye kararı: İmamoğlu “Niçin?” d -> ValueError: metin çok kısa, bağlam yok"
  ],
  "x": {
   "bpthaber": {
