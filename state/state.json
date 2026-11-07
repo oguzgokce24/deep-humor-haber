@@ -2,101 +2,6 @@
  "seen": [
   {
    "fp": [
-    "8",
-    "afyon",
-    "katle",
-    "kişiy",
-    "saldı"
-   ],
-   "tok": [
-    "afyon",
-    "ağır",
-    "bakın",
-    "demiş",
-    "diyer",
-    "eskiş",
-    "gasbe",
-    "gören",
-    "görev",
-    "görün",
-    "götür",
-    "katle",
-    "kendi",
-    "mit",
-    "ortay",
-    "otomo",
-    "yerde",
-    "çoban",
-    "çıktı",
-    "öldür",
-    "şahıs"
-   ],
-   "at": "2026-11-06T05:37:41.964573+00:00"
-  },
-  {
-   "fp": [
-    "betül",
-    "fatma",
-    "fon",
-    "kaya",
-    "sayan",
-    "soruş",
-    "tutuk"
-   ],
-   "tok": [
-    "adli",
-    "akp",
-    "akın",
-    "alına",
-    "ayrın",
-    "betül",
-    "bırak",
-    "deniz",
-    "devre",
-    "dikka",
-    "ertes",
-    "eski",
-    "eşi",
-    "fatma",
-    "fon",
-    "gönül",
-    "gözya",
-    "gün",
-    "gürle",
-    "haber",
-    "hisse",
-    "ibrah",
-    "ilyas",
-    "isim",
-    "kaya",
-    "kontr",
-    "kriti",
-    "krizi",
-    "nın",
-    "payla",
-    "savcı",
-    "sayan",
-    "serbe",
-    "sevk",
-    "sonra",
-    "spk",
-    "sürdü",
-    "süreç",
-    "taleb",
-    "tasfi",
-    "ten",
-    "tutam",
-    "vurgu",
-    "yazıs",
-    "çeken",
-    "ömer",
-    "öne",
-    "özata"
-   ],
-   "at": "2026-11-06T05:41:13.254202+00:00"
-  },
-  {
-   "fp": [
     "açık",
     "basıl",
     "düğme",
@@ -11240,23 +11145,85 @@
     "çalış"
    ],
    "at": "2026-11-07T17:32:09.013812+00:00"
+  },
+  {
+   "fp": [
+    "bahad",
+    "batır",
+    "gazet",
+    "mafya",
+    "paras",
+    "özgür"
+   ],
+   "tok": [
+    "adaml",
+    "adı",
+    "alnus",
+    "amca",
+    "anıla",
+    "artıp",
+    "bahad",
+    "banka",
+    "battı",
+    "batır",
+    "bazı",
+    "belir",
+    "bürok",
+    "büyük",
+    "can",
+    "credi",
+    "değer",
+    "durdu",
+    "düştü",
+    "ekim",
+    "ekimd",
+    "endiş",
+    "eski",
+    "faali",
+    "fon",
+    "gazet",
+    "gitti",
+    "güven",
+    "hisse",
+    "ismin",
+    "kamuo",
+    "kapsa",
+    "kat",
+    "konuş",
+    "lakap",
+    "lider",
+    "liray",
+    "mafya",
+    "menku",
+    "mikta",
+    "organ",
+    "para",
+    "paras",
+    "portf",
+    "sahib",
+    "skand",
+    "suçla",
+    "söyle",
+    "sürül",
+    "tanın",
+    "tavsi",
+    "tesli",
+    "yatır",
+    "yönet",
+    "yüklü",
+    "yılda",
+    "çıkar",
+    "çıktı",
+    "öne",
+    "öyles",
+    "özgür",
+    "ünlü",
+    "şirke"
+   ],
+   "at": "2026-11-07T17:44:01.302070+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3fefee41dc",
-   "post_id": "529346797199852_1457346926505015",
-   "title": "Nevşehir'de metruk evin garajında yangın: 14 yaşındaki çocuk ağır yaralandı",
-   "at": "2026-11-04T11:35:31.871647+00:00",
-   "yazim": "claude",
-   "metin": "Nevşehir'de metruk bir evin garajındaki hurda araçta yangın çıktı, garajda bulunan 14 yaşındaki bir çocuk ağır yaralandı.\n\n— Kıyafetleri alev alan çocuk dışarı çıktı, çevredekilerin müdahalesiyle kurtarıldı.\n— Ağır yaralanan çocuk ambulansla Nevşehir Devlet Hastanesi'ne kaldırıldı.\n— Yangının nedeni henüz belirlenemedi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/nevsehir/nevsehirde-garajda-cikan-yanginda-bir-cocuk-agir-yaralandi-3488904",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/metruk-evin-garajinda-yangin-14-yasindaki-cocuk-agir-yaralandi-2553237",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-iscilerin-kaldigi-konteynerdeki-yangin-3-u-agir-12-kisi-yaralandi-2553217",
-    "BirGün: https://www.birgun.net/haber/nevsehir-de-metruk-evin-garajinda-yangin-14-yasindaki-cocuk-agir-yaralandi-744517"
-   ]
-  },
   {
    "id": "eb8677e42a",
    "post_id": "529346797199852_1457364719836569",
@@ -13866,6 +13833,17 @@
     "BirGün: https://www.birgun.net/haber/zonguldak-valiligi-nin-sosyal-medya-hesabina-siber-saldiri-745184",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/zonguldak-valiliginin-x-hesabina-siber-mudahale-7696373"
    ]
+  },
+  {
+   "id": "f2dc111ff4",
+   "post_id": "529346797199852_1460807359492305",
+   "title": "Gazeteci Bahadır Özgür: Mafyanın parasını da batırdılar",
+   "at": "2026-11-07T17:44:01.302070+00:00",
+   "yazim": "claude",
+   "metin": "Gazeteci Bahadır Özgür:\n\n“Fon skandalı öylesine büyük ki adı organize suçla anılan ve kamuoyunda 'mafya lideri' olarak tanınan ünlü bir ismin de yüklü miktarda parasının battığı konuşuluyor.”\n\n— Fon soruşturmasında eski bir bakan, Merkez Bankası yöneticileri ve bazı bürokratlar tutuklandı.\n— Soruşturma kapsamında Alnus Yatırım Menkul Değerler'in faaliyeti 21 Ekim'de durduruldu, şirketin sahibi hakkında yakalama kararı çıkarıldı.\n— Şirket sahibi 24 Ekim'de teslim oldu ve tutuklandı. Can güvenliği endişesiyle teslim olduğu öne sürülüyor.\n— \"Amca\" lakaplı mafya liderinin 20 Ekim'de adamlarıyla Alnus Portföy'e gittiği söyleniyor. Şirket sahibinin tavsiyesiyle Crediwest hisselerine yüklü miktarda para yatırıldığı, hissenin bir yılda 8 kat artıp 45,9 liraya çıktıktan sonra ekimde 7,5 liraya düştüğü belirtiliyor.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008467/gazeteci-bahadir-ozgur-mafyanin-parasini-da-batirdilar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -14044,7 +14022,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119113736208470455",
+   "since_id": "2119120810053079283",
    "started": true
   },
   "ajansmuhbir1923": {
