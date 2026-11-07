@@ -2,33 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "bakan",
-    "başka",
-    "dışiş",
-    "edece",
-    "gazet",
-    "iddia",
-    "ingil",
-    "istif",
-    "rubio",
-    "the",
-    "yarış",
-    "ındep"
-   ],
-   "at": "2026-11-05T18:04:02.297023+00:00"
-  },
-  {
-   "fp": [
-    "eisen",
-    "israi",
-    "liste",
-    "ortak"
-   ],
-   "at": "2026-11-05T18:04:09.736794+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "berke",
     "den",
@@ -9532,23 +9505,45 @@
     "şartl"
    ],
    "at": "2026-11-07T05:55:47.327696+00:00"
+  },
+  {
+   "fp": [
+    "100",
+    "altın",
+    "fiyat",
+    "gece",
+    "geril",
+    "indir",
+    "liran",
+    "motor",
+    "yarıs"
+   ],
+   "tok": [
+    "altın",
+    "bandı",
+    "düşüş",
+    "fiyat",
+    "gece",
+    "geldi",
+    "geril",
+    "iller",
+    "indi",
+    "indir",
+    "itiba",
+    "liral",
+    "liran",
+    "litre",
+    "motor",
+    "neden",
+    "petro",
+    "yansı",
+    "yapıl",
+    "yarıs"
+   ],
+   "at": "2026-11-07T06:08:21.826916+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1604e3508b",
-   "post_id": "529346797199852_1456263666613341",
-   "title": "115 milyon yıllık dinozor fosilinde kanın kimyasal izleri tespit edildi",
-   "at": "2026-11-03T09:42:28.562879+00:00",
-   "yazim": "claude",
-   "metin": "Brezilya'da bulunan 115 milyon yıllık bir dinozor fosilinin kemiğinde, kanın oksijen taşıyan \"hem\" molekülünün izleri bulundu.\n\n— Araştırmacılar bu izleri mineralleşmiş kırmızı kan hücrelerine bağladı.\n— Bağımsız uzmanlar ise bu yapıların gerçekten kan hücresi olup olmadığı konusunda temkinli davranıyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/dunya/cigir-acan-bir-kesif-115-milyon-yillik-bir-dinozorun-kemiginde-ilk-kez-bulundu-7693211",
-    "BirGün: https://www.birgun.net/haber/115-milyon-yillik-dinozor-kemiginde-kanin-kimyasal-izleri-bulundu-744227",
-    "Karar: https://www.karar.com/guncel-haberler/115-milyon-yillik-dinozor-fosilinde-kanin-kimyasal-izleri-tespit-edildi-2082094",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/cigir-acan-bir-kesif-115-milyon-yillik-bir-dinozorun-kemiginde-ilk-kez-bulundu-7693211"
-   ]
-  },
   {
    "id": "f9c48c7e76",
    "post_id": "529346797199852_1456273986612309",
@@ -12185,6 +12180,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/okul-saldirilarina-yeni-onlemler-eklenecek-silah-ruhsatina-yeni-sart-2082790"
    ]
+  },
+  {
+   "id": "91cc4ab1b2",
+   "post_id": "529346797199852_1460215222884852",
+   "title": "Motorine gece yarısı indirimi: Fiyatlar 100 liranın altına geriledi",
+   "at": "2026-11-07T06:08:21.826916+00:00",
+   "yazim": "claude",
+   "metin": "Motorine gece yarısı 5,47 liralık indirim geldi ve litre fiyatı tüm illerde 100 liranın altına indi.\n\nMotorindeki bu indirimin nedeni, petrol fiyatlarındaki düşüş.\n\n— İstanbul'da motorin litresi 95 lira bandına geriledi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/motorine-gece-yarisi-indirimi-fiyatlar-100-liranin-altina-geriledi-745061"
+   ]
   }
  ],
  "fails": {
@@ -12309,7 +12315,8 @@
   "0dbc29f889": 1,
   "0d97eb89a2": 1,
   "5921dae651": 1,
-  "7335d9a822": 1
+  "7335d9a822": 1,
+  "b0ce1004e3": 1
  },
  "fail_log": [
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -12356,7 +12363,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118942477079986664",
+   "since_id": "2118947108216885701",
    "started": true
   },
   "ajansmuhbir1923": {
