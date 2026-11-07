@@ -2,53 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "2",
-    "devri",
-    "kişi",
-    "otomo",
-    "yaral",
-    "zongu",
-    "ölü",
-    "şaram"
-   ],
-   "tok": [
-    "başla",
-    "bulun",
-    "cesed",
-    "devle",
-    "devri",
-    "ereğl",
-    "gönde",
-    "hasta",
-    "ilgil",
-    "kaldı",
-    "kamyo",
-    "kara",
-    "kars",
-    "kazay",
-    "metre",
-    "mevki",
-    "olay",
-    "otomo",
-    "otops",
-    "saat",
-    "sürüc",
-    "sıral",
-    "yerin",
-    "yolun",
-    "yuvar",
-    "yükse",
-    "zongu",
-    "çarpt",
-    "çarpı",
-    "ören",
-    "şaram"
-   ],
-   "at": "2026-11-06T01:18:10.315112+00:00"
-  },
-  {
-   "fp": [
     "betül",
     "fatma",
     "kaya",
@@ -11161,22 +11114,65 @@
     "üste"
    ],
    "at": "2026-11-07T13:16:03.377971+00:00"
+  },
+  {
+   "fp": [
+    "ameds",
+    "galat",
+    "hakem",
+    "maçın",
+    "var"
+   ],
+   "tok": [
+    "akşam",
+    "amed",
+    "ameds",
+    "avar",
+    "ağırl",
+    "başla",
+    "düdüğ",
+    "ersoy",
+    "fabio",
+    "galat",
+    "geris",
+    "görev",
+    "görün",
+    "hakem",
+    "halil",
+    "ise",
+    "karşı",
+    "kerem",
+    "ler",
+    "leri",
+    "lider",
+    "lig",
+    "maç",
+    "maçı",
+    "maçın",
+    "meler",
+    "melo",
+    "muhte",
+    "olaca",
+    "park",
+    "puan",
+    "puanl",
+    "rams",
+    "saat",
+    "süper",
+    "takım",
+    "umut",
+    "var",
+    "yapac",
+    "yarış",
+    "zemin",
+    "çalac",
+    "önces",
+    "öneml"
+   ],
+   "at": "2026-11-07T13:28:39.090248+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e6bbac496c",
-   "post_id": "529346797199852_1457043969868644",
-   "title": "Sağanak ve fırtına etkisini artıracak: Meteoroloji'den birçok il için sel ve su baskını uyarısı",
-   "at": "2026-11-04T04:13:40.838028+00:00",
-   "yazim": "claude",
-   "metin": "Meteoroloji birçok il için sel ve su baskını uyarısı yaptı.\n\n— Hatay'ın kuzeyi ile Osmaniye'nin merkez ve güneyinde çok kuvvetli ve şiddetli sağanak bekleniyor.\n— Marmara, Kuzey Ege ve Batı Karadeniz kıyılarında rüzgarın saatte 70 kilometreye kadar çıkması bekleniyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/meteorolojiden-21-il-icin-sari-2-il-icin-turuncu-uyari-962161.html",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-turkiye-nin-tamami-saganak-yagislarin-etkisi-altinda-2-turuncu-21-sari-uyari-4-kasim-hava-durumu-3924760",
-    "Evrensel: https://www.evrensel.net/haber/6007910/saganak-ve-firtina-etkisini-artiracak-meteorolojiden-bircok-il-icin-sel-ve-su-baskini-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "aa4bfb29da",
    "post_id": "529346797199852_1457129736526734",
@@ -13812,6 +13808,21 @@
     "Evrensel: https://www.evrensel.net/haber/6008437/super-ligin-11-hafta-maci-kocaelispor-deplasmanda-eyupsporu-2-0-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Sözcü Spor: https://www.sozcu.com.tr/kocaelispor-eyupspor-u-2-golle-gecti-p376956"
    ]
+  },
+  {
+   "id": "7ee64684c6",
+   "post_id": "529346797199852_1460572142849160",
+   "title": "Galatasaray ile Amedspor liderlik için karşılaşacak: Muhtemel ilk 11'ler",
+   "at": "2026-11-07T13:28:39.090248+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray, Süper Lig'in lideri olarak bu akşam RAMS Park'ta Amedspor'u ağırlayacak.\n\n— Galatasaray 25 puanla lider, Amedspor ise 2 puan gerisinde.\n— Maç saat 19.00'da başlayacak ve iki takım için de liderlik yarışında önemli bir karşılaşma olacak.\n— Düdüğü Halil Umut Meler çalacak, VAR'da Fabio Melo, AVAR'da Kerem Ersoy görev yapacak.",
+   "sources": [
+    "Medyascope: https://medyascope.tv/2026/11/07/galatasaray-amedsporu-agirlayacak/",
+    "BirGün: https://www.birgun.net/haber/galatasaray-ile-amedspor-liderlik-icin-karsilasacak-muhtemel-ilk-11-ler-745135",
+    "BirGün: https://www.birgun.net/haber/galatasaray-amedspor-macinin-var-hakemi-melo-745113",
+    "Karar: https://www.karar.com/spor-haberleri/galatasaray-amed-macinin-var-hakemi-belli-oldu-2082828",
+    "BPT (X): https://x.com/bpthaber/status/2119058837953253513"
+   ]
   }
  ],
  "fails": {
@@ -13985,12 +13996,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119055633026888141",
+   "since_id": "2119058837953253513",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119054349947019307",
+   "since_id": "2119056923202826437",
    "started": true
   }
  }
