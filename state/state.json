@@ -10160,25 +10160,60 @@
     "şanti"
    ],
    "at": "2026-11-07T08:25:18.852282+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "bulun",
+    "değer",
+    "erdoğ",
+    "fon",
+    "ilişk",
+    "ismai",
+    "krizi",
+    "neler",
+    "sayma",
+    "yok",
+    "özdağ",
+    "ümit"
+   ],
+   "tok": [
+    "ağır",
+    "biri",
+    "bulun",
+    "bunla",
+    "ciddi",
+    "değer",
+    "dönem",
+    "eleşt",
+    "erdoğ",
+    "fon",
+    "gazet",
+    "https",
+    "idi",
+    "ilişk",
+    "ismai",
+    "itira",
+    "kjby8",
+    "konus",
+    "krizi",
+    "kulla",
+    "kurul",
+    "neler",
+    "olmuş",
+    "sayma",
+    "siste",
+    "sıras",
+    "tek",
+    "yetki",
+    "yok",
+    "özdağ",
+    "ümit"
+   ],
+   "at": "2026-11-07T08:37:51.282221+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6a90ad7279",
-   "post_id": "529346797199852_1456393756600332",
-   "title": "Datça açıklarında deniz üzerinde hortum oluştu",
-   "at": "2026-11-03T12:29:46.065929+00:00",
-   "yazim": "claude",
-   "metin": "Datça açıklarında denizde hortum oluştu.\n\nÇevredekiler hortumu cep telefonu kamerasıyla kaydetti.\n\nKıyıya ulaşmadan etkisini yitiren hortumda herhangi bir olumsuzluk yaşanmadı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/datcada-denizde-hortum-cikti-43364639",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/mugla/mugla-datcada-denizde-cikan-hortum-kamerada-3488399",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/mugla/datca/datcada-denizde-cikan-hortum-kamerada-3488391",
-    "Habertürk: https://www.haberturk.com/gundem/mugla-da-korkutan-hortum-3924618",
-    "Sözcü: https://www.sozcu.com.tr/datca-aciklarinda-deniz-uzerinde-hortum-olustu-p375637",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/datca-aciklarinda-deniz-uzerinde-hortum-olustu-2552888"
-   ]
-  },
   {
    "id": "86d61c79d0",
    "post_id": "529346797199852_1456406273265747",
@@ -12809,6 +12844,17 @@
     "Karar: https://www.karar.com/guncel-haberler/8-yil-once-santiyede-olu-bulunmustu-dorukhan-buyukisik-davasinda-12-2082815",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/dorukhan-buyukisik-davasinda-ara-karar-12-saniga-tahliye-7696123"
    ]
+  },
+  {
+   "id": "4322cc3bfa",
+   "post_id": "529346797199852_1460325409540500",
+   "title": "⚠️ “Erdoğan’ın başka nelerden haberi yok?” Ümit Özdağ, İsmail Saymaz’a fon krizine ilişkin değerlendirmelerde bulundu.",
+   "at": "2026-11-07T08:37:51.282221+00:00",
+   "yazim": "claude",
+   "metin": "Ümit Özdağ:\n\n“Cumhurbaşkanlığı sisteminin kuruluşu sırasında çok ağır eleştirilerimiz olmuştu.\n\nBunlardan biri de bu kadar yetkiyi tek kişinin kullanamayacağı idi.”\n\n— Özdağ, fon krizine ilişkin gazeteci İsmail Saymaz'a değerlendirmelerde bulundu.\n— Sistemin kurulduğu dönemde bu yetki konusunda ciddi itirazlarının olduğunu söyledi.",
+   "sources": [
+    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2118985284192809011"
+   ]
   }
  ],
  "fails": {
@@ -12982,12 +13028,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118978849522270446",
+   "since_id": "2118985966576628143",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118982942009536974",
+   "since_id": "2118985284192809011",
    "started": true
   }
  }
