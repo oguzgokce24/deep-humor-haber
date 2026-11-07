@@ -2,40 +2,6 @@
  "seen": [
   {
    "fp": [
-    "insan",
-    "konfe",
-    "mesle",
-    "sokağ",
-    "yaşam",
-    "çıkıy",
-    "örgüt"
-   ],
-   "tok": [
-    "aralı",
-    "bütçe",
-    "doğru",
-    "düzen",
-    "düzey",
-    "göre",
-    "halkı",
-    "hazır",
-    "ihtiy",
-    "insan",
-    "konfe",
-    "mesle",
-    "mitin",
-    "sokağ",
-    "talep",
-    "yaşam",
-    "çıkar",
-    "çıkıy",
-    "örgüt",
-    "ücret"
-   ],
-   "at": "2026-11-06T03:25:56.576728+00:00"
-  },
-  {
-   "fp": [
     "14",
     "adale",
     "başlı",
@@ -11229,25 +11195,88 @@
     "öğle"
    ],
    "at": "2026-11-07T15:20:28.865409+00:00"
+  },
+  {
+   "fp": [
+    "avrup",
+    "masas",
+    "müzak",
+    "rusya",
+    "ukray",
+    "yok"
+   ],
+   "tok": [
+    "abd",
+    "abu",
+    "adıyl",
+    "arap",
+    "arası",
+    "asker",
+    "avrup",
+    "bae",
+    "başla",
+    "belir",
+    "birle",
+    "birli",
+    "dabi",
+    "daki",
+    "dan",
+    "değer",
+    "dikka",
+    "durum",
+    "dışiş",
+    "edile",
+    "eleşt",
+    "emirl",
+    "hazır",
+    "hedef",
+    "hemen",
+    "kabul",
+    "kasım",
+    "kesin",
+    "kez",
+    "koali",
+    "konuş",
+    "mariy",
+    "masas",
+    "meşru",
+    "mosko",
+    "müzak",
+    "ndan",
+    "nde",
+    "nitel",
+    "nın",
+    "olmad",
+    "planı",
+    "rest",
+    "rusya",
+    "savun",
+    "sert",
+    "sözcü",
+    "sözle",
+    "tarih",
+    "tatbi",
+    "türlü",
+    "ukray",
+    "yaban",
+    "yanıt",
+    "yapac",
+    "yapıl",
+    "yeri",
+    "yerin",
+    "yerle",
+    "yok",
+    "yönel",
+    "zahar",
+    "çekti",
+    "önces",
+    "ülkel",
+    "üçlü"
+   ],
+   "at": "2026-11-07T15:33:14.686951+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3367ccccc9",
-   "post_id": "529346797199852_1457233856516322",
-   "title": "Çin'den ABD seçimleri sonrası açıklama: Birlikte çalışmaya hazırız",
-   "at": "2026-11-04T09:02:10.106430+00:00",
-   "yazim": "claude",
-   "metin": "Çin, ABD'deki seçimleri ülkenin iç meselesi olarak gördüğünü söyledi.\n\nDışişleri Sözcüsü Mao Ning, Washington yönetimiyle birlikte çalışmaya hazır olduklarını belirtti.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/israilli-siyasiler-abd-secim-sonuclarinin-ardindan-netanyahunun-basbakan-olarak-kalamayacagini-vurguladi/4111171",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/israilli-siyasetciler-abd-secimleri-sonrasi-netanyahu-basbakan-kalamaz-962205.html",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi-962194.html",
-    "Milliyet: https://www.milliyet.com.tr/dunya/son-dakika-abd-ara-secimlerinin-golgesinde-israilde-hareketlilik-sok-netanyahu-iddiasi-7693984",
-    "BirGün: https://www.birgun.net/haber/cin-den-abd-secimleri-sonrasi-aciklama-birlikte-calismaya-haziriz-744461",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/son-dakika-abd-ara-secimlerinin-golgesinde-israilde-hareketlilik-sok-netanyahu-iddiasi-7693984"
-   ]
-  },
   {
    "id": "4967c0d749",
    "post_id": "529346797199852_1457243779848663",
@@ -13875,6 +13904,19 @@
     "Sözcü: https://www.sozcu.com.tr/sakaryada-otomobilin-carptigi-yaya-hayatini-kaybetti-p376981",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-feci-kaza-yolun-karsisina-gecmeye-calisan-yaya-hayatini-kaybetti-2554225"
    ]
+  },
+  {
+   "id": "f525d40855",
+   "post_id": "529346797199852_1460686752837699",
+   "title": "Avrupa'nın Ukrayna planına Moskova'dan sert yanıt: 'Müzakere masasında yeriniz yok'",
+   "at": "2026-11-07T15:33:14.686951+00:00",
+   "yazim": "claude",
+   "metin": "Rusya Dışişleri Sözcüsü Mariya Zaharova, Avrupa ülkelerinin Ukrayna'ya asker konuşlandırma hazırlığını sert sözlerle eleştirdi.\n\n— Avrupa ülkeleri \"Koalicja 26.2\" adıyla 9-22 Kasım tarihleri arasında bir askeri tatbikat yapacak.\n\n— Zaharova, Ukrayna'ya yabancı birlik konuşlandırılmasını \"kesinlikle kabul edilemez\" olarak nitelendirdi ve \"Ukrayna'daki her türlü askeri birliğin meşru hedef olarak değerlendirileceğini\" söyledi.\n\n— Tatbikatın, Abu Dabi'de 10-11 Kasım'da yapılacak Rusya, ABD ve Ukrayna arasındaki üçlü müzakerelerin hemen öncesinde başlatılması dikkat çekti. Zaharova, \"Avrupalıların müzakere masasında yerinin olmadığını\" savundu.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/rusya-avrupa-ulkelerinin-ukrayna-muzakere-masasinda-yeri-yok-962546.html",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/avrupa-nin-ukrayna-planina-moskova-dan-sert-yanit-muzakere-masasinda-yeriniz-yok-2554233",
+    "BirGün: https://www.birgun.net/haber/rusya-disisleri-bakanligi-ndan-avrupa-ya-rest-ukrayna-muzakere-masasinda-yerleri-yok-745174"
+   ]
   }
  ],
  "fails": {
@@ -14003,7 +14045,8 @@
   "b0ce1004e3": 1,
   "a6ebfa416e": 1,
   "d567b7d1cd": 1,
-  "c2720089a2": 1
+  "c2720089a2": 1,
+  "9b8719cc6f": 1
  },
  "fail_log": [
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -14050,12 +14093,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119086454962057650",
+   "since_id": "2119090289788780773",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119086587283669377",
+   "since_id": "2119089760513737178",
    "started": true
   }
  }
