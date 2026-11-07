@@ -2,46 +2,6 @@
  "seen": [
   {
    "fp": [
-    "9",
-    "batan",
-    "gemis",
-    "girne",
-    "gözal",
-    "hafta",
-    "kişiy",
-    "süres",
-    "veril",
-    "yargı",
-    "yolcu"
-   ],
-   "tok": [
-    "adlı",
-    "ait",
-    "ağust",
-    "batan",
-    "davas",
-    "deniz",
-    "facia",
-    "filo",
-    "filoj",
-    "gemi",
-    "gemis",
-    "girne",
-    "hafta",
-    "kktc",
-    "kuzey",
-    "kıbrı",
-    "süres",
-    "verdi",
-    "veril",
-    "yargı",
-    "yolcu",
-    "şirke"
-   ],
-   "at": "2026-11-06T11:04:25.071015+00:00"
-  },
-  {
-   "fp": [
     "altın",
     "düşür",
     "goldm",
@@ -10651,22 +10611,81 @@
     "öne"
    ],
    "at": "2026-11-07T22:52:38.449252+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "5",
+    "bilmi",
+    "dur",
+    "durak",
+    "geçti",
+    "gökyü",
+    "harek",
+    "kat",
+    "nüfus",
+    "türki"
+   ],
+   "tok": [
+    "altya",
+    "arası",
+    "artar",
+    "arttı",
+    "ayda",
+    "aynı",
+    "ayınd",
+    "bilmi",
+    "bin",
+    "dahil",
+    "deki",
+    "dhmi",
+    "direk",
+    "dur",
+    "durak",
+    "dönem",
+    "ekim",
+    "ekimd",
+    "fazla",
+    "genel",
+    "gerçe",
+    "geçen",
+    "geçti",
+    "gökyü",
+    "göre",
+    "harek",
+    "hat",
+    "hava",
+    "haval",
+    "hizme",
+    "kat",
+    "katın",
+    "kesin",
+    "kulla",
+    "nüfus",
+    "ocak",
+    "sahas",
+    "sayıs",
+    "sunul",
+    "tona",
+    "topla",
+    "trafi",
+    "trans",
+    "ulaşa",
+    "ulaşt",
+    "uçuş",
+    "verdi",
+    "veril",
+    "yolcu",
+    "yük",
+    "yüzde",
+    "yılın",
+    "çıktı",
+    "ülke"
+   ],
+   "at": "2026-11-07T23:05:08.829543+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "45fab8fd80",
-   "post_id": "529346797199852_1457771809795860",
-   "title": "Fenerbahçe'den 18 yıl sonra gelen tarihi galibiyet!",
-   "at": "2026-11-04T20:34:39.050710+00:00",
-   "yazim": "claude",
-   "metin": "Fenerbahçe, Liverpool'u 3-2 yenerek Şampiyonlar Ligi'nde 18 yıl sonra galip geldi.\n\n— Sarı-lacivertliler maçta iki kez geriye düştü, ama sonunda çevirdi.\n— Son galibiyeti 2008'de Chelsea karşısında 2-1 almıştı.\n— Golleri Mason Greenwood, Archie Brown ve Vedat Muriqi attı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/foto/kadikoy-de-liverpool-a-karsi-tarihi-zafer-fenerbahce-18-yil-sonra-uefa-sampiyonlar-ligi-nde-kazandi-3924989",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/fenerbahce-den-18-yil-sonra-gelen-tarihi-galibiyet-2553409",
-    "BirGün: https://www.birgun.net/haber/fenerbahce-den-tarihi-zafer-744637"
-   ]
-  },
   {
    "id": "f6e803f6b0",
    "post_id": "529346797199852_1457785436461164",
@@ -13247,6 +13266,17 @@
     "Habertürk: https://www.haberturk.com/spor/valencia-0-real-madrid-3-mac-sonucu-arda-guler-yildizlasti-real-madrid-kazandi-3925715",
     "Habertürk: https://www.haberturk.com/bilgi/foto/real-madrid-valencia-deplasmaninda-valencia-real-madrid-maci-ne-zaman-saat-kacta-hangi-kanalda-arda-guler-ilk-11-de-mi-3925593",
     "Karar: https://www.karar.com/spor-haberleri/arda-guler-valencia-deplasmaninda-yildizlasti-real-madridden-3-gollu-2082933"
+   ]
+  },
+  {
+   "id": "c71a2c1899",
+   "post_id": "529346797199852_1461067232799651",
+   "title": "Gökyüzünde hareketlilik dur durak bilmiyor: Türkiye nüfusunu 2,5 kat geçti",
+   "at": "2026-11-07T23:05:08.829543+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'deki havalimanları ekim ayında 23 milyon 646 bin yolcuya hizmet verdi.\n\n— DHMİ verilerine göre ekimde 224 bin 958 uçuş gerçekleşti ve toplam yük 462 bin 752 tona ulaştı.\n— İç hat yolcu trafiği, geçen yılın aynı dönemine göre yüzde 1,8 arttı.\n— Ocak ile ekim arasındaki 10 ayda toplam yolcu sayısı 216 milyon 803 bin oldu. Bu, Türkiye nüfusunun 2,5 katından fazla.\n— Aynı 10 ayda toplam yük trafiği yüzde 1,3 artarak 4 milyon 587 bin tona çıktı.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/turkiyedeki-havalimanlarinin-yolcu-sayisi-nedir-ucak-trafigi-ne-kadar-2082931"
    ]
   }
  ],
