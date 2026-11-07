@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bıçak",
-    "ikinc",
-    "isted",
-    "içind",
-    "kadın",
-    "kanla",
-    "kez",
-    "saldı",
-    "yardı"
-   ],
-   "tok": [
-    "alınd",
-    "ambul",
-    "avcıl",
-    "belir",
-    "bilin",
-    "bıçak",
-    "erkek",
-    "evde",
-    "gelen",
-    "göre",
-    "halde",
-    "hasta",
-    "henüz",
-    "iddia",
-    "ikinc",
-    "isted",
-    "istem",
-    "istey",
-    "içind",
-    "kadın",
-    "kahve",
-    "kaldı",
-    "kanla",
-    "kanlı",
-    "kez",
-    "kıyaf",
-    "neden",
-    "peşin",
-    "sevgi",
-    "sokak",
-    "sokağ",
-    "tartı",
-    "yardı",
-    "yenid",
-    "çıkar",
-    "çıktı"
-   ],
-   "at": "2026-11-06T09:49:23.691869+00:00"
-  },
-  {
-   "fp": [
     "448",
     "alınd",
     "frans",
@@ -10856,23 +10804,56 @@
     "şefle"
    ],
    "at": "2026-11-07T21:41:52.251170+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "acil",
+    "bbc",
+    "durum",
+    "gün",
+    "inter",
+    "radyo",
+    "stüdy",
+    "yapac",
+    "yayın"
+   ],
+   "tok": [
+    "acil",
+    "bbc",
+    "den",
+    "devre",
+    "durum",
+    "elekt",
+    "görev",
+    "gün",
+    "hazır",
+    "ifade",
+    "inter",
+    "kapsa",
+    "kesin",
+    "kurac",
+    "kurma",
+    "kuruy",
+    "nin",
+    "olurs",
+    "oluşt",
+    "perso",
+    "plan",
+    "planl",
+    "planı",
+    "radyo",
+    "sokma",
+    "stüdy",
+    "yakla",
+    "yapab",
+    "yapac",
+    "yayın"
+   ],
+   "at": "2026-11-07T21:54:21.080921+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a73f0818ca",
-   "post_id": "529346797199852_1457601876479520",
-   "title": "Ali Mahir Başarır'dan 'görevden affını istediği' iddialarına yanıt",
-   "at": "2026-11-04T16:46:04.990012+00:00",
-   "yazim": "claude",
-   "metin": "Yeni Parti Grup Başkanvekili Ali Mahir Başarır:\n\n“Tek kelimesi bile doğru olmayan bir haber! Yeni Parti'de istifa süreci çalışır. Affını istemek, AKP'nin siyaset literatürüne bir armağanıdır.”\n\nBaşarır'ın Özgür Özel ile görüşmesinde grup başkanvekilliğinden ayrılmak istediği iddia edildi. İktidara yakın medyada çıkan habere Başarır sosyal medya hesabından yanıt verdi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/seddkden-fon-sorusturmasi-surecindeki-iddialara-iliskin-aciklama/4111687",
-    "Habertürk: https://www.haberturk.com/ekonomi/seddk-dan-hakkindaki-iddialara-aciklama-hukuki-surec-baslatilacak-3924886",
-    "Sözcü: https://www.sozcu.com.tr/ali-mahir-basarir-gorevden-af-iddialarina-yanit-p376052",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ali-mahir-basarir-dan-gorevinden-affini-istedi-iddiasina-yanit-tek-kelimesi-bile-2553352"
-   ]
-  },
   {
    "id": "14c607cee5",
    "post_id": "529346797199852_1457636779809363",
@@ -13459,6 +13440,18 @@
     "CNN Türk: https://www.cnnturk.com/magazin/masterchef-eleme-adayi-7-kasim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazligi-hangi-takim-kazandi-3490316",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-dokunulmazlik-oyununu-kim-kazandi-7-kasim-2026-masterchef-eleme-adaylari-kim-oldu-2554315"
    ]
+  },
+  {
+   "id": "4fd860bc5d",
+   "post_id": "529346797199852_1461015049471536",
+   "title": "BBC'den acil durum planı: En az 3 gün internetsiz yayın yapacak radyo stüdyosu kuracak",
+   "at": "2026-11-07T21:54:21.080921+00:00",
+   "yazim": "claude",
+   "metin": "BBC, elektrik kesintisi olursa en az 3 gün internetsiz yayın yapabilecek bir radyo stüdyosu kuruyor.\n\n— Plan, elektrik kesintilerinde acil durum yayınlarını devreye sokmak için hazırlanıyor.\n— Stüdyoda yaklaşık 100 personel görevlendirilecek.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/bbc-acil-durumda-en-az-3-gun-internetsiz-yayin-yapacak-radyo-studyosu-kurmayi-planliyor/4115559",
+    "BirGün: https://www.birgun.net/haber/bbc-den-acil-durum-plani-en-az-3-gun-internetsiz-yayin-yapacak-radyo-studyosu-kuracak-745194"
+   ]
   }
  ],
  "fails": {
@@ -13645,7 +13638,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119182812251308102",
+   "since_id": "2119184335697809604",
    "started": true
   },
   "ajansmuhbir1923": {
