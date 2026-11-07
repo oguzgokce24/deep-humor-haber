@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ardın",
-    "büyük",
-    "döndü",
-    "gölü",
-    "kahve",
-    "nün",
-    "rengi",
-    "yağış"
-   ],
-   "tok": [
-    "aralı",
-    "ardın",
-    "biri",
-    "büyük",
-    "dere",
-    "değiş",
-    "döndü",
-    "etkil",
-    "göl",
-    "gölde",
-    "gölü",
-    "gölün",
-    "görün",
-    "hafta",
-    "havad",
-    "havza",
-    "içme",
-    "kahve",
-    "kapla",
-    "kayna",
-    "kesim",
-    "nde",
-    "nün",
-    "rengi",
-    "renk",
-    "suyu",
-    "suyun",
-    "süren",
-    "tamam",
-    "taşıd",
-    "yakın",
-    "yatak",
-    "yağmu",
-    "yağış",
-    "yükse",
-    "yüzey",
-    "çamur"
-   ],
-   "at": "2026-11-06T09:36:55.359055+00:00"
-  },
-  {
-   "fp": [
     "bıçak",
     "ikinc",
     "isted",
@@ -10853,22 +10801,64 @@
     "ziyar"
    ],
    "at": "2026-11-07T21:29:59.096964+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "7",
+    "dokun",
+    "eleme",
+    "kasım",
+    "kazan",
+    "kim",
+    "maste"
+   ],
+   "tok": [
+    "adayl",
+    "adayı",
+    "akşam",
+    "belir",
+    "beğen",
+    "bölüm",
+    "cumar",
+    "deki",
+    "devam",
+    "dokun",
+    "ekran",
+    "eleme",
+    "hafta",
+    "hangi",
+    "hazır",
+    "henüz",
+    "heyec",
+    "kasım",
+    "kazan",
+    "kim",
+    "konuk",
+    "kırmı",
+    "maste",
+    "mavi",
+    "menü",
+    "oylar",
+    "oynan",
+    "oyun",
+    "oyunu",
+    "peki",
+    "puanl",
+    "sunma",
+    "tadım",
+    "takım",
+    "tv8",
+    "yarış",
+    "yayın",
+    "zorlu",
+    "üzere",
+    "şefle"
+   ],
+   "at": "2026-11-07T21:41:52.251170+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cfdd6ae8b7",
-   "post_id": "529346797199852_1457592166480491",
-   "title": "AKP'den MHP'ye ziyaret: \"Yerel yönetim reformu\" masada",
-   "at": "2026-11-04T16:33:24.728977+00:00",
-   "yazim": "claude",
-   "metin": "AKP ile MHP yerel yönetim reformunu masaya yatırdı.\n\n— AKP Genel Başkan Yardımcısı Mustafa Demir, MHP'den Sadir Durmaz ile görüştü.\n— Konu: yerel yönetimler reformu.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/ak-parti-ve-mhpden-yerel-yonetimler-reform-hamlesi-taslak-erdogan-ve-bahceliye-sunulacak-43366213",
-    "Habertürk: https://www.haberturk.com/gundem/ak-parti-ve-mhp-den-yerel-yonetimler-reform-gorusmesi-3924954",
-    "BirGün: https://www.birgun.net/haber/akp-den-mhp-ye-ziyaret-yerel-yonetim-reformu-masada-744604"
-   ]
-  },
   {
    "id": "a73f0818ca",
    "post_id": "529346797199852_1457601876479520",
@@ -13457,6 +13447,18 @@
     "CNN Türk: https://www.cnnturk.com/video/dunya/cumhurbaskani-erdogan-zaferin-6-yilinda-karabagda-azerbaycandan-turkiyeye-mesaj-3490322",
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/07/baskan-erdogan-azerbaycana-gidecek-programi-belli-oldu"
    ]
+  },
+  {
+   "id": "f647bd5f45",
+   "post_id": "529346797199852_1461009019472139",
+   "title": "MasterChef dokunulmazlık oyununu kim kazandı? 7 Kasım 2026 MasterChef eleme adayları kim oldu?",
+   "at": "2026-11-07T21:41:52.251170+00:00",
+   "yazim": "claude",
+   "metin": "TV8'deki MasterChef Türkiye'de haftanın son dokunulmazlık oyununu Kırmızı Takım kazandı.\n\n— Oyun 7 Kasım Cumartesi akşamı yayınlanan bölümde oynandı.\n— Kırmızı ve Mavi takım, şeflerin beğenisine sunmak üzere zorlu bir menü hazırlamak için yarıştı.\n— Kazananı konukların oyları ile şeflerin tadım puanları belirledi.\n— Eleme adayları henüz açıklanmadı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/magazin/masterchef-eleme-adayi-7-kasim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazligi-hangi-takim-kazandi-3490316",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-dokunulmazlik-oyununu-kim-kazandi-7-kasim-2026-masterchef-eleme-adaylari-kim-oldu-2554315"
+   ]
   }
  ],
  "fails": {
@@ -13643,7 +13645,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119179026874896550",
+   "since_id": "2119182812251308102",
    "started": true
   },
   "ajansmuhbir1923": {
