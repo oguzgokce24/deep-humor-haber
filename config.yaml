@@ -82,6 +82,24 @@ exclude:
   - tarifi
   - çekiliş sonuçları
 
+# Köşe yazısı / görüş yazısı adresleri: bağlantısında bunlardan biri geçen içerik hiç alınmaz
+exclude_url:
+  - /yazarlar/
+  - /yazar/
+  - /gorusler/
+  - /gorus/
+  - /gunun-yazilari/
+  - /makale/
+  - /makaleler/
+  - /kose-yazisi
+  - /kose-yazilari
+  - /koseyazisi
+  - /yorum/
+  - /analiz/
+  - /opinion/
+  - /columnists/
+  - /blog/
+
 # X (Twitter) erken uyarı hesapları — X_BEARER_TOKEN gizli anahtarı gerekir.
 # Bu hesaplardan yalnızca olay/bilgi alınır; metin yeniden yazılır, fotoğrafları kullanılmaz.
 x_accounts:

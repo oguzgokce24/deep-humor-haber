@@ -159,7 +159,7 @@ def interest_score(c) -> float:
 def find_new(cfg, st):
     v = cfg["verify"]
     log("Kaynaklar taranıyor…")
-    items = fetch_all(cfg["sources"], v["max_age_hours"], log)
+    items = fetch_all(cfg["sources"], v["max_age_hours"], log, cfg.get("exclude_url"))
     items += fetch_x(cfg.get("x_accounts", []), st, log)
     # Aynı görsel birden fazla FARKLI habere eklenmişse bu bir "son dakika" kartı / varsayılan görseldir
     from collections import defaultdict

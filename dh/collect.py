@@ -112,7 +112,7 @@ def parse_feed(xml_bytes: bytes, src: dict) -> list[Item]:
     return out
 
 
-def fetch_all(sources: list[dict], max_age_hours: float, log=print) -> list[Item]:
+def fetch_all(sources: list[dict], max_age_hours: float, log=print, exclude_url: list[str] | None = None) -> list[Item]:
     now = datetime.now(timezone.utc)
     items: list[Item] = []
     for s in sources:
@@ -131,6 +131,8 @@ def fetch_all(sources: list[dict], max_age_hours: float, log=print) -> list[Item
             log(f"  ! {s['name']}: {e.__class__.__name__}: {str(e)[:80]}")
             continue
         fresh = [i for i in got if i.published is None or now - i.published <= timedelta(hours=max_age_hours)]
+        if exclude_url:   # köşe/görüş yazıları
+            fresh = [i for i in fresh if not any(p in i.link.lower() for p in exclude_url)]
         log(f"  {s['name']}: {len(fresh)}/{len(got)} güncel")
         items.extend(fresh)
     return items
