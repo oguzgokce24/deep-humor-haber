@@ -2,19 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "bağış",
-    "diamo",
-    "duyur",
-    "ersan",
-    "payla",
-    "suç",
-    "çorap"
-   ],
-   "at": "2026-11-05T16:02:22.940826+00:00"
-  },
-  {
-   "fp": [
     "barce",
     "raphi",
     "sözle"
@@ -9035,22 +9022,98 @@
     "ürünü"
    ],
    "at": "2026-11-07T03:53:44.090326+00:00"
+  },
+  {
+   "fp": [
+    "abur",
+    "cubur",
+    "yapma",
+    "yatma",
+    "yemek"
+   ],
+   "tok": [
+    "abur",
+    "akşam",
+    "alışk",
+    "anlam",
+    "appea",
+    "artır",
+    "artıy",
+    "atışt",
+    "aynı",
+    "açlık",
+    "açısı",
+    "bastı",
+    "bath",
+    "bağlı",
+    "beaul",
+    "betts",
+    "bile",
+    "birmi",
+    "bulun",
+    "cubur",
+    "diken",
+    "diyet",
+    "doysa",
+    "dönüş",
+    "evde",
+    "first",
+    "gece",
+    "gelen",
+    "gerçe",
+    "göre",
+    "hazır",
+    "higgs",
+    "hormo",
+    "insan",
+    "isteğ",
+    "izler",
+    "iştah",
+    "james",
+    "kahva",
+    "kuruy",
+    "lif",
+    "meyve",
+    "nden",
+    "obezi",
+    "olmad",
+    "olup",
+    "post",
+    "prof",
+    "prote",
+    "riski",
+    "saat",
+    "sağlı",
+    "seçen",
+    "suzan",
+    "süre",
+    "telev",
+    "the",
+    "tok",
+    "tutuy",
+    "uzman",
+    "uzun",
+    "yapma",
+    "yarım",
+    "yatma",
+    "yeme",
+    "yemek",
+    "yemeğ",
+    "yenir",
+    "yoğur",
+    "zengi",
+    "öncey",
+    "öneri",
+    "öğle",
+    "öğünl",
+    "ünive",
+    "şekil",
+    "şeyle"
+   ],
+   "at": "2026-11-07T04:06:25.006989+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ce90244283",
-   "post_id": "529346797199852_1456164869956554",
-   "title": "Son dakika... Kasım ayı kira zam oranı belli oldu",
-   "at": "2026-11-03T07:08:38.992540+00:00",
-   "yazim": "claude",
-   "metin": "Kasım ayı için kira artış tavan oranı yüzde 31,23 oldu.\n\n— Ekim ayında TÜFE yıllık yüzde 29,77 oldu.\n— Aylık artış ise yüzde 2,58 ile gerçekleşti.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/ekonomi/kasim-ayi-kira-artis-orani-2026-kasim-kira-artis-zammi-ne-kadar-kac-tl-oldu-tufe-verilerine-gore-yasal-kira-zam-orani-3488110",
-    "Karar: https://www.karar.com/ekonomi-haberleri/son-dakika-kira-zam-orani-belli-oldu-2082062",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/son-dakika-kasim-ayi-kira-zam-orani-belli-oldu-p375472"
-   ]
-  },
   {
    "id": "2f5e900c89",
    "post_id": "529346797199852_1456172943289080",
@@ -11708,6 +11771,17 @@
    "metin": "Adana'da portakalın kilosu bahçede 5 TL'ye düştü, rekolte yüksek ama ihracat sınırlı.\n\n— Kentte 670 bin ton rekolte bekleniyor ve Navelina ile Fukumoto portakallarının hasadı başladı.\n— Geçen sene bahçede kilosu 27-32 TL olan portakal bu sezon 5-7 TL arasında alıcı buluyor.\n— Rusya-Ukrayna savaşı nedeniyle Karadeniz'deki gemi trafiği aksadı, ihracat yalnızca tırlarla sınırlı kaldı.\n— Yüreğir Ziraat Odası Başkanı Mehmet Akın Doğan, ağaçta kalan ürün için kilogram başına 5 lira destek istediğini söyledi.\n\nYüreğir Ziraat Odası Başkanı Mehmet Akın Doğan:\n\n\"Bu yıl rekoltemiz yüksek ancak Rusya-Ukrayna savaşı nedeniyle ürünlerimiz yurt dışına yeterince gidemiyor. O nedenle fiyatlar çok düşük seviyede kaldı.\"",
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/670-000-ton-rekolte-icin-kollar-sivandi-adanada-kilosu-5-tlye-dustu-2082787"
+   ]
+  },
+  {
+   "id": "313eb4b4d4",
+   "post_id": "529346797199852_1460127969560244",
+   "title": "Yatmadan önce abur cubur yemek: Ne yapmalı?",
+   "at": "2026-11-07T04:06:25.006989+00:00",
+   "yazim": "claude",
+   "metin": "Yatmadan önce abur cubur yemek obezite riskini artırıyor.\n\nDiyetisyen Beaulieu'ye göre yatmadan önce ne kadar çok yenirse obezite riski o kadar artıyor.\n\n— Bath Üniversitesi'nden Prof. Dr. James Betts, gece iştahını \"açlık hormonu\"na bağlıyor. Bu hormon kahvaltıdan sonra bastırılsa da öğle ve akşam yemeğinden sonra aynı şekilde bastırılamıyor.\n— Protein ve lif açısından zengin öğünler insanı daha uzun süre tok tutuyor.\n— Birmingham Üniversitesi'nden Prof. Dr. Suzanne Higgs'e göre televizyon izlerken atıştırma gibi alışkanlıklar isteği artırıyor.\n\nUzmanlar önce gerçekten aç olup olmadığınızı anlamanızı öneriyor. Atıştırma alışkanlığa dönüştüyse meyve, yoğurt ve kuruyemiş gibi sağlıklı seçenekleri evde hazır bulundurun.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/yatmadan-once-abur-cubur-yemek-ne-yapmali/?utm_source=rss&utm_medium=rss&utm_campaign=yatmadan-once-abur-cubur-yemek-ne-yapmali"
    ]
   }
  ],
