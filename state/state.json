@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "15",
-    "18",
-    "30",
-    "arası",
-    "başla",
-    "bin",
-    "bütçe",
-    "emekl",
-    "formü",
-    "maaş",
-    "masad",
-    "milyo",
-    "seyya",
-    "zam",
-    "çalış"
-   ],
-   "tok": [
-    "alım",
-    "amacı",
-    "anali",
-    "arası",
-    "ardın",
-    "artır",
-    "başla",
-    "bin",
-    "bütçe",
-    "deki",
-    "değer",
-    "düzen",
-    "emekl",
-    "enfla",
-    "etki",
-    "farkı",
-    "formü",
-    "genel",
-    "göre",
-    "görüş",
-    "gücün",
-    "günde",
-    "hazır",
-    "ila",
-    "maaş",
-    "masad",
-    "mecli",
-    "seyya",
-    "tamam",
-    "taşın",
-    "tbmm",
-    "yakla",
-    "yasal",
-    "zam",
-    "çalış"
-   ],
-   "at": "2026-11-06T05:22:06.322211+00:00"
-  },
-  {
-   "fp": [
     "8",
     "afyon",
     "katle",
@@ -11240,25 +11182,67 @@
     "şirke"
    ],
    "at": "2026-11-07T17:19:33.005261+00:00"
+  },
+  {
+   "fp": [
+    "hesab",
+    "müdah",
+    "nin",
+    "saldı",
+    "siber",
+    "valil",
+    "zongu"
+   ],
+   "tok": [
+    "başla",
+    "belir",
+    "bulun",
+    "diğer",
+    "duyur",
+    "edilm",
+    "etmey",
+    "gelen",
+    "geliş",
+    "görüş",
+    "güven",
+    "hale",
+    "hesab",
+    "hesap",
+    "ileti",
+    "isted",
+    "itiba",
+    "içere",
+    "kanal",
+    "konud",
+    "konus",
+    "medya",
+    "menfa",
+    "müdah",
+    "nin",
+    "para",
+    "payla",
+    "resmi",
+    "sağla",
+    "siber",
+    "sosya",
+    "taleb",
+    "tekni",
+    "tespi",
+    "uyard",
+    "uyarı",
+    "valil",
+    "yansı",
+    "yapıl",
+    "yenid",
+    "yorum",
+    "yönle",
+    "zongu",
+    "çalış"
+   ],
+   "at": "2026-11-07T17:32:09.013812+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8cc9611700",
-   "post_id": "529346797199852_1457337279839313",
-   "title": "Son Dakika... İstanbul'da metrobüs kaza yaptı: Yaralılar var!",
-   "at": "2026-11-04T11:23:00.423903+00:00",
-   "yazim": "claude",
-   "metin": "Esenyurt'ta yolcu almak için duran metrobüse arkadan başka bir metrobüs çarptı.\n\nKaza Haramidere-Sanayi Durağı'nda oldu. Kazada yaralılar olduğu öğrenildi. Kazanın nedeni henüz belli değil.\n\nOlay yerine itfaiye, sağlık ve polis ekipleri sevk edildi.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-duraktaki-imetrobusler-carpisti-43365783",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-iki-metrobus-carpisti-ekipler-sevk-edildi-3924881",
-    "Sözcü: https://www.sozcu.com.tr/esenyurt-ta-metrobusler-birbirine-girdi-yaralilar-var-p375969",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-istanbul-da-metrobus-kaza-yapti-yaralilar-var-2553245",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/esenyurtta-iki-metrobus-capisti-yaralilar-var-4869737",
-    "Karar: https://www.karar.com/guncel-haberler/son-dakika-iki-metrobus-carpisti-yaralilar-var-2082341"
-   ]
-  },
   {
    "id": "3fefee41dc",
    "post_id": "529346797199852_1457346926505015",
@@ -13868,6 +13852,20 @@
    "sources": [
     "Karar: https://www.karar.com/teknoloji-haberleri/yapay-zeka-hangi-teoremleri-cozdu-openai-hangi-bilimsel-sonuclara-2082904"
    ]
+  },
+  {
+   "id": "8d15fbb218",
+   "post_id": "529346797199852_1460799156159792",
+   "title": "Valiliğin resmi hesabına siber saldırı: 'Paylaşımlara itibar etmeyin' uyarısı",
+   "at": "2026-11-07T17:32:09.013812+00:00",
+   "yazim": "claude",
+   "metin": "Zonguldak Valiliği'nin resmi X hesabına siber müdahale yapıldığı tespit edildi. Valilik, hesabın güvenliğini yeniden sağlamak için teknik çalışma başlattı.\n\n— Valilik, hesaptan yapılan paylaşım, açıklama ve yorumların resmi görüşünü yansıtmayacağını söyledi.\n— Valilik, hesap güvenli hale gelene kadar bu hesaptan gelen paylaşımlara ve para ya da menfaat talebi içeren yönlendirmelere itibar edilmemesini istedi.\n— Konudaki gelişmelerin valiliğin diğer resmi iletişim kanallarından duyurulacağı belirtildi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/zonguldak-valiliginin-x-hesabina-siber-mudahale-7696373",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/valiligin-resmi-hesabina-siber-saldiri-paylasimlara-itibar-etmeyin-uyarisi-2554256",
+    "BirGün: https://www.birgun.net/haber/zonguldak-valiligi-nin-sosyal-medya-hesabina-siber-saldiri-745184",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/zonguldak-valiliginin-x-hesabina-siber-mudahale-7696373"
+   ]
   }
  ],
  "fails": {
@@ -14051,7 +14049,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119115531105993042",
+   "since_id": "2119120367625150868",
    "started": true
   }
  }
