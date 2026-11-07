@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "den",
-    "devle",
-    "karar",
-    "kıbrı",
-    "uyarı",
-    "çeliş",
-    "çözüm"
-   ],
-   "tok": [
-    "adada",
-    "adale",
-    "adıml",
-    "alınd",
-    "avrup",
-    "brüks",
-    "buldu",
-    "den",
-    "devle",
-    "eleşt",
-    "eylem",
-    "göre",
-    "hedef",
-    "ise",
-    "isted",
-    "kaçın",
-    "komis",
-    "kıbrı",
-    "müzak",
-    "nda",
-    "nin",
-    "nun",
-    "nın",
-    "polit",
-    "rapor",
-    "sürec",
-    "taraf",
-    "uyarı",
-    "veren",
-    "yanıt",
-    "zorla",
-    "çağrı",
-    "çeliş",
-    "çözüm"
-   ],
-   "at": "2026-11-06T04:16:28.111513+00:00"
-  },
-  {
-   "fp": [
     "biane",
     "cuzda",
     "soruş",
@@ -11221,22 +11172,53 @@
     "çevre"
    ],
    "at": "2026-11-07T16:11:21.917022+00:00"
+  },
+  {
+   "fp": [
+    "2001",
+    "2002",
+    "ağıra",
+    "benze",
+    "döndü",
+    "düşün",
+    "fon",
+    "fırtı",
+    "geliy",
+    "kırgı",
+    "rezal",
+    "seçme",
+    "yavuz",
+    "yüzde",
+    "şartl"
+   ],
+   "tok": [
+    "açaca",
+    "ağıra",
+    "benze",
+    "büyük",
+    "döndü",
+    "düşün",
+    "f7gjo",
+    "fon",
+    "fırtı",
+    "geliy",
+    "https",
+    "kırgı",
+    "okmxw",
+    "rezal",
+    "savun",
+    "sebep",
+    "seçme",
+    "tsuna",
+    "yavuz",
+    "yol",
+    "yüzde",
+    "şartl"
+   ],
+   "at": "2026-11-07T16:24:00.503914+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d569181e83",
-   "post_id": "529346797199852_1457278023178572",
-   "title": "Türkiye nüfusunda dikkat çeken artış: 9 ayda 410 bin kişi",
-   "at": "2026-11-04T10:00:43.493781+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'nin nüfusu 2026'nın ilk 9 ayında 410 bin 118 kişi arttı.\n\n— 2025'in sonunda 86 milyon 92 bin 168 olan nüfus, 1 Ekim'de 86 milyon 502 bin 286 kişiye ulaştı.\n— Sadece son 3 ayda (1 Temmuz-1 Ekim) 181 bin 684 kişi daha arttı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/bilgi/foto/iski-baraj-doluluk-oranlari-4-kasim-2026-3-baraj-yuzde-70-in-uzerinde-2-baraj-yuzde-5-in-altinda-istanbul-barajlari-yuzde-kac-doldu-son-durum-ne-3924775",
-    "Karar: https://www.karar.com/guncel-haberler/turkiye-nufusunda-dikkat-ceken-artis-9-ayda-410-bin-kisi-2082282",
-    "Diken: https://www.diken.com.tr/turkiyenin-nufusu-dokuz-ayda-410-bin-118-kisi-artti/?utm_source=rss&utm_medium=rss&utm_campaign=turkiyenin-nufusu-dokuz-ayda-410-bin-118-kisi-artti"
-   ]
-  },
   {
    "id": "a0763df9b9",
    "post_id": "529346797199852_1457287099844331",
@@ -13857,6 +13839,17 @@
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/polonyada-silahli-saldiri-olu-ve-yaralilar-var-7696356",
     "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119098430794375376"
    ]
+  },
+  {
+   "id": "5cd927ebe3",
+   "post_id": "529346797199852_1460734956166212",
+   "title": "Yavuz Ağıralioğlu: \"Şartların 2001'e döndüğünü düşünüyorum. 2002 gibi bir fırtına geliyor. Bu fon rezaletini o yüzden 2001'e benzetiyorum. Seçmen kırgınlığına s",
+   "at": "2026-11-07T16:24:00.503914+00:00",
+   "yazim": "claude",
+   "metin": "Yavuz Ağıralioğlu:\n\n“Şartların 2001'e döndüğünü düşünüyorum. 2002 gibi bir fırtına geliyor. Bu fon rezaletini o yüzden 2001'e benzetiyorum. Seçmen kırgınlığına sebep olduğu büyük bir tsunami geliyor.”\n\n— Ağıralioğlu, fon rezaletinin seçmende büyük bir kırgınlığa yol açacağını savundu.",
+   "sources": [
+    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119102669738705352"
+   ]
   }
  ],
  "fails": {
@@ -14034,12 +14027,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119096958300352584",
+   "since_id": "2119102626466078943",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119098430794375376",
+   "since_id": "2119102669738705352",
    "started": true
   }
  }
