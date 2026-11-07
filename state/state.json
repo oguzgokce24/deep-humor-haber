@@ -2,43 +2,6 @@
  "seen": [
   {
    "fp": [
-    "calif",
-    "cezal",
-    "cezas",
-    "eyale",
-    "hapse",
-    "idam",
-    "mahku",
-    "müebb",
-    "newso",
-    "valis",
-    "çevir"
-   ],
-   "tok": [
-    "calif",
-    "cezal",
-    "cezas",
-    "daki",
-    "etkil",
-    "eyale",
-    "gavin",
-    "hapse",
-    "idam",
-    "kaldı",
-    "mahku",
-    "müebb",
-    "newso",
-    "olmak",
-    "tahli",
-    "valis",
-    "çevir",
-    "çevri",
-    "şartl"
-   ],
-   "at": "2026-11-06T07:53:35.719118+00:00"
-  },
-  {
-   "fp": [
     "avuka",
     "bakım",
     "durum",
@@ -10956,23 +10919,56 @@
     "yüzün"
    ],
    "at": "2026-11-07T19:46:39.298610+00:00"
+  },
+  {
+   "fp": [
+    "frans",
+    "sokak",
+    "yine"
+   ],
+   "tok": [
+    "araya",
+    "aynı",
+    "başke",
+    "birço",
+    "bugün",
+    "bölge",
+    "dahil",
+    "eylem",
+    "farkl",
+    "frans",
+    "geldi",
+    "halk",
+    "indi",
+    "insan",
+    "kentt",
+    "kez",
+    "macro",
+    "marsi",
+    "mozar",
+    "nın",
+    "paris",
+    "sarı",
+    "sayıd",
+    "sefal",
+    "sendi",
+    "sokak",
+    "sokağ",
+    "sıra",
+    "toulo",
+    "uyara",
+    "yanı",
+    "yapıl",
+    "yelek",
+    "yenid",
+    "yine",
+    "çağrı",
+    "çıkan"
+   ],
+   "at": "2026-11-07T19:59:25.630043+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d067d8ba16",
-   "post_id": "529346797199852_1457497856489922",
-   "title": "İzmir'de şüpheli ölüm: Denizden cesedi çıktı, kimliği bulunamadı",
-   "at": "2026-11-04T14:33:18.640009+00:00",
-   "yazim": "claude",
-   "metin": "İzmir Bayraklı'da denizde bir kadın cesedi bulundu.\n\n— 30 yaşlarında olduğu değerlendirilen kadının üzerinden kimlik belgesi çıkmadı.\n— Cenaze otopsi için Adli Tıp morguna kaldırıldı. Polis inceleme yürütüyor.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-denizde-kadin-cesedi-bulundu-3924911",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/izmir-de-supheli-olum-denizden-cesedi-cikti-kimligi-bulunamadi-2553320",
-    "BirGün: https://www.birgun.net/haber/izmir-de-denizde-kadin-cesedi-bulundu-744595",
-    "BirGün: https://www.birgun.net/haber/izmir-de-bir-kadin-evinde-yarali-halde-bulundu-aile-uyeleri-gozaltina-alindi-744573"
-   ]
-  },
   {
    "id": "e78b1a23c3",
    "post_id": "529346797199852_1457509413155433",
@@ -13568,6 +13564,18 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6008480/izmirde-engellilerden-metro-ve-izban-cagrisi-raylarda-olmek-istemiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "f0008e34fd",
+   "post_id": "529346797199852_1460929902813384",
+   "title": "Fransa'da halk yine sokakta: \"Macron, sefaletin Mozart'ı\"",
+   "at": "2026-11-07T19:59:25.630043+00:00",
+   "yazim": "claude",
+   "metin": "Fransa'da Sarı Yelekliler ve farklı sendikaların çağrısıyla bugün çok sayıda kentte insanlar yeniden sokağa indi.\n\n— Eylemler başkent Paris'in yanı sıra Marsilya ve Toulouse'da da yapıldı.\n— Sokağa çıkanlar, aynı çağrıya uyarak Fransa'nın birçok bölgesinde bir araya geldi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/video/dunya/fransada-sari-yelekliler-ve-sendikalar-yine-sokaklarda-3490307",
+    "BirGün: https://www.birgun.net/haber/fransa-da-halk-yine-sokakta-macron-sefaletin-mozart-i-745189"
+   ]
   }
  ],
  "fails": {
@@ -13703,7 +13711,8 @@
   "dbf6dd73c9": 1,
   "8e326fc85d": 1,
   "39f20286c7": 1,
-  "53dad999e7": 1
+  "53dad999e7": 1,
+  "6dcc1e39dc": 1
  },
  "fail_log": [
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13750,7 +13759,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119150599451426920",
+   "since_id": "2119155275475423578",
    "started": true
   },
   "ajansmuhbir1923": {
