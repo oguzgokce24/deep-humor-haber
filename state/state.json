@@ -2,34 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "5",
-    "arana",
-    "bursa",
-    "tutuk",
-    "yakal",
-    "şüphe"
-   ],
-   "tok": [
-    "arana",
-    "bulun",
-    "bursa",
-    "bırak",
-    "cezal",
-    "diğer",
-    "hapis",
-    "ilçes",
-    "iznik",
-    "kesin",
-    "nın",
-    "serbe",
-    "suçla",
-    "çeşit"
-   ],
-   "at": "2026-11-06T08:36:47.796490+00:00"
-  },
-  {
-   "fp": [
     "25",
     "72",
     "anket",
@@ -10890,23 +10862,80 @@
     "üyesi"
    ],
    "at": "2026-11-07T20:24:47.863677+00:00"
+  },
+  {
+   "fp": [
+    "26",
+    "bekle",
+    "günü",
+    "kar",
+    "pazar",
+    "sibir",
+    "soğuğ",
+    "türki",
+    "vurdu",
+    "şehir"
+   ],
+   "tok": [
+    "altın",
+    "anado",
+    "bazı",
+    "başla",
+    "bekle",
+    "bolu",
+    "buzla",
+    "bölge",
+    "dönüş",
+    "düştü",
+    "ekipl",
+    "etkil",
+    "etkis",
+    "gece",
+    "genel",
+    "getir",
+    "girdi",
+    "gün",
+    "günü",
+    "hava",
+    "içind",
+    "kar",
+    "kara",
+    "karad",
+    "karay",
+    "karşı",
+    "kasım",
+    "kayna",
+    "kesim",
+    "kodlu",
+    "meteo",
+    "mevsi",
+    "mgm",
+    "müdür",
+    "norma",
+    "nun",
+    "olmay",
+    "pazar",
+    "riski",
+    "sarı",
+    "sibir",
+    "soğuk",
+    "soğuğ",
+    "sıcak",
+    "tuzla",
+    "uyarı",
+    "vurdu",
+    "yayım",
+    "yağmu",
+    "yağış",
+    "yolla",
+    "yükse",
+    "çalış",
+    "şehir"
+   ],
+   "at": "2026-11-07T20:39:28.282455+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4e219f48f2",
-   "post_id": "529346797199852_1457530723153302",
-   "title": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 04 Kasım 2026",
-   "at": "2026-11-04T15:13:28.152023+00:00",
-   "yazim": "claude",
-   "metin": "AFAD'ın son depremleri il il derlendi.\n\n— İstanbul, Ankara, İzmir ve diğer illerdeki son depremler tek listede toplandı.\n— Liste 4 Kasım 2026 tarihli.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-04-kasim-2026/4111532",
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-04-kasim-2026/4111533",
-    "Habertürk: https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-4-kasim-2026-haberleri-abdde-ilklere-sahne-olan-secim-trump-yenilgiyi-kabul-etti-veto-kartini-gosterdi-irandan-ilk-yorum-piyasala/922125",
-    "NTV Son Dakika: https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-04-kasim-2026-1749271"
-   ]
-  },
   {
    "id": "82ac454c4f",
    "post_id": "529346797199852_1457541936485514",
@@ -13501,6 +13530,17 @@
     "BirGün: https://www.birgun.net/haber/fon-sorusturmasi-neslihan-mumcu-icin-tedbir-ve-inceleme-karari-talep-edildi-745192",
     "Karar: https://www.karar.com/guncel-haberler/neslihan-mumcunun-mal-varligina-yonelik-tedbir-talebi-2082917"
    ]
+  },
+  {
+   "id": "beb4ee9f34",
+   "post_id": "529346797199852_1460955246144183",
+   "title": "Sibirya soğuğu Türkiye'yi vurdu: Pazar günü 26 şehirde kar bekleniyor",
+   "at": "2026-11-07T20:39:28.282455+00:00",
+   "yazim": "claude",
+   "metin": "Sibirya soğuğu Türkiye'yi vurdu, pazar günü 26 şehirde kar bekleniyor.\n\nSoğuk hava yüksek kesimlerde kar yağışını getirdi. Karadeniz ve İç Anadolu'nun bazı bölgelerinde de kar yağışı etkili olmaya başladı.\n\n— Ankara ve İstanbul'da sıcaklıklar mevsim normallerinin altına düştü.\n— Bolu'da gece yağmur olarak başlayan yağış gün içinde kara dönüştü.\n— Karayolları ekipleri, yollardaki buzlanma riskine karşı tuzlama çalışması yaptı.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008483/sibirya-sogugu-turkiye-yi-vurdu-pazar-gunu-26-sehirde-kar-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13638,7 +13678,8 @@
   "39f20286c7": 1,
   "53dad999e7": 1,
   "6dcc1e39dc": 1,
-  "49285a6dd1": 1
+  "49285a6dd1": 1,
+  "971bcb9696": 1
  },
  "fail_log": [
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13685,7 +13726,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119163936385958217",
+   "since_id": "2119166338681954386",
    "started": true
   },
   "ajansmuhbir1923": {
