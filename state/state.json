@@ -8681,23 +8681,62 @@
     "ünün"
    ],
    "at": "2026-11-07T02:04:24.833201+00:00"
+  },
+  {
+   "fp": [
+    "birka",
+    "feda",
+    "fon",
+    "isiml",
+    "krizi",
+    "vurgu",
+    "örtem",
+    "üzeri"
+   ],
+   "tok": [
+    "akp",
+    "ayakl",
+    "açığa",
+    "bağla",
+    "birka",
+    "boyut",
+    "düzen",
+    "edilm",
+    "eski",
+    "feda",
+    "fon",
+    "genel",
+    "gerek",
+    "hamle",
+    "iktid",
+    "isiml",
+    "ismin",
+    "kadro",
+    "kapat",
+    "kaya",
+    "krizd",
+    "krizi",
+    "nın",
+    "olurk",
+    "ortay",
+    "sarsı",
+    "savun",
+    "siyas",
+    "skand",
+    "tutum",
+    "vurgu",
+    "yardı",
+    "yedir",
+    "yorum",
+    "çıkar",
+    "örtem",
+    "örtül",
+    "üzeri"
+   ],
+   "at": "2026-11-07T02:17:02.491782+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "83c4b8c574",
-   "post_id": "529346797199852_1455864766653231",
-   "title": "İstanbul'da şiddetli sağanak. Çamlıca Kulesi ve Finans Merkezi'ne yıldırım düştü",
-   "at": "2026-11-02T23:20:09.929321+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da şiddetli sağanak sırasında Finans Merkezi'ndeki bir binaya yıldırım düştü.\n\n— Olay Ümraniye'deki İstanbul Finans Merkezi'nde yaşandı.\n— Yıldırım anı çevredeki bir kişinin cep telefonu kamerasına yansıdı.\n— Binada hasar olup olmadığı ise henüz paylaşılmadı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/umraniye/umraniyede-finans-merkezinde-bir-binaya-yildirim-dustu-3488070",
-    "NTV: https://www.ntv.com.tr/turkiye/video-istanbulda-siddetli-saganak-camlica-kulesi-ve-finans-merkezine-yildirim-dustu-1749108",
-    "Yeni Şafak: https://www.yenisafak.com/video/gundem/daha-siddetlisini-gormedim-diyerek-paylasti-istanbuldaki-tcmb-kulesine-yildirim-dustu-o-anlar-kamerada-4869236",
-    "Karar: https://www.karar.com/guncel-haberler/umraniyede-finans-merkezinde-bir-binaya-yildirim-dustu-2082019"
-   ]
-  },
   {
    "id": "c26b223c2c",
    "post_id": "529346797199852_1456059916633716",
@@ -11378,6 +11417,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/yuzde-44-unun-guvencesi-yok-yuzde-71-i-yoksul-sahne-arkasinda-guvencesizlik-kiskaci-745023"
    ]
+  },
+  {
+   "id": "8f5f8ed2fc",
+   "post_id": "529346797199852_1460056969567344",
+   "title": "Fon vurgununda ilk 'feda': Birkaç isimle krizin üzerini örtemezsiniz",
+   "at": "2026-11-07T02:17:02.491782+00:00",
+   "yazim": "claude",
+   "metin": "Fon skandalında eski AKP Genel Başkan Yardımcısı Kaya tutuklandı.\n\n— İktidarın \"kadrolarımızı yedirmeyiz\" tutumu bu tutuklamayla sarsıldı.\n— Yorumda, birkaç ismin feda edilmesiyle krizin örtülemeyeceği ve tüm siyasi bağlantıların ortaya çıkarılması gerektiği savunuluyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/fon-vurgununda-ilk-feda-birkac-isimle-krizin-uzerini-ortemezsiniz-745039"
+   ]
   }
  ],
  "fails": {
@@ -11499,7 +11549,8 @@
   "376658fd81": 1,
   "b2d652d457": 1,
   "7cfdc07e45": 1,
-  "0dbc29f889": 1
+  "0dbc29f889": 1,
+  "77daddf6fa": 1
  },
  "fail_log": [
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
