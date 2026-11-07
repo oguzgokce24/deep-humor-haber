@@ -10997,23 +10997,86 @@
     "özgür"
    ],
    "at": "2026-11-07T12:24:26.077566+00:00"
+  },
+  {
+   "fp": [
+    "açıkl",
+    "dan",
+    "emekl",
+    "erbak",
+    "fatih",
+    "maaşı",
+    "parti"
+   ],
+   "tok": [
+    "antla",
+    "asgar",
+    "aynı",
+    "belir",
+    "dahi",
+    "dan",
+    "derha",
+    "diğer",
+    "düşük",
+    "edile",
+    "emekl",
+    "erbak",
+    "fatih",
+    "fon",
+    "genel",
+    "gerek",
+    "getir",
+    "gizle",
+    "ilişk",
+    "isim",
+    "isted",
+    "kabul",
+    "kimle",
+    "kişil",
+    "krizi",
+    "kurul",
+    "lider",
+    "liste",
+    "maaşı",
+    "madem",
+    "mekke",
+    "mutla",
+    "nda",
+    "olmas",
+    "ortad",
+    "oyu",
+    "parti",
+    "refah",
+    "ret",
+    "seviy",
+    "siyas",
+    "sözle",
+    "sınır",
+    "taleb",
+    "tbmm",
+    "tek",
+    "tepki",
+    "topla",
+    "uzant",
+    "var",
+    "verdi",
+    "vurgu",
+    "yaptı",
+    "yargı",
+    "yenid",
+    "yoksu",
+    "çağrı",
+    "çıkar",
+    "önces",
+    "önüne",
+    "örgüt",
+    "ücret",
+    "üyele"
+   ],
+   "at": "2026-11-07T12:50:54.286777+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "27ae71fa6e",
-   "post_id": "529346797199852_1456790363227338",
-   "title": "Aydın’da pazarcıları taşıyan kamyonet devrildi: 7 yaralı",
-   "at": "2026-11-03T21:31:47.626711+00:00",
-   "yazim": "claude",
-   "metin": "Aydın'da pazarcıları taşıyan kamyonet devrildi, 7 kişi yaralandı.\n\nÇevredekilerin ihbarıyla polis, itfaiye ve sağlık ekipleri olay yerine koştu.\n\n— Yaralılar arasında 15 yaşında bir çocuk da var.\n— Yaralılar ambulanslarla yakındaki hastanelere kaldırıldı. Hayati tehlikeleri yok.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/aydin/germencik/aydinda-pazarcilari-tasiyan-kamyonet-devrildi-7-yarali-3488636",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/aydin/aydinda-devrilen-kamyonetteki-7-kisi-yaralandi-3488634",
-    "Sözcü: https://www.sozcu.com.tr/aydin-da-pazarcilari-tasiyan-kamyonet-devrildi-7-yarali-p375756",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/pazarcilari-tasiyan-kamyonet-devrildi-yedi-kisi-yaralandi-4869525"
-   ]
-  },
   {
    "id": "7691e1a8f9",
    "post_id": "529346797199852_1456799153226459",
@@ -13646,6 +13709,20 @@
     "Sözcü Son Dakika: https://www.sozcu.com.tr/son-dakika-ozgur-ozel-den-emir-sarigul-e-iki-ayri-dava-hamlesi-p376946",
     "BPT (X): https://x.com/bpthaber/status/2119041708084126021"
    ]
+  },
+  {
+   "id": "9095ce7e2c",
+   "post_id": "529346797199852_1460535836186124",
+   "title": "Erbakan, partisinin asgari ücret ve emekli maaşı talebini açıkladı",
+   "at": "2026-11-07T12:50:54.286777+00:00",
+   "yazim": "claude",
+   "metin": "Yeniden Refah Partisi Genel Başkanı Fatih Erbakan:\n\n“Madem ortada bir örgüt var, bu örgütün diğer üyeleri kimlerdir? O 214 kişilik liste, tek bir isim dahi gizlenmeden derhal açıklanmalı ve siyasi uzantıları da mutlaka yargı önüne çıkarılmalıdır.”\n\n— Erbakan bu sözleri fon krizine ilişkin, partisinin il başkanları toplantısı öncesi söyledi.\n— Aynı açıklamada, TBMM Genel Kurulu'nda kabul edilen Mekke Antlaşması'na ret oyu verdiklerini belirtti.\n— En düşük emekli maaşının asgari ücret seviyesine getirilmesini de istedi.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-erbakan-en-dusuk-emekli-maasi-asgari-ucret-seviyesine-getirilmeli-3925609",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fatih-erbakan-dan-fon-vurgunu-tepkisi-214-kisilik-liste-derhal-aciklanmali-2554140",
+    "BirGün: https://www.birgun.net/haber/erbakan-partisinin-asgari-ucret-ve-emekli-maasi-talebini-acikladi-745123",
+    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119047058233737668"
+   ]
   }
  ],
  "fails": {
@@ -13819,12 +13896,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119041708084126021",
+   "since_id": "2119049847210991689",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119042392955248843",
+   "since_id": "2119047058233737668",
    "started": true
   }
  }
