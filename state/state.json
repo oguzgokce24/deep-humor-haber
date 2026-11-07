@@ -2,107 +2,6 @@
  "seen": [
   {
    "fp": [
-    "11",
-    "33",
-    "katli",
-    "kaza",
-    "pakis",
-    "yaral",
-    "ölü"
-   ],
-   "tok": [
-    "eyale",
-    "gelen",
-    "kamyo",
-    "katli",
-    "kazas",
-    "meyda",
-    "otobü",
-    "pakis",
-    "penca",
-    "sonuc",
-    "trafi",
-    "yolcu",
-    "çarpı"
-   ],
-   "at": "2026-11-06T04:43:31.641976+00:00"
-  },
-  {
-   "fp": [
-    "4",
-    "abd",
-    "arası",
-    "belir",
-    "dolar",
-    "ilişk",
-    "israi",
-    "karar",
-    "milya",
-    "trump"
-   ],
-   "tok": [
-    "abd",
-    "arası",
-    "ardın",
-    "belir",
-    "bulun",
-    "büyük",
-    "donal",
-    "durdu",
-    "hucka",
-    "ilişk",
-    "israi",
-    "mike",
-    "milya",
-    "netli",
-    "nin",
-    "savun",
-    "trump",
-    "yardı",
-    "yönün",
-    "zaman"
-   ],
-   "at": "2026-11-06T04:43:46.741973+00:00"
-  },
-  {
-   "fp": [
-    "alarm",
-    "karar",
-    "mütte",
-    "nato",
-    "olağa",
-    "topla",
-    "ukray"
-   ],
-   "tok": [
-    "acil",
-    "alarm",
-    "bilgi",
-    "brüks",
-    "daimi",
-    "dan",
-    "düzey",
-    "grubu",
-    "ihtiy",
-    "kayna",
-    "konse",
-    "mütte",
-    "nato",
-    "nın",
-    "olağa",
-    "rusya",
-    "savun",
-    "tehdi",
-    "temas",
-    "temsi",
-    "topla",
-    "ukray",
-    "önces"
-   ],
-   "at": "2026-11-06T04:51:02.264376+00:00"
-  },
-  {
-   "fp": [
     "5",
     "8",
     "afyon",
@@ -11259,22 +11158,81 @@
     "öğret"
    ],
    "at": "2026-11-07T16:41:26.515651+00:00"
+  },
+  {
+   "fp": [
+    "bulgu",
+    "düşen",
+    "fabri",
+    "hayat",
+    "işçi",
+    "kaybe",
+    "kazan",
+    "korku",
+    "makar",
+    "mersi",
+    "olay",
+    "öldü"
+   ],
+   "tok": [
+    "akden",
+    "arbel",
+    "aziz",
+    "başla",
+    "belir",
+    "bulgu",
+    "bulun",
+    "bölüm",
+    "cenaz",
+    "cesed",
+    "cinay",
+    "devle",
+    "düşen",
+    "düştü",
+    "erol",
+    "faali",
+    "fabri",
+    "gelen",
+    "genç",
+    "göste",
+    "götür",
+    "hasta",
+    "henüz",
+    "ilgil",
+    "ilçes",
+    "işçi",
+    "işçin",
+    "kayna",
+    "kazan",
+    "kazas",
+    "korku",
+    "mahal",
+    "makar",
+    "mersi",
+    "meyda",
+    "morgu",
+    "nasıl",
+    "nda",
+    "ndeki",
+    "neden",
+    "nın",
+    "olay",
+    "olayl",
+    "otops",
+    "tarsu",
+    "yaşam",
+    "yaşan",
+    "yaşın",
+    "yerin",
+    "yitir",
+    "çalış",
+    "öğren",
+    "üreti"
+   ],
+   "at": "2026-11-07T16:54:15.814157+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1f72ebfe45",
-   "post_id": "529346797199852_1457307753175599",
-   "title": "Avcılar’da sağanak etkili oldu: Parkın duvarı yıkıldı",
-   "at": "2026-11-04T10:43:32.283900+00:00",
-   "yazim": "claude",
-   "metin": "Avcılar'da sağanak bir parkın duvarını yıktı.\n\n— Yarım saat süren yağmurda toprak yumuşadı. Ambarlı Mahallesi'ndeki parkın taş duvarının bir bölümü yürüyüş yoluna doğru yıkıldı.\n— Duvarın bazı yerlerinde çatlaklar oluştu.\n— Avcılar Belediyesi ekipleri parka gidip şerit çekti ve bölgede güvenlik önlemi aldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/avcilar/avcilarda-saganak-nedeniyle-parkin-duvari-yikildi-3488878",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/avcilar-da-saganak-etkili-oldu-parkin-duvari-yikildi-2553209",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/istanbulda-tehlikeli-anlar-saganak-nedeniyle-parkin-duvari-yikildi-4869711"
-   ]
-  },
   {
    "id": "556e34c5dd",
    "post_id": "529346797199852_1457317143174660",
@@ -13891,6 +13849,20 @@
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/afyonkarahisardaki-saldiridan-kurtulan-ogretmen-dehset-anlari-anlatti-yapma-diye-bagirdim-43369806",
     "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119106130895044625"
    ]
+  },
+  {
+   "id": "e1f60a3be2",
+   "post_id": "529346797199852_1460767372829637",
+   "title": "Mersin'de iş yerinde kaynar kazana düşen işçi hayatını kaybetti",
+   "at": "2026-11-07T16:54:15.814157+00:00",
+   "yazim": "claude",
+   "metin": "Mersin'in Akdeniz ilçesindeki bir makarna fabrikasında bulgur kazanına düşen 21 yaşındaki işçi hayatını kaybetti.\n\n— Olay, Kazanlı Mahallesi'ndeki Arbel Makarna Fabrikası'nın bulgur kazanlarının bulunduğu bölümde yaşandı.\n— İşçinin kazana nasıl düştüğü henüz belirlenemedi, olayla ilgili soruşturma başlatıldı.\n— Tarsuslu olduğu öğrenilen genç işçinin cansız bedeni otopsi için Tarsus Devlet Hastanesi morguna götürüldü.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/makarna-fabrikasinda-korkunc-olay-bulgur-kazanina-dusen-isci-oldu-7696369",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mersin-de-makarna-fabrikasinda-is-cinayeti-kazana-dusen-21-yasindaki-isci-hayatini-kaybetti-2554229",
+    "Karar: https://www.karar.com/guncel-haberler/mersinde-is-yerinde-kaynar-kazana-dusen-isci-hayatini-kaybetti-2082894",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/makarna-fabrikasinda-korkunc-olay-bulgur-kazanina-dusen-isci-oldu-7696369"
+   ]
   }
  ],
  "fails": {
@@ -14021,7 +13993,8 @@
   "d567b7d1cd": 1,
   "c2720089a2": 1,
   "9b8719cc6f": 1,
-  "7f798b1c2a": 1
+  "7f798b1c2a": 1,
+  "511c434d74": 1
  },
  "fail_log": [
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -14073,7 +14046,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119106130895044625",
+   "since_id": "2119109524841799834",
    "started": true
   }
  }
