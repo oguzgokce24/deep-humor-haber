@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "bakan",
-    "düzen",
-    "emekl",
-    "seyya",
-    "ten",
-    "zam",
-    "şimşe"
-   ],
-   "tok": [
-    "alına",
-    "artış",
-    "aynı",
-    "ayrın",
-    "belir",
-    "detay",
-    "değiş",
-    "düzen",
-    "emekl",
-    "esas",
-    "fon",
-    "göre",
-    "gün",
-    "hazin",
-    "herke",
-    "ifade",
-    "kapsa",
-    "maaşl",
-    "maliy",
-    "mehme",
-    "mikta",
-    "prim",
-    "prime",
-    "sayıs",
-    "seyya",
-    "ten",
-    "tutar",
-    "uygul",
-    "veril",
-    "yapıl",
-    "yaş",
-    "yaşı",
-    "yönel",
-    "zam",
-    "zammı",
-    "ödeme",
-    "şimşe"
-   ],
-   "at": "2026-11-05T19:16:05.113437+00:00"
-  },
-  {
-   "fp": [
     "reis",
     "tan",
     "thoma"
@@ -9827,22 +9775,68 @@
     "ölen"
    ],
    "at": "2026-11-07T07:08:47.517974+00:00"
+  },
+  {
+   "fp": [
+    "alınd",
+    "gözal",
+    "silah",
+    "tehdi",
+    "trump"
+   ],
+   "tok": [
+    "abd",
+    "alınd",
+    "arama",
+    "belir",
+    "beyaz",
+    "bildi",
+    "bulun",
+    "cadde",
+    "const",
+    "donal",
+    "dışı",
+    "ettiğ",
+    "fark",
+    "gerek",
+    "girmi",
+    "gizli",
+    "görev",
+    "göçme",
+    "halin",
+    "ileri",
+    "içind",
+    "kafas",
+    "kendi",
+    "mühim",
+    "nde",
+    "otomo",
+    "park",
+    "saray",
+    "sayıd",
+    "servi",
+    "sesle",
+    "silah",
+    "söyle",
+    "sürdü",
+    "taban",
+    "tehdi",
+    "tipi",
+    "trump",
+    "tüfek",
+    "venez",
+    "yakın",
+    "yasa",
+    "yolla",
+    "çalın",
+    "öldür",
+    "ölüm",
+    "ülkey"
+   ],
+   "at": "2026-11-07T07:21:23.138127+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d05e3fbcbb",
-   "post_id": "529346797199852_1456321846607523",
-   "title": "Rusya'da Google ve Telegram'a 18,4 milyon ruble para cezası",
-   "at": "2026-11-03T11:03:26.015537+00:00",
-   "yazim": "claude",
-   "metin": "Rusya'da bir mahkeme Google'a ve Telegram'a toplam 18,4 milyon ruble (yaklaşık 226 bin dolar) ceza verdi.\n\n— Telegram 14,6 milyon ruble ceza ödeyecek. Gerekçe, üç yasaklı içeriği platformdan kaldırmaması.\n— Google'a 3,8 milyon ruble ceza kesildi. Gerekçe, Silahlı Kuvvetleri ve devlet kurumlarını itibarsızlaştıran bilgileri kaldırmaması.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/rusyada-google-ve-telegrama-para-cezasi/4109761",
-    "CNN Türk: https://www.cnnturk.com/dunya/rusyada-google-ve-telegrama-18-4-milyon-ruble-para-cezasi-3488348",
-    "Karar: https://www.karar.com/dunya-haberleri/rusyada-google-ve-telegrama-184-milyon-ruble-para-cezasi-2082128"
-   ]
-  },
   {
    "id": "6f7abd9efb",
    "post_id": "529346797199852_1456331093273265",
@@ -12475,6 +12469,18 @@
     "Karar: https://www.karar.com/sehir-haberleri/bursada-gece-yarisi-silahli-saldiri-eglence-mekanini-kursunladilar-2082794",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/bursada-eglence-mekanina-tufekli-saldiri-43369065"
    ]
+  },
+  {
+   "id": "47176b6fd1",
+   "post_id": "529346797199852_1460271629545878",
+   "title": "Beyaz Saray yakınlarında Trump’a ölüm tehdidi: Silahlı şüpheli gözaltına alındı",
+   "at": "2026-11-07T07:21:23.138127+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de Beyaz Saray yakınlarında, Başkan Donald Trump'ı öldürmekle tehdit ettiği gerekçesiyle bir şüpheli gözaltına alındı.\n\n— Gizli Servis görevlileri, Constitution Caddesi'nde park halindeki bir araçta şüpheliyi fark etti.\n— Şüphelinin yasa dışı yollarla ülkeye girmiş bir Venezuelalı göçmen olduğu belirlendi.\n— Şüpheli, görevlilere kafasının içindeki seslerin kendisine Trump'ı öldürmesini söylediğini ileri sürdü.\n— Çalıntı olduğu bildirilen araçta yapılan aramada bir AR-15 tipi tüfek, 2 tabanca ve çok sayıda mühimmat ele geçirildi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/beyaz-saray-yakinlarinda-trump-a-olum-tehdidi-silahli-supheli-gozaltina-alindi-2554090",
+    "BirGün: https://www.birgun.net/haber/trumpi-oldurmekle-tehdit-etti-gozaltina-alindi-calinti-aracta-silah-ve-muhimmat-bulundu-745057"
+   ]
   }
  ],
  "fails": {
@@ -12648,7 +12654,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118962602223247635",
+   "since_id": "2118966496785273202",
    "started": true
   },
   "ajansmuhbir1923": {
