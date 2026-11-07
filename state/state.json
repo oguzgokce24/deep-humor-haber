@@ -9672,22 +9672,105 @@
     "şartı"
    ],
    "at": "2026-11-07T06:33:38.319199+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "7",
+    "antal",
+    "duyur",
+    "eğiti",
+    "geçil",
+    "geçiy",
+    "gün",
+    "ilçed",
+    "okull",
+    "uzakt",
+    "valil"
+   ],
+   "tok": [
+    "aksu",
+    "alınd",
+    "amirl",
+    "annel",
+    "antal",
+    "bekle",
+    "birim",
+    "boyun",
+    "cop31",
+    "dersl",
+    "devam",
+    "diğer",
+    "duyur",
+    "döşem",
+    "düzen",
+    "dışın",
+    "edece",
+    "eğiti",
+    "genel",
+    "gerek",
+    "geçil",
+    "geçiy",
+    "göre",
+    "görev",
+    "gün",
+    "günde",
+    "idari",
+    "ilkok",
+    "ilçed",
+    "ilçel",
+    "ilçey",
+    "izin",
+    "izinl",
+    "içi",
+    "kadın",
+    "kalac",
+    "kamu",
+    "karşı",
+    "kasım",
+    "kepez",
+    "konya",
+    "kriti",
+    "kurum",
+    "lider",
+    "manav",
+    "murat",
+    "neden",
+    "norma",
+    "okul",
+    "okull",
+    "oluşa",
+    "perso",
+    "resmi",
+    "sayıl",
+    "serik",
+    "servi",
+    "sıras",
+    "tamam",
+    "tarih",
+    "taşım",
+    "teki",
+    "trafi",
+    "uygul",
+    "uzakt",
+    "valil",
+    "yapac",
+    "yapıl",
+    "yoğun",
+    "yönet",
+    "zirve",
+    "çalış",
+    "çağın",
+    "çevri",
+    "çocuğ",
+    "önces",
+    "özel",
+    "şekil"
+   ],
+   "at": "2026-11-07T06:56:09.729982+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6124a3000a",
-   "post_id": "529346797199852_1456299106609797",
-   "title": "Emekli maaşı düzenlemesi: Bakan Işıkhan detayları açıkladı",
-   "at": "2026-11-03T10:31:03.094239+00:00",
-   "yazim": "claude",
-   "metin": "Çalışma Bakanı Vedat Işıkhan, emekli maaşlarıyla ilgili yeni düzenlemenin detaylarını anlattı.\n\n— Düzenleme, mevcut yasal artışların üzerine ek iyileştirmeler de getirecek.\n— Hedef, uygulamanın 2027 yılı Ocak ayından itibaren geçerli olması.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/ekonomi/bakan-isikhandan-emekli-maasi-aciklamasi-962081.html",
-    "Habertürk: https://www.haberturk.com/ekonomi/son-dakika-bakan-isikhan-dan-emekli-maasi-aciklamasi-3924538",
-    "BirGün: https://www.birgun.net/haber/emekli-maasi-duzenlemesi-bakan-isikhan-detaylari-acikladi-744250"
-   ]
-  },
   {
    "id": "ea339b032c",
    "post_id": "529346797199852_1456308259942215",
@@ -12318,6 +12401,21 @@
     "Sözcü: https://www.sozcu.com.tr/10-meslek-grubu-icin-yesil-pasaport-meclis-yolunda-p376844",
     "BPT (X): https://x.com/bpthaber/status/2118952359384494331"
    ]
+  },
+  {
+   "id": "456c72f3f3",
+   "post_id": "529346797199852_1460252692881105",
+   "title": "Antalya'da 7 ilçede uzaktan eğitim kararı: Çalışan annelere 2 gün izin",
+   "at": "2026-11-07T06:56:09.729982+00:00",
+   "yazim": "claude",
+   "metin": "Antalya'da COP31 nedeniyle 7 ilçede okullar 11-12 Kasım'da uzaktan eğitime geçiyor.\n\n— Aksu, Döşemealtı, Konyaaltı, Kepez, Manavgat, Muratpaşa ve Serik'teki resmi ve özel okulların tamamı iki gün uzaktan eğitim yapacak.\n\n— Bu ilçelerde okul servisleri ve taşımalı eğitim de iki gün boyunca yapılmayacak.\n\n— Genelgeye göre gerekçe, zirve sırasında oluşacak trafik yoğunluğu.\n\n— Okul öncesi ya da ilkokul çağında çocuğu olan kadın kamu personeli bu iki günde idari izinli sayılacak. Kurum amirleri, birim yöneticileri ve kritik görevliler bu uygulamanın dışında kalacak.\n\n— Diğer ilçelerde eğitim normal şekilde devam edecek.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-valilik-duyurdu-7-ilcede-iki-gun-uzaktan-egitime-gecilecek-1749758",
+    "Sözcü: https://www.sozcu.com.tr/valilik-duyurdu-okullar-2-gun-uzaktan-egitime-geciyor-p376836",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/antalya-da-2-gun-okullar-uzaktan-egitime-geciyor-valilik-7-ilceyi-acikladi-2554084",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/valilik-son-dakika-duyurdu-7-ilcede-2-gun-uzaktan-egitime-gecilecek-4870470",
+    "Karar: https://www.karar.com/sehir-haberleri/antalyada-7-ilcede-uzaktan-egitim-karari-calisan-annelere-2-gun-izin-2082799"
+   ]
   }
  ],
  "fails": {
@@ -12491,12 +12589,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118954079837634593",
+   "since_id": "2118957398543282274",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118952833449927118",
+   "since_id": "2118959002545525172",
    "started": true
   }
  }
