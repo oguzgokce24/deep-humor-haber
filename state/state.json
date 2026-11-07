@@ -9990,23 +9990,69 @@
     "ısıtm"
    ],
    "at": "2026-11-07T07:46:38.892557+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "82",
+    "ilde",
+    "istan",
+    "kişi",
+    "merke",
+    "opera",
+    "satıc",
+    "sokak",
+    "tutuk",
+    "uyuşt",
+    "yönel",
+    "zanlı"
+   ],
+   "tok": [
+    "adli",
+    "adliy",
+    "alınd",
+    "anda",
+    "arama",
+    "aynı",
+    "bursa",
+    "bırak",
+    "düzen",
+    "edile",
+    "ekipl",
+    "emniy",
+    "erzin",
+    "gires",
+    "gram",
+    "hap",
+    "içere",
+    "işlem",
+    "kayse",
+    "kontr",
+    "madde",
+    "mücad",
+    "müdür",
+    "narko",
+    "peçet",
+    "satıc",
+    "serbe",
+    "sevk",
+    "sokak",
+    "suçla",
+    "tacir",
+    "tamam",
+    "uyuşt",
+    "yönel",
+    "yürüt",
+    "zaman",
+    "zanlı",
+    "zehir",
+    "şartı",
+    "şube"
+   ],
+   "at": "2026-11-07T08:00:10.916938+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "290a187d0f",
-   "post_id": "529346797199852_1456354129937628",
-   "title": "Edirne'de tapu müdürlüklerinde rüşvet soruşturması: 7 kişi tutuklandı",
-   "at": "2026-11-03T11:47:35.473301+00:00",
-   "yazim": "claude",
-   "metin": "Edirne'de tapu müdürlüklerine rüşvet operasyonu: 7 kişi tutuklandı.\n\n— Havsa ve Uzunköprü tapu müdürlüklerindeki rüşvet iddialarıyla yapılan operasyonda 13 kişi gözaltına alındı.\n— Tutuklananlar arasında tapu müdürü ve bazı tapu memurları var. 2 kişi adli kontrolle, 4 kişi de serbest bırakıldı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/edirnede-rusvet-operasyonu-tapu-muduru-dahil-7-kisi-tutuklandi-p375536",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tapu-mudurluklerinde-rusvet-sorusturmasi-7-kisi-tutuklandi-2552853",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/edirne-de-rusvet-operasyonu-7-tutuklama-2552780",
-    "BirGün: https://www.birgun.net/haber/edirne-de-tapu-mudurluklerinde-rusvet-sorusturmasi-7-kisi-tutuklandi-744287"
-   ]
-  },
   {
    "id": "59359d61dd",
    "post_id": "529346797199852_1456374153268959",
@@ -12632,6 +12678,22 @@
     "Euronews: https://tr.euronews.com/2026/11/07/rusyadan-ukraynaya-saldiri-kievde-enerji-altyapisi-ve-kopru-hasar-gordu",
     "Evrensel: https://www.evrensel.net/haber/6008384/ukraynanin-saratova-iha-saldirisinda-sivil-altyapi-hasar-gordu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "cdcb3544e9",
+   "post_id": "529346797199852_1460301709542870",
+   "title": "İstanbul merkezli 5 ilde uyuşturucu operasyonu: 82 kişi tutuklandı",
+   "at": "2026-11-07T08:00:10.916938+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul merkezli 5 ilde sokak satıcılarına yönelik uyuşturucu operasyonunda 88 şüpheli gözaltına alındı, 82'si tutuklandı.\n\n— Operasyonu İstanbul Emniyeti Narkotik Suçlarla Mücadele Şube Müdürlüğü yürüttü. Ekipler İstanbul, Kayseri, Giresun, Bursa ve Erzincan'da aynı anda arama yaptı.\n\n— Aramalarda 416,28 gram uyuşturucu madde, 65 uyuşturucu hap ve uyuşturucu madde içeren 43 peçete ele geçirildi.\n\n— İşlemleri tamamlanan şüphelilerden 6'sı adli kontrol şartıyla serbest bırakıldı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/istanbul-merkezli-sokak-saticilarina-yonelik-uyusturucu-operasyonunda-yakalanan-82-zanli-tutuklandi/4114906",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/5-ilde-zehir-tacirlerine-operasyon-82-zanli-tutuklandi-962505.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/sokak-saticilarina-yonelik-uyusturucu-operasyonu-82-kisi-tutuklandi-43369147",
+    "Sözcü: https://www.sozcu.com.tr/uc-ilde-uyusturucu-operasyonu-82-supheli-tutuklandi-p376870",
+    "Evrensel: https://www.evrensel.net/haber/6008387/istanbul-merkezli-5-ilde-uyusturucu-operasyonu-82-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/sokak-saticilarina-yonelik-uyusturucu-operasyonu-82-kisi-tutuklandi-43369147"
+   ]
   }
  ],
  "fails": {
@@ -12805,12 +12867,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118973177497784436",
+   "since_id": "2118976357023580291",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118971735143763969",
+   "since_id": "2118974414972731563",
    "started": true
   }
  }
