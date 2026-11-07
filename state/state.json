@@ -9925,25 +9925,74 @@
     "önümü"
    ],
    "at": "2026-11-07T07:34:01.351763+00:00"
+  },
+  {
+   "fp": [
+    "altya",
+    "gördü",
+    "hasar",
+    "saldı",
+    "ukray"
+   ],
+   "tok": [
+    "altya",
+    "arası",
+    "beled",
+    "bulun",
+    "dan",
+    "düzen",
+    "edilm",
+    "enerj",
+    "füzel",
+    "gece",
+    "gördü",
+    "hasar",
+    "hızla",
+    "hızlı",
+    "iha",
+    "incel",
+    "isted",
+    "kapat",
+    "kentt",
+    "kesin",
+    "kiev",
+    "kliçk",
+    "köprü",
+    "nün",
+    "nın",
+    "olabi",
+    "patri",
+    "pivni",
+    "rus",
+    "rusya",
+    "sarat",
+    "sivil",
+    "tedar",
+    "tesis",
+    "tesli",
+    "trafi",
+    "ukray",
+    "uyarı",
+    "uzman",
+    "var",
+    "vital",
+    "volod",
+    "yaşan",
+    "yinel",
+    "yönde",
+    "yönel",
+    "zarar",
+    "zelen",
+    "çağrı",
+    "çocuk",
+    "önley",
+    "ülken",
+    "ısıtm"
+   ],
+   "at": "2026-11-07T07:46:38.892557+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9b6999d0cf",
-   "post_id": "529346797199852_1456340606605647",
-   "title": "Türkiye ile Güney Kore arasında 4 anlaşma imzalandı",
-   "at": "2026-11-03T11:29:09.119626+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye ile Güney Kore 4 anlaşma imzaladı.\n\n— Anlaşmalar bilim ve teknoloji, doğal kaynaklar ve madencilik alanlarını kapsıyor.\n\n— Enerji ve nükleer enerji de anlaşmaların konuları arasında.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/guney-kore-devlet-baskani-leeden-turkiye-ile-is-birligini-derinlestirme-mesaji-962073.html",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/turkiye-ile-guney-kore-arasinda-anlasmalar-imzalandi-962071.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/guney-kore-devlet-baskani-lee-savunma-sanayisi-isbirligini-derinlestirmeyi-kararlastirdik-43364464",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/enerjiden-nukleere-madencilikten-teknolojiye-turkiye-ile-guney-kore-arasinda-4-buyuk-anlasma-4869378",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-seulde-tarihi-zirvenin-detaylarini-duyurdu-turkiye-ile-guney-kore-arasinda-4-kritik-anlasma-4869374",
-    "BirGün: https://www.birgun.net/haber/turkiye-ile-guney-kore-arasinda-4-anlasma-imzalandi-744279"
-   ]
-  },
   {
    "id": "290a187d0f",
    "post_id": "529346797199852_1456354129937628",
@@ -12571,6 +12620,18 @@
     "CNN Türk: https://www.cnnturk.com/dunya/jd-vanceten-iran-hamlesi-abd-ile-tahran-arasinda-gizli-gorusme-trafigi-3490144",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/abd-ile-iran-arasinda-perde-arkasi-gorusmeler-masada-ateskes-ve-nukleer-anlasma-var-2554095"
    ]
+  },
+  {
+   "id": "2547bb8f00",
+   "post_id": "529346797199852_1460293196210388",
+   "title": "Rusya'dan Ukrayna'ya saldırı: Kiev'de enerji altyapısı ve köprü hasar gördü",
+   "at": "2026-11-07T07:46:38.892557+00:00",
+   "yazim": "claude",
+   "metin": "Rusya'nın gece saldırılarında Kiev'de enerji altyapısı ve bir köprü hasar gördü, 5 kişi yaralandı.\n\n— Yaralılar arasında bir çocuk da var. Kentte ısıtma ve su tedarikinde kesintiler yaşandı.\n— Kiev Belediye Başkanı Vitali Kliçko, Pivniçni Köprüsü'nün zarar gördüğünü ve uzmanların inceleyebilmesi için iki yönde de trafiğe kapatıldığını açıkladı.\n— Ukrayna Cumhurbaşkanı Volodimir Zelenskiy, yeni saldırılar olabileceği uyarısında bulunarak Patriot önleyici füzelerinin daha hızlı teslim edilmesini istedi.",
+   "sources": [
+    "Euronews: https://tr.euronews.com/2026/11/07/rusyadan-ukraynaya-saldiri-kievde-enerji-altyapisi-ve-kopru-hasar-gordu",
+    "Evrensel: https://www.evrensel.net/haber/6008384/ukraynanin-saratova-iha-saldirisinda-sivil-altyapi-hasar-gordu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -12744,12 +12805,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118967729084580241",
+   "since_id": "2118973177497784436",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118969006145302822",
+   "since_id": "2118971735143763969",
    "started": true
   }
  }
