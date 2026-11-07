@@ -2,40 +2,6 @@
  "seen": [
   {
    "fp": [
-    "acil",
-    "avrup",
-    "bomba",
-    "durum",
-    "ihbar",
-    "iniş",
-    "neler",
-    "oluyo",
-    "onlar",
-    "semal",
-    "uçak",
-    "ülke"
-   ],
-   "at": "2026-11-05T17:24:00.343407+00:00"
-  },
-  {
-   "fp": [
-    "13",
-    "alaca",
-    "bakan",
-    "düzen",
-    "gürle",
-    "medya",
-    "nde",
-    "paket",
-    "sosya",
-    "yargı",
-    "yer",
-    "üncü"
-   ],
-   "at": "2026-11-05T17:30:47.070860+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "bakan",
     "başka",
@@ -9337,22 +9303,89 @@
     "şubat"
    ],
    "at": "2026-11-07T05:18:26.421096+00:00"
+  },
+  {
+   "fp": [
+    "26",
+    "6",
+    "alarm",
+    "bölge",
+    "hisse",
+    "kar",
+    "kent",
+    "sarı",
+    "soğuğ",
+    "var",
+    "yağış"
+   ],
+   "tok": [
+    "alarm",
+    "altın",
+    "anado",
+    "arası",
+    "batı",
+    "bekle",
+    "birço",
+    "bolu",
+    "bölge",
+    "coğra",
+    "derec",
+    "diyar",
+    "doğu",
+    "doğus",
+    "duyur",
+    "düzce",
+    "düşec",
+    "ege",
+    "esece",
+    "fırtı",
+    "genel",
+    "gündü",
+    "haric",
+    "hatay",
+    "hava",
+    "hisse",
+    "hızla",
+    "ila",
+    "iller",
+    "kar",
+    "karad",
+    "kent",
+    "kesim",
+    "kodlu",
+    "kuvve",
+    "kıyıl",
+    "meteo",
+    "mevsi",
+    "müdür",
+    "norma",
+    "nun",
+    "rize",
+    "rüzga",
+    "saat",
+    "sarı",
+    "soğuğ",
+    "sıcak",
+    "uyarı",
+    "van",
+    "var",
+    "verdi",
+    "veril",
+    "yayım",
+    "yağmu",
+    "yağış",
+    "yer",
+    "yükse",
+    "zongu",
+    "çıkac",
+    "öngör",
+    "ülke",
+    "şekli"
+   ],
+   "at": "2026-11-07T05:30:53.289563+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "05a91677a7",
-   "post_id": "529346797199852_1456234146616293",
-   "title": "Samsunspor Başkanı Yüksel Yıldırım: “Devre arasında gereken her hamleyi yapacağız”",
-   "at": "2026-11-03T08:59:53.345124+00:00",
-   "yazim": "claude",
-   "metin": "Samsunspor Başkanı Yüksel Yıldırım:\n\n“Devre arasında gereken her hamleyi yapacağız.”\n\n— Takımın kötü gidişinin sorumluluğunun farkında olduklarını söyledi.\n— Taraftarlardan destek istedi, eksikleri gidermek için devre arasında adım atacaklarını belirtti.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/yuksel-yildirim-samsunsporu-yeniden-ayaga-kaldiracagiz-3488160",
-    "Habertürk: https://www.haberturk.com/spor/samsunspor-baskani-yuksel-yildirim-devre-arasinda-gereken-her-hamleyi-yapacagiz-3924514",
-    "BirGün: https://www.birgun.net/haber/samsunspor-baskani-yuksel-yildirim-devre-arasinda-gereken-her-hamleyi-yapacagiz-744199"
-   ]
-  },
   {
    "id": "d0b1160c8d",
    "post_id": "529346797199852_1456244966615211",
@@ -11996,6 +12029,18 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/ailelerden-deprem-davalarindaki-kararlara-tepki-kaybedecek-daha-fazla-canimiz-yok-745058"
    ]
+  },
+  {
+   "id": "b05a20822e",
+   "post_id": "529346797199852_1460190686220639",
+   "title": "26 kent için \"sarı\" alarm: Kar soğuğu hissedilecek! 6 bölgede yağış var",
+   "at": "2026-11-07T05:30:53.289563+00:00",
+   "yazim": "claude",
+   "metin": "Meteoroloji 26 il için \"sarı\" uyarı verdi, birçok bölgede yağmur ve kar bekleniyor.\n\nHava sıcaklıkları ülke genelinde mevsim normallerinin 3 ila 6 derece altına düşecek.\n\n— Uyarı verilen iller arasında Bolu, Düzce, Zonguldak, Rize, Diyarbakır, Hatay ve Van da var.\n— Ankara'da gündüz sıcaklığı 8, İstanbul'da 12 dereceye kadar çıkacak.\n— Batı ve Doğu Karadeniz'in yüksek kesimlerinde ile Doğu Anadolu'nun doğusunda kar yağışı bekleniyor.\n— Karadeniz kıyılarında rüzgar yer yer 40-70 km/saat hızla fırtına şeklinde esecek.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-26-kent-icin-sari-alarm-kar-sogugu-hissedilecek-hava-durumu-istanbul-3925545",
+    "Karar: https://www.karar.com/guncel-haberler/26-kent-icin-sari-alarm-kar-sogugu-hissedilecek-6-bolgede-yagis-var-2082791"
+   ]
   }
  ],
  "fails": {
@@ -12166,7 +12211,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118934920546705585",
+   "since_id": "2118937379566477597",
    "started": true
   },
   "ajansmuhbir1923": {
