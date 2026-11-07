@@ -2,36 +2,6 @@
  "seen": [
   {
    "fp": [
-    "23",
-    "anne",
-    "facia",
-    "hasta",
-    "hayat",
-    "iki",
-    "izmir",
-    "kaybe",
-    "yangı",
-    "yaşam",
-    "yaşın",
-    "yitir",
-    "çocuğ"
-   ],
-   "at": "2026-11-05T13:47:16.881331+00:00"
-  },
-  {
-   "fp": [
-    "avrup",
-    "banka",
-    "hedef",
-    "kan",
-    "marke",
-    "saldı",
-    "siber"
-   ],
-   "at": "2026-11-05T13:51:42.999315+00:00"
-  },
-  {
-   "fp": [
     "29",
     "aştı",
     "banka",
@@ -8617,22 +8587,77 @@
     "ücret"
    ],
    "at": "2026-11-07T01:39:11.178602+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "fon",
+    "ilişk",
+    "kaybe",
+    "kaygı",
+    "maliy",
+    "prest",
+    "siyas",
+    "soruş"
+   ],
+   "tok": [
+    "acıma",
+    "akp",
+    "aktar",
+    "ardın",
+    "aynı",
+    "belir",
+    "betül",
+    "bizde",
+    "ciddi",
+    "değer",
+    "durum",
+    "erdoğ",
+    "eski",
+    "fatma",
+    "fon",
+    "geleb",
+    "göre",
+    "günde",
+    "güven",
+    "hiçbi",
+    "ilişk",
+    "isiml",
+    "isme",
+    "içind",
+    "kaya",
+    "kaybı",
+    "kaygı",
+    "konud",
+    "kulis",
+    "maliy",
+    "mesaj",
+    "muhaf",
+    "nın",
+    "olayl",
+    "olsa",
+    "parti",
+    "prest",
+    "recep",
+    "sayan",
+    "sert",
+    "seçme",
+    "siyas",
+    "sürec",
+    "tavrı",
+    "tayyi",
+    "topar",
+    "tutum",
+    "uzakl",
+    "uzanm",
+    "verir",
+    "yapıl",
+    "yarat"
+   ],
+   "at": "2026-11-07T01:51:49.114212+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f571722e0d",
-   "post_id": "529346797199852_1455775863328788",
-   "title": "Antalya'da gök gürültülü sağanak etkili oldu: Bir eve yıldırım düştü",
-   "at": "2026-11-02T20:41:08.333935+00:00",
-   "yazim": "claude",
-   "metin": "Antalya'da akşam saatlerinde gök gürültülü sağanak etkili oldu.\n\n— Kepez'in Göçerler Mahallesi'nde bir müstakil eve yıldırım düştü, çatıda yangın çıktı.\n— Evde o sırada kimse yoktu. İtfaiye yangını söndürdü, ev kullanılamaz hale geldi.\n— Yağmur sonrası ana caddelerde su birikti, sürücüler zorlandı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/antalya-da-gok-gurultulu-saganak-etkili-oldu-eve-yildirim-dustu-2552655",
-    "Evrensel: https://www.evrensel.net/haber/6007730/antalyada-gok-gurultulu-saganak-etkili-oldu-bir-eve-yildirim-dustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/antalya-da-saganak-yagis-bir-eve-yildirim-dustu-744123"
-   ]
-  },
   {
    "id": "342120e237",
    "post_id": "529346797199852_1455842183322156",
@@ -11318,6 +11343,17 @@
    "metin": "Ankara'da bir yurttaş, ekim ayında 76,8 metreküp sınırını aşınca doğalgaz faturası 2 bin 685 lira yerine 4 bin 53 lira geldi.\n\n— Kademeli doğalgaz tarifesi bu kış ilk kez uygulanıyor. Sınırı aşan aboneler Kademe-2 fiyatından ödeme yapıyor.\n— Sınırı geçen kısım değil, ayın tüm doğalgazı Kademe-2 fiyatıyla ücretlendiriliyor.\n— Ankara'daki faturada fark 1368 lira oldu, yani yüzde 51 zam anlamına geliyor. Kademe sınırları ile de illere göre değişiyor.",
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/dogalgazda-kademeli-tarife-yurttasi-vurdu-tarifede-siniri-asmanin-bedeli-faturaya-zam-olarak-yansidi-2554022"
+   ]
+  },
+  {
+   "id": "b87440157a",
+   "post_id": "529346797199852_1460041246235583",
+   "title": "AKP’de fon soruşturmasının siyasi maliyetine ilişkin kaygı: ‘Prestij kaybettik’",
+   "at": "2026-11-07T01:51:49.114212+00:00",
+   "yazim": "claude",
+   "metin": "AKP kulislerinde, eski bakan Fatma Betül Sayan Kaya'nın tutuklanmasının ardından “Prestij kaybettik” değerlendirmesi yapılıyor.\n\n— Partililere göre fon soruşturması muhafazakâr seçmeni partiden uzaklaştırdı ve ciddi bir oy kaybı kaygısı yarattı.\n— Erdoğan'ın konuda “çok sert” bir tutum içinde olduğu, soruşturmanın parti içindeki isimlere uzanması durumunda da aynı tavrın süreceği aktarılıyor.\n— Partililer “Bizden de olsa hiçbir isme acımayacağız” mesajı verirken, yeni isimlerin de gündeme gelebileceği belirtiliyor.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akp-de-fon-sorusturmasinin-siyasi-maliyetine-iliskin-kaygi-prestij-kaybettik-2554020"
    ]
   }
  ],
