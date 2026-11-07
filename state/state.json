@@ -10050,22 +10050,57 @@
     "şube"
    ],
    "at": "2026-11-07T08:00:10.916938+00:00"
+  },
+  {
+   "fp": [
+    "arana",
+    "baron",
+    "bülte",
+    "kırmı",
+    "mersi",
+    "uyuşt",
+    "yakal"
+   ],
+   "tok": [
+    "adres",
+    "alına",
+    "aradı",
+    "arana",
+    "aranı",
+    "baron",
+    "belir",
+    "bulun",
+    "bölge",
+    "bülte",
+    "düzen",
+    "düzey",
+    "edip",
+    "ekipl",
+    "evde",
+    "eve",
+    "fakhr",
+    "geldi",
+    "kaldı",
+    "kaçak",
+    "kente",
+    "khuda",
+    "kırmı",
+    "mersi",
+    "narko",
+    "odil",
+    "seral",
+    "suçun",
+    "tespi",
+    "ulusl",
+    "uyruk",
+    "uyuşt",
+    "yoğun",
+    "özbek"
+   ],
+   "at": "2026-11-07T08:12:43.595422+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "59359d61dd",
-   "post_id": "529346797199852_1456374153268959",
-   "title": "İSKİ baraj doluluk oranları 3 Kasım: İstanbul barajları yüzde kaç dolu?",
-   "at": "2026-11-03T12:04:59.083869+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul barajlarının toplam doluluk oranı yüzde 54,17'ye çıktı.\n\n— Bir yıl önce aynı dönemde oran yüzde 22,54'tü.\n— Darlık Barajı yüzde 90,23 ile en dolu baraj oldu.\n— Kazandere'de yüzde 4,05, Pabuçdere'de yüzde 2,96 ile seviyeler çok düşük.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/galeri-istanbul-barajlarinda-ucurum-kimi-yuzde-90i-asti-kimi-yuzde-3te-kaldi-1749192",
-    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/iski-son-verileri-paylasti-iste-10-barajin-doluluk-oranlari-4869364",
-    "Evrensel: https://www.evrensel.net/haber/6007810/iski-baraj-doluluk-oranlari-3-kasim-istanbul-barajlari-yuzde-kac-dolu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "37593eab1a",
    "post_id": "529346797199852_1456384276601280",
@@ -12694,6 +12729,22 @@
     "Evrensel: https://www.evrensel.net/haber/6008387/istanbul-merkezli-5-ilde-uyusturucu-operasyonu-82-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/sokak-saticilarina-yonelik-uyusturucu-operasyonu-82-kisi-tutuklandi-43369147"
    ]
+  },
+  {
+   "id": "05dcc23f57",
+   "post_id": "529346797199852_1460309986208709",
+   "title": "Kırmızı bültenle aranan Özbekistan uyruklu şüpheli Mersin'de yakalandı",
+   "at": "2026-11-07T08:12:43.595422+00:00",
+   "yazim": "claude",
+   "metin": "Mersin'de, Özbekistan'ın uyuşturucu suçundan kırmızı bültenle aradığı bir şüpheli yakalandı.\n\n— Şüpheli, seraların yoğun olduğu bölgedeki bir evde bulundu.\n— Narkotik ekipleri şüphelinin kente geldiğini tespit edip kaldığı adresi belirledi.\n— Operasyonla gözaltına alınan şüpheli, uluslararası düzeyde aranıyordu.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/kirmizi-bultenle-aranan-uyusturucu-kacakcisi-yakalandi-962507.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/kirmizi-bultenle-araniyordu-uyusturucu-baronu-mersinde-yakalandi-43369078",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haber-kirmizi-bultenle-aranan-baron-yakalandi-mersin-haberleri-3925552",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mersin-de-kirmizi-bultenle-aranan-uyusturucu-baronu-yakalandi-2554109",
+    "Evrensel: https://www.evrensel.net/haber/6008393/kirmizi-bultenle-aranan-ozbekistan-uyruklu-supheli-mersinde-yakalandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/ozbekistan-in-kirmizi-bultenle-aradigi-uyusturucu-baronu-mersinde-yakalandi-745092"
+   ]
   }
  ],
  "fails": {
@@ -12867,12 +12918,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118976357023580291",
+   "since_id": "2118978849522270446",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2118974414972731563",
+   "since_id": "2118978120208515368",
    "started": true
   }
  }
