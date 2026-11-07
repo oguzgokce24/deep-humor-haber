@@ -2,112 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "mama",
-    "sanda",
-    "satış",
-    "topla",
-    "yasak"
-   ],
-   "tok": [
-    "arası",
-    "bacak",
-    "barı",
-    "güven",
-    "mama",
-    "mesaf",
-    "piyas",
-    "sanda",
-    "satış",
-    "stand",
-    "ticar",
-    "topla",
-    "uymay",
-    "veril",
-    "yasak",
-    "ürünü"
-   ],
-   "at": "2026-11-06T08:13:30.116438+00:00"
-  },
-  {
-   "fp": [
-    "3",
-    "aym",
-    "den",
-    "gazet",
-    "ihlal",
-    "karar",
-    "yapıl",
-    "yargı",
-    "yenid"
-   ],
-   "tok": [
-    "aihm",
-    "ali",
-    "aym",
-    "bayra",
-    "buluş",
-    "dair",
-    "den",
-    "gazet",
-    "gider",
-    "ihlal",
-    "karaa",
-    "mahku",
-    "mehme",
-    "parla",
-    "verdi",
-    "veril",
-    "yapıl",
-    "yargı",
-    "yenid",
-    "yönün"
-   ],
-   "at": "2026-11-06T08:16:58.473352+00:00"
-  },
-  {
-   "fp": [
-    "baraj",
-    "dolul",
-    "durum",
-    "iski",
-    "istan",
-    "oranı"
-   ],
-   "tok": [
-    "arada",
-    "baraj",
-    "boş",
-    "değiş",
-    "dolu",
-    "dolul",
-    "durum",
-    "düşük",
-    "fark",
-    "göre",
-    "göste",
-    "ise",
-    "iski",
-    "itiba",
-    "kasım",
-    "kayde",
-    "nda",
-    "oran",
-    "oranı",
-    "pabuç",
-    "payla",
-    "sağla",
-    "veril",
-    "yükse",
-    "yüzde",
-    "ıstra",
-    "ıstır",
-    "şehri"
-   ],
-   "at": "2026-11-06T08:20:41.323449+00:00"
-  },
-  {
-   "fp": [
     "2",
     "5",
     "arana",
@@ -10940,22 +10834,65 @@
     "öneml"
    ],
    "at": "2026-11-07T20:12:11.173925+00:00"
+  },
+  {
+   "fp": [
+    "fon",
+    "mumcu",
+    "nesli",
+    "soruş",
+    "taleb",
+    "tedbi"
+   ],
+   "tok": [
+    "adına",
+    "araşt",
+    "ayrıc",
+    "batuh",
+    "btk",
+    "daki",
+    "dondu",
+    "edilm",
+    "eski",
+    "eşi",
+    "fon",
+    "gemi",
+    "hava",
+    "holdi",
+    "incel",
+    "isted",
+    "işlem",
+    "kadın",
+    "kayıt",
+    "kontr",
+    "kurul",
+    "kültü",
+    "lydia",
+    "mal",
+    "mali",
+    "malva",
+    "mumcu",
+    "nesli",
+    "nun",
+    "ortak",
+    "otomo",
+    "piyas",
+    "savcı",
+    "serma",
+    "taleb",
+    "talep",
+    "taşın",
+    "tedbi",
+    "turiz",
+    "varlı",
+    "yardı",
+    "yönel",
+    "üyesi"
+   ],
+   "at": "2026-11-07T20:24:47.863677+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4b1ed6ce57",
-   "post_id": "529346797199852_1457519666487741",
-   "title": "İstanbul'da sağanak etkili oldu",
-   "at": "2026-11-04T14:59:30.198646+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da sağanak etkili oldu.\n\n— Yağmur Anadolu Yakası'nın birçok ilçesinde, Avrupa Yakası'nda ise Beşiktaş ve Şişli'de görüldü.\n— Bazı yollarda ve caddelerde su birikti.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/antalya/alanyada-saganak-hayati-olumsuz-etkiledi-3489036",
-    "Yeni Şafak: https://www.yenisafak.com/video/gundem/son-dakika-istanbulda-yagmur-saat-kaca-kadar-yagacak-yagis-ne-kadar-surecek-4869777",
-    "BirGün: https://www.birgun.net/haber/istanbul-da-saganak-etkili-oldu-744568"
-   ]
-  },
   {
    "id": "4e219f48f2",
    "post_id": "529346797199852_1457530723153302",
@@ -13550,6 +13487,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/okan-buruk-tan-mac-sonu-zemin-aciklamasi-onemli-bir-calisma-yaptik-ama-maalesef-2554277",
     "Sözcü Spor: https://www.sozcu.com.tr/okan-buruktan-endiselendiren-osimhen-aciklamasi-p377016"
    ]
+  },
+  {
+   "id": "fbae1d6ec6",
+   "post_id": "529346797199852_1460947129478328",
+   "title": "Son dakika... Fon soruşturmasında Neslihan Mumcu için tedbir talebi",
+   "at": "2026-11-07T20:24:47.863677+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'daki fon soruşturmasında savcılık, Lydia Holding ortaklarından bir kadın için mali tedbir istedi.\n\n— Talep, bu kadının sermaye piyasası araçlarının dondurulması ve malvarlığı işlemlerinin kontrol edilmesi.\n— Savcılık ayrıca kadının adına kayıtlı taşınmaz, gemi ve hava araçlarının araştırılmasını istedi.\n— Kadın, eski Kültür ve Turizm Bakan Yardımcısı ve BTK Kurul Üyesi Batuhan Mumcu'nun eşi.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/son-dakika-fon-sorusturmasinda-neslihan-mumcu-icin-tedbir-talebi-p377013",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-neslihan-mumcu-icin-tedbir-talebi-2554292",
+    "BirGün: https://www.birgun.net/haber/fon-sorusturmasi-neslihan-mumcu-icin-tedbir-ve-inceleme-karari-talep-edildi-745192",
+    "Karar: https://www.karar.com/guncel-haberler/neslihan-mumcunun-mal-varligina-yonelik-tedbir-talebi-2082917"
+   ]
   }
  ],
  "fails": {
@@ -13734,7 +13685,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119158694235500562",
+   "since_id": "2119163936385958217",
    "started": true
   },
   "ajansmuhbir1923": {
