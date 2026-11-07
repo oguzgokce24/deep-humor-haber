@@ -2,99 +2,6 @@
  "seen": [
   {
    "fp": [
-    "betül",
-    "fatma",
-    "kaya",
-    "sayan",
-    "tutuk"
-   ],
-   "tok": [
-    "aile",
-    "akp",
-    "akın",
-    "amacı",
-    "ardın",
-    "betül",
-    "dikka",
-    "duyur",
-    "eski",
-    "ettiğ",
-    "fatma",
-    "gürle",
-    "işlem",
-    "kanun",
-    "kaya",
-    "kurul",
-    "muhal",
-    "nöbet",
-    "nın",
-    "olma",
-    "ortay",
-    "payla",
-    "piyas",
-    "polit",
-    "savcı",
-    "sayan",
-    "serma",
-    "sevk",
-    "sosya",
-    "spk",
-    "suç",
-    "suçla",
-    "taleb",
-    "talep",
-    "ten",
-    "yapmı",
-    "yazıs",
-    "çeken",
-    "çıkar",
-    "çıktı",
-    "örgüt",
-    "üye"
-   ],
-   "at": "2026-11-06T01:34:27.498931+00:00"
-  },
-  {
-   "fp": [
-    "anlaş",
-    "genel",
-    "kabul",
-    "kurul",
-    "mekke",
-    "nda",
-    "ortak",
-    "savun",
-    "tbmm"
-   ],
-   "tok": [
-    "alanı",
-    "anlaş",
-    "birli",
-    "evet",
-    "genel",
-    "güven",
-    "ittif",
-    "işbir",
-    "kabul",
-    "kurul",
-    "medya",
-    "mekke",
-    "nda",
-    "ortak",
-    "oylam",
-    "oyu",
-    "oyuyl",
-    "ret",
-    "savun",
-    "tbmm",
-    "yapac",
-    "çıktı",
-    "ülke"
-   ],
-   "at": "2026-11-06T01:34:30.994636+00:00"
-  },
-  {
-   "fp": [
     "bulaş",
     "den",
     "değil",
@@ -11170,22 +11077,57 @@
     "öneml"
    ],
    "at": "2026-11-07T13:28:39.090248+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "gözal",
+    "kaçak",
+    "opera",
+    "silah",
+    "tokat"
+   ],
+   "tok": [
+    "alına",
+    "alınd",
+    "artov",
+    "ayrıc",
+    "başla",
+    "bilgi",
+    "bulun",
+    "değer",
+    "düzen",
+    "dışı",
+    "eser",
+    "fişek",
+    "fişeğ",
+    "götür",
+    "ilçed",
+    "ilçel",
+    "kapsa",
+    "karma",
+    "kaçak",
+    "kurus",
+    "mücad",
+    "obje",
+    "ruhsa",
+    "silah",
+    "sulus",
+    "taban",
+    "tarih",
+    "ticar",
+    "tokat",
+    "tüfeğ",
+    "yapıl",
+    "yasa",
+    "yeşil",
+    "zaman",
+    "çalış"
+   ],
+   "at": "2026-11-07T13:41:12.652819+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "aa4bfb29da",
-   "post_id": "529346797199852_1457129736526734",
-   "title": "Döviz kurlarında yükseliş sürüyor: Dolar 50 lirayı aştı",
-   "at": "2026-11-04T06:26:57.433558+00:00",
-   "yazim": "claude",
-   "metin": "Dolar 50 lirayı aştı, euro 56 lirayı geçti.\n\n— Serbest piyasada dolar 50,02 liradan güne başladı. Dün 49,98 liradan kapanmıştı.\n— Yatırımcılar ABD'deki ara seçimleri ve İran'la süren savaşı yakından izliyor.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/bilgi/foto/lpg-ye-zam-geldi-otogaz-litre-fiyati-50-tl-yi-asti-guncel-lpg-benzin-ve-motorin-fiyatlari-ne-kadar-iste-3-kasim-2026-akaryakit-fiyatlari-3924630",
-    "BirGün: https://www.birgun.net/haber/doviz-kurlarinda-yukselis-suruyor-dolar-50-lirayi-asti-744411",
-    "Diken: https://www.diken.com.tr/dolar-50-lirayi-asti-4-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dolar-50-lirayi-asti-4-kasim-2026"
-   ]
-  },
   {
    "id": "45f4c918c0",
    "post_id": "529346797199852_1457142316525476",
@@ -13823,6 +13765,20 @@
     "Karar: https://www.karar.com/spor-haberleri/galatasaray-amed-macinin-var-hakemi-belli-oldu-2082828",
     "BPT (X): https://x.com/bpthaber/status/2119058837953253513"
    ]
+  },
+  {
+   "id": "c9c85f6c9a",
+   "post_id": "529346797199852_1460581862848188",
+   "title": "Tokat’ta silah kaçakçılığı operasyonu: 9 gözaltı",
+   "at": "2026-11-07T13:41:12.652819+00:00",
+   "yazim": "claude",
+   "metin": "Tokat'ın Yeşilyurt, Artova ve Sulusaray ilçelerinde silah kaçakçılığı operasyonunda 9 kişi gözaltına alındı.\n\n— Yasa dışı silah ticareti yapıldığı bilgisi üzerine jandarma çalışma başlatmıştı.\n— Eş zamanlı yapılan operasyonda 1 ruhsatsız tabanca, 3 ruhsatsız av tüfeği ve 2 kurusıkı tabanca ele geçirildi.\n— Ayrıca tarihi eser olduğu değerlendirilen 12 obje, 100 av tüfeği fişeği, 1 karma silah ve 33 fişek bulundu.\n— Gözaltına alınan 9 şüpheli jandarmaya götürüldü.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/tokat/merkez/tokatta-silah-kacakciligi-operasyonu-9-gozalti-3490219",
+    "Sözcü: https://www.sozcu.com.tr/tokatta-uc-ilcede-silah-operasyonu-9-gozalti-p376927",
+    "Sözcü: https://www.sozcu.com.tr/tokat-ta-silah-kacakciligi-operasyonu-9-gozalti-p376918",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tokat-ta-silah-kacakciligi-operasyonu-9-gozalti-2554159"
+   ]
   }
  ],
  "fails": {
@@ -14001,7 +13957,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119056923202826437",
+   "since_id": "2119061191410479324",
    "started": true
   }
  }
