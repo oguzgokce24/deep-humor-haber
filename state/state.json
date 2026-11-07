@@ -2,53 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ardın",
-    "astı",
-    "canın",
-    "dondu",
-    "döktü",
-    "eşini",
-    "intih",
-    "izmir",
-    "kadın",
-    "kan",
-    "kayna",
-    "kendi",
-    "kocas",
-    "korku",
-    "kıydı",
-    "olay",
-    "suyla",
-    "uyuya",
-    "yaral"
-   ],
-   "at": "2026-11-05T12:31:04.599636+00:00"
-  },
-  {
-   "fp": [
-    "adale",
-    "bakan",
-    "dem",
-    "demir",
-    "den",
-    "parti",
-    "yükse",
-    "önünd"
-   ],
-   "at": "2026-11-05T12:31:34.559983+00:00"
-  },
-  {
-   "fp": [
-    "antre",
-    "belöz",
-    "emre",
-    "fener",
-    "çıktı"
-   ],
-   "at": "2026-11-05T12:31:46.897221+00:00"
-  },
-  {
-   "fp": [
     "hatay",
     "itfai",
     "kalan",
@@ -8576,22 +8529,73 @@
     "şovu"
    ],
    "at": "2026-11-07T00:30:00.467387+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "ankar",
+    "asliy",
+    "hakim",
+    "hukuk",
+    "mahke"
+   ],
+   "tok": [
+    "adamı",
+    "alaca",
+    "asliy",
+    "batı",
+    "bildi",
+    "bilen",
+    "bilgi",
+    "borçl",
+    "ceza",
+    "dosya",
+    "doğac",
+    "doğum",
+    "edece",
+    "edeme",
+    "eksik",
+    "erkek",
+    "ezine",
+    "hak",
+    "hakim",
+    "hukuk",
+    "ikinc",
+    "ilanı",
+    "ilçes",
+    "içind",
+    "karak",
+    "kayıt",
+    "kez",
+    "kulu",
+    "kırık",
+    "mal",
+    "miras",
+    "nüfus",
+    "ocak",
+    "redde",
+    "sonra",
+    "sorum",
+    "sulh",
+    "talep",
+    "tasfi",
+    "taşın",
+    "terek",
+    "tutul",
+    "varlı",
+    "vefat",
+    "veren",
+    "verme",
+    "yanlı",
+    "yayım",
+    "zarar",
+    "ölen",
+    "öleni"
+   ],
+   "at": "2026-11-07T00:42:51.072589+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "aed7b526f7",
-   "post_id": "529346797199852_1455719876667720",
-   "title": "MSB duyurdu: Piyade Uzman Çavuş Oğuz Şahin şehit oldu",
-   "at": "2026-11-02T19:09:59.607760+00:00",
-   "yazim": "claude",
-   "metin": "Piyade Uzman Çavuş Oğuz Şahin şehit oldu.\n\n— Van'ın Çaldıran ilçesinde, Alparslan Hudut Karakolu sorumluluk sahasında rahatsızlanmıştı.\n— Milli Savunma Bakanlığı, 2 Kasım 2026'da şehit olduğunu açıkladı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/oguz-sahin-sehit-oldu-p375351",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/msb-duyurdu-piyade-uzman-cavus-oguz-sahin-sehit-oldu-2552638",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/vanda-gorev-yapan-uzman-cavus-rahatsizlanarak-sehit-oldu-4869215"
-   ]
-  },
   {
    "id": "f1718825e2",
    "post_id": "529346797199852_1455736293332745",
@@ -11281,6 +11285,21 @@
    "sources": [
     "Karar: https://www.karar.com/yazarlar/elif-cakir/ak-partinin-adalete-inancimiz-tam-sovu-1609760"
    ]
+  },
+  {
+   "id": "c15519d2d6",
+   "post_id": "529346797199852_1459982952908079",
+   "title": "T.C. ANKARA BATI 4. ASLİYE HUKUK MAHKEMESİ",
+   "at": "2026-11-07T00:42:51.072589+00:00",
+   "yazim": "claude",
+   "metin": "Kırıkkale'de 23 Ocak'ta vefat eden bir adamın mirasçıları mirası reddetti, mahkeme terekesini resmen tasfiye edecek.\n\n— Ölen kişi Karakeçili ilçesinde nüfusa kayıtlı, 1981 doğumlu bir erkek.\n— Mirasçılar mirası reddedince dosya Kırıkkale 3. Sulh Hukuk Mahkemesi'ne taşındı.\n— Ölenin mal varlığını bilenler, alacaklılar ve borçlular ilanın ikinci kez yayımlanmasından sonraki bir ay içinde mahkemeye bilgi vermeli.\n— Bilgi vermeyenler ya da yanlış, eksik bilgi verenler doğacak zararlardan sorumlu tutulacak.\n— Mahkemeye bildirmeyen alacaklılar terekeden hak talep edemeyecek.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/resmi-ilanlar/ezine-2-asliye-hukuk-mahkemesi-hakimligi-3490073",
+    "CNN Türk: https://www.cnnturk.com/resmi-ilanlar/kulu-3-asliye-hukuk-mahkemesi-hakimligi-3490069",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kirikkale-3-sulh-hukuk-mahkemesi-2554049",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-ankara-bati-4-asliye-hukuk-mahkemesi-2554055",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-ankara-17-asliye-ceza-mahkemesi-2554057"
+   ]
   }
  ],
  "fails": {
@@ -11405,7 +11424,6 @@
   "0dbc29f889": 1
  },
  "fail_log": [
-  "2026-11-06T20:50 Stranger Things evreninden yeni dizi: 'Other Worlds' -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -11444,7 +11462,8 @@
   "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)"
+  "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
+  "2026-11-07T00:43 T.C. ANKARA BATI 4. ASLİYE HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
