@@ -2,35 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "3",
-    "beşik",
-    "celti",
-    "mağlu"
-   ],
-   "tok": [
-    "avrup",
-    "ayrıl",
-    "beşik",
-    "celti",
-    "depla",
-    "hafta",
-    "iskoç",
-    "konuk",
-    "ligi",
-    "maç",
-    "mağlu",
-    "nin",
-    "temsi",
-    "uefa",
-    "yenil",
-    "özeti",
-    "üncü"
-   ],
-   "at": "2026-11-05T23:10:31.857505+00:00"
-  },
-  {
-   "fp": [
     "3",
     "duman",
     "etkil",
@@ -10609,25 +10580,69 @@
     "çıktı"
    ],
    "at": "2026-11-07T11:09:02.529089+00:00"
+  },
+  {
+   "fp": [
+    "boğaz",
+    "hürmü",
+    "mayın",
+    "nda",
+    "petro",
+    "tanke",
+    "çarpt"
+   ],
+   "tok": [
+    "benze",
+    "boğaz",
+    "bulun",
+    "bölge",
+    "deniz",
+    "devam",
+    "doğus",
+    "edeme",
+    "etmes",
+    "gelmi",
+    "gemi",
+    "gemid",
+    "gemil",
+    "gemin",
+    "geçme",
+    "göre",
+    "hale",
+    "halin",
+    "hürmü",
+    "iran",
+    "içind",
+    "kapat",
+    "kazal",
+    "komut",
+    "kuvve",
+    "mayın",
+    "nda",
+    "nın",
+    "ordus",
+    "patla",
+    "petro",
+    "saatl",
+    "sabah",
+    "siste",
+    "takip",
+    "tanke",
+    "tehli",
+    "uyarı",
+    "yangı",
+    "yazıl",
+    "yaşan",
+    "yolun",
+    "çalış",
+    "çarpt",
+    "çıkmı",
+    "çıktı"
+   ],
+   "at": "2026-11-07T11:21:37.803585+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6fba559c55",
-   "post_id": "529346797199852_1456724703233904",
-   "title": "Katar: ABD ile İran arasında anlaşma umudu hala var",
-   "at": "2026-11-03T19:42:41.818184+00:00",
-   "yazim": "claude",
-   "metin": "Katar Dışişleri Sözcüsü Macid el-Ensari:\n\n“Umut olmasaydı müzakereler de olmazdı.”\n\nABD ile İran arasında gerilim sürerken Katar, anlaşma ihtimalinin hâlâ açık olduğunu söyledi. Arabulucular teklifleri iki tarafa iletiyor. Katar ise kalıcı barışın ilk adımı olabilecek geçici bir anlaşma üzerinde çalışıyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/iran-abd-ile-anlasma-konusunda-yeni-bir-gelisme-yok-962125.html",
-    "Milliyet: https://www.milliyet.com.tr/dunya/irandan-dikkat-ceken-anlasma-aciklamasi-abd-bizi-ikna-etmedi-7693633",
-    "Habertürk: https://www.haberturk.com/dunya/marco-rubio-dan-iran-aciklamasi-3924725",
-    "Habertürk: https://www.haberturk.com/dunya/iran-abd-nin-yaniti-ikna-edici-olmadi-3924672",
-    "Karar: https://www.karar.com/dunya-haberleri/katar-abd-ile-iran-arasinda-anlasma-umudu-hala-var-2082207",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/irandan-dikkat-ceken-anlasma-aciklamasi-abd-bizi-ikna-etmedi-7693633"
-   ]
-  },
   {
    "id": "92817a45b0",
    "post_id": "529346797199852_1456747949898246",
@@ -13255,6 +13270,20 @@
     "BirGün: https://www.birgun.net/haber/aydin-da-mobilya-fabrikasinda-yangin-745099",
     "Karar: https://www.karar.com/sehir-haberleri/aydinda-mobilya-fabrikasinda-yangin-2082820"
    ]
+  },
+  {
+   "id": "e7c81867ee",
+   "post_id": "529346797199852_1460456006194107",
+   "title": "İran: Hürmüz Boğazı'nın doğusunda tanker mayına çarptı",
+   "at": "2026-11-07T11:21:37.803585+00:00",
+   "yazim": "claude",
+   "metin": "Hürmüz Boğazı'nın doğusunda bir petrol tankeri mayına çarptı, geminin içinde yangın çıktı.\n\n— İran Ordusu Deniz Kuvvetleri Komutanlığı'nın yazılı açıklamasına göre gemi sabah saatlerinde takip sistemlerini kapatarak bölgeden geçmeye çalışmış.\n— Patlamadan sonra tankerde yangın çıkmış ve gemi yoluna devam edemez hale gelmiş.\n— Komutanlık, gemilerin bu tehlikeli bölgeden geçmeye devam etmesi halinde benzer kazaların yaşanabileceği uyarısında bulunmuş.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti/4115085",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-962526.html",
+    "Habertürk: https://www.haberturk.com/dunya/hurmuz-bogazi-nda-bir-petrol-tankeri-mayina-carpti-3925607",
+    "Evrensel: https://www.evrensel.net/haber/6008419/iran-hurmuz-bogazinin-dogusunda-tanker-mayina-carpti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13433,7 +13462,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119022212787163465",
+   "since_id": "2119026640680362276",
    "started": true
   }
  }
