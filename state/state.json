@@ -2,57 +2,6 @@
  "seen": [
   {
    "fp": [
-    "hatay",
-    "itfai",
-    "kalan",
-    "kurta",
-    "mahsu",
-    "okuld",
-    "sağan",
-    "öğren"
-   ],
-   "at": "2026-11-05T12:44:17.728546+00:00"
-  },
-  {
-   "fp": [
-    "alan",
-    "bakan",
-    "bütçe",
-    "emekl",
-    "ilişk",
-    "oluşt",
-    "ten",
-    "zammı",
-    "şimşe"
-   ],
-   "at": "2026-11-05T12:48:16.494997+00:00"
-  },
-  {
-   "fp": [
-    "1000",
-    "22",
-    "den",
-    "dünya",
-    "girdi",
-    "türki",
-    "ünive"
-   ],
-   "at": "2026-11-05T12:48:24.386299+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "158",
-    "banka",
-    "dolar",
-    "merke",
-    "milya",
-    "rezer"
-   ],
-   "at": "2026-11-05T12:51:51.722227+00:00"
-  },
-  {
-   "fp": [
     "4",
     "banka",
     "faizi",
@@ -8593,23 +8542,72 @@
     "öleni"
    ],
    "at": "2026-11-07T00:42:51.072589+00:00"
+  },
+  {
+   "fp": [
+    "diren",
+    "imbat",
+    "kazan",
+    "maden"
+   ],
+   "tok": [
+    "adadı",
+    "alaca",
+    "aldı",
+    "almış",
+    "anısı",
+    "bağım",
+    "başla",
+    "bırak",
+    "dahil",
+    "diren",
+    "doğan",
+    "duyur",
+    "ekim",
+    "eylem",
+    "gece",
+    "geçen",
+    "geçmi",
+    "gizli",
+    "göçük",
+    "günü",
+    "hakla",
+    "hesap",
+    "hukuk",
+    "imbat",
+    "işlet",
+    "işver",
+    "işçil",
+    "kavuş",
+    "kazan",
+    "kömür",
+    "maden",
+    "muhat",
+    "nden",
+    "ocağı",
+    "sahib",
+    "sendi",
+    "soma",
+    "sözle",
+    "taki",
+    "taleb",
+    "tis",
+    "tki",
+    "toplu",
+    "yarıs",
+    "yattı",
+    "zafer",
+    "çarşa",
+    "ödenm",
+    "önünd",
+    "ücret",
+    "üst",
+    "üyesi"
+   ],
+   "at": "2026-11-07T00:55:34.662652+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f1718825e2",
-   "post_id": "529346797199852_1455736293332745",
-   "title": "Muş’ta adliye binası inşaatında iş kazası: 2 işçi yaralandı",
-   "at": "2026-11-02T19:37:20.266283+00:00",
-   "yazim": "claude",
-   "metin": "Muş'ta adliye inşaatında beton pompası devrildi, 2 işçi yaralandı.\n\n— Pompanın altında sıkışan işçileri itfaiye ekipleri çıkardı.\n— Yaralı işçiler ambulansla hastaneye kaldırıldı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/musta-adliye-binasi-insaatinda-is-kazasi-2-yarali-7692830",
-    "Evrensel: https://www.evrensel.net/haber/6007723/musta-adliye-binasi-insaatinda-is-kazasi-2-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/mus-ta-adliye-insaatinda-is-kazasi-beton-pompasinin-altinda-kalan-2-isci-yaralandi-744122",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/musta-adliye-binasi-insaatinda-is-kazasi-2-yarali-7692830"
-   ]
-  },
   {
    "id": "d552f44eba",
    "post_id": "529346797199852_1455752316664476",
@@ -11299,6 +11297,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kirikkale-3-sulh-hukuk-mahkemesi-2554049",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-ankara-bati-4-asliye-hukuk-mahkemesi-2554055",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-ankara-17-asliye-ceza-mahkemesi-2554057"
+   ]
+  },
+  {
+   "id": "29a4837ce0",
+   "post_id": "529346797199852_1459997526239955",
+   "title": "İmbat madencileri direnişle kazandı",
+   "at": "2026-11-07T00:55:34.662652+00:00",
+   "yazim": "claude",
+   "metin": "Soma'da İmbat Madencilik işçileri, direnişle ödenmeyen tüm alacaklarına kavuştu.\n\n— Bağımsız Maden-İş üyesi işçiler çarşamba günü iş bırakıp Türkiye Kömür İşletmeleri önünde eylem başlatmıştı.\n— Madencilerin talebi, ödenmeyen ücretleri ve Toplu İş Sözleşmesi'nden doğan alacaklarıydı. Sendika, ocağın hukuki sahibi TKİ'yi \"gizli üst işveren\" olarak muhatap almıştı.\n— Sendika, gece yarısından sonra geçmiş haklar dahil tüm alacakların işçilerin hesaplarına yattığını duyurdu.\n— Madenciler bu kazanımı, 1 Ekim'de İmbat'taki göçükte hayatını kaybeden 5 madencinin anısına adadı.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008367/imbat-madencileri-direnisle-kazandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
