@@ -10839,22 +10839,79 @@
     "öldüğ"
    ],
    "at": "2026-11-07T11:59:22.273513+00:00"
+  },
+  {
+   "fp": [
+    "alev",
+    "bacas",
+    "balık",
+    "resto",
+    "sarıy",
+    "yandı",
+    "yangı"
+   ],
+   "tok": [
+    "aldı",
+    "alev",
+    "alevl",
+    "altın",
+    "alına",
+    "ancak",
+    "bacad",
+    "bacas",
+    "bacay",
+    "balık",
+    "başla",
+    "belir",
+    "cadde",
+    "can",
+    "cep",
+    "duman",
+    "edere",
+    "ekipl",
+    "etraf",
+    "geldi",
+    "görün",
+    "hasar",
+    "henüz",
+    "hızlı",
+    "itfai",
+    "kamer",
+    "kaybı",
+    "kimse",
+    "kontr",
+    "köyba",
+    "kısa",
+    "meyda",
+    "müdah",
+    "ndeki",
+    "neden",
+    "olayd",
+    "oluşt",
+    "paniğ",
+    "resto",
+    "saatl",
+    "saran",
+    "sardı",
+    "sarıy",
+    "sebep",
+    "süred",
+    "taraf",
+    "telef",
+    "yandı",
+    "yangı",
+    "yaşan",
+    "yenik",
+    "yoğun",
+    "yükse",
+    "çıktı",
+    "ölmed",
+    "öğle"
+   ],
+   "at": "2026-11-07T12:11:49.690889+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a1568f1103",
-   "post_id": "529346797199852_1456775663228808",
-   "title": "AVM'de yangın: 1 kişi hastaneye kaldırıldı",
-   "at": "2026-11-03T21:06:02.497604+00:00",
-   "yazim": "claude",
-   "metin": "Bir AVM'de yangın çıktı, dumandan etkilenen 1 kişi hastaneye kaldırıldı.\n\n— Çevredekilerin ihbarının ardından itfaiye ve sağlık ekipleri olay yerine koştu.\n— İtfaiye, yangının diğer mağazalara sıçramasını engelledi.\n— Yangının nedeni için inceleme başlatıldı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/avmde-yangin-1-kisi-hastaneye-kaldirildi-p375758",
-    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/avmde-yangin-panigi-bir-kisi-hastaneye-kaldirildi-4869540",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/zonguldakta-avmdeki-magazada-yangin-1-kisi-dumandan-etkilendi-7693684"
-   ]
-  },
   {
    "id": "5822be5160",
    "post_id": "529346797199852_1456782846561423",
@@ -13485,6 +13542,20 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/kamyonun-carpip-duvara-sikistirdigi-otomobildeki-anne-ile-kizi-oldu-4870535",
     "Evrensel: https://www.evrensel.net/haber/6008423/balikesirde-kazada-anne-ve-10-yasindaki-kizi-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "076b68ca50",
+   "post_id": "529346797199852_1460492842857090",
+   "title": "Sarıyer’de balıkçı restoranının bacasında yangın: Ekipler müdahale etti",
+   "at": "2026-11-07T12:11:49.690889+00:00",
+   "yazim": "claude",
+   "metin": "Sarıyer Yeniköy'de bir balıkçı restoranının bacası alev alev yandı.\n\nYangın öğle saatlerinde, nedeni henüz belirlenemeyen bir sebeple Yeniköy Köybaşı Caddesi'ndeki restoranın bacasında başladı ve kısa sürede tüm bacayı sardı. İtfaiye ekipleri iki taraftan müdahale ederek alevleri kontrol altına aldı.\n\nOlayda kimse ölmedi ya da yaralanmadı, ancak bacada hasar oluştu.\n\nYükselen alevler ve etrafı saran yoğun duman cep telefonu kamerasıyla görüntülendi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/sariyer/sariyerde-restoranin-bacasi-alev-alev-yandi-3490228",
+    "NTV: https://www.ntv.com.tr/turkiye/sariyerde-restoranda-yangin-panigi-1749829",
+    "Sözcü: https://www.sozcu.com.tr/sariyer-de-balikci-restoraninin-bacasi-alev-alev-yandi-p376934",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sariyer-de-balikci-restoraninin-bacasinda-yangin-ekipler-mudahale-etti-2554158"
+   ]
   }
  ],
  "fails": {
@@ -13663,7 +13734,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119036092146147623",
+   "since_id": "2119038843957694707",
    "started": true
   }
  }
