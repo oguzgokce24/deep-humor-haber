@@ -2,32 +2,6 @@
  "seen": [
   {
    "fp": [
-    "29",
-    "aştı",
-    "banka",
-    "hacmi",
-    "kredi",
-    "liray",
-    "trily"
-   ],
-   "at": "2026-11-05T13:51:58.580900+00:00"
-  },
-  {
-   "fp": [
-    "2",
-    "5",
-    "afyon",
-    "araç",
-    "bulun",
-    "ceset",
-    "dehşe",
-    "içind",
-    "topla"
-   ],
-   "at": "2026-11-05T13:52:19.681443+00:00"
-  },
-  {
-   "fp": [
     "diş",
     "eczac",
     "hekim",
@@ -8655,23 +8629,61 @@
     "yarat"
    ],
    "at": "2026-11-07T01:51:49.114212+00:00"
+  },
+  {
+   "fp": [
+    "44",
+    "71",
+    "arkas",
+    "güven",
+    "kıska",
+    "sahne",
+    "yok",
+    "yoksu",
+    "yüzde",
+    "ünün"
+   ],
+   "tok": [
+    "araya",
+    "arkas",
+    "doğal",
+    "dışıl",
+    "emekç",
+    "fatih",
+    "gelen",
+    "genel",
+    "göste",
+    "güven",
+    "hakkı",
+    "isted",
+    "istey",
+    "kadık",
+    "kayıt",
+    "koşul",
+    "kıska",
+    "mesle",
+    "müzik",
+    "sahne",
+    "sanat",
+    "sektö",
+    "sen",
+    "sigor",
+    "tepki",
+    "yasas",
+    "yok",
+    "yoksu",
+    "yüzde",
+    "çalış",
+    "çıkar",
+    "önlen",
+    "özako",
+    "özel",
+    "ünün"
+   ],
+   "at": "2026-11-07T02:04:24.833201+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "342120e237",
-   "post_id": "529346797199852_1455842183322156",
-   "title": "İran'ın Keşm Adası'nda peş peşe patlamalar",
-   "at": "2026-11-02T22:36:43.787245+00:00",
-   "yazim": "claude",
-   "metin": "İran'ın Keşm Adası'nda kısa aralıklarla 5 patlama sesi duyuldu.\n\nHürmüz Boğazı'ndaki adada patlamalar sırasında gökyüzünde iki hava aracının uçtuğunu görgü tanıkları bildirdi.\n\nYetkililer henüz resmi bir açıklama yapmadı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/iran-basini-hurmuz-bogazindaki-kesm-adasinda-patlama-sesleri-duyuldu/4109221",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/iran-basini-hurmuz-bogazindaki-kesm-adasinda-patlama-sesleri-duyuldu-962002.html",
-    "Habertürk: https://www.haberturk.com/dunya/kesm-adasi-nda-patlama-sesleri-duyuldu-3924441",
-    "BirGün: https://www.birgun.net/haber/iran-in-kesm-adasi-nda-pes-pese-patlamalar-744129"
-   ]
-  },
   {
    "id": "83c4b8c574",
    "post_id": "529346797199852_1455864766653231",
@@ -11354,6 +11366,17 @@
    "metin": "AKP kulislerinde, eski bakan Fatma Betül Sayan Kaya'nın tutuklanmasının ardından “Prestij kaybettik” değerlendirmesi yapılıyor.\n\n— Partililere göre fon soruşturması muhafazakâr seçmeni partiden uzaklaştırdı ve ciddi bir oy kaybı kaygısı yarattı.\n— Erdoğan'ın konuda “çok sert” bir tutum içinde olduğu, soruşturmanın parti içindeki isimlere uzanması durumunda da aynı tavrın süreceği aktarılıyor.\n— Partililer “Bizden de olsa hiçbir isme acımayacağız” mesajı verirken, yeni isimlerin de gündeme gelebileceği belirtiliyor.",
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akp-de-fon-sorusturmasinin-siyasi-maliyetine-iliskin-kaygi-prestij-kaybettik-2554020"
+   ]
+  },
+  {
+   "id": "09955f9085",
+   "post_id": "529346797199852_1460049109568130",
+   "title": "Yüzde 44'ünün güvencesi yok, yüzde 71'i yoksul: Sahne arkasında güvencesizlik kıskacı",
+   "at": "2026-11-07T02:04:24.833201+00:00",
+   "yazim": "claude",
+   "metin": "Kadıköy'de bir araya gelen müzik ve sahne emekçileri, sigortasız ve güvencesiz çalışma koşullarına tepki gösterdi.\n\n— MÜZİK-SEN Genel Başkanı Fatih Özakoğlu, sektördeki kayıt dışılığın önlenmesi için özel bir \"Sanat Meslek Yasası\" çıkarılmasını istedi.\n\n— Özakoğlu, “Güvenceli çalışmak en doğal hakkımız.” dedi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/yuzde-44-unun-guvencesi-yok-yuzde-71-i-yoksul-sahne-arkasinda-guvencesizlik-kiskaci-745023"
    ]
   }
  ],
