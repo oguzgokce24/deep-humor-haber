@@ -11074,23 +11074,80 @@
     "üyele"
    ],
    "at": "2026-11-07T12:50:54.286777+00:00"
+  },
+  {
+   "fp": [
+    "aldığ",
+    "bursa",
+    "hayat",
+    "kadın",
+    "komşu",
+    "manta",
+    "yiyen",
+    "öldü"
+   ],
+   "tok": [
+    "adli",
+    "ailes",
+    "aldı",
+    "aldığ",
+    "ambul",
+    "aradı",
+    "bayko",
+    "başla",
+    "belir",
+    "bulan",
+    "bursa",
+    "can",
+    "devle",
+    "dikka",
+    "dokto",
+    "feci",
+    "ferih",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "incel",
+    "inegö",
+    "kadın",
+    "kaldı",
+    "kesin",
+    "komşu",
+    "kopar",
+    "kurta",
+    "kurum",
+    "kusma",
+    "mahal",
+    "manta",
+    "mevsi",
+    "mide",
+    "müdah",
+    "nde",
+    "neden",
+    "nun",
+    "nın",
+    "olaca",
+    "olay",
+    "olayl",
+    "pişir",
+    "rapor",
+    "rağme",
+    "sabit",
+    "tam",
+    "tıp",
+    "yaşam",
+    "yaşan",
+    "yaşın",
+    "yitir",
+    "yiyen",
+    "zehir",
+    "ölüm",
+    "şikay"
+   ],
+   "at": "2026-11-07T13:03:29.834208+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7691e1a8f9",
-   "post_id": "529346797199852_1456799153226459",
-   "title": "Hatay’da TIR ile otomobil çarpıştı: 4 kişi araçta sıkıştı",
-   "at": "2026-11-03T21:46:11.873623+00:00",
-   "yazim": "claude",
-   "metin": "Hatay'da TIR ile çarpışan otomobilde 4 kişi araç içinde sıkıştı.\n\n— İtfaiye ekipleri 4 yaralıyı araçtan çıkardı.\n— Yaralılar ambulanslarla hastanelere kaldırıldı.\n— TIR şoförü ifadesi alınmak üzere jandarmaya götürüldü. Kazayla ilgili soruşturma başlatıldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/hatay/hassa/tir-ile-carpisan-otomobil-demir-yigini-haline-donustu-4-yarali-3488639",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/hatay/hatayda-tirla-carpisan-otomobildeki-4-kisi-yaralandi-3488632",
-    "Sözcü: https://www.sozcu.com.tr/hatay-da-tir-ile-otomobil-carpisti-4-kisi-aracta-sikisti-p375772",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/bursada-tir-ile-zeytin-yuklu-traktor-carpisti-iki-kisi-yaralandi-4869549"
-   ]
-  },
   {
    "id": "42f9e136c0",
    "post_id": "529346797199852_1456814189891622",
@@ -13723,6 +13780,22 @@
     "BirGün: https://www.birgun.net/haber/erbakan-partisinin-asgari-ucret-ve-emekli-maasi-talebini-acikladi-745123",
     "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119047058233737668"
    ]
+  },
+  {
+   "id": "767e572f02",
+   "post_id": "529346797199852_1460545869518454",
+   "title": "Komşusundan aldığı mantarı yiyen kadın hayatını kaybetti",
+   "at": "2026-11-07T13:03:29.834208+00:00",
+   "yazim": "claude",
+   "metin": "Bursa'nın İnegöl ilçesinde komşusundan aldığı mantarı pişirip yiyen 54 yaşındaki bir kadın hayatını kaybetti.\n\n— Olay Baykoca Mahallesi'nde yaşandı. Kadında mide bulantısı ve kusma başlayınca ailesi 112'yi aradı.\n\n— Ambulansla İnegöl Devlet Hastanesi'ne kaldırılan kadın, doktorların tüm müdahalesine rağmen kurtarılamadı.\n\n— Kesin ölüm nedeni Adli Tıp Kurumu raporuyla belli olacak. Polis olayla ilgili inceleme başlattı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/bursada-mantardan-zehirlenen-kadin-hayatini-kaybetti-962539.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/bursada-feci-olum-komsusundan-aldigi-mantari-yiyen-kadin-oldu-43369499",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/bursa/inegol/komsusundan-aldigi-mantari-yiyen-kadin-oldu-3490225",
+    "NTV: https://www.ntv.com.tr/turkiye/bursada-mantar-can-aldi-1749822",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-mantar-dehseti-dikkat-tam-mevsimi-komsusundan-aldigi-mantar-hayattan-kopardi-3925618",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/komsusundan-aldigi-mantari-yiyen-kadin-oldu-2554155"
+   ]
   }
  ],
  "fails": {
@@ -13901,7 +13974,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119047058233737668",
+   "since_id": "2119051134274781309",
    "started": true
   }
  }
