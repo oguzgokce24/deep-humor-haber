@@ -10769,23 +10769,79 @@
     "çorum"
    ],
    "at": "2026-11-07T11:46:51.452049+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "anne",
+    "balık",
+    "duvar",
+    "kamyo",
+    "kızı",
+    "otomo",
+    "sıkış",
+    "yaşın",
+    "çarpı",
+    "öldü"
+   ],
+   "tok": [
+    "acı",
+    "alınd",
+    "anne",
+    "arası",
+    "arkad",
+    "bahçe",
+    "balık",
+    "başla",
+    "belir",
+    "büyük",
+    "cenaz",
+    "devle",
+    "duvar",
+    "dönme",
+    "dönüş",
+    "edrem",
+    "ekipl",
+    "fabri",
+    "gelen",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "istey",
+    "kaldı",
+    "kamyo",
+    "kara",
+    "kazay",
+    "kenar",
+    "kendi",
+    "kızı",
+    "kızın",
+    "morgu",
+    "olay",
+    "otomo",
+    "saat",
+    "sağlı",
+    "sola",
+    "sürüc",
+    "sıkış",
+    "sıral",
+    "yapma",
+    "yaşam",
+    "yaşın",
+    "yenic",
+    "yerin",
+    "yitir",
+    "yol",
+    "yolun",
+    "çarpa",
+    "çarpt",
+    "çarpı",
+    "öldüğ"
+   ],
+   "at": "2026-11-07T11:59:22.273513+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "12bc7f63e6",
-   "post_id": "529346797199852_1456765053229869",
-   "title": "Aleksey Batrakov'dan Galatasaray taraftarına büyük övgü!",
-   "at": "2026-11-03T20:49:03.482348+00:00",
-   "yazim": "claude",
-   "metin": "Aleksey Batrakov:\n\n“Bu taraftar inanılmaz! Ben de onları seviyorum.”\n\n— Galatasaray'ın Rus futbolcusu Stuttgart maçında iki gol attı.\n— Bu sezon Şampiyonlar Ligi'nde 4 golü var.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/galatasaray-stuttgart-maci-sonrasi-aleksey-batrakov-dan-taraftarlara-buyuk-ovgu-3924731",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/aleksey-batrakov-dan-galatasaray-taraftarina-buyuk-ovgu-2553056",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/aleksey-batrakov-galatasaray-tarihine-gecti-2553032",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/galatasarayda-aleksey-batrakov-tarihe-gecti-sampiyonlar-liginde-rekorlari-altust-etti-43365085"
-   ]
-  },
   {
    "id": "a1568f1103",
    "post_id": "529346797199852_1456775663228808",
@@ -13414,6 +13470,21 @@
     "Karar: https://www.karar.com/spor-haberleri/fenerbahcenin-corum-fk-maci-kamp-kadrosu-belli-oldu-2082845",
     "Sözcü Spor: https://www.sozcu.com.tr/fenerbahce-nin-corum-fk-kadrosu-belli-oldu-3-eksik-p376926"
    ]
+  },
+  {
+   "id": "28a7840fb4",
+   "post_id": "529346797199852_1460483866191321",
+   "title": "Balıkesir'de kazada anne ve 10 yaşındaki kızı yaşamını yitirdi",
+   "at": "2026-11-07T11:59:22.273513+00:00",
+   "yazim": "claude",
+   "metin": "Balıkesir'in Edremit ilçesinde kamyonun arkadan çarptığı otomobildeki 34 yaşındaki anne ile 10 yaşındaki kızı hayatını kaybetti.\n\n— Kaza saat 11.00 sıralarında Edremit-Yenice kara yolunda oldu. Sola dönmek isteyen otomobile arkadan çarpan kamyon, aracı yol kenarındaki bir fabrikanın bahçe duvarıyla kendisi arasında sıkıştırdı.\n\n— Sağlık ekipleri olay yerinde anne ile kızının öldüğünü belirledi. Cenazeler Edremit Devlet Hastanesi morguna kaldırıldı.\n\n— Kamyonun sürücüsü gözaltına alındı ve kazayla ilgili soruşturma başlatıldı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/balikesirde-kamyonun-carptigi-otomobildeki-anne-ve-kizi-hayatini-kaybetti-962530.html",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/balikesir/edremit/kamyonun-carpip-duvara-sikistirdigi-otomobildeki-anne-ile-kizi-oldu-3490220",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-buyuk-aci-anne-ve-10-yasindaki-kizi-oldu-balikesir-haberleri-3925623",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/kamyonun-carpip-duvara-sikistirdigi-otomobildeki-anne-ile-kizi-oldu-4870535",
+    "Evrensel: https://www.evrensel.net/haber/6008423/balikesirde-kazada-anne-ve-10-yasindaki-kizi-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13592,7 +13663,7 @@
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119030668357198272",
+   "since_id": "2119036092146147623",
    "started": true
   }
  }
