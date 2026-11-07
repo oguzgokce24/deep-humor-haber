@@ -9452,22 +9452,89 @@
     "üyeli"
    ],
    "at": "2026-11-07T05:43:28.498120+00:00"
+  },
+  {
+   "fp": [
+    "eklen",
+    "geliy",
+    "okul",
+    "ruhsa",
+    "saldı",
+    "silah",
+    "önlem",
+    "şart"
+   ],
+   "tok": [
+    "ailel",
+    "alaca",
+    "amacı",
+    "amaçl",
+    "arası",
+    "ateşl",
+    "aylık",
+    "başmü",
+    "bulun",
+    "bıçak",
+    "denet",
+    "değiş",
+    "doğru",
+    "ekip",
+    "eklen",
+    "engel",
+    "erişi",
+    "evler",
+    "eğiti",
+    "gelec",
+    "geliy",
+    "genel",
+    "getir",
+    "güven",
+    "hedef",
+    "ileti",
+    "imzal",
+    "incel",
+    "içişl",
+    "kahra",
+    "kanun",
+    "kasa",
+    "kişil",
+    "milli",
+    "muhaf",
+    "musta",
+    "okul",
+    "okull",
+    "olayl",
+    "oluşa",
+    "proto",
+    "ruhsa",
+    "sakla",
+    "silah",
+    "sürec",
+    "sürüy",
+    "taki",
+    "tamam",
+    "tedbi",
+    "ulaşm",
+    "valil",
+    "yapıl",
+    "yerde",
+    "yerin",
+    "yönet",
+    "zorun",
+    "çalış",
+    "çelik",
+    "çiftç",
+    "çocuk",
+    "önlem",
+    "öğren",
+    "şanlı",
+    "şart",
+    "şartl"
+   ],
+   "at": "2026-11-07T05:55:47.327696+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7224b48313",
-   "post_id": "529346797199852_1456253929947648",
-   "title": "Kaleciyle çarpmış ve kalbi durmuştu: İspanyol futbolcu Jesús de Miguel hayatını kaybetti",
-   "at": "2026-11-03T09:28:18.048204+00:00",
-   "yazim": "claude",
-   "metin": "30 yaşındaki futbolcu Jesús de Miguel hayatını kaybetti.\n\n— Tenerife'nin santrfor oyuncusu, Andorra maçının uzatma dakikalarında rakip kalecisiyle sert çarpıştı ve yerde kaldı.\n— Ambulansta kalbi yeniden çalıştırıldı. Hastanedeki tüm müdahalelere rağmen 3 Kasım'da hayatını kaybetti.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/ispanya-dan-aci-haber-kaleciyle-carpisan-futbolcu-jesus-de-miguel-hayatini-kaybetti-3924544",
-    "Medyascope: https://medyascope.tv/2026/11/03/ispanyol-futbolcu-jesus-de-miguel-hayatini-kaybetti/",
-    "Karar: https://www.karar.com/dunya-haberleri/ispanyol-futbolcu-jesus-de-miguel-yasamini-yitirdi-2082113"
-   ]
-  },
   {
    "id": "1604e3508b",
    "post_id": "529346797199852_1456263666613341",
@@ -12107,6 +12174,17 @@
    "sources": [
     "Serbestiyet: https://serbestiyet.com/gunun-yazilari/israil-siyasetinde-arap-temsili-26-donem-2026-israil-meclisinde-arap-kokenli-vekiller-253037/"
    ]
+  },
+  {
+   "id": "cf8252dfdb",
+   "post_id": "529346797199852_1460207609552280",
+   "title": "Okul saldırılarına yeni önlemler eklenecek: Silah ruhsatına yeni şart geliyor",
+   "at": "2026-11-07T05:55:47.327696+00:00",
+   "yazim": "claude",
+   "metin": "İçişleri Bakanı Mustafa Çiftçi, okullardaki yeni güvenlik önlemlerini açıkladı ve silah ruhsatlarına yeni şartlar geleceğini söyledi.\n\n— Şanlıurfa ve Kahramanmaraş'taki olaylardan sonra İçişleri ve Milli Eğitim bakanlıkları 4 aylık bir çalışma yaptı. 7 bakanlık arasında imzalanan protokolle denetimler sürüyor.\n\n— Okul güvenliği genelgesi valiliklere iletildi. 611 başmüfettişten oluşan ekip okullardaki güvenlik açıklarını yerinde inceliyor.\n\n— Hedef, öğrencilerin ailelerinin ruhsatlı silahlarına ulaşmasını engellemek. Bu amaçla Ateşli Silahlar ve Bıçaklar Hakkında Kanun'un yönetmeliklerinde değişiklik yapılacak.\n\n— Silah ruhsatı alacak kişilere çelik kasa bulundurma zorunluluğu getirilecek. Evlerde yapılacak denetimde silahın güvenli bir yerde saklandığı doğrulanınca ruhsat süreci tamamlanacak.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/okul-saldirilarina-yeni-onlemler-eklenecek-silah-ruhsatina-yeni-sart-2082790"
+   ]
   }
  ],
  "fails": {
@@ -12230,7 +12308,8 @@
   "7cfdc07e45": 1,
   "0dbc29f889": 1,
   "0d97eb89a2": 1,
-  "5921dae651": 1
+  "5921dae651": 1,
+  "7335d9a822": 1
  },
  "fail_log": [
   "2026-11-06T21:03 Fenerbahçe’den otobüs saldırısı açıklaması! ‘Hesap verecekle -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -12277,7 +12356,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2118940145223106903",
+   "since_id": "2118942477079986664",
    "started": true
   },
   "ajansmuhbir1923": {
