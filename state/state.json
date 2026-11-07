@@ -11169,25 +11169,80 @@
     "öğle"
    ],
    "at": "2026-11-07T14:04:56.200253+00:00"
+  },
+  {
+   "fp": [
+    "dönem",
+    "erdi",
+    "gazia",
+    "orhan",
+    "sona"
+   ],
+   "tok": [
+    "alama",
+    "allia",
+    "almış",
+    "alına",
+    "alınd",
+    "anlaş",
+    "ayrıl",
+    "ayırd",
+    "banka",
+    "berab",
+    "bitti",
+    "bulun",
+    "büyük",
+    "cuma",
+    "devle",
+    "direk",
+    "duyur",
+    "dönem",
+    "emeği",
+    "erdi",
+    "eski",
+    "galib",
+    "gazia",
+    "gerçe",
+    "görev",
+    "gözte",
+    "günü",
+    "hafta",
+    "hapsi",
+    "herha",
+    "kalan",
+    "karşı",
+    "kasım",
+    "krizi",
+    "kulüp",
+    "kırmı",
+    "lig",
+    "ligde",
+    "maçta",
+    "maçtı",
+    "mağlu",
+    "neden",
+    "olmad",
+    "orhan",
+    "parag",
+    "pedro",
+    "puand",
+    "santi",
+    "siyah",
+    "sona",
+    "süper",
+    "sırad",
+    "takım",
+    "talep",
+    "tekni",
+    "teşek",
+    "yener",
+    "yenil",
+    "yolla"
+   ],
+   "at": "2026-11-07T14:17:37.608861+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9812be55d7",
-   "post_id": "529346797199852_1457166399856401",
-   "title": "Anadolu Efes, EuroLeague’de Paris Basketbol’u ağırlayacak",
-   "at": "2026-11-04T07:26:33.009405+00:00",
-   "yazim": "claude",
-   "metin": "Anadolu Efes, EuroLeague'de yarın Paris Basketbol'u ağırlayacak.\n\nMaç, EuroLeague'in 10. haftasında Turkcell Basketbol Gelişim Merkezi'nde saat 20.15'te başlayacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/anadolu-efes-avrupa-liginde-yarin-paris-basketbolu-agirlayacak/4111022",
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-celticin-konugu-olacak/4110967",
-    "TRT Haber: https://www.trthaber.com/haber/spor/fenerbahce-sampiyonlar-liginde-liverpoolu-agirliyor-962167.html",
-    "Habertürk: https://www.haberturk.com/bilgi/foto/bugunku-maclar-4-kasim-2026-fenerbahce-310-avrupa-macina-cikiyor-uefa-sampiyonlar-ligi-nde-bugun-kimin-maci-var-hangi-mac-saat-kacta-ve-hangi-kanalda-3924772",
-    "BirGün: https://www.birgun.net/haber/anadolu-efes-euroleaguede-paris-basketbolu-agirlayacak-744441",
-    "BirGün: https://www.birgun.net/haber/besiktas-avrupa-liginde-celtic-deplasmanina-cikiyor-744431"
-   ]
-  },
   {
    "id": "3b661d40a3",
    "post_id": "529346797199852_1457174436522264",
@@ -13826,6 +13881,20 @@
     "Sözcü: https://www.sozcu.com.tr/zeytinburnunda-yol-verme-tartismasinda-aracin-camini-yumrukladi-p376930",
     "Karar: https://www.karar.com/sehir-haberleri/zeytinburnunda-trafikte-dehset-anlari-araci-yumruklayan-surucuye-180-2082879"
    ]
+  },
+  {
+   "id": "f22787f88d",
+   "post_id": "529346797199852_1460613242845050",
+   "title": "Paraguay'da Peña dönemi sona erdi: Pedro Alliana devlet başkanı oldu",
+   "at": "2026-11-07T14:17:37.608861+00:00",
+   "yazim": "claude",
+   "metin": "Gaziantep FK, teknik direktör Orhan Ak ile yollarını karşılıklı anlaşarak ayırdı.\n\n— Süper Lig'de 7 maçtır galibiyet alamayan kırmızı-siyahlılar, son olarak Kasımpaşa'ya 2-0 yenildi.\n— Kulüp, ayrılığın herhangi bir talep olmadan karşılıklı olarak gerçekleştiğini duyurdu ve Orhan Ak'a emeği için teşekkür etti.\n— Gaziantep, ligde son galibiyetini 4. haftada Göztepe'yi 4-2 yenerek almıştı.\n— 11 maçta 2 galibiyet, 2 beraberlik ve 7 mağlubiyetle 8 puanda kalan takım 16. sırada bulunuyor.",
+   "sources": [
+    "Euronews: https://tr.euronews.com/2026/11/07/paraguayda-pena-donemi-sona-erdi-pedro-alliana-devlet-baskani-oldu",
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/gaziantep-fkda-orhan-ak-donemi-sona-erdi-3490237",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/gaziantep-fk-de-orhan-ak-donemi-sona-erdi-2554167",
+    "Sözcü Spor: https://www.sozcu.com.tr/gaziantep-fk-da-orhan-ak-donemi-bitti-p376951"
+   ]
   }
  ],
  "fails": {
@@ -13952,7 +14021,8 @@
   "5921dae651": 1,
   "7335d9a822": 1,
   "b0ce1004e3": 1,
-  "a6ebfa416e": 1
+  "a6ebfa416e": 1,
+  "d567b7d1cd": 1
  },
  "fail_log": [
   "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13999,12 +14069,12 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119063988663427201",
+   "since_id": "2119069086445425061",
    "started": true
   },
   "ajansmuhbir1923": {
    "id": "2017473596227010561",
-   "since_id": "2119067755563335795",
+   "since_id": "2119071544588869856",
    "started": true
   }
  }
