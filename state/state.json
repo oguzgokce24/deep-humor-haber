@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "2",
-    "hafız",
-    "kapat",
-    "mürek",
-    "paran",
-    "yıllı"
-   ],
-   "tok": [
-    "başlı",
-    "başvu",
-    "burad",
-    "burs",
-    "bırak",
-    "devle",
-    "eğiti",
-    "gençl",
-    "girda",
-    "günde",
-    "gürül",
-    "güçlü",
-    "hafta",
-    "hafız",
-    "hak",
-    "ilgil",
-    "imkân",
-    "içilm",
-    "kapat",
-    "karma",
-    "kazan",
-    "kendi",
-    "kez",
-    "kredi",
-    "kudre",
-    "kuşan",
-    "kyk",
-    "mürek",
-    "onay",
-    "paran",
-    "soluk",
-    "sonuç",
-    "spor",
-    "sözcü",
-    "sürec",
-    "sıyrı",
-    "taahh",
-    "yapan",
-    "yenid",
-    "yıl",
-    "yıllı",
-    "yılı",
-    "öğren",
-    "öğret",
-    "üzeri",
-    "şerbe",
-    "şiiri"
-   ],
-   "at": "2026-11-06T23:41:06.152854+00:00"
-  },
-  {
-   "fp": [
     "dokun",
     "dosya",
     "gövde",
@@ -11029,23 +10968,51 @@
     "şampi"
    ],
    "at": "2026-11-08T11:34:58.389001+00:00"
+  },
+  {
+   "fp": [
+    "evind",
+    "kenev",
+    "tutuk",
+    "yetiş"
+   ],
+   "tok": [
+    "adliy",
+    "alınd",
+    "apara",
+    "arama",
+    "balço",
+    "bitki",
+    "düzen",
+    "dışı",
+    "edild",
+    "ekipl",
+    "evde",
+    "evind",
+    "gram",
+    "iklim",
+    "ilçes",
+    "izmir",
+    "kenev",
+    "kilo",
+    "kök",
+    "sevk",
+    "skunk",
+    "tespi",
+    "uyuşt",
+    "yasa",
+    "yetiş",
+    "yönte",
+    "yürüt",
+    "çalış",
+    "önlem",
+    "öğütm",
+    "üreti"
+   ],
+   "at": "2026-11-08T11:46:56.075523+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "99f1e7b24f",
-   "post_id": "529346797199852_1459454469627594",
-   "title": "Diyarbakır'da sağanak etkisi: Yollar göle döndü, alt geçitleri su bastı",
-   "at": "2026-11-06T13:02:17.414191+00:00",
-   "yazim": "claude",
-   "metin": "Diyarbakır'da öğle saatlerinde etkisini artıran sağanak, cadde ve sokakları göle çevirdi.\n\nBazı alt geçitleri, otoparkları ve zemin kattaki iş yerlerini su bastı. Sürücüler araçlarıyla ilerlemekte zorlandı, bazı noktalarda kazalar oldu.\n\nMeteoroloji'nin kuvvetli yağış uyarısının ardından yağış etkisini artırdı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/diyarbakirda-saganak-yollar-gole-dondu-alt-gecitleri-su-basti-3489942",
-    "Sözcü: https://www.sozcu.com.tr/diyarbakirda-saganak-alt-gecitleri-ve-is-yerlerini-su-basti-p376719",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-saganak-yollar-gole-dondu-alt-gecitleri-su-basti-2553916",
-    "BirGün: https://www.birgun.net/haber/diyarbakir-da-saganak-etkisi-yollar-gole-dondu-alt-gecitleri-su-basti-744985"
-   ]
-  },
   {
    "id": "b1b5c2fb5a",
    "post_id": "529346797199852_1459543452952029",
@@ -13557,6 +13524,18 @@
     "BirGün: https://www.birgun.net/haber/enner-valencianin-90-6daki-golu-boca-juniorsa-sampiyonlugu-getirdi-745274",
     "Sözcü Spor: https://www.sozcu.com.tr/fenerbahcenin-eski-yildizindan-tarihi-gol-906da-sampiyonluk-geldi-p377080"
    ]
+  },
+  {
+   "id": "b35bf7f8f2",
+   "post_id": "529346797199852_1461646932741681",
+   "title": "Evinde 'iklimlendirme' yöntemiyle kenevir yetiştirdi: Tutuklandı",
+   "at": "2026-11-08T11:46:56.075523+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'in Balçova ilçesinde evinde iklimlendirme yöntemiyle kenevir yetiştiren bir şüpheli tutuklandı.\n\nJandarma ekipleri, uyuşturucu üretimini önlemek için yürüttüğü çalışmada bu yetiştiriciliği tespit etti.\n\n— Evde yapılan aramada 1 kilo 219 gram skunk, 4 kök skunk bitkisi ve bir uyuşturucu öğütme aparatı ele geçirildi.\n— Şüpheli gözaltına alındı, adliyeye sevk edildikten sonra tutuklandı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmirde-evinde-kenevir-yetistiren-supheli-tutuklandi-3490555",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/evinde-iklimlendirme-yontemiyle-kenevir-yetistirdi-tutuklandi-2554385"
+   ]
   }
  ],
  "fails": {
@@ -13749,7 +13728,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119392385755148310",
+   "since_id": "2119395345960735153",
    "started": true
   },
   "ajansmuhbir1923": {
