@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "100",
-    "alıcı",
-    "azalm",
-    "başla",
-    "berek",
-    "hasat",
-    "kilos",
-    "manis",
-    "yine",
-    "çıktı"
-   ],
-   "tok": [
-    "alıcı",
-    "arası",
-    "ayva",
-    "ayval",
-    "ayvas",
-    "azalm",
-    "başla",
-    "bekli",
-    "berek",
-    "edili",
-    "etkil",
-    "fiyat",
-    "görde",
-    "göste",
-    "hasad",
-    "hasat",
-    "hazır",
-    "hoş",
-    "ilgi",
-    "kalit",
-    "kilos",
-    "kokul",
-    "kompo",
-    "kışlı",
-    "manis",
-    "memnu",
-    "meşhu",
-    "olduk",
-    "olums",
-    "pazar",
-    "renkl",
-    "reçel",
-    "sarı",
-    "satıl",
-    "satış",
-    "sezon",
-    "söylü",
-    "taleb",
-    "tarla",
-    "tatlı",
-    "terci",
-    "tezga",
-    "topla",
-    "yapan",
-    "yapım",
-    "yine",
-    "yoğun",
-    "çıkma",
-    "çıktı",
-    "üreti",
-    "ürünü"
-   ],
-   "at": "2026-11-06T22:45:24.588442+00:00"
-  },
-  {
-   "fp": [
     "aktiv",
     "ağır",
     "baskı",
@@ -11000,21 +10932,80 @@
     "şişli"
    ],
    "at": "2026-11-08T10:44:48.527953+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "6",
+    "bulun",
+    "cesed",
+    "evind",
+    "krako",
+    "polon",
+    "saldı",
+    "silah"
+   ],
+   "tok": [
+    "aile",
+    "ailes",
+    "ana",
+    "annes",
+    "arası",
+    "ateş",
+    "açtı",
+    "aşırı",
+    "babas",
+    "bilin",
+    "bulay",
+    "bulun",
+    "cesed",
+    "dair",
+    "duydu",
+    "düzen",
+    "ediyo",
+    "evind",
+    "girip",
+    "günlü",
+    "ideol",
+    "ilan",
+    "ilgi",
+    "içişl",
+    "işare",
+    "kana",
+    "kanlı",
+    "karde",
+    "kenti",
+    "kierw",
+    "krako",
+    "kız",
+    "marci",
+    "memur",
+    "meyda",
+    "nın",
+    "ostro",
+    "otomo",
+    "polon",
+    "rastg",
+    "sağ",
+    "silah",
+    "swiet",
+    "ulusa",
+    "var",
+    "vatan",
+    "vurul",
+    "yas",
+    "yasta",
+    "yaşın",
+    "çıktı",
+    "öldür",
+    "ülked",
+    "üyesi",
+    "şey"
+   ],
+   "at": "2026-11-08T10:57:23.063008+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "96dcc6c0c0",
-   "post_id": "529346797199852_1459269686312739",
-   "title": "AYM'den paylı mülkiyette önalım hakkı kararı: Rayiç bedel düzenlemesi iptal edildi",
-   "at": "2026-11-06T09:20:46.268561+00:00",
-   "yazim": "claude",
-   "metin": "Anayasa Mahkemesi, paylı mülkiyette önalım hakkında taşınmaz payının rayiç bedelini hâkimin belirlemesini öngören düzenlemeyi iptal etti.\n\n— Mahkeme bu kuralı Anayasa'ya aykırı buldu.\n— Kararın yürürlüğe girmesi için 9 ay var.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/aym-payli-mulkiyette-onalim-hakkindaki-rayic-bedel-kuralini-iptal-etti/4113741",
-    "BirGün: https://www.birgun.net/haber/aym-den-payli-mulkiyette-onalim-hakki-karari-rayic-bedel-duzenlemesi-iptal-edildi-744932"
-   ]
-  },
   {
    "id": "c24c617368",
    "post_id": "529346797199852_1459279819645059",
@@ -13523,6 +13514,21 @@
     "Karar: https://www.karar.com/guncel-haberler/sisli-meslek-yuksekokuluna-kayyum-sonrasi-yokten-aciklama-tedbirler-2082972",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/yok-acikladi-sisli-meslek-yuksekokuluna-kayyum-atandi-7696701"
    ]
+  },
+  {
+   "id": "738e0f51eb",
+   "post_id": "529346797199852_1461605119412529",
+   "title": "Krakow'da 6 kişinin hayatını kaybettiği silahlı saldırıya dair bilinenler",
+   "at": "2026-11-08T10:57:23.063008+00:00",
+   "yazim": "claude",
+   "metin": "Polonya'nın Krakow kentinin ana meydanında silahlı saldırıda altı kişi öldü, en az 16 kişi yaralandı.\n\n— Saldırgan, 24 yaşında bir Polonya vatandaşı. Aracıyla meydana girip rastgele ateş açtı ve polis tarafından vuruldu.\n— Saldırganın Ostrowiec Swietokrzyski kentindeki aile evinde de babası, annesi ve kız kardeşi ölü bulundu.\n— Polonya'da iki günlük yas ilan edildi. Yaralılar arasında iki polis memuru da var.\n— İçişleri Bakanı Marcin Kierwinski, \"Her şey, saldırganın aşırı sağ ideolojiye ilgi duyduğuna işaret ediyor\" dedi.",
+   "sources": [
+    "BBC Türkçe: https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss",
+    "DW Türkçe: https://www.dw.com/tr/polonya-yasta-saldırganın-evinde-de-üç-ceset-bulundu/a-79889755?maca=tur-rss-tur-all-1495-xml-mrss",
+    "Euronews: https://tr.euronews.com/2026/11/08/krakowda-6-kisinin-hayatini-kaybettigi-silahli-saldiriya-dair-bilinenler",
+    "Karar: https://www.karar.com/dunya-haberleri/polonyada-kanli-saldiri-6-olu-15-yarali-saldirganin-evinde-3-ceset-daha-2082948",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/polonyayi-kana-bulayan-saldirganin-evinden-cesetler-cikti-43370327"
+   ]
   }
  ],
  "fails": {
@@ -13714,7 +13720,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119376486075674891",
+   "since_id": "2119382470135099819",
    "started": true
   },
   "ajansmuhbir1923": {
