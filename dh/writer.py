@@ -89,6 +89,10 @@ ASLA metnin içinde kaynak, teyit ya da doğrulama hakkında yorum yapma: "teyit
 "sosyal medya paylaşımına dayanıyor", "kaynaklara göre", "iddiaya göre bilgi yok" gibi cümleler YASAK.
 Okuyucuya sadece olayı anlat.
 
+YETERSİZ KAYNAK: Kaynakta somut bir olay yoksa (genel liste sayfası, "deprem mi oldu", "son dakika
+gelişmeler" gibi sayfalar) ya da ne/nerede/kim bilgisi yoksa HİÇBİR açıklama yazma; yalnızca tek kelime yaz: ATLA
+Asla okuyucuya ya da bana hitap etme, asla kaynak metni yorumlama.
+
 Yanıtı YALNIZCA şu biçimde ver (JSON KULLANMA):
 KATEGORİ: TÜRKİYE | DÜNYA | EKONOMİ | SPOR
 KİŞİ: (haberin merkezindeki tanınmış kişinin tam adı; yoksa boş bırak)
@@ -191,6 +195,15 @@ def _parse(raw: str) -> dict:
     raise ValueError("yanıt okunamadı")
 
 
+META = re.compile(r"kaynak metin|metni gönder|metin gönder|uydur|görsel metni|istenen biçim|lütfen|"
+                  r"bilgi(ler)? (yok|bulunmuyor|yer almıyor)|yazamam|yazamıyorum|hazırlayacağım|yardımcı olabil|"
+                  r"\bATLA\b|haber metni|ayrıntılarını içeren", re.I)
+
+
+class SkipStory(Exception):
+    """Kaynak yetersiz: bu haber yazılmaz, yedek metin de kullanılmaz."""
+
+
 def _check_text(text: str):
     """Yarım, kesik ya da bozuk metni paylaşmaya izin vermez."""
     t = text.strip()
@@ -202,6 +215,8 @@ def _check_text(text: str):
         raise ValueError("metin çok kısa, bağlam yok")
     if t.endswith(("...", "…")) or re.search(r"\w(\.\.\.|…)\s*$", t):
         raise ValueError("metin yarıda kesilmiş")
+    if META.search(t):
+        raise SkipStory("model metin yazmayı reddetti / kaynak yetersiz")
     if re.search(r"(teyit|doğrula|dogrula)\w*\s+(edilme|edilmiş değil|edilmedi|yapılma|değil)|sosyal medya paylaşımına dayan"
                  r"|bağımsız olarak (teyit|doğrula)|henüz (teyit|doğrula)", t, re.I):
         raise ValueError("metinde kaynak/teyit yorumu var; bu cümleyi tamamen çıkar, sadece olayı anlat")
@@ -266,6 +281,10 @@ def write(cluster, model: str, log=print) -> dict | None:
     for attempt in (1, 2, 3):
         try:
             return _call_claude(src, model, key, feedback)
+        except SkipStory as e:
+            LAST_ERRORS.append(f"{cluster.lead().title[:60]} -> ATLANDI: {e}")
+            log("  Kaynak yetersiz / somut olay yok; haber atlandı.")
+            return None
         except Exception as e:
             feedback = str(e)[:160]
             msg = f"{e.__class__.__name__}: {feedback}"

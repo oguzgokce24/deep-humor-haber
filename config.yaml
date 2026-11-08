@@ -81,6 +81,10 @@ exclude:
   - yemek tarifi
   - tarifi
   - çekiliş sonuçları
+  - deprem mi oldu
+  - son depremler
+  - deprem listesi
+  - nerede deprem oldu
 
 # Köşe yazısı / görüş yazısı adresleri: bağlantısında bunlardan biri geçen içerik hiç alınmaz
 exclude_url:
