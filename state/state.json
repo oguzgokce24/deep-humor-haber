@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "eri",
-    "itfai",
-    "komşu",
-    "malat",
-    "öldür"
-   ],
-   "tok": [
-    "alınd",
-    "apart",
-    "arası",
-    "ateş",
-    "aynı",
-    "babas",
-    "başla",
-    "belir",
-    "bitti",
-    "büyüy",
-    "cinay",
-    "duyan",
-    "ekipl",
-    "erhan",
-    "eri",
-    "erini",
-    "eser",
-    "gayre",
-    "gelen",
-    "girdi",
-    "henüz",
-    "ihbar",
-    "ilgil",
-    "ilçes",
-    "itfai",
-    "kavga",
-    "kaya",
-    "komşu",
-    "koruc",
-    "köy",
-    "mahal",
-    "malat",
-    "ndeki",
-    "neden",
-    "nın",
-    "olay",
-    "olayl",
-    "olmay",
-    "otura",
-    "saatl",
-    "sabah",
-    "sağlı",
-    "sesle",
-    "silah",
-    "taban",
-    "tartı",
-    "vurul",
-    "yanın",
-    "yazıh",
-    "yaşam",
-    "yaşan",
-    "yaşın",
-    "yitir",
-    "çocuk",
-    "öldür"
-   ],
-   "at": "2026-11-07T11:34:14.679872+00:00"
-  },
-  {
-   "fp": [
     "3",
     "eksik",
     "fener",
@@ -11089,20 +11022,64 @@
     "şartı"
    ],
    "at": "2026-11-08T23:31:21.376935+00:00"
+  },
+  {
+   "fp": [
+    "görün",
+    "kedi",
+    "korum",
+    "köpek",
+    "soğuk",
+    "yavru",
+    "çalış",
+    "ısıta"
+   ],
+   "tok": [
+    "akşam",
+    "alara",
+    "anlar",
+    "annel",
+    "bölge",
+    "cep",
+    "eflan",
+    "etkil",
+    "görün",
+    "gündü",
+    "hava",
+    "havad",
+    "ilçes",
+    "kamer",
+    "kar",
+    "karab",
+    "kayde",
+    "kedi",
+    "korum",
+    "köpek",
+    "köpeğ",
+    "köyü",
+    "kızıl",
+    "mahal",
+    "nde",
+    "olay",
+    "oluyo",
+    "saatl",
+    "sahib",
+    "soğuk",
+    "telef",
+    "yanın",
+    "yavru",
+    "yağış",
+    "yaşan",
+    "yürek",
+    "çal",
+    "çalış",
+    "ısıta",
+    "ısıtm"
+   ],
+   "at": "2026-11-08T23:41:52.252354+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "eb487c7a63",
-   "post_id": "529346797199852_1460103326229375",
-   "title": "VOLVAC'ta sendikalaştıkları için işten atılan işçiler 12 gündür nöbette: \"Direnmekten başka çaremiz yok\"",
-   "at": "2026-11-07T03:28:18.001501+00:00",
-   "yazim": "claude",
-   "metin": "VOLVAC Makine'de sendikalaştıkları için işten atılan 35 işçi, Tuzla Kimyacılar OSB'deki fabrika önünde 12 gündür nöbette:\n\n“Direnmekten başka çaremiz yok.”\n\n— Patron yeni işçi bulmaya çalıştı ama bu girişim sonuçsuz kaldı.\n— Üretim bandı durma noktasına geldi.\n— İşçiler, haklarını alana kadar mücadeleyi sürdüreceklerini söylüyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/volvac-ta-sendikalastiklari-icin-isten-atilan-isciler-12-gundur-nobette-direnmekten-baska-caremiz-yok-745036"
-   ]
-  },
   {
    "id": "270ed2b43f",
    "post_id": "529346797199852_1460110576228650",
@@ -13643,6 +13620,19 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/mugla/bodrum/muglada-esnafla-kavga-eden-yabanci-uyruklu-2-kisi-tutuklandi-olay-ani-kamerada-3490743",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mugla-da-portekizli-iki-turist-tutuklandi-2554565",
     "Yeni Şafak: https://www.yenisafak.com/gundem/muglada-17-yasindaki-genci-agir-yaralayan-iki-turist-tutuklandi-4870838"
+   ]
+  },
+  {
+   "id": "b4d1510620",
+   "post_id": "529346797199852_1462206426019065",
+   "title": "İç ısıtan görüntüler... Köpek, kedi yavrularını soğuktan korumaya çalıştı",
+   "at": "2026-11-08T23:41:52.252354+00:00",
+   "yazim": "claude",
+   "metin": "Karabük'ün Eflani ilçesinde bir köpek, soğuk havada kedi yavrularını yanına alarak ısıtmaya çalıştı.\n\n— Köpeğin sahibi o anları cep telefonu kamerasıyla kaydetti.\n— Olay, Çal köyü Kızılgelik Mahallesi'nde akşam saatlerinde yaşandı.\n— Bölgede iki gündür soğuk hava ve kar yağışı etkili oluyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/karabuk/eflani/kopek-kedi-yavrularini-soguktan-korumaya-calisti-3490748",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ic-isitan-goruntuler-kopek-kedi-yavrularini-soguktan-korumaya-calisti-2554564",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/yurekleri-isitan-goruntu-kopek-kedi-yavrularina-annelik-yapti-4870832"
    ]
   }
  ],
