@@ -206,6 +206,8 @@ class SkipStory(Exception):
 
 def _check_text(text: str):
     """Yarım, kesik ya da bozuk metni paylaşmaya izin vermez."""
+    if META.search(text or ""):
+        raise SkipStory("model metin yazmayı reddetti / kaynak yetersiz")
     t = text.strip()
     if not t:
         raise ValueError("metin boş")
@@ -215,8 +217,6 @@ def _check_text(text: str):
         raise ValueError("metin çok kısa, bağlam yok")
     if t.endswith(("...", "…")) or re.search(r"\w(\.\.\.|…)\s*$", t):
         raise ValueError("metin yarıda kesilmiş")
-    if META.search(t):
-        raise SkipStory("model metin yazmayı reddetti / kaynak yetersiz")
     if re.search(r"(teyit|doğrula|dogrula)\w*\s+(edilme|edilmiş değil|edilmedi|yapılma|değil)|sosyal medya paylaşımına dayan"
                  r"|bağımsız olarak (teyit|doğrula)|henüz (teyit|doğrula)", t, re.I):
         raise ValueError("metinde kaynak/teyit yorumu var; bu cümleyi tamamen çıkar, sadece olayı anlat")
