@@ -107,6 +107,20 @@ exclude_url:
   - /yazi/
   - /kose/
 
+# Spor haberlerinde yalnızca bu takımlar / konular paylaşılır (diğer takımların haberleri atlanır)
+spor_onemli:
+  - galatasaray
+  - g.saray
+  - cimbom
+  - fenerbahçe
+  - f.bahçe
+  - beşiktaş
+  - trabzonspor
+  - milli takım
+  - a milli
+  - ay-yıldızlı
+  - montella
+
 # X (Twitter) erken uyarı hesapları — X_BEARER_TOKEN gizli anahtarı gerekir.
 # Bu hesaplardan yalnızca olay/bilgi alınır; metin yeniden yazılır, fotoğrafları kullanılmaz.
 x_accounts:

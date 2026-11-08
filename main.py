@@ -126,6 +126,19 @@ def is_sport(text: str) -> bool:
     return sum(1 for w in SPOR if re.search(r"(?<![a-zçğıöşü])" + re.escape(w), t)) >= 1
 
 
+def sport_story(c) -> bool:
+    """Spor haberi mi: spor bölümünden gelen bağlantı ya da başlıklarda en az 2 spor kelimesi."""
+    if any("/spor" in i.link.lower() for i in c.items):
+        return True
+    t = " " + _tr_low(" ".join(i.title for i in c.items[:4])) + " "
+    return sum(1 for w in SPOR if re.search(r"(?<![a-zçğıöşü])" + re.escape(w), t)) >= 2
+
+
+def important_sport(c, teams) -> bool:
+    t = _tr_low(" ".join(i.title + " " + (i.summary or "")[:300] for i in c.items[:4]))
+    return any(_tr_low(k) in t for k in teams)
+
+
 # Bir haberin YENİ GELİŞMESİNİ gösteren kelime gövdeleri (gözaltı -> tutuklandı -> tahliye gibi)
 GELISME = ["tutuk", "tahli", "serbe", "beraa", "istif", "öldü", "hayat", "yakal", "gözal", "itira", "yanıt",
            "hapis", "cezas", "mahkû", "sevk", "ifade", "görev", "atand", "ihrac", "kabul", "redde", "onayl", "iptal"]
@@ -196,6 +209,8 @@ def find_new(cfg, st):
     for c in sorted(ok, key=score, reverse=True):
         if excluded(c, excl):
             continue
+        if cfg.get("spor_onemli") and sport_story(c) and not important_sport(c, cfg["spor_onemli"]):
+            continue                                 # önemsiz takımların spor haberleri paylaşılmaz
         # Aynı konunun devamı (ör. aynı maçın ikinci haberi) son 3 paylaşımdan biriyle 2+ özel isim paylaşıyorsa atla
         lt = {t for t in vtokens(c.lead().title) if vstrong(t)}
         sport_now = is_sport(c.lead().title)
