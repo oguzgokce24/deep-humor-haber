@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "15",
-    "israi",
-    "yaşın",
-    "öldür"
-   ],
-   "tok": [
-    "alıyo",
-    "asker",
-    "ateş",
-    "ateşt",
-    "ayrın",
-    "açtı",
-    "açtığ",
-    "açıld",
-    "berba",
-    "bilgi",
-    "dahil",
-    "edile",
-    "edilm",
-    "filis",
-    "futbo",
-    "gazze",
-    "güney",
-    "han",
-    "israi",
-    "kaldı",
-    "katil",
-    "kayna",
-    "kente",
-    "kimli",
-    "kişis",
-    "muham",
-    "nidal",
-    "nin",
-    "ordus",
-    "oynar",
-    "sonuc",
-    "yaşın",
-    "yer",
-    "yerin",
-    "yunus",
-    "çadır",
-    "çocuk",
-    "çocuğ",
-    "öldür",
-    "ölen",
-    "şerid"
-   ],
-   "at": "2026-11-06T18:23:15.162850+00:00"
-  },
-  {
-   "fp": [
     "boşal",
     "freni",
     "kamyo",
@@ -10625,23 +10573,55 @@
     "öğren"
    ],
    "at": "2026-11-08T06:22:13.342072+00:00"
+  },
+  {
+   "fp": [
+    "ahmet",
+    "hakan",
+    "ifşal",
+    "yerde",
+    "yükse"
+   ],
+   "tok": [
+    "ahmet",
+    "appea",
+    "baban",
+    "babas",
+    "diken",
+    "durum",
+    "evlad",
+    "filmi",
+    "first",
+    "gazet",
+    "geril",
+    "geçec",
+    "gidec",
+    "göre",
+    "gün",
+    "gırla",
+    "hakan",
+    "ifşal",
+    "linka",
+    "mesel",
+    "olaca",
+    "post",
+    "sattı",
+    "sert",
+    "sertl",
+    "site",
+    "süre",
+    "tanım",
+    "tarif",
+    "the",
+    "yazar",
+    "yerde",
+    "yükse",
+    "önümü"
+   ],
+   "at": "2026-11-08T06:34:53.345903+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "49ecf9bb3d",
-   "post_id": "529346797199852_1458528549720186",
-   "title": "Trabzonspor - Freiburg Maçı Saat Kaçta, Hangi Kanalda? Muhtemel 11'ler",
-   "at": "2026-11-05T14:57:19.447209+00:00",
-   "yazim": "claude",
-   "metin": "Trabzonspor, UEFA Konferans Ligi'nde Freiburg ile karşılaşıyor. Maç 5 Kasım Perşembe günü saat 20.45'te Papara Park'ta oynanacak ve TRT 1'den canlı, şifresiz yayınlanacak.\n\nBordo-mavililer ilk iki maçını kazanıp 6 puana ulaştı. Freiburg'u da yenerse Avrupa'da 3'te 3 yapmayı hedefliyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/trabzonspor-freiburg-maci-saat-kacta-hangi-kanalda-ts-maci-sifresiz-nereden-izlenir-konferans-ligi-trabzonspor-freiburg-3489325",
-    "Habertürk: https://www.haberturk.com/bilgi/foto/trabzonspor-freiburg-maci-canli-i-zle-trabzonspor-freiburg-maci-ne-zaman-saat-kacta-hangi-kanalda-i-ste-ts-freiburg-muhtemel-11-ler-3925181",
-    "BirGün: https://www.birgun.net/haber/trabzonspor-freiburg-maci-saat-kacta-hangi-kanalda-muhtemel-11-ler-744800",
-    "BirGün: https://www.birgun.net/haber/real-sociedad-lyon-maci-saat-kacta-hangi-kanalda-muhtemel-11-ler-744798"
-   ]
-  },
   {
    "id": "17a2bab13a",
    "post_id": "529346797199852_1458548029718238",
@@ -13140,6 +13120,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/26-yil-hapis-cezasiyla-araniyordu-ankara-da-yakalandi-2554327",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/8-yildir-her-yerde-araniyordu-26-yil-hapis-cezasi-bulunan-firari-suc-orgutu-lideri-ankarada-yakalandi-7696564"
    ]
+  },
+  {
+   "id": "88f219337c",
+   "post_id": "529346797199852_1461401052766269",
+   "title": "Ahmet Hakan: Her yerden ifşalar yükselecek gibi",
+   "at": "2026-11-08T06:34:53.345903+00:00",
+   "yazim": "claude",
+   "metin": "Gazeteci Ahmet Hakan:\n\n“Her yerden ifşalar yükselecek gibi. Gözaltılar, tutuklamalar gırla gidecek mesela.”\n\n— Yazara göre önümüzdeki süre sert geçecek ve her gün bir gerilim filmi gibi olacak.\n— Hakan bu sertliği, “evladın babasını sattığı, babanın evladını tanımadığı” bir durum olarak tarif etti.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/ahmet-hakan-her-yerden-ifsalar-yukselecek-gibi/?utm_source=rss&utm_medium=rss&utm_campaign=ahmet-hakan-her-yerden-ifsalar-yukselecek-gibi"
+   ]
   }
  ],
  "fails": {
@@ -13281,7 +13272,8 @@
   "971bcb9696": 1,
   "67c9eaba45": 1,
   "58c62c2cd5": 1,
-  "e030c89eb4": 1
+  "e030c89eb4": 1,
+  "9670da9ebd": 1
  },
  "fail_log": [
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
