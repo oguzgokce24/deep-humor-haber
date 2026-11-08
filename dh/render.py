@@ -318,6 +318,9 @@ def fit_card_text(markup: str, maxw: int, max_h: int = 450, min_size: int = 46) 
         core.append(paras[1])
     rest = "\n".join(paras[len(core):]).split("\n")
     extra = rest[0].strip() if rest and rest[0].strip() else ""
+    # Ek satır tek başına tam bir cümle olmalı: "**Ad Soyad:**" gibi devamı başka satırda olan etiketler alınmaz
+    if not re.search(r"[.!?…][*”\"’')]*$", extra):
+        extra = ""
     base = "\n\n".join(core)
     if extra:
         cand = base + "\n\n" + extra
