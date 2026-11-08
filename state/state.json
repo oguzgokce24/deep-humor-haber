@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altın",
-    "alınd",
-    "aydın",
-    "fabri",
-    "kontr",
-    "mobil",
-    "yangı"
-   ],
-   "tok": [
-    "altın",
-    "alınd",
-    "aydın",
-    "belir",
-    "bölge",
-    "büyüy",
-    "depos",
-    "ediyo",
-    "ekibi",
-    "ekip",
-    "ekipl",
-    "etkis",
-    "fabri",
-    "gönde",
-    "henüz",
-    "ihbar",
-    "ilçes",
-    "itfai",
-    "kontr",
-    "kuşad",
-    "mahal",
-    "mobil",
-    "müdah",
-    "ndeki",
-    "neden",
-    "rüzga",
-    "sayıd",
-    "sağlı",
-    "sevk",
-    "söndü",
-    "sürüy",
-    "yangı",
-    "yayla",
-    "çıkan",
-    "çıktı"
-   ],
-   "at": "2026-11-07T11:09:02.529089+00:00"
-  },
-  {
-   "fp": [
     "boğaz",
     "hürmü",
     "mayın",
@@ -11085,20 +11036,47 @@
     "üçünc"
    ],
    "at": "2026-11-08T23:06:12.305411+00:00"
+  },
+  {
+   "fp": [
+    "büyük",
+    "görül",
+    "samur"
+   ],
+   "tok": [
+    "altın",
+    "anlar",
+    "ardın",
+    "botla",
+    "bulun",
+    "büyük",
+    "cep",
+    "deniz",
+    "görül",
+    "görün",
+    "hayva",
+    "kayde",
+    "kıyıd",
+    "mimar",
+    "nde",
+    "nesli",
+    "sahil",
+    "samur",
+    "sinan",
+    "süre",
+    "tehli",
+    "telef",
+    "tüken",
+    "tırma",
+    "vatan",
+    "yakın",
+    "yüzdü",
+    "çıktı"
+   ],
+   "at": "2026-11-08T23:18:44.668004+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0fe933d977",
-   "post_id": "529346797199852_1460085916231116",
-   "title": "THY'den reklama servet: 9 ayda 6,9 milyar TL",
-   "at": "2026-11-07T03:03:14.828537+00:00",
-   "yazim": "claude",
-   "metin": "Türk Hava Yolları (THY), 2026'nın ocak-eylül döneminde reklam ve tanıtıma 6 milyar 912 milyon TL harcadı.\n\n— THY, personel maaşlarında tasarrufa giderken bu harcamayı yaptı.\n— Aynı dokuz ayda yönetim kurulu üyeleri ile genel müdür ve genel müdür yardımcıları toplam 730 milyon TL değerinde maddi menfaat sağladı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/thy-den-reklama-servet-9-ayda-6-9-milyar-tl-745025"
-   ]
-  },
   {
    "id": "5a097eb0f7",
    "post_id": "529346797199852_1460094509563590",
@@ -13635,6 +13613,19 @@
    "sources": [
     "Habertürk: https://www.haberturk.com/spor/bernd-stock-besiktas-galibiyeti-hak-etti-3925868",
     "Sözcü Spor: https://www.sozcu.com.tr/storck-besiktas-galibiyeti-hak-etti-p379328"
+   ]
+  },
+  {
+   "id": "e54801108b",
+   "post_id": "529346797199852_1462194866020221",
+   "title": "Büyükçekmece'de su samurları görüldü",
+   "at": "2026-11-08T23:18:44.668004+00:00",
+   "yazim": "claude",
+   "metin": "Büyükçekmece sahilinde su samurları denizde bir süre yüzdükten sonra kıyıdaki botların üzerine çıktı.\n\n— Yakındaki iki kişi, hayvanları görünce cep telefonlarıyla o anları kaydetti.\n— Görüntülerde su samurlarının denizde yüzdüğü, ardından botlara tırmandığı görülüyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/buyukcekmece/buyukcekmecede-su-samurlari-goruldu-3490735",
+    "Sözcü: https://www.sozcu.com.tr/buyukcekmece-de-su-samurlari-goruldu-p379319",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/buyukcekmecede-nesli-tukenme-tehlikesi-altindaki-3-su-samuru-goruntulendi-4870824"
    ]
   }
  ],
