@@ -200,7 +200,7 @@ META = re.compile(r"kaynak metin|metni gönder|metin gönder|uydur|görsel metni
                   r"\bATLA\b|haber metni|ayrıntılarını içeren", re.I)
 
 
-class SkipStory(Exception):
+class SkipStory(ValueError):
     """Kaynak yetersiz: bu haber yazılmaz, yedek metin de kullanılmaz."""
 
 
