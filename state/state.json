@@ -2,46 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ingil",
-    "kurul",
-    "saldı",
-    "sky",
-    "tehdi",
-    "yayın"
-   ],
-   "tok": [
-    "aldı",
-    "aldığ",
-    "arala",
-    "ardın",
-    "bazı",
-    "benze",
-    "binal",
-    "bomba",
-    "boşal",
-    "bulun",
-    "durdu",
-    "duyur",
-    "edere",
-    "gelmi",
-    "ingil",
-    "irlan",
-    "kamu",
-    "kendi",
-    "kurul",
-    "medya",
-    "nin",
-    "rte",
-    "sky",
-    "tahli",
-    "tehdi",
-    "yayın",
-    "yönel"
-   ],
-   "at": "2026-11-06T14:56:18.231079+00:00"
-  },
-  {
-   "fp": [
     "arkad",
     "entüb",
     "hayat"
@@ -10541,23 +10501,52 @@
     "ınsta"
    ],
    "at": "2026-11-08T02:55:15.605818+00:00"
+  },
+  {
+   "fp": [
+    "cezae",
+    "karan",
+    "sayı",
+    "tablo",
+    "yükse",
+    "çocuk"
+   ],
+   "tok": [
+    "artıy",
+    "ayınd",
+    "ağırl",
+    "bakıl",
+    "bin",
+    "bine",
+    "cezae",
+    "dönem",
+    "ekono",
+    "etkil",
+    "hüküm",
+    "ise",
+    "karan",
+    "kasım",
+    "krizi",
+    "mart",
+    "ortay",
+    "sayı",
+    "sayıs",
+    "sonun",
+    "tablo",
+    "ulaşt",
+    "yükse",
+    "yıl",
+    "çocuk",
+    "çıkac",
+    "çıkma",
+    "çıktı",
+    "öngör",
+    "üzeri"
+   ],
+   "at": "2026-11-08T03:07:56.933134+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d167b180e6",
-   "post_id": "529346797199852_1458260113080363",
-   "title": "Benzin fiyatları düşüyor: Motorine de indirim yolda",
-   "at": "2026-11-05T09:17:26.926624+00:00",
-   "yazim": "claude",
-   "metin": "Benzinde 6,08 TL indirim bekleniyor.\n\n— Petrol fiyatları son bir ayın en düşük seviyesine geriledi.\n— İndirim 6 Kasım'dan itibaren geçerli olursa İstanbul, Ankara ve İzmir'de benzin litresi 75 TL seviyelerine yaklaşacak.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/ekonomi/5-kasim-2026-akaryakit-fiyatlari-benzin-motorin-ve-lpgye-indirim-geliyor-mu-akaryakit-fiyatlarinda-son-durum-3489243",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/benzine-mazota-ne-kadar-zam-gelecek-5-ekim-akaryakit-fiyatlari-ne-kadar-guncel-yakit-fiyatlari-kac-tl-2553480",
-    "BirGün: https://www.birgun.net/haber/5-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-744703",
-    "BirGün: https://www.birgun.net/haber/benzin-fiyatlari-dusuyor-motorine-de-indirim-yolda-744682"
-   ]
-  },
   {
    "id": "03cdb33eef",
    "post_id": "529346797199852_1458270546412653",
@@ -13096,6 +13085,17 @@
    "metin": "Chicago Üniversitesi araştırmacısı Kate Gorodovich:\n\n“Tradwife'lar, ev hanımlığı topluluğu ormanındaki tek bir ağaçtan ibaret.”\n\n— Gorodovich'e göre medya ve akademi bu tek ağaca takılıp kalıp ormanın tamamını gözden kaçırdı.\n— Instagram'da #homemaker etiketi Mart 2026'da 938 bin gönderiye ulaşırken #tradwife etiketi 122 bin gönderide kalmıştı.\n— Eylül 2026'da bu sayılar sırasıyla 958 bin ve 137 bin oldu.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/tradwife-icerikleri-kadinlarin-ofkesini-feminizme-yoneltiyor-gercek-suclu-kapitalizm-745214"
+   ]
+  },
+  {
+   "id": "46af89fefc",
+   "post_id": "529346797199852_1461235829449458",
+   "title": "Çocuklar için karanlık tablo: Cezaevlerinde sayı yükseliyor",
+   "at": "2026-11-08T03:07:56.933134+00:00",
+   "yazim": "claude",
+   "metin": "Cezaevlerindeki tutuklu ve hükümlü çocuk sayısı artıyor.\n\nMart 2026'da 4 bin 505 olan sayı kasım ayında 5 bin 121'e yükseldi.\n\n— Bakılamayan çocuk sayısının yıl sonunda 195 bine çıkması öngörülüyor.\n— Ekonomik krizin çocuklar üzerindeki etkilerinin ağırlaştığı bir dönemde bu tablo ortaya çıktı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/cocuklar-icin-karanlik-tablo-cezaevlerinde-sayi-yukseliyor-745210"
    ]
   }
  ],
