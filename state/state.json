@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "12",
-    "atıla",
-    "başka",
-    "diren",
-    "gündü",
-    "işten",
-    "işçil",
-    "nöbet",
-    "sendi",
-    "volva",
-    "yok",
-    "çarem"
-   ],
-   "tok": [
-    "alana",
-    "arayı",
-    "atıla",
-    "bandı",
-    "başla",
-    "belir",
-    "bulma",
-    "deki",
-    "devam",
-    "diren",
-    "durma",
-    "ediyo",
-    "emekç",
-    "fabri",
-    "geldi",
-    "giriş",
-    "gündü",
-    "günün",
-    "hakla",
-    "işten",
-    "işçi",
-    "işçil",
-    "kaldı",
-    "kimya",
-    "makin",
-    "mücad",
-    "nci",
-    "nokta",
-    "nöbet",
-    "osb",
-    "patro",
-    "sendi",
-    "sonuç",
-    "söylü",
-    "sürdü",
-    "tuzla",
-    "veril",
-    "volva",
-    "yok",
-    "çalış",
-    "çarem",
-    "önünd",
-    "üreti"
-   ],
-   "at": "2026-11-07T03:28:18.001501+00:00"
-  },
-  {
-   "fp": [
     "atöly",
     "cihan",
     "değer",
@@ -11232,20 +11170,85 @@
     "ırak"
    ],
    "at": "2026-11-08T15:23:20.683919+00:00"
+  },
+  {
+   "fp": [
+    "adale",
+    "ailel",
+    "birin",
+    "dilov",
+    "yılın"
+   ],
+   "tok": [
+    "acıyl",
+    "adale",
+    "ailel",
+    "araşt",
+    "artık",
+    "atıld",
+    "aynı",
+    "baba",
+    "beled",
+    "bin",
+    "birin",
+    "bulun",
+    "davad",
+    "değil",
+    "dikka",
+    "dilov",
+    "duyun",
+    "düzen",
+    "emekç",
+    "fabri",
+    "geçse",
+    "göste",
+    "güven",
+    "hesab",
+    "ilgil",
+    "isted",
+    "istiy",
+    "işçi",
+    "işçin",
+    "kamu",
+    "katil",
+    "katli",
+    "korum",
+    "kurum",
+    "kızın",
+    "medya",
+    "nda",
+    "parti",
+    "patro",
+    "sendi",
+    "sene",
+    "sesim",
+    "siste",
+    "siyas",
+    "sloga",
+    "sorac",
+    "sorum",
+    "söndü",
+    "tahli",
+    "temsi",
+    "tepki",
+    "topla",
+    "var",
+    "veril",
+    "yangı",
+    "yasas",
+    "yaşay",
+    "yürüy",
+    "yılın",
+    "çağrı",
+    "çekti",
+    "öldüğ",
+    "önlem",
+    "önünd"
+   ],
+   "at": "2026-11-08T15:38:54.153155+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "49ff6f6ea5",
-   "post_id": "529346797199852_1459775406262167",
-   "title": "Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları neden 50 Bin Liraya dayanacak, direksiyon sınavında neler değişiyor?",
-   "at": "2026-11-06T18:49:31.795375+00:00",
-   "yazim": "yedek",
-   "metin": "Yeni yılda ehliyet almak lüks oluyor: Ehliyet fiyatları neden 50 Bin Liraya dayanacak, direksiyon sınavında neler değişiyor?.\n\nYeni yıla sayılı haftalar kala sürücü kursları, artan maliyetleri gerekçe göstererek 2027 eğitim ücretlerine yüzde 50 ile yüzde 80 arasında zam talebinde bulundu.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/yeni-yilda-ehliyet-almak-luks-oluyor-ehliyet-fiyatlari-neden-50-bin-2082772"
-   ]
-  },
   {
    "id": "12425bc47e",
    "post_id": "529346797199852_1459784462927928",
@@ -13770,6 +13773,18 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/08/turkiye-ve-iraktan-ortak-aciklama",
     "NTV: https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996"
    ]
+  },
+  {
+   "id": "ffadbe9b9b",
+   "post_id": "529346797199852_1461857866053921",
+   "title": "Dilovası yangınının birinci yılında ailelerden adalet çağrısı: “Sesimizi duyun artık”",
+   "at": "2026-11-08T15:38:54.153155+00:00",
+   "yazim": "claude",
+   "metin": "Dilovası'nda yedi işçinin öldüğü yangının birinci yılında aileler fabrikanın önünde toplanıp adalet istedi.\n\n— Aileler, sendika ve siyasi parti temsilcileriyle yürüyüş yaptı. Yürüyüşte “Katillerden hesabı emekçiler soracak” sloganları atıldı.\n— Aileler, fabrikada yangın söndürme sistemi ve iş güvenliği önlemlerinin bulunmadığına dikkat çekti.\n— Belediye ve ilgili kamu kurumlarının da sorumluluğunun araştırılmasını istiyorlar. Davada verilen tahliye kararlarına da tepki gösterdiler.\n\nYangında kızını kaybeden bir baba: “Bir sene değil, bin sene geçse aynı acıyla yaşayacağız.”",
+   "sources": [
+    "Medyascope: https://medyascope.tv/2026/11/08/dilovasi-yangininin-birinci-yilinda-ailelerden-adalet-cagrisi-sesimizi-duyun-artik/",
+    "BirGün: https://www.birgun.net/haber/dilovasi-katliaminin-birinci-yilinda-aileler-adalet-istedi-patronlari-koruma-yasasi-var-745291"
+   ]
   }
  ],
  "fails": {
@@ -13962,7 +13977,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119442875071250875",
+   "since_id": "2119453284918608070",
    "started": true
   },
   "ajansmuhbir1923": {
