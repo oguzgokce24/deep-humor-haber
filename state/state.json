@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "20",
-    "başı",
-    "bolu",
-    "bulac",
-    "istan",
-    "kalın",
-    "kar",
-    "saat",
-    "santi",
-    "uyard",
-    "valil",
-    "verer",
-    "yanı"
-   ],
-   "tok": [
-    "aksam",
-    "alarm",
-    "bazı",
-    "başla",
-    "başı",
-    "bekle",
-    "bolu",
-    "bulac",
-    "buzla",
-    "cumar",
-    "etkil",
-    "genel",
-    "geçer",
-    "günü",
-    "günün",
-    "heyel",
-    "ila",
-    "kalın",
-    "kar",
-    "karla",
-    "karış",
-    "karşı",
-    "kasım",
-    "kent",
-    "kuvve",
-    "olaca",
-    "olmas",
-    "oluşa",
-    "pazar",
-    "riski",
-    "saat",
-    "sabah",
-    "santi",
-    "sel",
-    "ulaşı",
-    "uyard",
-    "uyarı",
-    "valil",
-    "vatan",
-    "verer",
-    "yanı",
-    "yarın",
-    "yağac",
-    "yağmu",
-    "yağış",
-    "yerle",
-    "örtüs"
-   ],
-   "at": "2026-11-06T18:10:44.091095+00:00"
-  },
-  {
-   "fp": [
     "15",
     "israi",
     "yaşın",
@@ -10639,24 +10572,62 @@
     "yaşlı"
    ],
    "at": "2026-11-08T06:09:27.821531+00:00"
+  },
+  {
+   "fp": [
+    "26",
+    "ankar",
+    "aranı",
+    "bulun",
+    "cezas",
+    "firar",
+    "hapis",
+    "hüküm",
+    "yakal",
+    "yıl"
+   ],
+   "tok": [
+    "adam",
+    "adamı",
+    "adana",
+    "adli",
+    "aldığ",
+    "alma",
+    "arana",
+    "aranı",
+    "bulun",
+    "cezas",
+    "ekipl",
+    "firar",
+    "hapis",
+    "hüküm",
+    "imzal",
+    "kaste",
+    "kaçır",
+    "kesin",
+    "kurdu",
+    "lider",
+    "makam",
+    "olayl",
+    "onu",
+    "rehin",
+    "senet",
+    "sevk",
+    "suç",
+    "suçun",
+    "yer",
+    "yerde",
+    "yıl",
+    "yıldı",
+    "zorla",
+    "öldür",
+    "örgüt",
+    "öğren"
+   ],
+   "at": "2026-11-08T06:22:13.342072+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e0c588bf40",
-   "post_id": "529346797199852_1458508043055570",
-   "title": "Trump yanıtladı: ABD Savunma Bakanı görevden alınacak mı?",
-   "at": "2026-11-05T14:39:53.214825+00:00",
-   "yazim": "claude",
-   "metin": "ABD Başkanı Donald Trump:\n\n“Onu görevde tutmak için her türlü niyetim var.”\n\nCumhuriyetçiler ara seçimlerde yenilmişti. Ardından Savunma Bakanı Pete Hegseth'i görevden alma çağrıları geldi. Trump bu çağrılara bu sözlerle yanıt verdi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-hegsethi-savunma-bakani-olarak-gorevde-tutmaya-devam-edecegini-acikladi/4113088",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/trump-hegsethi-savunma-bakani-olarak-gorevde-tutmaya-devam-edecek-962356.html",
-    "Milliyet: https://www.milliyet.com.tr/dunya/trumptan-hegsethi-savunma-bakani-olarak-gorevde-tutma-sorusuna-yanit-7695103",
-    "BirGün: https://www.birgun.net/haber/trump-yanitladi-abd-savunma-bakani-gorevden-alinacak-mi-744797",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/trumptan-hegsethi-savunma-bakani-olarak-gorevde-tutma-sorusuna-yanit-7695103"
-   ]
-  },
   {
    "id": "49ecf9bb3d",
    "post_id": "529346797199852_1458528549720186",
@@ -13154,6 +13125,20 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/duzce/duzcede-hayvanlarini-otlatmaya-giden-yasli-adam-olu-bulundu-3490427",
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-duzce-de-yasli-adam-agaclik-alanda-olu-bulundu-3925725",
     "Sözcü: https://www.sozcu.com.tr/duzce-de-hayvanlarini-otlatmaya-giden-yasli-adam-olu-bulundu-p377084"
+   ]
+  },
+  {
+   "id": "8cfb150f0b",
+   "post_id": "529346797199852_1461391926100515",
+   "title": "26 yıl hapis cezasıyla aranıyordu: Ankara'da yakalandı",
+   "at": "2026-11-08T06:22:13.342072+00:00",
+   "yazim": "claude",
+   "metin": "Ankara'da, hakkında 26 yıl 3 ay kesinleşmiş hapis cezası bulunan ve 8 yıldır firari olarak aranan bir adam polis tarafından yakalandı.\n\n— Adam, 'kasten öldürme' suçundan aranıyordu. Polis ekipleri onu Ankara'da yakaladı ve adli makamlara sevk etti.\n— Adamın Adana'da kurduğu suç örgütüyle adam öldürme, yaralama, kaçırma, rehin alma ve zorla senet imzalatma olaylarında yer aldığı öğrenildi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/ankarada-26-yil-3-ay-kesinlesmis-hapis-cezasi-bulunan-firari-hukumlu-yakalandi-3490431",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/ankarada-26-yil-hapis-cezasiyla-aranan-firari-hukumlu-yakalandi-3490430",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/26-yil-hapis-cezasiyla-araniyordu-ankara-da-yakalandi-2554327",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/8-yildir-her-yerde-araniyordu-26-yil-hapis-cezasi-bulunan-firari-suc-orgutu-lideri-ankarada-yakalandi-7696564"
    ]
   }
  ],
