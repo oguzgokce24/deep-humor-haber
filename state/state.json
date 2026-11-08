@@ -2,49 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2002",
-    "5",
-    "81",
-    "bakan",
-    "bayra",
-    "bugün",
-    "doğal",
-    "ilde",
-    "sadec",
-    "türki",
-    "var",
-    "vardı"
-   ],
-   "tok": [
-    "alpar",
-    "arası",
-    "bayra",
-    "belde",
-    "bugün",
-    "doğal",
-    "dışın",
-    "enerj",
-    "gaz",
-    "gazı",
-    "götür",
-    "ilçel",
-    "inci",
-    "kayna",
-    "sadec",
-    "sene",
-    "tabii",
-    "var",
-    "vardı",
-    "yani",
-    "yerin",
-    "yerle",
-    "yıl",
-    "yılın"
-   ],
-   "at": "2026-11-06T20:50:00.077588+00:00"
-  },
-  {
-   "fp": [
     "evini",
     "kiral",
     "payla",
@@ -10650,20 +10607,82 @@
     "üçünc"
    ],
    "at": "2026-11-08T08:39:43.163989+00:00"
+  },
+  {
+   "fp": [
+    "7",
+    "birbi",
+    "bolu",
+    "girdi",
+    "inen",
+    "kazad",
+    "otomo",
+    "yayay",
+    "yola",
+    "zinci",
+    "çarpt"
+   ],
+   "tok": [
+    "abant",
+    "akşam",
+    "alıyo",
+    "anado",
+    "anlar",
+    "anı",
+    "ardın",
+    "baysa",
+    "birbi",
+    "bolu",
+    "cep",
+    "dün",
+    "gelen",
+    "girdi",
+    "görün",
+    "hasta",
+    "inen",
+    "izzet",
+    "kaldı",
+    "kar",
+    "karış",
+    "kayga",
+    "kazas",
+    "kontr",
+    "köroğ",
+    "mevki",
+    "meyda",
+    "nda",
+    "neden",
+    "nun",
+    "ortay",
+    "otomo",
+    "otoyo",
+    "rampa",
+    "sonra",
+    "sürüc",
+    "sürüy",
+    "tedav",
+    "telef",
+    "trafi",
+    "tır",
+    "yayan",
+    "yayay",
+    "yağış",
+    "yaşan",
+    "yer",
+    "yola",
+    "yolda",
+    "zinci",
+    "çarpt",
+    "çarpı",
+    "çekti",
+    "çıkan",
+    "çıktı",
+    "ünive"
+   ],
+   "at": "2026-11-08T08:52:13.658265+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3cdc898605",
-   "post_id": "529346797199852_1459010836338624",
-   "title": "3 bin hektar, orman sınırları dışına çıkarıldı: Ankara'nın suyu tehlikede",
-   "at": "2026-11-06T02:46:47.074930+00:00",
-   "yazim": "claude",
-   "metin": "Kızılcahamam'da 3 bin hektarlık alan orman sınırları dışına çıkarıldı.\n\nBu karar, Ankara'nın en önemli içme suyu kaynaklarından Kurtboğazı Havzası'nı yapılaşma tehdidiyle karşı karşıya bıraktı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/3-bin-hektar-orman-sinirlari-disina-cikarildi-ankara-nin-suyu-tehlikede-744817"
-   ]
-  },
   {
    "id": "759f8aad9c",
    "post_id": "529346797199852_1459019103004464",
@@ -13157,6 +13176,17 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/eski-bakan-taner-yildizdan-yatirim-fonu-iddialarina-sert-tepki-4870669",
     "Evrensel: https://www.evrensel.net/haber/6008510/eski-bakan-taner-yildizdan-fon-yalanlamasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "8cb55bf3d3",
+   "post_id": "529346797199852_1461509562755418",
+   "title": "Bolu'da 7 araç birbirine girdi: Zincirleme kazada yola inen yayaya otomobil çarptı",
+   "at": "2026-11-08T08:52:13.658265+00:00",
+   "yazim": "claude",
+   "metin": "Bolu'da Anadolu Otoyolu'nda 7 aracın karıştığı zincirleme kazada 6 kişi yaralandı.\n\n— Kaza dün akşam Köroğlu Rampası'nda, kayganlaşan yolda yaşandı.\n— İlk çarpışmanın ardından yola inen bir yayaya otomobil çarptı.\n— Bir tır sürücüsünün cep telefonuyla çektiği görüntülerde, yayanın çarpılma anı yer alıyor.\n— Yaralılar Abant İzzet Baysal Üniversitesi Hastanesi'ne kaldırıldı ve tedavileri sürüyor.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/boluda-7-arac-birbirine-girdi-zincirleme-kazada-yola-inen-yayaya-2082957"
+   ]
   }
  ],
  "fails": {
@@ -13347,7 +13377,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119348622722773385",
+   "since_id": "2119351595674574914",
    "started": true
   },
   "ajansmuhbir1923": {
