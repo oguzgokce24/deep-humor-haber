@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "57",
-    "84",
-    "annem",
-    "diplo",
-    "döndü",
-    "edece",
-    "hediy",
-    "sıral",
-    "yaşın",
-    "ünive"
-   ],
-   "tok": [
-    "annem",
-    "annes",
-    "ayşe",
-    "açık",
-    "bitir",
-    "bölüm",
-    "büyük",
-    "bırak",
-    "diplo",
-    "döndü",
-    "edece",
-    "eskiş",
-    "etmey",
-    "gezer",
-    "havac",
-    "hayal",
-    "hedef",
-    "hediy",
-    "hizme",
-    "kabin",
-    "kalan",
-    "kazan",
-    "lisey",
-    "mezun",
-    "pes",
-    "peşin",
-    "sivil",
-    "sıral",
-    "tekni",
-    "yarım",
-    "yaşay",
-    "yaşın",
-    "çocuk",
-    "öğren",
-    "ünive"
-   ],
-   "at": "2026-11-06T17:07:01.724194+00:00"
-  },
-  {
-   "fp": [
     "2027",
     "ags",
     "başvu",
@@ -10470,23 +10418,98 @@
     "öne"
    ],
    "at": "2026-11-08T04:54:32.330312+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "7",
+    "bugün",
+    "durum",
+    "hava",
+    "kasım",
+    "meteo",
+    "nasıl",
+    "olaca",
+    "rapor"
+   ],
+   "tok": [
+    "akden",
+    "altın",
+    "anado",
+    "artvi",
+    "azalm",
+    "bekle",
+    "bilec",
+    "birço",
+    "bugün",
+    "bulun",
+    "buzla",
+    "bölge",
+    "derec",
+    "don",
+    "doğu",
+    "doğus",
+    "durum",
+    "düşec",
+    "edili",
+    "ege",
+    "esece",
+    "fırtı",
+    "gece",
+    "genel",
+    "görül",
+    "hava",
+    "hızla",
+    "ila",
+    "kar",
+    "karad",
+    "karla",
+    "karış",
+    "kasım",
+    "kesim",
+    "kocae",
+    "kuvve",
+    "kısa",
+    "kıyı",
+    "kıyıl",
+    "malat",
+    "meteo",
+    "mevsi",
+    "müdür",
+    "nasıl",
+    "norma",
+    "nun",
+    "olaca",
+    "olayı",
+    "rapor",
+    "rize",
+    "rüzgâ",
+    "saat",
+    "saatl",
+    "sabah",
+    "sakar",
+    "sağan",
+    "seyre",
+    "sivas",
+    "sürel",
+    "sıcak",
+    "tahmi",
+    "toros",
+    "uyarı",
+    "yalov",
+    "yağac",
+    "yağmu",
+    "yağış",
+    "yurdu",
+    "yurt",
+    "çevre",
+    "şekli",
+    "şidde"
+   ],
+   "at": "2026-11-08T05:07:04.211166+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2a180ef592",
-   "post_id": "529346797199852_1458394636400244",
-   "title": "Beykoz Belediye Meclisinde CHP'den toplu istifa: YENİ Parti grubu kuruldu",
-   "at": "2026-11-05T12:18:34.475012+00:00",
-   "yazim": "claude",
-   "metin": "Beykoz'da CHP'li 9 meclis üyesi partisinden istifa edip YENİ Parti'ye geçti.\n\n— İstifaların ardından belediye meclisinde YENİ Parti grubu kuruldu.\n— Divan katibi Fatih Çelik de istifa edenler arasında.\n— Meclisin bir sonraki toplantısı 7 Aralık 2026'da yapılacak.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/chp-den-9-meclis-uyesi-istifa-etti-yeni-parti-grubu-kuruldu-p376350",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/beykoz-belediye-meclisinde-chp-den-toplu-istifa-yeni-parti-grubu-kuruldu-2553608",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/atasehir-belediye-meclisinde-istifa-deprem-4870039",
-    "BirGün: https://www.birgun.net/haber/beykoz-belediye-meclisi-nde-istifa-depremi-yeni-bir-grup-kuruldu-744777"
-   ]
-  },
   {
    "id": "c3bea544c5",
    "post_id": "529346797199852_1458404793065895",
@@ -12999,6 +13022,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bursa-da-5-katli-binada-yangin-1-kisi-dumandan-etkilenerek-hastaneye-kaldirildi-2554320"
    ]
+  },
+  {
+   "id": "3003184534",
+   "post_id": "529346797199852_1461343216105386",
+   "title": "Meteoroloji açıkladı: 7 Kasım 2026 hava durumu raporu... Bugün hava nasıl olacak?",
+   "at": "2026-11-08T05:07:04.211166+00:00",
+   "yazim": "claude",
+   "metin": "Meteoroloji yurdun birçok bölgesi için kuvvetli yağış, kar ve fırtına uyarısı yaptı.\n\n— Sıcaklıklar iç ve doğu kesimlerde 4 ila 6 derece düşecek, yurt genelinde mevsim normallerinin altında seyredecek.\n\n— Rize ve Artvin'de çok kuvvetli ve şiddetli yağış bekleniyor.\n\n— Karadeniz kıyıları, Kocaeli, Sakarya, Yalova, Bilecik ve Malatya'da yağmur ve sağanak görülecek.\n\n— Toroslar ile Sivas çevrelerinde karla karışık yağmur ve kar yağacak.\n\n— Sabah ve gece saatlerinde Doğu Anadolu'nun doğusunda ve Karadeniz'in iç kesimlerinde buzlanma ve don olayı bekleniyor.\n\n— Rüzgâr Kıyı Ege, Akdeniz ve Karadeniz kıyılarında 40-70 km/saat hızla kuvvetli ve kısa süreli fırtına şeklinde esecek.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-7-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2554319"
+   ]
   }
  ],
  "fails": {
@@ -13186,7 +13220,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119198701008630103",
+   "since_id": "2119295488402895311",
    "started": true
   },
   "ajansmuhbir1923": {
