@@ -2,95 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başka",
-    "beled",
-    "chp",
-    "derhâ",
-    "katıl",
-    "kılıç",
-    "parti",
-    "yapıy",
-    "yolsu"
-   ],
-   "tok": [
-    "adres",
-    "artık",
-    "beled",
-    "bunla",
-    "chp",
-    "dahi",
-    "deki",
-    "derhâ",
-    "edece",
-    "gitme",
-    "gün",
-    "iktid",
-    "katıl",
-    "kılıç",
-    "olmal",
-    "parti",
-    "serbe",
-    "seçim",
-    "taham",
-    "vatan",
-    "yapıy",
-    "yayın",
-    "yazıs",
-    "yolsu",
-    "zaman"
-   ],
-   "at": "2026-11-06T19:45:34.852397+00:00"
-  },
-  {
-   "fp": [
-    "alınd",
-    "danış",
-    "getir",
-    "görev",
-    "hamle",
-    "kalem",
-    "mille",
-    "seçim",
-    "sonra",
-    "steph",
-    "susie",
-    "tan",
-    "trump",
-    "wiles",
-    "yenil",
-    "yerin",
-    "özel"
-   ],
-   "tok": [
-    "abd",
-    "alınd",
-    "beyaz",
-    "danış",
-    "donal",
-    "duyur",
-    "getir",
-    "görev",
-    "hamle",
-    "kalem",
-    "mille",
-    "müdür",
-    "saray",
-    "seçim",
-    "sonra",
-    "steph",
-    "susie",
-    "tan",
-    "trump",
-    "wiles",
-    "yardı",
-    "yenil",
-    "yerin",
-    "özel"
-   ],
-   "at": "2026-11-06T19:45:48.052151+00:00"
-  },
-  {
-   "fp": [
     "2",
     "bakan",
     "dan",
@@ -10614,22 +10525,69 @@
     "şoför"
    ],
    "at": "2026-11-08T07:35:34.832468+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "6",
+    "kişi",
+    "polon",
+    "saldı",
+    "silah",
+    "yaral"
+   ],
+   "tok": [
+    "ana",
+    "araşt",
+    "ateş",
+    "aydın",
+    "açtı",
+    "ağır",
+    "aşırı",
+    "başba",
+    "bulun",
+    "cesed",
+    "donal",
+    "durum",
+    "düzen",
+    "erkek",
+    "etkil",
+    "evind",
+    "geçer",
+    "girip",
+    "günlü",
+    "ideol",
+    "ilan",
+    "ise",
+    "kadın",
+    "kanlı",
+    "kasım",
+    "kenti",
+    "koşul",
+    "krako",
+    "meyda",
+    "nın",
+    "olabi",
+    "olaca",
+    "otomo",
+    "polon",
+    "sağ",
+    "silah",
+    "sinin",
+    "suçun",
+    "tusk",
+    "ulusa",
+    "yas",
+    "yetki",
+    "çevre",
+    "öldür",
+    "ölenl",
+    "ülked"
+   ],
+   "at": "2026-11-08T07:48:07.922246+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "368714eb5c",
-   "post_id": "529346797199852_1458822379690803",
-   "title": "Trabzonspor evinde Freiburg'a takıldı: 0-1",
-   "at": "2026-11-05T21:55:33.913762+00:00",
-   "yazim": "claude",
-   "metin": "Trabzonspor, Konferans Ligi'nde evinde Freiburg'a 0-1 yenildi.\n\nGolü Freiburg'dan Lukas Kübler 14. dakikada attı. Maç bu skorla bitti ve Trabzonspor Papara Park'tan puansız ayrıldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/live-trabzonspor-freiburg-mac-ozeti-firtina-ilk-kaybini-yasadi-3489453",
-    "Habertürk: https://www.haberturk.com/spor/trabzonspor-freiburg-mac-sonucu-iste-trabzonspor-freiburg-maci-ozeti-ve-golleri-konferans-ligi-3925044",
-    "Karar: https://www.karar.com/spor-haberleri/trabzonspor-evinde-freiburga-takildi-0-1-2082589"
-   ]
-  },
   {
    "id": "af147285a3",
    "post_id": "529346797199852_1458936543012720",
@@ -13123,6 +13081,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fenerbahce-takim-otobusune-saldiri-iddianamenin-ayrintilari-ortaya-cikti-2554343",
     "Evrensel: https://www.evrensel.net/haber/6008503/fenerbahce-takim-otobusune-saldiri-iddianamesi-onceden-planlanarak-yapildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "849052dc40",
+   "post_id": "529346797199852_1461457142760660",
+   "title": "Polonya'da silahlı saldırı: 6 kişi hayatını kaybetti, 15 kişi yaralandı",
+   "at": "2026-11-08T07:48:07.922246+00:00",
+   "yazim": "claude",
+   "metin": "Polonya'nın Krakov kentinde bir saldırgan aracıyla Ana Meydan'a girip çevreye ateş açtı, 6 kişi hayatını kaybetti.\n\n— Saldırıda 15 kişi yaralandı, yaralılardan 12'sinin durumu ağır. Ölenlerin 4'ü kadın, 2'si erkek.\n\n— Ülkede 8-9 Kasım'da geçerli olacak ulusal yas ilan edildi.\n\n— Yetkililer, saldırganın aşırı sağ ideolojilerden etkilenmiş olabileceğini araştırıyor.\n\nBaşbakan Donald Tusk ise \"Bu suçun tüm koşullarını aydınlatacağız.\" dedi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008492/polonyada-silahli-saldiri-6-kisi-hayatini-kaybetti-15-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/polonya-da-silahli-saldirida-6-kisi-olduruldu-2-gunluk-ulusal-yas-ilan-edildi-745230",
+    "Karar: https://www.karar.com/dunya-haberleri/polonyada-kanli-saldiri-6-olu-15-yarali-saldirganin-evinde-3-ceset-daha-2082948"
+   ]
   }
  ],
  "fails": {
@@ -13313,7 +13284,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119331370891718792",
+   "since_id": "2119333018569461794",
    "started": true
   },
   "ajansmuhbir1923": {
