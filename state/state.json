@@ -11020,22 +11020,63 @@
     "şehir"
    ],
    "at": "2026-11-08T13:03:25.020267+00:00"
+  },
+  {
+   "fp": [
+    "diyer",
+    "gözal",
+    "ismi",
+    "kilit",
+    "nihay",
+    "vurgu"
+   ],
+   "tok": [
+    "adli",
+    "adıml",
+    "alınd",
+    "atıld",
+    "aylar",
+    "aynı",
+    "başsa",
+    "bulls",
+    "delin",
+    "diyer",
+    "dokun",
+    "dün",
+    "emir",
+    "eylül",
+    "fon",
+    "gecik",
+    "geç",
+    "grup",
+    "ilgil",
+    "ismi",
+    "kalka",
+    "kapsa",
+    "kemal",
+    "kilit",
+    "kontr",
+    "kurul",
+    "murat",
+    "mızra",
+    "neden",
+    "nihay",
+    "nın",
+    "parti",
+    "savun",
+    "sordu",
+    "sığma",
+    "uygul",
+    "vurgu",
+    "yatır",
+    "yönet",
+    "yürüt",
+    "çuval"
+   ],
+   "at": "2026-11-08T13:16:03.211719+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8999892831",
-   "post_id": "529346797199852_1459647772941597",
-   "title": "SPK'dan işleme kapatılan yatırım fonları için açıklama",
-   "at": "2026-11-06T16:28:33.368737+00:00",
-   "yazim": "yedek",
-   "metin": "SPK'dan işleme kapatılan yatırım fonları için açıklama.\n\nSermaye Piyasası Kurulu, TEFAS ve TEFAS dışı kanallarda alım satıma kapatılan yatırım fonlarının yeniden işleme açılmasına ilişkin açıklama yaptı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/finans-haberler/spkdan-kapali-yatirim-fonlarina-iliskin-aciklama-3490066",
-    "Habertürk: https://www.haberturk.com/ekonomi/spk-alim-satima-kapatilan-yatirim-fonlarinin-acilma-kosullarini-acikladi-3925466",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/spk-dan-isleme-kapatilan-yatirim-fonlari-icin-aciklama-2553990"
-   ]
-  },
   {
    "id": "661aa4b0bf",
    "post_id": "529346797199852_1459659812940393",
@@ -13553,6 +13594,18 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/iklimin-kalbi-antalyada-11-milyon-mekrekarelik-cop31-alaninda-atacak-4870738",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/antalyada-cop31-yarin-basliyor-90-lider-bir-araya-gelecek-p377232"
    ]
+  },
+  {
+   "id": "fad8f1aaa5",
+   "post_id": "529346797199852_1461718792734495",
+   "title": "YENİ Parti 'Vurgunun kilit ismi' diyerek açıkladı: 'Nihayet gözaltına alındı'",
+   "at": "2026-11-08T13:16:03.211719+00:00",
+   "yazim": "claude",
+   "metin": "YENİ Parti Grup Başkanvekili Murat Emir:\n\n“Fon vurgununda dokunulmazlar kalkanı mızrak çuvala sığmayınca delindi ama çok geç! Vurgunun kilit ismi (...) nihayet gözaltında.”\n\n— Bulls Yatırım Yönetim Kurulu Başkanı, fon soruşturması kapsamında dün gözaltına alındı.\n— Aynı kişiye 17 Eylül'de adli kontrol uygulanmıştı.\n— Emir, iki kişiyle ilgili adımların aylar sonra atıldığını savundu ve soruşturmanın neden bu kadar geciktiğini sordu.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/yeni-parti-vurgunun-kilit-ismi-diyerek-acikladi-nihayet-gozaltina-alindi-p377241",
+    "BirGün: https://www.birgun.net/haber/murat-emir-fon-vurgununun-kilit-ismi-diyerek-acikladi-nihayet-gozaltinda-745288"
+   ]
   }
  ],
  "fails": {
@@ -13745,7 +13798,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119415119331700775",
+   "since_id": "2119417751294882286",
    "started": true
   },
   "ajansmuhbir1923": {
