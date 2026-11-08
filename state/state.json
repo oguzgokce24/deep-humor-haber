@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2027",
-    "ags",
-    "başvu",
-    "meb",
-    "sınav",
-    "takvi",
-    "yapıl",
-    "zaman",
-    "ösym"
-   ],
-   "tok": [
-    "adayl",
-    "ags",
-    "ais",
-    "akade",
-    "alan",
-    "arası",
-    "başla",
-    "başvu",
-    "bekle",
-    "bilgi",
-    "duyur",
-    "etkil",
-    "gerçe",
-    "giriş",
-    "göre",
-    "günde",
-    "günü",
-    "hafta",
-    "hangi",
-    "hazir",
-    "hazır",
-    "ise",
-    "kasım",
-    "katıl",
-    "mart",
-    "mayıs",
-    "meb",
-    "nin",
-    "pazar",
-    "peki",
-    "planı",
-    "saati",
-    "sonu",
-    "sonuç",
-    "sınav",
-    "takvi",
-    "tarih",
-    "testi",
-    "uygul",
-    "var",
-    "yapıl",
-    "yıla",
-    "yılın",
-    "zaman",
-    "çekil",
-    "öabt",
-    "öncek",
-    "öne",
-    "ösym",
-    "öğret",
-    "üzeri"
-   ],
-   "at": "2026-11-06T17:19:49.903181+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "cevde",
     "cumhu",
@@ -10583,24 +10516,90 @@
     "şidde"
    ],
    "at": "2026-11-08T05:19:38.780576+00:00"
+  },
+  {
+   "fp": [
+    "22",
+    "deniz",
+    "gemis",
+    "kargo",
+    "kişi",
+    "kurta",
+    "nde",
+    "umman",
+    "yangı"
+   ],
+   "tok": [
+    "arap",
+    "ardın",
+    "asker",
+    "bae",
+    "belir",
+    "bildi",
+    "birle",
+    "boğaz",
+    "bulup",
+    "bölge",
+    "deniz",
+    "devri",
+    "durum",
+    "duyur",
+    "ekipl",
+    "emirl",
+    "endiş",
+    "farkl",
+    "gemid",
+    "gemil",
+    "gemis",
+    "gemiy",
+    "geçti",
+    "güven",
+    "güçle",
+    "halin",
+    "harek",
+    "hürmü",
+    "hızla",
+    "ihbar",
+    "ilişk",
+    "iran",
+    "iyi",
+    "içind",
+    "kargo",
+    "karış",
+    "kurta",
+    "körfe",
+    "kısa",
+    "mayın",
+    "muhaf",
+    "müret",
+    "nda",
+    "nde",
+    "nin",
+    "olayl",
+    "petro",
+    "sahil",
+    "sağlı",
+    "seyir",
+    "süre",
+    "süred",
+    "sürer",
+    "tahli",
+    "tanke",
+    "ticar",
+    "ukmto",
+    "umman",
+    "yangı",
+    "yapıl",
+    "yardı",
+    "çarpt",
+    "çıkan",
+    "çıktı",
+    "ülkel"
+   ],
+   "at": "2026-11-08T05:32:17.609841+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c2dadabe72",
-   "post_id": "529346797199852_1458421529730888",
-   "title": "Merkez Bankası rezervleri 158,1 milyar dolar oldu",
-   "at": "2026-11-05T12:51:51.722227+00:00",
-   "yazim": "claude",
-   "metin": "Merkez Bankasının toplam rezervleri 30 Ekim haftasında 4 milyar 84 milyon dolar azalarak 158 milyar 107 milyon dolara geriledi.\n\n— Brüt döviz rezervleri 2 milyar 955 milyon dolar düşüp 56 milyar 90 milyon dolara indi.\n— Altın rezervleri de 1 milyar 129 milyon dolar geriledi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-158-1-milyar-dolar-oldu/4112916",
-    "TRT Haber: https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1581-milyar-dolar-oldu-962351.html",
-    "Habertürk: https://www.haberturk.com/ekonomi/merkez-bankasi-rezervleri-158-1-milyar-dolar-oldu-3925182",
-    "BirGün: https://www.birgun.net/haber/merkez-bankasi-rezervleri-dustu-son-durum-ne-744781",
-    "Karar: https://www.karar.com/ekonomi-haberleri/merkez-bankasi-rezervleri-1581-milyar-dolar-oldu-2082537"
-   ]
-  },
   {
    "id": "7d1a2c71da",
    "post_id": "529346797199852_1458441996395508",
@@ -13107,6 +13106,18 @@
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/hakkaride-13-yasindaki-cocuga-istismar-halk-sokaga-cikti-p377070"
    ]
+  },
+  {
+   "id": "cba1a2e008",
+   "post_id": "529346797199852_1461360759436965",
+   "title": "Umman Denizi'nde kargo gemisinde yangın: 22 kişi kurtarıldı",
+   "at": "2026-11-08T05:32:17.609841+00:00",
+   "yazim": "claude",
+   "metin": "Birleşik Arap Emirlikleri'nin Umman Denizi'nde seyir halindeki bir kargo gemisinde yangın çıktı, içindeki 22 kişi kurtarıldı.\n\nGemideki mürettebatın farklı Arap ülkelerinden olduğu belirtildi. Kurtarılanlara ilk yardım yapıldı ve sağlık durumlarının iyi olduğu bildirildi.\n\n— Sahil Güvenlik ekipleri yangın ihbarının ardından hızla harekete geçti ve gemiyi kısa sürede bulup mürettebatı tahliye etti.\n— UKMTO, kısa süre önce Umman Körfezi açıklarında ticari gemilerle askeri güçlerin karıştığı olayları bildirmişti.\n— İran Devrim Muhafızları da Hürmüz Boğazı'nda iki petrol tankerinin mayına çarptığını duyurdu.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008490/birlesik-arap-emirlikleri-duyurdu-umman-denizinde-kargo-gemisinde-yangin-cikti-22-kisi-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/umman-denizi-nde-kargo-gemisinde-yangin-22-kisi-kurtarildi-745229"
+   ]
   }
  ],
  "fails": {
@@ -13247,7 +13258,8 @@
   "49285a6dd1": 1,
   "971bcb9696": 1,
   "67c9eaba45": 1,
-  "58c62c2cd5": 1
+  "58c62c2cd5": 1,
+  "e030c89eb4": 1
  },
  "fail_log": [
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13294,7 +13306,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119295488402895311",
+   "since_id": "2119301556151431466",
    "started": true
   },
   "ajansmuhbir1923": {
