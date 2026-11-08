@@ -2,86 +2,6 @@
  "seen": [
   {
    "fp": [
-    "adale",
-    "bahçe",
-    "böyle",
-    "hakan",
-    "hapsi",
-    "imamo",
-    "karar",
-    "ndan",
-    "nin",
-    "olmaz",
-    "tepki"
-   ],
-   "tok": [
-    "adale",
-    "aday",
-    "aktaş",
-    "alma",
-    "aydır",
-    "ayrıl",
-    "aziz",
-    "ağır",
-    "bahçe",
-    "beled",
-    "bulun",
-    "böyle",
-    "ceza",
-    "cezas",
-    "davad",
-    "davas",
-    "delil",
-    "diye",
-    "diyen",
-    "dönem",
-    "dönme",
-    "ekrem",
-    "eleşt",
-    "ermes",
-    "etmiş",
-    "ettiğ",
-    "gazio",
-    "gerek",
-    "görev",
-    "görül",
-    "göste",
-    "hakan",
-    "hapis",
-    "hapsi",
-    "hesab",
-    "ibb",
-    "ihsan",
-    "imamo",
-    "istem",
-    "ndan",
-    "nde",
-    "nin",
-    "niçin",
-    "ofisi",
-    "olmaz",
-    "ortad",
-    "rüşve",
-    "savcı",
-    "savun",
-    "sona",
-    "sordu",
-    "suçla",
-    "tahli",
-    "talep",
-    "tek",
-    "tepki",
-    "veril",
-    "yakla",
-    "yok",
-    "yıla",
-    "yılda",
-    "şartı"
-   ],
-   "at": "2026-11-07T10:43:47.256919+00:00"
-  },
-  {
-   "fp": [
     "fener",
     "galat",
     "hakan",
@@ -11111,22 +11031,65 @@
     "yasak"
    ],
    "at": "2026-11-08T22:40:42.517548+00:00"
+  },
+  {
+   "fp": [
+    "asliy",
+    "hukuk",
+    "mahke"
+   ],
+   "tok": [
+    "ada",
+    "adlar",
+    "arazi",
+    "asliy",
+    "açabi",
+    "açıld",
+    "dalba",
+    "davac",
+    "davas",
+    "dosya",
+    "duyur",
+    "edebi",
+    "edenl",
+    "ergan",
+    "esas",
+    "gelme",
+    "hak",
+    "hazin",
+    "hukuk",
+    "iddia",
+    "ilgil",
+    "ilçes",
+    "ise",
+    "ispat",
+    "istiy",
+    "itira",
+    "içind",
+    "karşı",
+    "kendi",
+    "kırşe",
+    "mahal",
+    "maliy",
+    "manis",
+    "metre",
+    "nın",
+    "parse",
+    "sayıl",
+    "süre",
+    "tapus",
+    "taraf",
+    "taşın",
+    "tesci",
+    "turgu",
+    "vereb",
+    "yakla",
+    "yüzöl"
+   ],
+   "at": "2026-11-08T22:53:32.816976+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5bcd578300",
-   "post_id": "529346797199852_1460065736233134",
-   "title": "Eski bir bakan da aralarında: SPK'den 67 kişi hakkında suç duyurusu ve borsa yasağı kararı",
-   "at": "2026-11-07T02:29:40.586678+00:00",
-   "yazim": "claude",
-   "metin": "SPK, Temapol, İsvea ve Tera Yatırım'daki pay piyasası usulsüzlükleri nedeniyle 67 kişi hakkında suç duyurusunda bulundu.\n\n— Listede eski Ulaştırma Bakanı Oğuz Tezmen, akademisyenler ve teknik direktör Bülent Uygun da var.\n— Kurul, üç şirketin hisselerindeki işlemler nedeniyle bazı kişilere iki yıl işlem yasağı getirdi ve bazı lisansları iptal etti.\n— Trive Yatırım'ın faaliyetleri de geçici olarak durduruldu.\n— Kurulun 6 Kasım 2026 tarihli bülteninde, Temapol için 24, İsvea için 22, Tera Yatırım için 42 kişi sayıldı. Bazı isimler birden fazla listede yer aldığı için toplam 67 kişi kaldı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/spkden-3-sirketin-pay-piyasasindaki-islemlere-iliskin-suc-duyurusu-karari/4114832",
-    "BirGün: https://www.birgun.net/haber/eski-bir-bakan-da-aralarinda-spk-den-67-kisi-hakkinda-suc-duyurusu-ve-borsa-yasagi-karari-745051",
-    "Karar: https://www.karar.com/guncel-haberler/spkden-67-kisi-hakkinda-suc-duyurusu-trive-yatirimin-faaliyetleri-2082785"
-   ]
-  },
   {
    "id": "c71b6983ce",
    "post_id": "529346797199852_1460078376231870",
@@ -13661,6 +13624,19 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/antalya-kapali-yollar-9-kasim-cop31-trafik-yasaklari-neler-hangi-2083040"
    ]
+  },
+  {
+   "id": "2b05712816",
+   "post_id": "529346797199852_1462181239354917",
+   "title": "T.C. TURGUTLU 1. ASLİYE HUKUK MAHKEMESİ",
+   "at": "2026-11-08T22:53:32.816976+00:00",
+   "yazim": "claude",
+   "metin": "Manisa'nın Turgutlu ilçesindeki bir arazi için tapusuz tescil davası açıldı. Davacılar, taşınmazın kendi adlarına tescilini istiyor.\n\n— Dava, Dalbahçe mahallesindeki 264 ada 1 parseli ilgilendiriyor. Taşınmazın yüzölçümü yaklaşık 1712,37 metrekare.\n— Davacılar üç kişi, karşı taraf ise Turgutlu Maliye Hazinesi.\n— Mahkeme, taşınmazda hak iddia edenlerin 3 ay içinde itiraz davası açabileceğini ya da 2026/149 esas sayılı dosyaya itiraz edebileceğini duyurdu.\n— Süre içinde itiraz gelmez ve iddialar ispatlanırsa mahkeme tescile karar verebilecek.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/resmi-ilanlar/ergani-2-asliye-hukuk-mahkemesi-3490512",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-turgutlu-1-asliye-hukuk-mahkemesi-2554536",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/resmi-ilanlar/kirsehir-4-asliye-hukuk-mahkemesi-43370465"
+   ]
   }
  ],
  "fails": {
@@ -13816,15 +13792,10 @@
   "1f6a299ac7": 1,
   "2573bd4d19": 1,
   "dc6e26ce7c": 1,
-  "7cc82b562d": 1
+  "7cc82b562d": 2,
+  "fdda146925": 1
  },
  "fail_log": [
-  "2026-11-06T22:07 44 yıl önce bugün, 1982 Anayasası %91,37 'Kabul' oyuyla yürü -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T22:07 Efsaneleşen dizilerin yazarıydı… Senarist Güliz Kucur hayatı -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T22:20 İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:58 Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza ya -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-07T00:43 T.C. ANKARA BATI 4. ASLİYE HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
@@ -13858,12 +13829,18 @@
   "2026-11-08T22:04 Vincenzo Italiano'dan Galatasaray sorusuna yanıt: 'Ligin en  -> ValueError: yanıt okunamadı",
   "2026-11-08T22:40 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı",
   "2026-11-08T22:40 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı",
-  "2026-11-08T22:40 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı"
+  "2026-11-08T22:40 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı",
+  "2026-11-08T22:53 Loris Karius, inanılmaz bir hatayla takımına gol yedirdi. -> ValueError: yanıt okunamadı",
+  "2026-11-08T22:53 Loris Karius, inanılmaz bir hatayla takımına gol yedirdi. -> ValueError: yanıt okunamadı",
+  "2026-11-08T22:53 Loris Karius, inanılmaz bir hatayla takımına gol yedirdi. -> ValueError: yanıt okunamadı",
+  "2026-11-08T22:53 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı",
+  "2026-11-08T22:53 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı",
+  "2026-11-08T22:53 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119555365968785656",
+   "since_id": "2119560830949695853",
    "started": true
   },
   "ajansmuhbir1923": {
