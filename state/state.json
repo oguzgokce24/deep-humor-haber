@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "cevde",
-    "cumhu",
-    "dan",
-    "emekl",
-    "ilgil",
-    "yapıl",
-    "yardı",
-    "yılma"
-   ],
-   "tok": [
-    "ana",
-    "artış",
-    "belir",
-    "cevde",
-    "dan",
-    "düzen",
-    "edild",
-    "emekl",
-    "enfla",
-    "epeyd",
-    "fon",
-    "iade",
-    "ilgil",
-    "kasım",
-    "liran",
-    "milya",
-    "olaca",
-    "refah",
-    "sürec",
-    "tasfi",
-    "topla",
-    "yapıl",
-    "yardı",
-    "yatır",
-    "yılma",
-    "zam",
-    "zammı",
-    "çalış",
-    "ödeme",
-    "üzeri"
-   ],
-   "at": "2026-11-06T17:32:59.133770+00:00"
-  },
-  {
-   "fp": [
     "adayı",
     "aigne",
     "alman",
@@ -10597,22 +10551,62 @@
     "ülkel"
    ],
    "at": "2026-11-08T05:32:17.609841+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "anado",
+    "kaza",
+    "nda",
+    "otoyo",
+    "yaral",
+    "zinci"
+   ],
+   "tok": [
+    "abant",
+    "anado",
+    "arkad",
+    "aynı",
+    "baysa",
+    "bolu",
+    "döndü",
+    "gelen",
+    "geçiş",
+    "giden",
+    "hasta",
+    "ilerl",
+    "izzet",
+    "kaldı",
+    "kar",
+    "karış",
+    "kayga",
+    "kazay",
+    "köroğ",
+    "mevki",
+    "nda",
+    "neden",
+    "norma",
+    "nun",
+    "otomo",
+    "otoyo",
+    "rampa",
+    "saat",
+    "sıral",
+    "trafi",
+    "tır",
+    "tırın",
+    "yağış",
+    "yolda",
+    "yönde",
+    "yönün",
+    "zinci",
+    "çarpı",
+    "ünive"
+   ],
+   "at": "2026-11-08T05:44:48.613948+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7d1a2c71da",
-   "post_id": "529346797199852_1458441996395508",
-   "title": "Mardin'de bisikletiyle evine giden öğretmene yorgun mermi isabet etti",
-   "at": "2026-11-05T13:17:36.668964+00:00",
-   "yazim": "claude",
-   "metin": "Mardin'in Kızıltepe ilçesinde bisikletiyle evine giden bir öğretmen, bacağına yorgun mermi isabet ederek yaralandı.\n\nOlay öğle saatlerinde Mezopotamya Mahallesi'nde yaşandı. Öğretmen ambulansla hastaneye kaldırıldı ve sağlık durumunun iyi olduğu bildirildi.\n\nPolis, merminin hangi silahtan ateşlendiğini ve kimin ateş ettiğini araştırıyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/mardin/mardin-bisikletle-giden-ogretmenin-bacagina-yorgun-mermi-isabet-etti-3489507",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mardin-de-bisikletiyle-evine-giden-ogretmene-yorgun-mermi-isabet-etti-2553614",
-    "Evrensel: https://www.evrensel.net/haber/6008156/mardinde-evine-giderken-yorgun-merminin-hedefi-olan-ogretmen-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "6761c8e060",
    "post_id": "529346797199852_1458455619727479",
@@ -13118,6 +13112,17 @@
     "Evrensel: https://www.evrensel.net/haber/6008490/birlesik-arap-emirlikleri-duyurdu-umman-denizinde-kargo-gemisinde-yangin-cikti-22-kisi-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/umman-denizi-nde-kargo-gemisinde-yangin-22-kisi-kurtarildi-745229"
    ]
+  },
+  {
+   "id": "596a95f7ca",
+   "post_id": "529346797199852_1461368742769500",
+   "title": "Anadolu Otoyolu’nda zincirleme kaza: 6 yaralı",
+   "at": "2026-11-08T05:44:48.613948+00:00",
+   "yazim": "claude",
+   "metin": "Bolu'da Anadolu Otoyolu'nun Köroğlu Rampası mevkisinde zincirleme kaza oldu, 6 kişi yaralandı.\n\n— Saat 20.30 sıralarında Ankara yönünde giden bir otomobil, aynı yönde ilerleyen başka bir otomobille çarpıştı. Kar yağışı nedeniyle kayganlaşan yolda arkadan gelen 4 otomobil ile bir TIR da kazaya karıştı.\n— Yaralılar Abant İzzet Baysal Üniversitesi Hastanesi'ne kaldırıldı.\n— Araçlar yoldan kaldırıldıktan sonra Ankara yönündeki trafik normale döndü.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008493/anadolu-otoyolunda-zincirleme-kaza-6-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13306,7 +13311,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119301556151431466",
+   "since_id": "2119303006210457724",
    "started": true
   },
   "ajansmuhbir1923": {
