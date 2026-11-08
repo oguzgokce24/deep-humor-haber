@@ -2,66 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "82",
-    "ilde",
-    "istan",
-    "kişi",
-    "merke",
-    "opera",
-    "satıc",
-    "sokak",
-    "tutuk",
-    "uyuşt",
-    "yönel",
-    "zanlı"
-   ],
-   "tok": [
-    "adli",
-    "adliy",
-    "alınd",
-    "anda",
-    "arama",
-    "aynı",
-    "bursa",
-    "bırak",
-    "düzen",
-    "edile",
-    "ekipl",
-    "emniy",
-    "erzin",
-    "gires",
-    "gram",
-    "hap",
-    "içere",
-    "işlem",
-    "kayse",
-    "kontr",
-    "madde",
-    "mücad",
-    "müdür",
-    "narko",
-    "peçet",
-    "satıc",
-    "serbe",
-    "sevk",
-    "sokak",
-    "suçla",
-    "tacir",
-    "tamam",
-    "uyuşt",
-    "yönel",
-    "yürüt",
-    "zaman",
-    "zanlı",
-    "zehir",
-    "şartı",
-    "şube"
-   ],
-   "at": "2026-11-07T08:00:10.916938+00:00"
-  },
-  {
-   "fp": [
     "arana",
     "baron",
     "bülte",
@@ -11172,22 +11112,70 @@
     "şaram"
    ],
    "at": "2026-11-08T19:57:47.869575+00:00"
+  },
+  {
+   "fp": [
+    "otomo",
+    "seyya",
+    "çarpt"
+   ],
+   "tok": [
+    "adam",
+    "ambul",
+    "araba",
+    "ağır",
+    "başla",
+    "belir",
+    "birli",
+    "bulun",
+    "ekipl",
+    "etkis",
+    "gelen",
+    "geçme",
+    "hafif",
+    "hasta",
+    "hayva",
+    "ilgil",
+    "istey",
+    "kaldı",
+    "karşı",
+    "kavşa",
+    "kimli",
+    "kütah",
+    "olay",
+    "olayl",
+    "otomo",
+    "pazar",
+    "satıc",
+    "savru",
+    "sağlı",
+    "seyya",
+    "sonuc",
+    "sürüc",
+    "sürüy",
+    "tavşa",
+    "teker",
+    "tespi",
+    "ticar",
+    "yakın",
+    "yerin",
+    "yola",
+    "yolcu",
+    "yolu",
+    "yolun",
+    "çalış",
+    "çarpm",
+    "çarpt",
+    "çevre",
+    "ölen",
+    "üzeri",
+    "şahıs",
+    "şehir"
+   ],
+   "at": "2026-11-08T20:10:19.137366+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1ea701f1c3",
-   "post_id": "529346797199852_1459933896246318",
-   "title": "Kaza sonrası alev alan araçta 2 kişi yanarak can verdi",
-   "at": "2026-11-06T23:15:56.323390+00:00",
-   "yazim": "claude",
-   "metin": "Kazanın ardından alev alan otomobilde sürücü ve yanındaki kişi yanarak can verdi.\n\nKazayı gören sürücüler jandarma, itfaiye ve sağlık ekiplerine haber verdi. Gelen itfaiye ekipleri ve çevredeki kişiler yangın tüpleriyle müdahale ederek alevleri söndürdü.\n\n— Yaralanan TIR şoförü hastanede tedavi altına alındı. Durumunun iyi olduğu belirtildi.\n— Cenazeler, savcı ve olay yeri inceleme ekiplerinin incelemesinin ardından Çan Devlet Hastanesi morguna kaldırıldı.\n— Ölenlerin kimlikleri belirlenmeye çalışılırken kazayla ilgili soruşturma başlatıldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/canakkalede-feci-kaza-tir-ile-carpisip-alev-alan-otomobildeki-2-kisi-oldu-3490117",
-    "Habertürk: https://www.haberturk.com/gundem/canakkale-de-tir-ile-carpisan-otomobil-yandi-2-olu-3925538",
-    "Sözcü: https://www.sozcu.com.tr/kaza-sonrasi-alev-alan-aracta-2-kisi-yanarak-can-verdi-p376777"
-   ]
-  },
   {
    "id": "50d7fb74cb",
    "post_id": "529346797199852_1459940429578998",
@@ -13716,6 +13704,18 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/aydin/aydinda-devrilen-cipteki-1-kisi-oldu-5-kisi-yaralandi-3490714",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aydin-da-cip-sarampole-devrildi-1-olu-4-yarali-2554527"
    ]
+  },
+  {
+   "id": "35ec4e6783",
+   "post_id": "529346797199852_1462083589364682",
+   "title": "Seyyar aracıyla yola savruldu: Aracın çarptığı şahıs hayatını kaybetti",
+   "at": "2026-11-08T20:10:19.137366+00:00",
+   "yazim": "claude",
+   "metin": "Kütahya'da üç tekerlekli seyyar arabasıyla yolun karşısına geçmeye çalışan bir adam, hafif ticari aracın çarpması sonucu hayatını kaybetti.\n\n— Kaza, Kütahya-Tavşanlı Çevre Yolu üzerindeki Canlı Hayvan Pazarı yakınlarındaki kavşakta oldu.\n— Çarpmanın etkisiyle seyyar arabasıyla birlikte yola savrulan adam ağır yaralandı. Olay yerine gelen sağlık ekipleri hayatını kaybettiğini tespit etti.\n— Hafif ticari aracın sürücüsü ve yolcusu da yaralandı, ambulanslarla Kütahya Şehir Hastanesi'ne kaldırıldı.\n— Ölen kişinin kimliğinin belirlenmesi için çalışma sürüyor, olayla ilgili soruşturma başlatıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/kutahya/kutahyada-hafif-ticari-aracin-carptigi-seyyar-satici-oldu-3490708",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/seyyar-araciyla-yola-savruldu-aracin-carptigi-sahis-hayatini-kaybetti-2554515"
+   ]
   }
  ],
  "fails": {
@@ -13913,7 +13913,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119518482412818837",
+   "since_id": "2119521437023392114",
    "started": true
   },
   "ajansmuhbir1923": {
