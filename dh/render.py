@@ -336,9 +336,40 @@ def _draw_layout(d, L, x0, y0, fill):
         y += L["lh"]
 
 
+SCORE_H = 250
+
+
+def _score_band(canvas: Image.Image, sc: dict, top: int, navy, accent, txt):
+    """Maç sonucu bandı: üstte lig/hafta, iki satır takım + skor, altta goller. Logo kullanılmaz."""
+    x0, x1 = TEXT_X - 18, TEXT_R
+    panel = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+    pd = ImageDraw.Draw(panel)
+    pd.rounded_rectangle([x0, top, x1, top + SCORE_H], 22, fill=navy + (215,))
+    pd.rounded_rectangle([x0, top, x0 + 10, top + SCORE_H], 5, fill=accent + (255,))
+    canvas.alpha_composite(panel)
+    d = ImageDraw.Draw(canvas)
+    info = tr_upper(sc.get("info", ""))
+    if info:
+        d.text((x0 + 36, top + 22), info, font=font("bold", 22), fill=accent)
+    fteam, fnum = font("headline", 50), font("headline", 72)
+    rows = [(sc["home"], sc["home_score"]), (sc["away"], sc["away_score"])]
+    hs, as_ = int(sc["home_score"]), int(sc["away_score"])
+    for k, (team, num) in enumerate(rows):
+        y = top + 58 + k * 74
+        win = (k == 0 and hs > as_) or (k == 1 and as_ > hs)
+        d.text((x0 + 36, y + 6), tr_upper(team), font=fteam, fill=txt if win or hs == as_ else (200, 214, 210))
+        box = [x1 - 112, y - 2, x1 - 28, y + 70]
+        d.rounded_rectangle(box, 12, fill=accent if win else (255, 255, 255))
+        d.text(((box[0] + box[2]) // 2, (box[1] + box[3]) // 2 + 2), str(num), font=fnum,
+               fill=navy, anchor="mm")
+    goals = sc.get("goals", "")
+    if goals:
+        d.text((x0 + 36, top + SCORE_H - 40), goals, font=font("medium", 22), fill=(220, 232, 228))
+
+
 def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label="TÜRKİYE",
                 brand=None, theme=None, when: datetime | None = None, out_path=None,
-                footer: str | None = None, body: str | None = None) -> Image.Image:
+                footer: str | None = None, body: str | None = None, score: dict | None = None) -> Image.Image:
     brand = brand or {"name": "DEEP HUMOR", "short": "DEEP HUMOR", "monogram": "DH"}
     theme = theme or {}
     navy = hex2rgb(theme.get("overlay", theme.get("navy", "#06322F")))   # karartma tonu
@@ -349,15 +380,22 @@ def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label=
 
 
     # Metin düzeni: body (çok paragraflı, **kalın** işaretli) varsa o, yoksa başlık
-    markup = fit_card_text(body, TEXT_R - TEXT_X, max_h=480) if body else f"**{title.strip()}**"
-    layout = _layout_body(markup, TEXT_R - TEXT_X, max_h=480)
+    text_h = 300 if score else 480          # skor bandı varsa görseldeki metin kısalır
+    markup = fit_card_text(body, TEXT_R - TEXT_X, max_h=text_h) if body else f"**{title.strip()}**"
+    layout = _layout_body(markup, TEXT_R - TEXT_X, max_h=text_h)
     head_bottom = 1180
     head_top = head_bottom - layout["height"]
+    score_top = None
+    if score:
+        score_top = head_top - 60 - SCORE_H
+        head_top_for_photo = score_top
+    else:
+        head_top_for_photo = head_top
 
     im = load_photo(photo) if photo is not None else None
-    base = compose_photo(im, head_top) if im else _fallback_bg(navy)
+    base = compose_photo(im, head_top_for_photo) if im else _fallback_bg(navy)
 
-    canvas = _grade(base, navy, start=max(380, head_top - 380))
+    canvas = _grade(base, navy, start=max(380, head_top_for_photo - 380))
     d = ImageDraw.Draw(canvas)
 
     # Silik büyük tırnak (yalnızca alıntı içeren metinlerde)
@@ -370,6 +408,9 @@ def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label=
     d.rounded_rectangle([BAR_X, BAR_TOP, BAR_X + BAR_W, BAR_BOTTOM], BAR_W // 2, fill=strip)
     _logo(d, canvas, accent, brand, ring=strip, ink=hex2rgb(theme.get("logo_text", "#FFFFFF")))
     _side_labels(canvas, strip_txt, brand.get("short", brand.get("name", "")), label)
+
+    if score:
+        _score_band(canvas, score, score_top, navy, accent, txt)
 
     # Metnin üstünde kısa vurgu çizgisi
     d.rounded_rectangle([TEXT_X, head_top - 30, TEXT_X + 70, head_top - 22], 4, fill=accent)
