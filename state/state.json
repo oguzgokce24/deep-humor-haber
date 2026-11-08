@@ -2,49 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ardın",
-    "değiş",
-    "kabin",
-    "seçim",
-    "trump",
-    "yenil"
-   ],
-   "tok": [
-    "abd",
-    "adım",
-    "almay",
-    "ancak",
-    "ardın",
-    "belir",
-    "birka",
-    "cbs",
-    "değiş",
-    "donal",
-    "geldi",
-    "genel",
-    "gidec",
-    "görev",
-    "hazır",
-    "hemen",
-    "ismi",
-    "kabin",
-    "kongr",
-    "konuş",
-    "memnu",
-    "news",
-    "planl",
-    "röpor",
-    "seçim",
-    "sinya",
-    "tan",
-    "trump",
-    "verdi",
-    "yenil"
-   ],
-   "at": "2026-11-07T08:50:22.251428+00:00"
-  },
-  {
-   "fp": [
     "erken",
     "güldü",
     "hasad",
@@ -11145,21 +11102,40 @@
     "ürünü"
    ],
    "at": "2026-11-08T20:46:26.601888+00:00"
+  },
+  {
+   "fp": [
+    "amcas",
+    "kabai",
+    "rojin",
+    "saldı"
+   ],
+   "tok": [
+    "ahmet",
+    "ailen",
+    "aldığ",
+    "amcas",
+    "avuka",
+    "babas",
+    "belir",
+    "bırak",
+    "davad",
+    "davas",
+    "duyur",
+    "ettiğ",
+    "hedef",
+    "kabai",
+    "maske",
+    "nizam",
+    "rojin",
+    "tehdi",
+    "uğrad",
+    "vazge"
+   ],
+   "at": "2026-11-08T20:59:30.396029+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "89c3f68a08",
-   "post_id": "529346797199852_1459963792909995",
-   "title": "Bakırköy'de araç yayalara çarptı: 18 yaşındaki Ayşe öldü, 3 ağır yaralı",
-   "at": "2026-11-07T00:06:22.914708+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Bakırköy ilçesinde hafif ticari araç yolun karşısına geçmeye çalışan yayalara çarptı, 18 yaşındaki bir genç kız hayatını kaybetti.\n\n— Kaza akşam saat 18.30 sıralarında Yeşilköy Halkalı Caddesi'nde oldu.\n\n— Çarpmanın etkisiyle metrelerce savrulan 4 kişi yaralandı, ağır yaralanan genç kız hayatını kaybetti.\n\n— Diğer 3 yaralının hayati tehlikesi sürüyor. Aracın sürücüsü gözaltına alındı ve polis kazayla ilgili inceleme başlattı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/bakirkoyde-arac-yayalara-carpti-18-yasindaki-ayse-oldu-3-agir-yarali-p376786",
-    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/bakirkoyde-hafif-ticari-arac-yayalara-carpti-bir-kisi-oldu-uc-kisi-yaralandi-4870422"
-   ]
-  },
   {
    "id": "a7898bda0e",
    "post_id": "529346797199852_1459969242909450",
@@ -13690,6 +13666,19 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/bakanliktan-guvensiz-okul-formasi-icin-toplatma-karari-2083032"
    ]
+  },
+  {
+   "id": "64b2f44c70",
+   "post_id": "529346797199852_1462112082695166",
+   "title": "Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdidi",
+   "at": "2026-11-08T20:59:30.396029+00:00",
+   "yazim": "yedek",
+   "metin": "Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdidi.\n\nRojin Kabaiş’in amcası Ahmet Kabaiş, İstanbul’da 4 maskeli kişinin saldırısına uğradı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/rojin-kabais-amcasina-saldiri-p379327",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/ailenin-avukati-duyurdu-rojin-kabais-in-amcasina-saldiri-rojin-davasini-birakin-2554550",
+    "Evrensel: https://www.evrensel.net/haber/6008587/rojin-kabais-in-amcasina-saldirdilar-davadan-vazgec-tehdidi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13844,9 +13833,6 @@
   "7df2a6171b": 2
  },
  "fail_log": [
-  "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13883,12 +13869,15 @@
   "2026-11-08T16:40 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
   "2026-11-08T16:40 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ValueError: yanıt okunamadı",
   "2026-11-08T16:40 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ValueError: yanıt okunamadı",
-  "2026-11-08T16:40 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ValueError: yanıt okunamadı"
+  "2026-11-08T16:40 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ValueError: yanıt okunamadı",
+  "2026-11-08T20:59 Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdi -> ValueError: yanıt okunamadı",
+  "2026-11-08T20:59 Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdi -> ValueError: yanıt okunamadı",
+  "2026-11-08T20:59 Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119528924770172983",
+   "since_id": "2119533059578228988",
    "started": true
   },
   "ajansmuhbir1923": {
