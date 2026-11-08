@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "arı",
-    "cezae",
-    "gazet",
-    "ismai",
-    "tutuk",
-    "ziyar",
-    "özel",
-    "özgür"
-   ],
-   "tok": [
-    "arı",
-    "birgü",
-    "bulun",
-    "cezae",
-    "değil",
-    "eşimi",
-    "gazet",
-    "genel",
-    "gözya",
-    "gündü",
-    "ismai",
-    "kent",
-    "muhab",
-    "mücad",
-    "nde",
-    "parti",
-    "sinca",
-    "sorul",
-    "teker",
-    "unuta",
-    "vurgu",
-    "yaman",
-    "yanıt",
-    "yardı",
-    "ziyar",
-    "ödülü",
-    "öncek",
-    "özel",
-    "özgür"
-   ],
-   "at": "2026-11-06T21:41:15.968025+00:00"
-  },
-  {
-   "fp": [
     "112",
     "bakan",
     "durum",
@@ -10755,20 +10711,62 @@
     "ındia"
    ],
    "at": "2026-11-08T09:30:30.488590+00:00"
+  },
+  {
+   "fp": [
+    "baraj",
+    "dolul",
+    "durum",
+    "iski",
+    "istan",
+    "oranl"
+   ],
+   "tok": [
+    "ana",
+    "ardın",
+    "baraj",
+    "boş",
+    "daki",
+    "darlı",
+    "dolu",
+    "dolul",
+    "durum",
+    "düşük",
+    "etkil",
+    "genel",
+    "göre",
+    "görül",
+    "günle",
+    "ihtiy",
+    "ise",
+    "iski",
+    "itiba",
+    "karşı",
+    "kasım",
+    "kayde",
+    "kaç",
+    "kenti",
+    "nda",
+    "nin",
+    "oran",
+    "oranl",
+    "oranı",
+    "ortal",
+    "pabuç",
+    "payla",
+    "sağan",
+    "sağla",
+    "seviy",
+    "veril",
+    "yağış",
+    "yükse",
+    "yüzde",
+    "şidde"
+   ],
+   "at": "2026-11-08T09:43:08.322919+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9ff3ac364e",
-   "post_id": "529346797199852_1459068932999481",
-   "title": "AB’den Kıbrıs Uyarısı: “İki Devletli Çözüm BM Kararlarıyla Çelişiyor”",
-   "at": "2026-11-06T04:16:28.111513+00:00",
-   "yazim": "claude",
-   "metin": "AB, Türkiye'nin Kıbrıs politikasını eleştirdi.\n\n— Avrupa Komisyonu'nun 2026 Türkiye Raporu'nda Ankara'nın adadaki adımları hedef alındı.\n— AB'ye göre iki devletli çözüm BM kararlarıyla çelişiyor.\n— Brüksel, müzakere sürecini zorlaştıracak adımlardan kaçınılmasını istedi.\n— Ankara ise raporu taraflı ve adaletsiz bulduğunu açıkladı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/makale/abden-kibris-uyarisi-iki-devletli-cozum-bm-kararlariyla-celisiyor-744873"
-   ]
-  },
   {
    "id": "bead2fa986",
    "post_id": "529346797199852_1459104522995922",
@@ -13270,6 +13268,19 @@
     "BirGün: https://www.birgun.net/haber/elena-rybakina-viral-enfeksiyon-nedeniyle-wta-finallerinden-cekildi-745263",
     "Sözcü Spor: https://www.sozcu.com.tr/rybakina-wta-finalleri-nden-cekildi-p377174"
    ]
+  },
+  {
+   "id": "11cd7246ea",
+   "post_id": "529346797199852_1461543802751994",
+   "title": "İSKİ paylaştı: İstanbul'da barajların doluluk oranında son durum",
+   "at": "2026-11-08T09:43:08.322919+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'daki barajların ortalama doluluk oranı 8 Kasım itibarıyla yüzde 61,96 oldu.\n\n— İSKİ'nin açıkladığı verilere göre kentin su ihtiyacını karşılayan on ana barajın genel ortalaması bu seviye.\n— En dolu baraj yüzde 95,08 ile Darlık Barajı oldu.\n— En boş baraj ise yüzde 7,83 ile Pabuçdere Barajı oldu.\n— Son günlerde etkili olan şiddetli sağanak yağışların ardından doluluk oranlarında yükseliş görüldü.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/bilgi/foto/i-stanbul-baraj-doluluk-oranlari-8-kasim-2026-i-ski-acikladi-i-stanbul-baraj-doluluk-oranlari-yuzde-kac-oldu-3925755",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/iski-acikladi-8-kasim-2026-istanbul-baraj-doluluk-oranlari-yuzde-kac-oldu-barajlarda-son-durum-2554328",
+    "BirGün: https://www.birgun.net/haber/iski-paylasti-istanbul-da-barajlarin-doluluk-oraninda-son-durum-745250"
+   ]
   }
  ],
  "fails": {
@@ -13461,7 +13472,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119361172600147975",
+   "since_id": "2119363344599540204",
    "started": true
   },
   "ajansmuhbir1923": {
