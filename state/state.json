@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "fon",
-    "ilişk",
-    "kaybe",
-    "kaygı",
-    "maliy",
-    "prest",
-    "siyas",
-    "soruş"
-   ],
-   "tok": [
-    "acıma",
-    "akp",
-    "aktar",
-    "ardın",
-    "aynı",
-    "belir",
-    "betül",
-    "bizde",
-    "ciddi",
-    "değer",
-    "durum",
-    "erdoğ",
-    "eski",
-    "fatma",
-    "fon",
-    "geleb",
-    "göre",
-    "günde",
-    "güven",
-    "hiçbi",
-    "ilişk",
-    "isiml",
-    "isme",
-    "içind",
-    "kaya",
-    "kaybı",
-    "kaygı",
-    "konud",
-    "kulis",
-    "maliy",
-    "mesaj",
-    "muhaf",
-    "nın",
-    "olayl",
-    "olsa",
-    "parti",
-    "prest",
-    "recep",
-    "sayan",
-    "sert",
-    "seçme",
-    "siyas",
-    "sürec",
-    "tavrı",
-    "tayyi",
-    "topar",
-    "tutum",
-    "uzakl",
-    "uzanm",
-    "verir",
-    "yapıl",
-    "yarat"
-   ],
-   "at": "2026-11-07T01:51:49.114212+00:00"
-  },
-  {
-   "fp": [
     "44",
     "71",
     "arkas",
@@ -11120,20 +11052,70 @@
     "çıktı"
    ],
    "at": "2026-11-08T13:41:10.490320+00:00"
+  },
+  {
+   "fp": [
+    "247",
+    "akıll",
+    "ankar",
+    "bakan",
+    "güzer",
+    "kilom",
+    "korid",
+    "kurul",
+    "ulaşı",
+    "uralo"
+   ],
+   "tok": [
+    "abdul",
+    "akıll",
+    "aland",
+    "altya",
+    "aus",
+    "bağla",
+    "belir",
+    "daki",
+    "deney",
+    "devam",
+    "edip",
+    "ettiğ",
+    "geniş",
+    "gölba",
+    "güzer",
+    "hasda",
+    "haval",
+    "hedef",
+    "kapsa",
+    "kesim",
+    "kilom",
+    "korid",
+    "kurul",
+    "oluşt",
+    "otomo",
+    "otono",
+    "otoyo",
+    "oğulb",
+    "polat",
+    "proje",
+    "siste",
+    "sürüy",
+    "tekno",
+    "test",
+    "ulaşt",
+    "ulaşı",
+    "uralo",
+    "uygul",
+    "yakla",
+    "yolu",
+    "yönel",
+    "çalış",
+    "çevre",
+    "öneml"
+   ],
+   "at": "2026-11-08T13:54:42.164324+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fe4303e6e5",
-   "post_id": "529346797199852_1459680309605010",
-   "title": "57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşındaki anneme hediye edeceğim!\"",
-   "at": "2026-11-06T17:07:01.724194+00:00",
-   "yazim": "yedek",
-   "metin": "57 yaşında üniversite sıralarına döndü: \"O diplomayı 84 yaşındaki anneme hediye edeceğim!\".\n\nEskişehir'de yaşayan bir çocuk annesi Ayşe Gezer, yarım kalan çocukluk hayalinin peşini bırakmayarak 57 yaşında üniversite öğrencisi oldu.",
-   "sources": [
-    "Karar: https://www.karar.com/insan-haberleri/57-yasinda-universite-siralarina-dondu-o-diplomayi-84-yasindaki-anneme-2082762"
-   ]
-  },
   {
    "id": "aaa2777533",
    "post_id": "529346797199852_1459698072936567",
@@ -13656,6 +13638,21 @@
     "BirGün: https://www.birgun.net/haber/caykur-rizespor-evindeki-ilk-galibiyetini-aldi-745293",
     "Sözcü Spor: https://www.sozcu.com.tr/caykur-rizespor-haftalar-sonra-guldu-erzurumspor-u-yendi-p377233"
    ]
+  },
+  {
+   "id": "2844883205",
+   "post_id": "529346797199852_1461754359397605",
+   "title": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor",
+   "at": "2026-11-08T13:54:42.164324+00:00",
+   "yazim": "claude",
+   "metin": "Ankara'da 247 kilometrelik akıllı ulaşım koridoru kurulması için proje çalışmaları sürüyor.\n\n— Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, koridorun Ankara Çevre Otoyolu, Gölbaşı-Oğulbey ve Polatlı kesimleriyle Polatlı-Gölbaşı-Ankara Çevre Yolu güzergahını kapsadığını söyledi.\n— Hedef, bağlantılı ve otonom araç teknolojilerini Ankara'da daha geniş bir alanda test edip uygulamak.\n— Bakan, İstanbul'daki yaklaşık 40 kilometrelik Hasdal-İstanbul Havalimanı test koridorundaki deneyimlerin bu proje için önemli bir altyapı oluşturduğunu belirtti.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/ankarada-247-kilometrelik-akilli-ulasim-koridoru-olusturulacak-962601.html",
+    "Milliyet: https://www.milliyet.com.tr/ekonomi/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-7696805",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-3490574",
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-1749992",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/ekonomi/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-7696805"
+   ]
   }
  ],
  "fails": {
@@ -13804,7 +13801,6 @@
   "0a98747a81": 1
  },
  "fail_log": [
-  "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13843,12 +13839,13 @@
   "2026-11-07T10:43 Hakan Bahçetepe hakkında tahliye kararı: İmamoğlu “Niçin?” d -> ValueError: metin çok kısa, bağlam yok",
   "2026-11-07T18:57 Eski MASAK Başkan Yardımcısı Ramazan Başak: “Şahap Kavcıoğlu -> ValueError: cümle yarım kalmış: '— İstanbul Cumhuriyet Başsavc'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-08T02:30 Atakum Belediyesi’nde maaş krizi: 13 işçi daha işten çıkarıl -> ValueError: cümle yarım kalmış: '— Daha önce de altı em'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-08T09:54 Carnegie Europe'dan Türkiye analizi: Avrupa ile ilişkilerde  -> ValueError: cümle yarım kalmış: 'ltmayı hedefleyen Küresel Metan Taahhüdü'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-08T09:54 Carnegie Europe'dan Türkiye analizi: Avrupa ile ilişkilerde  -> ValueError: cümle yarım kalmış: 'ltmayı hedefleyen Küresel Metan Taahhüdü'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-08T13:54 Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor -> ValueError: cümle yarım kalmış: 'sdal ile İstanbul Havalimanı arasında ya'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119422379780984945",
+   "since_id": "2119425287570014339",
    "started": true
   },
   "ajansmuhbir1923": {
