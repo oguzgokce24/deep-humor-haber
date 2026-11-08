@@ -2,130 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akınc",
-    "başka",
-    "beled",
-    "geliş",
-    "karar",
-    "mesut",
-    "soruş",
-    "tahli",
-    "yardı",
-    "çanka"
-   ],
-   "tok": [
-    "akınc",
-    "arala",
-    "beled",
-    "bulun",
-    "can",
-    "geliş",
-    "güner",
-    "hüsey",
-    "ihale",
-    "kapsa",
-    "kurma",
-    "mesut",
-    "rüşve",
-    "suç",
-    "tahli",
-    "temmu",
-    "veril",
-    "yardı",
-    "yönel",
-    "yürüt",
-    "çanka",
-    "örgüt"
-   ],
-   "at": "2026-11-06T14:25:10.006730+00:00"
-  },
-  {
-   "fp": [
-    "darbe",
-    "ele",
-    "geçir",
-    "golan",
-    "iddia",
-    "iktid",
-    "israi",
-    "lider",
-    "muhal",
-    "netan",
-    "planl",
-    "suçla"
-   ],
-   "tok": [
-    "başba",
-    "belir",
-    "benya",
-    "darbe",
-    "demok",
-    "golan",
-    "güven",
-    "halin",
-    "iddia",
-    "iktid",
-    "israi",
-    "kulla",
-    "kurum",
-    "lider",
-    "muhal",
-    "netan",
-    "nun",
-    "panik",
-    "parti",
-    "planl",
-    "suçla",
-    "sürdü",
-    "yair",
-    "öne"
-   ],
-   "at": "2026-11-06T14:25:25.470648+00:00"
-  },
-  {
-   "fp": [
-    "den",
-    "içeri",
-    "siste",
-    "suçla",
-    "tikto",
-    "öneri"
-   ],
-   "tok": [
-    "algor",
-    "byted",
-    "cezas",
-    "deliğ",
-    "den",
-    "devi",
-    "etkil",
-    "içeri",
-    "kalac",
-    "kulla",
-    "olums",
-    "para",
-    "ruh",
-    "sağlı",
-    "siste",
-    "sorun",
-    "suçla",
-    "takdi",
-    "tavşa",
-    "tekno",
-    "tikto",
-    "tuzağ",
-    "veriy",
-    "zarar",
-    "zorun",
-    "çinli",
-    "çözme",
-    "ödeme",
-    "öneri"
-   ],
-   "at": "2026-11-06T14:28:50.594544+00:00"
-  },
-  {
-   "fp": [
     "15",
     "5",
     "avrup",
@@ -10666,24 +10542,77 @@
     "şimdi"
    ],
    "at": "2026-11-08T02:17:18.102517+00:00"
+  },
+  {
+   "fp": [
+    "13",
+    "ataku",
+    "beled",
+    "işten",
+    "işçi",
+    "krizi",
+    "maaş",
+    "nde",
+    "çıkar"
+   ],
+   "tok": [
+    "akdi",
+    "alınd",
+    "ataku",
+    "aylar",
+    "ayrıl",
+    "beled",
+    "bildi",
+    "binas",
+    "dayan",
+    "değil",
+    "disk",
+    "düşün",
+    "etmes",
+    "eylem",
+    "feshe",
+    "genel",
+    "gönde",
+    "hak",
+    "hakla",
+    "haksı",
+    "harek",
+    "hedef",
+    "iddia",
+    "ifade",
+    "istem",
+    "itira",
+    "içind",
+    "işten",
+    "işver",
+    "işçi",
+    "işçil",
+    "işçin",
+    "krizi",
+    "kulla",
+    "maaş",
+    "mücad",
+    "nde",
+    "nöbet",
+    "oturm",
+    "samsu",
+    "sendi",
+    "suç",
+    "sözcü",
+    "yapan",
+    "yapıl",
+    "yazıl",
+    "yürüy",
+    "çıkar",
+    "ödenm",
+    "ücret",
+    "ünün",
+    "üyesi"
+   ],
+   "at": "2026-11-08T02:30:06.532504+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b5149b57c9",
-   "post_id": "529346797199852_1458234066416301",
-   "title": "Araçlar peş peşe sıralandı, uzun kuyruklar oluştu: İstanbul'da metrobüs yoğunluğu",
-   "at": "2026-11-05T08:38:09.155398+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da sabah saatlerinde metrobüs hattında uzun kuyruklar oluştu.\n\n— Avcılar Merkez ile Sefaköy durakları arasında çok sayıda metrobüs arka arkaya sıralandı.\n— İşe ve okula gidenlerin yoğun kullandığı hatta araçlar ilerlemekte zorlandı.\n— Yoğunluğun bir kaza ya da arızadan kaynaklanmadığı öğrenildi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/istanbulda-metrobusler-uzun-kuyruklar-olusturdu-3489321",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/istanbulda-metrobusler-uzun-kuyruklar-olusturdu-3489314",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/araclar-pes-pese-siralandi-uzun-kuyruklar-olustu-istanbul-da-metrobus-yogunlugu-2553524",
-    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/istanbulda-metrobuslerde-sabah-yogunlugu-avcilar-ile-sefakoy-arasinda-uzun-kuyruk-olustu-4869985",
-    "Evrensel: https://www.evrensel.net/haber/6008092/istanbulda-metrobusler-uzun-kuyruklar-olusturdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "e9ae4824cd",
    "post_id": "529346797199852_1458242523082122",
@@ -13230,6 +13159,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/cubukluda-rant-endisesi-509-hane-simdi-nereye-gidecek-745197"
    ]
+  },
+  {
+   "id": "81aaaf6d5c",
+   "post_id": "529346797199852_1461210312785343",
+   "title": "Atakum Belediyesi’nde maaş krizi: 13 işçi daha işten çıkarıldı",
+   "at": "2026-11-08T02:30:06.532504+00:00",
+   "yazim": "claude",
+   "metin": "Samsun'un Atakum Belediyesi'nde aylardır ödenmeyen ücretleri için mücadele eden 13 işçinin iş akdi feshedildi.\n\n— Daha önce altı işçi işten çıkarılmıştı.\n— Maaş nöbeti ve hak mücadelesi yapan işçilerin hedef alındığı iddia edildi.\n— DİSK Genel-İş üyesi işçilere gönderilen bildirimde, işten ayrılışın işveren tarafından yapıldığı yazılı.\n— Atakum İşçi Dayanışması, belediye binasına yürüyüp oturma eylemi yaptı.\n\nAtakum Belediyesi İşçi Dayanışması Sözcüsü:\n\n“İşçilerin ücretlerini istemesi suç değildir. Haksızlığa itiraz etmesi suç değildir. Sendikal haklarını kullanması, düşüncesini ifade etmesi ve dayanışma içinde hareket etmesi suç değildir.”",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/atakum-belediyesi-nde-maas-krizi-13-isci-daha-isten-cikarildi-2554301"
+   ]
   }
  ],
  "fails": {
@@ -13373,7 +13313,6 @@
   "58c62c2cd5": 1
  },
  "fail_log": [
-  "2026-11-06T21:03 AK Parti’nin “adalete inancımız tam” şovu! -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13412,7 +13351,8 @@
   "2026-11-07T09:02 Yağmur bereket getirdi üreticinin yüzü güldü: Hasat erkene ç -> ValueError: cümle yarım kalmış: '— İzmir,'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-07T10:19 Cristiano Ronaldo’nun milli takım vedasında Jorge Jesus etki -> ValueError: cümle yarım kalmış: 's ile yaşadığı anlaşmazlığın etkili olmu'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-07T10:43 Hakan Bahçetepe hakkında tahliye kararı: İmamoğlu “Niçin?” d -> ValueError: metin çok kısa, bağlam yok",
-  "2026-11-07T18:57 Eski MASAK Başkan Yardımcısı Ramazan Başak: “Şahap Kavcıoğlu -> ValueError: cümle yarım kalmış: '— İstanbul Cumhuriyet Başsavc'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-07T18:57 Eski MASAK Başkan Yardımcısı Ramazan Başak: “Şahap Kavcıoğlu -> ValueError: cümle yarım kalmış: '— İstanbul Cumhuriyet Başsavc'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-08T02:30 Atakum Belediyesi’nde maaş krizi: 13 işçi daha işten çıkarıl -> ValueError: cümle yarım kalmış: '— Daha önce de altı em'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
