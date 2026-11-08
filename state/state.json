@@ -11144,20 +11144,54 @@
     "üzeri"
    ],
    "at": "2026-11-08T19:34:32.345810+00:00"
+  },
+  {
+   "fp": [
+    "aziz",
+    "başın",
+    "görün",
+    "maçın",
+    "tek",
+    "yıldı",
+    "çorum"
+   ],
+   "tok": [
+    "ardın",
+    "aziz",
+    "başın",
+    "daki",
+    "dikka",
+    "düşün",
+    "fener",
+    "geçti",
+    "görün",
+    "hali",
+    "izlem",
+    "izler",
+    "karşı",
+    "konuş",
+    "maçın",
+    "medya",
+    "nin",
+    "ortay",
+    "sosya",
+    "stadı",
+    "takip",
+    "takım",
+    "tek",
+    "u19",
+    "yayıl",
+    "yaşın",
+    "yıldı",
+    "çekti",
+    "çorum",
+    "çıkan",
+    "şehir"
+   ],
+   "at": "2026-11-08T19:45:17.145882+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "28749f1ce4",
-   "post_id": "529346797199852_1459915636248144",
-   "title": "Manisa’da bereketli hasat başladı: Kilosu 100 TL’ye çıktı alıcısı yine de azalmadı!",
-   "at": "2026-11-06T22:45:24.588442+00:00",
-   "yazim": "claude",
-   "metin": "Manisa'da Gördes ayvasının hasadı başladı, kilosu 50-100 TL arasında satılıyor.\n\n— Sarı renkli ve hoş kokulu ayvalar ilçe pazarındaki tezgahlarda satışa çıktı.\n— Kışlık hazırlığı yapanlar yoğun ilgi gösteriyor, ayva reçel, komposto ve tatlı yapımında tercih ediliyor.\n— Üreticiler, ürünün kalitesinden ve fiyatlardan memnun olduklarını söylüyor.\n— Üreticiler bereketli bir satış sezonu geçirmeyi bekliyor.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/manisada-bereketli-hasat-basladi-kilosu-100-tlye-cikti-alicisi-yine-de-2082784"
-   ]
-  },
   {
    "id": "50ee51c82b",
    "post_id": "529346797199852_1459922632914111",
@@ -13685,6 +13719,18 @@
     "CNN Türk: https://www.cnnturk.com/video/dunya/abdden-irana-karsi-yeni-hamle-demir-kapi-3490635",
     "BirGün: https://www.birgun.net/haber/wp-abd-iran-la-savasi-bitirmek-icin-cin-den-yardim-istedi-745321"
    ]
+  },
+  {
+   "id": "1eab2001e0",
+   "post_id": "529346797199852_1462063819366659",
+   "title": "Aziz Yıldırım’ın Çorum’daki görüntüsü dikkat çekti! U-19 maçını tek başına takip etti",
+   "at": "2026-11-08T19:45:17.145882+00:00",
+   "yazim": "claude",
+   "metin": "Aziz Yıldırım, Çorum'da Çorum FK U19 - Fenerbahçe U19 maçını tek başına izlerken görüntülendi.\n\nSosyal medyada yayılan görüntüde Yıldırım'ın düşünceli hali dikkat çekti ve çok konuşuldu.\n\n— Maçın ardından Yıldırım, A Takım'ın karşılaşmasını izlemek için Çorum Şehir Stadı'na geçti.",
+   "sources": [
+    "Sözcü Spor: https://www.sozcu.com.tr/aziz-yildirim-in-corum-daki-goruntusu-dikkat-cekti-u-19-macini-tek-basina-takip-etti-p377287",
+    "BPT (X): https://x.com/bpthaber/status/2119513916107624767"
+   ]
   }
  ],
  "fails": {
@@ -13882,7 +13928,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119508133408362797",
+   "since_id": "2119513916107624767",
    "started": true
   },
   "ajansmuhbir1923": {
