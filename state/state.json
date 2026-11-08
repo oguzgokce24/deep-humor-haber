@@ -2,76 +2,6 @@
  "seen": [
   {
    "fp": [
-    "engel",
-    "erişi",
-    "fon",
-    "hırsı",
-    "imamı",
-    "krava",
-    "vaazı"
-   ],
-   "tok": [
-    "adana",
-    "almad",
-    "borsa",
-    "camid",
-    "camii",
-    "dediğ",
-    "diyen",
-    "dolan",
-    "eleşt",
-    "engel",
-    "erişi",
-    "fon",
-    "fonla",
-    "getir",
-    "görev",
-    "görün",
-    "göste",
-    "günle",
-    "haber",
-    "hangi",
-    "hırsı",
-    "ilişk",
-    "imam",
-    "imamı",
-    "islam",
-    "kamuo",
-    "konuş",
-    "krava",
-    "krizi",
-    "makam",
-    "medya",
-    "musta",
-    "olmuş",
-    "omuz",
-    "omuza",
-    "safta",
-    "secde",
-    "sizin",
-    "skand",
-    "sosya",
-    "sözle",
-    "tartı",
-    "tepki",
-    "vaaz",
-    "vaazı",
-    "valla",
-    "verdi",
-    "vurgu",
-    "yapan",
-    "yayıl",
-    "yer",
-    "yoğun",
-    "yönel",
-    "yüreğ",
-    "üzeri",
-    "şöyle"
-   ],
-   "at": "2026-11-07T09:15:14.699019+00:00"
-  },
-  {
-   "fp": [
     "18",
     "kocae",
     "milli",
@@ -11112,20 +11042,51 @@
     "şekil"
    ],
    "at": "2026-11-08T21:12:06.095169+00:00"
+  },
+  {
+   "fp": [
+    "açısı",
+    "dinam",
+    "dönüm",
+    "frans",
+    "gençl",
+    "harek",
+    "mücad",
+    "nokta",
+    "olana",
+    "sundu",
+    "sınıf"
+   ],
+   "tok": [
+    "anda",
+    "artık",
+    "açısı",
+    "dinam",
+    "dönüm",
+    "emekç",
+    "frans",
+    "genel",
+    "gençl",
+    "gerçe",
+    "grevi",
+    "göste",
+    "harek",
+    "hem",
+    "işçi",
+    "kasım",
+    "kitle",
+    "mücad",
+    "nokta",
+    "olana",
+    "sonra",
+    "sundu",
+    "sınıf",
+    "öneml"
+   ],
+   "at": "2026-11-08T21:24:46.326022+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d48f25c3c5",
-   "post_id": "529346797199852_1459976046242103",
-   "title": "AK Parti’nin “adalete inancımız tam” şovu!",
-   "at": "2026-11-07T00:30:00.467387+00:00",
-   "yazim": "claude",
-   "metin": "Eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya, mahkeme kararıyla tutuklandı.\n\n— Kaya, \"suç örgütüne üye olma\" ve \"SPK kanununa muhalefet\" suçlamalarıyla tutuklama talebiyle mahkemeye sevk edilmişti.\n\n— Sevk haberi çıktığı sırada AK Parti Genel Başkan Yardımcısı Faruk Acar, \"hukuka güvenimiz ve adaletin tecellisine inancımız tam\" diyen bir video paylaştı.\n\n— TBMM Başkanı Numan Kurtulmuş ise \"Kimler bu işe bulaşmışsa, burunlarından fitil fitil getirilmelidir, adaletin gereği de budur\" dedi.",
-   "sources": [
-    "Karar: https://www.karar.com/yazarlar/elif-cakir/ak-partinin-adalete-inancimiz-tam-sovu-1609760"
-   ]
-  },
   {
    "id": "c15519d2d6",
    "post_id": "529346797199852_1459982952908079",
@@ -13659,6 +13620,17 @@
     "CNN Türk: https://www.cnnturk.com/spor/futbol/dusan-vlahovic-bu-sekilde-devam-etmek-istiyoruz-3490721",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/dusan-vlahovic-ten-leandro-trossard-a-yanit-boyle-devam-ederse-2554553"
    ]
+  },
+  {
+   "id": "f0c3391015",
+   "post_id": "529346797199852_1462126366027071",
+   "title": "Fransa’da mücadele bir dönüm noktasında: Gençlik hareketinin dinamikleri ve sınıflar mücadelesi açısından sunduğu olanaklar",
+   "at": "2026-11-08T21:24:46.326022+00:00",
+   "yazim": "yedek",
+   "metin": "Fransa’da mücadele bir dönüm noktasında: Gençlik hareketinin dinamikleri ve sınıflar mücadelesi açısından sunduğu olanaklar.\n\n5 Kasım genel grevi hem gençlik hareketi hem de işçi ve emekçi hareketi açısından önemli bir anda gerçekleşti.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008547/fransa-da-mucadele-bir-donum-noktasinda-genclik-hareketinin-dinamikleri-ve-siniflar-mucadelesi-acisindan-sundugu-olanaklar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13810,12 +13782,9 @@
   "f5833c708b": 1,
   "0b7abe2d94": 1,
   "6a81ecba5c": 1,
-  "7df2a6171b": 2
+  "7df2a6171b": 3
  },
  "fail_log": [
-  "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Fon soruşturmasından son durum… Bakan Çiftçi duyurdu: 112 ki -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T22:07 Gedson Fernandes: \"Futbol izlemeyi hiç sevmiyorum. Oynadığım -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13852,12 +13821,15 @@
   "2026-11-08T16:40 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ValueError: yanıt okunamadı",
   "2026-11-08T20:59 Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdi -> ValueError: yanıt okunamadı",
   "2026-11-08T20:59 Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdi -> ValueError: yanıt okunamadı",
-  "2026-11-08T20:59 Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdi -> ValueError: yanıt okunamadı"
+  "2026-11-08T20:59 Rojin Kabaiş’in amcasına saldırdılar: “Davadan vazgeç” tehdi -> ValueError: yanıt okunamadı",
+  "2026-11-08T21:24 Fransa’da mücadele bir dönüm noktasında: Gençlik hareketinin -> ValueError: yanıt okunamadı",
+  "2026-11-08T21:24 Fransa’da mücadele bir dönüm noktasında: Gençlik hareketinin -> ValueError: yanıt okunamadı",
+  "2026-11-08T21:24 Fransa’da mücadele bir dönüm noktasında: Gençlik hareketinin -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119533059578228988",
+   "since_id": "2119538610185851343",
    "started": true
   },
   "ajansmuhbir1923": {
