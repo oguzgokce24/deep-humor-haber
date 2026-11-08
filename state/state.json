@@ -2,86 +2,6 @@
  "seen": [
   {
    "fp": [
-    "eklen",
-    "geliy",
-    "okul",
-    "ruhsa",
-    "saldı",
-    "silah",
-    "önlem",
-    "şart"
-   ],
-   "tok": [
-    "ailel",
-    "alaca",
-    "amacı",
-    "amaçl",
-    "arası",
-    "ateşl",
-    "aylık",
-    "başmü",
-    "bulun",
-    "bıçak",
-    "denet",
-    "değiş",
-    "doğru",
-    "ekip",
-    "eklen",
-    "engel",
-    "erişi",
-    "evler",
-    "eğiti",
-    "gelec",
-    "geliy",
-    "genel",
-    "getir",
-    "güven",
-    "hedef",
-    "ileti",
-    "imzal",
-    "incel",
-    "içişl",
-    "kahra",
-    "kanun",
-    "kasa",
-    "kişil",
-    "milli",
-    "muhaf",
-    "musta",
-    "okul",
-    "okull",
-    "olayl",
-    "oluşa",
-    "proto",
-    "ruhsa",
-    "sakla",
-    "silah",
-    "sürec",
-    "sürüy",
-    "taki",
-    "tamam",
-    "tedbi",
-    "ulaşm",
-    "valil",
-    "yapıl",
-    "yerde",
-    "yerin",
-    "yönet",
-    "zorun",
-    "çalış",
-    "çelik",
-    "çiftç",
-    "çocuk",
-    "önlem",
-    "öğren",
-    "şanlı",
-    "şart",
-    "şartl"
-   ],
-   "at": "2026-11-07T05:55:47.327696+00:00"
-  },
-  {
-   "fp": [
     "100",
     "altın",
     "fiyat",
@@ -11162,20 +11082,71 @@
     "zorlu"
    ],
    "at": "2026-11-08T17:43:59.320296+00:00"
+  },
+  {
+   "fp": [
+    "kazas",
+    "kişi",
+    "mısır",
+    "tren",
+    "yaral"
+   ],
+   "tok": [
+    "abdul",
+    "abdül",
+    "araşt",
+    "ardın",
+    "arka",
+    "asvan",
+    "ayyat",
+    "başla",
+    "belir",
+    "biri",
+    "daki",
+    "durdu",
+    "edilm",
+    "facia",
+    "feyyu",
+    "geçic",
+    "giden",
+    "giza",
+    "göre",
+    "haber",
+    "hattı",
+    "ilçes",
+    "ise",
+    "isted",
+    "kahir",
+    "kazan",
+    "kazas",
+    "kısmı",
+    "mısır",
+    "neden",
+    "olayı",
+    "onlar",
+    "rayda",
+    "sayıs",
+    "sefer",
+    "sisi",
+    "sonuc",
+    "sorum",
+    "tespi",
+    "tren",
+    "treni",
+    "trenl",
+    "var",
+    "veril",
+    "vilay",
+    "yolcu",
+    "yönde",
+    "çarpt",
+    "çarpı",
+    "çıktı"
+   ],
+   "at": "2026-11-08T17:56:31.144521+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6595d4148c",
-   "post_id": "529346797199852_1459855812920793",
-   "title": "Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını paylaştı:",
-   "at": "2026-11-06T21:03:04.552231+00:00",
-   "yazim": "claude",
-   "metin": "Bir ev sahibi, kiraladığı evi tek maaşla geçinen çocuklu bir aileye ücretsiz vereceğini sosyal medyada duyurdu.\n\n— Ev sahibi kira talep etmediğini yazdı.\n— Kış aylarında doğalgaz giderlerinin de kendisi tarafından karşılanacağını belirtti.\n\nPaylaşım henüz bağımsız olarak teyit edilmiş değil, ayrıntılar sosyal medya paylaşımına dayanıyor.",
-   "sources": [
-    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2118810441023398397"
-   ]
-  },
   {
    "id": "6d7b2d7cd3",
    "post_id": "529346797199852_1459863786253329",
@@ -13703,6 +13674,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/canli-anlatim-besiktas-genclerbirligi-super-lig-11-hafta-mucadelesi-2554474",
     "Sözcü Spor: https://www.sozcu.com.tr/besiktas-genclerbirligi-maci-canli-anlatimi-super-lig-11-hafta-p377259"
    ]
+  },
+  {
+   "id": "989649f5af",
+   "post_id": "529346797199852_1461982836041424",
+   "title": "Mısır'da iki tren çarpıştı: En az 4 kişi hayatını kaybetti, 88 kişi yaralandı",
+   "at": "2026-11-08T17:56:31.144521+00:00",
+   "yazim": "claude",
+   "metin": "Mısır'ın Giza vilayetindeki El-Ayyat ilçesinde iki yolcu treni çarpıştı, en az 4 kişi hayatını kaybetti, 88 kişi yaralandı.\n\n— Feyyum'a giden bir tren, Asvan'a giden başka bir trenin arka kısmına çarptı ve trenlerden biri raydan çıktı.\n\n— Cumhurbaşkanı Abdulfettah el-Sisi, kazanın nedenlerinin araştırılması ve sorumluların belirlenmesi için soruşturma başlatılmasını istedi.\n\n— Bir başka haberde ölü sayısı en az 7, yaralı sayısı ise 112 olarak verildi.\n\n— Kahire-Asvan hattında tren seferleri iki yönde de geçici olarak durduruldu.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html",
+    "BBC Türkçe: https://www.bbc.com/turkce/articles/c6lyekwgg18jo?at_medium=RSS&at_campaign=rss",
+    "Euronews: https://tr.euronews.com/2026/11/08/misirda-iki-tren-carpisti-en-az-4-kisi-hayatini-kaybetti-88-kisi-yaralandi",
+    "Habertürk: https://www.haberturk.com/dunya/misir-da-tren-kazasi-cok-sayida-kisi-yaralandi-3925812",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/misir-da-tren-faciasi-4-kisi-hayatini-kaybetti-88-yarali-var-2554476",
+    "BirGün: https://www.birgun.net/haber/misir-daki-tren-kazasinda-ilk-belirlemelere-gore-4-kisi-oldu-88-kisi-yaralandi-745309"
+   ]
   }
  ],
  "fails": {
@@ -13899,7 +13886,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119484820342423821",
+   "since_id": "2119487855865024609",
    "started": true
   },
   "ajansmuhbir1923": {
