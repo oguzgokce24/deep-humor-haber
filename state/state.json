@@ -2,40 +2,6 @@
  "seen": [
   {
    "fp": [
-    "anide",
-    "devri",
-    "elazı",
-    "fırla",
-    "köpeğ",
-    "motok",
-    "yola",
-    "çarpa"
-   ],
-   "tok": [
-    "5uyt2",
-    "anda",
-    "anide",
-    "birli",
-    "devri",
-    "düştü",
-    "elazı",
-    "fırla",
-    "https",
-    "kurye",
-    "köpek",
-    "köpeğ",
-    "motok",
-    "motos",
-    "yaşan",
-    "yere",
-    "yola",
-    "çarpa",
-    "çıkın"
-   ],
-   "at": "2026-11-06T22:32:52.153697+00:00"
-  },
-  {
-   "fp": [
     "100",
     "alıcı",
     "azalm",
@@ -10978,22 +10944,65 @@
     "ülke"
    ],
    "at": "2026-11-08T10:32:36.109596+00:00"
+  },
+  {
+   "fp": [
+    "atand",
+    "kayyu",
+    "mesle",
+    "ten",
+    "yök",
+    "yükse",
+    "şişli"
+   ],
+   "tok": [
+    "adıml",
+    "alınd",
+    "arası",
+    "ardın",
+    "atand",
+    "atanm",
+    "atıld",
+    "başsa",
+    "bildi",
+    "bulun",
+    "dahil",
+    "daki",
+    "eğiti",
+    "faali",
+    "gerek",
+    "ilgil",
+    "kapsa",
+    "kayyu",
+    "kayyı",
+    "kesin",
+    "kuruc",
+    "mağdu",
+    "mesle",
+    "musta",
+    "myo",
+    "müdür",
+    "nın",
+    "okulu",
+    "sarıg",
+    "sonra",
+    "sürme",
+    "tedbi",
+    "ten",
+    "veril",
+    "yapar",
+    "yaşam",
+    "yla",
+    "yök",
+    "yükse",
+    "yürüt",
+    "öğren",
+    "şişli"
+   ],
+   "at": "2026-11-08T10:44:48.527953+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "77c8222924",
-   "post_id": "529346797199852_1459230069650034",
-   "title": "İSKİ paylaştı: İstanbul'da barajların doluluk oranında son durum",
-   "at": "2026-11-06T08:20:41.323449+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'a su sağlayan barajların doluluk oranı 6 Kasım'da yüzde 61,5 oldu.\n\nEn dolu baraj yüzde 98,04 ile Istrancalar Barajı. En boş olan ise yüzde 7,74 ile Pabuçdere Barajı. Aradaki fark, şehrin su durumunun barajlara göre çok değiştiğini gösteriyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/iski-acikladi-iste-istanbulda-barajlarin-doluluk-oraninda-son-durum-7695558",
-    "BirGün: https://www.birgun.net/haber/iski-paylasti-istanbul-da-barajlarin-doluluk-oraninda-son-durum-744892",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/iski-acikladi-iste-istanbulda-barajlarin-doluluk-oraninda-son-durum-7695558"
-   ]
-  },
   {
    "id": "96dcc6c0c0",
    "post_id": "529346797199852_1459269686312739",
@@ -13498,6 +13507,21 @@
     "CNN Türk: https://www.cnnturk.com/video/dunya/erdogan-ve-aliyev-cnn-turke-konustu-3490493",
     "Sözcü: https://www.sozcu.com.tr/buzlari-eriten-an-pistte-kol-kola-yuruduler-p377184",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/pistte-kol-kola-yuruduler-erdogan-azerbaycan-da-aliyev-havalimaninda-karsiladi-2554392"
+   ]
+  },
+  {
+   "id": "8cedae0464",
+   "post_id": "529346797199852_1461596189413422",
+   "title": "Şişli Meslek Yüksekokuluna kayyum sonrası YÖK'ten açıklama: Tedbirler alındı",
+   "at": "2026-11-08T10:44:48.527953+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'daki Şişli Meslek Yüksekokulu'na kayyum atandı. YÖK, öğrencilerin eğitiminin kesintisiz sürmesi için tedbir alındığını açıkladı.\n\n— Karar, İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü Sarıgül soruşturmasında verildi.\n\n— Okulun kurucuları arasında Mustafa Sarıgül de bulunuyor.\n\n— Soruşturmada kurucu müdür dahil 11 şüpheli hakkında gözaltı kararı verildi.\n\n— YÖK, öğrencilerin mağduriyet yaşamaması için gerekli adımların atıldığını bildirdi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/kayyum-atanmisti-yokten-sisli-myo-hakkinda-aciklama-43370429",
+    "Milliyet: https://www.milliyet.com.tr/gundem/yok-acikladi-sisli-meslek-yuksekokuluna-kayyum-atandi-7696701",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sarigul-sorusturmasinda-kayyim-atandi-yok-ten-sisli-meslek-yuksekokulu-yla-ilgili-aciklama-2554393",
+    "Karar: https://www.karar.com/guncel-haberler/sisli-meslek-yuksekokuluna-kayyum-sonrasi-yokten-aciklama-tedbirler-2082972",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/yok-acikladi-sisli-meslek-yuksekokuluna-kayyum-atandi-7696701"
    ]
   }
  ],
