@@ -2,161 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "büyüy",
-    "fon",
-    "liste",
-    "parti",
-    "skand",
-    "tepki",
-    "çağrı"
-   ],
-   "tok": [
-    "almal",
-    "ardın",
-    "aziz",
-    "ağır",
-    "babuş",
-    "betül",
-    "bitmi",
-    "büyüy",
-    "cezal",
-    "devam",
-    "ediyo",
-    "eleşt",
-    "eski",
-    "fatma",
-    "fon",
-    "isiml",
-    "istey",
-    "içind",
-    "karış",
-    "kaya",
-    "liste",
-    "mesel",
-    "mkyk",
-    "nın",
-    "parti",
-    "sayan",
-    "skand",
-    "sorun",
-    "tamam",
-    "tepki",
-    "yükse",
-    "çağrı",
-    "çözül",
-    "üyesi"
-   ],
-   "at": "2026-11-06T13:40:45.542511+00:00"
-  },
-  {
-   "fp": [
-    "14",
-    "asker",
-    "gemiy",
-    "hafta",
-    "rusya",
-    "taşıy",
-    "ukray",
-    "vurdu",
-    "yük"
-   ],
-   "tok": [
-    "asker",
-    "bildi",
-    "gemiy",
-    "hafta",
-    "rusya",
-    "savun",
-    "taşıy",
-    "ukray",
-    "vurdu",
-    "yük"
-   ],
-   "at": "2026-11-06T13:48:12.504806+00:00"
-  },
-  {
-   "fp": [
-    "abd",
-    "iran",
-    "kağıt",
-    "taahh",
-    "yetin",
-    "üzeri"
-   ],
-   "tok": [
-    "abd",
-    "adıml",
-    "ali",
-    "artık",
-    "bakır",
-    "bağlı",
-    "başla",
-    "bekle",
-    "belir",
-    "dan",
-    "genel",
-    "güven",
-    "iran",
-    "kalma",
-    "kağıt",
-    "konse",
-    "müzak",
-    "nin",
-    "sekre",
-    "somut",
-    "taahh",
-    "ulusa",
-    "vurgu",
-    "washi",
-    "yardı",
-    "yenid",
-    "yetin",
-    "yükse",
-    "yüküm",
-    "üzeri",
-    "şartı"
-   ],
-   "at": "2026-11-06T13:48:19.680745+00:00"
-  },
-  {
-   "fp": [
-    "attı",
-    "taksi",
-    "tekme",
-    "şoför"
-   ],
-   "tok": [
-    "akıla",
-    "anlar",
-    "arası",
-    "attı",
-    "attığ",
-    "açık",
-    "beled",
-    "camın",
-    "cep",
-    "dönüş",
-    "görev",
-    "kamer",
-    "kavga",
-    "otobü",
-    "sarkı",
-    "taksi",
-    "tartı",
-    "tekme",
-    "telef",
-    "trafi",
-    "verme",
-    "yansı",
-    "yol",
-    "çıkan",
-    "şoför"
-   ],
-   "at": "2026-11-06T13:52:13.381731+00:00"
-  },
-  {
-   "fp": [
     "akınc",
     "başka",
     "beled",
@@ -10625,24 +10470,59 @@
     "örgüt"
    ],
    "at": "2026-11-08T01:39:59.596285+00:00"
+  },
+  {
+   "fp": [
+    "gelec",
+    "gençl",
+    "kurac",
+    "mesaj",
+    "mücad",
+    "ortak"
+   ],
+   "tok": [
+    "alınd",
+    "ameri",
+    "anlay",
+    "avrup",
+    "açtığ",
+    "belir",
+    "dan",
+    "düzen",
+    "etkin",
+    "eğiti",
+    "gelec",
+    "gelen",
+    "geliy",
+    "gençl",
+    "geçer",
+    "geçti",
+    "hakkı",
+    "harek",
+    "kaygı",
+    "kolek",
+    "konuş",
+    "kurac",
+    "latin",
+    "mesaj",
+    "mücad",
+    "ortak",
+    "siyas",
+    "sorun",
+    "taban",
+    "taksa",
+    "tartı",
+    "uzana",
+    "vurgu",
+    "yol",
+    "yükse",
+    "örgüt",
+    "ötesi"
+   ],
+   "at": "2026-11-08T01:52:33.306972+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "07a1ecbdaa",
-   "post_id": "529346797199852_1458189036420804",
-   "title": "İstanbul'da iş insanına suikast hazırlığı iddiası: Hücre evine operasyon!",
-   "at": "2026-11-05T07:32:44.582710+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Kağıthane'de bir hücre evine operasyon düzenlendi. Polis, ünlü bir iş insanına suikast hazırlandığı iddiasıyla 4 kişiyi gözaltına aldı.\n\nEvde bir AK-47 tüfek, ruhsatsız bir tabanca ve çok sayıda fişek bulundu.\n\nŞüphelilerin İstanbul dışından gelip evi kiraladıkları iddia ediliyor. Soruşturma sürüyor.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/hucre-evine-baskin-yapildi-taninmis-is-insanina-suikast-plani-son-anda-onlendi-43366568",
-    "Milliyet: https://www.milliyet.com.tr/gundem/istanbulda-taninmis-bir-is-insanina-suikast-hazirligi-iddiasi-hucre-evinden-ak-47-ve-muhimmat-cikti-7694677",
-    "NTV: https://www.ntv.com.tr/turkiye/hucre-evinden-unlu-is-insanina-suikast-hazirligi-cikti-1749483",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-is-insanina-suikast-hazirligi-iddiasi-hucre-evine-operasyon-2553489",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/istanbulda-taninmis-bir-is-insanina-suikast-hazirligi-iddiasi-hucre-evinden-ak-47-ve-muhimmat-cikti-7694677"
-   ]
-  },
   {
    "id": "77ef558563",
    "post_id": "529346797199852_1458197906419917",
@@ -13200,6 +13080,17 @@
    "metin": "SPK ve BDDK gibi finans piyasalarını denetleyen kurumların yöneticileri fon vurgunu soruşturmasının merkezine yerleşti.\n\n— Soruşturmada tutuklamalar yapıldı.\n— Bu isimlerin olaydaki rolü, denetim mekanizmalarının nasıl işlediğine dair ciddi soru işaretlerini büyüttü.\n— Saray'dan bu sorulara henüz bir yanıt gelmedi.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/fon-vurgununda-saray-bilmecesi-tutuklamalar-var-yanit-yok-745208"
+   ]
+  },
+  {
+   "id": "efe2e49ada",
+   "post_id": "529346797199852_1461175859455455",
+   "title": "Gençlerden ortak mesaj: Geleceği mücadeleyle kuracağız",
+   "at": "2026-11-08T01:52:33.306972+00:00",
+   "yazim": "claude",
+   "metin": "Ankara'da TAKSAV'ın düzenlediği \"Gelecek Geliyor\" etkinliğinde gençlik hareketleri konuşuldu.\n\nEtkinlikte Avrupa'dan Latin Amerika'ya yükselen gençlik hareketleri ele alındı. Eğitim hakkından gelecek kaygısına uzanan ortak sorunlar da tartışıldı.\n\n— Gençlerin geleneksel siyaset anlayışının ötesine geçtiği vurgulandı.\n— Tabandan örgütlenme ve kolektif mücadelenin yeni bir yol açtığı belirtildi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/genclerden-ortak-mesaj-gelecegi-mucadeleyle-kuracagiz-745206"
    ]
   }
  ],
