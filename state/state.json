@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "12",
-    "ara",
-    "büyük",
-    "davas",
-    "doruk",
-    "karar",
-    "sanığ",
-    "tahli"
-   ],
-   "tok": [
-    "ara",
-    "aydın",
-    "açıld",
-    "başla",
-    "bekçi",
-    "bulun",
-    "büyük",
-    "cesed",
-    "davas",
-    "delil",
-    "doruk",
-    "duruş",
-    "emekl",
-    "firma",
-    "geçmi",
-    "ilişk",
-    "incel",
-    "intih",
-    "inşaa",
-    "isted",
-    "izmir",
-    "işçi",
-    "kayıt",
-    "mayıs",
-    "memur",
-    "olay",
-    "olayı",
-    "oğlun",
-    "saat",
-    "sahip",
-    "sanık",
-    "sanığ",
-    "savcı",
-    "sonra",
-    "sonuc",
-    "sonun",
-    "süren",
-    "tahli",
-    "topla",
-    "tümge",
-    "verdi",
-    "veril",
-    "yargı",
-    "yaşan",
-    "yıl",
-    "ölümü",
-    "şanti"
-   ],
-   "at": "2026-11-07T08:25:18.852282+00:00"
-  },
-  {
-   "fp": [
     "başka",
     "bulun",
     "değer",
@@ -11182,20 +11120,34 @@
     "çıktı"
    ],
    "at": "2026-11-08T20:22:51.075214+00:00"
+  },
+  {
+   "fp": [
+    "cevad",
+    "efsan",
+    "galat",
+    "hayat",
+    "kaybe",
+    "preka"
+   ],
+   "tok": [
+    "anıla",
+    "bilin",
+    "biri",
+    "cevad",
+    "efsan",
+    "futbo",
+    "galat",
+    "isiml",
+    "ismi",
+    "preka",
+    "tarih",
+    "yaşın"
+   ],
+   "at": "2026-11-08T20:35:31.467467+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a9435ac800",
-   "post_id": "529346797199852_1459946939578347",
-   "title": "Mürekkebin hafızası: On iki yıllık bir parantezi kapatmak",
-   "at": "2026-11-06T23:41:06.152854+00:00",
-   "yazim": "claude",
-   "metin": "Gençlik ve Spor Bakanlığı, 2026-2027 eğitim öğretim yılı KYK burs ve öğrenim kredisi sonuçlarını açıkladı.\n\n— Sonuçlar, bu yıl başvuru yapan öğrencileri ilgilendiriyor.\n— Öğrenciler sonuçlarını e-Devlet üzerinden öğrenebiliyor.\n— Burs ya da kredi hak kazanan öğrenciler için taahhütname onay süreci de başlıyor.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008321/murekkebin-hafizasi-on-iki-yillik-bir-parantezi-kapatmak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "11da3743cc",
    "post_id": "529346797199852_1459957026244005",
@@ -13726,6 +13678,18 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/agri/gurbulak-gumruk-kapisinda-4-kilo-226-gram-uyusturucu-ele-gecirildi-3490710",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ayakkabi-tabanlarina-gizlemisler-2-kilo-396-gram-metamfetamin-ele-gecirildi-2554490"
    ]
+  },
+  {
+   "id": "4df3569e90",
+   "post_id": "529346797199852_1462097879363253",
+   "title": "Galatasaray'ın efsane ismi Cevad Prekazi hayatını kaybetti",
+   "at": "2026-11-08T20:35:31.467467+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray'ın efsane futbolcularından Cevad Prekazi, 70 yaşında hayatını kaybetti.\n\nPrekazi, Galatasaray tarihinin en çok anılan isimlerinden biri olarak biliniyor.",
+   "sources": [
+    "Sözcü Spor: https://www.sozcu.com.tr/galatasaray-in-efsane-ismi-cevad-prekazi-hayatini-kaybetti-p379323",
+    "BPT (X): https://x.com/bpthaber/status/2119528924770172983"
+   ]
   }
  ],
  "fails": {
@@ -13876,7 +13840,8 @@
   "267ebb400c": 2,
   "f5833c708b": 1,
   "0b7abe2d94": 1,
-  "6a81ecba5c": 1
+  "6a81ecba5c": 1,
+  "7df2a6171b": 1
  },
  "fail_log": [
   "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13923,7 +13888,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119524892315959778",
+   "since_id": "2119528924770172983",
    "started": true
   },
   "ajansmuhbir1923": {
