@@ -2,65 +2,6 @@
  "seen": [
   {
    "fp": [
-    "11",
-    "başvu",
-    "celse",
-    "fethi",
-    "filo",
-    "inci",
-    "jet",
-    "kabir",
-    "tutuk",
-    "uzatı",
-    "yapıl"
-   ],
-   "tok": [
-    "aktar",
-    "batan",
-    "başvu",
-    "belge",
-    "celse",
-    "cenaz",
-    "damga",
-    "davad",
-    "devam",
-    "duruş",
-    "edild",
-    "ediyo",
-    "fethi",
-    "filo",
-    "gelen",
-    "geliş",
-    "gemis",
-    "girne",
-    "görüş",
-    "gün",
-    "günde",
-    "iddia",
-    "ilişk",
-    "incel",
-    "inci",
-    "jet",
-    "kabir",
-    "kayıt",
-    "loydu",
-    "ndan",
-    "süres",
-    "tesli",
-    "uzatı",
-    "vdr",
-    "vuran",
-    "yanlı",
-    "yapıl",
-    "yolcu",
-    "zanlı",
-    "çıkan",
-    "öne"
-   ],
-   "at": "2026-11-07T04:18:59.888829+00:00"
-  },
-  {
-   "fp": [
     "sığma",
     "çuval"
    ],
@@ -13935,13 +13876,12 @@
   "9670da9ebd": 1,
   "f073371dbd": 1,
   "0e9e7f2715": 1,
-  "0a98747a81": 1
+  "0a98747a81": 1,
+  "e984521aa1": 1,
+  "267ebb400c": 1,
+  "f5833c708b": 1
  },
  "fail_log": [
-  "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13977,12 +13917,16 @@
   "2026-11-07T18:57 Eski MASAK Başkan Yardımcısı Ramazan Başak: “Şahap Kavcıoğlu -> ValueError: cümle yarım kalmış: '— İstanbul Cumhuriyet Başsavc'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-08T02:30 Atakum Belediyesi’nde maaş krizi: 13 işçi daha işten çıkarıl -> ValueError: cümle yarım kalmış: '— Daha önce de altı em'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-08T09:54 Carnegie Europe'dan Türkiye analizi: Avrupa ile ilişkilerde  -> ValueError: cümle yarım kalmış: 'ltmayı hedefleyen Küresel Metan Taahhüdü'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-08T13:54 Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor -> ValueError: cümle yarım kalmış: 'sdal ile İstanbul Havalimanı arasında ya'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-08T13:54 Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor -> ValueError: cümle yarım kalmış: 'sdal ile İstanbul Havalimanı arasında ya'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-08T16:29 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
+  "2026-11-08T16:29 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
+  "2026-11-08T16:29 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
+  "2026-11-08T16:29 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119457637976985834",
+   "since_id": "2119464404387254647",
    "started": true
   },
   "ajansmuhbir1923": {
