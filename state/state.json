@@ -2,40 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "ersoy",
-    "karta",
-    "nasıl",
-    "sorus",
-    "tan",
-    "uyuya",
-    "özçağ"
-   ],
-   "tok": [
-    "alan",
-    "bütçe",
-    "ersoy",
-    "görüş",
-    "hatır",
-    "karta",
-    "kültü",
-    "mille",
-    "nasıl",
-    "parti",
-    "sordu",
-    "sorus",
-    "suat",
-    "söz",
-    "tan",
-    "turiz",
-    "uyuya",
-    "yangı",
-    "özçağ"
-   ],
-   "at": "2026-11-06T20:37:19.867884+00:00"
-  },
-  {
-   "fp": [
     "2002",
     "5",
     "81",
@@ -10608,20 +10574,85 @@
     "üste"
    ],
    "at": "2026-11-08T08:27:09.165284+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "dan",
+    "eski",
+    "fon",
+    "iddia",
+    "taner",
+    "yalan",
+    "yıldı"
+   ],
+   "tok": [
+    "adı",
+    "adımı",
+    "aksi",
+    "atıla",
+    "başla",
+    "belge",
+    "bilgi",
+    "bin",
+    "bütün",
+    "dan",
+    "dayan",
+    "dilen",
+    "düzel",
+    "dışıd",
+    "enerj",
+    "eski",
+    "fon",
+    "fonla",
+    "fonu",
+    "geldi",
+    "gerçe",
+    "geçen",
+    "geçti",
+    "göre",
+    "haber",
+    "halde",
+    "herha",
+    "hukuk",
+    "iddia",
+    "iftir",
+    "isted",
+    "kayna",
+    "kazan",
+    "kulla",
+    "liral",
+    "ortay",
+    "paran",
+    "piyas",
+    "sağla",
+    "serma",
+    "sert",
+    "siste",
+    "sites",
+    "sokul",
+    "somut",
+    "süreç",
+    "sürül",
+    "tabii",
+    "taner",
+    "tepki",
+    "vurgu",
+    "yakın",
+    "yalan",
+    "yatır",
+    "yazan",
+    "yerel",
+    "yıldı",
+    "öne",
+    "özür",
+    "üzeri",
+    "üçünc"
+   ],
+   "at": "2026-11-08T08:39:43.163989+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2267b2ea80",
-   "post_id": "529346797199852_1458995176340190",
-   "title": "Cezaevlerinde doluluk ‘cezası’: Doluluk oranı yüzde 144",
-   "at": "2026-11-06T02:23:15.709901+00:00",
-   "yazim": "claude",
-   "metin": "Cezaevlerindeki doluluk oranı yüzde 144'e çıktı.\n\n— 1 Ekim'de 434 bin 337 olan cezaevi nüfusu, 33 günde 3 bin 552 kişi artarak 4 Kasım'da 437 bin 889 oldu.\n— 402 cezaevinin toplam kapasitesi 304 bin 304 kişi.\n— Yani cezaevleri kapasitesinin üzerinde dolu çalışıyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/cezaevlerinde-doluluk-cezasi-doluluk-orani-yuzde-144-744831"
-   ]
-  },
   {
    "id": "3cdc898605",
    "post_id": "529346797199852_1459010836338624",
@@ -13113,6 +13144,19 @@
     "BirGün: https://www.birgun.net/haber/sivassporun-galibiyet-hasreti-bes-maca-cikti-745251",
     "Sözcü Spor: https://www.sozcu.com.tr/sivasspor-galibiyete-hasret-p377125"
    ]
+  },
+  {
+   "id": "435374a792",
+   "post_id": "529346797199852_1461501579422883",
+   "title": "'Fon' iddialarında adı geçti: Eski bakan Taner Yıldız'dan yalanlama geldi",
+   "at": "2026-11-08T08:39:43.163989+00:00",
+   "yazim": "claude",
+   "metin": "Eski Enerji Bakanı Taner Yıldız:\n\n“Adımın kullanılarak ortaya atılan, herhangi bir somut bilgiye, belgeye ve gerçeğe dayanmayan iddialar, bütünüyle gerçek dışıdır, yalandır, iftiradır.”\n\n— Sermaye piyasalarındaki fon vurgunu soruşturmasında adı geçen Taner Yıldız'ın yatırım fonlarına 410,5 milyon lira yatırıp 144 milyon 500 bin liralık kazanç sağladığı bir yerel haber sitesinde iddia edildi.\n— Habere göre paranın, Yıldız'a yakın olduğu öne sürülen üçüncü bir kişi üzerinden sisteme sokulduğu da öne sürüldü.\n— Yıldız, iddiaları yazan haberlerin düzeltilmesini ve özür dilenmesini istedi. Aksi halde hukuki süreç başlatacağını açıkladı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/fon-iddialarinda-adi-gecti-eski-bakan-taner-yildiz-dan-yalanlama-geldi-2554330",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/eski-bakan-taner-yildizdan-yatirim-fonu-iddialarina-sert-tepki-4870669",
+    "Evrensel: https://www.evrensel.net/haber/6008510/eski-bakan-taner-yildizdan-fon-yalanlamasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13303,7 +13347,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119344172541067316",
+   "since_id": "2119348622722773385",
    "started": true
   },
   "ajansmuhbir1923": {
