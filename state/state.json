@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "11",
-    "atama",
-    "atand",
-    "gazet",
-    "rektö",
-    "resmi",
-    "ünive"
-   ],
-   "tok": [
-    "arala",
-    "atadı",
-    "atama",
-    "atand",
-    "bulun",
-    "dan",
-    "erciy",
-    "erdoğ",
-    "eskiş",
-    "gazet",
-    "getir",
-    "görev",
-    "imzas",
-    "isiml",
-    "kasım",
-    "konya",
-    "kurum",
-    "rektö",
-    "resmi",
-    "tarih",
-    "tekni",
-    "trabz",
-    "yayım",
-    "yükse",
-    "ünive"
-   ],
-   "at": "2026-11-06T21:28:35.665256+00:00"
-  },
-  {
-   "fp": [
     "arı",
     "cezae",
     "gazet",
@@ -10730,20 +10691,73 @@
     "şirke"
    ],
    "at": "2026-11-08T09:17:52.221696+00:00"
+  },
+  {
+   "fp": [
+    "elena",
+    "final",
+    "nden",
+    "rybak",
+    "wta",
+    "çekil"
+   ],
+   "tok": [
+    "ayınd",
+    "bildi",
+    "büyük",
+    "daki",
+    "değil",
+    "dinle",
+    "duyuy",
+    "dönme",
+    "dünya",
+    "edeme",
+    "elena",
+    "enfek",
+    "etmek",
+    "evde",
+    "final",
+    "fizik",
+    "hasta",
+    "hazır",
+    "isted",
+    "kadın",
+    "kaldı",
+    "kalif",
+    "katıl",
+    "kazak",
+    "kosty",
+    "mart",
+    "marta",
+    "mücad",
+    "nde",
+    "nden",
+    "neden",
+    "numar",
+    "nın",
+    "oynan",
+    "rekab",
+    "rybak",
+    "sezon",
+    "tenis",
+    "turnu",
+    "ukray",
+    "viral",
+    "vücud",
+    "wells",
+    "wta",
+    "yazık",
+    "yerin",
+    "yılki",
+    "zorun",
+    "çekil",
+    "üzünt",
+    "ındia"
+   ],
+   "at": "2026-11-08T09:30:30.488590+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0d37406e19",
-   "post_id": "529346797199852_1459044396335268",
-   "title": "14. Uluslararası İzmir Tiyatro Festivali başlıyor: Adalet bu kez sahnede",
-   "at": "2026-11-06T03:38:28.580592+00:00",
-   "yazim": "claude",
-   "metin": "14. Uluslararası İzmir Tiyatro Festivali 12-22 Kasım'da başlıyor. Bu yılki teması “Adalet”.\n\n— Dört yabancı, 22 yerli tiyatro ekibi 18 salonda toplam 28 oyun sahneleyecek.\n— Festival, tiyatroseverleri on gün boyunca sahne başında buluşturacak.",
-   "sources": [
-    "BirGün: https://www.birgun.net/makale/14-uluslararasi-izmir-tiyatro-festivali-basliyor-adalet-bu-kez-sahnede-744854"
-   ]
-  },
   {
    "id": "9ff3ac364e",
    "post_id": "529346797199852_1459068932999481",
@@ -13243,6 +13257,19 @@
     "BirGün: https://www.birgun.net/haber/paraguay-da-fon-krizi-gorevden-alinan-devlet-baskani-santiago-pena-hakkinda-tutuklama-karari-verildi-745253",
     "Karar: https://www.karar.com/dunya-haberleri/paraguayda-fon-skandalinin-faturasi-agir-oldu-eski-devlet-baskani-2082952"
    ]
+  },
+  {
+   "id": "7788a12955",
+   "post_id": "529346797199852_1461534742752900",
+   "title": "Elena Rybakina, viral enfeksiyon nedeniyle WTA Finalleri’nden çekildi",
+   "at": "2026-11-08T09:30:30.488590+00:00",
+   "yazim": "claude",
+   "metin": "Elena Rybakina:\n\n“Ne yazık ki bu yılki WTA Finalleri'nden çekilmek zorunda kaldığımı bildirmekten büyük üzüntü duyuyorum. (...) vücudum rekabet etmek için fiziksel olarak hazır değil.”\n\n— Dünya 1 numarası Kazak tenisçi, viral enfeksiyon nedeniyle Kaliforniya'daki Indian Wells'te oynanacak turnuvadan çekildi.\n— Rybakina'nın yerine Ukraynalı Marta Kostyuk katılacak.\n— Rybakina evde dinlenip 2027 sezonuna hazırlanacağını ve Mart ayında Indian Wells'e dönmek istediğini söyledi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/tenis/elena-rybakina-wta-finallerinden-cekildi-3490485",
+    "BirGün: https://www.birgun.net/haber/elena-rybakina-viral-enfeksiyon-nedeniyle-wta-finallerinden-cekildi-745263",
+    "Sözcü Spor: https://www.sozcu.com.tr/rybakina-wta-finalleri-nden-cekildi-p377174"
+   ]
   }
  ],
  "fails": {
@@ -13434,7 +13461,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119354280411041926",
+   "since_id": "2119361172600147975",
    "started": true
   },
   "ajansmuhbir1923": {
