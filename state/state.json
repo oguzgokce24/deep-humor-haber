@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "sığma",
-    "çuval"
-   ],
-   "tok": [
-    "aldığ",
-    "almas",
-    "araşt",
-    "artık",
-    "açık",
-    "baskı",
-    "beled",
-    "bürok",
-    "büyüd",
-    "cezae",
-    "cezas",
-    "erdoğ",
-    "fatma",
-    "fon",
-    "geldi",
-    "göre",
-    "günde",
-    "iddia",
-    "isted",
-    "işlen",
-    "kadın",
-    "kalam",
-    "mesel",
-    "mızra",
-    "olayı",
-    "ona",
-    "siyas",
-    "sorum",
-    "suç",
-    "sığma",
-    "tepki",
-    "toplu",
-    "yazar",
-    "yer",
-    "yorum",
-    "yönle",
-    "çuval",
-    "örtem",
-    "öyle",
-    "üstün"
-   ],
-   "at": "2026-11-07T04:31:40.901489+00:00"
-  },
-  {
-   "fp": [
     "2",
     "abd",
     "anlaş",
@@ -11195,23 +11146,43 @@
     "özell"
    ],
    "at": "2026-11-08T16:16:29.946729+00:00"
+  },
+  {
+   "fp": [
+    "farkl",
+    "grubu",
+    "hikây",
+    "istan",
+    "kültü",
+    "müziğ",
+    "peşin"
+   ],
+   "tok": [
+    "buluş",
+    "dille",
+    "dinle",
+    "duyul",
+    "farkl",
+    "grubu",
+    "hikây",
+    "kültü",
+    "makam",
+    "müzik",
+    "müziğ",
+    "peşin",
+    "reper",
+    "ses",
+    "sesin",
+    "sesli",
+    "tek",
+    "türkü",
+    "uzana",
+    "şarkı"
+   ],
+   "at": "2026-11-08T16:40:51.149128+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "89c40cfaf7",
-   "post_id": "529346797199852_1459811442925230",
-   "title": "Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne getirdi",
-   "at": "2026-11-06T19:45:48.052151+00:00",
-   "yazim": "yedek",
-   "metin": "Trump, danışmanı Stephen Miller'ı özel kalem müdürlüğüne getirdi.\n\nABD Başkanı Donald Trump, Beyaz Saray Özel Kalem Müdür Yardımcısı Stephen Miller’ı özel kalem müdürlüğüne getireceğini duyurdu.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-ozel-kalemi-susie-wilesin-yerine-danismani-stephen-milleri-getiriyor/4114710",
-    "Milliyet: https://www.milliyet.com.tr/dunya/trumptan-secim-yenilgisi-sonrasi-ilk-hamle-ozel-kalem-susie-wiles-gorevden-alindi-yerine-stephen-miller-getirildi-7695977",
-    "Evrensel: https://www.evrensel.net/haber/6008353/trump-danismani-stephen-miller-i-ozel-kalem-mudurlugune-getirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/trumptan-secim-yenilgisi-sonrasi-ilk-hamle-ozel-kalem-susie-wiles-gorevden-alindi-yerine-stephen-miller-getirildi-7695977"
-   ]
-  },
   {
    "id": "3cf12ef7db",
    "post_id": "529346797199852_1459819212924453",
@@ -13731,6 +13702,17 @@
    "sources": [
     "Karar: https://www.karar.com/dunya-haberleri/ingiltere-cevrimici-alisveriste-kisitlamaya-gidiyor-16-yasindan-2083005"
    ]
+  },
+  {
+   "id": "e6cfe995e1",
+   "post_id": "529346797199852_1461914252714949",
+   "title": "istanbulites: Farklı kültürlerin ve müziğin peşinde bir grubun hikâyesi",
+   "at": "2026-11-08T16:40:51.149128+00:00",
+   "yazim": "yedek",
+   "metin": "istanbulites: Farklı kültürlerin ve müziğin peşinde bir grubun hikâyesi.\n\nÜç farklı sesin tek bir ses gibi duyulduğu istanbulites, çok sesli müzikten makamlara, türkülerden farklı dillerdeki şarkılara uzanan repertuvarıyla dinleyiciyle buluşuyor.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008572/istanbulites-farkli-kulturlerin-ve-muzigin-pesinde-bir-grubun-hikayesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13878,16 +13860,11 @@
   "0e9e7f2715": 1,
   "0a98747a81": 1,
   "e984521aa1": 1,
-  "267ebb400c": 1,
-  "f5833c708b": 1
+  "267ebb400c": 2,
+  "f5833c708b": 1,
+  "0b7abe2d94": 1
  },
  "fail_log": [
-  "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:28 Erdoğan’dan 11 üniversiteye rektör ataması: Kararlar Resmi G -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:41 Özgür Özel gazeteci İsmail Arı'yı cezaevinde ziyaret etti -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Rusya, ülkesindeki bireysel yatırımcıların Bitcoin ve Ethere -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:54 Ümit Özdağ’dan MHP'li Eyyup Yıldız’a: -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13921,12 +13898,18 @@
   "2026-11-08T16:29 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
   "2026-11-08T16:29 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
   "2026-11-08T16:29 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
-  "2026-11-08T16:29 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-08T16:29 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-08T16:40 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
+  "2026-11-08T16:40 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
+  "2026-11-08T16:40 Kemal Can yazdı: İktidarın zayıf karnı -> ValueError: yanıt okunamadı",
+  "2026-11-08T16:40 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ValueError: yanıt okunamadı",
+  "2026-11-08T16:40 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ValueError: yanıt okunamadı",
+  "2026-11-08T16:40 istanbulites: Farklı kültürlerin ve müziğin peşinde bir grub -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119464404387254647",
+   "since_id": "2119469182471614848",
    "started": true
   },
   "ajansmuhbir1923": {
