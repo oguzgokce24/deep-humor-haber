@@ -103,6 +103,9 @@ exclude_url:
   - /opinion/
   - /columnists/
   - /blog/
+  - /featured/
+  - /yazi/
+  - /kose/
 
 # X (Twitter) erken uyarı hesapları — X_BEARER_TOKEN gizli anahtarı gerekir.
 # Bu hesaplardan yalnızca olay/bilgi alınır; metin yeniden yazılır, fotoğrafları kullanılmaz.

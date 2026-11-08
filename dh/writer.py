@@ -91,6 +91,8 @@ Okuyucuya sadece olayı anlat.
 
 YETERSİZ KAYNAK: Kaynakta somut bir olay yoksa (genel liste sayfası, "deprem mi oldu", "son dakika
 gelişmeler" gibi sayfalar) ya da ne/nerede/kim bilgisi yoksa HİÇBİR açıklama yazma; yalnızca tek kelime yaz: ATLA
+Kaynak bir KÖŞE YAZISI / GÖRÜŞ YAZISI ise ya da bir gazetecinin, köşe yazarının yazısını aktaran bir içerikse
+("Ahmet Hakan: ...", "X gazetesi yazarı şunu yazdı" gibi) yine yalnızca ATLA yaz. Biz sadece olay haberi paylaşıyoruz.
 Asla okuyucuya ya da bana hitap etme, asla kaynak metni yorumlama.
 
 Yanıtı YALNIZCA şu biçimde ver (JSON KULLANMA):
@@ -197,7 +199,8 @@ def _parse(raw: str) -> dict:
 
 META = re.compile(r"kaynak metin|metni gönder|metin gönder|uydur|görsel metni|istenen biçim|lütfen|"
                   r"bilgi(ler)? (yok|bulunmuyor|yer almıyor)|yazamam|yazamıyorum|hazırlayacağım|yardımcı olabil|"
-                  r"\bATLA\b|haber metni|ayrıntılarını içeren", re.I)
+                  r"\bATLA\b|haber metni|ayrıntılarını içeren|"
+                  r"^\W*yazar,|yazara göre|yazısında|\byazıda\b|yazıya göre|köşe yazı|makalesinde", re.I | re.M)
 
 
 class SkipStory(ValueError):
