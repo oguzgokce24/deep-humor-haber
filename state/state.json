@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bahçe",
-    "başka",
-    "beled",
-    "davas",
-    "gazio",
-    "hakan",
-    "hapsi",
-    "karar",
-    "tahli"
-   ],
-   "tok": [
-    "ara",
-    "ardın",
-    "bahçe",
-    "beled",
-    "davas",
-    "den",
-    "devam",
-    "gazio",
-    "gop",
-    "görev",
-    "hakan",
-    "hapsi",
-    "hesab",
-    "ifade",
-    "kabad",
-    "komşu",
-    "kulla",
-    "medya",
-    "merha",
-    "mesaj",
-    "nın",
-    "payla",
-    "sosya",
-    "sürec",
-    "tahli",
-    "uzakl",
-    "veril",
-    "çıktı",
-    "özgür",
-    "şile"
-   ],
-   "at": "2026-11-06T17:58:16.079174+00:00"
-  },
-  {
-   "fp": [
     "20",
     "başı",
     "bolu",
@@ -10625,23 +10579,69 @@
     "şampi"
    ],
    "at": "2026-11-08T05:57:01.373645+00:00"
+  },
+  {
+   "fp": [
+    "adam",
+    "bulun",
+    "düzce",
+    "giden",
+    "hayva",
+    "otlat",
+    "yaşlı",
+    "ölü"
+   ],
+   "tok": [
+    "adam",
+    "adamı",
+    "afad",
+    "aland",
+    "aradı",
+    "arama",
+    "ardın",
+    "ağaçl",
+    "belir",
+    "bulun",
+    "bölge",
+    "cenaz",
+    "dan",
+    "deste",
+    "dron",
+    "dönme",
+    "düzce",
+    "ekibi",
+    "ekipl",
+    "evine",
+    "giden",
+    "gitti",
+    "gönde",
+    "gümüş",
+    "halde",
+    "harek",
+    "hayva",
+    "ihbar",
+    "ilçes",
+    "incel",
+    "kaldı",
+    "kilom",
+    "koman",
+    "kurta",
+    "köpek",
+    "merad",
+    "morga",
+    "nin",
+    "otlat",
+    "savcı",
+    "sağlı",
+    "takip",
+    "uzakl",
+    "yakla",
+    "yaşlı"
+   ],
+   "at": "2026-11-08T06:09:27.821531+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "880df99876",
-   "post_id": "529346797199852_1458470029726038",
-   "title": "Afyonkarahisar'da vahşet! Otomobilin içinde 5 ceset bulundu",
-   "at": "2026-11-05T13:52:19.681443+00:00",
-   "yazim": "claude",
-   "metin": "Afyonkarahisar'da bir otomobilin içinde beş kişinin cesedi bulundu.\n\n— Olay İhsaniye ilçesine bağlı Kıyır köyü yakınlarında yaşandı.\n— İhbar üzerine gelen jandarma olay yerinde inceleme başlattı. Kimlik tespit çalışmaları sürüyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-afyonkarahisarda-dehset-2-arac-icinde-toplam-5-ceset-bulundu-7695086",
-    "NTV: https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-bir-arabada-bes-ceset-bulundu-1749559",
-    "Sözcü: https://www.sozcu.com.tr/afyonkarahisar-da-dehset-otomobilin-icinde-5-ceset-bulundu-p376387",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-afyonkarahisarda-dehset-2-arac-icinde-toplam-5-ceset-bulundu-7695086"
-   ]
-  },
   {
    "id": "e0c588bf40",
    "post_id": "529346797199852_1458508043055570",
@@ -13142,6 +13142,19 @@
    "sources": [
     "Sözcü Spor: https://www.sozcu.com.tr/anderson-talisca-super-lige-ucuncu-kez-donebilir-p376995"
    ]
+  },
+  {
+   "id": "dd88bf20b5",
+   "post_id": "529346797199852_1461384799434561",
+   "title": "Düzce'de hayvanlarını otlatmaya giden yaşlı adam ölü bulundu",
+   "at": "2026-11-08T06:09:27.821531+00:00",
+   "yazim": "claude",
+   "metin": "Düzce'de hayvanlarını otlatmaya giden yaşlı bir adam ölü bulundu.\n\n— İhbar üzerine jandarma, komando ve AFAD'dan 46 arama kurtarma ekibi bölgeye gönderildi.\n\n— Ekipler, dron ve iz takip köpeklerinin de desteğiyle adamı aradı.\n\n— Yaşlı adam, evine yaklaşık 1,5 kilometre uzaklıktaki bir ağaçlık alanda hareketsiz halde bulundu. Sağlık ekipleri hayatını kaybettiğini belirledi.\n\n— Cenaze, savcılık incelemesinin ardından morga kaldırıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/duzce/duzcede-hayvanlarini-otlatmaya-giden-yasli-adam-olu-bulundu-3490427",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-duzce-de-yasli-adam-agaclik-alanda-olu-bulundu-3925725",
+    "Sözcü: https://www.sozcu.com.tr/duzce-de-hayvanlarini-otlatmaya-giden-yasli-adam-olu-bulundu-p377084"
+   ]
   }
  ],
  "fails": {
@@ -13330,7 +13343,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119303006210457724",
+   "since_id": "2119309176396501078",
    "started": true
   },
   "ajansmuhbir1923": {
