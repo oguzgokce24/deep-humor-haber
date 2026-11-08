@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "dan",
-    "düzen",
-    "emekl",
-    "mecli",
-    "refah",
-    "saray",
-    "sunul",
-    "tarih",
-    "veril"
-   ],
-   "tok": [
-    "alter",
-    "belir",
-    "bulun",
-    "cevde",
-    "dan",
-    "düzen",
-    "düşün",
-    "emekl",
-    "farkl",
-    "geliş",
-    "ilgil",
-    "kayde",
-    "maaşl",
-    "mecli",
-    "refah",
-    "saray",
-    "sunul",
-    "tarih",
-    "veril",
-    "yardı",
-    "yönel",
-    "yılba",
-    "yılma",
-    "çalış",
-    "üzeri"
-   ],
-   "at": "2026-11-07T00:17:21.425361+00:00"
-  },
-  {
-   "fp": [
     "adale",
     "inanc",
     "nin",
@@ -11006,20 +10965,87 @@
     "üzeri"
    ],
    "at": "2026-11-08T12:12:13.624258+00:00"
+  },
+  {
+   "fp": [
+    "acild",
+    "durum",
+    "fon",
+    "imamo",
+    "liste",
+    "mektu",
+    "memle",
+    "mesel",
+    "ndan",
+    "vurgu"
+   ],
+   "tok": [
+    "acil",
+    "acild",
+    "adayı",
+    "adı",
+    "araşt",
+    "bağla",
+    "bulun",
+    "bürok",
+    "büyük",
+    "büyüğ",
+    "cezae",
+    "deki",
+    "den",
+    "değer",
+    "değil",
+    "dikka",
+    "diyer",
+    "doğru",
+    "durum",
+    "ekrem",
+    "fon",
+    "geçen",
+    "gönde",
+    "göste",
+    "günde",
+    "ibb",
+    "iddia",
+    "ifade",
+    "iktid",
+    "ilişk",
+    "imamo",
+    "isted",
+    "karış",
+    "liste",
+    "marma",
+    "mektu",
+    "memle",
+    "mesel",
+    "ndan",
+    "nde",
+    "necat",
+    "neden",
+    "olmad",
+    "rastl",
+    "savun",
+    "sesle",
+    "siliv",
+    "siste",
+    "siyas",
+    "sordu",
+    "sözcü",
+    "taşıd",
+    "tepki",
+    "turpl",
+    "turpu",
+    "vurgu",
+    "yazar",
+    "yazdı",
+    "çeken",
+    "çıkış",
+    "şöyle"
+   ],
+   "at": "2026-11-08T12:24:57.170401+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "abb7b1566e",
-   "post_id": "529346797199852_1459603419612699",
-   "title": "Operasyonlar, erişim engelleri, COP31’de “genel ahlak” şartı: LGBTİ+ gündeminde bu hafta neler yaşandı?",
-   "at": "2026-11-06T15:35:12.864825+00:00",
-   "yazim": "claude",
-   "metin": "Bu hafta LGBTİ+ gündeminde üç başlık öne çıktı.\n\n— İzmir'de trans kadınlara yönelik gözaltılar yaşandı.\n— Flört uygulamalarına erişim engelleri gündemdeydi.\n— COP31'de “genel ahlak” şartı tartışmaya açıldı.",
-   "sources": [
-    "Medyascope: https://medyascope.tv/2026/11/06/operasyonlar-erisim-engelleri-cop31de-genel-ahlak-sarti-lgbti-gundeminde-bu-hafta-neler-yasandi/"
-   ]
-  },
   {
    "id": "497fd9861e",
    "post_id": "529346797199852_1459620656277642",
@@ -13534,6 +13560,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/emekli-zamminda-ankara-kulisi-masadaki-en-guclu-formul-belli-oldu-2554404",
     "BirGün: https://www.birgun.net/haber/kulis-emekli-zammi-icin-masadaki-en-kuvvetli-senaryo-745275"
    ]
+  },
+  {
+   "id": "1ac73a8373",
+   "post_id": "529346797199852_1461676212738753",
+   "title": "İmamoğlu Silivri'den mektup gönderdi: \"Meselemiz memlekettir, durum acildir\"",
+   "at": "2026-11-08T12:24:57.170401+00:00",
+   "yazim": "claude",
+   "metin": "Silivri'deki Marmara Cezaevi'nde tutuklu bulunan Ekrem İmamoğlu, Sözcü yazarı Necati Doğru'ya gönderdiği mektupta fon vurgununu gündeme taşıdı.\n\n— İmamoğlu, fon soruşturmasında adı geçenlerin listesinin neden açıklanmadığını sordu.\n\n— Mektubunda İBB iddianamesindeki \"FON\" ve \"SİSTEM\" gibi ifadelerin rastlantı olmadığını savundu ve bu ifadeleri fon vurgunuyla ilişkilendirdi.\n\n— Siyasi ve bürokratik bağlantıların araştırılmasını istedi. Mektubunda şöyle yazdı: “Bu liste turpun büyüğünün değil, büyük turpların listesidir!”",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/durum-acil-diyerek-seslendi-imamoglu-ndan-yeni-mektup-fon-vurgununa-karisanlarin-listesi-neden-aciklanmiyor-2554397",
+    "Evrensel: https://www.evrensel.net/haber/6008539/imamoglu-ndan-mektup-meselemiz-memlekettir-durum-acildir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/imamoglu-silivri-den-mektup-gonderdi-meselemiz-memlekettir-durum-acildir-745268",
+    "Karar: https://www.karar.com/guncel-haberler/imamoglundan-fon-vurgunu-cikisi-bu-liste-turpun-buyugunun-degil-buyuk-2082986"
+   ]
   }
  ],
  "fails": {
@@ -13726,7 +13766,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119400295247810852",
+   "since_id": "2119405541076209905",
    "started": true
   },
   "ajansmuhbir1923": {
