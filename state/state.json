@@ -2,62 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "bakan",
-    "dan",
-    "devle",
-    "dışiş",
-    "fidan",
-    "gerçe",
-    "hakan",
-    "kktc",
-    "kıbrı",
-    "olmas",
-    "var",
-    "yan",
-    "yana",
-    "çözüm"
-   ],
-   "tok": [
-    "ada",
-    "başba",
-    "daki",
-    "dan",
-    "devle",
-    "dünya",
-    "dışiş",
-    "erhür",
-    "ertuğ",
-    "fidan",
-    "gerçe",
-    "geçti",
-    "görün",
-    "görüş",
-    "hakan",
-    "hesab",
-    "inanı",
-    "kktc",
-    "kuzey",
-    "kıbrı",
-    "medya",
-    "mesel",
-    "olmas",
-    "sosya",
-    "tahsi",
-    "taki",
-    "tufan",
-    "var",
-    "yan",
-    "yana",
-    "çağrı",
-    "çözüm",
-    "ünal",
-    "üstel"
-   ],
-   "at": "2026-11-06T19:58:22.955981+00:00"
-  },
-  {
-   "fp": [
     "alarm",
     "ardın",
     "dağıt",
@@ -10585,21 +10529,68 @@
     "ülked"
    ],
    "at": "2026-11-08T07:48:07.922246+00:00"
+  },
+  {
+   "fp": [
+    "271",
+    "akrob",
+    "bin",
+    "ceza",
+    "fişek",
+    "havai",
+    "motos",
+    "patla"
+   ],
+   "tok": [
+    "adli",
+    "akrob",
+    "alınd",
+    "ayrıc",
+    "başla",
+    "bin",
+    "ceza",
+    "cezas",
+    "dikka",
+    "düşür",
+    "fişek",
+    "görün",
+    "güven",
+    "halin",
+    "harek",
+    "hatay",
+    "havai",
+    "idari",
+    "ilçes",
+    "isken",
+    "işlem",
+    "kamer",
+    "kapsa",
+    "kesil",
+    "medya",
+    "mevzu",
+    "motos",
+    "para",
+    "patla",
+    "payla",
+    "plaka",
+    "seyir",
+    "skand",
+    "sosya",
+    "suçun",
+    "sürüc",
+    "tehli",
+    "topla",
+    "trafi",
+    "uygul",
+    "yaptı",
+    "yapıp",
+    "çekti",
+    "şovun"
+   ],
+   "at": "2026-11-08T08:02:06.689184+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "af147285a3",
-   "post_id": "529346797199852_1458936543012720",
-   "title": "Boyçelik’te patlama: 3 işçi dumandan etkilendi",
-   "at": "2026-11-06T01:05:36.441601+00:00",
-   "yazim": "claude",
-   "metin": "Kayseri'deki Boyçelik fabrikasının kompresör odasında patlama oldu.\n\n— Patlamanın ardından çıkan yangında 3 işçi dumandan etkilendi ve hastaneye kaldırıldı.\n— Patlamanın nedeni henüz bilinmiyor, olayla ilgili soruşturma başlatıldı.\n— Yangın itfaiye ekiplerinin müdahalesiyle söndürüldü.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/kayseri-de-fabrika-yangini-3-isci-dumandan-etkilendi-3925287",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/boycelik-te-patlama-3-isci-dumandan-etkilendi-2553788"
-   ]
-  },
   {
    "id": "86bbf20e7f",
    "post_id": "529346797199852_1458944739678567",
@@ -13094,6 +13085,19 @@
     "BirGün: https://www.birgun.net/haber/polonya-da-silahli-saldirida-6-kisi-olduruldu-2-gunluk-ulusal-yas-ilan-edildi-745230",
     "Karar: https://www.karar.com/dunya-haberleri/polonyada-kanli-saldiri-6-olu-15-yarali-saldirganin-evinde-3-ceset-daha-2082948"
    ]
+  },
+  {
+   "id": "367f29fc9c",
+   "post_id": "529346797199852_1461470666092641",
+   "title": "Motosikletle akrobasi yapıp havai fişek patlattı: 271 bin lira ceza",
+   "at": "2026-11-08T08:02:06.689184+00:00",
+   "yazim": "claude",
+   "metin": "Hatay'da seyir halindeki motosikletinde akrobasi yapıp havai fişek patlatan sürücüye 271 bin lira ceza kesildi.\n\n— Sürücü, trafikte yaptığı hareketlerin görüntülerini sosyal medyada paylaştı.\n— Plakasız motosikletle yapılan bu hareketler polisin dikkatini çekti ve sürücü gözaltına alındı.\n— Polis, sürücüye trafik mevzuatı kapsamında toplam 271 bin TL idari para cezası uyguladı.\n— Ayrıca trafik güvenliğini tehlikeye düşürmek suçundan adli işlem başlatıldı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/motosikletle-akrobasi-yapip-havai-fisek-patlatti-271-bin-lira-ceza-p377149",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/trafikte-skandal-goruntuler-kamerada-motosikletli-havai-fisek-sovuna-271-bin-tl-ceza-2554335",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/motosikletle-havai-fisek-patlatip-akrobatik-hareketler-yapti-4870684"
+   ]
   }
  ],
  "fails": {
@@ -13284,7 +13288,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119333018569461794",
+   "since_id": "2119336751567126703",
    "started": true
   },
   "ajansmuhbir1923": {
