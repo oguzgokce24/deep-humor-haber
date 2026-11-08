@@ -2,86 +2,6 @@
  "seen": [
   {
    "fp": [
-    "26",
-    "6",
-    "alarm",
-    "bölge",
-    "hisse",
-    "kar",
-    "kent",
-    "sarı",
-    "soğuğ",
-    "var",
-    "yağış"
-   ],
-   "tok": [
-    "alarm",
-    "altın",
-    "anado",
-    "arası",
-    "batı",
-    "bekle",
-    "birço",
-    "bolu",
-    "bölge",
-    "coğra",
-    "derec",
-    "diyar",
-    "doğu",
-    "doğus",
-    "duyur",
-    "düzce",
-    "düşec",
-    "ege",
-    "esece",
-    "fırtı",
-    "genel",
-    "gündü",
-    "haric",
-    "hatay",
-    "hava",
-    "hisse",
-    "hızla",
-    "ila",
-    "iller",
-    "kar",
-    "karad",
-    "kent",
-    "kesim",
-    "kodlu",
-    "kuvve",
-    "kıyıl",
-    "meteo",
-    "mevsi",
-    "müdür",
-    "norma",
-    "nun",
-    "rize",
-    "rüzga",
-    "saat",
-    "sarı",
-    "soğuğ",
-    "sıcak",
-    "uyarı",
-    "van",
-    "var",
-    "verdi",
-    "veril",
-    "yayım",
-    "yağmu",
-    "yağış",
-    "yer",
-    "yükse",
-    "zongu",
-    "çıkac",
-    "öngör",
-    "ülke",
-    "şekli"
-   ],
-   "at": "2026-11-07T05:30:53.289563+00:00"
-  },
-  {
-   "fp": [
     "2026",
     "26",
     "arap",
@@ -11198,20 +11118,51 @@
     "üzeri"
    ],
    "at": "2026-11-08T17:18:32.818589+00:00"
+  },
+  {
+   "fp": [
+    "boş",
+    "dediğ",
+    "esnaf",
+    "içi",
+    "komşu",
+    "tutuk",
+    "tüfek",
+    "öldür"
+   ],
+   "tok": [
+    "ardın",
+    "ateş",
+    "ateşi",
+    "boş",
+    "dediğ",
+    "diyer",
+    "doğru",
+    "dükka",
+    "edip",
+    "erkek",
+    "erzur",
+    "esnaf",
+    "gelin",
+    "gez",
+    "hakkı",
+    "isiml",
+    "içi",
+    "kaste",
+    "komşu",
+    "neden",
+    "pompa",
+    "suçun",
+    "tüfek",
+    "tüfeğ",
+    "vurar",
+    "öldür",
+    "ölümü"
+   ],
+   "at": "2026-11-08T17:31:04.353242+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "92e19f80d7",
-   "post_id": "529346797199852_1459842069588834",
-   "title": "Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabiliyorsunuz?",
-   "at": "2026-11-06T20:37:19.867884+00:00",
-   "yazim": "yedek",
-   "metin": "Özçağdaş'tan Bakan Ersoy'a Kartalkaya sorusu: Nasıl uyuyabiliyorsunuz?.\n\nKültür ve Turizm Bakanlığının 2027 bütçesi görüşülürken söz alan Yeni Parti İstanbul Milletvekili Suat Özçağdaş, 78 kişinin hayatını kaybettiği Kartalkaya yangınını hatırlattı ve Bakan Ersoy'a \"nasıl uyuyabildiğini\" sordu.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008355/ozcagdastan-bakan-ersoya-kartalkaya-sorusu-nasil-uyuyabiliyorsunuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "ee5cbea474",
    "post_id": "529346797199852_1459849209588120",
@@ -13735,6 +13686,19 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/istanbul-il-saglik-muduru-guner-rakamlari-paylasti-8-bin-372-kisi-organ-nakli-bekliyor-3490639",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/saglik/il-saglik-muduru-guner-den-organ-bagisi-cagrisi-istanbul-da-8-bin-372-hasta-nakil-bekliyor-2554491",
     "BirGün: https://www.birgun.net/haber/istanbul-da-8-bin-372-kisi-organ-nakli-bekliyor-745315"
+   ]
+  },
+  {
+   "id": "bfc3d8312e",
+   "post_id": "529346797199852_1461962369376804",
+   "title": "\"İçi boş\" dediği tüfekle komşusunu öldüren esnaf tutuklandı",
+   "at": "2026-11-08T17:31:04.353242+00:00",
+   "yazim": "claude",
+   "metin": "Erzurum'da bir gelinlik dükkanında, komşusunu \"içi boş\" dediği pompalı tüfekle vurarak öldüren esnaf tutuklandı.\n\n— Şüpheli, tüfeği \"içi boş\" diyerek komşusuna doğrulttu ve ateş etti.\n— Ateşin ardından komşusu hayatını kaybetti.\n— Esnaf, \"kasten öldürme\" suçundan tutuklandı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/ici-bos-dedigi-tufekle-komsusunu-olduren-esnaf-tutuklandi-43370746",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/pompali-tufekle-komsusunun-olumune-neden-olan-esnaf-tutuklandi-4870790",
+    "BirGün: https://www.birgun.net/haber/ici-bos-dedigi-tufekle-komsusunu-olduren-esnaf-tutuklandi-745314"
    ]
   }
  ],
