@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "9",
-    "bursa",
-    "işçi",
-    "otomo",
-    "servi",
-    "yaral",
-    "çarpı"
-   ],
-   "tok": [
-    "altın",
-    "alınd",
-    "ambul",
-    "anayo",
-    "bursa",
-    "devle",
-    "doman",
-    "geldi",
-    "gelen",
-    "giden",
-    "gündü",
-    "hasta",
-    "ilçes",
-    "inegö",
-    "istey",
-    "işçi",
-    "kaldı",
-    "kavşa",
-    "mahal",
-    "meyda",
-    "minib",
-    "nden",
-    "nın",
-    "otomo",
-    "saat",
-    "servi",
-    "sonuc",
-    "sıral",
-    "tedav",
-    "yolun",
-    "yönün",
-    "çarpt",
-    "çarpı",
-    "çıkma"
-   ],
-   "at": "2026-11-06T19:02:34.603134+00:00"
-  },
-  {
-   "fp": [
     "14",
     "34",
     "bahis",
@@ -10584,21 +10536,79 @@
     "ürett"
    ],
    "at": "2026-11-08T06:57:59.944589+00:00"
+  },
+  {
+   "fp": [
+    "akom",
+    "hava",
+    "istan",
+    "soğuk"
+   ],
+   "tok": [
+    "akom",
+    "altın",
+    "bekle",
+    "bildi",
+    "bulut",
+    "civar",
+    "cuma",
+    "cumar",
+    "dan",
+    "derec",
+    "devam",
+    "düşec",
+    "düşme",
+    "edece",
+    "erece",
+    "erken",
+    "etkil",
+    "etkis",
+    "geçiş",
+    "görül",
+    "gün",
+    "günü",
+    "günün",
+    "hafif",
+    "hafta",
+    "hakim",
+    "hava",
+    "havan",
+    "ise",
+    "kalma",
+    "kasım",
+    "kaç",
+    "kentt",
+    "köken",
+    "mevsi",
+    "norma",
+    "olaca",
+    "olmay",
+    "ortas",
+    "parça",
+    "pazar",
+    "saatl",
+    "sabah",
+    "sağan",
+    "seyre",
+    "sibir",
+    "sona",
+    "soğuk",
+    "sürdü",
+    "sürec",
+    "süreç",
+    "sıcak",
+    "uyarı",
+    "yağmu",
+    "yağış",
+    "yer",
+    "yükse",
+    "zaman",
+    "çarşa"
+   ],
+   "at": "2026-11-08T07:10:30.868207+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d3ef640d02",
-   "post_id": "529346797199852_1458570439715997",
-   "title": "Afyonkarahisar’da silahlı saldırılarda yedi kişi hayatını kaybetti",
-   "at": "2026-11-05T15:49:48.068071+00:00",
-   "yazim": "claude",
-   "metin": "Afyonkarahisar'da silahlı saldırılarda yedi kişi öldü.\n\nİhsaniye'de iki araçtaki beş kişi, Yukarıtandır'da ise iki kadın hayatını kaybetti. Saldırıların nedeni ve şüpheliler hakkında kaynaklarda henüz bir bilgi yer almıyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/afyonkarahisarda-silahla-vurulan-7-kisi-hayatini-kaybetti-1-kisi-yaralandi/4113099",
-    "Medyascope: https://medyascope.tv/2026/11/05/afyonkarahisarda-silahli-saldirilarda-yedi-kisi-hayatini-kaybetti/"
-   ]
-  },
   {
    "id": "f355467cea",
    "post_id": "529346797199852_1458610639711977",
@@ -13091,6 +13101,18 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/beyoglunda-40-bin-uyusturucu-hap-ele-gecirildi-3-kisi-tutuklandi-2082941"
    ]
+  },
+  {
+   "id": "8c2838c603",
+   "post_id": "529346797199852_1461424186097289",
+   "title": "AKOM'dan İstanbul'a 'Sibirya' uyarısı: Soğuk hava kaç gün sürecek?",
+   "at": "2026-11-08T07:10:30.868207+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da Sibirya kökenli soğuk hava etkisini sürdürüyor. AKOM, 8 Kasım Pazar sabahı havanın 7 dereceye kadar düşeceğini bildirdi.\n\n— Soğuk hava çarşamba gününe kadar etkili olmaya devam edecek.\n— Bu süreçte sıcaklıklar 12-14 derece civarında, mevsim normallerinin altında seyredecek.\n— Hafta ortasına kadar parçalı bulutlu hava hakim olacak, sabahın erken saatlerinde hafif yağış geçişleri görülebilecek.\n— Hava 13 Kasım Cuma günü 20 dereceye kadar yükselecek, 14 Kasım Cumartesi günü ise sağanak yağmur bekleniyor.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akom-dan-istanbul-a-sibirya-uyarisi-soguk-hava-kac-gun-surecek-2554337",
+    "BirGün: https://www.birgun.net/haber/akom-acikladi-istanbul-da-soguk-hava-ne-zaman-sona-erecek-745235"
+   ]
   }
  ],
  "fails": {
@@ -13281,7 +13303,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119319867438289197",
+   "since_id": "2119324427594735723",
    "started": true
   },
   "ajansmuhbir1923": {
