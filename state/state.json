@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "30",
-    "başka",
-    "eski",
-    "fon",
-    "karad",
-    "patro",
-    "soruş",
-    "şirke"
-   ],
-   "tok": [
-    "arkas",
-    "borsa",
-    "dan",
-    "edile",
-    "ekipl",
-    "esk",
-    "eski",
-    "fon",
-    "göre",
-    "himme",
-    "işi",
-    "karad",
-    "krizi",
-    "kurum",
-    "manip",
-    "nın",
-    "otomo",
-    "patro",
-    "sahip",
-    "siste",
-    "skand",
-    "spk",
-    "süren",
-    "tasfi",
-    "uzanm",
-    "vekil",
-    "yakla",
-    "yapı",
-    "yürüt",
-    "yıldı",
-    "çıkış",
-    "üyesi",
-    "şirke"
-   ],
-   "at": "2026-11-06T20:24:02.739384+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "ersoy",
     "karta",
@@ -10603,25 +10555,62 @@
     "şubat"
    ],
    "at": "2026-11-08T08:14:38.815562+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "galib",
+    "hasre",
+    "maça",
+    "sivas",
+    "çıktı"
+   ],
+   "tok": [
+    "alan",
+    "aldı",
+    "almış",
+    "ardın",
+    "berab",
+    "beri",
+    "beyaz",
+    "bolus",
+    "dokuz",
+    "galib",
+    "hafta",
+    "hasre",
+    "kalan",
+    "kaldı",
+    "kazan",
+    "kırmı",
+    "lig",
+    "ligde",
+    "maça",
+    "maçta",
+    "mağlu",
+    "oynad",
+    "puan",
+    "puand",
+    "sivas",
+    "sonun",
+    "süred",
+    "takım",
+    "tarih",
+    "topla",
+    "vansp",
+    "yalnı",
+    "yaşay",
+    "yenil",
+    "çıkar",
+    "çıktı",
+    "özlem",
+    "ümran",
+    "üst",
+    "üste"
+   ],
+   "at": "2026-11-08T08:27:09.165284+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d0fd82dbf7",
-   "post_id": "529346797199852_1458955243010850",
-   "title": "Mekke Anlaşması TBMM Genel Kurulu’nda kabul edildi",
-   "at": "2026-11-06T01:34:30.994636+00:00",
-   "yazim": "claude",
-   "metin": "TBMM Genel Kurulu Mekke Anlaşması'nı kabul etti.\n\n— Oylamada 279 kabul, 119 ret oyu çıktı.\n— Anlaşmayla üç ülke ortak savunma ve güvenlik alanında iş birliği yapacak.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/mekke-ortak-savunma-anlasmasi-tbmmde-kabul-edildi-7695231",
-    "CNN Türk: https://www.cnnturk.com/dunya/mekke-ortak-savunma-itiifaki-anlasmasi-tbmmde-kabul-edildi-3489624",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/tbmm-genel-kurulunda-mekke-anlasmasi-kabul-edildi-3489718",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/mekke-anlasmasi-279-evetle-kabul-4870227",
-    "Medyascope: https://medyascope.tv/2026/11/06/mekke-anlasmasi-tbmm-genel-kurulunda-kabul-edildi/",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/mekke-ortak-savunma-anlasmasi-tbmmde-kabul-edildi-7695231"
-   ]
-  },
   {
    "id": "2267b2ea80",
    "post_id": "529346797199852_1458995176340190",
@@ -13110,6 +13099,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aym-de-3-kritik-basvuru-siyasi-partilerin-amblemleri-gundemde-2554367",
     "BirGün: https://www.birgun.net/haber/bbp-dsp-ve-anavatan-partisi-nden-aym-ye-basvuru-11-kasim-da-incelenecek-745248"
    ]
+  },
+  {
+   "id": "c3261ced13",
+   "post_id": "529346797199852_1461487752757599",
+   "title": "Sivasspor’un galibiyet hasreti beş maça çıktı",
+   "at": "2026-11-08T08:27:09.165284+00:00",
+   "yazim": "claude",
+   "metin": "Sivasspor, 1. Lig'de galibiyet hasretini beş maça çıkardı. Kırmızı-beyazlılar son galibiyetini 9. haftada almıştı ve o tarihten beri kazanamadı.\n\n— Ardından oynadığı beş maçta yalnızca iki puan toplayan takım, bu sürede üst üste üç yenilgi aldı.\n— Ümraniyespor'a 4-0, Boluspor'a 2-1 ve Vanspor'a 3-1 yenildi.\n— 14. hafta sonunda 13 puanda kalan Sivasspor, ligde 14 maçta 2 galibiyet, 7 beraberlik ve 5 mağlubiyet aldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/sivassporun-galibiyet-ozlemi-5-maca-cikti-3490462",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/sivas/sivasspor-galibiyete-hasret-kaldi-3490458",
+    "BirGün: https://www.birgun.net/haber/sivassporun-galibiyet-hasreti-bes-maca-cikti-745251",
+    "Sözcü Spor: https://www.sozcu.com.tr/sivasspor-galibiyete-hasret-p377125"
+   ]
   }
  ],
  "fails": {
@@ -13300,7 +13303,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119336751567126703",
+   "since_id": "2119344172541067316",
    "started": true
   },
   "ajansmuhbir1923": {
