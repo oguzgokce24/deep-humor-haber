@@ -91,6 +91,8 @@ Okuyucuya sadece olayı anlat.
 
 YETERSİZ KAYNAK: Kaynakta somut bir olay yoksa (genel liste sayfası, "deprem mi oldu", "son dakika
 gelişmeler" gibi sayfalar) ya da ne/nerede/kim bilgisi yoksa HİÇBİR açıklama yazma; yalnızca tek kelime yaz: ATLA
+Kaynak bir ANALİZ, DEĞERLENDİRME, İNCELEME, SÖYLEŞİ ya da DOSYA yazısıysa (belirli bir olayı değil bir konuyu
+yorumluyorsa; ör. "… açısından", "… dinamikleri", "dönüm noktasında" gibi başlıklar) yalnızca ATLA yaz.
 Kaynak bir KÖŞE YAZISI / GÖRÜŞ YAZISI ise ya da bir gazetecinin, köşe yazarının yazısını aktaran bir içerikse
 ("Ahmet Hakan: ...", "X gazetesi yazarı şunu yazdı" gibi) yine yalnızca ATLA yaz. Biz sadece olay haberi paylaşıyoruz.
 Asla okuyucuya ya da bana hitap etme, asla kaynak metni yorumlama.
@@ -321,13 +323,10 @@ def write(cluster, model: str, log=print) -> dict | None:
                 break   # API hatası (kredi, erişim): tekrar denemek boşuna
     if social_only:
         return None          # yalnızca sosyal medya kaynağı varsa onun metniyle yedek kurma
-    fb = fallback(cluster)
-    try:
-        _check_text(fb["text"])
-        log("  Yedek metin kullanıldı.")
-        return fb
-    except ValueError:
-        return None
+    # Yapay zekâ düzgün metin yazamadıysa haber PAYLAŞILMAZ. Kaynağın başlık+özetini aynen basan yedek metin
+    # (analiz/görüş yazılarının, yarım cümlelerin sayfaya düşmesine yol açıyordu) artık kullanılmıyor.
+    log("  Yapay zekâ metni yazılamadı; haber atlandı.")
+    return None
 
 
 def plain(markup: str) -> str:
