@@ -98,6 +98,10 @@ Asla okuyucuya ya da bana hitap etme, asla kaynak metni yorumlama.
 Yanıtı YALNIZCA şu biçimde ver (JSON KULLANMA):
 KATEGORİ: TÜRKİYE | DÜNYA | EKONOMİ | SPOR
 KİŞİ: (haberin merkezindeki tanınmış kişinin tam adı; yoksa boş bırak)
+SKOR: (SADECE haber oynanıp BİTMİŞ bir futbol maçının sonucuysa doldur, aksi halde boş bırak. Biçim:
+  Ev sahibi takım | ev golü | Deplasman takımı | deplasman golü | Lig · Hafta | goller
+  Örnek: Çorum FK | 0 | Fenerbahçe | 5 | Trendyol Süper Lig · 11. Hafta | 12' 63' Greenwood · 21' 56' İ. Kahveci · 74' O. Aydın
+  Lig/hafta ya da goller bilinmiyorsa o alanı boş bırak; skoru kaynakta açıkça yoksa SKOR satırını boş bırak.)
 ---
 (metin)"""
 
@@ -156,7 +160,25 @@ def _call_claude(source_text: str, model: str, key: str, feedback: str = "") -> 
     person = (data.get("kisi") or "").strip(" .-")
     if len(person.split()) > 5 or person.lower() in ("yok", "boş", "-"):
         person = ""
-    return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude", "person": person}
+    return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude", "person": person,
+            "score": parse_score(data.get("skor") or "", text)}
+
+
+def parse_score(line: str, text: str = "") -> dict | None:
+    """'Ev | 0 | Dep | 5 | Lig · Hafta | goller' satırını okur. Şüpheli her durumda None (bant çizilmez)."""
+    parts = [p.strip() for p in line.split("|")]
+    if len(parts) < 4:
+        return None
+    home, hs, away, as_ = parts[:4]
+    if not (hs.isdigit() and as_.isdigit()) or int(hs) > 20 or int(as_) > 20:
+        return None
+    if not (2 <= len(home) <= 22 and 2 <= len(away) <= 22) or home.lower() == away.lower():
+        return None
+    # Skor metinde de geçmeli (uydurma bant olmasın)
+    if text and f"{hs}-{as_}" not in text and f"{as_}-{hs}" not in text:
+        return None
+    return {"home": home, "home_score": int(hs), "away": away, "away_score": int(as_),
+            "info": parts[4] if len(parts) > 4 else "", "goals": (parts[5] if len(parts) > 5 else "")[:70]}
 
 
 def _repair(t: str) -> str:
@@ -179,9 +201,11 @@ def _repair(t: str) -> str:
 def _parse(raw: str) -> dict:
     """Model yanıtını okur. Önce düz metin biçimi (KATEGORİ: ... / --- / metin), sonra JSON denenir."""
     raw = raw.strip()
-    m = re.match(r"(?is)\s*KATEGOR[İI]\s*:\s*([^\n]+)\n(?:\s*K[İI]Ş[İI]\s*:\s*([^\n]*)\n)?\s*-{3,}\s*\n(.*)$", raw)
+    m = re.match(r"(?is)\s*KATEGOR[İI]\s*:\s*([^\n]+)\n(?:\s*K[İI]Ş[İI]\s*:\s*([^\n]*)\n)?"
+                 r"(?:\s*SKOR\s*:\s*([^\n]*)\n)?\s*-{3,}\s*\n(.*)$", raw)
     if m:
-        return {"kategori": m.group(1).strip(), "kisi": (m.group(2) or "").strip(), "metin": m.group(3).strip()}
+        return {"kategori": m.group(1).strip(), "kisi": (m.group(2) or "").strip(),
+                "skor": (m.group(3) or "").strip(), "metin": m.group(4).strip()}
     j = re.search(r"\{.*\}", raw, re.S)
     if j:
         try:

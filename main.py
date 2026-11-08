@@ -301,7 +301,7 @@ def main():
             log("  Uygun fotoğraf yok; bu haber bu tur paylaşılmıyor.")
             continue
         label = w["category"] or label_for(c)
-        render_card(title, img, body=w["text"], label=label, brand=cfg["brand"], theme=cfg["theme"],
+        render_card(title, img, body=w["text"], label=label, brand=cfg["brand"], theme=cfg["theme"], score=w.get("score"),
                     out_path=path, footer="FOTO: WIKIMEDIA COMMONS" if credit == "Wikimedia Commons" else "")
         caption = writer.plain(w["text"])
         tags = cfg["brand"].get("hashtags", "").strip()
