@@ -2,65 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bursa",
-    "eğlen",
-    "mekan",
-    "saldı",
-    "tüfek"
-   ],
-   "tok": [
-    "ardın",
-    "ateş",
-    "ateşl",
-    "açtı",
-    "açıld",
-    "belir",
-    "bursa",
-    "can",
-    "düzen",
-    "ekibi",
-    "eğlen",
-    "fethi",
-    "gece",
-    "göre",
-    "güven",
-    "henüz",
-    "iddia",
-    "ihbar",
-    "ilçes",
-    "incel",
-    "isabe",
-    "kamer",
-    "kaybı",
-    "kaçtı",
-    "kimli",
-    "kurşu",
-    "mahal",
-    "mekan",
-    "mermi",
-    "ndeki",
-    "nilüf",
-    "nın",
-    "olay",
-    "olayd",
-    "olmad",
-    "saat",
-    "saatl",
-    "sayıd",
-    "sevk",
-    "silah",
-    "sıral",
-    "tüfek",
-    "yarıs",
-    "yaşan",
-    "yerin",
-    "çevre",
-    "ölen"
-   ],
-   "at": "2026-11-07T07:08:47.517974+00:00"
-  },
-  {
-   "fp": [
     "alınd",
     "gözal",
     "silah",
@@ -11148,21 +11089,61 @@
     "şehir"
    ],
    "at": "2026-11-08T18:56:51.368972+00:00"
+  },
+  {
+   "fp": [
+    "erzur",
+    "feci",
+    "hayat",
+    "kamyo",
+    "kaybe",
+    "kaza",
+    "tır",
+    "çarpı",
+    "şoför"
+   ],
+   "tok": [
+    "ali",
+    "almad",
+    "ambul",
+    "ağır",
+    "başla",
+    "can",
+    "dokto",
+    "ekipl",
+    "erzur",
+    "feci",
+    "hasta",
+    "ilgil",
+    "incel",
+    "itfai",
+    "kaldı",
+    "kamyo",
+    "kara",
+    "karış",
+    "kazay",
+    "korku",
+    "kurtu",
+    "köseo",
+    "müdah",
+    "rağme",
+    "sürüc",
+    "sıkış",
+    "tortu",
+    "tır",
+    "verdi",
+    "yara",
+    "yaşam",
+    "yitir",
+    "yolun",
+    "çarpı",
+    "çıkar",
+    "şoför"
+   ],
+   "at": "2026-11-08T19:09:22.435857+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "483ab51b60",
-   "post_id": "529346797199852_1459894162916958",
-   "title": "Efsaneleşen dizilerin yazarıydı… Senarist Güliz Kucur hayatını kaybetti",
-   "at": "2026-11-06T22:07:26.339515+00:00",
-   "yazim": "claude",
-   "metin": "Senarist Güliz Kucur 61 yaşında hayatını kaybetti.\n\nKucur, 'Süper Baba', 'Aynalı Tahir', 'Deli Yürek', 'İkinci Bahar', 'Yabancı Damat' ve 'Aliye' gibi dizilerin senaryosuna imza attı. FilmSan Vakfı, ailesine ve sevenlerine başsağlığı diledi.\n\n— Cenazesi 7 Kasım Cumartesi günü öğle namazının ardından Hacı Sarıgül Camii'nden kaldırılacak.\n— Kucur, Bahçeköy Mezarlığı'nda defnedilecek.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/magazin/yabanci-damatin-senaristi-guliz-kucur-hayatini-kaybetti-3490114",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/efsanelesen-dizilerin-yazariydi-senarist-guliz-kucur-hayatini-kaybetti-2554069"
-   ]
-  },
   {
    "id": "5922f942b0",
    "post_id": "529346797199852_1459902426249465",
@@ -13685,6 +13666,20 @@
     "Evrensel: https://www.evrensel.net/haber/6008576/kocaeli-sehir-tiyatrolarinin-kurucu-sanatcilarindan-safak-karali-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/unlu-iyatrocu-safak-karali-hayatini-kaybetti-2083018"
    ]
+  },
+  {
+   "id": "525eac45fa",
+   "post_id": "529346797199852_1462038862702488",
+   "title": "Erzurum’da TIR’la çarpışan kamyonun şoförü hayatını kaybetti",
+   "at": "2026-11-08T19:09:22.435857+00:00",
+   "yazim": "claude",
+   "metin": "Erzurum'da bir TIR ile çarpışan kamyonun şoförü hayatını kaybetti.\n\n— TIR sürücüsü yara almadan kurtuldu. Kamyonda sıkışan şoför itfaiye ekiplerince çıkarıldı.\n— Ağır yaralı olarak ambulansla hastaneye kaldırılan şoför, doktorların tüm müdahalelerine rağmen yaşamını yitirdi.\n— Jandarma ekipleri kazayla ilgili inceleme başlattı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/erzurumda-feci-kaza-tirla-carpisan-kamyonun-soforu-hayatini-kaybetti-7696888",
+    "CNN Türk: https://www.cnnturk.com/turkiye/erzurumda-iki-tir-ve-kamyon-carpisti-korkunc-kazada-kamyon-soforu-can-verdi-3490660",
+    "Sözcü: https://www.sozcu.com.tr/erzurum-da-tir-la-carpisan-kamyonun-soforu-hayatini-kaybetti-p377301",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/erzurumda-feci-kaza-tirla-carpisan-kamyonun-soforu-hayatini-kaybetti-7696888"
+   ]
   }
  ],
  "fails": {
@@ -13881,7 +13876,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119502736928489927",
+   "since_id": "2119505209844277617",
    "started": true
   },
   "ajansmuhbir1923": {
