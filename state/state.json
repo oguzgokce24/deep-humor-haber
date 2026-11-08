@@ -2,51 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ailel",
-    "canım",
-    "daval",
-    "depre",
-    "fazla",
-    "karar",
-    "kaybe",
-    "tepki",
-    "yok"
-   ],
-   "tok": [
-    "adale",
-    "ailel",
-    "beraa",
-    "bizim",
-    "canım",
-    "ceza",
-    "daval",
-    "demir",
-    "depre",
-    "fazla",
-    "görev",
-    "göste",
-    "hesap",
-    "indir",
-    "isted",
-    "istiy",
-    "kadın",
-    "kahra",
-    "kamu",
-    "saray",
-    "tepki",
-    "topla",
-    "tuğçe",
-    "verme",
-    "yakın",
-    "yok",
-    "çıkan",
-    "önünd",
-    "şubat"
-   ],
-   "at": "2026-11-07T05:18:26.421096+00:00"
-  },
-  {
-   "fp": [
     "26",
     "6",
     "alarm",
@@ -11181,21 +11136,71 @@
     "şey"
    ],
    "at": "2026-11-08T17:05:59.624934+00:00"
+  },
+  {
+   "fp": [
+    "372",
+    "8",
+    "bekli",
+    "bin",
+    "güner",
+    "istan",
+    "kişi",
+    "müdür",
+    "nakli",
+    "organ",
+    "sağlı"
+   ],
+   "tok": [
+    "abdul",
+    "anı",
+    "bağış",
+    "bekle",
+    "bekli",
+    "belir",
+    "beyan",
+    "bin",
+    "birik",
+    "bulun",
+    "böbre",
+    "den",
+    "devle",
+    "doç",
+    "emre",
+    "güner",
+    "hasta",
+    "insan",
+    "kalp",
+    "karac",
+    "kişil",
+    "kılab",
+    "müdür",
+    "mümkü",
+    "nabız",
+    "nakil",
+    "nakli",
+    "nice",
+    "oluşt",
+    "organ",
+    "payla",
+    "rakam",
+    "sağlı",
+    "sevdi",
+    "vatan",
+    "vefat",
+    "yalnı",
+    "yapma",
+    "yapıl",
+    "yüzde",
+    "yılın",
+    "çağrı",
+    "çağır",
+    "üzeri"
+   ],
+   "at": "2026-11-08T17:18:32.818589+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c9b73aec77",
-   "post_id": "529346797199852_1459835009589540",
-   "title": "Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, manipüle edilen 30 şirket soruşturulmalı",
-   "at": "2026-11-06T20:24:02.739384+00:00",
-   "yazim": "yedek",
-   "metin": "Eski Borsa İstanbul Başkanı Karadağ: Fon krizinde patronlar, manipüle edilen 30 şirket soruşturulmalı.\n\nBorsa İstanbul'un eski başkanı, SPK'nın eski üyesi ve başkan vekili Himmet Karadağ, fon krizinin arkasında yaklaşık üç yıldır süren \"kurumsal ve sistemli\" bir manipülasyon olduğunu söyledi.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/eski-spk-baskani-karadagdan-fon-skandalinda-patronlar-cikisi-30-2082755",
-    "Serbestiyet: https://serbestiyet.com/haberler/eski-borsa-istanbul-baskani-karadag-fon-krizinde-patronlar-yonetim-kurullari-ve-manipule-edilen-30-sirket-sorusturulmali-253021/"
-   ]
-  },
   {
    "id": "92e19f80d7",
    "post_id": "529346797199852_1459842069588834",
@@ -13718,6 +13723,19 @@
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-200-macina-damga-greenwood-emre-belozoglu-ile-yeniden-costu-43370688",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/irfan-can-kahveciden-sergen-yalcin-ve-a-milli-takim-aciklamasi-43370744"
    ]
+  },
+  {
+   "id": "e547b8f8e6",
+   "post_id": "529346797199852_1461947496044958",
+   "title": "İl Sağlık Müdürü Güner’den organ bağışı çağrısı: 'İstanbul'da 8 bin 372 hasta nakil bekliyor'",
+   "at": "2026-11-08T17:18:32.818589+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da 8 bin 372 hasta organ nakli bekliyor. İl Sağlık Müdürü Abdullah Emre Güner, vatandaşları organ bağışında bulunmaya çağırdı.\n\n— Bekleyenlerin 7 bin 129'u böbrek, 612'si karaciğer, 493'ü kalp nakli bekliyor.\n— 2026 yılında İstanbul'da bin 890 organ nakli yapıldı.\n— Bağışçıların yalnızca yüzde 13'ü vefat eden kişilerden oluştu. Güner, organ bağışı beyanının e-Devlet ya da e-Nabız üzerinden yapılabileceğini söyledi.\n\n“Organ bağışı, nakil bekleyen bir insanın sevdikleriyle daha nice anı biriktirmesini mümkün kılabilir.”",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/istanbul-il-saglik-muduru-guner-rakamlari-paylasti-8-bin-372-kisi-organ-nakli-bekliyor-3490639",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/saglik/il-saglik-muduru-guner-den-organ-bagisi-cagrisi-istanbul-da-8-bin-372-hasta-nakil-bekliyor-2554491",
+    "BirGün: https://www.birgun.net/haber/istanbul-da-8-bin-372-kisi-organ-nakli-bekliyor-745315"
+   ]
   }
  ],
  "fails": {
@@ -13914,7 +13932,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119471731446567077",
+   "since_id": "2119477801065783767",
    "started": true
   },
   "ajansmuhbir1923": {
