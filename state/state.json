@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "44",
-    "71",
-    "arkas",
-    "güven",
-    "kıska",
-    "sahne",
-    "yok",
-    "yoksu",
-    "yüzde",
-    "ünün"
-   ],
-   "tok": [
-    "araya",
-    "arkas",
-    "doğal",
-    "dışıl",
-    "emekç",
-    "fatih",
-    "gelen",
-    "genel",
-    "göste",
-    "güven",
-    "hakkı",
-    "isted",
-    "istey",
-    "kadık",
-    "kayıt",
-    "koşul",
-    "kıska",
-    "mesle",
-    "müzik",
-    "sahne",
-    "sanat",
-    "sektö",
-    "sen",
-    "sigor",
-    "tepki",
-    "yasas",
-    "yok",
-    "yoksu",
-    "yüzde",
-    "çalış",
-    "çıkar",
-    "önlen",
-    "özako",
-    "özel",
-    "ünün"
-   ],
-   "at": "2026-11-07T02:04:24.833201+00:00"
-  },
-  {
-   "fp": [
     "birka",
     "feda",
     "fon",
@@ -11113,22 +11061,67 @@
     "öneml"
    ],
    "at": "2026-11-08T13:54:42.164324+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "cenaz",
+    "daki",
+    "gönde",
+    "hayat",
+    "iran",
+    "kaybe",
+    "kazas",
+    "kişin",
+    "trafi",
+    "van"
+   ],
+   "tok": [
+    "akşam",
+    "alına",
+    "alınd",
+    "belir",
+    "can",
+    "cenaz",
+    "daki",
+    "dan",
+    "durum",
+    "dün",
+    "erkek",
+    "gönde",
+    "götür",
+    "hoy",
+    "ilçes",
+    "iran",
+    "iyi",
+    "kadın",
+    "kara",
+    "kazas",
+    "kenti",
+    "minib",
+    "otomo",
+    "plaka",
+    "saray",
+    "süren",
+    "sürüc",
+    "tabur",
+    "tedav",
+    "trafi",
+    "tır",
+    "van",
+    "verdi",
+    "yolcu",
+    "yolun",
+    "çarpı",
+    "ölen",
+    "ölenl",
+    "özalp",
+    "öğren"
+   ],
+   "at": "2026-11-08T14:07:40.610403+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "aaa2777533",
-   "post_id": "529346797199852_1459698072936567",
-   "title": "MEB AGS ÖABT 2027: AGS Ne Zaman? İşte 2027 MEB AGS ÖABT Başvuru ve Sınav Tarihi",
-   "at": "2026-11-06T17:19:49.903181+00:00",
-   "yazim": "claude",
-   "metin": "2027 MEB-AGS 8 Mayıs'ta yapılacak.\n\n— ÖABT ise 9 Mayıs Pazar günü uygulanacak. Sınav saati 10:15.\n— Başvurular 19-29 Mart 2027 tarihleri arasında ÖSYM AİS üzerinden yapılacak.\n— Sonuçlar 11 Haziran 2027'de açıklanacak.\n— Tarihler bir önceki yıla göre öne çekildi, hazırlık planını etkileyebilir.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/hafta-sonu-sinav-var-mi-7-8-kasimda-hangi-sinavlar-yapilacak-osym-sinav-takvimi-gundemde-3490052",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/egitim/2027-meb-ags-ne-zaman-yapilacak-osym-2027-akademi-giris-sinavi-ve-basvuru-takvimi-2554002",
-    "BirGün: https://www.birgun.net/haber/meb-ags-oabt-2027-ags-ne-zaman-iste-2027-meb-ags-oabt-basvuru-ve-sinav-tarihi-745005"
-   ]
-  },
   {
    "id": "a201ff7b06",
    "post_id": "529346797199852_1459715232934851",
@@ -13653,6 +13646,19 @@
     "NTV: https://www.ntv.com.tr/turkiye/galeri-ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-1749992",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/ekonomi/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor-7696805"
    ]
+  },
+  {
+   "id": "dece3a3ab2",
+   "post_id": "529346797199852_1461769156062792",
+   "title": "TIR'la çarpışan araçta can verdiler: Ölen 9 kişinin cenazesi İran'a gönderildi",
+   "at": "2026-11-08T14:07:40.610403+00:00",
+   "yazim": "claude",
+   "metin": "Van'ın Özalp ilçesinde TIR ile çarpışan İran plakalı yolcu minibüsündeki 9 kişi hayatını kaybetti.\n\nKaza dün akşam Özalp-Saray kara yolunda oldu. Ölenlerin 5'i kadın, 4'ü erkekti.\n\n— Cenazeler Van'dan 3 araçla alınarak İran'ın Hoy kentine götürüldü.\n— Minibüsteki 5 kişi ile TIR'ın sürücüsü yaralandı.\n— Yaralılardan 3'ü taburcu edildi, tedavisi süren 2 kişinin durumunun iyi olduğu öğrenildi.\n— TIR'ın sürücüsünün gözaltına alındığı belirtildi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/vandaki-trafik-kazasinda-hayatini-kaybeden-9-kisinin-cenazesi-irana-gonderildi-7696804",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tir-la-carpisan-aracta-can-verdiler-olen-9-kisinin-cenazesi-iran-a-gonderildi-2554449",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/vandaki-trafik-kazasinda-hayatini-kaybeden-9-kisinin-cenazesi-irana-gonderildi-7696804"
+   ]
   }
  ],
  "fails": {
@@ -13845,7 +13851,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119425287570014339",
+   "since_id": "2119429432565752144",
    "started": true
   },
   "ajansmuhbir1923": {
