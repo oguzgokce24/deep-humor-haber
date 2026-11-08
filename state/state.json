@@ -2,37 +2,6 @@
  "seen": [
   {
    "fp": [
-    "112",
-    "bakan",
-    "durum",
-    "fon",
-    "soruş",
-    "tutuk",
-    "çiftç"
-   ],
-   "tok": [
-    "ana",
-    "bloka",
-    "dondu",
-    "durum",
-    "duyur",
-    "fon",
-    "gerçe",
-    "içişl",
-    "konul",
-    "mal",
-    "musta",
-    "sinin",
-    "topla",
-    "tüzel",
-    "varlı",
-    "çiftç",
-    "şahıs"
-   ],
-   "at": "2026-11-06T21:54:24.371720+00:00"
-  },
-  {
-   "fp": [
     "güliz",
     "hayat",
     "kaybe",
@@ -10764,22 +10733,104 @@
     "şidde"
    ],
    "at": "2026-11-08T09:43:08.322919+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "anali",
+    "avrup",
+    "carne",
+    "europ",
+    "nin",
+    "sorun",
+    "türki"
+   ],
+   "tok": [
+    "akden",
+    "almıy",
+    "alıyo",
+    "anali",
+    "arası",
+    "arttı",
+    "artış",
+    "atıkl",
+    "atıkt",
+    "avrup",
+    "aynı",
+    "azalt",
+    "açık",
+    "batı",
+    "batıs",
+    "belir",
+    "beşin",
+    "bin",
+    "birli",
+    "büyük",
+    "carne",
+    "dan",
+    "denge",
+    "değer",
+    "değiş",
+    "doğu",
+    "dönem",
+    "dünya",
+    "edild",
+    "edilm",
+    "ekono",
+    "eksen",
+    "elde",
+    "emisy",
+    "europ",
+    "farkl",
+    "geril",
+    "geçen",
+    "göre",
+    "hedef",
+    "hukuk",
+    "ilişk",
+    "ise",
+    "ithal",
+    "izled",
+    "kaldı",
+    "kapsa",
+    "katıl",
+    "kayna",
+    "kriz",
+    "küres",
+    "marc",
+    "metan",
+    "nin",
+    "nün",
+    "nın",
+    "ortal",
+    "pieri",
+    "polit",
+    "reute",
+    "saatt",
+    "sahal",
+    "sahas",
+    "savun",
+    "seyme",
+    "siyas",
+    "sorun",
+    "söylü",
+    "sürek",
+    "sürül",
+    "sırad",
+    "taahh",
+    "tan",
+    "ten",
+    "tespi",
+    "ton",
+    "uzman",
+    "var",
+    "veril",
+    "yakla"
+   ],
+   "at": "2026-11-08T09:54:49.644444+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bead2fa986",
-   "post_id": "529346797199852_1459104522995922",
-   "title": "Brezilya'dan gizlice kaçan Bolsonaro'dan çarpıcı itiraf: 'Bu sırrı mezara götüreceğim'",
-   "at": "2026-11-06T05:09:35.179523+00:00",
-   "yazim": "claude",
-   "metin": "Senatör Flavio Bolsonaro:\n\n“Bu sırrı mezara götüreceğim.”\n\nSeçimi kaybeden Bolsonaro, yurt dışı çıkış yasağına rağmen ABD'ye gitti. Ülkeden nasıl ayrıldığı sorulunca bu yanıtı verdi. Hiçbir hükümetten yardım almadığını söyledi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/brezilyadaki-secim-yenilgisinin-ardindan-abdye-kacan-bolsonarodan-aciklama-962401.html",
-    "Habertürk: https://www.haberturk.com/dunya/brezilya-daki-secim-yenilgisinin-ardindan-bolsonaro-abd-ye-nasil-kacti-3925296",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/brezilya-dan-gizlice-kacan-bolsonaro-dan-carpici-itiraf-bu-sirri-mezara-goturecegim-2553811"
-   ]
-  },
   {
    "id": "7c206c2b95",
    "post_id": "529346797199852_1459142596325448",
@@ -13281,6 +13332,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/iski-acikladi-8-kasim-2026-istanbul-baraj-doluluk-oranlari-yuzde-kac-oldu-barajlarda-son-durum-2554328",
     "BirGün: https://www.birgun.net/haber/iski-paylasti-istanbul-da-barajlarin-doluluk-oraninda-son-durum-745250"
    ]
+  },
+  {
+   "id": "db55a3ac11",
+   "post_id": "529346797199852_1461555436084164",
+   "title": "Carnegie Europe'dan Türkiye analizi: Avrupa ile ilişkilerde dört büyük kriz",
+   "at": "2026-11-08T09:54:49.644444+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye, çöp sahalarından kaynaklanan metan emisyonunda dünyada beşinci sırada yer alıyor.\n\n— İstanbul'un batısındaki Seymen çöp sahasından saatte ortalama 7,4 ton emisyon tespit edildiği öne sürüldü. Çevre Bakanlığı ise bu verilerin sürekli ölçümden elde edilmediğini söylüyor.\n— 2014'ten 2024'e kadar Türkiye'de atıktan kaynaklanan metan emisyonunun yüzde 25 arttığı belirtiliyor. Küresel artış aynı dönemde yüzde 6,5'te kaldı.\n— Türkiye, metan emisyonlarını azaltmayı hedefleyen Küresel Metan Taahhüdü'nün katılımcıları arasında yer almıyor.\n— Türkiye, Avrupa atıklarının açık farkla en büyük ithalatçısı. Geçen yıl bu ithalat yaklaşık 510 bin ton oldu.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/carnegie-europe-tan-kapsamli-turkiye-analizi-turkiye-nin-dort-sorunu-avrupa-nin-da-sorunu-p377141",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/carnegie-europe-dan-turkiye-analizi-avrupa-ile-iliskilerde-dort-buyuk-kriz-2554351",
+    "Diken: https://www.diken.com.tr/reuters-turkiyenin-cop-sorunu-var/?utm_source=rss&utm_medium=rss&utm_campaign=reuters-turkiyenin-cop-sorunu-var"
+   ]
   }
  ],
  "fails": {
@@ -13429,7 +13493,6 @@
  },
  "fail_log": [
   "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
-  "2026-11-06T21:03 Bir sitede, ev sahibi kiralık evini ücretsiz kiralayacağını  -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
   "2026-11-06T21:15 Dışişleri'nden Doğu Akdeniz açıklaması: 'Fransız gemisinin a -> ValueError: yanıt yarıda kesildi (uzunluk sınırı)",
@@ -13467,12 +13530,13 @@
   "2026-11-07T10:19 Cristiano Ronaldo’nun milli takım vedasında Jorge Jesus etki -> ValueError: cümle yarım kalmış: 's ile yaşadığı anlaşmazlığın etkili olmu'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-07T10:43 Hakan Bahçetepe hakkında tahliye kararı: İmamoğlu “Niçin?” d -> ValueError: metin çok kısa, bağlam yok",
   "2026-11-07T18:57 Eski MASAK Başkan Yardımcısı Ramazan Başak: “Şahap Kavcıoğlu -> ValueError: cümle yarım kalmış: '— İstanbul Cumhuriyet Başsavc'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-08T02:30 Atakum Belediyesi’nde maaş krizi: 13 işçi daha işten çıkarıl -> ValueError: cümle yarım kalmış: '— Daha önce de altı em'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-08T02:30 Atakum Belediyesi’nde maaş krizi: 13 işçi daha işten çıkarıl -> ValueError: cümle yarım kalmış: '— Daha önce de altı em'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-08T09:54 Carnegie Europe'dan Türkiye analizi: Avrupa ile ilişkilerde  -> ValueError: cümle yarım kalmış: 'ltmayı hedefleyen Küresel Metan Taahhüdü'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119363344599540204",
+   "since_id": "2119366514952601636",
    "started": true
   },
   "ajansmuhbir1923": {
