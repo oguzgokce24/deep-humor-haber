@@ -283,7 +283,7 @@ def _segments_md(line: str):
 
 def _layout_body(markup: str, maxw: int, max_h: int):
     paras = [p.strip("\n") for p in re.split(r"\n\s*\n", markup.strip()) if p.strip()]
-    for size in range(42, 25, -2):
+    for size in range(60, 25, -2):
         fb, fr = font("headline", size), font("bold", size)   # tüm metin kalın, vurgular daha da kalın
         lh, gap = int(size * 1.2), int(size * 0.75)
         sp = fr.getlength(" ")
@@ -306,19 +306,25 @@ def _layout_body(markup: str, maxw: int, max_h: int):
             return {"rows": rows, "fb": fb, "fr": fr, "lh": lh, "gap": gap, "sp": sp, "height": h}
 
 
-def fit_card_text(markup: str, maxw: int, max_h: int = 450, min_size: int = 34) -> str:
-    """Görsele sığacak kadar metin: okunur boyutta (min_size) sığmayan son satırlar/maddeler atılır.
-    İlk paragraf her zaman kalır. Tam metin açıklamada yer aldığı için hiçbir bilgi kaybolmaz."""
-    lines = markup.strip().split("\n")
-    while True:
-        L = _layout_body("\n".join(lines), maxw, max_h)
-        size = L["fb"].size
-        first_para_end = next((i for i, l in enumerate(lines) if not l.strip()), len(lines))
-        if (L["height"] <= max_h and size >= min_size) or len(lines) <= first_para_end:
-            return "\n".join(lines).strip()
-        lines = lines[:-1]
-        while lines and not lines[-1].strip():
-            lines = lines[:-1]
+def fit_card_text(markup: str, maxw: int, max_h: int = 450, min_size: int = 46) -> str:
+    """Görsele yalnızca ÖNEMLİ kısım konur: ilk paragraf (ana cümle / alıntı) ve sığarsa ilk madde.
+    Yazı büyük ve okunur kalsın diye fazlası görsele girmez; tam metin açıklamada yer alır."""
+    paras = [p.strip() for p in markup.strip().split("\n\n") if p.strip()]
+    if not paras:
+        return markup.strip()
+    core = [paras[0]]
+    # "**Ad Soyad:**" gibi çok kısa bir ilk paragrafsa alıntıyı da al
+    if len(re.sub(r"[*“”\"]", "", paras[0]).split()) < 6 and len(paras) > 1:
+        core.append(paras[1])
+    rest = "\n".join(paras[len(core):]).split("\n")
+    extra = rest[0].strip() if rest and rest[0].strip() else ""
+    base = "\n\n".join(core)
+    if extra:
+        cand = base + "\n\n" + extra
+        L = _layout_body(cand, maxw, max_h)
+        if L["height"] <= max_h and L["fb"].size >= min_size:
+            return cand
+    return base
 
 
 def _draw_layout(d, L, x0, y0, fill):
@@ -380,7 +386,7 @@ def render_card(title: str, photo=None, *, sources=(), photo_credit=None, label=
 
 
     # Metin düzeni: body (çok paragraflı, **kalın** işaretli) varsa o, yoksa başlık
-    text_h = 300 if score else 480          # skor bandı varsa görseldeki metin kısalır
+    text_h = 280 if score else 420          # skor bandı varsa görseldeki metin kısalır
     markup = fit_card_text(body, TEXT_R - TEXT_X, max_h=text_h) if body else f"**{title.strip()}**"
     layout = _layout_body(markup, TEXT_R - TEXT_X, max_h=text_h)
     head_bottom = 1180
