@@ -2,71 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altya",
-    "gördü",
-    "hasar",
-    "saldı",
-    "ukray"
-   ],
-   "tok": [
-    "altya",
-    "arası",
-    "beled",
-    "bulun",
-    "dan",
-    "düzen",
-    "edilm",
-    "enerj",
-    "füzel",
-    "gece",
-    "gördü",
-    "hasar",
-    "hızla",
-    "hızlı",
-    "iha",
-    "incel",
-    "isted",
-    "kapat",
-    "kentt",
-    "kesin",
-    "kiev",
-    "kliçk",
-    "köprü",
-    "nün",
-    "nın",
-    "olabi",
-    "patri",
-    "pivni",
-    "rus",
-    "rusya",
-    "sarat",
-    "sivil",
-    "tedar",
-    "tesis",
-    "tesli",
-    "trafi",
-    "ukray",
-    "uyarı",
-    "uzman",
-    "var",
-    "vital",
-    "volod",
-    "yaşan",
-    "yinel",
-    "yönde",
-    "yönel",
-    "zarar",
-    "zelen",
-    "çağrı",
-    "çocuk",
-    "önley",
-    "ülken",
-    "ısıtm"
-   ],
-   "at": "2026-11-07T07:46:38.892557+00:00"
-  },
-  {
-   "fp": [
     "5",
     "82",
     "ilde",
@@ -11189,20 +11124,57 @@
     "şehir"
    ],
    "at": "2026-11-08T19:45:17.145882+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "5",
+    "aydın",
+    "cip",
+    "devri",
+    "yaral",
+    "ölü"
+   ],
+   "tok": [
+    "adam",
+    "ambul",
+    "aydın",
+    "babas",
+    "başla",
+    "cip",
+    "cipin",
+    "cipte",
+    "devle",
+    "devri",
+    "evli",
+    "geldi",
+    "götür",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "kazay",
+    "kontr",
+    "kırsa",
+    "mahal",
+    "meyda",
+    "nazil",
+    "nde",
+    "necat",
+    "ovacı",
+    "saat",
+    "sürüc",
+    "sıral",
+    "yaşın",
+    "yolcu",
+    "çocuk",
+    "çıkan",
+    "şahan",
+    "şaram"
+   ],
+   "at": "2026-11-08T19:57:47.869575+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "50ee51c82b",
-   "post_id": "529346797199852_1459922632914111",
-   "title": "Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza yağdı",
-   "at": "2026-11-06T22:58:09.657164+00:00",
-   "yazim": "yedek",
-   "metin": "Kırım Tatarlarına Rusya'dan ağır baskı: Aktivistlere ceza yağdı.\n\nKırım'da, Kırım Tatarlarına yönelik gözaltılar, ağır hapis cezaları ve kültürel mirasa yönelik müdahaleler sürüyor.",
-   "sources": [
-    "Karar: https://www.karar.com/dunya-haberleri/kirim-tatarlarina-rusyadan-agir-baski-aktivistlere-ceza-yagdi-2082783"
-   ]
-  },
   {
    "id": "1ea701f1c3",
    "post_id": "529346797199852_1459933896246318",
@@ -13731,6 +13703,19 @@
     "Sözcü Spor: https://www.sozcu.com.tr/aziz-yildirim-in-corum-daki-goruntusu-dikkat-cekti-u-19-macini-tek-basina-takip-etti-p377287",
     "BPT (X): https://x.com/bpthaber/status/2119513916107624767"
    ]
+  },
+  {
+   "id": "52c7078340",
+   "post_id": "529346797199852_1462072522699122",
+   "title": "Aydın’da cip şarampole devrildi: 1 ölü, 4 yaralı",
+   "at": "2026-11-08T19:57:47.869575+00:00",
+   "yazim": "claude",
+   "metin": "Aydın'ın Nazilli ilçesinde kontrolünden çıkan cip şarampole devrildi, 1 kişi hayatını kaybetti, 4 kişi yaralandı.\n\nKaza saat 17.00 sıralarında kırsal Ovacık Mahallesi'nde meydana geldi.\n\n— Evli ve 3 çocuk babası olan 61 yaşındaki bir adam hayatını kaybetti.\n— Sürücü ve 3 yolcu yaralandı. Yaralılar ambulanslarla Nazilli Devlet Hastanesi'ne götürüldü.\n— Jandarma kazayla ilgili soruşturma başlattı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/aydinda-cip-devrildi-1-olu-5-yarali-962617.html",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/aydin/aydinda-devrilen-cipteki-1-kisi-oldu-5-kisi-yaralandi-3490714",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aydin-da-cip-sarampole-devrildi-1-olu-4-yarali-2554527"
+   ]
   }
  ],
  "fails": {
@@ -13928,7 +13913,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119513916107624767",
+   "since_id": "2119518482412818837",
    "started": true
   },
   "ajansmuhbir1923": {
