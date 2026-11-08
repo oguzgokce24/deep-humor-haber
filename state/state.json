@@ -11113,25 +11113,80 @@
     "ünün"
    ],
    "at": "2026-11-08T14:33:00.450349+00:00"
+  },
+  {
+   "fp": [
+    "adana",
+    "ağaçl",
+    "devri",
+    "rüzga",
+    "şidde"
+   ],
+   "tok": [
+    "adana",
+    "ardın",
+    "atlat",
+    "ağacı",
+    "ağaç",
+    "ağaçl",
+    "biri",
+    "burad",
+    "can",
+    "canla",
+    "dalla",
+    "deki",
+    "devir",
+    "devri",
+    "direğ",
+    "duvar",
+    "düşme",
+    "düştü",
+    "ekipl",
+    "elekt",
+    "esnaf",
+    "etkil",
+    "evin",
+    "fırtı",
+    "güven",
+    "hatay",
+    "isted",
+    "kaldı",
+    "kapal",
+    "kilom",
+    "kimse",
+    "kurta",
+    "kuvve",
+    "meteo",
+    "neden",
+    "nin",
+    "olası",
+    "otomo",
+    "panos",
+    "pazar",
+    "rekla",
+    "rüzga",
+    "saatt",
+    "sayıd",
+    "semt",
+    "sürük",
+    "tehli",
+    "tezga",
+    "ucuz",
+    "uyarı",
+    "varan",
+    "yok",
+    "yüreğ",
+    "yıkıl",
+    "zor",
+    "çalış",
+    "çukur",
+    "önlem",
+    "şidde"
+   ],
+   "at": "2026-11-08T14:45:46.368372+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "99efe810aa",
-   "post_id": "529346797199852_1459736002932774",
-   "title": "Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba özgürlük…’",
-   "at": "2026-11-06T17:58:16.079174+00:00",
-   "yazim": "yedek",
-   "metin": "Tahliye kararının ardından Bahçetepe’den ilk mesaj: ‘Merhaba özgürlük…’.\n\nGaziosmanpaşa Belediye Başkanı Hakan Bahçetepe, tahliye kararının ardından sosyal medya hesabından ilk paylaşımını yaptı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/gaziosmanpasa-belediyesi-davasinda-karar-43368824",
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-gaziosmanpasa-belediye-davasinda-karar-7695915",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-gaziosmanpasa-belediyesi-davasinda-karar-hakan-bahcetepeye-ev-hapsiyle-tahliye-karari-3490075",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/06/gaziosmanpasa-belediye-baskani-hakan-bahcetepe-hakkinda-ev-hapsiyle-tahliye-karari",
-    "NTV: https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
-    "Sözcü: https://www.sozcu.com.tr/hakan-bahcetepe-ye-tahliye-6-kasim-2026-p376763"
-   ]
-  },
   {
    "id": "3006acec35",
    "post_id": "529346797199852_1459743952931979",
@@ -13651,6 +13706,19 @@
     "Karar: https://www.karar.com/guncel-haberler/konyada-mesleki-egitim-merkezinde-firin-parladi-4u-ogrenci-1-ogretmen-2083000",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/konyada-mesleki-egitim-kurumunda-firin-patladi-3-ogrenci-ve-2-ogretmen-yaralandi-7696817"
    ]
+  },
+  {
+   "id": "c93ae99dde",
+   "post_id": "529346797199852_1461808589392182",
+   "title": "Adana ve Hatay'da kuvvetli rüzgar: Ağaçlar araçların üzerine devrildi",
+   "at": "2026-11-08T14:45:46.368372+00:00",
+   "yazim": "claude",
+   "metin": "Adana'da saatte 80 kilometreye varan fırtına ağaçları ve bir elektrik direğini devirdi.\n\n— Yüreğir'deki semt pazarında iki ağacın dalları tezgahların üzerine düştü, kimse yaralanmadı.\n— Çukurova'da devrilen bir ağaç reklam panosunu da sürükledi.\n— Meteoroloji'nin kuvvetli rüzgar uyarısının ardından Hatay'da bir evin duvarı da yıkıldı.\n— Pazar esnafı kapalı semt pazarı istediğini söyledi.\n— Ekipler devrilen ağaçları kaldırmak ve olası tehlikeleri önlemek için çalışıyor.\n\nPazar esnafından biri, “Ucuz atlattık, burada can güvenliğimiz yok.” dedi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/adana/adanada-siddetli-ruzgar-etkili-oldu-3490619",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/adana-da-siddetli-firtina-agaclar-ve-elektrik-diregi-devrildi-2554413",
+    "Evrensel: https://www.evrensel.net/haber/6008535/adana-ve-hatayda-kuvvetli-ruzgar-agaclar-araclarin-uzerine-devrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13843,7 +13911,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119437391056244750",
+   "since_id": "2119439027409441071",
    "started": true
   },
   "ajansmuhbir1923": {
