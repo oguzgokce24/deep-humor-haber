@@ -2,75 +2,6 @@
  "seen": [
   {
    "fp": [
-    "gerçe",
-    "hikây",
-    "kamer",
-    "kimin",
-    "ortad",
-    "vizyo",
-    "şey"
-   ],
-   "tok": [
-    "anlat",
-    "arası",
-    "baktı",
-    "başla",
-    "belge",
-    "birbi",
-    "bırak",
-    "cezae",
-    "cezas",
-    "dolan",
-    "dönüş",
-    "eliza",
-    "field",
-    "film",
-    "gerçe",
-    "girme",
-    "gözle",
-    "gün",
-    "hapis",
-    "herke",
-    "hikây",
-    "holme",
-    "iddia",
-    "izley",
-    "kamer",
-    "karşı",
-    "kenar",
-    "kimin",
-    "kolay",
-    "kurma",
-    "kuruc",
-    "lance",
-    "nasıl",
-    "natha",
-    "neye",
-    "oppen",
-    "ortad",
-    "perfo",
-    "sergi",
-    "sinem",
-    "sorgu",
-    "taraf",
-    "thera",
-    "var",
-    "vizyo",
-    "yatır",
-    "yayıl",
-    "yönet",
-    "yıl",
-    "yıla",
-    "çarpt",
-    "çekil",
-    "çünkü",
-    "ölçüd",
-    "şey"
-   ],
-   "at": "2026-11-07T23:30:17.236294+00:00"
-  },
-  {
-   "fp": [
     "bölün",
     "ereğl",
     "gasbe",
@@ -10816,25 +10747,58 @@
     "şidde"
    ],
    "at": "2026-11-09T11:17:47.639424+00:00"
+  },
+  {
+   "fp": [
+    "dolmu",
+    "izmir",
+    "saldı",
+    "silah",
+    "şoför"
+   ],
+   "tok": [
+    "alına",
+    "ateş",
+    "açtı",
+    "ağır",
+    "belir",
+    "deniz",
+    "devle",
+    "dolmu",
+    "durağ",
+    "ekipl",
+    "fakı",
+    "gelen",
+    "geler",
+    "gitti",
+    "götür",
+    "hasta",
+    "ihbar",
+    "ilçes",
+    "izmir",
+    "kaçma",
+    "kurta",
+    "olay",
+    "olayı",
+    "sağlı",
+    "silah",
+    "taban",
+    "tire",
+    "uğray",
+    "yakın",
+    "yaşam",
+    "yaşın",
+    "yerin",
+    "yitir",
+    "çalış",
+    "öldüğ",
+    "şağba",
+    "şoför"
+   ],
+   "at": "2026-11-09T11:30:17.876225+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "767e572f02",
-   "post_id": "529346797199852_1460545869518454",
-   "title": "Komşusundan aldığı mantarı yiyen kadın hayatını kaybetti",
-   "at": "2026-11-07T13:03:29.834208+00:00",
-   "yazim": "claude",
-   "metin": "Bursa'nın İnegöl ilçesinde komşusundan aldığı mantarı pişirip yiyen 54 yaşındaki bir kadın hayatını kaybetti.\n\n— Olay Baykoca Mahallesi'nde yaşandı. Kadında mide bulantısı ve kusma başlayınca ailesi 112'yi aradı.\n\n— Ambulansla İnegöl Devlet Hastanesi'ne kaldırılan kadın, doktorların tüm müdahalesine rağmen kurtarılamadı.\n\n— Kesin ölüm nedeni Adli Tıp Kurumu raporuyla belli olacak. Polis olayla ilgili inceleme başlattı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/bursada-mantardan-zehirlenen-kadin-hayatini-kaybetti-962539.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/bursada-feci-olum-komsusundan-aldigi-mantari-yiyen-kadin-oldu-43369499",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/bursa/inegol/komsusundan-aldigi-mantari-yiyen-kadin-oldu-3490225",
-    "NTV: https://www.ntv.com.tr/turkiye/bursada-mantar-can-aldi-1749822",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-mantar-dehseti-dikkat-tam-mevsimi-komsusundan-aldigi-mantar-hayattan-kopardi-3925618",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/komsusundan-aldigi-mantari-yiyen-kadin-oldu-2554155"
-   ]
-  },
   {
    "id": "1041995d7b",
    "post_id": "529346797199852_1460556092850765",
@@ -13368,6 +13332,20 @@
     "NTV: https://www.ntv.com.tr/turkiye/izmirde-demir-celik-fabrikasinda-patlama-uc-kisi-yasamini-yitirdi-10-kisi-kayip-1750103",
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-izmir-de-fabrikada-patlama-3925982"
    ]
+  },
+  {
+   "id": "2c876d19c4",
+   "post_id": "529346797199852_1462719219301119",
+   "title": "İzmir Tire'de silahlı saldırı: Dolmuş şoförü yaşamını yitirdi",
+   "at": "2026-11-09T11:30:17.876225+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'in Tire ilçesinde dolmuş durağında silahlı saldırıya uğrayan 59 yaşındaki şoför hayatını kaybetti.\n\nOlayın şüphelisi 63 yaşındaki H.Ş., kaçmaya çalışırken jandarma ekiplerince yakalandı.\n\n— Şüpheli, Tire Devlet Hastanesi yakınlarındaki dolmuş durağına gelerek şoföre tabancayla ateş açtı.\n— İhbar üzerine sağlık ve polis ekipleri olay yerine gitti. Sağlık ekipleri şoförün öldüğünü belirledi.\n— Gözaltına alınan şüpheli polis merkezine götürüldü.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmirde-silahli-saldirida-1-kisi-oldu-3490931",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/izmir-de-silahli-saldiri-dolmus-soforu-kurtarilamadi-2554723",
+    "Evrensel: https://www.evrensel.net/haber/6008661/izmir-tirede-silahli-saldiri-dolmus-soforu-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/izmir-de-silahli-saldiri-dolmus-soforu-hayatini-kaybetti-745437"
+   ]
   }
  ],
  "fails": {
@@ -13576,7 +13554,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119746842351296767",
+   "since_id": "2119752853711434069",
    "started": true
   },
   "ajansmuhbir1923": {
