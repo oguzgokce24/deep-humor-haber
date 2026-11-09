@@ -150,6 +150,15 @@ def new_development(title: str, old_raw: set) -> bool:
     return any(t.startswith(g) for t in tt for g in GELISME if not any(o.startswith(g) for o in old_raw))
 
 
+# Tanınmış kişi + hukuki gelişme: sayfada en çok etkileşim alan haber türü
+UNLU = ["bakan", "milletvekili", "vekil", "belediye başkanı", "başkanı", "genel başkan", "lideri", "valisi",
+        "büyükelçi", "eski ", "ünlü", "oyuncu", "şarkıcı", "sanatçı", "sunucu", "fenomen", "iş insanı",
+        "iş adamı", "gazeteci", "futbolcu", "teknik direktör", "rektör", "başsavcı", "general", "bürokrat"]
+HUKUK = ["soruşturma", "gözaltı", "tutuklan", "tutuklama", "ifade", "tahliye", "dava", "iddianame", "hapis",
+         "savcılık", "mahkeme", "hâkim", "hakim karşısında", "yargılan", "beraat", "ceza", "operasyon",
+         "adli kontrol", "yurt dışı çıkış yasağı", "suçlama", "rüşvet", "yolsuzluk"]
+
+
 def interest_score(c) -> float:
     t = " " + " ".join(i.title.lower() for i in c.items[:6]) + " "
     lead = c.lead().title
@@ -161,6 +170,11 @@ def interest_score(c) -> float:
     if any(i.independent for i in c.items):
         score += 1.5                                    # bağımsız sitelerde de yer alıyor
     score += 0.5 * sum(1 for w in CEKICI if w in t)
+    tl = _tr_low(t)
+    if any(w in tl for w in UNLU) and any(w in tl for w in HUKUK):
+        score += 4                                      # tanınmış kişi + soruşturma/tutuklama/ifade
+        if re.search(r"^[^:]{3,60}:\s", lead) or "“" in lead or "\"" in lead:
+            score += 1.5                                # üstüne kişinin kendi sözü varsa
     score -= 3 * sum(1 for w in PROTOKOL if w in t)
     if c.latest:
         age_h = (datetime.now(timezone.utc) - c.latest).total_seconds() / 3600
