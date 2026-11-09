@@ -2,66 +2,6 @@
  "seen": [
   {
    "fp": [
-    "15",
-    "6",
-    "kişi",
-    "polon",
-    "saldı",
-    "silah",
-    "yaral"
-   ],
-   "tok": [
-    "ana",
-    "araşt",
-    "ateş",
-    "aydın",
-    "açtı",
-    "ağır",
-    "aşırı",
-    "başba",
-    "bulun",
-    "cesed",
-    "donal",
-    "durum",
-    "düzen",
-    "erkek",
-    "etkil",
-    "evind",
-    "geçer",
-    "girip",
-    "günlü",
-    "ideol",
-    "ilan",
-    "ise",
-    "kadın",
-    "kanlı",
-    "kasım",
-    "kenti",
-    "koşul",
-    "krako",
-    "meyda",
-    "nın",
-    "olabi",
-    "olaca",
-    "otomo",
-    "polon",
-    "sağ",
-    "silah",
-    "sinin",
-    "suçun",
-    "tusk",
-    "ulusa",
-    "yas",
-    "yetki",
-    "çevre",
-    "öldür",
-    "ölenl",
-    "ülked"
-   ],
-   "at": "2026-11-08T07:48:07.922246+00:00"
-  },
-  {
-   "fp": [
     "271",
     "akrob",
     "bin",
@@ -10820,20 +10760,48 @@
     "üçünc"
    ],
    "at": "2026-11-09T19:40:33.328262+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "ailes",
+    "ait",
+    "başla",
+    "donal",
+    "kript",
+    "paral",
+    "senat",
+    "soruş",
+    "trump"
+   ],
+   "tok": [
+    "abd",
+    "ailes",
+    "ait",
+    "başla",
+    "donal",
+    "etmel",
+    "finan",
+    "https",
+    "isten",
+    "kapsa",
+    "kayıt",
+    "kript",
+    "ocak",
+    "para",
+    "paral",
+    "senat",
+    "süre",
+    "tesli",
+    "trump",
+    "veril",
+    "w36pn",
+    "şirke"
+   ],
+   "at": "2026-11-09T19:57:43.707138+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "beb4ee9f34",
-   "post_id": "529346797199852_1460955246144183",
-   "title": "Sibirya soğuğu Türkiye'yi vurdu: Pazar günü 26 şehirde kar bekleniyor",
-   "at": "2026-11-07T20:39:28.282455+00:00",
-   "yazim": "claude",
-   "metin": "Sibirya soğuğu Türkiye'yi vurdu, pazar günü 26 şehirde kar bekleniyor.\n\nSoğuk hava yüksek kesimlerde kar yağışını getirdi. Karadeniz ve İç Anadolu'nun bazı bölgelerinde de kar yağışı etkili olmaya başladı.\n\n— Ankara ve İstanbul'da sıcaklıklar mevsim normallerinin altına düştü.\n— Bolu'da gece yağmur olarak başlayan yağış gün içinde kara dönüştü.\n— Karayolları ekipleri, yollardaki buzlanma riskine karşı tuzlama çalışması yaptı.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008483/sibirya-sogugu-turkiye-yi-vurdu-pazar-gunu-26-sehirde-kar-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "35cff3a1e7",
    "post_id": "529346797199852_1460966926143015",
@@ -13382,6 +13350,17 @@
    "sources": [
     "Karar: https://www.karar.com/ekonomi-haberleri/avrupada-elektrikli-arac-satislari-ne-kadar-artti-hafif-hibrit-2083237"
    ]
+  },
+  {
+   "id": "b23db38521",
+   "post_id": "529346797199852_1463237119249329",
+   "title": "ABD Senatosu, Donald Trump ve ailesine ait kripto paralar üzerine soruşturma başlattı.",
+   "at": "2026-11-09T19:57:43.707138+00:00",
+   "yazim": "claude",
+   "metin": "ABD Senatosu, Donald Trump ve ailesine ait kripto paralar hakkında soruşturma başlattı.\n\n— Soruşturma kapsamında kripto para şirketlerinden tüm finansal kayıtlarını 4 Ocak'a kadar teslim etmeleri istendi.",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2119881274085064840"
+   ]
   }
  ],
  "fails": {
@@ -13545,7 +13524,8 @@
   "4d15a40186": 1,
   "178ec8bdc8": 1,
   "0ff5703c47": 1,
-  "5299a0221c": 1
+  "5299a0221c": 1,
+  "ed10b9897e": 1
  },
  "fail_log": [
   "2026-11-09T04:39 Didem Eryar Ünlü: Antalya'nın en zorlu müzakerelerinden biri -> ValueError: yanıt okunamadı",
@@ -13592,7 +13572,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119875344157028826",
+   "since_id": "2119881274085064840",
    "started": true
   },
   "ajansmuhbir1923": {
