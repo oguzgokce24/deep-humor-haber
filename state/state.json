@@ -2,88 +2,6 @@
  "seen": [
   {
    "fp": [
-    "6",
-    "kişi",
-    "kuafö",
-    "polon",
-    "saldı",
-    "sayıd",
-    "silah",
-    "var",
-    "yaral",
-    "ölü"
-   ],
-   "tok": [
-    "alınd",
-    "ameli",
-    "ana",
-    "arası",
-    "ardın",
-    "ateş",
-    "açtı",
-    "aşırı",
-    "başın",
-    "biri",
-    "bulun",
-    "daki",
-    "ediyo",
-    "erkek",
-    "etkil",
-    "ettiğ",
-    "görün",
-    "göste",
-    "haber",
-    "harek",
-    "hasta",
-    "hızla",
-    "ideol",
-    "inanı",
-    "ingil",
-    "insan",
-    "içişl",
-    "işare",
-    "kadın",
-    "kaldı",
-    "kaçtı",
-    "kenti",
-    "kierw",
-    "koltu",
-    "krako",
-    "kuafö",
-    "kurşu",
-    "malte",
-    "marci",
-    "memur",
-    "meyda",
-    "ndaki",
-    "nın",
-    "olayd",
-    "otomo",
-    "pazar",
-    "polon",
-    "sayıd",
-    "sağ",
-    "silah",
-    "ski",
-    "sıras",
-    "tek",
-    "uzakl",
-    "var",
-    "vatan",
-    "yakla",
-    "yağmu",
-    "yaşın",
-    "yetki",
-    "yürüt",
-    "çatış",
-    "ölenl",
-    "ölümc",
-    "şey"
-   ],
-   "at": "2026-11-08T00:06:31.468985+00:00"
-  },
-  {
-   "fp": [
     "bahçe",
     "demir",
     "devre",
@@ -10756,23 +10674,60 @@
     "şartı"
    ],
    "at": "2026-11-09T11:58:05.009109+00:00"
+  },
+  {
+   "fp": [
+    "arınc",
+    "istif",
+    "kurul",
+    "telek",
+    "türk",
+    "yunus",
+    "yönet"
+   ],
+   "tok": [
+    "adı",
+    "alına",
+    "alınm",
+    "appea",
+    "arınc",
+    "dan",
+    "diken",
+    "duyur",
+    "eski",
+    "etmiş",
+    "first",
+    "fon",
+    "genel",
+    "geçen",
+    "görev",
+    "ilgil",
+    "istif",
+    "işlem",
+    "kap",
+    "kapsa",
+    "kasım",
+    "kurul",
+    "linka",
+    "müdür",
+    "piyas",
+    "post",
+    "serma",
+    "site",
+    "skand",
+    "takas",
+    "telek",
+    "the",
+    "yaptı",
+    "yunus",
+    "yönet",
+    "üyeli",
+    "üyesi"
+   ],
+   "at": "2026-11-09T12:10:37.646678+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c9c85f6c9a",
-   "post_id": "529346797199852_1460581862848188",
-   "title": "Tokat’ta silah kaçakçılığı operasyonu: 9 gözaltı",
-   "at": "2026-11-07T13:41:12.652819+00:00",
-   "yazim": "claude",
-   "metin": "Tokat'ın Yeşilyurt, Artova ve Sulusaray ilçelerinde silah kaçakçılığı operasyonunda 9 kişi gözaltına alındı.\n\n— Yasa dışı silah ticareti yapıldığı bilgisi üzerine jandarma çalışma başlatmıştı.\n— Eş zamanlı yapılan operasyonda 1 ruhsatsız tabanca, 3 ruhsatsız av tüfeği ve 2 kurusıkı tabanca ele geçirildi.\n— Ayrıca tarihi eser olduğu değerlendirilen 12 obje, 100 av tüfeği fişeği, 1 karma silah ve 33 fişek bulundu.\n— Gözaltına alınan 9 şüpheli jandarmaya götürüldü.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/tokat/merkez/tokatta-silah-kacakciligi-operasyonu-9-gozalti-3490219",
-    "Sözcü: https://www.sozcu.com.tr/tokatta-uc-ilcede-silah-operasyonu-9-gozalti-p376927",
-    "Sözcü: https://www.sozcu.com.tr/tokat-ta-silah-kacakciligi-operasyonu-9-gozalti-p376918",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tokat-ta-silah-kacakciligi-operasyonu-9-gozalti-2554159"
-   ]
-  },
   {
    "id": "7ba9859aab",
    "post_id": "529346797199852_1460592056180502",
@@ -13303,6 +13258,19 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ordu-da-receteli-ilac-operasyonu-eski-bashekim-dahil-2-supheli-tutuklandi-2554734"
    ]
+  },
+  {
+   "id": "841e3dcdf1",
+   "post_id": "529346797199852_1462754212630953",
+   "title": "Yunus Arıncı Türk Telekom yönetim kurulu üyeliğinden istifa etti",
+   "at": "2026-11-09T12:10:37.646678+00:00",
+   "yazim": "claude",
+   "metin": "Fon soruşturmasında adı geçen eski Takasbank Genel Müdürü Yunus Arıncı, Türk Telekom yönetim kurulu üyeliğinden istifa etti.\n\n— Türk Telekom bu kararı KAP'a yaptığı açıklamayla duyurdu.\n— Arıncı, sermaye piyasalarındaki işlemlerle ilgili fon soruşturması kapsamında 7 Kasım'da gözaltına alınmıştı.\n— Daha önce de Takasbank genel müdürlüğü görevinden istifa etmişti.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/ekonomi/turk-telekom-yonetim-kurulu-uyesi-yunus-arinci-istifa-etti-3925960",
+    "Sözcü: https://www.sozcu.com.tr/fon-skandalinda-gozaltina-alinan-eski-takasbank-genel-muduru-yunus-arinci-turk-telekom-dan-da-istifa-p379571",
+    "Diken: https://www.diken.com.tr/yunus-arinci-turk-telekom-yonetim-kurulu-uyeliginden-istifa-etti/?utm_source=rss&utm_medium=rss&utm_campaign=yunus-arinci-turk-telekom-yonetim-kurulu-uyeliginden-istifa-etti"
+   ]
   }
  ],
  "fails": {
@@ -13511,7 +13479,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119761027009278271",
+   "since_id": "2119762578012246084",
    "started": true
   },
   "ajansmuhbir1923": {
