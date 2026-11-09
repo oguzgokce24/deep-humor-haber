@@ -2,57 +2,6 @@
  "seen": [
   {
    "fp": [
-    "polon",
-    "saldı",
-    "sayıd",
-    "silah",
-    "var",
-    "yaral",
-    "ölü"
-   ],
-   "tok": [
-    "adam",
-    "alınd",
-    "ana",
-    "arası",
-    "arka",
-    "ateş",
-    "açtı",
-    "başba",
-    "bildi",
-    "donal",
-    "düzen",
-    "geldi",
-    "gelip",
-    "hasta",
-    "incel",
-    "kaldı",
-    "kaçma",
-    "kenti",
-    "kişil",
-    "koşul",
-    "krako",
-    "memur",
-    "meyda",
-    "nın",
-    "olayd",
-    "otomo",
-    "planı",
-    "polon",
-    "sayıd",
-    "silah",
-    "tarih",
-    "titiz",
-    "tusk",
-    "var",
-    "vurul",
-    "çalış",
-    "çevre"
-   ],
-   "at": "2026-11-07T16:11:21.917022+00:00"
-  },
-  {
-   "fp": [
     "2001",
     "2002",
     "ağıra",
@@ -13775,18 +13724,12 @@
   "7cc82b562d": 2,
   "fdda146925": 1,
   "5933d1e8d2": 2,
-  "0650c2fa3b": 1
+  "0650c2fa3b": 1,
+  "4070527690": 1,
+  "06f250b576": 1,
+  "c552dd81d3": 1
  },
  "fail_log": [
-  "2026-11-09T01:31 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:31 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:31 Başkentin Kızılay merkezli toplu ulaşım sistemi artık işlemi -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:31 Başkentin Kızılay merkezli toplu ulaşım sistemi artık işlemi -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:31 Başkentin Kızılay merkezli toplu ulaşım sistemi artık işlemi -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:44 Başkentin Kızılay merkezli toplu ulaşım sistemi artık işlemi -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:44 Başkentin Kızılay merkezli toplu ulaşım sistemi artık işlemi -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:44 Başkentin Kızılay merkezli toplu ulaşım sistemi artık işlemi -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:44 Futbol aklı Totti -> ValueError: yanıt okunamadı",
   "2026-11-09T01:44 Futbol aklı Totti -> ValueError: yanıt okunamadı",
   "2026-11-09T01:44 Futbol aklı Totti -> ValueError: yanıt okunamadı",
   "2026-11-09T02:14 Tarihi mirasa rant saldırısı: Koruma kâğıt üzerinde -> ValueError: yanıt okunamadı",
@@ -13817,7 +13760,16 @@
   "2026-11-09T02:34 \"Mücadelesi sürecek\": Devrimciler Nasuh Abi'yi Kırklareli'nd -> ValueError: yanıt okunamadı",
   "2026-11-09T03:38 Şişli'de aydınlatma direğinde patlama: Direkten yükselen ale -> ValueError: cümle yarım kalmış: 'nerbahçe'de Belözoğlu, oyuncularının kaz'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-09T03:51 Denizi yok balık üretimi çok: Sivas’ın 1450 rakımından Rusya -> ValueError: yanıt okunamadı",
-  "2026-11-09T03:51 Denizi yok balık üretimi çok: Sivas’ın 1450 rakımından Rusya -> ValueError: yanıt okunamadı"
+  "2026-11-09T03:51 Denizi yok balık üretimi çok: Sivas’ın 1450 rakımından Rusya -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Fikret İlkiz: Gazeteci kanunen haber kaynağını açıklamak zor -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Fikret İlkiz: Gazeteci kanunen haber kaynağını açıklamak zor -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Fikret İlkiz: Gazeteci kanunen haber kaynağını açıklamak zor -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
