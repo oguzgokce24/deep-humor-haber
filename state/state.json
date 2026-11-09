@@ -2,62 +2,6 @@
  "seen": [
   {
    "fp": [
-    "kazan",
-    "yok",
-    "yıl",
-    "zarar",
-    "zeyti",
-    "çalış",
-    "üreti"
-   ],
-   "tok": [
-    "artan",
-    "artar",
-    "aydın",
-    "belir",
-    "bile",
-    "bin",
-    "denet",
-    "deste",
-    "ettiğ",
-    "gelir",
-    "geril",
-    "gider",
-    "günlü",
-    "iktid",
-    "ilçes",
-    "isted",
-    "işçi",
-    "işçil",
-    "karac",
-    "karşı",
-    "kazan",
-    "kilog",
-    "maliy",
-    "mazot",
-    "nuri",
-    "satış",
-    "söylü",
-    "turan",
-    "ulaşt",
-    "vurgu",
-    "yevmi",
-    "yok",
-    "yıl",
-    "zarar",
-    "zeyti",
-    "çalış",
-    "çiftç",
-    "çıkar",
-    "özgür",
-    "üre",
-    "üreti",
-    "üründ"
-   ],
-   "at": "2026-11-08T01:27:22.609523+00:00"
-  },
-  {
-   "fp": [
     "bilme",
     "fon",
     "saray",
@@ -10883,21 +10827,85 @@
     "ülkes"
    ],
    "at": "2026-11-09T13:25:30.327402+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "açıkl",
+    "canda",
+    "den",
+    "emre",
+    "geçec",
+    "istif",
+    "muhte",
+    "parti",
+    "yücee",
+    "zeyne"
+   ],
+   "tok": [
+    "adale",
+    "akp",
+    "aldığ",
+    "alınm",
+    "anlat",
+    "beled",
+    "beni",
+    "birka",
+    "bizde",
+    "büyük",
+    "canda",
+    "dair",
+    "deleg",
+    "den",
+    "diyen",
+    "duyum",
+    "emre",
+    "etmiş",
+    "gelmi",
+    "geçec",
+    "geçiy",
+    "geçiş",
+    "geçme",
+    "görüş",
+    "göste",
+    "gün",
+    "günde",
+    "hazır",
+    "iddia",
+    "ilişk",
+    "ise",
+    "istif",
+    "içeri",
+    "kalkı",
+    "kendi",
+    "konus",
+    "konuş",
+    "kurul",
+    "liste",
+    "mecli",
+    "muhte",
+    "olduğ",
+    "parti",
+    "planı",
+    "sonra",
+    "sözcü",
+    "tartı",
+    "tekir",
+    "telef",
+    "tepki",
+    "var",
+    "yetki",
+    "yönün",
+    "yücee",
+    "zeyne",
+    "çerke",
+    "çıkma",
+    "şimdi"
+   ],
+   "at": "2026-11-09T13:38:16.105075+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a4b01bb332",
-   "post_id": "529346797199852_1460655572840817",
-   "title": "Acun Ilıcalı için müthiş iddia: Üçüncü kulübünü alıyor",
-   "at": "2026-11-07T14:55:28.512665+00:00",
-   "yazim": "claude",
-   "metin": "Acun Ilıcalı'nın üçüncü bir futbol kulübünü satın alacağı iddia edildi.\n\n— Avusturya'nın 24 kez lig şampiyonu olan köklü kulübü Austria Wien'in Ilıcalı'ya önerildiği belirtildi.\n— Taraflar arasında resmi bir görüşmenin başlayıp başlamadığı bilinmiyor, satın alma konusunda kesinleşmiş bir karar da yok.\n— Ilıcalı, 2022'de İngiltere Championship ekibi Hull City'yi satın alarak kulüp yatırımlarına başladı. 2024'te ise Slovenya temsilcisi Maribor'u bünyesine kattı.",
-   "sources": [
-    "Sözcü Spor: https://www.sozcu.com.tr/acun-ilicali-icin-muthis-iddia-ucuncu-kulubunu-aliyor-p376982",
-    "BPT (X): https://x.com/bpthaber/status/2119079232873639998"
-   ]
-  },
   {
    "id": "6dc96b84f9",
    "post_id": "529346797199852_1460666846173023",
@@ -13429,6 +13437,20 @@
     "BirGün: https://www.birgun.net/haber/pezeskiyan-mucteba-hamaney-in-abd-talimatini-duyurdu-745436",
     "Karar: https://www.karar.com/dunya-haberleri/pezeskiyan-hamaney-ne-savas-ne-baris-durumunun-sona-erdirilmesini-istedi-2083177"
    ]
+  },
+  {
+   "id": "dead87f1a4",
+   "post_id": "529346797199852_1462906619282379",
+   "title": "YENİ Parti'den Candan Yüceer açıklaması: \"Muhtemelen AKP'ye geçecek\"",
+   "at": "2026-11-09T13:38:16.105075+00:00",
+   "yazim": "claude",
+   "metin": "Zeynel Emre, Candan Yüceer'in AKP'ye geçeceğini söyledi:\n\n“Şimdi bu planı anlatırken kendisi geçecek muhtemelen.”\n\n— Tekirdağ Büyükşehir Belediye Başkanı Yüceer, YENİ Parti'den istifa etmişti ve sonrasında AKP'ye geçeceği yönünde iddialar gündeme gelmişti.\n— YENİ Parti Sözcüsü Emre, partinin Yüceer'in AKP'ye geçiş hazırlığında olduğuna dair duyumlar aldığını açıkladı.\n— Emre, istifadan birkaç gün önce parti yetkililerinin Yüceer'in telefonlarına çıkmadığını söyledi.\n— Yüceer ise kurultay delegeliği tartışmaları ve delege listesine alınmaması üzerine tepki göstermişti.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/yeni-parti-den-candan-yuceer-aciklamasi-p379584",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/candan-yuceer-akp-ye-mi-geciyor-yeni-parti-sozcusu-zeynel-emre-den-aciklama-2554759",
+    "BirGün: https://www.birgun.net/haber/yeni-parti-den-candan-yuceer-aciklamasi-muhtemelen-akp-ye-gececek-745461",
+    "Karar: https://www.karar.com/guncel-haberler/zeynel-emreden-candan-yuceerin-istifasina-tepki-muhtemelen-ak-partiye-2083203"
+   ]
   }
  ],
  "fails": {
@@ -13636,7 +13658,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119782435764285860",
+   "since_id": "2119786432873066504",
    "started": true
   },
   "ajansmuhbir1923": {
