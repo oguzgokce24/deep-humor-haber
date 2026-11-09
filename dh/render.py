@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import io
 import re
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -102,17 +103,46 @@ def pick_photo(candidates, log=print):
     return None, None
 
 
+WIKI_UA = "DeepHumorHaberBot/1.0 (https://github.com/oguzgokce24/deep-humor-haber; news card bot)"
+
+
+def people_collage(images: list) -> Image.Image:
+    """İki kişinin fotoğrafını yan yana koyar (BPT'deki gibi). Yüzler genelde üst kısımda olduğu için
+    dikey kırpma üstten ağırlıklı yapılır."""
+    W2, H2 = 1080, 1000
+    half = W2 // 2
+    out = Image.new("RGB", (W2, H2), (6, 50, 47))
+    for k, im in enumerate(images[:2]):
+        im = im.convert("RGB")
+        scale = max(half / im.width, H2 / im.height)
+        im = im.resize((int(im.width * scale) + 1, int(im.height * scale) + 1), Image.LANCZOS)
+        left = (im.width - half) // 2
+        top = int((im.height - H2) * 0.2)          # üstten ağırlıklı (yüz)
+        out.paste(im.crop((left, top, left + half, top + H2)), (k * half, 0))
+    ImageDraw.Draw(out).rectangle([half - 2, 0, half + 2, H2], fill=(6, 50, 47))
+    return out
+
+
 def wikimedia_photo(person: str, log=print):
     """Tanınmış kişinin SERBEST LİSANSLI (Wikimedia Commons) fotoğrafı. (Image, künye) ya da (None, None)."""
     if not person:
         return None, None
     for lang in ("tr", "en"):
         try:
-            r = requests.get(f"https://{lang}.wikipedia.org/w/api.php", timeout=15,
-                             headers={"User-Agent": "DeepHumorHaberBot/1.0 (haber otomasyonu)"},
-                             params={"action": "query", "titles": person, "prop": "pageimages",
-                                     "piprop": "original", "pilicense": "free", "redirects": 1, "format": "json"})
-            pages = r.json().get("query", {}).get("pages", {})
+            pages = {}
+            for params in ({"titles": person, "redirects": 1},
+                           {"generator": "search", "gsrsearch": person, "gsrlimit": 1}):
+                for _ in range(2):
+                    r = requests.get(f"https://{lang}.wikipedia.org/w/api.php", timeout=15,
+                                     headers={"User-Agent": WIKI_UA},
+                                     params={"action": "query", "prop": "pageimages", "piprop": "original",
+                                             "pilicense": "free", "format": "json", **params})
+                    if r.status_code != 429:
+                        break
+                    time.sleep(3)
+                pages = r.json().get("query", {}).get("pages", {}) if r.ok else {}
+                if any(pg.get("original") for pg in pages.values()):
+                    break
             for pg in pages.values():
                 url = pg.get("original", {}).get("source")
                 if url and not url.lower().endswith((".svg", ".gif")):

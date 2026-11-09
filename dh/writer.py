@@ -36,6 +36,9 @@ A) ALINTI — kaynakta çarpıcı bir söz varsa HER ZAMAN bunu tercih et:
 Gerekirse ikinci kısmı.”
 
 (Unvan gerekiyorsa kısa tut: "**CHP Lideri Özgür Özel:**", "**Gazeteci İsmail Saymaz:**")
+Sözün KİME ya da NEYE dair olduğu tek başına anlaşılmıyorsa ad satırına kısa bağlam ekle:
+"**Erdoğan'dan Azerbaycan mesajı:**", "**Özgür Özel, asgari ücret için:**". Görselde yalnızca ad satırı ve söz
+görünür; okuyucu sözün kime söylendiğini oradan anlamalı.
 
 B) MADDELİ — karar, zam, düzenleme, rakam:
 **Olayı gündelik dille anlatan tek cümle.**
@@ -99,7 +102,8 @@ Asla okuyucuya ya da bana hitap etme, asla kaynak metni yorumlama.
 
 Yanıtı YALNIZCA şu biçimde ver (JSON KULLANMA):
 KATEGORİ: TÜRKİYE | DÜNYA | EKONOMİ | SPOR
-KİŞİ: (haberin merkezindeki tanınmış kişinin tam adı; yoksa boş bırak)
+KİŞİ: (haberin merkezindeki tanınmış kişi(ler)in tam adı; en fazla 2 kişi, ";" ile ayır.
+  Örnek: "Recep Tayyip Erdoğan; İlham Aliyev". Haber iki tanınmış kişi/lider arasındaysa İKİSİNİ de yaz. Yoksa boş bırak.)
 SKOR: (SADECE haber oynanıp BİTMİŞ bir futbol maçının sonucuysa doldur, aksi halde boş bırak. Biçim:
   Ev sahibi takım | ev golü | Deplasman takımı | deplasman golü | Lig · Hafta | goller
   Örnek: Çorum FK | 0 | Fenerbahçe | 5 | Trendyol Süper Lig · 11. Hafta | 12' 63' Greenwood · 21' 56' İ. Kahveci · 74' O. Aydın
@@ -159,10 +163,10 @@ def _call_claude(source_text: str, model: str, key: str, feedback: str = "") -> 
     text = _repair((data.get("metin") or "").strip())
     _check_text(text)
     cat = (data.get("kategori") or "").strip().upper()
-    person = (data.get("kisi") or "").strip(" .-")
-    if len(person.split()) > 5 or person.lower() in ("yok", "boş", "-"):
-        person = ""
-    return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude", "person": person,
+    people = [x.strip(" .-") for x in (data.get("kisi") or "").split(";")]
+    people = [x for x in people if x and len(x.split()) <= 5 and x.lower() not in ("yok", "boş")][:2]
+    person = people[0] if people else ""
+    return {"text": text, "category": cat if cat in KATEGORILER else None, "mode": "claude", "person": person, "people": people,
             "score": parse_score(data.get("skor") or "", text)}
 
 

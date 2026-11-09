@@ -24,7 +24,7 @@ from dh.collect import fetch_all, og_image
 from dh.render import render_card, pick_photo
 from dh import writer
 from dh.xsource import fetch_x
-from dh.render import wikimedia_photo
+from dh.render import wikimedia_photo, people_collage
 from dh.verify import cluster, verified, similarity, story_tokens, is_duplicate_title
 from dh.verify import tokens as vtokens, _strong as vstrong
 from dh.channels import FacebookPage
@@ -316,6 +316,11 @@ def main():
                 fails.pop(fkey, None)
             log("  Metin yazılamadı; bu haber bu tur paylaşılmıyor.")
             continue
+        if len(w.get("people") or []) == 2:
+            # İki tanınmış kişi arasındaki haber: ikisinin fotoğrafı yan yana (dikkat çekici), varsa tercih edilir
+            pair = [wikimedia_photo(n, log)[0] for n in w["people"]]
+            if all(pair):
+                img, credit = people_collage(pair), "Wikimedia Commons"
         if img is None and w.get("person"):
             img, credit = wikimedia_photo(w["person"], log)
         if img is None:
