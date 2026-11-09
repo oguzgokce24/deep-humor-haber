@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ayakt",
-    "frans",
-    "halk",
-    "işçil",
-    "meyda",
-    "yenid",
-    "öğren"
-   ],
-   "tok": [
-    "ardın",
-    "ayakt",
-    "ayrı",
-    "bin",
-    "büyüy",
-    "eylem",
-    "frans",
-    "geldi",
-    "genel",
-    "geçti",
-    "grevi",
-    "görev",
-    "güven",
-    "halk",
-    "harek",
-    "hüküm",
-    "işçil",
-    "karşı",
-    "katıl",
-    "kemer",
-    "macro",
-    "meyda",
-    "polit",
-    "prote",
-    "sarı",
-    "sıkma",
-    "tepki",
-    "toplu",
-    "yayıl",
-    "yelek",
-    "yenid",
-    "çıktı",
-    "öğren",
-    "ülke"
-   ],
-   "at": "2026-11-08T02:42:39.135524+00:00"
-  },
-  {
-   "fp": [
     "femin",
     "gerçe",
     "içeri",
@@ -10762,20 +10714,46 @@
     "zaman"
    ],
    "at": "2026-11-09T14:34:14.705439+00:00"
+  },
+  {
+   "fp": [
+    "alınd",
+    "başba",
+    "eski",
+    "gözal",
+    "karde",
+    "macar",
+    "orban",
+    "vikto"
+   ],
+   "tok": [
+    "almıy",
+    "alına",
+    "alınd",
+    "aron",
+    "ayrın",
+    "başba",
+    "bildi",
+    "duyur",
+    "eski",
+    "ilgil",
+    "insan",
+    "karde",
+    "kayna",
+    "kaçak",
+    "macar",
+    "magya",
+    "olayl",
+    "orban",
+    "peter",
+    "ter",
+    "vikto",
+    "yer"
+   ],
+   "at": "2026-11-09T14:47:10.800337+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7f29736880",
-   "post_id": "529346797199852_1460698702836504",
-   "title": "⚠️ “Mehmet Şimşek istifa etmemeli.",
-   "at": "2026-11-07T15:45:58.464198+00:00",
-   "yazim": "claude",
-   "metin": "Yeni Şafak yazarı Özgür Bayram Soylu, AKP'li Bakan Mehmet Şimşek'in istifa etmesini istedi.\n\n— Soylu, kinayeli bir yazısında Şimşek'i eleştirdi.\n— Yazıda kapanan fabrikalara, iflas eden esnafa ve iş aramaktan umudunu kesen gençlere dikkat çekildi.\n— Soylu'nun paylaşımındaki sözleri: “Enflasyon düşmüyor Şimşek istifa etsin.”",
-   "sources": [
-    "Muhbir (X): https://x.com/ajansmuhbir1923/status/2119091628178600015"
-   ]
-  },
   {
    "id": "cbee5763e4",
    "post_id": "529346797199852_1460712442835130",
@@ -13309,6 +13287,17 @@
     "BirGün: https://www.birgun.net/haber/blinken-dan-netanyahu-itirafi-uyarmistim-745467",
     "Karar: https://www.karar.com/dunya-haberleri/blinkenden-netanyahuya-israil-uyarisi-2083211"
    ]
+  },
+  {
+   "id": "f5600f70f3",
+   "post_id": "529346797199852_1462975512608823",
+   "title": "Eski Macaristan Başbakanı Viktor Orban'ın kardeşi gözaltına alındı",
+   "at": "2026-11-09T14:47:10.800337+00:00",
+   "yazim": "claude",
+   "metin": "Macaristan'da eski Başbakan Viktor Orban'ın kardeşi insan kaçakçılığı şüphesiyle gözaltına alındı.\n\nHaberi, Başbakan Péter Magyar duyurdu.\n\n— Gözaltına alınan kişi, Viktor Orban'ın kardeşi.\n— Şüphe, insan kaçakçılığı üzerine. Olayla ilgili başka bir ayrıntı kaynaklarda yer almıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/eski-macaristan-basbakani-viktor-orban-in-kardesi-gozaltina-alindi-745476"
+   ]
   }
  ],
  "fails": {
@@ -13516,7 +13505,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119795260377227710",
+   "since_id": "2119803272475418770",
    "started": true
   },
   "ajansmuhbir1923": {
