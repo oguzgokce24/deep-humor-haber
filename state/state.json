@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "boşan",
-    "elazı",
-    "eski",
-    "evini",
-    "eşini",
-    "katle",
-    "keban",
-    "pompa",
-    "tüfek",
-    "yıl",
-    "önünd"
-   ],
-   "tok": [
-    "alınd",
-    "ancak",
-    "annes",
-    "ardın",
-    "boşan",
-    "cesed",
-    "cinay",
-    "deniz",
-    "ekipl",
-    "elazı",
-    "eski",
-    "evini",
-    "eşi",
-    "eşini",
-    "fırat",
-    "giriş",
-    "hasta",
-    "ilçes",
-    "kadın",
-    "kaldı",
-    "katle",
-    "kaçan",
-    "kaçtı",
-    "keban",
-    "köyün",
-    "morgu",
-    "nazmi",
-    "olay",
-    "olayı",
-    "otops",
-    "pompa",
-    "tüfek",
-    "var",
-    "vurar",
-    "vurul",
-    "yaşan",
-    "yaşın",
-    "yerin",
-    "yıl",
-    "çocuk",
-    "çocuğ",
-    "öldür",
-    "önünd",
-    "ünive"
-   ],
-   "at": "2026-11-07T19:35:02.903636+00:00"
-  },
-  {
-   "fp": [
     "engel",
     "istem",
     "izban",
@@ -10944,22 +10881,58 @@
     "şidde"
    ],
    "at": "2026-11-09T07:30:40.638829+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "açıkl",
+    "battı",
+    "göçme",
+    "hayat",
+    "kaybe",
+    "kişi",
+    "tekne",
+    "yunan"
+   ],
+   "tok": [
+    "adası",
+    "akden",
+    "alabo",
+    "arama",
+    "battı",
+    "bölge",
+    "cesed",
+    "deniz",
+    "ekipl",
+    "facia",
+    "fark",
+    "gemi",
+    "geçen",
+    "girit",
+    "göçme",
+    "güney",
+    "güven",
+    "kalon",
+    "kurta",
+    "limen",
+    "mili",
+    "mülte",
+    "olmas",
+    "sahil",
+    "sağ",
+    "sonuc",
+    "sürdü",
+    "taşıy",
+    "tekne",
+    "ticar",
+    "ulaşı",
+    "yunan",
+    "çalış"
+   ],
+   "at": "2026-11-09T07:43:16.177269+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "25608c82de",
-   "post_id": "529346797199852_1460357326203975",
-   "title": "Kocaelispor’dan 18 yıl sonra milli takıma: Serhat Öztaşdelen aday kadroda",
-   "at": "2026-11-07T09:27:50.373448+00:00",
-   "yazim": "claude",
-   "metin": "Kocaelispor'un 21 yaşındaki kalecisi Serhat Öztaşdelen, A Milli Futbol Takımı'nın Belçika ve Fransa maçları için aday kadroya çağrıldı.\n\n— Genç kaleci görev alırsa, 25 yıl sonra Kocaelispor'dan milli formayla sahaya çıkan ilk futbolcu olacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/kocaelispor-18-yil-sonra-milli-takima-kaleci-gonderdi/4114971",
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/kocaelisporda-18-yil-sonra-bir-ilk-3490163",
-    "BirGün: https://www.birgun.net/haber/kocaelispordan-18-yil-sonra-milli-takima-serhat-oztasdelen-aday-kadroda-745101"
-   ]
-  },
   {
    "id": "a38c1a1fc2",
    "post_id": "529346797199852_1460365426203165",
@@ -13484,6 +13457,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akom-tarih-verdi-istanbul-a-yeniden-saganak-yagis-geliyor-2554592",
     "BirGün: https://www.birgun.net/haber/istanbul-da-sicakliklar-artacak-akom-kuvvetli-saganak-icin-tarih-verdi-745374"
    ]
+  },
+  {
+   "id": "03679c5946",
+   "post_id": "529346797199852_1462554072650967",
+   "title": "Girit açıklarında mülteci teknesi alabora oldu: 12 kişi hayatını kaybetti",
+   "at": "2026-11-09T07:43:16.177269+00:00",
+   "yazim": "claude",
+   "metin": "Yunanistan'ın Girit Adası açıklarında mülteci taşıyan bir tekne alabora oldu, 12 kişi hayatını kaybetti.\n\n— Denizden 18 kişi sağ olarak kurtarıldı, 12 kişinin cansız bedenine ulaşıldı.\n\n— Teknenin alabora olduğunu, Kalon Limenon sahilinin 15 deniz mili güneydoğusundan geçen ticari bir gemi fark etti.\n\n— Sahil güvenlik ekipleri bölgede arama-kurtarma çalışmalarını sürdürüyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/dunya/yunanistan-aciklarinda-gocmen-teknesi-batti-12-kisi-hayatini-kaybetti-7697166",
+    "Evrensel: https://www.evrensel.net/haber/6008605/girit-aciklarinda-multeci-teknesi-alabora-oldu-12-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/dunya-haberleri/akdenizde-gocmen-faciasi-12-kisi-hayatini-kaybetti-2083089",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/yunanistan-aciklarinda-gocmen-teknesi-batti-12-kisi-hayatini-kaybetti-7697166"
+   ]
   }
  ],
  "fails": {
@@ -13690,7 +13677,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119693719276544148",
+   "since_id": "2119695852180488451",
    "started": true
   },
   "ajansmuhbir1923": {
