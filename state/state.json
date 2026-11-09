@@ -2,91 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başak",
-    "başka",
-    "eski",
-    "kavcı",
-    "masak",
-    "uyarm",
-    "yardı"
-   ],
-   "tok": [
-    "alper",
-    "alıns",
-    "arası",
-    "banka",
-    "başak",
-    "bddk",
-    "belir",
-    "bilet",
-    "buray",
-    "buçuk",
-    "daire",
-    "dikka",
-    "diyer",
-    "dışı",
-    "edere",
-    "enver",
-    "eski",
-    "etik",
-    "faizs",
-    "finan",
-    "fon",
-    "geldi",
-    "görev",
-    "iddia",
-    "ilett",
-    "ilişk",
-    "imtiy",
-    "kaldı",
-    "kavcı",
-    "kez",
-    "kombi",
-    "konud",
-    "konus",
-    "kurul",
-    "liyak",
-    "loca",
-    "maale",
-    "masak",
-    "maçla",
-    "musta",
-    "nin",
-    "olayl",
-    "ona",
-    "payla",
-    "ramaz",
-    "rüşve",
-    "savun",
-    "sektö",
-    "sorum",
-    "spk",
-    "suçla",
-    "talep",
-    "taş",
-    "usca",
-    "uyard",
-    "uyarm",
-    "uyarı",
-    "uygul",
-    "vekil",
-    "verdi",
-    "yakla",
-    "yardı",
-    "yazdı",
-    "yaşan",
-    "yıl",
-    "zaman",
-    "ziyar",
-    "önces",
-    "örnek",
-    "özel",
-    "şahap"
-   ],
-   "at": "2026-11-07T18:57:29.048647+00:00"
-  },
-  {
-   "fp": [
     "amand",
     "başka",
     "beyaz",
@@ -11046,22 +10961,62 @@
     "üzünt"
    ],
    "at": "2026-11-09T06:45:14.821573+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "4",
+    "kütah",
+    "minib",
+    "otomo",
+    "yaral",
+    "çarpt",
+    "ölü"
+   ],
+   "tok": [
+    "ahi",
+    "akşam",
+    "ara",
+    "ayrıc",
+    "ağır",
+    "başla",
+    "cadde",
+    "etkis",
+    "evran",
+    "feci",
+    "fuatp",
+    "fırla",
+    "halin",
+    "hasta",
+    "ilgil",
+    "kaldı",
+    "kamyo",
+    "karış",
+    "kazay",
+    "kurta",
+    "kütah",
+    "mahal",
+    "minib",
+    "müdah",
+    "nde",
+    "otomo",
+    "park",
+    "rağme",
+    "saat",
+    "sokak",
+    "sürüc",
+    "sıral",
+    "yara",
+    "yola",
+    "çarpt",
+    "çarpı",
+    "çıkan",
+    "şehir"
+   ],
+   "at": "2026-11-09T06:57:53.394919+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cab129a929",
-   "post_id": "529346797199852_1460341796205528",
-   "title": "Yağmur bereket getirdi üreticinin yüzü güldü: Hasat erkene çekildi",
-   "at": "2026-11-07T09:02:33.482076+00:00",
-   "yazim": "claude",
-   "metin": "İzmir İl Tarım ve Orman Müdürü Kahraman Akdoğan:\n\n“Açıkçası bütün ürünlerimizde bu sene çok bereketli bir sezon var. (...) Yağmur açısından bereketli bir sezon, üreticimizin yüzü gülüyor.”\n\n— Türkiye'deki brokoli üretiminin yüzde 56'sı, kök kereviz üretiminin yüzde 51'i İzmir'de yapılıyor.\n\n— Bu sezon sonbahar yağmurları sebzelerin gelişimini hızlandırdı ve hasat yaklaşık 10 gün erkene çekildi.\n\n— Üretici Asil Kaynak, brokoli, kereviz, lahana ve pırasada hasada geçen yıllara göre 10-15 gün önce başladıklarını söyledi.\n\n— Kaynak, tarlada brokolinin kilogramını 20-25 liradan sattıklarını belirtti.\n\n— Bakanlık bu yıl yaklaşık 1,5 milyon liralık proje yürüttü ve üreticilere yüzde 50 hibeli fide dağıttı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/sonbahar-yagislari-sebze-hasadini-erkene-cekti-tarlalar-hareketlendi/4114976",
-    "CNN Türk: https://www.cnnturk.com/ekonomi/izmirde-kislik-sebze-hasadi-erken-basladi-ureticinin-yuzu-yagislarla-guldu-3490171",
-    "Sözcü: https://www.sozcu.com.tr/yagmur-bereket-getirdi-ureticinin-yuzu-guldu-hasat-erkene-cekildi-p376893"
-   ]
-  },
   {
    "id": "a955fc4052",
    "post_id": "529346797199852_1460349686204739",
@@ -13586,6 +13541,19 @@
    "sources": [
     "Karar: https://www.karar.com/dunya-haberleri/krakowda-silahli-saldiri-bm-genel-sekreteri-guterres-olayi-kinadi-2083080"
    ]
+  },
+  {
+   "id": "501dd0229c",
+   "post_id": "529346797199852_1462515755988132",
+   "title": "Minibüs otomobile ve park halindeki araçlara çarptı: 1 kişi öldü",
+   "at": "2026-11-09T06:57:53.394919+00:00",
+   "yazim": "claude",
+   "metin": "Kütahya'da bir minibüsün çarptığı otomobilin sürücüsü hayatını kaybetti, 4 kişi yaralandı.\n\n— Ara sokaktan caddeye çıkan otomobil, minibüsle çarpıştı. Minibüs ayrıca park halindeki bir otomobile ve kamyona da çarptı.\n\n— Kaza akşam saat 22.00 sıralarında Fuatpaşa Mahallesi Ahi Evran Caddesi'nde oldu.\n\n— Çarpışmanın etkisiyle yola fırlayan otomobil sürücüsü ağır yaralandı. Kütahya Şehir Hastanesi'ne kaldırılan sürücü, tüm müdahalelere rağmen kurtarılamadı.\n\n— Polis, kazayla ilgili soruşturma başlattı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/kutahya-da-minibus-3-araca-carpti-1-olu-4-yarali-3925880",
+    "Sözcü: https://www.sozcu.com.tr/minibus-otomobile-ve-park-halindeki-araclara-carpti-1-kisi-oldu-p379381",
+    "Karar: https://www.karar.com/sehir-haberleri/kutahyada-4-aracin-karistigi-feci-kaza-1-olu-4-yarali-2083086"
+   ]
   }
  ],
  "fails": {
@@ -13792,7 +13760,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119682144406757726",
+   "since_id": "2119684938954150183",
    "started": true
   },
   "ajansmuhbir1923": {
