@@ -2,76 +2,6 @@
  "seen": [
   {
    "fp": [
-    "eğiti",
-    "haval",
-    "hezar",
-    "istan",
-    "nda",
-    "pistt",
-    "uçağı",
-    "çatal",
-    "çıktı"
-   ],
-   "tok": [
-    "ait",
-    "alana",
-    "aland",
-    "amacı",
-    "başla",
-    "daki",
-    "durdu",
-    "ekipl",
-    "eğiti",
-    "girdi",
-    "gönde",
-    "gören",
-    "güven",
-    "hafif",
-    "hasar",
-    "hasta",
-    "haval",
-    "hezar",
-    "incel",
-    "iniş",
-    "itfai",
-    "kaldı",
-    "kenar",
-    "koydu",
-    "kısa",
-    "nda",
-    "okulu",
-    "olay",
-    "pilot",
-    "pist",
-    "piste",
-    "pistt",
-    "saat",
-    "sabah",
-    "sağlı",
-    "sevk",
-    "sıral",
-    "sıras",
-    "tedbi",
-    "teker",
-    "tekni",
-    "topra",
-    "uçak",
-    "uçağı",
-    "uçuş",
-    "yapan",
-    "yaptı",
-    "yerin",
-    "çatal",
-    "çekil",
-    "çıkar",
-    "çıktı",
-    "öğren",
-    "şekil"
-   ],
-   "at": "2026-11-08T10:19:57.055956+00:00"
-  },
-  {
-   "fp": [
     "aliye",
     "buzla",
     "erdoğ",
@@ -10801,20 +10731,55 @@
     "üyesi"
    ],
    "at": "2026-11-09T22:10:28.235045+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "1938",
+    "basın",
+    "dünya",
+    "kasım"
+   ],
+   "tok": [
+    "634sm",
+    "adamd",
+    "andı",
+    "atatü",
+    "basın",
+    "doğu",
+    "dün",
+    "dünya",
+    "excel",
+    "figar",
+    "frans",
+    "gazet",
+    "grisi",
+    "gözle",
+    "güzel",
+    "https",
+    "kapat",
+    "kasım",
+    "kemal",
+    "kuruc",
+    "mille",
+    "moder",
+    "muciz",
+    "musta",
+    "new",
+    "nin",
+    "nun",
+    "sabah",
+    "times",
+    "vefat",
+    "york",
+    "çelik",
+    "ışıkl",
+    "şöyle"
+   ],
+   "at": "2026-11-09T22:23:15.464603+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c71a2c1899",
-   "post_id": "529346797199852_1461067232799651",
-   "title": "Gökyüzünde hareketlilik dur durak bilmiyor: Türkiye nüfusunu 2,5 kat geçti",
-   "at": "2026-11-07T23:05:08.829543+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'deki havalimanları ekim ayında 23 milyon 646 bin yolcuya hizmet verdi.\n\n— DHMİ verilerine göre ekimde 224 bin 958 uçuş gerçekleşti ve toplam yük 462 bin 752 tona ulaştı.\n— İç hat yolcu trafiği, geçen yılın aynı dönemine göre yüzde 1,8 arttı.\n— Ocak ile ekim arasındaki 10 ayda toplam yolcu sayısı 216 milyon 803 bin oldu. Bu, Türkiye nüfusunun 2,5 katından fazla.\n— Aynı 10 ayda toplam yük trafiği yüzde 1,3 artarak 4 milyon 587 bin tona çıktı.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/turkiyedeki-havalimanlarinin-yolcu-sayisi-nedir-ucak-trafigi-ne-kadar-2082931"
-   ]
-  },
   {
    "id": "8d2629aaf3",
    "post_id": "529346797199852_1461073642799010",
@@ -13352,6 +13317,17 @@
     "BirGün: https://www.birgun.net/haber/abd-savunma-bakani-hegseth-azil-konusunda-endiseli-olmadigini-belirtti-745502",
     "Diken: https://www.diken.com.tr/abdde-savunma-bakani-hegsethe-azil-kapisi-aralaniyor/?utm_source=rss&utm_medium=rss&utm_campaign=abdde-savunma-bakani-hegsethe-azil-kapisi-aralaniyor"
    ]
+  },
+  {
+   "id": "8b33e2ba51",
+   "post_id": "529346797199852_1463345225905185",
+   "title": "10 Kasım 1938, Dünya basını.",
+   "at": "2026-11-09T22:23:15.464603+00:00",
+   "yazim": "claude",
+   "metin": "Dünya basını, 10 Kasım 1938'de vefat eden Mustafa Kemal Atatürk'ü şöyle andı.\n\nFransız gazetesi Le Figaro:\n\n“Doğu’nun güzel ışıklarına çelik grisi gözlerini kapatan ne mucizevi bir adamdı.”\n\nFransız gazetesi Excelsior:\n\n“Modern Türkiye’nin kurucusu Kemal Atatürk, dün sabah vefat etti.”",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2119915661363179663"
+   ]
   }
  ],
  "fails": {
@@ -13526,11 +13502,10 @@
   "59d9356750": 2,
   "ad31f42362": 1,
   "b0f77ccd27": 1,
-  "f94c3a8ce3": 1,
+  "f94c3a8ce3": 2,
   "25b129ca25": 2
  },
  "fail_log": [
-  "2026-11-09T04:50 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı",
   "2026-11-09T04:50 İbrahim Kahveci: Emeklilerin zaten sizden en az yüzde 55 ala -> ValueError: yanıt okunamadı",
   "2026-11-09T04:50 İbrahim Kahveci: Emeklilerin zaten sizden en az yüzde 55 ala -> ValueError: yanıt okunamadı",
   "2026-11-09T04:50 İbrahim Kahveci: Emeklilerin zaten sizden en az yüzde 55 ala -> ValueError: yanıt okunamadı",
@@ -13569,12 +13544,13 @@
   "2026-11-09T22:06 Setten stüdyoya, ajanstan sahaya: Sinema-TV işçileri örgütle -> ValueError: yanıt okunamadı",
   "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
   "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
-  "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı"
+  "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
+  "2026-11-09T22:23 10 Kasım 1938, Dünya basını. -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119908748500111482",
+   "since_id": "2119915661363179663",
    "started": true
   },
   "ajansmuhbir1923": {
