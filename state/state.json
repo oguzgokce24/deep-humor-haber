@@ -10954,20 +10954,129 @@
     "üzeri"
    ],
    "at": "2026-11-09T02:30:24.825530+00:00"
+  },
+  {
+   "fp": [
+    "avrup",
+    "barik",
+    "karşı",
+    "neoli",
+    "sokak",
+    "taştı",
+    "yıkım",
+    "öfke"
+   ],
+   "tok": [
+    "arnav",
+    "avrup",
+    "barik",
+    "binle",
+    "daki",
+    "dan",
+    "dökül",
+    "etmiy",
+    "faşiz",
+    "frans",
+    "ispan",
+    "italy",
+    "işçil",
+    "karşı",
+    "kemer",
+    "kirac",
+    "konut",
+    "krizi",
+    "macro",
+    "meyda",
+    "neoli",
+    "pahal",
+    "polit",
+    "prote",
+    "sokak",
+    "sıkma",
+    "taştı",
+    "tehdi",
+    "terk",
+    "yıkım",
+    "öfke",
+    "öğren"
+   ],
+   "at": "2026-11-09T02:33:56.380623+00:00"
+  },
+  {
+   "fp": [
+    "abi",
+    "andı",
+    "devri",
+    "kırkl",
+    "mücad",
+    "nasuh",
+    "nde",
+    "sürec"
+   ],
+   "tok": [
+    "abi",
+    "andı",
+    "devri",
+    "kırkl",
+    "mücad",
+    "nasuh",
+    "nde",
+    "sürec"
+   ],
+   "at": "2026-11-09T02:34:00.160186+00:00"
+  },
+  {
+   "fp": [
+    "banka",
+    "deste",
+    "harca",
+    "havuz",
+    "kamu",
+    "milya",
+    "rekla"
+   ],
+   "tok": [
+    "arası",
+    "ayınd",
+    "ayırd",
+    "aşan",
+    "banka",
+    "bölüm",
+    "bütçe",
+    "büyük",
+    "dağıt",
+    "den",
+    "deste",
+    "eleşt",
+    "fazla",
+    "gerek",
+    "günde",
+    "halkb",
+    "harca",
+    "havuz",
+    "iktid",
+    "ilanl",
+    "ise",
+    "kamu",
+    "kayna",
+    "kurul",
+    "kısmı",
+    "medya",
+    "milya",
+    "nasıl",
+    "nın",
+    "rekla",
+    "tartı",
+    "vakıf",
+    "yakın",
+    "yenid",
+    "çıktı",
+    "öne"
+   ],
+   "at": "2026-11-09T02:34:04.214380+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3ab2446c54",
-   "post_id": "529346797199852_1460199056219802",
-   "title": "İsrail siyasetinde Arap temsili: 26. dönem (2026) İsrail meclisinde Arap kökenli vekiller",
-   "at": "2026-11-07T05:43:28.498120+00:00",
-   "yazim": "claude",
-   "metin": "İsrail'deki 27 Ekim 2026 seçimlerinde Arap partileri Knesset'te 19 sandalye kazandı.\n\n— 11 sandalye Hadaş, Ta'al ve Balad'ın kurduğu Birleşik Liste'ye, 8 sandalye Mansur Abbas'ın liderliğindeki Ra'am'a gitti.\n\n— Ofer Cassif ve Yoav Segalovitz Yahudi oldukları için Arap kökenli vekil sayısı 17'de kalıyor. Yahudi ağırlıklı partilerden seçilen iki Dürzi vekille birlikte bu sayı 19'a ulaşıyor.\n\n— İsrail'de yaklaşık 2,1 milyon Arap yaşıyor. Bu topluluk ülke nüfusunun yaklaşık beşte birini oluşturuyor.",
-   "sources": [
-    "Serbestiyet: https://serbestiyet.com/gunun-yazilari/israil-siyasetinde-arap-temsili-26-donem-2026-israil-meclisinde-arap-kokenli-vekiller-253037/"
-   ]
-  },
   {
    "id": "cf8252dfdb",
    "post_id": "529346797199852_1460207609552280",
@@ -13508,6 +13617,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/fon-vurgununda-sermaye-burokrasi-ve-saray-ucgeni-sorusturma-genisliyor-siyasi-ayak-ortbas-ediliyor-745330"
    ]
+  },
+  {
+   "id": "51754d4c65",
+   "post_id": "529346797199852_1462320852674289",
+   "title": "Havuza reklam desteği: Kamu bankalarından milyarlık harcama",
+   "at": "2026-11-09T02:34:04.214380+00:00",
+   "yazim": "claude",
+   "metin": "Kamu bankaları 2026'nın ilk dokuz ayında reklam ve ilanlara 5,8 milyar TL'den fazla harcadı.\n\n— VakıfBank 2,7 milyar TL, Halkbank ise 2,5 milyar TL'yi aşan harcamayla öne çıktı.\n— Bankalar, reklam bütçelerinin büyük kısmını iktidara yakın medya kuruluşlarına ayırdıkları gerekçesiyle eleştiriliyor.\n— Kamu kaynaklarının medya kuruluşları arasında nasıl dağıtıldığı tartışması yeniden gündemde.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/havuza-reklam-destegi-kamu-bankalarindan-milyarlik-harcama-745332"
+   ]
   }
  ],
  "fails": {
@@ -13666,17 +13786,9 @@
   "7cc82b562d": 2,
   "fdda146925": 1,
   "5933d1e8d2": 2,
-  "0650c2fa3b": 1,
-  "b68fe2e540": 2,
-  "eaf1f37d5a": 2
+  "0650c2fa3b": 1
  },
  "fail_log": [
-  "2026-11-08T22:53 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı",
-  "2026-11-08T22:53 Kayyım gölgesinde belediye sözleşmeleri: İşçiler nasıl seyir -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:05 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:05 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:05 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:18 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
   "2026-11-09T01:18 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
   "2026-11-09T01:18 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
   "2026-11-09T01:31 Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıy -> ValueError: yanıt okunamadı",
@@ -13710,7 +13822,13 @@
   "2026-11-09T02:30 \"Mücadelesi sürecek\": Devrimciler Nasuh Abi'yi Kırklareli'nd -> ValueError: yanıt okunamadı",
   "2026-11-09T02:30 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı",
   "2026-11-09T02:30 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı",
-  "2026-11-09T02:30 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı"
+  "2026-11-09T02:30 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı",
+  "2026-11-09T02:34 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı",
+  "2026-11-09T02:34 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı",
+  "2026-11-09T02:34 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı",
+  "2026-11-09T02:34 \"Mücadelesi sürecek\": Devrimciler Nasuh Abi'yi Kırklareli'nd -> ValueError: yanıt okunamadı",
+  "2026-11-09T02:34 \"Mücadelesi sürecek\": Devrimciler Nasuh Abi'yi Kırklareli'nd -> ValueError: yanıt okunamadı",
+  "2026-11-09T02:34 \"Mücadelesi sürecek\": Devrimciler Nasuh Abi'yi Kırklareli'nd -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
