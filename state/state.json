@@ -2,77 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "6",
-    "bulun",
-    "cesed",
-    "evind",
-    "krako",
-    "polon",
-    "saldı",
-    "silah"
-   ],
-   "tok": [
-    "aile",
-    "ailes",
-    "ana",
-    "annes",
-    "arası",
-    "ateş",
-    "açtı",
-    "aşırı",
-    "babas",
-    "bilin",
-    "bulay",
-    "bulun",
-    "cesed",
-    "dair",
-    "duydu",
-    "düzen",
-    "ediyo",
-    "evind",
-    "girip",
-    "günlü",
-    "ideol",
-    "ilan",
-    "ilgi",
-    "içişl",
-    "işare",
-    "kana",
-    "kanlı",
-    "karde",
-    "kenti",
-    "kierw",
-    "krako",
-    "kız",
-    "marci",
-    "memur",
-    "meyda",
-    "nın",
-    "ostro",
-    "otomo",
-    "polon",
-    "rastg",
-    "sağ",
-    "silah",
-    "swiet",
-    "ulusa",
-    "var",
-    "vatan",
-    "vurul",
-    "yas",
-    "yasta",
-    "yaşın",
-    "çıktı",
-    "öldür",
-    "ülked",
-    "üyesi",
-    "şey"
-   ],
-   "at": "2026-11-08T10:57:23.063008+00:00"
-  },
-  {
-   "fp": [
     "alına",
     "açıkl",
     "bakan",
@@ -10779,20 +10708,85 @@
     "şifa"
    ],
    "at": "2026-11-09T22:47:58.052941+00:00"
+  },
+  {
+   "fp": [
+    "ermes",
+    "iran",
+    "ivme",
+    "oluml",
+    "sona",
+    "trump",
+    "var",
+    "yönel",
+    "çatış"
+   ],
+   "tok": [
+    "abd",
+    "abluk",
+    "ameri",
+    "arabi",
+    "arap",
+    "bahre",
+    "belir",
+    "birle",
+    "centc",
+    "deniz",
+    "donal",
+    "duyur",
+    "emirl",
+    "eriyo",
+    "ermes",
+    "gate",
+    "geliş",
+    "gördü",
+    "görev",
+    "görüy",
+    "gücün",
+    "hemfi",
+    "iran",
+    "ivme",
+    "kapal",
+    "karşı",
+    "kasım",
+    "katar",
+    "konun",
+    "konus",
+    "korun",
+    "kriti",
+    "kulla",
+    "kurul",
+    "kuvey",
+    "nükle",
+    "nın",
+    "olama",
+    "oluml",
+    "pazar",
+    "sahip",
+    "sağla",
+    "silah",
+    "sona",
+    "suudi",
+    "sürme",
+    "tan",
+    "taşın",
+    "tekno",
+    "trump",
+    "var",
+    "yana",
+    "yönel",
+    "zaman",
+    "çatış",
+    "çift",
+    "çıkar",
+    "önlem",
+    "ülkel",
+    "ıron"
+   ],
+   "at": "2026-11-09T23:00:40.096847+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5a8c7c7e30",
-   "post_id": "529346797199852_1461084709464570",
-   "title": "Bölünen işçi havzası, gasbedilen yatırımlar: Karadeniz Ereğli il olmalı mı?",
-   "at": "2026-11-07T23:41:05.744401+00:00",
-   "yazim": "claude",
-   "metin": "Zonguldak'ın Karadeniz Ereğli ilçesi il olma talebini yeniden gündeme taşıdı. Ereğli Belediye Başkanı Halil Posbıyık, kentin 1989'dan beri bu mücadeleyi sürdürdüğünü söylüyor.\n\n— Zonguldak havzası 1991'de Bartın, 1995'te Karabük il yapılarak parçalandı.\n— Posbıyık'ın verdiği 2023 rakamlarına göre Zonguldak İl Özel İdaresi'nin 520 milyon TL'lik bütçesinden Ereğli'ye yalnızca 22 milyon TL ayrıldı.\n— MHP Genel Başkanı Devlet Bahçeli'nin \"100 il 1000 ilçe\" projesinde de Ereğli'nin il olması isteniyor.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008466/bolunen-isci-havzasi-gasbedilen-yatirimlar-karadeniz-eregli-il-olmali-mi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "1e553725bb",
    "post_id": "529346797199852_1461096959463345",
@@ -13334,6 +13328,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/imamoglu-ndan-aliaga-daki-fabrika-faciasina-tepki-isci-olumleri-kader-degildir-2554886",
     "Evrensel: https://www.evrensel.net/haber/6008730/ekrem-imamoglundan-aliagadaki-patlamaya-tepki-isci-olumleri-kader-degildir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "79e3ce3d4f",
+   "post_id": "529346797199852_1463371972569177",
+   "title": "Trump: İran'la çatışmaların sona ermesine yönelik olumlu bir ivme var",
+   "at": "2026-11-09T23:00:40.096847+00:00",
+   "yazim": "claude",
+   "metin": "ABD Başkanı Donald Trump, İran çatışması için:\n\n“Bu çatışmanın sona ermesine yönelik olumlu bir ivme görüyoruz ve Amerika'nın çıkarlarının her zaman korunmasını sağlayacağız.”\n\n— Trump, Katar, Suudi Arabistan, Birleşik Arap Emirlikleri, Bahreyn ve Kuveyt'in İran'a karşı kurulan \"Iron Gate\" görev gücünün ve deniz ablukasının sürmesinden yana olduğunu söyledi.\n\n— Trump, İran'ın nükleer silaha sahip olamayacağı konusunda bu ülkelerin hemfikir olduğunu ve bu konunun pazarlığa kapalı olduğunu belirtti.\n\n— CENTCOM, Iron Gate görev gücünün İran'a gelişmiş silah ve çift kullanımlı teknoloji taşınmasını önlemek için kurulduğunu 7 Kasım'da duyurmuştu.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/dunya/donald-trump-catismanin-sona-ermesine-yonelik-olumlu-ilerleme-var-3926134",
+    "Evrensel: https://www.evrensel.net/haber/6008736/trump-iranla-catismalarin-sona-ermesine-yonelik-olumlu-bir-ivme-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/iranla-catismalar-sona-mi-eriyor-trumptan-kritik-aciklama-43372193"
+   ]
   }
  ],
  "fails": {
@@ -13514,7 +13521,6 @@
  "fail_log": [
   "2026-11-09T04:50 İbrahim Kahveci: Emeklilerin zaten sizden en az yüzde 55 ala -> ValueError: yanıt okunamadı",
   "2026-11-09T04:50 İbrahim Kahveci: Emeklilerin zaten sizden en az yüzde 55 ala -> ValueError: yanıt okunamadı",
-  "2026-11-09T04:50 İbrahim Kahveci: Emeklilerin zaten sizden en az yüzde 55 ala -> ValueError: yanıt okunamadı",
   "2026-11-09T08:08 Akın Gürlek açıkladı: 73 dosyada 80 cinayet aydınlatıldı -> ValueError: cümle yarım kalmış: '— Manisa, Ankara, Batman, Aydın ve İst'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-09T10:03 Dusan Vlahovic, Vincenzo Italiano ile kendini buldu -> ValueError: yanıt okunamadı",
   "2026-11-09T10:29 İzmir'de fabrikada patlama: Ambulanslar sevk edildi -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
@@ -13551,7 +13557,8 @@
   "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
   "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
   "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
-  "2026-11-09T22:23 10 Kasım 1938, Dünya basını. -> ValueError: yanıt okunamadı"
+  "2026-11-09T22:23 10 Kasım 1938, Dünya basını. -> ValueError: yanıt okunamadı",
+  "2026-11-09T23:00 Trump: İran'la çatışmaların sona ermesine yönelik olumlu bir -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
