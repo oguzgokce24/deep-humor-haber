@@ -2,66 +2,6 @@
  "seen": [
   {
    "fp": [
-    "acun",
-    "iddia",
-    "kulüb",
-    "ılıca"
-   ],
-   "tok": [
-    "acun",
-    "alaca",
-    "alara",
-    "alma",
-    "alınm",
-    "alıyo",
-    "arası",
-    "austr",
-    "avust",
-    "başla",
-    "belir",
-    "bilin",
-    "bunde",
-    "bünye",
-    "champ",
-    "city",
-    "ekibi",
-    "futbo",
-    "görüş",
-    "hull",
-    "iddia",
-    "ingil",
-    "ise",
-    "kattı",
-    "kesin",
-    "kez",
-    "konus",
-    "kulüb",
-    "kulüp",
-    "köklü",
-    "lig",
-    "marib",
-    "müthi",
-    "nın",
-    "resmi",
-    "sahib",
-    "satın",
-    "slove",
-    "sürül",
-    "taraf",
-    "temsi",
-    "wien",
-    "yatır",
-    "yok",
-    "öne",
-    "öneri",
-    "üçünc",
-    "ılıca",
-    "şampi"
-   ],
-   "at": "2026-11-07T14:55:28.512665+00:00"
-  },
-  {
-   "fp": [
     "3",
     "4",
     "kişi",
@@ -11082,20 +11022,82 @@
     "öğren"
    ],
    "at": "2026-11-09T02:46:37.033920+00:00"
+  },
+  {
+   "fp": [
+    "ankar",
+    "rüşve",
+    "sarsa",
+    "skand"
+   ],
+   "tok": [
+    "adem",
+    "aldığ",
+    "alıp",
+    "anlaş",
+    "arsa",
+    "attır",
+    "başla",
+    "belir",
+    "bin",
+    "birli",
+    "cezas",
+    "davas",
+    "deniz",
+    "dilek",
+    "edild",
+    "ettiğ",
+    "feram",
+    "gönde",
+    "göre",
+    "haksı",
+    "hapis",
+    "hapse",
+    "hsk",
+    "iddia",
+    "ihbar",
+    "ilgil",
+    "insan",
+    "kalp",
+    "karde",
+    "karşı",
+    "katib",
+    "katip",
+    "krizi",
+    "mektu",
+    "müdah",
+    "nin",
+    "olayl",
+    "olayı",
+    "ortay",
+    "oğuzh",
+    "paran",
+    "rüşve",
+    "sarsa",
+    "satış",
+    "savcı",
+    "skand",
+    "sokul",
+    "sonuç",
+    "sürül",
+    "taksi",
+    "tesli",
+    "ulaşt",
+    "veril",
+    "yazdı",
+    "yere",
+    "yıl",
+    "zabıt",
+    "çıkar",
+    "ölen",
+    "ölmed",
+    "öne",
+    "şikay"
+   ],
+   "at": "2026-11-09T02:59:07.650090+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "91cc4ab1b2",
-   "post_id": "529346797199852_1460215222884852",
-   "title": "Motorine gece yarısı indirimi: Fiyatlar 100 liranın altına geriledi",
-   "at": "2026-11-07T06:08:21.826916+00:00",
-   "yazim": "claude",
-   "metin": "Motorine gece yarısı 5,47 liralık indirim geldi ve litre fiyatı tüm illerde 100 liranın altına indi.\n\nMotorindeki bu indirimin nedeni, petrol fiyatlarındaki düşüş.\n\n— İstanbul'da motorin litresi 95 lira bandına geriledi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/motorine-gece-yarisi-indirimi-fiyatlar-100-liranin-altina-geriledi-745061"
-   ]
-  },
   {
    "id": "0f1fd21e14",
    "post_id": "529346797199852_1460222966217411",
@@ -13635,6 +13637,17 @@
    "metin": "BirGün muhabiri İsmail Arı, \"yanıltıcı bilgiyi alenen yayma\" suçlamasıyla tutuklandı.\n\n— Arı, 20 Ekim gecesi emniyette ifade için bekletilmiş, ertesi gün adliyeye sevk edilmişti. Ankara 6. Sulh Ceza Hakimliği, kaçma ve delil karartma ihtimallerini gerekçe göstererek tutuklama kararı verdi.\n— Suçlama, Arı'nın eski RTÜK Başkanı Ebubekir Şahin hakkında yaptığı bir haber için yazdığı WhatsApp mesajlarına dayandırılıyor. BirGün Ankara Temsilcisi Nurcan Gökdemir, yazışmada tehdit, zorlama ya da hakaret bulunmadığını söyledi.\n— Arı, daha önce 75 gün kaldığı Sincan 2 Nolu L Tipi Cezaevi'ndeki aynı koğuşa (A10) konuldu. Kapasitesi 28 olan koğuşta 60'tan fazla kişinin kaldığı öğrenildi.\n\nNurcan Gökdemir:\n\n“Burada cezalandırılmak istenen gazetecilik.”",
    "sources": [
     "BirGün: https://www.birgun.net/haber/birgun-muhabiri-ismail-ari-19-gundur-tutuklu-741512"
+   ]
+  },
+  {
+   "id": "35e6813b9f",
+   "post_id": "529346797199852_1462335962672778",
+   "title": "Ankara’yı sarsan rüşvet skandalı",
+   "at": "2026-11-09T02:59:07.650090+00:00",
+   "yazim": "claude",
+   "metin": "Ankara'da bir savcının 1 milyon dolar rüşvet alıp bir iş insanını hapse attırdığı iddia edildi.\n\nOlayı, 2025'te kalp krizinde ölen zabıt katibi Feramuz Deniz'in ölmeden önce yazdığı ihbar mektubu ortaya çıkardı.\n\n— Mektupta, arsa anlaşmazlığı davasına savcı Oğuzhan K.'nin müdahale ettiği, karşılığında 1 milyon doların verildiği öne sürüldü.\n— Katip, paranın iki taksitte teslim edildiğini ve ilk 500 bin doların savcının kardeşine ulaştığını iddia etti.\n— İş insanı Adem Ç., mektubu HSK'ya yazdığı şikayet dilekçesiyle birlikte gönderdi ve haksız yere 19 yıl hapis cezası aldığını belirtti.\n— HSK, savcıyla ilgili soruşturma başlattı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/ankara-yi-sarsan-rusvet-skandali-p379346"
    ]
   }
  ],
