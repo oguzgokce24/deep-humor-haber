@@ -2,82 +2,6 @@
  "seen": [
   {
    "fp": [
-    "13",
-    "hakka",
-    "halk",
-    "istis",
-    "sokağ",
-    "yaşın",
-    "çocuğ",
-    "çıktı"
-   ],
-   "tok": [
-    "aile",
-    "atıld",
-    "ayırı",
-    "bartı",
-    "beyan",
-    "bulun",
-    "cinse",
-    "dem",
-    "derne",
-    "dikka",
-    "dosya",
-    "duyur",
-    "ekim",
-    "farkl",
-    "fuhuş",
-    "gözet",
-    "hafta",
-    "hakka",
-    "hakkı",
-    "halk",
-    "iddia",
-    "ilçes",
-    "istis",
-    "izind",
-    "izlem",
-    "kadın",
-    "kaldı",
-    "kimli",
-    "korun",
-    "mahre",
-    "maruz",
-    "mille",
-    "nde",
-    "nin",
-    "parti",
-    "savcı",
-    "sloga",
-    "sokağ",
-    "sordu",
-    "star",
-    "suç",
-    "süreç",
-    "tarih",
-    "uyuşt",
-    "yapıl",
-    "yardı",
-    "yaşam",
-    "yaşın",
-    "yetiş",
-    "yönel",
-    "yükse",
-    "yürüy",
-    "çekil",
-    "çiftç",
-    "çocuk",
-    "çocuğ",
-    "çıktı",
-    "ömür",
-    "özgür",
-    "öznur",
-    "şidde"
-   ],
-   "at": "2026-11-08T05:19:38.780576+00:00"
-  },
-  {
-   "fp": [
     "22",
     "deniz",
     "gemis",
@@ -10781,22 +10705,67 @@
     "şirke"
    ],
    "at": "2026-11-09T17:18:39.299811+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "düşen",
+    "hayat",
+    "kadın",
+    "katta",
+    "kaybe"
+   ],
+   "tok": [
+    "apart",
+    "araşt",
+    "başla",
+    "belir",
+    "beton",
+    "bildi",
+    "binan",
+    "cenaz",
+    "demir",
+    "dokuz",
+    "durum",
+    "düşen",
+    "düştü",
+    "ekipl",
+    "eğiti",
+    "gören",
+    "görev",
+    "hasta",
+    "ilgil",
+    "ilhan",
+    "kadın",
+    "kaldı",
+    "katta",
+    "katın",
+    "mahal",
+    "metre",
+    "morgu",
+    "nde",
+    "nin",
+    "niğde",
+    "olay",
+    "olayl",
+    "oturd",
+    "pence",
+    "rukiy",
+    "sağlı",
+    "sevk",
+    "uncu",
+    "yaşam",
+    "yerin",
+    "yitir",
+    "yükse",
+    "zemin",
+    "çevre",
+    "ölüm"
+   ],
+   "at": "2026-11-09T17:31:24.651688+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d9b9b03e17",
-   "post_id": "529346797199852_1460849239488117",
-   "title": "Cumhurbaşkanı Erdoğan, İlham Aliyev'in davetiyle yarın Karabağ'ı ziyaret edecek.",
-   "at": "2026-11-07T18:25:31.772315+00:00",
-   "yazim": "claude",
-   "metin": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın yarın Karabağ'ı ziyaret edeceği öne sürüldü.\n\nZiyaretin Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetiyle yapılacağı iddia edildi.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-8-kasimda-karabaga-gidecek-43369879",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogan-karabagi-ziyaret-edecek-4870598",
-    "BPT (X): https://x.com/bpthaber/status/2119130983475880210"
-   ]
-  },
   {
    "id": "285aaadf14",
    "post_id": "529346797199852_1460862506153457",
@@ -13341,6 +13310,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/yeni-partili-ozlale-den-carpici-fon-skandali-iddiasi-eski-masak-baskanina-dikkat-cekti-kayitta-adi-gorunmuyor-dedi-2554821",
     "Karar: https://www.karar.com/guncel-haberler/yeni-partili-umit-ozlaleden-bomba-iddia-eski-masak-baskani-foncu-2083225"
    ]
+  },
+  {
+   "id": "00ba90bcb5",
+   "post_id": "529346797199852_1463125032593871",
+   "title": "Soruşturma başlatıldı: 9'uncu kattan düşen kadın hayatını kaybetti",
+   "at": "2026-11-09T17:31:24.651688+00:00",
+   "yazim": "claude",
+   "metin": "Niğde'nin İlhanlı Mahallesi'nde bir apartmanın 9. katındaki penceresinden düşen kadın hayatını kaybetti.\n\n— Kadın, oturduğu binanın 9. katındaki pencereden beton zemine düştü.\n\n— Metrelerce yükseklikten düşen kadını gören çevredekiler durumu 112'ye bildirdi.\n\n— Sağlık ve polis ekipleri olay yerine sevk edildi. Sağlık görevlileri kadının olay yerinde hayatını kaybettiğini belirledi.\n\n— Cenaze Niğde Eğitim ve Araştırma Hastanesi morguna kaldırıldı.\n\n— Polis olayla ilgili soruşturma başlattı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sorusturma-baslatildi-9-uncu-kattan-dusen-kadin-hayatini-kaybetti-2554837",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/binanin-dokuzuncu-katindan-dusen-kadin-hayatini-kaybetti-4871061",
+    "Karar: https://www.karar.com/guncel-haberler/nigdede-supheli-olum-9-kattan-dusen-kadin-hayatini-kaybetti-2083226"
+   ]
   }
  ],
  "fails": {
@@ -13550,7 +13532,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119837140972658775",
+   "since_id": "2119842188506906834",
    "started": true
   },
   "ajansmuhbir1923": {
