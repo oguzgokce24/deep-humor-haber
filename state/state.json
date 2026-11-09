@@ -2,85 +2,6 @@
  "seen": [
   {
    "fp": [
-    "femin",
-    "gerçe",
-    "içeri",
-    "kadın",
-    "kapit",
-    "suçlu",
-    "tradw",
-    "yönel",
-    "öfkes"
-   ],
-   "tok": [
-    "akade",
-    "akımı",
-    "araşt",
-    "artır",
-    "ağaca",
-    "ağaçt",
-    "ağır",
-    "bin",
-    "chica",
-    "ekono",
-    "emek",
-    "etike",
-    "eylül",
-    "femin",
-    "gelen",
-    "geniş",
-    "gerçe",
-    "gorod",
-    "gönde",
-    "göre",
-    "gözde",
-    "güven",
-    "hanım",
-    "homem",
-    "ibare",
-    "ilgiy",
-    "içeri",
-    "içi",
-    "kadın",
-    "kalmı",
-    "kalıp",
-    "kapit",
-    "kate",
-    "kaçır",
-    "koşul",
-    "kültü",
-    "lar",
-    "mart",
-    "medya",
-    "neden",
-    "orman",
-    "parça",
-    "rolle",
-    "sayıl",
-    "sosya",
-    "suçlu",
-    "sıras",
-    "takıl",
-    "tamam",
-    "tek",
-    "toplu",
-    "tradw",
-    "tüken",
-    "ulaşı",
-    "yalnı",
-    "yaşad",
-    "yönel",
-    "çalış",
-    "çıkar",
-    "öfkes",
-    "öne",
-    "ünive",
-    "ınsta"
-   ],
-   "at": "2026-11-08T02:55:15.605818+00:00"
-  },
-  {
-   "fp": [
     "cezae",
     "karan",
     "sayı",
@@ -10751,20 +10672,80 @@
     "yer"
    ],
    "at": "2026-11-09T14:47:10.800337+00:00"
+  },
+  {
+   "fp": [
+    "bilse",
+    "ders",
+    "faizi",
+    "karar",
+    "mahke",
+    "ödene",
+    "ücret"
+   ],
+   "tok": [
+    "aralı",
+    "arası",
+    "asli",
+    "aykır",
+    "açıla",
+    "bağlı",
+    "başvu",
+    "bilse",
+    "birli",
+    "buldu",
+    "davad",
+    "ders",
+    "dikka",
+    "eğiti",
+    "faizi",
+    "faizl",
+    "gerek",
+    "görev",
+    "gücü",
+    "hukuk",
+    "hükme",
+    "idare",
+    "iptal",
+    "itiba",
+    "işley",
+    "karşı",
+    "meb",
+    "milli",
+    "olduğ",
+    "oturu",
+    "parça",
+    "redde",
+    "reddi",
+    "rehbe",
+    "sakar",
+    "sen",
+    "seçme",
+    "sürec",
+    "sınav",
+    "teki",
+    "ten",
+    "testi",
+    "testl",
+    "topla",
+    "uygul",
+    "verdi",
+    "yasal",
+    "yılla",
+    "zekâ",
+    "çeken",
+    "ödeme",
+    "ödene",
+    "ödenm",
+    "öğren",
+    "öğret",
+    "ücret",
+    "üyesi"
+   ],
+   "at": "2026-11-09T14:59:57.755180+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cbee5763e4",
-   "post_id": "529346797199852_1460712442835130",
-   "title": "Ünlü oyuncu Eda Ece'nin zor günü: Babası hastaneye kaldırıldı, haberi alınca yanına koştu!",
-   "at": "2026-11-07T15:58:45.403393+00:00",
-   "yazim": "claude",
-   "metin": "Ünlü oyuncu Eda Ece'nin babası aniden rahatsızlanarak hastaneye kaldırıldı.\n\n— Haberi alan Ece, hiç vakit kaybetmeden hastaneye gidip babasının yanına koştu.\n\n— Tedavi sürecinde babasını bir an olsun yalnız bırakmadığı belirtildi.\n\n— Ece, hasta yatağındaki babasıyla el ele tutuştuğu bir fotoğrafı sosyal medya hesabından paylaştı. Paylaşımına yalnızca \"Babam\" notunu düştü.\n\n— Paylaşımın ardından sanat dünyasından ve takipçilerinden çok sayıda \"geçmiş olsun\" mesajı geldi.",
-   "sources": [
-    "Karar: https://www.karar.com/hayat-haberleri/unlu-oyuncu-eda-ecenin-zor-gunu-babasi-hastaneye-kaldirildi-haberi-2082895"
-   ]
-  },
   {
    "id": "7eb3c3b99f",
    "post_id": "529346797199852_1460722952834079",
@@ -13298,6 +13279,18 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/eski-macaristan-basbakani-viktor-orban-in-kardesi-gozaltina-alindi-745476"
    ]
+  },
+  {
+   "id": "57c1beb7d1",
+   "post_id": "529346797199852_1462990705940637",
+   "title": "Mahkemeden dikkat çeken 'BİLSEM' kararı: Ek ders ücreti faiziyle ödenecek",
+   "at": "2026-11-09T14:59:57.755180+00:00",
+   "yazim": "claude",
+   "metin": "Sakarya'da mahkeme, BİLSEM'de zekâ testi uygulayan rehber öğretmenin ek ders ücretinin faiziyle birlikte ödenmesine karar verdi.\n\n— Öğretmen 2018-2023 yılları arasında BİLSEM öğrenci seçme sürecinde toplam 284 oturum zekâ testi uyguladı, ama bu görevlerin karşılığı ödenmedi.\n\n— Milli Eğitim Bakanlığı, testlerin rehber öğretmenlerin asli görevleri arasında olduğu gerekçesiyle 5 Aralık 2025'teki ödeme başvurusunu reddetti.\n\n— Eğitim Gücü Sen üyesi öğretmen için açılan davada Sakarya 2. İdare Mahkemesi bu reddi iptal etti. Mahkeme, testlerin öğrenci seçme sınavının bir parçası olduğuna hükmetti.\n\n— Ödenmeyen ücretler, 5 Aralık 2025'ten itibaren işleyecek yasal faizle birlikte ödenecek.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mahkemeden-dikkat-ceken-bilsem-karari-ek-ders-ucreti-faiziyle-odenecek-2554797",
+    "BirGün: https://www.birgun.net/haber/mahkemeden-bilsem-karari-ek-ders-ucreti-faiziyle-odenecek-745470"
+   ]
   }
  ],
  "fails": {
@@ -13458,12 +13451,10 @@
   "5933d1e8d2": 2,
   "0650c2fa3b": 1,
   "88e9105bf3": 2,
-  "4d15a40186": 1
+  "4d15a40186": 1,
+  "178ec8bdc8": 1
  },
  "fail_log": [
-  "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı",
-  "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı",
-  "2026-11-09T04:39 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
   "2026-11-09T04:39 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
   "2026-11-09T04:39 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
   "2026-11-09T04:39 Didem Eryar Ünlü: Antalya'nın en zorlu müzakerelerinden biri -> ValueError: yanıt okunamadı",
@@ -13500,12 +13491,15 @@
   "2026-11-09T10:03 Dusan Vlahovic, Vincenzo Italiano ile kendini buldu -> ValueError: yanıt okunamadı",
   "2026-11-09T10:29 İzmir'de fabrikada patlama: Ambulanslar sevk edildi -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-09T14:04 Adalet Bakanlığı bütçesi yeni cezaevlerine akacak -> ValueError: yanıt okunamadı",
-  "2026-11-09T14:04 Adalet Bakanlığı bütçesi yeni cezaevlerine akacak -> ValueError: yanıt okunamadı"
+  "2026-11-09T14:04 Adalet Bakanlığı bütçesi yeni cezaevlerine akacak -> ValueError: yanıt okunamadı",
+  "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı",
+  "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı",
+  "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119803272475418770",
+   "since_id": "2119804890591424937",
    "started": true
   },
   "ajansmuhbir1923": {
