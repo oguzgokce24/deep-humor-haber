@@ -10684,22 +10684,60 @@
     "ölüm"
    ],
    "at": "2026-11-09T18:36:26.790962+00:00"
+  },
+  {
+   "fp": [
+    "cumhu",
+    "erdoğ",
+    "görüş",
+    "nijer",
+    "tchia",
+    "telef"
+   ],
+   "tok": [
+    "abdur",
+    "aland",
+    "arası",
+    "ayrıc",
+    "babas",
+    "belir",
+    "birço",
+    "bölge",
+    "bütün",
+    "deste",
+    "diyal",
+    "erdoğ",
+    "görüş",
+    "güven",
+    "güçle",
+    "hazır",
+    "ikili",
+    "ilett",
+    "ilişk",
+    "konuş",
+    "mesel",
+    "mevki",
+    "neden",
+    "nijer",
+    "nin",
+    "olduk",
+    "recep",
+    "süreç",
+    "tam",
+    "tayyi",
+    "taziy",
+    "tchia",
+    "telef",
+    "topra",
+    "vefat",
+    "vurgu",
+    "yardı",
+    "ülke"
+   ],
+   "at": "2026-11-09T18:49:08.087629+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cf87630375",
-   "post_id": "529346797199852_1460915406148167",
-   "title": "Elazığ’da kadın cinayeti: Eski eşi tarafından pompalı tüfekle öldürüldü",
-   "at": "2026-11-07T19:35:02.903636+00:00",
-   "yazim": "claude",
-   "metin": "Elazığ'ın Keban ilçesinde 5 yıl önce boşandığı eski eşi, 56 yaşındaki bir kadını evinin önünde pompalı tüfekle vurarak öldürdü.\n\n— Olay Denizli köyünde yaşandı. Kadının 2 çocuğu var.\n\n— Saldırgan olay yerinden kaçtı, ancak Keban ilçe girişinde jandarma ekipleri tarafından yakalanarak gözaltına alındı.\n\n— Kadının cansız bedeni otopsi için Fırat Üniversitesi Hastanesi morguna kaldırıldı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/elazig-kebanda-5-yil-once-bosandigi-eski-esini-evinin-onunde-pompali-tufekle-katletti-7696414",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/elazig-da-kadin-cinayeti-eski-esi-tarafindan-pompali-tufekle-olduruldu-2554280",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/elazig-kebanda-5-yil-once-bosandigi-eski-esini-evinin-onunde-pompali-tufekle-katletti-7696414"
-   ]
-  },
   {
    "id": "6d87d25f25",
    "post_id": "529346797199852_1460922316147476",
@@ -13242,6 +13280,22 @@
    "sources": [
     "Karar: https://www.karar.com/dunya-haberleri/rusyanin-ukraynada-olen-askerlerinin-sayisi-sizdi-ikinci-dunya-2083230"
    ]
+  },
+  {
+   "id": "2462d18f92",
+   "post_id": "529346797199852_1463186172587757",
+   "title": "Cumhurbaşkanı Erdoğan, Nijer Cumhurbaşkanı Tchiani ile telefonda görüştü",
+   "at": "2026-11-09T18:49:08.087629+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı Recep Tayyip Erdoğan, Nijer Cumhurbaşkanı Abdurrahman Tchiani ile telefonda görüştü.\n\n— Görüşmede Türkiye ile Nijer arasındaki ikili ilişkiler ve bölgesel meseleler konuşuldu.\n\n— Erdoğan, iki ülke ilişkilerini birçok alanda güçlendireceklerini söyledi.\n\n— Erdoğan, Türkiye'nin Nijer'in toprak bütünlüğünü ve güvenliğini tam olarak desteklediğini belirtti. Bölgesel diyalog süreçlerini güçlendirmek için de yardıma hazır olduklarını dedi.\n\n— Erdoğan ayrıca Tchiani'nin babasının vefatı nedeniyle taziyelerini iletti.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-telefonda-gorustu/4117824",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-telefonda-gorustu-962713.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-nijer-cumhurbaskani-ile-gorustu-43372062",
+    "Milliyet: https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogan-nijer-cumhurbaskani-tchiani-ile-telefonda-gorustu-7697623",
+    "CNN Türk: https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-nijer-cumhurbaskani-ile-telefonda-gorustu-3491133",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/09/baskan-erdogan-nijer-cumhurbaskani-ile-gorustu"
+   ]
   }
  ],
  "fails": {
@@ -13451,7 +13505,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119860417795420502",
+   "since_id": "2119863735150121447",
    "started": true
   },
   "ajansmuhbir1923": {
