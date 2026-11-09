@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2001",
-    "2002",
-    "ağıra",
-    "benze",
-    "döndü",
-    "düşün",
-    "fon",
-    "fırtı",
-    "geliy",
-    "kırgı",
-    "rezal",
-    "seçme",
-    "yavuz",
-    "yüzde",
-    "şartl"
-   ],
-   "tok": [
-    "açaca",
-    "ağıra",
-    "benze",
-    "büyük",
-    "döndü",
-    "düşün",
-    "f7gjo",
-    "fon",
-    "fırtı",
-    "geliy",
-    "https",
-    "kırgı",
-    "okmxw",
-    "rezal",
-    "savun",
-    "sebep",
-    "seçme",
-    "tsuna",
-    "yavuz",
-    "yol",
-    "yüzde",
-    "şartl"
-   ],
-   "at": "2026-11-07T16:24:00.503914+00:00"
-  },
-  {
-   "fp": [
     "afyon",
     "anlar",
     "anlat",
@@ -13725,20 +13681,12 @@
   "fdda146925": 1,
   "5933d1e8d2": 2,
   "0650c2fa3b": 1,
-  "4070527690": 1,
-  "06f250b576": 1,
-  "c552dd81d3": 1
+  "4070527690": 2,
+  "06f250b576": 2,
+  "c552dd81d3": 1,
+  "e15c0ca711": 1
  },
  "fail_log": [
-  "2026-11-09T01:44 Futbol aklı Totti -> ValueError: yanıt okunamadı",
-  "2026-11-09T01:44 Futbol aklı Totti -> ValueError: yanıt okunamadı",
-  "2026-11-09T02:14 Tarihi mirasa rant saldırısı: Koruma kâğıt üzerinde -> ValueError: yanıt okunamadı",
-  "2026-11-09T02:14 Tarihi mirasa rant saldırısı: Koruma kâğıt üzerinde -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-09T02:27 Tarihi mirasa rant saldırısı: Koruma kâğıt üzerinde -> ValueError: yanıt okunamadı",
-  "2026-11-09T02:27 Tarihi mirasa rant saldırısı: Koruma kâğıt üzerinde -> ValueError: yanıt okunamadı",
-  "2026-11-09T02:27 Tarihi mirasa rant saldırısı: Koruma kâğıt üzerinde -> ValueError: yanıt okunamadı",
-  "2026-11-09T02:27 \"Mücadelesi sürecek\": Devrimciler Nasuh Abi'yi Kırklareli'nd -> ValueError: yanıt okunamadı",
-  "2026-11-09T02:27 \"Mücadelesi sürecek\": Devrimciler Nasuh Abi'yi Kırklareli'nd -> ValueError: yanıt okunamadı",
   "2026-11-09T02:27 \"Mücadelesi sürecek\": Devrimciler Nasuh Abi'yi Kırklareli'nd -> ValueError: yanıt okunamadı",
   "2026-11-09T02:27 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı",
   "2026-11-09T02:27 Neoliberal yıkıma karşı barikat: Avrupa’da öfke sokaklara ta -> ValueError: yanıt okunamadı",
@@ -13769,7 +13717,16 @@
   "2026-11-09T04:16 Fikret İlkiz: Gazeteci kanunen haber kaynağını açıklamak zor -> ValueError: yanıt okunamadı",
   "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı",
   "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı",
-  "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı"
+  "2026-11-09T04:16 Özer Akdemir: Subasar ormanların tahrip edilmesi, iklim deği -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Engin Solakoğlu: Demokrat Parti'de 'sol akım' ilk kez siyasi -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Didem Eryar Ünlü: Antalya'nın en zorlu müzakerelerinden biri -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Didem Eryar Ünlü: Antalya'nın en zorlu müzakerelerinden biri -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Didem Eryar Ünlü: Antalya'nın en zorlu müzakerelerinden biri -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Fikret İlkiz: Gazeteci kanunen haber kaynağını açıklamak zor -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Fikret İlkiz: Gazeteci kanunen haber kaynağını açıklamak zor -> ValueError: yanıt okunamadı",
+  "2026-11-09T04:39 Fikret İlkiz: Gazeteci kanunen haber kaynağını açıklamak zor -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
