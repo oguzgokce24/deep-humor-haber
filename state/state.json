@@ -2,75 +2,6 @@
  "seen": [
   {
    "fp": [
-    "den",
-    "fabri",
-    "fotoğ",
-    "manza",
-    "türki"
-   ],
-   "tok": [
-    "ait",
-    "appea",
-    "arşiv",
-    "açtığ",
-    "birik",
-    "birli",
-    "biçim",
-    "den",
-    "devle",
-    "değiş",
-    "diken",
-    "dönüş",
-    "ekled",
-    "ekono",
-    "endüs",
-    "fabri",
-    "first",
-    "fotoğ",
-    "geniş",
-    "hız",
-    "işlev",
-    "kapan",
-    "kartp",
-    "kazan",
-    "koşul",
-    "kulla",
-    "kurdu",
-    "kurum",
-    "kültü",
-    "larda",
-    "lerde",
-    "linka",
-    "manza",
-    "mimar",
-    "miras",
-    "mühen",
-    "nin",
-    "parça",
-    "pek",
-    "post",
-    "salt",
-    "sanay",
-    "sektö",
-    "site",
-    "süreç",
-    "tesis",
-    "the",
-    "yenid",
-    "yıkıl",
-    "yılla",
-    "çalış",
-    "çıkan",
-    "öne",
-    "öneml",
-    "özel",
-    "özell",
-    "üreti"
-   ],
-   "at": "2026-11-08T04:09:35.600813+00:00"
-  },
-  {
-   "fp": [
     "değil",
     "lütuf",
     "masal",
@@ -10780,20 +10711,69 @@
     "üzeri"
    ],
    "at": "2026-11-09T16:03:39.609673+00:00"
+  },
+  {
+   "fp": [
+    "apple",
+    "başka",
+    "cook",
+    "cumhu",
+    "erdoğ",
+    "kabul",
+    "kurul",
+    "tim",
+    "yönet"
+   ],
+   "tok": [
+    "alınd",
+    "anıtk",
+    "apple",
+    "ardın",
+    "basın",
+    "bağda",
+    "beri",
+    "buluş",
+    "cadde",
+    "ceo",
+    "cook",
+    "dair",
+    "den",
+    "devre",
+    "eda",
+    "erdem",
+    "erdoğ",
+    "eski",
+    "eylül",
+    "fotoğ",
+    "geçmi",
+    "görev",
+    "görüş",
+    "hangi",
+    "john",
+    "kabul",
+    "kapal",
+    "konul",
+    "kurul",
+    "külli",
+    "mağaz",
+    "ndeki",
+    "payla",
+    "recep",
+    "tan",
+    "tayyi",
+    "ternu",
+    "tim",
+    "yalnı",
+    "yapıl",
+    "yönet",
+    "yürüt",
+    "ziyar",
+    "üyesi"
+   ],
+   "at": "2026-11-09T16:16:18.941618+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "977ec30e37",
-   "post_id": "529346797199852_1460789836160724",
-   "title": "Bilim dünyasında tarihi an: OpenAI modelleri, asırlık bilimsel problemleri çözdü",
-   "at": "2026-11-07T17:19:33.005261+00:00",
-   "yazim": "claude",
-   "metin": "OpenAI'a göre yapay zeka modelleri, matematik, bilgisayar bilimi ve kuantum fiziğinde uzun yıllardır çözülemeyen üç temel problemi çözdü.\n\n— Matematikte harmonik analizdeki yerel yumuşatma varsayımı tüm boyutlarıyla kanıtlandı.\n— Bilgisayar biliminde, algoritmaların sınırlarını belirleyen Üstel Zaman Hipotezi (ETH) çürütüldü.\n— Fizikte kuantum renk dinamiği (QCD) dahil bazı kuantum alan teorilerinin matematiksel varlığına dair kanıtlar üretildi.\n\nŞirket, sonuçların matematiksel ispatları denetleyen Lean adlı biçimsel doğrulama yöntemiyle kontrol edildiğini söylüyor. Bağımsız araştırmacıların tüm çıktıları inceleyebileceğini ve ham verilerin paylaşılacağını da ekliyor.",
-   "sources": [
-    "Karar: https://www.karar.com/teknoloji-haberleri/yapay-zeka-hangi-teoremleri-cozdu-openai-hangi-bilimsel-sonuclara-2082904"
-   ]
-  },
   {
    "id": "8d15fbb218",
    "post_id": "529346797199852_1460799156159792",
@@ -13330,6 +13310,22 @@
     "Habertürk: https://www.haberturk.com/ekonomi/spk-dan-fon-yatirimcilarina-yonelik-dolandiricilik-uyarisi-3926084",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/spk-den-fon-yatirimcilarina-yonelik-dolandiricilik-mesajlari-uyarisi-2554817"
    ]
+  },
+  {
+   "id": "078b0db554",
+   "post_id": "529346797199852_1463066625933045",
+   "title": "Cumhurbaşkanı Erdoğan, Apple Yönetim Kurulu Başkanı Tim Cook'u kabul etti",
+   "at": "2026-11-09T16:16:18.941618+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı Erdoğan, Ankara'da Apple'ın eski CEO'su Tim Cook'u kabul etti.\n\n— Görüşme basına kapalı yapıldı, Cumhurbaşkanlığı yalnızca bir fotoğraf paylaştı.\n— Cook, 2011'den beri yürüttüğü CEO görevini Eylül 2026'da John Ternus'a devredip Yönetim Kurulu Başkanlığına geçmişti.\n— Cook önce İstanbul'da Kapalıçarşı'yı ve Bağdat Caddesi'ndeki Apple mağazasını ziyaret etti, ardından Ankara'da Anıtkabir'i ziyaret etti.\n— Görüşmede hangi konuların ele alındığına dair bir açıklama yapılmadı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-tim-cooku-kabul-etti/4117479",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-cooku-kabul-etti-962698.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-tim-cooku-kabul-etti-43371737",
+    "CNN Türk: https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-cooku-kabul-etti-3491026",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/09/baskan-erdogan-tim-cooku-kabul-etti",
+    "NTV: https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-apple-yonetim-kurulu-baskani-tim-cooku-kabul-etti-1750158"
+   ]
   }
  ],
  "fails": {
@@ -13539,7 +13535,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119819517983424808",
+   "since_id": "2119825241643827257",
    "started": true
   },
   "ajansmuhbir1923": {
