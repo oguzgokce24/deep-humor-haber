@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "26",
-    "ankar",
-    "aranı",
-    "bulun",
-    "cezas",
-    "firar",
-    "hapis",
-    "hüküm",
-    "yakal",
-    "yıl"
-   ],
-   "tok": [
-    "adam",
-    "adamı",
-    "adana",
-    "adli",
-    "aldığ",
-    "alma",
-    "arana",
-    "aranı",
-    "bulun",
-    "cezas",
-    "ekipl",
-    "firar",
-    "hapis",
-    "hüküm",
-    "imzal",
-    "kaste",
-    "kaçır",
-    "kesin",
-    "kurdu",
-    "lider",
-    "makam",
-    "olayl",
-    "onu",
-    "rehin",
-    "senet",
-    "sevk",
-    "suç",
-    "suçun",
-    "yer",
-    "yerde",
-    "yıl",
-    "yıldı",
-    "zorla",
-    "öldür",
-    "örgüt",
-    "öğren"
-   ],
-   "at": "2026-11-08T06:22:13.342072+00:00"
-  },
-  {
-   "fp": [
     "ahmet",
     "hakan",
     "ifşal",
@@ -10613,20 +10560,78 @@
     "üzeri"
    ],
    "at": "2026-11-09T18:11:07.513731+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "2",
+    "beton",
+    "blokl",
+    "düzce",
+    "feci",
+    "kamyo",
+    "kaza",
+    "rize",
+    "tır",
+    "var",
+    "yaral",
+    "yayal",
+    "çarpt",
+    "ölü"
+   ],
+   "tok": [
+    "arnav",
+    "ağır",
+    "başak",
+    "beton",
+    "birin",
+    "blokl",
+    "cadde",
+    "deki",
+    "durum",
+    "düzce",
+    "feci",
+    "gelen",
+    "geniş",
+    "hadım",
+    "hasta",
+    "hatal",
+    "ileri",
+    "ilgil",
+    "incel",
+    "kaldı",
+    "kamyo",
+    "karşı",
+    "minib",
+    "nde",
+    "neden",
+    "olayl",
+    "oluşt",
+    "rize",
+    "saat",
+    "solla",
+    "sonuc",
+    "sürül",
+    "sıral",
+    "trafi",
+    "tır",
+    "var",
+    "yapan",
+    "yaptı",
+    "yayal",
+    "yolcu",
+    "yoğun",
+    "yönde",
+    "yürüt",
+    "çaplı",
+    "çarpt",
+    "çarpı",
+    "çekic"
+   ],
+   "at": "2026-11-09T18:23:47.139626+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "385d5517f6",
-   "post_id": "529346797199852_1460889706150737",
-   "title": "Donald Trump: UFC Başkanı Dana White'a Beyaz Saray Sözcülüğü görevini teklif ettik. İslam Mahaçev, Habib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nu",
-   "at": "2026-11-07T19:10:00.746847+00:00",
-   "yazim": "claude",
-   "metin": "Donald Trump:\n\n“UFC Başkanı Dana White'a Beyaz Saray Sözcülüğü görevini teklif ettik.”\n\nTrump, White'tan UFC'den birkaç ismi de yardımcı olarak yanına getirmesini istediğini yazdı. Listede İslam Mahaçev, Habib Nurmagomedov, Justin Gaethje, Daniel Cormier, Amanda Nunes ve Kayla Harrison var.",
-   "sources": [
-    "BPT (X): https://x.com/bpthaber/status/2119142343505002737"
-   ]
-  },
   {
    "id": "764c8c845e",
    "post_id": "529346797199852_1460906956149012",
@@ -13168,6 +13173,22 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/suudi-arabistan-dogu-bati-petrol-boru-hattinin-hedef-alinmasi-sonucu-yangin-cikti/4117789",
     "Habertürk: https://www.haberturk.com/dunya/suudi-arabistan-petrol-boru-hatti-hedef-alindi-3926093",
     "BirGün: https://www.birgun.net/haber/suudi-arabistan-dogu-bati-petrol-boru-hatti-nin-hedef-alinmasi-sonucu-yangin-cikti-745492"
+   ]
+  },
+  {
+   "id": "9e3221ce8d",
+   "post_id": "529346797199852_1463163979256643",
+   "title": "Arnavutköy'de feci kaza: Ölü ve yaralılar var",
+   "at": "2026-11-09T18:23:47.139626+00:00",
+   "yazim": "claude",
+   "metin": "Arnavutköy'de çekiciyle çarpışan yolcu minibüsündeki bir kişi hayatını kaybetti, 10 kişi yaralandı.\n\n— Kaza saat 16.00 sıralarında Hadımköy Caddesi'nde oldu. Karşı yönden gelen minibüsün hatalı sollama yaptığı ileri sürülüyor.\n\n— Yaralılardan birinin durumu ağır. Yaralılar Başakşehir ve Arnavutköy'deki hastanelere kaldırıldı.\n\n— Kaza nedeniyle caddede trafik yoğunluğu oluştu. Polis olayla ilgili geniş çaplı bir inceleme yürütüyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/rizede-feci-kaza-kamyonet-tira-ve-yayalara-carpti-1-olu-2-yarali-43372018",
+    "Milliyet: https://www.milliyet.com.tr/gundem/rizede-kamyonet-tira-ve-yayalara-carpti-1-olu-2-yarali-7697631",
+    "Milliyet: https://www.milliyet.com.tr/gundem/duzcede-feci-kaza-beton-bloklara-carpti-olu-ve-yaralilar-var-7697617",
+    "Karar: https://www.karar.com/guncel-haberler/arnavutkoyde-feci-kaza-olu-ve-yaralilar-var-2083221",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/rizede-kamyonet-tira-ve-yayalara-carpti-1-olu-2-yarali-7697631",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/duzcede-feci-kaza-beton-bloklara-carpti-olu-ve-yaralilar-var-7697617"
    ]
   }
  ],
