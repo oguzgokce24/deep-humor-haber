@@ -2,85 +2,6 @@
  "seen": [
   {
    "fp": [
-    "23",
-    "367",
-    "ilde",
-    "opera",
-    "siber",
-    "suç",
-    "tutuk",
-    "yakal",
-    "şüphe"
-   ],
-   "tok": [
-    "adli",
-    "ait",
-    "alınd",
-    "ayrıc",
-    "bahis",
-    "banka",
-    "başsa",
-    "belir",
-    "birli",
-    "bulun",
-    "daire",
-    "darbe",
-    "diğer",
-    "dolan",
-    "duyur",
-    "düzen",
-    "düşük",
-    "dışı",
-    "emniy",
-    "erişi",
-    "faizl",
-    "görün",
-    "günde",
-    "hedef",
-    "hesap",
-    "insan",
-    "içi",
-    "içişl",
-    "işlem",
-    "kapor",
-    "kapsa",
-    "kontr",
-    "kredi",
-    "masak",
-    "medya",
-    "mobil",
-    "mücad",
-    "müste",
-    "oltal",
-    "otomo",
-    "oyun",
-    "satıl",
-    "sağla",
-    "siber",
-    "sitel",
-    "sosya",
-    "suç",
-    "suçla",
-    "suçlu",
-    "sürüy",
-    "taciz",
-    "uygul",
-    "vaatl",
-    "var",
-    "vatan",
-    "yasa",
-    "yetki",
-    "yönel",
-    "çalış",
-    "çevri",
-    "çocuk",
-    "örgüt",
-    "üzeri"
-   ],
-   "at": "2026-11-09T10:54:06.266483+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "cop31",
     "den",
@@ -11074,22 +10995,65 @@
     "şöyle"
    ],
    "at": "2026-11-10T22:45:32.618657+00:00"
+  },
+  {
+   "fp": [
+    "alkol",
+    "sigar",
+    "zam"
+   ],
+   "tok": [
+    "alkol",
+    "aralı",
+    "arası",
+    "artış",
+    "ayınd",
+    "ağust",
+    "bayil",
+    "bekle",
+    "bira",
+    "birço",
+    "bitme",
+    "büyük",
+    "derne",
+    "dünda",
+    "erol",
+    "fiyat",
+    "geliy",
+    "günle",
+    "ila",
+    "itiba",
+    "içece",
+    "içkil",
+    "kesin",
+    "marka",
+    "olmas",
+    "paket",
+    "perak",
+    "peş",
+    "peşe",
+    "rakı",
+    "sigar",
+    "tekel",
+    "viski",
+    "votka",
+    "yansı",
+    "yaptı",
+    "yardı",
+    "yükse",
+    "yüzde",
+    "yıl",
+    "zam",
+    "zamla",
+    "çıkmı",
+    "önümü",
+    "üreti",
+    "ürünl"
+   ],
+   "at": "2026-11-10T22:58:07.476960+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2b05712816",
-   "post_id": "529346797199852_1462181239354917",
-   "title": "T.C. TURGUTLU 1. ASLİYE HUKUK MAHKEMESİ",
-   "at": "2026-11-08T22:53:32.816976+00:00",
-   "yazim": "claude",
-   "metin": "Manisa'nın Turgutlu ilçesindeki bir arazi için tapusuz tescil davası açıldı. Davacılar, taşınmazın kendi adlarına tescilini istiyor.\n\n— Dava, Dalbahçe mahallesindeki 264 ada 1 parseli ilgilendiriyor. Taşınmazın yüzölçümü yaklaşık 1712,37 metrekare.\n— Davacılar üç kişi, karşı taraf ise Turgutlu Maliye Hazinesi.\n— Mahkeme, taşınmazda hak iddia edenlerin 3 ay içinde itiraz davası açabileceğini ya da 2026/149 esas sayılı dosyaya itiraz edebileceğini duyurdu.\n— Süre içinde itiraz gelmez ve iddialar ispatlanırsa mahkeme tescile karar verebilecek.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/resmi-ilanlar/ergani-2-asliye-hukuk-mahkemesi-3490512",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-turgutlu-1-asliye-hukuk-mahkemesi-2554536",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/resmi-ilanlar/kirsehir-4-asliye-hukuk-mahkemesi-43370465"
-   ]
-  },
   {
    "id": "4a4050b0fe",
    "post_id": "529346797199852_1462187999354241",
@@ -13661,6 +13625,18 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/almanya-vize-kolayligi-ne-zaman-basliyor-turk-is-insanlarina-schengen-2083475"
    ]
+  },
+  {
+   "id": "cf15cc859c",
+   "post_id": "529346797199852_1464589202447454",
+   "title": "Sigara ve alkole büyük zam geliyor",
+   "at": "2026-11-10T22:58:07.476960+00:00",
+   "yazim": "claude",
+   "metin": "Sigara ve alkollü içkilere yeni zam bekleniyor; sigara paketine 5 ila 10 TL, alkollü içeceklere yüzde 10 ila 15 arasında artış geliyor.\n\n— Ağustos ayında büyük üreticilerin peş peşe yaptığı zamlarla birçok sigara markasının fiyatı 110 ile 140 TL arasına çıkmıştı.\n\n— Tekel Bayileri Yardımlaşma Derneği Başkanı Erol Dündar, zamların önümüzdeki günlerde paketlere yansımasını beklediklerini söyledi. Kesin fiyatların 1 Aralık itibarıyla belli olması bekleniyor.\n\n— Alkollü içeceklerde bira, rakı, viski ve votka gibi ürünlerin perakende fiyatları da yükselecek.",
+   "sources": [
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/sigara-ve-alkole-buyuk-zam-geliyor-p380092",
+    "BPT (X): https://x.com/bpthaber/status/2120288936857854223"
+   ]
   }
  ],
  "fails": {
@@ -13904,7 +13880,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120281547081216059",
+   "since_id": "2120288936857854223",
    "started": true
   },
   "ajansmuhbir1923": {
