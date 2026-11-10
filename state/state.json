@@ -2,31 +2,6 @@
  "seen": [
   {
    "fp": [
-    "cevad",
-    "efsan",
-    "galat",
-    "hayat",
-    "kaybe",
-    "preka"
-   ],
-   "tok": [
-    "anıla",
-    "bilin",
-    "biri",
-    "cevad",
-    "efsan",
-    "futbo",
-    "galat",
-    "isiml",
-    "ismi",
-    "preka",
-    "tarih",
-    "yaşın"
-   ],
-   "at": "2026-11-08T20:35:31.467467+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "forma",
     "güven",
@@ -10762,20 +10737,85 @@
     "şimdi"
    ],
    "at": "2026-11-10T08:32:12.758310+00:00"
+  },
+  {
+   "fp": [
+    "arıyo",
+    "etmek",
+    "finan",
+    "gün",
+    "ikna",
+    "iran",
+    "netan",
+    "saldı",
+    "times",
+    "trump"
+   ],
+   "tok": [
+    "abd",
+    "aktar",
+    "araya",
+    "arıyo",
+    "asker",
+    "baskı",
+    "başba",
+    "başla",
+    "belir",
+    "beyaz",
+    "bilen",
+    "bilgi",
+    "binya",
+    "bitec",
+    "donal",
+    "etmek",
+    "finan",
+    "gazet",
+    "genel",
+    "gerek",
+    "gitti",
+    "göre",
+    "görüş",
+    "gün",
+    "güven",
+    "haber",
+    "harek",
+    "hayal",
+    "ikna",
+    "iran",
+    "ise",
+    "isims",
+    "israi",
+    "iyi",
+    "kayna",
+    "konse",
+    "netan",
+    "nitel",
+    "nun",
+    "olmad",
+    "rızai",
+    "saray",
+    "sekre",
+    "sundu",
+    "sürec",
+    "telef",
+    "times",
+    "trump",
+    "ulusa",
+    "umduğ",
+    "washi",
+    "yakın",
+    "yaptı",
+    "yapıy",
+    "yazdı",
+    "yle",
+    "yönün",
+    "yükse",
+    "şart"
+   ],
+   "at": "2026-11-10T08:44:53.726023+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8cb55bf3d3",
-   "post_id": "529346797199852_1461509562755418",
-   "title": "Bolu'da 7 araç birbirine girdi: Zincirleme kazada yola inen yayaya otomobil çarptı",
-   "at": "2026-11-08T08:52:13.658265+00:00",
-   "yazim": "claude",
-   "metin": "Bolu'da Anadolu Otoyolu'nda 7 aracın karıştığı zincirleme kazada 6 kişi yaralandı.\n\n— Kaza dün akşam Köroğlu Rampası'nda, kayganlaşan yolda yaşandı.\n— İlk çarpışmanın ardından yola inen bir yayaya otomobil çarptı.\n— Bir tır sürücüsünün cep telefonuyla çektiği görüntülerde, yayanın çarpılma anı yer alıyor.\n— Yaralılar Abant İzzet Baysal Üniversitesi Hastanesi'ne kaldırıldı ve tedavileri sürüyor.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/boluda-7-arac-birbirine-girdi-zincirleme-kazada-yola-inen-yayaya-2082957"
-   ]
-  },
   {
    "id": "3de430f6e5",
    "post_id": "529346797199852_1461518406087867",
@@ -13332,6 +13372,20 @@
     "BirGün: https://www.birgun.net/haber/akaryakitta-tabela-degisiyor-benzin-ve-motorine-indirim-gundemde-745563",
     "Karar: https://www.karar.com/ekonomi-haberleri/benzin-ve-motorine-dev-indirim-persembe-ve-cumartesi-tabelaya-2083307"
    ]
+  },
+  {
+   "id": "fc64e4244e",
+   "post_id": "529346797199852_1463832559189785",
+   "title": "Financial Times: Netanyahu, Trump'ı ikna etmek için her gün arıyor",
+   "at": "2026-11-10T08:44:53.726023+00:00",
+   "yazim": "claude",
+   "metin": "Financial Times'ın haberine göre İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump'ı her gün arayarak İran'a yeni saldırı başlatması için baskı yapıyor.\n\n— Bu bilgi, gazetenin görüşmeleri bilen isimsiz bir kaynağından aktarılıyor.\n\n— Trump ise Beyaz Saray'da İran'la görüşmelerin iyi gittiğini, sürecin yakında biteceğini umduğunu ve yeni bir askeri harekata gerek olmadığını söyledi.\n\n— İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Rızai ise ABD'yle görüşmeleri \"hayali\" olarak nitelendirdi ve Washington'a yedi şart sundu.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/financial-times-netanyahu-irana-yeni-saldirilar-baslatmaya-ikna-etmek-icin-trumpi-her-gun-ariyor-962775.html",
+    "Habertürk: https://www.haberturk.com/dunya/ft-yazdi-netanyahu-trump-i-her-gun-ariyor-3926204",
+    "BirGün: https://www.birgun.net/haber/financial-times-netanyahu-trump-i-ikna-etmek-icin-her-gun-ariyor-745574",
+    "Diken: https://www.diken.com.tr/ft-netanyahu-irana-yeni-saldiri-icin-her-gun-trumpi-ariyor/?utm_source=rss&utm_medium=rss&utm_campaign=ft-netanyahu-irana-yeni-saldiri-icin-her-gun-trumpi-ariyor"
+   ]
   }
  ],
  "fails": {
@@ -13560,7 +13614,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120070310057886123",
+   "since_id": "2120075080017297568",
    "started": true
   },
   "ajansmuhbir1923": {
