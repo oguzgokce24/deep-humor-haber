@@ -10725,6 +10725,75 @@
     "şat"
    ],
    "at": "2026-11-10T04:59:05.186637+00:00"
+  },
+  {
+   "fp": [
+    "06",
+    "09",
+    "atatü",
+    "ettiğ",
+    "fatma",
+    "göste",
+    "mücad",
+    "nasıl",
+    "saygı",
+    "türki",
+    "çelik"
+   ],
+   "tok": [
+    "appea",
+    "atatü",
+    "aşma",
+    "bırak",
+    "diken",
+    "düzey",
+    "ettiğ",
+    "fatma",
+    "göste",
+    "iddia",
+    "miras",
+    "mücad",
+    "nasıl",
+    "post",
+    "saygı",
+    "the",
+    "toplu",
+    "uygar",
+    "çağda",
+    "çelik"
+   ],
+   "at": "2026-11-10T05:02:34.550643+00:00"
+  },
+  {
+   "fp": [
+    "bunun",
+    "neres",
+    "oyan",
+    "oğuz",
+    "peki",
+    "serma",
+    "çevre"
+   ],
+   "tok": [
+    "appea",
+    "bunun",
+    "diken",
+    "first",
+    "linka",
+    "neres",
+    "ortay",
+    "oyan",
+    "oğuz",
+    "peki",
+    "post",
+    "serma",
+    "site",
+    "the",
+    "çevre",
+    "çıkac",
+    "ölçüd"
+   ],
+   "at": "2026-11-10T05:02:39.127025+00:00"
   }
  ],
  "posted": [
@@ -13460,19 +13529,9 @@
   "0842ac5b45": 1,
   "b00a878c40": 1,
   "910ccf128a": 1,
-  "3aabbd38a3": 2,
-  "cc63b3e0a2": 2
+  "2c9dadb5af": 1
  },
  "fail_log": [
-  "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
-  "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
-  "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T02:05 SOL Partili Kemal Koç'a verilen ceza kesinleşti: \"Depremzede -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T02:56 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
-  "2026-11-10T02:56 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
-  "2026-11-10T02:56 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
-  "2026-11-10T02:56 Facia göz göre göre geldi: HABAŞ fabrikası işçi mezarlığına  -> ValueError: yanıt okunamadı",
-  "2026-11-10T03:21 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
   "2026-11-10T03:21 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
   "2026-11-10T03:21 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
   "2026-11-10T03:34 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
@@ -13503,12 +13562,21 @@
   "2026-11-10T04:59 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı"
+  "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2119923140277231901",
+   "since_id": "2120018780487290981",
    "started": true
   },
   "ajansmuhbir1923": {
