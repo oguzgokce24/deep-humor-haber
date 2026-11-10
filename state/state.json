@@ -2,81 +2,6 @@
  "seen": [
   {
    "fp": [
-    "fayda",
-    "goncu",
-    "kazan",
-    "roman",
-    "yapay",
-    "yazar",
-    "zekad"
-   ],
-   "tok": [
-    "akade",
-    "appe",
-    "ardın",
-    "bazı",
-    "başvu",
-    "birin",
-    "chatg",
-    "cümle",
-    "davra",
-    "diken",
-    "düşün",
-    "edebi",
-    "fayda",
-    "franc",
-    "frans",
-    "geldi",
-    "geçil",
-    "gonco",
-    "goncu",
-    "göste",
-    "hoşgö",
-    "itira",
-    "jaena",
-    "kazan",
-    "kez",
-    "kitab",
-    "koydu",
-    "kulla",
-    "lien",
-    "liste",
-    "lyson",
-    "medya",
-    "mouri",
-    "nin",
-    "nın",
-    "okuru",
-    "oynam",
-    "phili",
-    "post",
-    "prest",
-    "prix",
-    "radyo",
-    "roman",
-    "savun",
-    "sosya",
-    "tait",
-    "the",
-    "uzun",
-    "yapay",
-    "yarar",
-    "yazar",
-    "yazdı",
-    "yokmu",
-    "zeka",
-    "zekad",
-    "zekan",
-    "zekay",
-    "çıkar",
-    "ödülü",
-    "önüne",
-    "ınter"
-   ],
-   "at": "2026-11-08T15:51:25.447865+00:00"
-  },
-  {
-   "fp": [
     "firma",
     "galat",
     "iddia",
@@ -10740,20 +10665,84 @@
     "şevki"
    ],
    "at": "2026-11-10T03:46:48.569678+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "bütçe",
+    "geçen",
+    "görüş",
+    "hakar",
+    "imamo",
+    "kavga",
+    "salon",
+    "terk",
+    "vekil",
+    "yağdı"
+   ],
+   "tok": [
+    "ahmet",
+    "akp",
+    "aralı",
+    "arası",
+    "ardın",
+    "ayağa",
+    "ayrıl",
+    "bakır",
+    "bazıl",
+    "bilin",
+    "bütçe",
+    "büyüy",
+    "chp",
+    "den",
+    "ekrem",
+    "erdoğ",
+    "etmiş",
+    "geçen",
+    "girdi",
+    "görüş",
+    "hakar",
+    "hasan",
+    "ifade",
+    "imamo",
+    "istif",
+    "kalkı",
+    "katıl",
+    "kavga",
+    "kemal",
+    "komis",
+    "kulla",
+    "köpeğ",
+    "kılıç",
+    "manis",
+    "mecli",
+    "mersi",
+    "mille",
+    "nun",
+    "ocak",
+    "ortas",
+    "parti",
+    "rozet",
+    "salon",
+    "siyas",
+    "taktı",
+    "taraf",
+    "tartı",
+    "teki",
+    "terk",
+    "topla",
+    "ufuk",
+    "vehbi",
+    "vekil",
+    "yakın",
+    "yapıy",
+    "yağdı",
+    "çakır"
+   ],
+   "at": "2026-11-10T03:58:12.244107+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d54d618e4b",
-   "post_id": "529346797199852_1461330739439967",
-   "title": "Bursa'da 5 katlı binada yangın: 1 kişi dumandan etkilenerek hastaneye kaldırıldı",
-   "at": "2026-11-08T04:54:32.330312+00:00",
-   "yazim": "claude",
-   "metin": "Bursa'nın Osmangazi ilçesinde 5 katlı binanın çatı katında çıkan yangında 1 kişi dumandan etkilenerek hastaneye kaldırıldı.\n\nYangın saat 04.30 sıralarında Küplüpınar Mahallesi'ndeki binada çıktı ve kısa sürede büyüdü.\n\n— Yangının elektrik panosundan çıktığı öne sürüldü.\n— İtfaiye ekipleri müdahale ederek yangını kontrol altına aldı ve söndürdü.\n— Olay yerinde ilk müdahalenin ardından yaralı ambulansla hastaneye götürüldü.\n— Yangının çıkış nedeni için inceleme başlatıldı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bursa-da-5-katli-binada-yangin-1-kisi-dumandan-etkilenerek-hastaneye-kaldirildi-2554320"
-   ]
-  },
   {
    "id": "3003184534",
    "post_id": "529346797199852_1461343216105386",
@@ -13294,6 +13283,17 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6008741/misir-daki-tren-kazasinda-ihmal-tespit-edildi-3-demir-yolu-personeli-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "5c1cce2cf5",
+   "post_id": "529346797199852_1463579409215100",
+   "title": "Bütçe görüşmelerinde 'İmamoğlu' kavgası! AKP'ye geçen vekil hakaretler yağdırıp salonu terk etti",
+   "at": "2026-11-10T03:58:12.244107+00:00",
+   "yazim": "claude",
+   "metin": "Bütçe görüşmelerinde AKP'ye geçen milletvekili Hasan Ufuk Çakır, \"Ekrem İmamoğlu'nun köpeği\" ifadesini kullandı ve ardından komisyondan ayrıldı.\n\n— Tartışma büyüyünce milletvekilleri ayağa kalkıp salonun ortasında toplandı, bazıları taraflar arasına girdi.\n— Çakır, daha önce CHP'de siyaset yapıyordu ve Kemal Kılıçdaroğlu'na yakınlığıyla biliniyordu.\n— Çakır, 9 Aralık 2025'te CHP'den istifa etmişti. 7 Ocak 2026'da Cumhurbaşkanı Erdoğan'ın taktığı rozetle AKP'ye katılmıştı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/butce-gorusmelerinde-imamoglu-kavgasi-p379639"
+   ]
   }
  ],
  "fails": {
@@ -13470,10 +13470,10 @@
   "b0f77ccd27": 1,
   "f94c3a8ce3": 3,
   "25b129ca25": 2,
-  "0842ac5b45": 1
+  "0842ac5b45": 1,
+  "b00a878c40": 1
  },
  "fail_log": [
-  "2026-11-09T21:01 “Tek bir dileğim var. Ben öldükten sonra beni millete unuttu -> ValueError: yanıt okunamadı",
   "2026-11-09T21:01 “Tek bir dileğim var. Ben öldükten sonra beni millete unuttu -> ValueError: yanıt okunamadı",
   "2026-11-09T21:26 Beşiktaş: “İmzanı attığın Cumhuriyetin ilelebet bekçisiyiz.” -> ValueError: yanıt okunamadı",
   "2026-11-09T21:26 Beşiktaş: “İmzanı attığın Cumhuriyetin ilelebet bekçisiyiz.” -> ValueError: yanıt okunamadı",
@@ -13512,7 +13512,8 @@
   "2026-11-10T03:21 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
   "2026-11-10T03:34 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
   "2026-11-10T03:34 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
-  "2026-11-10T03:34 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı"
+  "2026-11-10T03:34 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
+  "2026-11-10T03:58 Bu sözleri ilk kez duyuldu! Gazi’nin Fransızca konuşması yay -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
