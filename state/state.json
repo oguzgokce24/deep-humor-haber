@@ -2,44 +2,6 @@
  "seen": [
   {
    "fp": [
-    "büyük",
-    "görül",
-    "samur"
-   ],
-   "tok": [
-    "altın",
-    "anlar",
-    "ardın",
-    "botla",
-    "bulun",
-    "büyük",
-    "cep",
-    "deniz",
-    "görül",
-    "görün",
-    "hayva",
-    "kayde",
-    "kıyıd",
-    "mimar",
-    "nde",
-    "nesli",
-    "sahil",
-    "samur",
-    "sinan",
-    "süre",
-    "tehli",
-    "telef",
-    "tüken",
-    "tırma",
-    "vatan",
-    "yakın",
-    "yüzdü",
-    "çıktı"
-   ],
-   "at": "2026-11-08T23:18:44.668004+00:00"
-  },
-  {
-   "fp": [
     "2",
     "muğla",
     "turis",
@@ -10767,21 +10729,103 @@
     "şık"
    ],
    "at": "2026-11-10T11:07:52.181406+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "11",
+    "2",
+    "48",
+    "70",
+    "bulga",
+    "karış",
+    "kaza",
+    "kazas",
+    "kişi",
+    "korku",
+    "otomo",
+    "trafi",
+    "yakla",
+    "yaral",
+    "zinci",
+    "ölü"
+   ],
+   "tok": [
+    "altın",
+    "arası",
+    "ayrı",
+    "ağır",
+    "bazı",
+    "bildi",
+    "birbi",
+    "biri",
+    "bulga",
+    "dahil",
+    "den",
+    "dron",
+    "düştü",
+    "ekipl",
+    "ezile",
+    "fazla",
+    "geldi",
+    "girdi",
+    "görgü",
+    "görün",
+    "görüş",
+    "güney",
+    "kalac",
+    "kalan",
+    "kaldı",
+    "kamyo",
+    "kapal",
+    "kapat",
+    "karış",
+    "kazal",
+    "kazas",
+    "kesme",
+    "kişil",
+    "korku",
+    "koyuy",
+    "kurta",
+    "kısım",
+    "mahsu",
+    "mesaf",
+    "metal",
+    "metre",
+    "meyda",
+    "nda",
+    "neden",
+    "olanl",
+    "ortay",
+    "otomo",
+    "otoyo",
+    "sabah",
+    "salı",
+    "sis",
+    "süre",
+    "sıkış",
+    "tanke",
+    "tanık",
+    "trafi",
+    "traky",
+    "vasıt",
+    "yakla",
+    "yakın",
+    "yambo",
+    "yaşan",
+    "yolun",
+    "yoğun",
+    "yönde",
+    "yüzün",
+    "zinci",
+    "zorun",
+    "çekil",
+    "çıkar"
+   ],
+   "at": "2026-11-10T11:20:22.541924+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "599ded0968",
-   "post_id": "529346797199852_1461629546076753",
-   "title": "1 kişi ölmüştü: Niğde'deki silahlı kavgada 2 kişi gözaltında",
-   "at": "2026-11-08T11:22:27.027093+00:00",
-   "yazim": "claude",
-   "metin": "Niğde'nin Kiledere köyünde dün akşam tartışma pompalı tüfekle çıkan silahlı kavgaya dönüştü, bir kişi hayatını kaybetti.\n\n— Tartışmanın büyümesi üzerine şüpheli M.Ö., pompalı tüfekle iki kişiye ateş açtı.\n— Olay, cep telefonu kamerasına da yansıdı.\n— Yaralılardan biri hastanede kurtarılamadı, diğerinin tedavisi sürüyor.\n— M.Ö. ile ağabeyi H.Ö. olay yerinden kaçtı, jandarma ekipleri tarafından yakalanıp gözaltına alındı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/nigde/merkez/nigdede-1-kisinin-oldugu-silahli-kavgada-2-gozalti-3490534",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/1-kisi-olmustu-nigde-deki-silahli-kavgada-2-kisi-gozaltinda-2554401"
-   ]
-  },
   {
    "id": "1ee82c489a",
    "post_id": "529346797199852_1461638466075861",
@@ -13341,6 +13385,22 @@
     "Diken: https://www.diken.com.tr/ahmet-sikin-esi-yonca-sik-gozaltina-alindi/?utm_source=rss&utm_medium=rss&utm_campaign=ahmet-sikin-esi-yonca-sik-gozaltina-alindi",
     "Serbestiyet: https://serbestiyet.com/haberler/ahmet-sikin-esi-yonca-verdioglu-sik-gozaltina-alindi-253322/"
    ]
+  },
+  {
+   "id": "a4c962d1b4",
+   "post_id": "529346797199852_1463966659176375",
+   "title": "Bulgaristan'da zincirleme trafik kazası: En az 11 ölü, 48 yaralı",
+   "at": "2026-11-10T11:20:22.541924+00:00",
+   "yazim": "claude",
+   "metin": "Bulgaristan'ın güneydoğusunda sis yüzünden yaşanan zincirleme kazalarda en az 11 kişi hayatını kaybetti, 48 kişi yaralandı.\n\n— Kazalara 50'den fazla otomobil ve ağır vasıta karıştı. Kazalar Trakya Otoyolu'nda, Yambol yakınlarında salı sabahı meydana geldi.\n— Görgü tanıklarından biri görüş mesafesinin yaklaşık 30 metreye düştüğünü söyledi.\n— Tanker kamyonlarında olanlar dahil bazı kişilerin araçlarda sıkıştığı bildirildi. Kurtarma ekipleri, mahsur kalanları çıkarmak için araçların metal kısımlarını kesmek zorunda kaldı.\n— Otoyol iki yönde de trafiğe kapatıldı ve yolun bir süre daha kapalı kalacağı açıklandı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/bulgaristanda-yaklasik-70-aracin-karistigi-zincirleme-trafik-kazalarinda-10-kisi-hayatini-kaybetti/4118689",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/bulgaristanda-yaklasik-70-aracin-karistigi-iki-zincirleme-trafik-kazasinda-en-az-10-kisi-oldu-962801.html",
+    "Euronews: https://tr.euronews.com/2026/11/10/bulgaristanda-zincirleme-trafik-kazasi-en-az-11-olu-48-yarali",
+    "Milliyet: https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanda-korkunc-zincirleme-kaza-11-olu-48-yarali-7698118",
+    "BirGün: https://www.birgun.net/haber/bulgaristan-da-iki-ayri-zincirleme-kaza-70-arac-birbirine-girdi-745631",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanda-korkunc-zincirleme-kaza-11-olu-48-yarali-7698118"
+   ]
   }
  ],
  "fails": {
@@ -13570,7 +13630,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120109278748938749",
+   "since_id": "2120113156496195883",
    "started": true
   },
   "ajansmuhbir1923": {
