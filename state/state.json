@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "4",
-    "adıya",
-    "aile",
-    "arası",
-    "gözal",
-    "kavga"
-   ],
-   "tok": [
-    "adıya",
-    "aile",
-    "alınd",
-    "arası",
-    "başla",
-    "bilin",
-    "dönüş",
-    "edere",
-    "ekipl",
-    "giden",
-    "henüz",
-    "ihbar",
-    "ilgil",
-    "kavga",
-    "kayal",
-    "komşu",
-    "kısa",
-    "mahal",
-    "müdah",
-    "nde",
-    "neden",
-    "olay",
-    "olayl",
-    "sonla",
-    "suriy",
-    "süred",
-    "tartı",
-    "uyruk",
-    "yerin",
-    "çıkan"
-   ],
-   "at": "2026-11-09T06:19:55.408846+00:00"
-  },
-  {
-   "fp": [
     "aylık",
     "betül",
     "birik",
@@ -10801,21 +10757,75 @@
     "şerit"
    ],
    "at": "2026-11-10T18:08:32.339954+00:00"
+  },
+  {
+   "fp": [
+    "açlık",
+    "demok",
+    "düzen",
+    "emek",
+    "güçle",
+    "rejim",
+    "saray",
+    "sefal",
+    "ölüm"
+   ],
+   "tok": [
+    "akp",
+    "aliağ",
+    "alınm",
+    "açan",
+    "açlık",
+    "basın",
+    "başta",
+    "belir",
+    "cinay",
+    "demir",
+    "demok",
+    "dönem",
+    "düzen",
+    "emek",
+    "eylem",
+    "fabri",
+    "gelen",
+    "göste",
+    "güçle",
+    "habaş",
+    "ilçes",
+    "ise",
+    "izmir",
+    "işçin",
+    "karşı",
+    "meyda",
+    "nda",
+    "okudu",
+    "olaya",
+    "olmak",
+    "patla",
+    "patro",
+    "pek",
+    "prote",
+    "rejim",
+    "saray",
+    "sefal",
+    "sorum",
+    "tepki",
+    "topla",
+    "vurgu",
+    "yargı",
+    "yaşan",
+    "yol",
+    "yılın",
+    "çelik",
+    "ölüm",
+    "ölümü",
+    "önlem",
+    "üzere"
+   ],
+   "at": "2026-11-10T18:21:16.868724+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b5c07c97fc",
-   "post_id": "529346797199852_1462004209372620",
-   "title": "İran'dan ABD'ye çağrı: 'Savaşı seçerseniz üzerinize cehennemi yağdırırız'",
-   "at": "2026-11-08T18:21:41.674957+00:00",
-   "yazim": "claude",
-   "metin": "İran Dışişleri Bakanı Abbas Arakçi:\n\n“Amerikalı seçmenler tercihlerini yaptı. Şimdi Beyaz Saray'ın kendi tercihini yapma zamanı.”\n\n“Ya da savaşı seçin ve tetikte bekleyen, savaş deneyimi kazanmış güçlerimizin üzerinize cehennemi yağdırdığını görün.”\n\n— Arakçi bu sözleri ABD'deki 3 Kasım ara seçimlerinin ardından paylaştı.\n— Tahran, Katar'ın arabuluculuğundaki görüşmelerde yedi günlük barış planını iki güne indirmeyi önermişti.\n— Plana göre ilk gün ABD bazı adımlar atacak, ikinci gün İran Hürmüz Boğazı'nı ticari gemilere yeniden açacak.\n— Taraflar yaptırımlar, deniz ablukası ve İran'ın nükleer programı konusunda henüz uzlaşamadı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/iran-dan-abd-ye-cagri-savasi-secerseniz-uzerinize-cehennemi-yagdiririz-2554506",
-    "Karar: https://www.karar.com/dunya-haberleri/irandan-trumpa-sert-uyari-ya-savasi-bitirin-ya-da-cehennemi-yasarsiniz-2083015"
-   ]
-  },
   {
    "id": "499c42ccc4",
    "post_id": "529346797199852_1462020536037654",
@@ -13389,6 +13399,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ibb-duyurdu-kadikoy-de-d-100-edirne-istikameti-2-gece-trafige-kapatilacak-2555107",
     "Karar: https://www.karar.com/guncel-haberler/kadikoyde-d-100-edirne-istikameti-trafige-kapatiliyor-2083450"
    ]
+  },
+  {
+   "id": "7a3100b778",
+   "post_id": "529346797199852_1464376429135398",
+   "title": "Emek ve Demokrasi Güçleri: Saray rejiminin açlık, sefalet, ölüm düzenine son",
+   "at": "2026-11-10T18:21:16.868724+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası'nda 18 işçinin ölümüne yol açan olaya karşı Emek ve Demokrasi Güçleri pek çok ilde eylem yaptı ve basın açıklaması okudu.\n\n— Açıklamalarda 2026 yılında 1.752 işçinin iş cinayetlerinde hayatını kaybettiği belirtildi.\n— AKP döneminde ise toplam 38.232 iş cinayeti yaşandığı vurgulandı.\n— Protestocular, iş cinayetlerine karşı önlem alınmamasına ve başta patronlar olmak üzere sorumluların yargılanmamasına tepki gösterdi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008871/emek-ve-demokrasi-gucleri-saray-rejiminin-aclik-sefalet-olum-duzenine-son?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13577,15 +13598,11 @@
   "a1f354f073": 1,
   "f78bf74b20": 1,
   "31407ab3fa": 1,
-  "d1d4f1c2f7": 1
+  "d1d4f1c2f7": 1,
+  "c332295b4a": 1,
+  "558b280cac": 1
  },
  "fail_log": [
-  "2026-11-10T05:06 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:06 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:06 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:06 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:09 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:09 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
@@ -13619,7 +13636,13 @@
   "2026-11-10T12:53 Prof. Dr. Özer Güzel'den böbrek taşı uyarısı: Ateş ve tıkanı -> ValueError: yanıt okunamadı",
   "2026-11-10T12:53 Prof. Dr. Özer Güzel'den böbrek taşı uyarısı: Ateş ve tıkanı -> ValueError: yanıt okunamadı",
   "2026-11-10T12:53 Prof. Dr. Özer Güzel'den böbrek taşı uyarısı: Ateş ve tıkanı -> ValueError: yanıt okunamadı",
-  "2026-11-10T15:10 Aylin Kotil sessizliğini bozdu... \"Yanlış evlilik\" çıkışı gü -> ValueError: cümle yarım kalmış: 'yım, ben suçsuzum ve ben bunu ortaya ko”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-10T15:10 Aylin Kotil sessizliğini bozdu... \"Yanlış evlilik\" çıkışı gü -> ValueError: cümle yarım kalmış: 'yım, ben suçsuzum ve ben bunu ortaya ko”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T18:21 Tarık Çelenk ile Sağduyu (121): Kentli dergahlara ne oldu? | -> ValueError: yanıt okunamadı",
+  "2026-11-10T18:21 Tarık Çelenk ile Sağduyu (121): Kentli dergahlara ne oldu? | -> ValueError: yanıt okunamadı",
+  "2026-11-10T18:21 Tarık Çelenk ile Sağduyu (121): Kentli dergahlara ne oldu? | -> ValueError: yanıt okunamadı",
+  "2026-11-10T18:21 Atıf Ünaldı ile Netizen (419): Telefonunuza tıklamadan sızab -> ValueError: yanıt okunamadı",
+  "2026-11-10T18:21 Atıf Ünaldı ile Netizen (419): Telefonunuza tıklamadan sızab -> ValueError: yanıt okunamadı",
+  "2026-11-10T18:21 Atıf Ünaldı ile Netizen (419): Telefonunuza tıklamadan sızab -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
