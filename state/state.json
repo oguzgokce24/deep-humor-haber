@@ -2,71 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "2",
-    "ara",
-    "engel",
-    "eğiti",
-    "gün",
-    "ilçes",
-    "kar",
-    "taşım",
-    "trabz",
-    "veril"
-   ],
-   "tok": [
-    "ara",
-    "ardın",
-    "bazı",
-    "buzla",
-    "dahil",
-    "durdu",
-    "engel",
-    "erciş",
-    "etkil",
-    "etkis",
-    "eğiti",
-    "göste",
-    "gün",
-    "günlü",
-    "gürpı",
-    "hava",
-    "ilin",
-    "ilçed",
-    "ilçel",
-    "ilçes",
-    "ipeky",
-    "kar",
-    "kayma",
-    "koşul",
-    "meteo",
-    "mevsi",
-    "murad",
-    "neden",
-    "nin",
-    "okull",
-    "olums",
-    "tatil",
-    "taşım",
-    "tonya",
-    "topla",
-    "trabz",
-    "tuşba",
-    "uyarı",
-    "van",
-    "veril",
-    "yapıl",
-    "yarın",
-    "yağış",
-    "yaşam",
-    "yoğun",
-    "çaldı",
-    "şalpa"
-   ],
-   "at": "2026-11-08T21:51:28.624184+00:00"
-  },
-  {
-   "fp": [
     "32",
     "49",
     "devle",
@@ -10896,22 +10831,72 @@
     "çıkac"
    ],
    "at": "2026-11-10T09:46:08.683896+00:00"
+  },
+  {
+   "fp": [
+    "cezas",
+    "hakim",
+    "istin",
+    "kadın",
+    "karar",
+    "savcı"
+   ],
+   "tok": [
+    "adliy",
+    "artır",
+    "aya",
+    "aydan",
+    "aylık",
+    "ayrı",
+    "buldu",
+    "bölge",
+    "ceza",
+    "cezal",
+    "cezas",
+    "daire",
+    "davas",
+    "değer",
+    "gün",
+    "hakim",
+    "hakkı",
+    "hapis",
+    "istin",
+    "kadın",
+    "karşı",
+    "kaste",
+    "kasığ",
+    "kılıç",
+    "muham",
+    "nitel",
+    "olay",
+    "olmad",
+    "sanığ",
+    "savcı",
+    "silah",
+    "suçla",
+    "suçun",
+    "takip",
+    "tartı",
+    "tehdi",
+    "tehli",
+    "teşeb",
+    "topla",
+    "veril",
+    "vuran",
+    "vurma",
+    "yaşan",
+    "yenid",
+    "yerel",
+    "yıl",
+    "çağat",
+    "çıkar",
+    "öldür",
+    "ısrar"
+   ],
+   "at": "2026-11-10T09:58:58.093911+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b092ab57a6",
-   "post_id": "529346797199852_1461565209416520",
-   "title": "İstanbul'da kuyumcuya 2 ay sonra ikinci saldırı: 15 dakikada yakalandı!",
-   "at": "2026-11-08T10:07:24.956751+00:00",
-   "yazim": "claude",
-   "metin": "Kağıthane'de bir kuyumcuya müşterilerin olduğu sırada silahlı saldırı düzenlendi, 57 yaşındaki bir adam sırtından yaralandı.\n\n— Olay 5 Kasım Perşembe günü saat 14.30 sıralarında Çağlayan Mahallesi'ndeki kuyumcuda yaşandı. Yaralı adam hastaneye kaldırıldı, hayati tehlikesinin olmadığı öğrenildi.\n— Polis, kaçan kapüşonlu şüpheliyi saldırıdan yaklaşık 15 dakika sonra yakaladı. 15 yaşındaki şüphelinin ilk ifadesinde saldırıyı kendisinin gerçekleştirdiğini söylediği öğrenildi.\n— Şüphelinin kaçarken attığı silahın bulunduğu yerde yapılan aramada 1 ruhsatsız tabanca ve 18 mermi ele geçirildi.\n— Kuyumcu, daha önce tehdit aldığı için savcılığa başvurmuştu. Aynı iş yerine 5 Eylül'de de silahlı saldırı düzenlenmişti. Motosikletle gelen iki kişiden arkadaki kepenkleri kapalı dükkana ateş açtı ve kepenge 4 mermi isabet etti.\n— İstanbul, Hakkari, Kocaeli ve Eskişehir'de yapılan operasyonlarda 5 şüpheli gözaltına alındı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/kagithanede-kuyumcuya-iki-ayda-ikinci-silahli-saldiri-p377146",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-kuyumcuya-2-ay-sonra-ikinci-saldiri-15-dakikada-yakalandi-2554363",
-    "BPT (X): https://x.com/bpthaber/status/2119370497460723842"
-   ]
-  },
   {
    "id": "20c973c52f",
    "post_id": "529346797199852_1461574186082289",
@@ -13473,6 +13458,19 @@
     "Karar: https://www.karar.com/spor-haberleri/turkiye-belcika-macina-isvicreli-hakem-2083343",
     "Sözcü Spor: https://www.sozcu.com.tr/a-milli-takim-in-belcika-ile-oynayacagi-maca-isvicreli-hakem-p379879"
    ]
+  },
+  {
+   "id": "c55498d08e",
+   "post_id": "529346797199852_1463889872517387",
+   "title": "Kadın hakime silahlı saldırı davasında istinaftan yeni karar: Savcının cezası artırıldı",
+   "at": "2026-11-10T09:58:58.093911+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da kadın hakim A.K.'yi silahla yaralayan savcıya verilen ceza istinafta artırıldı.\n\n— Hapis cezası, 11 yıl 8 aydan 13 yıl 4 aya çıkarıldı.\n— Savcı, ısrarlı takip ve tehdit gibi suçlardan da ayrı ayrı cezalandırıldı. Toplam ceza 4 yıl 5 ay 10 gün oldu.\n— Olay, adliyede tartıştığı savcının hakimi silahla vurmasıyla yaşanmıştı. Hakim kasığından yaralanmış, hayati tehlikesi olmadığı açıklanmıştı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/istinaf-kadin-hakimi-yaralayan-savciya-verilen-hapis-cezasini-az-buldu/4118425",
+    "NTV: https://www.ntv.com.tr/turkiye/kadin-hakimi-vuran-savci-hakkinda-yeni-karar-1750261",
+    "Karar: https://www.karar.com/guncel-haberler/kadin-hakime-silahli-saldiri-davasinda-istinaftan-yeni-karar-savcinin-2083334"
+   ]
   }
  ],
  "fails": {
@@ -13659,7 +13657,6 @@
  "fail_log": [
   "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
@@ -13696,7 +13693,8 @@
   "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı",
   "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı",
   "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı",
-  "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı"
+  "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı",
+  "2026-11-10T09:59 Kadın hakime silahlı saldırı davasında istinaftan yeni karar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
