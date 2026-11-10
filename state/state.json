@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "acild",
-    "durum",
-    "fon",
-    "imamo",
-    "liste",
-    "mektu",
-    "memle",
-    "mesel",
-    "ndan",
-    "vurgu"
-   ],
-   "tok": [
-    "acil",
-    "acild",
-    "adayı",
-    "adı",
-    "araşt",
-    "bağla",
-    "bulun",
-    "bürok",
-    "büyük",
-    "büyüğ",
-    "cezae",
-    "deki",
-    "den",
-    "değer",
-    "değil",
-    "dikka",
-    "diyer",
-    "doğru",
-    "durum",
-    "ekrem",
-    "fon",
-    "geçen",
-    "gönde",
-    "göste",
-    "günde",
-    "ibb",
-    "iddia",
-    "ifade",
-    "iktid",
-    "ilişk",
-    "imamo",
-    "isted",
-    "karış",
-    "liste",
-    "marma",
-    "mektu",
-    "memle",
-    "mesel",
-    "ndan",
-    "nde",
-    "necat",
-    "neden",
-    "olmad",
-    "rastl",
-    "savun",
-    "sesle",
-    "siliv",
-    "siste",
-    "siyas",
-    "sordu",
-    "sözcü",
-    "taşıd",
-    "tepki",
-    "turpl",
-    "turpu",
-    "vurgu",
-    "yazar",
-    "yazdı",
-    "çeken",
-    "çıkış",
-    "şöyle"
-   ],
-   "at": "2026-11-08T12:24:57.170401+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "bakan",
     "den",
@@ -10796,20 +10718,64 @@
     "şefle"
    ],
    "at": "2026-11-10T00:16:54.882947+00:00"
+  },
+  {
+   "fp": [
+    "arayı",
+    "başka",
+    "eisen",
+    "hüküm",
+    "israi",
+    "liber",
+    "mecli",
+    "uzlaş"
+   ],
+   "tok": [
+    "alan",
+    "anlaş",
+    "arayı",
+    "asker",
+    "avigd",
+    "bloku",
+    "deste",
+    "değiş",
+    "eisen",
+    "esnek",
+    "gadi",
+    "geçme",
+    "görev",
+    "hared",
+    "hüküm",
+    "isim",
+    "israi",
+    "karşı",
+    "koali",
+    "konus",
+    "kurma",
+    "liber",
+    "lider",
+    "mecli",
+    "mutab",
+    "nin",
+    "onun",
+    "ortağ",
+    "parti",
+    "sağla",
+    "sunac",
+    "sürül",
+    "tekl",
+    "uzlaş",
+    "veril",
+    "verme",
+    "yasha",
+    "yetki",
+    "zorun",
+    "öne"
+   ],
+   "at": "2026-11-10T00:29:30.872334+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1e753ae601",
-   "post_id": "529346797199852_1461166239456417",
-   "title": "Fon vurgununda Saray bilmecesi: Tutuklamalar var, yanıt yok",
-   "at": "2026-11-08T01:39:59.596285+00:00",
-   "yazim": "claude",
-   "metin": "SPK ve BDDK gibi finans piyasalarını denetleyen kurumların yöneticileri fon vurgunu soruşturmasının merkezine yerleşti.\n\n— Soruşturmada tutuklamalar yapıldı.\n— Bu isimlerin olaydaki rolü, denetim mekanizmalarının nasıl işlediğine dair ciddi soru işaretlerini büyüttü.\n— Saray'dan bu sorulara henüz bir yanıt gelmedi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/fon-vurgununda-saray-bilmecesi-tutuklamalar-var-yanit-yok-745208"
-   ]
-  },
   {
    "id": "efe2e49ada",
    "post_id": "529346797199852_1461175859455455",
@@ -13349,6 +13315,17 @@
    "sources": [
     "CNN Türk: https://www.cnnturk.com/magazin/masterchefte-takim-kaptanlari-kimler-oldu-9-kasim-mavi-ve-kirmizi-takim-nasil-olustu-3491162",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-kaptanlik-oyunu-kim-kazandi-9-kasim-pazartesi-masterchef-turkiye-haftanin-takimlari-2554887"
+   ]
+  },
+  {
+   "id": "63fb779303",
+   "post_id": "529346797199852_1463434325896275",
+   "title": "İsrail'de hükümet arayışı: Eisenkot ve Liberman meclis başkanlığı için uzlaştı",
+   "at": "2026-11-10T00:29:30.872334+00:00",
+   "yazim": "claude",
+   "metin": "İsrail'de hükümeti kurma yetkisi verilen Gadi Eisenkot ile Avigdor Liberman, meclis başkanlığını Yashar Partisi'ne vermek konusunda anlaştı.\n\n— Eisenkot, Yashar Partisi'nin lideri ve hükümet kurma görevini alan isim. Liberman da onun \"değişim bloku\" ortağı.\n— İki lider, koalisyona destek karşılığında Haredi partilerine zorunlu askerlikte esneklik sunacağı öne sürüldü.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/israil-de-hukumet-arayisi-eisenkot-ve-liberman-meclis-baskanligi-icin-uzlasti-745529"
    ]
   }
  ],
