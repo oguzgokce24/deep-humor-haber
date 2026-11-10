@@ -2,88 +2,6 @@
  "seen": [
   {
    "fp": [
-    "den",
-    "doğuy",
-    "göste",
-    "kar",
-    "karad",
-    "kuvve",
-    "kış",
-    "meteo",
-    "uyarı",
-    "yağış",
-    "yüzün"
-   ],
-   "tok": [
-    "afyon",
-    "altın",
-    "anado",
-    "artvi",
-    "batıs",
-    "bazı",
-    "bekle",
-    "bölge",
-    "dan",
-    "den",
-    "doğu",
-    "doğud",
-    "doğus",
-    "doğuy",
-    "duyur",
-    "edili",
-    "ege",
-    "etkil",
-    "göre",
-    "görün",
-    "göste",
-    "hafta",
-    "hariç",
-    "inerk",
-    "ise",
-    "kar",
-    "karad",
-    "karla",
-    "karış",
-    "kasım",
-    "kesim",
-    "kuvve",
-    "kıyıl",
-    "kış",
-    "marma",
-    "meteo",
-    "mevsi",
-    "mgm",
-    "nin",
-    "norma",
-    "nun",
-    "nın",
-    "olaca",
-    "orta",
-    "ortas",
-    "rapor",
-    "rize",
-    "rüzga",
-    "sağan",
-    "sinop",
-    "sürec",
-    "sıcak",
-    "tahmi",
-    "tarih",
-    "uyarı",
-    "uzana",
-    "yapıl",
-    "yağac",
-    "yağmu",
-    "yağış",
-    "yer",
-    "yükse",
-    "yüzün",
-    "çevre"
-   ],
-   "at": "2026-11-09T04:04:04.996591+00:00"
-  },
-  {
-   "fp": [
     "akım",
     "ağırl",
     "demok",
@@ -10849,21 +10767,77 @@
     "üzeri"
    ],
    "at": "2026-11-10T15:59:46.196168+00:00"
+  },
+  {
+   "fp": [
+    "den",
+    "diyan",
+    "engel",
+    "erişi",
+    "sen",
+    "tepki",
+    "uzman"
+   ],
+   "tok": [
+    "adana",
+    "anlat",
+    "borsa",
+    "den",
+    "değin",
+    "din",
+    "diyan",
+    "dokun",
+    "engel",
+    "erişi",
+    "fon",
+    "fonla",
+    "gerek",
+    "getir",
+    "görev",
+    "görün",
+    "göste",
+    "hakkı",
+    "haksı",
+    "hizme",
+    "hukuk",
+    "ilçes",
+    "imam",
+    "imamı",
+    "islam",
+    "isted",
+    "kamuo",
+    "kazan",
+    "konul",
+    "konus",
+    "konuş",
+    "kul",
+    "kürsü",
+    "kısıt",
+    "mihra",
+    "musta",
+    "nın",
+    "parça",
+    "savun",
+    "sen",
+    "sendi",
+    "talep",
+    "tepki",
+    "uzman",
+    "vaaz",
+    "vaaza",
+    "video",
+    "vurgu",
+    "yapan",
+    "yaptı",
+    "yasal",
+    "yatır",
+    "yolsu",
+    "yüreğ"
+   ],
+   "at": "2026-11-10T16:12:27.213810+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e936b2a483",
-   "post_id": "529346797199852_1461881822718192",
-   "title": "Galatasaray'da zemin tartışmaları sürüyor: İlgili firmadan iddialara yanıt!",
-   "at": "2026-11-08T16:03:58.495793+00:00",
-   "yazim": "claude",
-   "metin": "Galatasaray'ın RAMS Park'taki zemini tartışma yarattı, beş gün içinde iki önemli oyuncu sakatlandı.\n\n— Galatasaray, Amed Sportif Faaliyetler'i 4-3 yenmişti ama maçtan sonra gündem zemin oldu.\n— Victor Osimhen, Stuttgart maçında sakatlanıp sol dizinden ameliyat edildi. Yaklaşık 1,5 ay sahalardan uzak kalacak.\n— Rafael Leao, Amed maçının 50. dakikasında sakatlanarak oyundan çıktı. Kulüp, sağ üst arka adalesinde ileri derecede zorlanma ve kanama olduğunu açıkladı. 4-6 hafta yok olacak.\n— Kulüp, stadyumdaki deformasyonun acilen giderilmesini istedi.\n— Zemini yapan firma, yanlış malzeme iddialarına yanıt verdi: “Galatasaray'a ne gibi bir garezimiz olabilir? (...) Sorun stadın mimarisinde.”\n— Galatasaray kaynakları ise yeni çimde kumlu yerine topraklı model serildiğini ve drenajın bu yüzden tam çalışmadığını savundu.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/galatasaray-da-zemin-tartismalari-suruyor-ilgili-firmadan-iddialara-yanit-2554462",
-    "Evrensel: https://www.evrensel.net/haber/6008569/galatasarayda-zemin-krizi-iki-futbolcu-sakatlandi-firma-iddialara-yanit-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "462b2b23d8",
    "post_id": "529346797199852_1461892566050451",
@@ -13444,6 +13418,18 @@
     "Sözcü Son Dakika: https://www.sozcu.com.tr/istanbulda-aksam-trafigi-yogunluk-yuzde-81e-ulasti-p380015",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yuzde-81e-ulasti-7698338"
    ]
+  },
+  {
+   "id": "c64538f8a6",
+   "post_id": "529346797199852_1464257829147258",
+   "title": "'Fon vurgunu' konulu vaaza erişim engeli: Uzman Diyanet-Sen'den karara tepki",
+   "at": "2026-11-10T16:12:27.213810+00:00",
+   "yazim": "claude",
+   "metin": "Adana'nın Yüreğir ilçesinde görev yapan imam Mustafa İslam'ın vaaz görüntülerine erişim engeli getirildi.\n\nEngel, imamın borsa ve yatırım fonlarındaki haksız kazanç konusunda yaptığı konuşma için getirildi. Uzman Diyanet-Sen bu karara tepki gösterdi.\n\n— Sendika, din görevlilerinin kürsüden kul hakkı, haksız kazanç ve yolsuzluğu anlatmasının din hizmetinin parçası olduğunu savundu.\n— Diyanet-Sen, din görevlileri için kürsü ve mihrap dokunulmazlığı istedi.\n— Sendika, engelleme kararının yasal gerekçesinin açıklanmasını da talep etti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/uzman-diyanet-sen-den-erisim-engeline-tepki-din-gorevlilerine-kursu-dokunulmazligi-2555093",
+    "BirGün: https://www.birgun.net/haber/fon-vurgunu-konulu-vaaza-erisim-engeli-uzman-diyanet-sen-den-karara-tepki-745679"
+   ]
   }
  ],
  "fails": {
@@ -13628,7 +13614,8 @@
   "995228033a": 1,
   "099f9883ed": 1,
   "2b223f448c": 1,
-  "563dea0244": 3
+  "563dea0244": 3,
+  "a1f354f073": 1
  },
  "fail_log": [
   "2026-11-10T05:06 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
@@ -13675,7 +13662,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120183588004270546",
+   "since_id": "2120187075404177543",
    "started": true
   },
   "ajansmuhbir1923": {
