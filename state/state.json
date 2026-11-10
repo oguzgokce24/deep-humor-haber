@@ -10738,6 +10738,73 @@
     "üreti"
    ],
    "at": "2026-11-10T05:09:33.251975+00:00"
+  },
+  {
+   "fp": [
+    "ayıra",
+    "bütçe",
+    "gezeg",
+    "kalma",
+    "payı",
+    "serve",
+    "sözle",
+    "tutul",
+    "yıldı"
+   ],
+   "tok": [
+    "antal",
+    "appea",
+    "ayıra",
+    "bütçe",
+    "cop31",
+    "diken",
+    "dünya",
+    "first",
+    "gezeg",
+    "günün",
+    "ikinc",
+    "kalma",
+    "linka",
+    "payı",
+    "post",
+    "serve",
+    "site",
+    "soru",
+    "sözle",
+    "the",
+    "tutul",
+    "yıldı",
+    "önünd"
+   ],
+   "at": "2026-11-10T05:13:01.220035+00:00"
+  },
+  {
+   "fp": [
+    "atame",
+    "bülen",
+    "enerj",
+    "toplu"
+   ],
+   "tok": [
+    "adale",
+    "alanı",
+    "appea",
+    "atame",
+    "bülen",
+    "dayan",
+    "demok",
+    "değil",
+    "diken",
+    "enerj",
+    "first",
+    "linka",
+    "post",
+    "site",
+    "the",
+    "toplu",
+    "yerel"
+   ],
+   "at": "2026-11-10T05:13:06.258993+00:00"
   }
  ],
  "posted": [
@@ -13473,19 +13540,9 @@
   "0842ac5b45": 1,
   "b00a878c40": 1,
   "910ccf128a": 1,
-  "fef50acd4c": 2,
-  "5770ced243": 2
+  "cbf8efc597": 1
  },
  "fail_log": [
-  "2026-11-10T04:55 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:59 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:59 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:59 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:59 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:59 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T04:59 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
@@ -13516,7 +13573,16 @@
   "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı"
+  "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
