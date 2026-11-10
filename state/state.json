@@ -2,70 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "başka",
-    "bddk",
-    "daire",
-    "tutuk"
-   ],
-   "tok": [
-    "akkay",
-    "alper",
-    "alınd",
-    "arınc",
-    "aynı",
-    "ayınd",
-    "banka",
-    "bağlı",
-    "bddk",
-    "bilal",
-    "binde",
-    "bulls",
-    "daire",
-    "denet",
-    "dün",
-    "düzen",
-    "erişe",
-    "eski",
-    "eylül",
-    "fazla",
-    "fon",
-    "fonla",
-    "fonun",
-    "geliş",
-    "genel",
-    "ise",
-    "itiba",
-    "kapsa",
-    "kasım",
-    "kemal",
-    "kurul",
-    "kurum",
-    "muham",
-    "musta",
-    "müdür",
-    "paras",
-    "pusul",
-    "sayıs",
-    "soysa",
-    "takas",
-    "tasfi",
-    "taş",
-    "tera",
-    "uygul",
-    "vardı",
-    "veril",
-    "yardı",
-    "yatır",
-    "yenid",
-    "yunus",
-    "yönet",
-    "yükse"
-   ],
-   "at": "2026-11-09T01:05:40.964377+00:00"
-  },
-  {
-   "fp": [
     "alına",
     "davad",
     "tahli",
@@ -11008,21 +10944,49 @@
     "çalış"
    ],
    "at": "2026-11-10T12:53:01.049807+00:00"
+  },
+  {
+   "fp": [
+    "23",
+    "düzen",
+    "ehliy",
+    "gözal",
+    "joker",
+    "kopya",
+    "sayıd",
+    "sınav",
+    "var"
+   ],
+   "tok": [
+    "alınd",
+    "ağı",
+    "birde",
+    "düzen",
+    "edili",
+    "ehliy",
+    "iddia",
+    "joker",
+    "kocae",
+    "kopya",
+    "kursl",
+    "kurul",
+    "mtsk",
+    "nde",
+    "sayıd",
+    "sayıs",
+    "skand",
+    "sokul",
+    "sürüc",
+    "sınav",
+    "var",
+    "yapıl",
+    "yürüt",
+    "üzeri"
+   ],
+   "at": "2026-11-10T13:05:40.289577+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fad8f1aaa5",
-   "post_id": "529346797199852_1461718792734495",
-   "title": "YENİ Parti 'Vurgunun kilit ismi' diyerek açıkladı: 'Nihayet gözaltına alındı'",
-   "at": "2026-11-08T13:16:03.211719+00:00",
-   "yazim": "claude",
-   "metin": "YENİ Parti Grup Başkanvekili Murat Emir:\n\n“Fon vurgununda dokunulmazlar kalkanı mızrak çuvala sığmayınca delindi ama çok geç! Vurgunun kilit ismi (...) nihayet gözaltında.”\n\n— Bulls Yatırım Yönetim Kurulu Başkanı, fon soruşturması kapsamında dün gözaltına alındı.\n— Aynı kişiye 17 Eylül'de adli kontrol uygulanmıştı.\n— Emir, iki kişiyle ilgili adımların aylar sonra atıldığını savundu ve soruşturmanın neden bu kadar geciktiğini sordu.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/yeni-parti-vurgunun-kilit-ismi-diyerek-acikladi-nihayet-gozaltina-alindi-p377241",
-    "BirGün: https://www.birgun.net/haber/murat-emir-fon-vurgununun-kilit-ismi-diyerek-acikladi-nihayet-gozaltinda-745288"
-   ]
-  },
   {
    "id": "4b1c4fd6d1",
    "post_id": "529346797199852_1461731876066520",
@@ -13583,6 +13547,20 @@
     "Evrensel: https://www.evrensel.net/haber/6008831/malezyada-sel-5-kisi-hayatini-kaybetti-3-kisi-kayip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/malezya-da-sel-5-kisi-hayatini-kaybetti-3-kisi-kayboldu-745629"
    ]
+  },
+  {
+   "id": "5c0630eeed",
+   "post_id": "529346797199852_1464078665831841",
+   "title": "Son dakika! Ehliyet sınavlarında joker skandalı: 23 şüpheli gözaltında",
+   "at": "2026-11-10T13:05:40.289577+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul ve Kocaeli'de ehliyet sınavlarına joker sokulduğu iddiasıyla operasyon yapıldı, 23 şüpheli gözaltına alındı.\n\n— Sürücü kursları üzerinden MTSK sınavlarına joker sokulduğu ve kopya düzeneği kurulduğu iddia ediliyor.\n\n— Operasyon iki ilde birden yürütüldü ve gözaltı sayısı 23 olarak açıklandı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-ehliyet-sinavlarinda-kopya-duzenegi-cok-sayida-gozalti-var-7698228",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ehliyet-sinavlarinda-joker-agi-istanbul-ve-kocaeli-nde-operasyon-23-gozalti-2555062",
+    "Karar: https://www.karar.com/guncel-haberler/son-dakika-ehliyet-sinavlarinda-joker-skandali-23-supheli-gozaltinda-2083396",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-ehliyet-sinavlarinda-kopya-duzenegi-cok-sayida-gozalti-var-7698228"
+   ]
   }
  ],
  "fails": {
@@ -13767,7 +13745,7 @@
   "995228033a": 1,
   "099f9883ed": 1,
   "2b223f448c": 1,
-  "563dea0244": 2
+  "563dea0244": 3
  },
  "fail_log": [
   "2026-11-10T05:06 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
@@ -13814,7 +13792,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120131564155654268",
+   "since_id": "2120139221033693351",
    "started": true
   },
   "ajansmuhbir1923": {
