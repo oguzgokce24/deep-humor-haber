@@ -11072,20 +11072,81 @@
     "ırkçı"
    ],
    "at": "2026-11-10T21:49:47.138673+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "kişi",
+    "otomo",
+    "yaral"
+   ],
+   "tok": [
+    "alany",
+    "ambul",
+    "antal",
+    "arama",
+    "ardın",
+    "aydın",
+    "başla",
+    "belir",
+    "benzi",
+    "direğ",
+    "ekipl",
+    "eski",
+    "feci",
+    "geldi",
+    "halil",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "imkan",
+    "incel",
+    "ipeky",
+    "itfai",
+    "kaldı",
+    "kale",
+    "karış",
+    "karşı",
+    "kayıp",
+    "kazay",
+    "kendi",
+    "kontr",
+    "köpük",
+    "mahal",
+    "metre",
+    "meyda",
+    "müdah",
+    "nın",
+    "olay",
+    "otomo",
+    "sevk",
+    "sürüc",
+    "sıktı",
+    "sızan",
+    "ulaşı",
+    "umke",
+    "uzakl",
+    "van",
+    "yakla",
+    "yanın",
+    "yaptı",
+    "yerin",
+    "yola",
+    "yolu",
+    "yuvar",
+    "yükse",
+    "çarpt",
+    "çarpı",
+    "çıkan",
+    "çıktı",
+    "üzeri",
+    "şahıs",
+    "şaram"
+   ],
+   "at": "2026-11-10T22:02:21.054614+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c8a7b4b83f",
-   "post_id": "529346797199852_1462149089358132",
-   "title": "İllerin ihracat şampiyonları belli oldu: 49 şehir devler liginde, 32 il sıfır çekti",
-   "at": "2026-11-08T22:04:50.210855+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye İhracatçılar Meclisi'nin 2025 dönemi araştırmasına göre 81 ilin yalnızca 49'u ilk 1.000 ihracatçı listesine şirket sokabildi.\n\n— 32 ilden hiçbir üretici tesis bu listeye giremedi.\n\n— İstanbul'da ihracat birincisi Türk Havayolları oldu. Kocaeli'de Ford, Sakarya'da Toyota, Bursa'da Oyak-Renault il birincisi çıktı.\n\n— Manisa'da Vestel Ticaret, Trabzon'da Ferrero Fındık, Eskişehir'de TUSAŞ Motor Sanayisi, Mardin'de Hacışakiroğulları Un Gıda zirvede yer aldı.\n\n— Bazı illerin şampiyonları ticari gizlilik talebi nedeniyle adını açıklamadı.\n\n— Araştırmaya göre sanayi, Marmara ve Ege'de yoğunlaşırken bölgeler arasındaki sanayi farkı büyüdü.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/turkiyenin-en-buyuk-ihracatcilari-kimler-ihracatta-birinci-olan-2083043"
-   ]
-  },
   {
    "id": "39b7aabdbd",
    "post_id": "529346797199852_1462156652690709",
@@ -13658,6 +13719,19 @@
     "Evrensel: https://www.evrensel.net/haber/6008890/israilde-eisenkottan-netanyahunun-partisi-likud-ile-muzakereleri-iptal-etme-talimati?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/netanyahu-ya-kotu-haber-eisenkot-netanyahu-nun-partisi-ile-muzakereleri-iptal-etti-745719"
    ]
+  },
+  {
+   "id": "b713ac4cdf",
+   "post_id": "529346797199852_1464541099118931",
+   "title": "Otomobil şarampole yuvarlandı: Araçtan çıkan 2 kişi kayıplara karıştı",
+   "at": "2026-11-10T22:02:21.054614+00:00",
+   "yazim": "claude",
+   "metin": "Van'ın İpekyolu ilçesinde iki otomobil çarpıştı, 2 kişi yaralandı.\n\nKaza, Halilağa Mahallesi Eski Kale yolu üzerinde meydana geldi. Yaralılar ilk müdahalenin ardından ambulansla hastaneye kaldırıldı.\n\n— Olay yerine ambulans, polis, UMKE ve itfaiye ekipleri sevk edildi.\n— İtfaiye, bir otomobilden sızan benzine karşı yola ve araca köpük sıktı.\n— Kazayla ilgili inceleme başlatıldı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/otomobil-aydinlatma-diregine-carpti-3-kisi-yaralandi-p380089",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/feci-kaza-iki-otomobil-carpisti-2-kisi-yaralandi-2555230",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/otomobil-sarampole-yuvarlandi-aractan-cikan-2-kisi-kayiplara-karisti-2555172"
+   ]
   }
  ],
  "fails": {
@@ -13900,7 +13974,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120268281156399373",
+   "since_id": "2120273189792284686",
    "started": true
   },
   "ajansmuhbir1923": {
