@@ -2,83 +2,6 @@
  "seen": [
   {
    "fp": [
-    "15",
-    "geçmi",
-    "gözal",
-    "ikinc",
-    "ilaçl",
-    "kanse",
-    "karar",
-    "opera",
-    "soruş",
-    "tarih",
-    "şüphe"
-   ],
-   "tok": [
-    "adres",
-    "ambal",
-    "antal",
-    "arama",
-    "araşt",
-    "bakır",
-    "baskı",
-    "başsa",
-    "belir",
-    "derin",
-    "dev",
-    "değiş",
-    "deşif",
-    "dijit",
-    "dışın",
-    "edile",
-    "ekipl",
-    "geçen",
-    "geçme",
-    "geçmi",
-    "göste",
-    "hem",
-    "iddia",
-    "ikinc",
-    "ilacı",
-    "ilaçl",
-    "incel",
-    "içind",
-    "işlem",
-    "işyer",
-    "kanse",
-    "kapsa",
-    "kasım",
-    "kayse",
-    "koyma",
-    "kulla",
-    "kutu",
-    "masak",
-    "mater",
-    "nın",
-    "piyas",
-    "prosp",
-    "rapor",
-    "sahte",
-    "sattı",
-    "satıl",
-    "satış",
-    "süren",
-    "tarih",
-    "tespi",
-    "ulaşı",
-    "veril",
-    "yapıl",
-    "yenid",
-    "yurt",
-    "yönel",
-    "yürüt",
-    "çetes",
-    "şebek"
-   ],
-   "at": "2026-11-09T05:28:01.876760+00:00"
-  },
-  {
-   "fp": [
     "biri",
     "geçec",
     "iran",
@@ -10752,22 +10675,61 @@
     "şirke"
    ],
    "at": "2026-11-10T17:19:46.725524+00:00"
+  },
+  {
+   "fp": [
+    "ameli",
+    "girdi",
+    "gires",
+    "iddia",
+    "perso",
+    "soruş",
+    "temiz"
+   ],
+   "tok": [
+    "ada",
+    "adli",
+    "ameli",
+    "aydın",
+    "başhe",
+    "başla",
+    "cenap",
+    "cerra",
+    "damcı",
+    "eğiti",
+    "girdi",
+    "gires",
+    "görev",
+    "hasta",
+    "idari",
+    "iddia",
+    "incel",
+    "işlem",
+    "katıl",
+    "konuy",
+    "mesut",
+    "müfet",
+    "nde",
+    "olmad",
+    "parti",
+    "perso",
+    "redde",
+    "sağlı",
+    "sürdü",
+    "temiz",
+    "tıbbi",
+    "yardı",
+    "yetki",
+    "zafer",
+    "çalış",
+    "öne",
+    "özel",
+    "üzere"
+   ],
+   "at": "2026-11-10T17:32:23.061674+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bfc3d8312e",
-   "post_id": "529346797199852_1461962369376804",
-   "title": "\"İçi boş\" dediği tüfekle komşusunu öldüren esnaf tutuklandı",
-   "at": "2026-11-08T17:31:04.353242+00:00",
-   "yazim": "claude",
-   "metin": "Erzurum'da bir gelinlik dükkanında, komşusunu \"içi boş\" dediği pompalı tüfekle vurarak öldüren esnaf tutuklandı.\n\n— Şüpheli, tüfeği \"içi boş\" diyerek komşusuna doğrulttu ve ateş etti.\n— Ateşin ardından komşusu hayatını kaybetti.\n— Esnaf, \"kasten öldürme\" suçundan tutuklandı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/ici-bos-dedigi-tufekle-komsusunu-olduren-esnaf-tutuklandi-43370746",
-    "Yeni Şafak: https://www.yenisafak.com/video/gundem/pompali-tufekle-komsusunun-olumune-neden-olan-esnaf-tutuklandi-4870790",
-    "BirGün: https://www.birgun.net/haber/ici-bos-dedigi-tufekle-komsusunu-olduren-esnaf-tutuklandi-745314"
-   ]
-  },
   {
    "id": "920b3227ca",
    "post_id": "529346797199852_1461973356042372",
@@ -13344,6 +13306,19 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2120203767974949037"
    ]
+  },
+  {
+   "id": "a9ca4a11e6",
+   "post_id": "529346797199852_1464335825806125",
+   "title": "Giresun'da 'temizlik personeli ameliyata girdi' iddiası: Soruşturma başlatıldı",
+   "at": "2026-11-10T17:32:23.061674+00:00",
+   "yazim": "claude",
+   "metin": "Giresun'da özel bir hastanede temizlik personelinin ameliyatlara girdiği iddiası üzerine adli ve idari soruşturma başlatıldı.\n\n— Sağlık Bakanlığı konuyu incelemek üzere müfettiş görevlendirdi.\n— Zafer Partisi Giresun İl Başkanı Mesut Aydın, Özel Giresun Ada Hastanesi'nde temizlik görevlisi olarak çalışan bir kişinin tıbbi eğitim ve yetki olmadan cerrahi işlemlere katıldığını öne sürdü.\n— Hastanenin Başhekimi Dr. Cenap Damcı iddiaları reddetti ve bu kişinin ameliyathanede yardımcı personel olarak çalıştığını söyledi.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/saglik/temizlikci-ameliyata-girdi-iddiasi-3926360",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/giresun-da-ozel-hastanede-temizlik-personelinin-ameliyatlara-girdigi-iddiasina-sorusturma-2555143",
+    "BirGün: https://www.birgun.net/haber/giresun-da-temizlik-personeli-ameliyata-girdi-iddiasi-sorusturma-baslatildi-745686"
+   ]
   }
  ],
  "fails": {
@@ -13578,7 +13553,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120203767974949037",
+   "since_id": "2120206605979677130",
    "started": true
   },
   "ajansmuhbir1923": {
