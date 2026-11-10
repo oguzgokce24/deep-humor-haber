@@ -2,70 +2,6 @@
  "seen": [
   {
    "fp": [
-    "anıtk",
-    "apple",
-    "benim",
-    "büyük",
-    "ceo",
-    "cook",
-    "eski",
-    "onur",
-    "tim",
-    "ziyar"
-   ],
-   "tok": [
-    "anma",
-    "anıt",
-    "anıtk",
-    "apple",
-    "atatü",
-    "bağda",
-    "başla",
-    "benim",
-    "bugün",
-    "büyük",
-    "bırak",
-    "cadde",
-    "ceo",
-    "cook",
-    "dan",
-    "daydı",
-    "dün",
-    "eski",
-    "geldi",
-    "gezdi",
-    "geçen",
-    "günü",
-    "hesab",
-    "jobs",
-    "kapal",
-    "kasım",
-    "kurul",
-    "mağaz",
-    "mezar",
-    "ndeki",
-    "onur",
-    "onurd",
-    "payla",
-    "saygı",
-    "sonra",
-    "steve",
-    "sunma",
-    "sözle",
-    "tan",
-    "tim",
-    "turun",
-    "yaptı",
-    "yazdı",
-    "yönet",
-    "ziyar",
-    "çiçek",
-    "önces"
-   ],
-   "at": "2026-11-09T11:43:03.047578+00:00"
-  },
-  {
-   "fp": [
     "2",
     "başhe",
     "dahil",
@@ -11094,22 +11030,70 @@
     "ülked"
    ],
    "at": "2026-11-10T23:36:31.462946+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "banka",
+    "elekt",
+    "faali",
+    "iptal",
+    "izni",
+    "merke",
+    "para",
+    "şirke"
+   ],
+   "tok": [
+    "aklam",
+    "artık",
+    "atana",
+    "atanm",
+    "ayınd",
+    "bahis",
+    "banka",
+    "dışı",
+    "edile",
+    "ekim",
+    "elekt",
+    "faali",
+    "gazet",
+    "gerek",
+    "göste",
+    "hizme",
+    "iddia",
+    "ilişk",
+    "iptal",
+    "izinl",
+    "izni",
+    "iznin",
+    "kanun",
+    "kapsa",
+    "kara",
+    "kasım",
+    "kayyu",
+    "kayyı",
+    "kurul",
+    "lisan",
+    "ndan",
+    "nin",
+    "nın",
+    "ozan",
+    "para",
+    "resmi",
+    "tmsf",
+    "yasa",
+    "yayım",
+    "yürüt",
+    "yılın",
+    "ödeme",
+    "öngör",
+    "şartl",
+    "şirke"
+   ],
+   "at": "2026-11-10T23:48:06.003685+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b4d1510620",
-   "post_id": "529346797199852_1462206426019065",
-   "title": "İç ısıtan görüntüler... Köpek, kedi yavrularını soğuktan korumaya çalıştı",
-   "at": "2026-11-08T23:41:52.252354+00:00",
-   "yazim": "claude",
-   "metin": "Karabük'ün Eflani ilçesinde bir köpek, soğuk havada kedi yavrularını yanına alarak ısıtmaya çalıştı.\n\n— Köpeğin sahibi o anları cep telefonu kamerasıyla kaydetti.\n— Olay, Çal köyü Kızılgelik Mahallesi'nde akşam saatlerinde yaşandı.\n— Bölgede iki gündür soğuk hava ve kar yağışı etkili oluyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/karabuk/eflani/kopek-kedi-yavrularini-soguktan-korumaya-calisti-3490748",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ic-isitan-goruntuler-kopek-kedi-yavrularini-soguktan-korumaya-calisti-2554564",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/yurekleri-isitan-goruntu-kopek-kedi-yavrularina-annelik-yapti-4870832"
-   ]
-  },
   {
    "id": "4ec6ae7709",
    "post_id": "529346797199852_1462218186017889",
@@ -13675,6 +13659,20 @@
    "sources": [
     "CNN Türk: https://www.cnnturk.com/dunya/ispanyada-tiktok-krizi-cocuk-istismari-iddialari-sonrasi-kritik-adim-3491697",
     "Evrensel: https://www.evrensel.net/haber/6008889/ispanya-hukumeti-cocuk-istismari-videolari-nedeniyle-tiktokun-askiya-alinmasini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "d906393b86",
+   "post_id": "529346797199852_1464624812443893",
+   "title": "Kayyım atanmıştı… Ozan Elektronik Para'nın faaliyet izni iptal edildi",
+   "at": "2026-11-10T23:48:06.003685+00:00",
+   "yazim": "claude",
+   "metin": "Merkez Bankası, Ozan Elektronik Para ile A Ödeme ve Elektronik Para Hizmetleri'nin faaliyet izinlerini iptal etti.\n\nKararlar 11 Kasım'da Resmi Gazete'de yayımlandı ve iki şirket artık elektronik para kuruluşu olarak faaliyet gösteremeyecek.\n\n— Ozan Elektronik Para'ya Ekim 2025'te, yasa dışı bahis ve kara para aklama iddialarına ilişkin soruşturma kapsamında TMSF kayyum olarak atanmıştı.\n\n— Kanun, faaliyet için gerekli şartları kaybeden kuruluşların izninin iptal edilebileceğini öngörüyor.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/merkez-bankasi-iki-elektronik-para-kurulusunun-faaliyet-iznini-iptal-etti-1750331",
+    "Habertürk: https://www.haberturk.com/gundem/2-sirketin-faaliyet-izni-iptal-edildi-3926401",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kayyim-atanmisti-ozan-elektronik-para-nin-faaliyet-izni-iptal-edildi-2555223",
+    "Karar: https://www.karar.com/guncel-haberler/merkez-bankasindan-iki-sirkete-lisans-iptali-2083481"
    ]
   }
  ],
