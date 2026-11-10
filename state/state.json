@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başar",
-    "bırak",
-    "erişe",
-    "etmey",
-    "garan",
-    "miras",
-    "neal",
-    "serve",
-    "shaqu",
-    "yalnı",
-    "çalış",
-    "çocuk"
-   ],
-   "tok": [
-    "almak",
-    "başar",
-    "belir",
-    "bırak",
-    "diplo",
-    "edere",
-    "erişe",
-    "eski",
-    "etmed",
-    "etmey",
-    "garan",
-    "gelme",
-    "gerek",
-    "https",
-    "istey",
-    "istiy",
-    "işare",
-    "kendi",
-    "lisan",
-    "miras",
-    "nba",
-    "neal",
-    "pay",
-    "serve",
-    "shaqu",
-    "var",
-    "x4tsf",
-    "yalnı",
-    "yani",
-    "yükse",
-    "yıldı",
-    "çalış",
-    "çocuk",
-    "ünive"
-   ],
-   "at": "2026-11-09T05:15:23.675307+00:00"
-  },
-  {
-   "fp": [
     "15",
     "geçmi",
     "gözal",
@@ -10746,22 +10693,68 @@
     "çıkac"
    ],
    "at": "2026-11-10T17:07:07.138474+00:00"
+  },
+  {
+   "fp": [
+    "000",
+    "240",
+    "alice",
+    "ardın",
+    "ceo",
+    "elema",
+    "huang",
+    "ilişk",
+    "istih",
+    "kolay",
+    "nvidi",
+    "ortay",
+    "sevki",
+    "çin",
+    "çipin",
+    "çıkma",
+    "öne"
+   ],
+   "tok": [
+    "alice",
+    "ardın",
+    "ağdak",
+    "bin",
+    "birin",
+    "bulun",
+    "ceo",
+    "cyp3e",
+    "elema",
+    "erişi",
+    "https",
+    "huang",
+    "iddia",
+    "ileri",
+    "ilişk",
+    "istih",
+    "içind",
+    "jense",
+    "kolay",
+    "kurul",
+    "kısa",
+    "nvidi",
+    "ortay",
+    "payla",
+    "sağla",
+    "sevki",
+    "süre",
+    "sürül",
+    "çin",
+    "çipin",
+    "çiple",
+    "çıkma",
+    "öncel",
+    "öne",
+    "şirke"
+   ],
+   "at": "2026-11-10T17:19:46.725524+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e547b8f8e6",
-   "post_id": "529346797199852_1461947496044958",
-   "title": "İl Sağlık Müdürü Güner’den organ bağışı çağrısı: 'İstanbul'da 8 bin 372 hasta nakil bekliyor'",
-   "at": "2026-11-08T17:18:32.818589+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da 8 bin 372 hasta organ nakli bekliyor. İl Sağlık Müdürü Abdullah Emre Güner, vatandaşları organ bağışında bulunmaya çağırdı.\n\n— Bekleyenlerin 7 bin 129'u böbrek, 612'si karaciğer, 493'ü kalp nakli bekliyor.\n— 2026 yılında İstanbul'da bin 890 organ nakli yapıldı.\n— Bağışçıların yalnızca yüzde 13'ü vefat eden kişilerden oluştu. Güner, organ bağışı beyanının e-Devlet ya da e-Nabız üzerinden yapılabileceğini söyledi.\n\n“Organ bağışı, nakil bekleyen bir insanın sevdikleriyle daha nice anı biriktirmesini mümkün kılabilir.”",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/istanbul-il-saglik-muduru-guner-rakamlari-paylasti-8-bin-372-kisi-organ-nakli-bekliyor-3490639",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/saglik/il-saglik-muduru-guner-den-organ-bagisi-cagrisi-istanbul-da-8-bin-372-hasta-nakil-bekliyor-2554491",
-    "BirGün: https://www.birgun.net/haber/istanbul-da-8-bin-372-kisi-organ-nakli-bekliyor-745315"
-   ]
-  },
   {
    "id": "bfc3d8312e",
    "post_id": "529346797199852_1461962369376804",
@@ -13340,6 +13333,17 @@
     "Karar: https://www.karar.com/spor-haberleri/alanyasporda-joao-pereira-donemi-sona-erdi-2083405",
     "Sözcü Spor: https://www.sozcu.com.tr/alanyaspor-da-joao-pereira-donemi-resmen-sona-erdi-p380026"
    ]
+  },
+  {
+   "id": "e443ef5fbe",
+   "post_id": "529346797199852_1464324759140565",
+   "title": "Nvidia CEO’su Huang’ın Çin istihbarat elemanı Alice Huang ile ilişkisinin ortaya çıkmasının ardından 240.000 Nvidia çipinin Çin’e sevkiyatının kolaylaştığı öne ",
+   "at": "2026-11-10T17:19:46.725524+00:00",
+   "yazim": "claude",
+   "metin": "Nvidia CEO'su Jensen Huang'ın Çin istihbarat elemanı Alice Huang ile ilişkisi iddia edildi.\n\n— Bu ilişkinin ortaya çıkmasının ardından 240 bin Nvidia çipinin Çin'e sevkiyatının kolaylaştığı öne sürüldü.\n\n— Paylaşımda, ağdaki şirketlerden birinin kurulduktan kısa süre sonra Nvidia çiplerine öncelikli erişim sağladığı da ileri sürüldü.",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2120203767974949037"
+   ]
   }
  ],
  "fails": {
@@ -13574,7 +13578,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120200331862966378",
+   "since_id": "2120203767974949037",
    "started": true
   },
   "ajansmuhbir1923": {
