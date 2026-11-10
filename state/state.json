@@ -10816,22 +10816,71 @@
     "şeyi"
    ],
    "at": "2026-11-10T15:10:15.524534+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "adliy",
+    "fon",
+    "kişi",
+    "sevk",
+    "soruş",
+    "vurgu",
+    "şüphe"
+   ],
+   "tok": [
+    "adliy",
+    "advis",
+    "alına",
+    "arala",
+    "arası",
+    "ardın",
+    "arınc",
+    "başsa",
+    "biten",
+    "bulls",
+    "bulun",
+    "capit",
+    "daki",
+    "emniy",
+    "eski",
+    "fon",
+    "genel",
+    "getir",
+    "gülka",
+    "holdi",
+    "ilişk",
+    "işlem",
+    "kapsa",
+    "kontr",
+    "kurul",
+    "lydia",
+    "maden",
+    "murat",
+    "müdür",
+    "nın",
+    "omg",
+    "piyas",
+    "ruzy",
+    "savcı",
+    "sağlı",
+    "serma",
+    "sevk",
+    "sürdü",
+    "sürüy",
+    "takas",
+    "var",
+    "vurgu",
+    "yatır",
+    "yunus",
+    "yönet",
+    "çağla",
+    "şirke"
+   ],
+   "at": "2026-11-10T15:22:53.815149+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4556800701",
-   "post_id": "529346797199852_1461831592723215",
-   "title": "Çalışanlarına “İshal olmayın” diyen bankaya tazminat cezası: Yargıtay kararı onadı",
-   "at": "2026-11-08T15:10:50.234768+00:00",
-   "yazim": "claude",
-   "metin": "İzmir'de bir bankada yöneticinin tuvalet molalarını hedef alması mobbing sayıldı, Yargıtay manevi tazminat kararını onadı.\n\n— Uzun yıllar bankada çalışan takım lideri, iş sözleşmesinin 2020'de feshedilmesinin ardından dava açmıştı.\n— Mahkeme, yöneticilerin \"ishal olmayın\" anlamına gelen e-postalar gönderdiğini ve tuvalete üst üste gidilmesini sorun ettiğini tespit etti.\n— Banka, çalışanın performansının düşük olduğunu kanıtlayamadı; doktor raporları ise sağlığının bozulduğunu gösterdi.\n— Yargıtay 9. Hukuk Dairesi, İzmir 20. İş Mahkemesi'nin manevi tazminat kararını oy birliğiyle onaylayarak süreci tamamladı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/tuvalet-molalari-takip-edilen-banka-calisanina-mobbing-tazminati-962607.html",
-    "Evrensel: https://www.evrensel.net/haber/6008570/yargitaydan-emsal-karar-tuvalet-molalari-dahil-takip-edilen-bankaciya-manevi-tazminat-onandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/hayat-haberleri/calisanlarina-ishal-olmayin-diyen-bankaya-tazminat-cezasi-yargitay-2082994"
-   ]
-  },
   {
    "id": "99ff3038a0",
    "post_id": "529346797199852_1461843466055361",
@@ -13402,6 +13451,21 @@
     "BirGün: https://www.birgun.net/haber/aylin-kotil-sucsuzum-bunu-ortaya-koymak-icin-her-seyi-yapacagim-745640",
     "Karar: https://www.karar.com/guncel-haberler/tutuklu-aylin-kotilden-mektup-yanlis-bir-evlilikten-dolayi-bedel-odedim-2083426"
    ]
+  },
+  {
+   "id": "0e7267a475",
+   "post_id": "529346797199852_1464207079152333",
+   "title": "Fon vurgunu soruşturması: 5 kişi adliyeye sevk edildi",
+   "at": "2026-11-10T15:22:53.815149+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da fon vurgunu soruşturması kapsamında gözaltına alınan 5 kişi adliyeye sevk edildi.\n\n— Şüphelilerin arasında OMG Capital Advisors Yönetim Kurulu Başkanı Murat Gülkan ile eski Takasbank Genel Müdürü Yunus Arıncı var.\n\n— Bulls Yatırım, Ruzy Madencilik ve Lydia Holding'in yönetim kurulu başkanları da gözaltına alınanlar arasında.\n\n— Emniyetteki işlemleri biten şüpheliler sağlık kontrolünün ardından Çağlayan'daki İstanbul Adliyesi'ne getirildi. Savcılıktaki işlemler sürüyor.\n\n— İstanbul Cumhuriyet Başsavcılığı, sermaye piyasalarındaki işlemlere ilişkin soruşturmayı sürdürüyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-5-supheli-adliyeye-sevk-edildi-43373180",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/fon-sorusturmasinda-5-supheli-adliyede-3491658",
+    "Evrensel: https://www.evrensel.net/haber/6008841/fon-vurgunu-sorusturmasi-aralarinda-murat-gulkan-ve-yunus-arinci-nin-oldugu-5-kisi-adliyeye-sevk-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/fon-vurgunu-sorusturmasi-5-kisi-adliyeye-sevk-edildi-745661",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-4-supheli-adliyeye-sevk-edildi-43373180"
+   ]
   }
  ],
  "fails": {
@@ -13633,7 +13697,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120171137019580670",
+   "since_id": "2120173658844926051",
    "started": true
   },
   "ajansmuhbir1923": {
