@@ -10805,20 +10805,66 @@
     "yerel"
    ],
    "at": "2026-11-10T05:13:06.258993+00:00"
+  },
+  {
+   "fp": [
+    "1929",
+    "2",
+    "atatü",
+    "açıla",
+    "gönde",
+    "halıd",
+    "hint",
+    "kemal",
+    "mihra",
+    "motif",
+    "musta",
+    "palas",
+    "pera",
+    "vefat",
+    "yılın"
+   ],
+   "tok": [
+    "adet",
+    "alıyo",
+    "atatü",
+    "ayınd",
+    "açan",
+    "açıla",
+    "açıld",
+    "bulun",
+    "dikka",
+    "etraf",
+    "fil",
+    "gönde",
+    "göste",
+    "halıd",
+    "halıl",
+    "halın",
+    "hint",
+    "https",
+    "kasım",
+    "kemal",
+    "kısım",
+    "mihra",
+    "motif",
+    "mum",
+    "musta",
+    "palas",
+    "pera",
+    "saat",
+    "tjraz",
+    "vefat",
+    "yer",
+    "yılın",
+    "çekiy",
+    "çiçek",
+    "üst"
+   ],
+   "at": "2026-11-10T05:16:32.909066+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "596a95f7ca",
-   "post_id": "529346797199852_1461368742769500",
-   "title": "Anadolu Otoyolu’nda zincirleme kaza: 6 yaralı",
-   "at": "2026-11-08T05:44:48.613948+00:00",
-   "yazim": "claude",
-   "metin": "Bolu'da Anadolu Otoyolu'nun Köroğlu Rampası mevkisinde zincirleme kaza oldu, 6 kişi yaralandı.\n\n— Saat 20.30 sıralarında Ankara yönünde giden bir otomobil, aynı yönde ilerleyen başka bir otomobille çarpıştı. Kar yağışı nedeniyle kayganlaşan yolda arkadan gelen 4 otomobil ile bir TIR da kazaya karıştı.\n— Yaralılar Abant İzzet Baysal Üniversitesi Hastanesi'ne kaldırıldı.\n— Araçlar yoldan kaldırıldıktan sonra Ankara yönündeki trafik normale döndü.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008493/anadolu-otoyolunda-zincirleme-kaza-6-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "2d429a6440",
    "post_id": "529346797199852_1461376339435407",
@@ -13361,6 +13407,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/mihriban-yilmaz-cinayetinde-kan-donduran-savunma-sadece-susturmak-2083262"
    ]
+  },
+  {
+   "id": "057bc9870a",
+   "post_id": "529346797199852_1463666602539714",
+   "title": "1929 yılında bir Hint Mihracesi tarafından Mustafa Kemal Atatürk’e gönderilen ve vefatından sonra Pera Palas'ta açılan iki halıdaki motifler:",
+   "at": "2026-11-10T05:16:32.909066+00:00",
+   "yazim": "claude",
+   "metin": "1929'da bir Hint mihracesinin Atatürk'e gönderdiği iki halının motifleri dikkat çekiyor.\n\nHalılar, Atatürk'ün vefatından sonra Pera Palas'ta açıldı.\n\n— Halılarda 38 fil yer alıyor.\n— Etrafında kasım ayında açan kasımpatı çiçekleri ve 10 mum bulunuyor.\n— Üst kısımda saat 09.07'yi gösteriyor.",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2120022090984083513"
+   ]
   }
  ],
  "fails": {
@@ -13543,7 +13600,6 @@
   "cbf8efc597": 1
  },
  "fail_log": [
-  "2026-11-10T04:59 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
@@ -13582,12 +13638,13 @@
   "2026-11-10T05:13 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı"
+  "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:16 1929 yılında bir Hint Mihracesi tarafından Mustafa Kemal Ata -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120018780487290981",
+   "since_id": "2120022090984083513",
    "started": true
   },
   "ajansmuhbir1923": {
