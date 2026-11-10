@@ -10688,6 +10688,43 @@
     "yağma"
    ],
    "at": "2026-11-10T04:36:51.035491+00:00"
+  },
+  {
+   "fp": [
+    "enver",
+    "halkı",
+    "karar",
+    "katıl",
+    "seçen",
+    "tartı",
+    "yöre",
+    "şat"
+   ],
+   "tok": [
+    "appea",
+    "diken",
+    "doğru",
+    "enver",
+    "first",
+    "halkı",
+    "katıl",
+    "kendi",
+    "linka",
+    "post",
+    "rüzga",
+    "santr",
+    "seçen",
+    "seçim",
+    "site",
+    "tartı",
+    "the",
+    "yapma",
+    "yer",
+    "yöre",
+    "çalış",
+    "şat"
+   ],
+   "at": "2026-11-10T04:59:05.186637+00:00"
   }
  ],
  "posted": [
@@ -13423,20 +13460,10 @@
   "0842ac5b45": 1,
   "b00a878c40": 1,
   "910ccf128a": 1,
-  "7a2b61114a": 2,
-  "3aabbd38a3": 1,
-  "cc63b3e0a2": 1
+  "3aabbd38a3": 2,
+  "cc63b3e0a2": 2
  },
  "fail_log": [
-  "2026-11-09T22:06 Setten stüdyoya, ajanstan sahaya: Sinema-TV işçileri örgütle -> ValueError: yanıt okunamadı",
-  "2026-11-09T22:06 Setten stüdyoya, ajanstan sahaya: Sinema-TV işçileri örgütle -> ValueError: yanıt okunamadı",
-  "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
-  "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
-  "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
-  "2026-11-09T22:23 10 Kasım 1938, Dünya basını. -> ValueError: yanıt okunamadı",
-  "2026-11-09T23:00 Trump: İran'la çatışmaların sona ermesine yönelik olumlu bir -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
-  "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
   "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
   "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
   "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -13467,7 +13494,16 @@
   "2026-11-10T04:55 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı"
+  "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
