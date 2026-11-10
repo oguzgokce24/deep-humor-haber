@@ -2,53 +2,6 @@
  "seen": [
   {
    "fp": [
-    "korum",
-    "kâğıt",
-    "miras",
-    "rant",
-    "saldı",
-    "tarih",
-    "üzeri"
-   ],
-   "tok": [
-    "alanl",
-    "baskı",
-    "belir",
-    "bilim",
-    "dan",
-    "diyar",
-    "doğal",
-    "edild",
-    "efes",
-    "kapad",
-    "karşı",
-    "kazan",
-    "korum",
-    "kâğıt",
-    "kültü",
-    "miras",
-    "ndan",
-    "nemru",
-    "nin",
-    "plans",
-    "rant",
-    "surla",
-    "tahri",
-    "tarih",
-    "ticar",
-    "turiz",
-    "uygul",
-    "uzman",
-    "uğrun",
-    "vurgu",
-    "yapıl",
-    "yatır",
-    "üzeri"
-   ],
-   "at": "2026-11-09T02:30:24.825530+00:00"
-  },
-  {
-   "fp": [
     "avrup",
     "barik",
     "karşı",
@@ -10915,23 +10868,86 @@
     "şekil"
    ],
    "at": "2026-11-10T14:21:13.201865+00:00"
+  },
+  {
+   "fp": [
+    "dem",
+    "den",
+    "mecli",
+    "parti",
+    "patla"
+   ],
+   "tok": [
+    "aliağ",
+    "araşt",
+    "bak",
+    "bulun",
+    "bunun",
+    "cinay",
+    "dahi",
+    "daki",
+    "deki",
+    "dem",
+    "demir",
+    "den",
+    "derha",
+    "duruş",
+    "etmel",
+    "fabri",
+    "genel",
+    "gerek",
+    "geçmi",
+    "göre",
+    "görev",
+    "gün",
+    "güven",
+    "habaş",
+    "hatim",
+    "ibb",
+    "ilçes",
+    "istif",
+    "izmir",
+    "işçi",
+    "işçin",
+    "kalma",
+    "kasım",
+    "koyac",
+    "mecli",
+    "müdür",
+    "nda",
+    "ortay",
+    "parti",
+    "patla",
+    "rehbe",
+    "sanay",
+    "sayıs",
+    "sağlı",
+    "sorum",
+    "sosya",
+    "taleb",
+    "tefti",
+    "tekno",
+    "temel",
+    "tülay",
+    "uzlaş",
+    "verdi",
+    "yaşam",
+    "yaşan",
+    "yitir",
+    "yükse",
+    "yılda",
+    "çalış",
+    "çağrı",
+    "çelik",
+    "ölen",
+    "önerg",
+    "önünd",
+    "ışıkh"
+   ],
+   "at": "2026-11-10T14:33:47.489828+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3585a54c15",
-   "post_id": "529346797199852_1461791912727183",
-   "title": "Konya'da mesleki eğitim merkezinde fırın parladı: 4'ü öğrenci, 1 öğretmen yaralandı",
-   "at": "2026-11-08T14:33:00.450349+00:00",
-   "yazim": "claude",
-   "metin": "Konya'da bir mesleki eğitim merkezinde sınav sırasında fırın parladı, 5 kişi yaralandı.\n\n— Fırının açılmaya çalışıldığı sırada biriken gaz tutuşarak parlamaya neden oldu.\n— Yaralılar öğrenci ve öğretmenlerden oluşuyor, vücutlarının çeşitli yerlerinde yanıklar oluştu.\n— Olay, Meram ilçesindeki Meram Mesleki Eğitim Merkezi'nde yaşandı. Pasta ve fırıncılık alanındaki sınav sırasında gaz birikmesi parlamaya yol açtı.\n— İhbar üzerine polis, itfaiye ve sağlık ekipleri olay yerine gitti. Yaralılar ambulanslarla hastanelere kaldırıldı.\n— Yaralıların sağlık durumunun iyi olduğu öğrenildi. Olayla ilgili soruşturma başlatıldı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/konyada-mesleki-egitim-kurumunda-firin-patladi-3-ogrenci-ve-2-ogretmen-yaralandi-7696817",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mesem-deki-sinavda-firindaki-gaz-sikismasi-parlamaya-neden-oldu-2-ogretmen-ve-3-ogrenci-yaralandi-2554457",
-    "Karar: https://www.karar.com/guncel-haberler/konyada-mesleki-egitim-merkezinde-firin-parladi-4u-ogrenci-1-ogretmen-2083000",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/konyada-mesleki-egitim-kurumunda-firin-patladi-3-ogrenci-ve-2-ogretmen-yaralandi-7696817"
-   ]
-  },
   {
    "id": "c93ae99dde",
    "post_id": "529346797199852_1461808589392182",
@@ -13498,6 +13514,19 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/doktoru-bicaklayan-supheli-tutuklandi-uyusturucu-karsiliginda-rapor-iddiasi-4871282",
     "Karar: https://www.karar.com/guncel-haberler/samsunda-doktoru-bicaklayan-supheli-tutuklandi-cok-sayida-suc-kaydi-2083387"
    ]
+  },
+  {
+   "id": "80f8361e05",
+   "post_id": "529346797199852_1464162212490153",
+   "title": "İzmir'deki fabrikada patlama: DEM Parti'den Bakan Işıkhan'a istifa çağrısı",
+   "at": "2026-11-10T14:33:47.489828+00:00",
+   "yazim": "claude",
+   "metin": "DEM Parti Eş Genel Başkanı Tülay Hatimoğulları, Aliağa'daki HABAŞ patlaması için:\n\n“Bunun sorumlusu olan Çalışma ve Sosyal Güvenlik Bakanı, İş Sağlığı ve Güvenliği Genel Müdürü, Sanayi ve Teknoloji Bakanı, Rehberlik ve Teftiş Başkanı derhal istifa etmelidir, bir gün dahi görevde kalmamalıdır.”\n\n— İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik Fabrikası'nda 9 Kasım'da yaşanan patlamada 17 işçi hayatını kaybetti.\n— DEM Parti, patlamanın ve fabrikadaki geçmiş iş cinayetlerinin Meclis'te araştırılması için önerge verdi.\n— Önergenin gerekçesine göre fabrikada son on yılda ölen işçi sayısı en az 28'e yükseldi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/dem-parti-den-ibb-meclisi-aciklamasi-uzlasi-temelinde-durusumuzu-ortaya-koyacagiz-2555068",
+    "Evrensel: https://www.evrensel.net/haber/6008842/dem-partiden-habas-patlamasi-icin-meclis-arastirmasi-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/izmir-deki-fabrikada-patlama-dem-parti-den-bakan-isikhan-a-istifa-cagrisi-745654"
+   ]
   }
  ],
  "fails": {
@@ -13729,7 +13758,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120157138366730746",
+   "since_id": "2120161701597532593",
    "started": true
   },
   "ajansmuhbir1923": {
