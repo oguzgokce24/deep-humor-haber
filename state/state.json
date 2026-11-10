@@ -2,79 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "belöz",
-    "depla",
-    "emre",
-    "fener"
-   ],
-   "tok": [
-    "arada",
-    "attı",
-    "attığ",
-    "aydın",
-    "ayrıl",
-    "açtı",
-    "başla",
-    "belöz",
-    "can",
-    "dakik",
-    "depla",
-    "dönem",
-    "emre",
-    "farkı",
-    "fener",
-    "galib",
-    "galip",
-    "geldi",
-    "gol",
-    "golle",
-    "golüy",
-    "green",
-    "görke",
-    "güldü",
-    "hafta",
-    "irfan",
-    "ise",
-    "ismi",
-    "kahve",
-    "kaldı",
-    "karşı",
-    "kazan",
-    "kocae",
-    "laciv",
-    "lig",
-    "mason",
-    "maçla",
-    "maçta",
-    "maçı",
-    "maçın",
-    "milli",
-    "nda",
-    "ndan",
-    "oğuz",
-    "puand",
-    "puanı",
-    "sarı",
-    "sezon",
-    "stadı",
-    "süper",
-    "trend",
-    "yendi",
-    "yla",
-    "yönet",
-    "yükse",
-    "zorlu",
-    "çorum",
-    "çıkac",
-    "çıktı",
-    "öneml",
-    "şehir"
-   ],
-   "at": "2026-11-08T14:58:19.327182+00:00"
-  },
-  {
-   "fp": [
     "banka",
     "edile",
     "karar",
@@ -10792,20 +10719,58 @@
     "önünd"
    ],
    "at": "2026-11-10T02:55:54.748929+00:00"
+  },
+  {
+   "fp": [
+    "alman",
+    "bağım",
+    "birgü",
+    "dayan",
+    "demok",
+    "gelec",
+    "medya",
+    "savun"
+   ],
+   "tok": [
+    "alman",
+    "amacı",
+    "aydın",
+    "baskı",
+    "bağım",
+    "birgü",
+    "cezae",
+    "daki",
+    "dayan",
+    "dedir",
+    "demok",
+    "deste",
+    "dikka",
+    "durum",
+    "düzen",
+    "etkin",
+    "gazet",
+    "gelec",
+    "karşı",
+    "konse",
+    "konuş",
+    "koord",
+    "medya",
+    "mücad",
+    "olmak",
+    "savun",
+    "sürdü",
+    "tesli",
+    "vurgu",
+    "yapan",
+    "yayın",
+    "yaşar",
+    "çekil",
+    "önemi"
+   ],
+   "at": "2026-11-10T03:08:43.331205+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "83c7764e2c",
-   "post_id": "529346797199852_1461271392779235",
-   "title": "“Vahşi At Dokuz”: Kirli bir hayat temiz bir ölümle sona erebilir mi?",
-   "at": "2026-11-08T03:57:06.861819+00:00",
-   "yazim": "claude",
-   "metin": "Vahşi At Dokuz filminde John Malkovich'in canlandırdığı 72 yaşındaki emekli CIA ajanı Chris, kanserin ölüme yaklaştırdığı bir dönemde Paskalya Adası'na son bir yolculuğa çıkıyor.\n\n— Yanında, yıllardır ortağı olan Lee var ve plan, adada birlikte gezdikten sonra Lee'nin Chris'i öldürüp bunu intihar gibi göstermesi.\n\n— Chris'in geçmişinde Guatemala, Endonezya ve Domuzlar Körfezi gibi CIA operasyonları var ve hayatını bir ses kaydına anlatıyor.\n\n— Film, bu hikâyeyle birlikte 1973 Şili'sindeki darbe hazırlıklarını da gösteriyor.",
-   "sources": [
-    "Serbestiyet: https://serbestiyet.com/featured/vahsi-at-dokuz-kirli-bir-hayat-temiz-bir-olumle-sona-erebilir-mi-253145/"
-   ]
-  },
   {
    "id": "989aaba56b",
    "post_id": "529346797199852_1461280822778292",
@@ -13346,6 +13311,17 @@
    "metin": "İzmir Aliağa'daki HABAŞ Demir Çelik Fabrikası'nda çıkan patlamada en az 10 işçi hayatını kaybetti.\n\nPatlamada 15 işçi de yaralandı.\n\n— Fabrikada üç hafta içinde üç iş cinayetinin yaşandığı belirtiliyor.\n— Hastane önünde açıklama yapmak isteyen işçiler gözaltına alındı.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/facia-goz-gore-gore-geldi-habas-fabrikasi-isci-mezarligina-dondu-745508"
+   ]
+  },
+  {
+   "id": "dcb818a9cb",
+   "post_id": "529346797199852_1463547562551618",
+   "title": "Almanya'da BirGün için dayanışma: \"Bağımsız medyayı savunmak, demokrasiyi ve geleceğimizi savunmaktır\"",
+   "at": "2026-11-10T03:08:43.331205+00:00",
+   "yazim": "claude",
+   "metin": "BirGün Yayın Koordinatörü Yaşar Aydın, Almanya'daki dayanışma konserinde:\n\n“Türkiye’de gazeteciler teslim oldu dedirtmeyeceğiz.”\n\n— Almanya'da, baskılara karşı gazetecilik yapan BirGün'e destek olmak için bir dayanışma konseri düzenlendi.\n\n— Etkinlikte bağımsız medyanın önemi vurgulandı ve cezaevindeki gazetecilerin durumuna dikkat çekildi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/almanya-da-birgun-icin-dayanisma-bagimsiz-medyayi-savunmak-demokrasiyi-ve-gelecegimizi-savunmaktir-745500"
    ]
   }
  ],
