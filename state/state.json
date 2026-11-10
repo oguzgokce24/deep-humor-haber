@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "diyer",
-    "gözal",
-    "ismi",
-    "kilit",
-    "nihay",
-    "vurgu"
-   ],
-   "tok": [
-    "adli",
-    "adıml",
-    "alınd",
-    "atıld",
-    "aylar",
-    "aynı",
-    "başsa",
-    "bulls",
-    "delin",
-    "diyer",
-    "dokun",
-    "dün",
-    "emir",
-    "eylül",
-    "fon",
-    "gecik",
-    "geç",
-    "grup",
-    "ilgil",
-    "ismi",
-    "kalka",
-    "kapsa",
-    "kemal",
-    "kilit",
-    "kontr",
-    "kurul",
-    "murat",
-    "mızra",
-    "neden",
-    "nihay",
-    "nın",
-    "parti",
-    "savun",
-    "sordu",
-    "sığma",
-    "uygul",
-    "vurgu",
-    "yatır",
-    "yönet",
-    "yürüt",
-    "çuval"
-   ],
-   "at": "2026-11-08T13:16:03.211719+00:00"
-  },
-  {
-   "fp": [
     "cezae",
     "parti",
     "siliv",
@@ -10744,20 +10690,90 @@
     "özel"
    ],
    "at": "2026-11-10T01:13:21.675681+00:00"
+  },
+  {
+   "fp": [
+    "açılı",
+    "bekle",
+    "değiş",
+    "hattı",
+    "metro",
+    "sabır",
+    "takvi",
+    "yılla"
+   ],
+   "tok": [
+    "arası",
+    "asels",
+    "aylar",
+    "ayına",
+    "açılm",
+    "açılı",
+    "başla",
+    "bekle",
+    "bekli",
+    "bin",
+    "dakik",
+    "dan",
+    "darıc",
+    "değiş",
+    "düşec",
+    "ekim",
+    "ertel",
+    "gebze",
+    "gecik",
+    "geç",
+    "geçti",
+    "gökçe",
+    "günlü",
+    "hat",
+    "hatta",
+    "hattı",
+    "haval",
+    "hedef",
+    "imzal",
+    "istas",
+    "işi",
+    "kapas",
+    "kaydı",
+    "kilom",
+    "kocae",
+    "mart",
+    "metro",
+    "neden",
+    "osb",
+    "otomo",
+    "sabih",
+    "sabır",
+    "sahil",
+    "sanay",
+    "sinya",
+    "sözle",
+    "süred",
+    "süren",
+    "takvi",
+    "tam",
+    "tarih",
+    "testl",
+    "uzun",
+    "var",
+    "yanda",
+    "yapım",
+    "yaşay",
+    "yolcu",
+    "yolla",
+    "yürüt",
+    "yılla",
+    "çalış",
+    "çayır",
+    "çekil",
+    "öte",
+    "üssü"
+   ],
+   "at": "2026-11-10T01:25:59.102472+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "084099cf26",
-   "post_id": "529346797199852_1461201216119586",
-   "title": "Çubukluda rant endişesi: 509 hane şimdi nereye gidecek?",
-   "at": "2026-11-08T02:17:18.102517+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Beykoz ilçesindeki Çubuklu Mahallesi'nde 509 hane, 20 Kasım'a kadar evlerini boşaltmaları gerektiğini bildiren bir tebligat aldı.\n\n— Mahalle sakinleri, evlerin boşaltılmaması halinde elektrik, su ve doğal gazın kesileceğinin bildirildiğini anlatıyor.\n\n— Aynı sakinler, gerekirse evlerin polis zoruyla boşaltılacağının da söylendiğini belirtiyor.\n\n— Hanelerin bundan sonra nereye gideceği belli değil, yurttaşlar endişeyle bekliyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/cubukluda-rant-endisesi-509-hane-simdi-nereye-gidecek-745197"
-   ]
-  },
   {
    "id": "81aaaf6d5c",
    "post_id": "529346797199852_1461210312785343",
@@ -13299,6 +13315,17 @@
     "Habertürk: https://www.haberturk.com/gundem/yesil-mutabakat-genelgesi-resmi-gazete-de-3926138",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/yesil-mutabakat-genelgesi-resmi-gazete-de-yayimlandi-2026-2030-eylem-plani-yururluge-girdi-2554896"
    ]
+  },
+  {
+   "id": "00e0395fa4",
+   "post_id": "529346797199852_1463471672559207",
+   "title": "Yıllardır sabırsızlıkla beklenen metro hattında açılış takvimi değişti",
+   "at": "2026-11-10T01:25:59.102472+00:00",
+   "yazim": "claude",
+   "metin": "Kocaeli'de M1 Gebze OSB - Darıca Sahil metro hattının açılışı ertelendi.\n\nAçılış tarihi 29 Ekim 2026'dan en geç 2027 Mart ayına kaydırıldı.\n\n— Gebze ve Darıca'da yaşayanlar uzun süredir bu hattın açılmasını bekliyordu.\n— 15,4 kilometrelik hatta 11 istasyon var. Gebze OSB ile Darıca sahili arasındaki yolculuk 19 dakikaya düşecek.\n— Hat tam kapasiteyle çalışmaya başlayınca günlük 55 bin aracın yollardan çekilmesi hedefleniyor.\n— Gecikmenin nedeni süren sinyalizasyon çalışmaları. Bu işi ASELSAN yürütüyor.",
+   "sources": [
+    "Karar: https://www.karar.com/sehir-haberleri/gebze-darica-metrosu-ne-zaman-acilacak-cayirova-hatti-nereden-gececek-2083261"
+   ]
   }
  ],
  "fails": {
@@ -13474,12 +13501,10 @@
   "ad31f42362": 1,
   "b0f77ccd27": 1,
   "f94c3a8ce3": 3,
-  "25b129ca25": 2
+  "25b129ca25": 2,
+  "0842ac5b45": 1
  },
  "fail_log": [
-  "2026-11-09T04:50 İbrahim Kahveci: Emeklilerin zaten sizden en az yüzde 55 ala -> ValueError: yanıt okunamadı",
-  "2026-11-09T04:50 İbrahim Kahveci: Emeklilerin zaten sizden en az yüzde 55 ala -> ValueError: yanıt okunamadı",
-  "2026-11-09T08:08 Akın Gürlek açıkladı: 73 dosyada 80 cinayet aydınlatıldı -> ValueError: cümle yarım kalmış: '— Manisa, Ankara, Batman, Aydın ve İst'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-09T10:03 Dusan Vlahovic, Vincenzo Italiano ile kendini buldu -> ValueError: yanıt okunamadı",
   "2026-11-09T10:29 İzmir'de fabrikada patlama: Ambulanslar sevk edildi -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-09T14:04 Adalet Bakanlığı bütçesi yeni cezaevlerine akacak -> ValueError: yanıt okunamadı",
@@ -13516,7 +13541,10 @@
   "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
   "2026-11-09T22:10 'Başka bir siyaset mümkün': Z kuşağı dünyayı nasıl sarsıyor? -> ValueError: yanıt okunamadı",
   "2026-11-09T22:23 10 Kasım 1938, Dünya basını. -> ValueError: yanıt okunamadı",
-  "2026-11-09T23:00 Trump: İran'la çatışmaların sona ermesine yönelik olumlu bir -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-09T23:00 Trump: İran'la çatışmaların sona ermesine yönelik olumlu bir -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
+  "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
+  "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
