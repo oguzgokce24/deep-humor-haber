@@ -2,70 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "bakıl",
-    "büyük",
-    "fon",
-    "makam"
-   ],
-   "tok": [
-    "ahlak",
-    "ahmet",
-    "akp",
-    "bakıl",
-    "bilec",
-    "bulam",
-    "burad",
-    "bürok",
-    "büyük",
-    "danış",
-    "den",
-    "engel",
-    "fon",
-    "genel",
-    "gereğ",
-    "görev",
-    "hata",
-    "hesab",
-    "iktid",
-    "ilişk",
-    "işlem",
-    "karış",
-    "kim",
-    "konuş",
-    "makam",
-    "mecli",
-    "mevki",
-    "nda",
-    "nitel",
-    "noksa",
-    "parti",
-    "rütbe",
-    "savun",
-    "sonun",
-    "sorul",
-    "sözle",
-    "sürdü",
-    "sürec",
-    "süreç",
-    "ten",
-    "testi",
-    "topla",
-    "ucu",
-    "uzana",
-    "vurgu",
-    "yapmı",
-    "yardı",
-    "yer",
-    "yolsu",
-    "çalış",
-    "çevre",
-    "öne"
-   ],
-   "at": "2026-11-09T00:19:40.356121+00:00"
-  },
-  {
-   "fp": [
     "3",
     "başka",
     "bddk",
@@ -10809,23 +10745,91 @@
     "şubat"
    ],
    "at": "2026-11-10T12:10:05.372277+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "biri",
+    "boğaz",
+    "hürmü",
+    "iran",
+    "mayın",
+    "nda",
+    "petro",
+    "tanke",
+    "yangı",
+    "çarpa",
+    "çıktı"
+   ],
+   "tok": [
+    "abd",
+    "aldı",
+    "aldığ",
+    "alev",
+    "alına",
+    "aynı",
+    "belir",
+    "bildi",
+    "biri",
+    "birin",
+    "birli",
+    "boğaz",
+    "bölge",
+    "büyük",
+    "deniz",
+    "devre",
+    "devri",
+    "diğer",
+    "donan",
+    "duyur",
+    "dışı",
+    "dışın",
+    "gelen",
+    "gemil",
+    "geçme",
+    "göre",
+    "güzer",
+    "harek",
+    "hedef",
+    "hürmü",
+    "ikinc",
+    "ilerl",
+    "iran",
+    "ise",
+    "izin",
+    "kaldı",
+    "kapat",
+    "karış",
+    "korum",
+    "kuvve",
+    "mayın",
+    "meyda",
+    "muhaf",
+    "nda",
+    "ordus",
+    "petro",
+    "savaş",
+    "siste",
+    "sonra",
+    "sonuc",
+    "süper",
+    "takip",
+    "tanke",
+    "uçakl",
+    "veril",
+    "yangı",
+    "yapan",
+    "çalış",
+    "çaplı",
+    "çarpa",
+    "çarpm",
+    "çarpt",
+    "çıktı"
+   ],
+   "at": "2026-11-10T12:27:18.384017+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1ac73a8373",
-   "post_id": "529346797199852_1461676212738753",
-   "title": "İmamoğlu Silivri'den mektup gönderdi: \"Meselemiz memlekettir, durum acildir\"",
-   "at": "2026-11-08T12:24:57.170401+00:00",
-   "yazim": "claude",
-   "metin": "Silivri'deki Marmara Cezaevi'nde tutuklu bulunan Ekrem İmamoğlu, Sözcü yazarı Necati Doğru'ya gönderdiği mektupta fon vurgununu gündeme taşıdı.\n\n— İmamoğlu, fon soruşturmasında adı geçenlerin listesinin neden açıklanmadığını sordu.\n\n— Mektubunda İBB iddianamesindeki \"FON\" ve \"SİSTEM\" gibi ifadelerin rastlantı olmadığını savundu ve bu ifadeleri fon vurgunuyla ilişkilendirdi.\n\n— Siyasi ve bürokratik bağlantıların araştırılmasını istedi. Mektubunda şöyle yazdı: “Bu liste turpun büyüğünün değil, büyük turpların listesidir!”",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/durum-acil-diyerek-seslendi-imamoglu-ndan-yeni-mektup-fon-vurgununa-karisanlarin-listesi-neden-aciklanmiyor-2554397",
-    "Evrensel: https://www.evrensel.net/haber/6008539/imamoglu-ndan-mektup-meselemiz-memlekettir-durum-acildir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/imamoglu-silivri-den-mektup-gonderdi-meselemiz-memlekettir-durum-acildir-745268",
-    "Karar: https://www.karar.com/guncel-haberler/imamoglundan-fon-vurgunu-cikisi-bu-liste-turpun-buyugunun-degil-buyuk-2082986"
-   ]
-  },
   {
    "id": "da07b377c6",
    "post_id": "529346797199852_1461696592736715",
@@ -13388,6 +13392,19 @@
     "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/depremzede-aileye-gupegunduz-hirsizlik-soku-500-bin-lira-degerinde-para-ve-altin-caldilar-4871249",
     "Karar: https://www.karar.com/sehir-haberleri/depremden-sonra-yeni-evlerinde-hirsizlik-soku-yangin-merdiveninden-2083388"
    ]
+  },
+  {
+   "id": "cc4259cf4a",
+   "post_id": "529346797199852_1464035285836179",
+   "title": "İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın çıktı",
+   "at": "2026-11-10T12:27:18.384017+00:00",
+   "yazim": "claude",
+   "metin": "İran'ın açıklamasına göre Hürmüz Boğazı'nda iki petrol tankeri devre dışı kaldı; biri mayına çarparak alev aldı.\n\n— İran Devrim Muhafızları Deniz Kuvvetleri'ne göre, İran'ın belirlediği güzergâhın dışında, takip sistemlerini kapatarak ilerleyen bir süpertanker deniz mayınına çarptı ve yangın çıktı.\n\n— İkinci tanker ise ABD savaş uçaklarının korumasında aynı güzergâhın dışından geçmeye çalışırken \"kaza\"ya karıştı ve büyük çaplı bir yangın çıktı.\n\n— Açıklamada, İran'ın belirlediği güzergâh dışında hareket eden ve ABD ordusuyla iş birliği yapan tüm gemilerin hedef alınacağı bildirildi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti/4118707",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti-962807.html",
+    "Evrensel: https://www.evrensel.net/haber/6008813/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13571,12 +13588,10 @@
   "aba55cc083": 1,
   "995228033a": 1,
   "099f9883ed": 1,
-  "2b223f448c": 1
+  "2b223f448c": 1,
+  "b5c4a7dc8f": 1
  },
  "fail_log": [
-  "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
   "2026-11-10T05:06 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
@@ -13613,7 +13628,10 @@
   "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı",
   "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı",
   "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı",
-  "2026-11-10T09:59 Kadın hakime silahlı saldırı davasında istinaftan yeni karar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-10T09:59 Kadın hakime silahlı saldırı davasında istinaftan yeni karar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T12:27 Prof. Dr. Özer Güzel'den böbrek taşı uyarısı: Ateş ve tıkanı -> ValueError: yanıt okunamadı",
+  "2026-11-10T12:27 Prof. Dr. Özer Güzel'den böbrek taşı uyarısı: Ateş ve tıkanı -> ValueError: metin çok kısa, bağlam yok",
+  "2026-11-10T12:27 Prof. Dr. Özer Güzel'den böbrek taşı uyarısı: Ateş ve tıkanı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
