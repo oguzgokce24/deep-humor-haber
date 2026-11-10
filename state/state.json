@@ -2,91 +2,6 @@
  "seen": [
   {
    "fp": [
-    "16",
-    "alışv",
-    "gidiy",
-    "ingil",
-    "küçük",
-    "kısıt",
-    "yasak",
-    "yaşın",
-    "yolda",
-    "çevri"
-   ],
-   "tok": [
-    "adım",
-    "aktar",
-    "altın",
-    "alışv",
-    "açıyo",
-    "bazı",
-    "başba",
-    "başla",
-    "child",
-    "depop",
-    "devam",
-    "değer",
-    "dijit",
-    "ebay",
-    "edilm",
-    "erişi",
-    "eski",
-    "faceb",
-    "fotoğ",
-    "gerek",
-    "geçiy",
-    "gidiy",
-    "giriş",
-    "göre",
-    "harek",
-    "hüküm",
-    "ingil",
-    "isted",
-    "istis",
-    "karşı",
-    "keir",
-    "korum",
-    "kulla",
-    "kültü",
-    "küçük",
-    "kısıt",
-    "lisa",
-    "marke",
-    "medya",
-    "mesaj",
-    "nandy",
-    "neden",
-    "nitel",
-    "para",
-    "platf",
-    "sitel",
-    "socie",
-    "sosya",
-    "spor",
-    "starm",
-    "sıra",
-    "the",
-    "uygun",
-    "vakfı",
-    "vinte",
-    "yaban",
-    "yanı",
-    "yasak",
-    "yasağ",
-    "yaş",
-    "yaşın",
-    "yol",
-    "yolda",
-    "yönel",
-    "çalış",
-    "çevri",
-    "çocuk",
-    "özell"
-   ],
-   "at": "2026-11-08T16:16:29.946729+00:00"
-  },
-  {
-   "fp": [
     "farkl",
     "grubu",
     "hikây",
@@ -10718,20 +10633,53 @@
     "şubat"
    ],
    "at": "2026-11-10T04:10:46.351857+00:00"
+  },
+  {
+   "fp": [
+    "445",
+    "alınd",
+    "gözal",
+    "huzur",
+    "istan",
+    "kişi",
+    "uygul"
+   ],
+   "tok": [
+    "alınd",
+    "arana",
+    "açık",
+    "bin",
+    "bulun",
+    "denet",
+    "dün",
+    "genel",
+    "gram",
+    "hap",
+    "huzur",
+    "işlem",
+    "kapsa",
+    "kaçağ",
+    "kent",
+    "kurus",
+    "motos",
+    "otomo",
+    "ruhsa",
+    "sürüc",
+    "taban",
+    "topla",
+    "tüfek",
+    "umuma",
+    "uygul",
+    "uyuşt",
+    "yaptı",
+    "yapıl",
+    "yer",
+    "yokla"
+   ],
+   "at": "2026-11-10T04:23:53.183531+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8595fce252",
-   "post_id": "529346797199852_1461351666104541",
-   "title": "Hakkari’de 13 yaşındaki çocuğa istismar: Halk sokağa çıktı",
-   "at": "2026-11-08T05:19:38.780576+00:00",
-   "yazim": "claude",
-   "metin": "Hakkari'de 13 yaşındaki bir çocuğa istismar iddiası üzerine halk sokağa çıktı. Yürüyüşte \"Kadın, yaşam, özgürlük\" sloganları atıldı, kadınlara ve çocuklara yönelik şiddete, uyuşturucuya ve fuhuşa dikkat çekildi.\n\n— Aile 20 Ekim'de suç duyurusunda bulundu, çocuk 21 Ekim'de Çocuk İzlem Merkezi'nde beyanda bulundu.\n— DEM Parti Hakkari Milletvekili Öznur Bartın, dosyanın savcısının iki haftadır izinde olduğunu söyledi ve bu süreçte ne yapıldığını sordu.\n\nStar Kadın Derneği Başkan Yardımcısı Ömür Çiftçi:\n\n“E.O., N.Ç., N.K. hakkındaki iddialar ayırım gözetmeksizin soruşturulmalı, çocuğun kimliği ve mahremiyeti korunmalıdır.”",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/hakkaride-13-yasindaki-cocuga-istismar-halk-sokaga-cikti-p377070"
-   ]
-  },
   {
    "id": "cba1a2e008",
    "post_id": "529346797199852_1461360759436965",
@@ -13272,6 +13220,20 @@
    "sources": [
     "Diken: https://www.diken.com.tr/osman-kavala-3-bin-297-gundur-hapiste/?utm_source=rss&utm_medium=rss&utm_campaign=osman-kavala-3-bin-297-gundur-hapiste"
    ]
+  },
+  {
+   "id": "b0985effe8",
+   "post_id": "529346797199852_1463609049212136",
+   "title": "İstanbul'da huzur uygulaması. 445 kişi gözaltına alındı",
+   "at": "2026-11-10T04:23:53.183531+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da polisin kent genelinde yaptığı \"Huzur İstanbul\" denetiminde 445 şüpheli gözaltına alındı.\n\n— Denetimlerde aranan 538 kişi ile 79 yoklama kaçağı yakalandı.\n— Polis 23 ruhsatsız tabanca, 7 tüfek ve 8 kurusıkı tabanca ele geçirdi.\n— 877 gram uyuşturucu ile 605 uyuşturucu hap bulundu.\n— 372 umuma açık yer denetlendi, 2 bin 835 araç ve motosiklet sürücüsüne işlem yapıldı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-huzur-uygulamasinda-445-supheliye-gozalti-962746.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbulda-huzur-uygulamasi-445-kisi-gozaltina-alindi-43372209",
+    "NTV: https://www.ntv.com.tr/turkiye/istanbulda-huzur-uygulamasi-445-kisi-gozaltina-alindi-1750191",
+    "Habertürk: https://www.haberturk.com/gundem/istanbul-daki-huzur-uygulamasinda-445-zanli-gozaltina-alindi-3926146"
+   ]
   }
  ],
  "fails": {
@@ -13449,12 +13411,10 @@
   "f94c3a8ce3": 3,
   "25b129ca25": 2,
   "0842ac5b45": 1,
-  "b00a878c40": 1
+  "b00a878c40": 1,
+  "910ccf128a": 1
  },
  "fail_log": [
-  "2026-11-09T21:01 “Tek bir dileğim var. Ben öldükten sonra beni millete unuttu -> ValueError: yanıt okunamadı",
-  "2026-11-09T21:26 Beşiktaş: “İmzanı attığın Cumhuriyetin ilelebet bekçisiyiz.” -> ValueError: yanıt okunamadı",
-  "2026-11-09T21:26 Beşiktaş: “İmzanı attığın Cumhuriyetin ilelebet bekçisiyiz.” -> ValueError: yanıt okunamadı",
   "2026-11-09T21:26 Beşiktaş: “İmzanı attığın Cumhuriyetin ilelebet bekçisiyiz.” -> ValueError: yanıt okunamadı",
   "2026-11-09T21:39 Fenerbahçe SK: — Attığımız her adımda, emekle kazandığımız h -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-09T21:39 Setten stüdyoya, ajanstan sahaya: Sinema-TV işçileri örgütle -> ValueError: yanıt okunamadı",
@@ -13491,7 +13451,10 @@
   "2026-11-10T03:34 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
   "2026-11-10T03:34 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
   "2026-11-10T03:34 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
-  "2026-11-10T03:58 Bu sözleri ilk kez duyuldu! Gazi’nin Fransızca konuşması yay -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-10T03:58 Bu sözleri ilk kez duyuldu! Gazi’nin Fransızca konuşması yay -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-10T04:24 Mihriban Yılmaz cinayetinde kan donduran savunma: 'Sadece su -> ValueError: yanıt okunamadı",
+  "2026-11-10T04:24 Mihriban Yılmaz cinayetinde kan donduran savunma: 'Sadece su -> ValueError: cümle yarım kalmış: 'ığını fark edince kadının telefonunu alm'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T04:24 Mihriban Yılmaz cinayetinde kan donduran savunma: 'Sadece su -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
