@@ -10847,20 +10847,77 @@
     "ülkel"
    ],
    "at": "2026-11-10T19:05:54.083312+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "dışı",
+    "kaldı",
+    "nin",
+    "nükle",
+    "rusya",
+    "saf",
+    "santr",
+    "türki",
+    "çin",
+    "çıktı",
+    "öne",
+    "ülke"
+   ],
+   "tok": [
+    "aday",
+    "aylar",
+    "aşama",
+    "bayra",
+    "bekle",
+    "belir",
+    "büyük",
+    "dikka",
+    "dışı",
+    "gelin",
+    "geliş",
+    "gerid",
+    "görül",
+    "görüş",
+    "güney",
+    "güç",
+    "güçlü",
+    "ikna",
+    "kaldı",
+    "kalma",
+    "kanad",
+    "konus",
+    "kore",
+    "netle",
+    "nin",
+    "nükle",
+    "nın",
+    "olduk",
+    "ortak",
+    "proje",
+    "rekab",
+    "rusya",
+    "saf",
+    "santr",
+    "sinop",
+    "sundu",
+    "tablo",
+    "tekno",
+    "yaptı",
+    "yürüt",
+    "çekiy",
+    "çin",
+    "çıktı",
+    "ölçüd",
+    "öne",
+    "önümü",
+    "ülke",
+    "ülken"
+   ],
+   "at": "2026-11-10T19:18:43.042367+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0db6d98aa6",
-   "post_id": "529346797199852_1462047692701605",
-   "title": "Netflix'ten Türk dizilerine rekor finansman: 2028'e kadar dev yapımlar geliyor",
-   "at": "2026-11-08T19:22:02.515627+00:00",
-   "yazim": "claude",
-   "metin": "Netflix, 2026–2028 dönemini kapsayan üç yılda Türkiye'deki yerli film ve dizi üretimine 10 milyar TL aktaracak.\n\n— Platform Türkiye'de 10. yılını doldurdu. Bu sürede 30'dan fazla şehirde çekim yapıldı, 90'dan fazla yerli yapım izleyiciyle buluştu.\n— Yeni bütçeyle Anadolu'nun farklı kentlerinde film setleri kurulacak ve kreatif sektörde yeni iş alanları açılacak.\n— Burak Dağlıoğlu, yatırımı hizmet ihracatı gelirlerindeki vergi indiriminin isabetli olduğunu gösteren bir işaret olarak değerlendirdi.\n\nNetflix İspanya, Portekiz, Türkiye ve Orta Doğu'dan Sorumlu İçerik Başkan Yardımcısı Diego Ávalos:\n\n“Bugün, bu başarıya yenilerini eklemek üzere 2026–2028 dönemini kapsayan toplam 10 milyar TL'lik yatırımımızı duyuruyoruz.”",
-   "sources": [
-    "Karar: https://www.karar.com/hayat-haberleri/netflix-yeni-turk-dizileri-ve-filmleri-neler-netflix-yeni-turk-dizileri-2083023"
-   ]
-  },
   {
    "id": "ae32203472",
    "post_id": "529346797199852_1462056186034089",
@@ -13430,6 +13487,17 @@
    "sources": [
     "Diken: https://www.diken.com.tr/cop31e-cagri-saglikcilar-kadinlar-yerel-topluluklar-da-masada-olsun/?utm_source=rss&utm_medium=rss&utm_campaign=cop31e-cagri-saglikcilar-kadinlar-yerel-topluluklar-da-masada-olsun"
    ]
+  },
+  {
+   "id": "3da80eeb77",
+   "post_id": "529346797199852_1464425762463798",
+   "title": "Türkiye'nin yeni nükleer santralleri için iki ülke öne çıktı: Rusya ve Çin saf dışı kaldı",
+   "at": "2026-11-10T19:18:43.042367+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'nin yeni nükleer santral projesinde Kanada ve Güney Kore öne çıktı, Rusya ile Çin rekabette geride kaldı.\n\n— Bakan Bayraktar, iki ülkenin sunduğu teknolojilerden büyük ölçüde ikna olduklarını söyledi.\n\n— Ortakların önümüzdeki aylarda netleşmesi bekleniyor.\n\n— Sinop Nükleer Güç Santrali için en güçlü aday görülen Rusya'nın bu tabloda geride kalması dikkat çekiyor.",
+   "sources": [
+    "Karar: https://www.karar.com/"
+   ]
   }
  ],
  "fails": {
@@ -13621,12 +13689,10 @@
   "d1d4f1c2f7": 1,
   "c332295b4a": 1,
   "558b280cac": 1,
-  "c9c5711427": 1
+  "c9c5711427": 1,
+  "eace240054": 1
  },
  "fail_log": [
-  "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
@@ -13663,12 +13729,15 @@
   "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı",
   "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı",
   "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı",
-  "2026-11-10T19:06 COP31'e çağrı: Sağlıkçılar, kadınlar, yerel topluluklar da m -> ValueError: yanıt okunamadı"
+  "2026-11-10T19:06 COP31'e çağrı: Sağlıkçılar, kadınlar, yerel topluluklar da m -> ValueError: yanıt okunamadı",
+  "2026-11-10T19:18 Yeşim Salkım: \"Türk'üm, doğruyum, çalışkanım! Haluk İngiliz  -> ValueError: yanıt okunamadı",
+  "2026-11-10T19:18 Yeşim Salkım: \"Türk'üm, doğruyum, çalışkanım! Haluk İngiliz  -> ValueError: yanıt okunamadı",
+  "2026-11-10T19:18 Yeşim Salkım: \"Türk'üm, doğruyum, çalışkanım! Haluk İngiliz  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120229681504862648",
+   "since_id": "2120233300216193063",
    "started": true
   },
   "ajansmuhbir1923": {
