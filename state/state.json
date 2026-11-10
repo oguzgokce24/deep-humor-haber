@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "372",
-    "8",
-    "bekli",
-    "bin",
-    "güner",
-    "istan",
-    "kişi",
-    "müdür",
-    "nakli",
-    "organ",
-    "sağlı"
-   ],
-   "tok": [
-    "abdul",
-    "anı",
-    "bağış",
-    "bekle",
-    "bekli",
-    "belir",
-    "beyan",
-    "bin",
-    "birik",
-    "bulun",
-    "böbre",
-    "den",
-    "devle",
-    "doç",
-    "emre",
-    "güner",
-    "hasta",
-    "insan",
-    "kalp",
-    "karac",
-    "kişil",
-    "kılab",
-    "müdür",
-    "mümkü",
-    "nabız",
-    "nakil",
-    "nakli",
-    "nice",
-    "oluşt",
-    "organ",
-    "payla",
-    "rakam",
-    "sağlı",
-    "sevdi",
-    "vatan",
-    "vefat",
-    "yalnı",
-    "yapma",
-    "yapıl",
-    "yüzde",
-    "yılın",
-    "çağrı",
-    "çağır",
-    "üzeri"
-   ],
-   "at": "2026-11-08T17:18:32.818589+00:00"
-  },
-  {
-   "fp": [
     "boş",
     "dediğ",
     "esnaf",
@@ -10862,20 +10800,67 @@
     "üst"
    ],
    "at": "2026-11-10T05:16:32.909066+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "batma",
+    "bölün",
+    "ikiye",
+    "otomo",
+    "çarpa"
+   ],
+   "tok": [
+    "akşam",
+    "arası",
+    "araşt",
+    "batma",
+    "başla",
+    "bekle",
+    "beled",
+    "bulva",
+    "bölün",
+    "durum",
+    "eski",
+    "eğiti",
+    "giden",
+    "gülte",
+    "hasta",
+    "haval",
+    "ikiye",
+    "ilgil",
+    "incel",
+    "iyi",
+    "kaldı",
+    "kavşa",
+    "kazay",
+    "kırmı",
+    "mahal",
+    "nda",
+    "otobü",
+    "otomo",
+    "sağlı",
+    "sonuc",
+    "sular",
+    "sürüc",
+    "tpao",
+    "vardı",
+    "yaşan",
+    "yaşın",
+    "yönün",
+    "zinci",
+    "çarpa",
+    "çarpm",
+    "çarpt",
+    "çarpı",
+    "öğren",
+    "ışıkt",
+    "şidde"
+   ],
+   "at": "2026-11-10T05:29:03.408808+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2d429a6440",
-   "post_id": "529346797199852_1461376339435407",
-   "title": "Anderson Talisca için olay iddia: Üçüncü kez Süper Lig'e dönüyor",
-   "at": "2026-11-08T05:57:01.373645+00:00",
-   "yazim": "claude",
-   "metin": "Anderson Talisca'nın devre arasında Beşiktaş'a dönebileceği iddia edildi.\n\n— Brezilyalı 32 yaşındaki oyuncu, bu sezon başında Fenerbahçe'den ayrılarak BAE ekibi Al-Jazira'ya transfer olmuştu.\n\n— Transfer gerçekleşirse Talisca, Süper Lig'deki üçüncü, Beşiktaş'taki ikinci dönemine başlayacak.\n\n— 2016-2018 arasında Beşiktaş'ta 80 maçta 37 gol atan ve 14 asist yapan oyuncu, siyah-beyazlı takımla şampiyonluk da yaşamıştı.",
-   "sources": [
-    "Sözcü Spor: https://www.sozcu.com.tr/anderson-talisca-super-lige-ucuncu-kez-donebilir-p376995"
-   ]
-  },
   {
    "id": "dd88bf20b5",
    "post_id": "529346797199852_1461384799434561",
@@ -13418,6 +13403,18 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2120022090984083513"
    ]
+  },
+  {
+   "id": "251e96114d",
+   "post_id": "529346797199852_1463675149205526",
+   "title": "Batman’da 4 araca çarpan otomobil ikiye bölündü: Sürücü yaralandı",
+   "at": "2026-11-10T05:29:03.408808+00:00",
+   "yazim": "claude",
+   "metin": "Batman'da kırmızı ışıkta bekleyen 4 araca çarpan otomobil ikiye bölündü.\n\n— Kaza akşam 21.30 sularında Gültepe Mahallesi TPAO Bulvarı'nda yaşandı.\n— Eski Havalimanı Kavşağı yönüne giden otomobil, kırmızı ışıkta bekleyen araçlara çarptı. Çarpılan araçlar arasında bir belediye otobüsü ile iki araç da vardı.\n— Çarpmanın şiddetiyle ikiye bölünen otomobilin 21 yaşındaki sürücüsü yaralandı.\n— Yaralı sürücü Batman Eğitim ve Araştırma Hastanesine kaldırıldı. Sağlık durumunun iyi olduğu öğrenildi.\n— Kazayla ilgili inceleme başlatıldı.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6008745/batmanda-zincirleme-kaza-kirmizi-isikta-bekleyen-4-araca-carpan-otomobil-ikiye-bolundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/batmanda-4-araca-carpan-otomobil-ikiye-bolundu-surucu-yaralandi-745532"
+   ]
   }
  ],
  "fails": {
@@ -13644,7 +13641,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120022090984083513",
+   "since_id": "2120023994846118296",
    "started": true
   },
   "ajansmuhbir1923": {
