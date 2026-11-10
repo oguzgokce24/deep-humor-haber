@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "akp",
-    "dan",
-    "fon",
-    "iddia",
-    "isim",
-    "kriti",
-    "soruş",
-    "sürüy",
-    "tayya",
-    "şamil"
-   ],
-   "tok": [
-    "aile",
-    "akp",
-    "almal",
-    "ancak",
-    "ayrıc",
-    "başla",
-    "bddk",
-    "belir",
-    "betül",
-    "buldu",
-    "dahil",
-    "dan",
-    "değer",
-    "düzey",
-    "edile",
-    "eski",
-    "eşik",
-    "fatma",
-    "fon",
-    "geniş",
-    "gerek",
-    "gönül",
-    "görev",
-    "hatır",
-    "iade",
-    "iddia",
-    "isim",
-    "işlem",
-    "kamuo",
-    "kaya",
-    "kondu",
-    "kriti",
-    "liray",
-    "malva",
-    "mikta",
-    "milya",
-    "nın",
-    "polit",
-    "savun",
-    "sayan",
-    "sinin",
-    "sorgu",
-    "sosya",
-    "spk",
-    "sürdü",
-    "sürüy",
-    "takas",
-    "tamam",
-    "tartı",
-    "tayya",
-    "tedbi",
-    "verme",
-    "yapıl",
-    "yaşan",
-    "yönet",
-    "öne",
-    "öneml",
-    "üst",
-    "şamil",
-    "şirke"
-   ],
-   "at": "2026-11-09T03:25:47.882693+00:00"
-  },
-  {
-   "fp": [
     "aydın",
     "direğ",
     "patla",
@@ -10878,25 +10800,64 @@
     "şirke"
    ],
    "at": "2026-11-10T15:22:53.815149+00:00"
+  },
+  {
+   "fp": [
+    "gazet",
+    "hapsi",
+    "ismai",
+    "kaldı",
+    "sayma"
+   ],
+   "tok": [
+    "adli",
+    "almış",
+    "ağıre",
+    "bekle",
+    "benim",
+    "bolat",
+    "bulun",
+    "cezas",
+    "doğru",
+    "duruş",
+    "düzen",
+    "erken",
+    "evde",
+    "fon",
+    "gazet",
+    "görül",
+    "göze",
+    "hakkı",
+    "hapis",
+    "hapsi",
+    "iddia",
+    "ise",
+    "ismai",
+    "isten",
+    "kaldı",
+    "kalkt",
+    "kalma",
+    "kapsa",
+    "kontr",
+    "murat",
+    "sarıg",
+    "sayma",
+    "sevin",
+    "sürpr",
+    "tartı",
+    "tedbi",
+    "temmu",
+    "ticar",
+    "uygul",
+    "veril",
+    "yıl",
+    "ömer",
+    "şekli"
+   ],
+   "at": "2026-11-10T15:35:29.874744+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "99ff3038a0",
-   "post_id": "529346797199852_1461843466055361",
-   "title": "Türkiye ve Irak'tan ortak açıklama. ''Başika-Zilikan'ın devri için adım atılacak''",
-   "at": "2026-11-08T15:23:20.683919+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye, Irak'taki Başika-Zilikan askeri yerleşkesini Irak hükümetine kademeli olarak devretmek için adım atmaya başlayacak.\n\n— Karar, iki ülkenin ortak basın açıklamasıyla duyuruldu. Açıklama İletişim Başkanlığı tarafından yayımlandı.\n— Erdoğan ile Irak Başbakanı Ali Zeydi, 23 Eylül'de Sincar'da Irak devlet otoritesinin tam kurulması ve PKK unsurlarına son verilmesi konusunda anlaşmıştı.\n— Devir, Irak'ın güvenlik alanındaki ilerlemesine bağlı olarak belirlenen takvime göre yapılacak.\n— İki ülke, Sincar'daki süreci birlikte izleyip denetlemek için Ortak Güvenlik Koordinasyon Komitesi'ni faaliyete geçirme kararı aldı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/turkiye-ve-iraktan-sincar-ve-basika-zilikan-mutabakati/4116132",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/turkiye-ve-iraktan-guvenlik-mutabakati-962611.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/turkiye-ve-iraktan-terorsuz-turkiye-aciklamasi-43370697",
-    "Milliyet: https://www.milliyet.com.tr/gundem/iletisim-baskanligi-duyurdu-turkiye-ve-iraktan-ortak-aciklama-7696854",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/08/turkiye-ve-iraktan-ortak-aciklama",
-    "NTV: https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996"
-   ]
-  },
   {
    "id": "ffadbe9b9b",
    "post_id": "529346797199852_1461857866053921",
@@ -13466,6 +13427,22 @@
     "BirGün: https://www.birgun.net/haber/fon-vurgunu-sorusturmasi-5-kisi-adliyeye-sevk-edildi-745661",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-4-supheli-adliyeye-sevk-edildi-43373180"
    ]
+  },
+  {
+   "id": "3d5539b27d",
+   "post_id": "529346797199852_1464225422483832",
+   "title": "Son dakika... Gazeteci İsmail Saymaz'ın ev hapsi kaldırıldı",
+   "at": "2026-11-10T15:35:29.874744+00:00",
+   "yazim": "claude",
+   "metin": "Gazeteci İsmail Saymaz'ın ev hapsi kaldırıldı:\n\n“Doğrusu bu kadar erken beklemiyordum. Duruşmaya kadar evde kalmayı göze almıştım. Bu da benim için sürpriz oldu çok sevindim.”\n\n— Saymaz, fon soruşturması kapsamında Ticaret Bakanı Ömer Bolat hakkındaki iddiaları tartışmıştı. Hakkında iddianame düzenlenmiş ve 14 yıl 10 ay hapis cezası istenmişti.\n\n— İlk duruşma 8 Temmuz 2027'de görülecek.\n\n— Gazeteci Murat Ağırel ise Sarıgül soruşturması kapsamında tutuklu bulunuyor.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/son-dakika-ismail-saymaz-in-ev-hapsi-karari-kalkti-p379970",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-gazeteci-ismail-saymaz-in-ev-hapsi-kaldirildi-2555067",
+    "Evrensel: https://www.evrensel.net/haber/6008846/gazeteci-ismail-saymazin-ev-hapsi-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/10/ismail-saymazin-ev-hapsi-kaldirildi/",
+    "BirGün: https://www.birgun.net/haber/gazeteci-ismail-saymaz-in-ev-hapsi-kaldirildi-745664",
+    "Karar: https://www.karar.com/guncel-haberler/gazeteci-ismail-saymazin-ev-hapsi-karari-kaldirildi-2083400"
+   ]
   }
  ],
  "fails": {
@@ -13697,7 +13674,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120173658844926051",
+   "since_id": "2120175669493842395",
    "started": true
   },
   "ajansmuhbir1923": {
