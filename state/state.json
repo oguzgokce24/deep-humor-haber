@@ -2,48 +2,6 @@
  "seen": [
   {
    "fp": [
-    "boş",
-    "dediğ",
-    "esnaf",
-    "içi",
-    "komşu",
-    "tutuk",
-    "tüfek",
-    "öldür"
-   ],
-   "tok": [
-    "ardın",
-    "ateş",
-    "ateşi",
-    "boş",
-    "dediğ",
-    "diyer",
-    "doğru",
-    "dükka",
-    "edip",
-    "erkek",
-    "erzur",
-    "esnaf",
-    "gelin",
-    "gez",
-    "hakkı",
-    "isiml",
-    "içi",
-    "kaste",
-    "komşu",
-    "neden",
-    "pompa",
-    "suçun",
-    "tüfek",
-    "tüfeğ",
-    "vurar",
-    "öldür",
-    "ölümü"
-   ],
-   "at": "2026-11-08T17:31:04.353242+00:00"
-  },
-  {
-   "fp": [
     "11",
     "anlat",
     "beşik",
@@ -10858,22 +10816,45 @@
     "şidde"
    ],
    "at": "2026-11-10T05:29:03.408808+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "5",
+    "adana",
+    "büyük",
+    "depre"
+   ],
+   "tok": [
+    "adana",
+    "afad",
+    "büyük",
+    "can",
+    "depre",
+    "derin",
+    "dün",
+    "geldi",
+    "göre",
+    "hisse",
+    "iller",
+    "ilçes",
+    "kaybı",
+    "kilom",
+    "kozan",
+    "mal",
+    "meyda",
+    "nın",
+    "saat",
+    "sarsı",
+    "veril",
+    "yaşan",
+    "yok",
+    "çevre"
+   ],
+   "at": "2026-11-10T05:41:33.970848+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "dd88bf20b5",
-   "post_id": "529346797199852_1461384799434561",
-   "title": "Düzce'de hayvanlarını otlatmaya giden yaşlı adam ölü bulundu",
-   "at": "2026-11-08T06:09:27.821531+00:00",
-   "yazim": "claude",
-   "metin": "Düzce'de hayvanlarını otlatmaya giden yaşlı bir adam ölü bulundu.\n\n— İhbar üzerine jandarma, komando ve AFAD'dan 46 arama kurtarma ekibi bölgeye gönderildi.\n\n— Ekipler, dron ve iz takip köpeklerinin de desteğiyle adamı aradı.\n\n— Yaşlı adam, evine yaklaşık 1,5 kilometre uzaklıktaki bir ağaçlık alanda hareketsiz halde bulundu. Sağlık ekipleri hayatını kaybettiğini belirledi.\n\n— Cenaze, savcılık incelemesinin ardından morga kaldırıldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/duzce/duzcede-hayvanlarini-otlatmaya-giden-yasli-adam-olu-bulundu-3490427",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-duzce-de-yasli-adam-agaclik-alanda-olu-bulundu-3925725",
-    "Sözcü: https://www.sozcu.com.tr/duzce-de-hayvanlarini-otlatmaya-giden-yasli-adam-olu-bulundu-p377084"
-   ]
-  },
   {
    "id": "8cfb150f0b",
    "post_id": "529346797199852_1461391926100515",
@@ -13415,6 +13396,20 @@
     "Evrensel: https://www.evrensel.net/haber/6008745/batmanda-zincirleme-kaza-kirmizi-isikta-bekleyen-4-araca-carpan-otomobil-ikiye-bolundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/batmanda-4-araca-carpan-otomobil-ikiye-bolundu-surucu-yaralandi-745532"
    ]
+  },
+  {
+   "id": "4bba44949c",
+   "post_id": "529346797199852_1463690315870676",
+   "title": "Adana'da 3,5 büyüklüğünde deprem",
+   "at": "2026-11-10T05:41:33.970848+00:00",
+   "yazim": "claude",
+   "metin": "Adana'nın Kozan ilçesinde saat 06.42'de 3,5 büyüklüğünde bir deprem oldu.\n\n— AFAD verilerine göre depremin derinliği 13,24 kilometre.\n\n— Kozan'da dün de 4,6 büyüklüğünde bir sarsıntı yaşanmıştı.\n\n— Çevre illerden de hissedilen depremde can ve mal kaybı yok.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-adanada-3-5-buyuklugunde-deprem-43372207",
+    "CNN Türk: https://www.cnnturk.com/turkiye/adanada-3-5-buyuklugunde-deprem-3491259",
+    "NTV: https://www.ntv.com.tr/turkiye/adanada-35-buyuklugunde-deprem-1750192",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/son-dakika-adanada-3-5-buyuklugunde-deprem-43372207"
+   ]
   }
  ],
  "fails": {
@@ -13594,12 +13589,10 @@
   "0842ac5b45": 1,
   "b00a878c40": 1,
   "910ccf128a": 1,
-  "cbf8efc597": 1
+  "cbf8efc597": 1,
+  "aba55cc083": 1
  },
  "fail_log": [
-  "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:59 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
@@ -13636,12 +13629,15 @@
   "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:16 1929 yılında bir Hint Mihracesi tarafından Mustafa Kemal Ata -> ValueError: yanıt okunamadı"
+  "2026-11-10T05:16 1929 yılında bir Hint Mihracesi tarafından Mustafa Kemal Ata -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120023994846118296",
+   "since_id": "2120028870044688384",
    "started": true
   },
   "ajansmuhbir1923": {
