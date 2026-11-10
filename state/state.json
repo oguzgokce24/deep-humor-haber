@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "görün",
-    "kedi",
-    "korum",
-    "köpek",
-    "soğuk",
-    "yavru",
-    "çalış",
-    "ısıta"
-   ],
-   "tok": [
-    "akşam",
-    "alara",
-    "anlar",
-    "annel",
-    "bölge",
-    "cep",
-    "eflan",
-    "etkil",
-    "görün",
-    "gündü",
-    "hava",
-    "havad",
-    "ilçes",
-    "kamer",
-    "kar",
-    "karab",
-    "kayde",
-    "kedi",
-    "korum",
-    "köpek",
-    "köpeğ",
-    "köyü",
-    "kızıl",
-    "mahal",
-    "nde",
-    "olay",
-    "oluyo",
-    "saatl",
-    "sahib",
-    "soğuk",
-    "telef",
-    "yanın",
-    "yavru",
-    "yağış",
-    "yaşan",
-    "yürek",
-    "çal",
-    "çalış",
-    "ısıta",
-    "ısıtm"
-   ],
-   "at": "2026-11-08T23:41:52.252354+00:00"
-  },
-  {
-   "fp": [
     "ben",
     "buğra",
     "gökce",
@@ -10811,21 +10756,67 @@
     "şarjö"
    ],
    "at": "2026-11-10T11:32:15.207302+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "adli",
+    "bırak",
+    "geliş",
+    "kişi",
+    "kontr",
+    "sarıg",
+    "serbe",
+    "soruş",
+    "şüphe"
+   ],
+   "tok": [
+    "adli",
+    "ailes",
+    "aklam",
+    "alına",
+    "arala",
+    "artık",
+    "ayrı",
+    "başsa",
+    "bulun",
+    "bırak",
+    "eurol",
+    "fon",
+    "geliş",
+    "hakkı",
+    "hâlâ",
+    "iddia",
+    "ilgil",
+    "incel",
+    "kapsa",
+    "kara",
+    "kontr",
+    "mesle",
+    "mille",
+    "milya",
+    "musta",
+    "müşte",
+    "nın",
+    "para",
+    "sarıg",
+    "serbe",
+    "sözle",
+    "tahli",
+    "tamam",
+    "vaadi",
+    "yönet",
+    "yönle",
+    "yükse",
+    "yürüt",
+    "üzere",
+    "şartı",
+    "şişli"
+   ],
+   "at": "2026-11-10T11:44:47.528489+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b35bf7f8f2",
-   "post_id": "529346797199852_1461646932741681",
-   "title": "Evinde 'iklimlendirme' yöntemiyle kenevir yetiştirdi: Tutuklandı",
-   "at": "2026-11-08T11:46:56.075523+00:00",
-   "yazim": "claude",
-   "metin": "İzmir'in Balçova ilçesinde evinde iklimlendirme yöntemiyle kenevir yetiştiren bir şüpheli tutuklandı.\n\nJandarma ekipleri, uyuşturucu üretimini önlemek için yürüttüğü çalışmada bu yetiştiriciliği tespit etti.\n\n— Evde yapılan aramada 1 kilo 219 gram skunk, 4 kök skunk bitkisi ve bir uyuşturucu öğütme aparatı ele geçirildi.\n— Şüpheli gözaltına alındı, adliyeye sevk edildikten sonra tutuklandı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmirde-evinde-kenevir-yetistiren-supheli-tutuklandi-3490555",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/evinde-iklimlendirme-yontemiyle-kenevir-yetistirdi-tutuklandi-2554385"
-   ]
-  },
   {
    "id": "1504411b30",
    "post_id": "529346797199852_1461656886074019",
@@ -13386,6 +13377,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bagcilar-da-606-kilo-uyusturucu-ele-gecirildi-2-gozalti-2554968",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/durdurulan-aracta-46-kilo-metamfetamin-ele-gecirildi-2-gozalti-2554945",
     "Yeni Şafak: https://www.yenisafak.com/gundem/zehir-tacirlerine-76-ilde-es-zamanli-darbe-2-tonu-askin-uyusturucu-madde-ele-gecirildi-4871200"
+   ]
+  },
+  {
+   "id": "9604bb8309",
+   "post_id": "529346797199852_1463993969173644",
+   "title": "Şişli Meslek Yüksekokulu soruşturmasında 11 şüpheliye adli kontrolle tahliye",
+   "at": "2026-11-10T11:44:47.528489+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da Sarıgül ailesiyle ilgili kara para aklama soruşturmasında gözaltına alınan üç şüpheli adli kontrol şartıyla serbest bırakıldı.\n\n— Son operasyonda gözaltına alınan 11 şüphelinin tamamı artık adli kontrolle serbest.\n— Soruşturma kapsamında 28 kişi hâlâ tutuklu bulunuyor.\n— Müştekiler, 80 milyon euroluk sözleşme ve 1 milyar euroluk fon vaadi gibi iddialarda bulundu.\n— Milletvekili Mustafa Sarıgül hakkındaki iddialar ayrı incelenmek üzere Ankara Cumhuriyet Başsavcılığı'na yönlendirildi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/sariguller-sorusturmasinda-yeni-gelisme-11-kisi-serbest-birakildi-43372886",
+    "NTV: https://www.ntv.com.tr/turkiye/sarigul-sorusturmasinda-yeni-gelisme-uc-supheli-adli-kontrolle-serbest-birakildi-1750273",
+    "Habertürk: https://www.haberturk.com/gundem/sarigul-sorusturmasinda-11-supheli-adli-kontrolle-serbest-3926273",
+    "Sözcü: https://www.sozcu.com.tr/istanbuldaki-aklama-sorusturmasinda-11-supheli-adli-kontrolle-serbest-p379910",
+    "BirGün: https://www.birgun.net/haber/sarigul-sorusturmasi-gozaltina-alinan-11-kisi-adli-kontrolle-serbest-birakildi-745633",
+    "Karar: https://www.karar.com/guncel-haberler/mustafa-sarigul-sorusturmasinda-11-kisiye-adli-kontrol-2083380"
    ]
   }
  ],
