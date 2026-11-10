@@ -10835,20 +10835,72 @@
     "yüreğ"
    ],
    "at": "2026-11-10T16:12:27.213810+00:00"
+  },
+  {
+   "fp": [
+    "değiş",
+    "etike",
+    "peyni"
+   ],
+   "tok": [
+    "artık",
+    "başla",
+    "den",
+    "değiş",
+    "dilim",
+    "doğal",
+    "dönem",
+    "düzen",
+    "dışı",
+    "dışın",
+    "engel",
+    "eritm",
+    "etike",
+    "gazet",
+    "haşla",
+    "ifade",
+    "ilişk",
+    "jelat",
+    "kulla",
+    "kural",
+    "köy",
+    "neler",
+    "nisan",
+    "nişas",
+    "olgun",
+    "orman",
+    "peyni",
+    "piyas",
+    "prote",
+    "resmi",
+    "satıl",
+    "soya",
+    "süre",
+    "süt",
+    "sütte",
+    "sınır",
+    "tanın",
+    "tarım",
+    "tebli",
+    "telem",
+    "tost",
+    "uymay",
+    "uyum",
+    "yanıl",
+    "yasak",
+    "yayım",
+    "yazıl",
+    "yağla",
+    "yağı",
+    "çekil",
+    "çiğ",
+    "üreti",
+    "ürünl"
+   ],
+   "at": "2026-11-10T16:25:02.915372+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "462b2b23d8",
-   "post_id": "529346797199852_1461892566050451",
-   "title": "İngiltere çevrimiçi alışverişte kısıtlamaya gidiyor: 16 yaşından küçüklere yeni yasaklar yolda",
-   "at": "2026-11-08T16:16:29.946729+00:00",
-   "yazim": "claude",
-   "metin": "İngiltere, 16 yaş altı çocukların eBay, Vinted ve Depop gibi alışveriş sitelerini kullanmasını yasaklamak için harekete geçiyor.\n\n— Gerekçe, bu sitelerdeki mesajlaşma özelliği. Hükümete göre bu özellik çocukların yabancılar tarafından istismar edilmesine yol açıyor.\n— Çocuk koruma vakfı The Children's Society, bazı kullanıcıların çocuklardan para karşılığında uygunsuz fotoğraf istediğini aktardı.\n— Girişimi Dijital, Kültür, Medya ve Spor Bakanı Lisa Nandy başlattı. Bu adım, Eski Başbakan Keir Starmer'ın 16 yaş altına sosyal medya yasağı için başlattığı çalışmanın devamı niteliğinde.",
-   "sources": [
-    "Karar: https://www.karar.com/dunya-haberleri/ingiltere-cevrimici-alisveriste-kisitlamaya-gidiyor-16-yasindan-2083005"
-   ]
-  },
   {
    "id": "e6cfe995e1",
    "post_id": "529346797199852_1461914252714949",
@@ -13430,6 +13482,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/uzman-diyanet-sen-den-erisim-engeline-tepki-din-gorevlilerine-kursu-dokunulmazligi-2555093",
     "BirGün: https://www.birgun.net/haber/fon-vurgunu-konulu-vaaza-erisim-engeli-uzman-diyanet-sen-den-karara-tepki-745679"
    ]
+  },
+  {
+   "id": "889dbd328e",
+   "post_id": "529346797199852_1464267659146275",
+   "title": "Peynirde yeni dönem 30 Nisan 2027’de başlayacak: Etiketlerde neler değişti?",
+   "at": "2026-11-10T16:25:02.915372+00:00",
+   "yazim": "claude",
+   "metin": "Peynir üretimi ve etiketlerine ilişkin yeni kurallar Resmi Gazete'de yayımlandı; üreticilere uyum için 30 Nisan 2027'ye kadar süre tanındı.\n\n— Peynirde süt proteini dışındaki proteinler, jelatin ve nişasta artık kullanılamayacak. Süt yağı dışındaki yağlar da yasak.\n— Etiketlerde \"köy peyniri\" ve \"doğal peynir\" gibi ifadeler yazılamayacak.\n— Çiğ sütten yapılan, telemesi haşlanmamış peynirler en az dört ay olgunlaştırılmadan satılamayacak.\n— Yeni kurallara uymayan dilimlenebilir eritme peynirleri 30 Nisan 2027'den sonra piyasadan çekilecek.",
+   "sources": [
+    "Yeni Şafak: https://www.yenisafak.com/ekonomi/peynirde-yaniltici-etiketlere-sinirlama-tost-ve-eritme-peynirlerinde-kurallar-degisti-4871319",
+    "Evrensel: https://www.evrensel.net/haber/6008833/peynirde-yeni-donem-30-nisan-2027de-baslayacak-etiketlerde-neler-degisti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13662,7 +13726,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120187075404177543",
+   "since_id": "2120188663984488638",
    "started": true
   },
   "ajansmuhbir1923": {
