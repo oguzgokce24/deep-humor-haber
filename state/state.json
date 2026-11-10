@@ -2,62 +2,6 @@
  "seen": [
   {
    "fp": [
-    "asliy",
-    "hukuk",
-    "mahke"
-   ],
-   "tok": [
-    "ada",
-    "adlar",
-    "arazi",
-    "asliy",
-    "açabi",
-    "açıld",
-    "dalba",
-    "davac",
-    "davas",
-    "dosya",
-    "duyur",
-    "edebi",
-    "edenl",
-    "ergan",
-    "esas",
-    "gelme",
-    "hak",
-    "hazin",
-    "hukuk",
-    "iddia",
-    "ilgil",
-    "ilçes",
-    "ise",
-    "ispat",
-    "istiy",
-    "itira",
-    "içind",
-    "karşı",
-    "kendi",
-    "kırşe",
-    "mahal",
-    "maliy",
-    "manis",
-    "metre",
-    "nın",
-    "parse",
-    "sayıl",
-    "süre",
-    "tapus",
-    "taraf",
-    "taşın",
-    "tesci",
-    "turgu",
-    "vereb",
-    "yakla",
-    "yüzöl"
-   ],
-   "at": "2026-11-08T22:53:32.816976+00:00"
-  },
-  {
-   "fp": [
     "beşik",
     "galib",
     "hak"
@@ -10744,24 +10688,99 @@
     "şehir"
    ],
    "at": "2026-11-10T10:42:41.227059+00:00"
+  },
+  {
+   "fp": [
+    "21",
+    "3",
+    "53",
+    "alkol",
+    "ardı",
+    "davas",
+    "göz",
+    "güllü",
+    "ihtim",
+    "istin",
+    "itira",
+    "kaza",
+    "promi",
+    "sayfa",
+    "şarkı"
+   ],
+   "tok": [
+    "alkol",
+    "annes",
+    "ardı",
+    "avuka",
+    "aykır",
+    "ağırl",
+    "başvu",
+    "belir",
+    "beraa",
+    "bozul",
+    "bulun",
+    "cezas",
+    "dair",
+    "daki",
+    "davad",
+    "davas",
+    "dayan",
+    "değer",
+    "dilek",
+    "düşer",
+    "düşmü",
+    "evini",
+    "eylül",
+    "göre",
+    "göz",
+    "gül",
+    "güllü",
+    "gülte",
+    "hapis",
+    "hukuk",
+    "ifade",
+    "ihtim",
+    "ilişk",
+    "istin",
+    "istiy",
+    "itira",
+    "kaldı",
+    "kanın",
+    "karşı",
+    "kayga",
+    "kazay",
+    "kızı",
+    "kızın",
+    "madde",
+    "mahku",
+    "müebb",
+    "nün",
+    "olabi",
+    "pence",
+    "promi",
+    "rapor",
+    "savun",
+    "sayfa",
+    "tahli",
+    "taki",
+    "talep",
+    "tanığ",
+    "tasar",
+    "tut",
+    "tuğya",
+    "yalov",
+    "yeter",
+    "çarpt",
+    "çınar",
+    "öldür",
+    "ölümü",
+    "ülkem",
+    "şarkı"
+   ],
+   "at": "2026-11-10T10:55:17.681802+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "738e0f51eb",
-   "post_id": "529346797199852_1461605119412529",
-   "title": "Krakow'da 6 kişinin hayatını kaybettiği silahlı saldırıya dair bilinenler",
-   "at": "2026-11-08T10:57:23.063008+00:00",
-   "yazim": "claude",
-   "metin": "Polonya'nın Krakow kentinin ana meydanında silahlı saldırıda altı kişi öldü, en az 16 kişi yaralandı.\n\n— Saldırgan, 24 yaşında bir Polonya vatandaşı. Aracıyla meydana girip rastgele ateş açtı ve polis tarafından vuruldu.\n— Saldırganın Ostrowiec Swietokrzyski kentindeki aile evinde de babası, annesi ve kız kardeşi ölü bulundu.\n— Polonya'da iki günlük yas ilan edildi. Yaralılar arasında iki polis memuru da var.\n— İçişleri Bakanı Marcin Kierwinski, \"Her şey, saldırganın aşırı sağ ideolojiye ilgi duyduğuna işaret ediyor\" dedi.",
-   "sources": [
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss",
-    "DW Türkçe: https://www.dw.com/tr/polonya-yasta-saldırganın-evinde-de-üç-ceset-bulundu/a-79889755?maca=tur-rss-tur-all-1495-xml-mrss",
-    "Euronews: https://tr.euronews.com/2026/11/08/krakowda-6-kisinin-hayatini-kaybettigi-silahli-saldiriya-dair-bilinenler",
-    "Karar: https://www.karar.com/dunya-haberleri/polonyada-kanli-saldiri-6-olu-15-yarali-saldirganin-evinde-3-ceset-daha-2082948",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/polonyayi-kana-bulayan-saldirganin-evinden-cesetler-cikti-43370327"
-   ]
-  },
   {
    "id": "891521197a",
    "post_id": "529346797199852_1461615746078133",
@@ -13317,6 +13336,19 @@
     "BirGün: https://www.birgun.net/haber/ankara-da-kent-merkezine-yilin-ilk-kari-dustu-745625",
     "Karar: https://www.karar.com/sehir-haberleri/ankaraya-yilin-ilk-kari-yagdi-baskent-beyaza-burundu-2083364"
    ]
+  },
+  {
+   "id": "0c88d80ec7",
+   "post_id": "529346797199852_1463941305845577",
+   "title": "Güllü davasında istinaf başvurusu. \"3.53 promil alkollüydü, kaza ihtimali değerlendirilmedi\"",
+   "at": "2026-11-10T10:55:17.681802+00:00",
+   "yazim": "claude",
+   "metin": "Yalova'daki Güllü davasında, kızının avukatı mahkumiyet kararına karşı istinaf başvurusu yaptı.\n\n— Şarkıcı Gül Tut, 26 Eylül 2025'te Çınarcık'taki evinin penceresinden düşerek hayatını kaybetmişti.\n\n— Kızı, annesini tasarlayarak öldürmekten ağırlaştırılmış müebbet hapis cezasına çarptırılmıştı.\n\n— Avukat, kararın hukuka aykırı olduğunu savunarak bozulmasını ya da kaldırılmasını istiyor.\n\n— Savunmaya göre mahkumiyet, ağırlıklı olarak bir tanığın ifadesine ve kayganlık maddesi bulunmadığına dair rapora dayandırılmış.\n\n— Dilekçede, Gül Tut'un kanında 3.53 promil alkol bulunduğu ve kazayla düşmüş olabileceği ihtimalinin yeterince değerlendirilmediği belirtiliyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/sarkici-gullu-davasinda-21-sayfalik-istinaf-itirazi-3-53-promil-alkolluydu-kaza-ihtimali-goz-ardi-edildi-43372855",
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-gullu-davasinda-istinaf-basvurusu-353-promil-alkolluydu-kaza-ihtimali-degerlendirilmedi-1750279",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/sarkici-gullu-davasinda-21-sayfalik-istinaf-itirazi-3-53-promil-alkolluydu-kaza-ihtimali-goz-ardi-edildi-43372855"
+   ]
   }
  ],
  "fails": {
@@ -13546,7 +13578,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120101778154795449",
+   "since_id": "2120106563079913745",
    "started": true
   },
   "ajansmuhbir1923": {
