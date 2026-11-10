@@ -10898,20 +10898,79 @@
     "ürünl"
    ],
    "at": "2026-11-10T16:25:02.915372+00:00"
+  },
+  {
+   "fp": [
+    "itira",
+    "kozin",
+    "nun",
+    "rapor"
+   ],
+   "tok": [
+    "adli",
+    "alına",
+    "alınd",
+    "ancak",
+    "antim",
+    "atk",
+    "açtığ",
+    "ağır",
+    "bazı",
+    "bağlı",
+    "başla",
+    "başsa",
+    "bulgu",
+    "bunla",
+    "ceza",
+    "cezae",
+    "edile",
+    "eski",
+    "fenal",
+    "geldi",
+    "göste",
+    "gıdal",
+    "hasta",
+    "ilişk",
+    "incel",
+    "infaz",
+    "isted",
+    "itira",
+    "kaldı",
+    "kalp",
+    "kasım",
+    "kayna",
+    "kaşif",
+    "kozin",
+    "krizi",
+    "kurum",
+    "mensu",
+    "metal",
+    "mezar",
+    "mit",
+    "nda",
+    "neden",
+    "nun",
+    "rapor",
+    "refer",
+    "siliv",
+    "tespi",
+    "tüket",
+    "tıp",
+    "yediğ",
+    "yenid",
+    "yok",
+    "yol",
+    "yıl",
+    "zehir",
+    "ölüm",
+    "ölüme",
+    "ölümü",
+    "örnek"
+   ],
+   "at": "2026-11-10T16:37:43.064260+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e6cfe995e1",
-   "post_id": "529346797199852_1461914252714949",
-   "title": "istanbulites: Farklı kültürlerin ve müziğin peşinde bir grubun hikâyesi",
-   "at": "2026-11-08T16:40:51.149128+00:00",
-   "yazim": "yedek",
-   "metin": "istanbulites: Farklı kültürlerin ve müziğin peşinde bir grubun hikâyesi.\n\nÜç farklı sesin tek bir ses gibi duyulduğu istanbulites, çok sesli müzikten makamlara, türkülerden farklı dillerdeki şarkılara uzanan repertuvarıyla dinleyiciyle buluşuyor.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008572/istanbulites-farkli-kulturlerin-ve-muzigin-pesinde-bir-grubun-hikayesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "11563cae35",
    "post_id": "529346797199852_1461924569380584",
@@ -13494,6 +13553,18 @@
     "Yeni Şafak: https://www.yenisafak.com/ekonomi/peynirde-yaniltici-etiketlere-sinirlama-tost-ve-eritme-peynirlerinde-kurallar-degisti-4871319",
     "Evrensel: https://www.evrensel.net/haber/6008833/peynirde-yeni-donem-30-nisan-2027de-baslayacak-etiketlerde-neler-degisti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "668478dd4a",
+   "post_id": "529346797199852_1464278765811831",
+   "title": "ATK, Kozinoğlu’nun ölüm nedenini kalp krizi olarak açıklamıştı: Başsavcılık rapora itiraz etti",
+   "at": "2026-11-10T16:37:43.064260+00:00",
+   "yazim": "claude",
+   "metin": "Silivri Cumhuriyet Başsavcılığı, eski MİT mensubu Kaşif Kozinoğlu'nun ölümüne ilişkin Adli Tıp raporuna itiraz etti.\n\n— Kozinoğlu, 12 Kasım 2011'de Silivri Ceza İnfaz Kurumu'nda fenalaşmış, kaldırıldığı hastanede hayatını kaybetmişti.\n— Soruşturma 14 yıl sonra yeniden başlatıldı ve mezardan örnek alındı.\n— Adli Tıp raporunda bazı ağır metaller tespit edildi, ancak bunların zehirlenmeye bağlı ölüme yol açtığını gösteren bir bulgu yok.\n— Başsavcılık, antimonun referans kaynaklarının açıklanmasını ve cezaevinde yediği gıdaların incelenmesini istedi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/kasif-kozinoglunun-olumune-iliskin-adli-tip-raporuna-itiraz-962839.html",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/atk-kozinoglu-nun-olum-nedenini-kalp-krizi-olarak-aciklamisti-bassavcilik-rapora-itiraz-etti-2555133"
+   ]
   }
  ],
  "fails": {
@@ -13679,7 +13750,8 @@
   "099f9883ed": 1,
   "2b223f448c": 1,
   "563dea0244": 3,
-  "a1f354f073": 1
+  "a1f354f073": 1,
+  "f78bf74b20": 1
  },
  "fail_log": [
   "2026-11-10T05:06 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
@@ -13726,7 +13798,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120188663984488638",
+   "since_id": "2120193800958001598",
    "started": true
   },
   "ajansmuhbir1923": {
