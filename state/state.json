@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "9",
-    "cenaz",
-    "daki",
-    "gönde",
-    "hayat",
-    "iran",
-    "kaybe",
-    "kazas",
-    "kişin",
-    "trafi",
-    "van"
-   ],
-   "tok": [
-    "akşam",
-    "alına",
-    "alınd",
-    "belir",
-    "can",
-    "cenaz",
-    "daki",
-    "dan",
-    "durum",
-    "dün",
-    "erkek",
-    "gönde",
-    "götür",
-    "hoy",
-    "ilçes",
-    "iran",
-    "iyi",
-    "kadın",
-    "kara",
-    "kazas",
-    "kenti",
-    "minib",
-    "otomo",
-    "plaka",
-    "saray",
-    "süren",
-    "sürüc",
-    "tabur",
-    "tedav",
-    "trafi",
-    "tır",
-    "van",
-    "verdi",
-    "yolcu",
-    "yolun",
-    "çarpı",
-    "ölen",
-    "ölenl",
-    "özalp",
-    "öğren"
-   ],
-   "at": "2026-11-08T14:07:40.610403+00:00"
-  },
-  {
-   "fp": [
     "beşik",
     "daiki",
     "derbi",
@@ -10821,20 +10763,67 @@
     "şubat"
    ],
    "at": "2026-11-10T02:05:09.219888+00:00"
+  },
+  {
+   "fp": [
+    "hüküm",
+    "idare",
+    "krizi",
+    "kyb",
+    "masad",
+    "tehdi",
+    "çekil",
+    "çift",
+    "ıkby"
+   ],
+   "tok": [
+    "arada",
+    "bafıl",
+    "barza",
+    "belir",
+    "bulu",
+    "bölge",
+    "dile",
+    "diyal",
+    "dönül",
+    "getir",
+    "göste",
+    "hüküm",
+    "idare",
+    "ise",
+    "kdp",
+    "krizi",
+    "kurab",
+    "kyb",
+    "kürdi",
+    "larda",
+    "lider",
+    "masad",
+    "mecli",
+    "mesud",
+    "nde",
+    "nin",
+    "paral",
+    "süley",
+    "talab",
+    "taraf",
+    "tehdi",
+    "tek",
+    "tepki",
+    "topla",
+    "yapıy",
+    "yönet",
+    "yıl",
+    "çağrı",
+    "çekil",
+    "çift",
+    "ıkby",
+    "ırak"
+   ],
+   "at": "2026-11-10T02:17:46.400399+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "46af89fefc",
-   "post_id": "529346797199852_1461235829449458",
-   "title": "Çocuklar için karanlık tablo: Cezaevlerinde sayı yükseliyor",
-   "at": "2026-11-08T03:07:56.933134+00:00",
-   "yazim": "claude",
-   "metin": "Cezaevlerindeki tutuklu ve hükümlü çocuk sayısı artıyor.\n\nMart 2026'da 4 bin 505 olan sayı kasım ayında 5 bin 121'e yükseldi.\n\n— Bakılamayan çocuk sayısının yıl sonunda 195 bine çıkması öngörülüyor.\n— Ekonomik krizin çocuklar üzerindeki etkilerinin ağırlaştığı bir dönemde bu tablo ortaya çıktı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/cocuklar-icin-karanlik-tablo-cezaevlerinde-sayi-yukseliyor-745210"
-   ]
-  },
   {
    "id": "3172dce052",
    "post_id": "529346797199852_1461244259448615",
@@ -13375,6 +13364,17 @@
    "metin": "Çadır satışını protesto eden SOL Parti MYK Üyesi Kemal Koç'un 1 aylık hapis cezası kesinleşti.\n\nKemal Koç:\n\n“Suçu işleyenler yargılanmadı ve serbestler. Ancak ben depremzede yurttaşın hakkını savunduğum için bir ay cezaevinde yatacağım.”\n\n— Koç, 6 Şubat depremlerinde Kızılay'ın çadır satmasını protesto etmişti.\n— SOL Parti karara \"Çadır satanlar ve vurguncular hesap verecek\" diyerek tepki gösterdi.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/sol-partili-kemal-koc-a-verilen-ceza-kesinlesti-depremzede-yurttasin-hakkini-savundugum-icin-cezaevinde-yatacagim-745512"
+   ]
+  },
+  {
+   "id": "af72fa4f73",
+   "post_id": "529346797199852_1463509129222128",
+   "title": "IKBY'de hükümet krizi: KYB çekildi, 'çift idare' tehdidi masada",
+   "at": "2026-11-10T02:17:46.400399+00:00",
+   "yazim": "claude",
+   "metin": "Irak Kürdistan Bölgesi'nde KYB, KDP'nin Meclis'i iki yıl aradan sonra tek taraflı toplamasına tepki olarak hükümetten çekildi.\n\n— KYB lideri Bafıl Talabani, Süleymaniye merkezli paralel bir yönetim kurabileceklerini söyledi.\n\n— Talabani, 1990'lardaki \"çift idareli\" yapıya dönülebileceği tehdidini de dile getirdi.\n\n— KDP lideri Mesud Barzani ise taraflara diyalog çağrısı yaptı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/ikby-de-hukumet-krizi-kyb-cekildi-cift-idare-tehdidi-masada-745515"
    ]
   }
  ],
