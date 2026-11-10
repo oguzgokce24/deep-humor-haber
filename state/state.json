@@ -2,82 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "3",
-    "eğiti",
-    "fırın",
-    "konya",
-    "kurum",
-    "mesle",
-    "parla",
-    "patla",
-    "yaral",
-    "öğren",
-    "öğret"
-   ],
-   "tok": [
-    "alanı",
-    "ambul",
-    "açtı",
-    "açılm",
-    "başla",
-    "birik",
-    "deki",
-    "doğal",
-    "durum",
-    "ekipl",
-    "eğiti",
-    "fırın",
-    "gaz",
-    "gazla",
-    "gelen",
-    "gitti",
-    "hasta",
-    "ihbar",
-    "ilgil",
-    "ilçes",
-    "inin",
-    "itfai",
-    "iyi",
-    "kaldı",
-    "konya",
-    "kurum",
-    "meram",
-    "mesem",
-    "mesle",
-    "meyda",
-    "nde",
-    "neden",
-    "olay",
-    "olayl",
-    "oluşt",
-    "oluşu",
-    "parla",
-    "pasta",
-    "patla",
-    "sağlı",
-    "sonuc",
-    "sıkış",
-    "sınav",
-    "sırad",
-    "sıras",
-    "tutuş",
-    "vücut",
-    "yanık",
-    "yaşan",
-    "yerin",
-    "yerle",
-    "yol",
-    "çalış",
-    "çeşit",
-    "öğren",
-    "öğret",
-    "ünün"
-   ],
-   "at": "2026-11-08T14:33:00.450349+00:00"
-  },
-  {
-   "fp": [
     "adana",
     "ağaçl",
     "devri",
@@ -10831,20 +10755,61 @@
     "üzeri"
    ],
    "at": "2026-11-10T02:30:26.182511+00:00"
+  },
+  {
+   "fp": [
+    "derin",
+    "emekl",
+    "gençl",
+    "işkur",
+    "işsiz",
+    "kriz",
+    "mecbu",
+    "rapor",
+    "çalış"
+   ],
+   "tok": [
+    "arama",
+    "arası",
+    "aylık",
+    "ayı",
+    "aşark",
+    "aşkın",
+    "aştı",
+    "bekle",
+    "bin",
+    "derin",
+    "düşük",
+    "ekim",
+    "emekl",
+    "gençl",
+    "göre",
+    "ini",
+    "ise",
+    "işkur",
+    "işsiz",
+    "kaldı",
+    "kayıt",
+    "kriz",
+    "mecbu",
+    "neden",
+    "oluşt",
+    "rapor",
+    "sayıs",
+    "süred",
+    "veril",
+    "yaş",
+    "yurtt",
+    "yüzde",
+    "yılı",
+    "zorun",
+    "çalış",
+    "üstü"
+   ],
+   "at": "2026-11-10T02:43:04.363834+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0d405e5b89",
-   "post_id": "529346797199852_1461252576114450",
-   "title": "Dervişoğlu: Hesap istiyoruz, kelle değil",
-   "at": "2026-11-08T03:32:59.679002+00:00",
-   "yazim": "claude",
-   "metin": "İYİ Parti Lideri Müsavat Dervişoğlu:\n\n“Yandaşın fonu iktidarın sonu olacak. Biz senden kelle değil Sayın Erdoğan, hesap istiyoruz. Şimdi hesap zamanı, hesap zamanı!”\n\n— Dervişoğlu, bunu Cumhuriyet tarihinin iktidarın koruması altında yapıldığını söylediği en büyük soygun olarak nitelendirdi.\n— Soruşturmanın yalnızca tutuklanan birkaç kişi üzerinden yürütülmesine tepki gösterdi ve suçun bürokratik ve siyasi bağlantılarına bakılmasını istedi.\n— Erdoğan'ın “Hiç ummadığımız insanlar bu işlerin içine girmişler” sözüne atıfta bulunarak, bu kişilerin kim olduğunun açıklanmasını talep etti.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/dervisoglu-hesap-istiyoruz-kelle-degil-p377052"
-   ]
-  },
   {
    "id": "9c6702563d",
    "post_id": "529346797199852_1461264276113280",
@@ -13385,6 +13350,17 @@
    "metin": "Diyanet İşleri Başkanlığı, bir yılda vakıf ve derneklere 828,3 milyon TL aktardı.\n\nMeclis'e sunulan kesin hesaba göre bu ödemeler, kâr amacı gütmeyen kuruluşlara öngörülen tutarın da üzerinde gerçekleşti.\n\n— Para, vergilerle oluşturulan bütçeden aktarıldı.\n\n— Başkanlığın bütçesi zaten Meclis'te tartışma konusu. Kesin hesap, bu kaynağın nereye gittiğini ayrıntılı olarak gösteriyor.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/yurttasin-vergisinden-transfer-vakiflara-828-3-milyon-tl-745514"
+   ]
+  },
+  {
+   "id": "6d0a242ae6",
+   "post_id": "529346797199852_1463526482553726",
+   "title": "Derinleşen kriz İŞKUR raporunda: Gençler işsiz, emekli çalışmaya mecbur",
+   "at": "2026-11-10T02:43:04.363834+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'de kayıtlı işsiz sayısı, İŞKUR'un Ekim verilerine göre 2,2 milyonu aştı.\n\n— Bir yılı aşkın süredir iş bekleyen 228 bin kişinin yüzde 58'ini 20-34 yaş arasındaki gençler oluşturuyor.\n\n— Düşük emekli aylıkları nedeniyle 60 yaş üstü 32 bin kişi de iş aramak zorunda kaldı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/derinlesen-kriz-iskur-raporunda-gencler-issiz-emekli-calismaya-mecbur-745510"
    ]
   }
  ],
