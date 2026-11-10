@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "kazas",
-    "kişi",
-    "mısır",
-    "tren",
-    "yaral"
-   ],
-   "tok": [
-    "abdul",
-    "abdül",
-    "araşt",
-    "ardın",
-    "arka",
-    "asvan",
-    "ayyat",
-    "başla",
-    "belir",
-    "biri",
-    "daki",
-    "durdu",
-    "edilm",
-    "facia",
-    "feyyu",
-    "geçic",
-    "giden",
-    "giza",
-    "göre",
-    "haber",
-    "hattı",
-    "ilçes",
-    "ise",
-    "isted",
-    "kahir",
-    "kazan",
-    "kazas",
-    "kısmı",
-    "mısır",
-    "neden",
-    "olayı",
-    "onlar",
-    "rayda",
-    "sayıs",
-    "sefer",
-    "sisi",
-    "sonuc",
-    "sorum",
-    "tespi",
-    "tren",
-    "treni",
-    "trenl",
-    "var",
-    "veril",
-    "vilay",
-    "yolcu",
-    "yönde",
-    "çarpt",
-    "çarpı",
-    "çıktı"
-   ],
-   "at": "2026-11-08T17:56:31.144521+00:00"
-  },
-  {
-   "fp": [
     "akarl",
     "deniz",
     "engin",
@@ -10833,20 +10771,40 @@
     "üzeri"
    ],
    "at": "2026-11-10T05:55:52.463505+00:00"
+  },
+  {
+   "fp": [
+    "8",
+    "cafer",
+    "dalga",
+    "gözal",
+    "ikinc",
+    "mahir",
+    "opera",
+    "soruş"
+   ],
+   "tok": [
+    "alınd",
+    "başsa",
+    "cafer",
+    "eskiş",
+    "geliş",
+    "ikinc",
+    "izmir",
+    "kapsa",
+    "mahir",
+    "nın",
+    "sürüy",
+    "talim",
+    "veril",
+    "yönel",
+    "yürüt",
+    "çalış"
+   ],
+   "at": "2026-11-10T06:08:35.196136+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "88f219337c",
-   "post_id": "529346797199852_1461401052766269",
-   "title": "Ahmet Hakan: Her yerden ifşalar yükselecek gibi",
-   "at": "2026-11-08T06:34:53.345903+00:00",
-   "yazim": "claude",
-   "metin": "Gazeteci Ahmet Hakan:\n\n“Her yerden ifşalar yükselecek gibi. Gözaltılar, tutuklamalar gırla gidecek mesela.”\n\n— Yazara göre önümüzdeki süre sert geçecek ve her gün bir gerilim filmi gibi olacak.\n— Hakan bu sertliği, “evladın babasını sattığı, babanın evladını tanımadığı” bir durum olarak tarif etti.",
-   "sources": [
-    "Diken: https://www.diken.com.tr/ahmet-hakan-her-yerden-ifsalar-yukselecek-gibi/?utm_source=rss&utm_medium=rss&utm_campaign=ahmet-hakan-her-yerden-ifsalar-yukselecek-gibi"
-   ]
-  },
   {
    "id": "30107a24d9",
    "post_id": "529346797199852_1461415656098142",
@@ -13392,6 +13350,21 @@
     "Karar: https://www.karar.com/guncel-haberler/kapadokyada-balonlar-turk-bayragi-ve-ataturk-posteriyle-uctu-2083270",
     "BPT (X): https://x.com/bpthaber/status/2120030688678490622"
    ]
+  },
+  {
+   "id": "efb69b8a2e",
+   "post_id": "529346797199852_1463710545868653",
+   "title": "Son dakika... Cafer Mahiroğlu soruşturmasında ikinci dalga operasyon",
+   "at": "2026-11-10T06:08:35.196136+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul, İzmir, Ankara ve Eskişehir'de Cafer Mahiroğlu soruşturmasında 8 kişi hakkında gözaltı talimatı verildi.\n\n— İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturmanın ikinci dalgasında 7 şüpheli gözaltına alındı.\n— Bir kişinin yakalanması için çalışmalar sürüyor.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-cafer-mahiroglu-sorusturmasi-8-gozalti-karari-3926158",
+    "Sözcü: https://www.sozcu.com.tr/son-dakika-cafer-mahiroglu-sorusturmasinda-ikinci-dalga-operasyon-p379763",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-cafer-mahiroglu-sorusturmasinda-yeni-gelisme-8-kisi-hakkinda-gozalti-talimati-2554903",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/cafer-mahiroglu-sorusturmasinda-yeni-operasyon-4-ilde-7-gozalti-4871143",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/son-dakika-cafer-mahiroglu-sorusturmasinda-ikinci-dalga-operasyon-p379763"
+   ]
   }
  ],
  "fails": {
@@ -13572,12 +13545,10 @@
   "b00a878c40": 1,
   "910ccf128a": 1,
   "cbf8efc597": 1,
-  "aba55cc083": 1
+  "aba55cc083": 1,
+  "995228033a": 1
  },
  "fail_log": [
-  "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:02 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T05:02 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
@@ -13614,12 +13585,15 @@
   "2026-11-10T05:16 1929 yılında bir Hint Mihracesi tarafından Mustafa Kemal Ata -> ValueError: yanıt okunamadı",
   "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı",
   "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı"
+  "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı",
+  "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı",
+  "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı",
+  "2026-11-10T06:08 Babamızı kaybettik. -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120030688678490622",
+   "since_id": "2120034974447415647",
    "started": true
   },
   "ajansmuhbir1923": {
