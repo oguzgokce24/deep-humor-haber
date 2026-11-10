@@ -2,136 +2,6 @@
  "seen": [
   {
    "fp": [
-    "adliy",
-    "ahmet",
-    "burak",
-    "doğan",
-    "giriş",
-    "iddia",
-    "tan",
-    "yasak",
-    "şık"
-   ],
-   "tok": [
-    "adale",
-    "adliy",
-    "ahmet",
-    "akın",
-    "ardın",
-    "ayrıc",
-    "başsa",
-    "beri",
-    "burak",
-    "dile",
-    "doldu",
-    "doğan",
-    "dünde",
-    "emrin",
-    "erlik",
-    "fon",
-    "gazet",
-    "gece",
-    "getir",
-    "giriş",
-    "grupl",
-    "gündü",
-    "gürle",
-    "haber",
-    "iddia",
-    "ilgil",
-    "işare",
-    "kulla",
-    "merak",
-    "mille",
-    "muhab",
-    "olunc",
-    "payla",
-    "sessi",
-    "sordu",
-    "sorum",
-    "sürdü",
-    "süres",
-    "tan",
-    "tip",
-    "tutul",
-    "video",
-    "whats",
-    "yanda",
-    "yasak",
-    "yayım",
-    "yazdı",
-    "çalış",
-    "çıkar",
-    "öne",
-    "şafak",
-    "şöyle",
-    "şık"
-   ],
-   "at": "2026-11-08T22:17:27.725646+00:00"
-  },
-  {
-   "fp": [
-    "afyon",
-    "cinay",
-    "enişt",
-    "kayın",
-    "öldür"
-   ],
-   "tok": [
-    "adam",
-    "afyon",
-    "akrab",
-    "ambul",
-    "ancak",
-    "arası",
-    "ateş",
-    "ateşl",
-    "açtı",
-    "ağır",
-    "belde",
-    "belir",
-    "cinay",
-    "devle",
-    "dokto",
-    "dönüş",
-    "enişt",
-    "evind",
-    "götür",
-    "hangi",
-    "hasta",
-    "hâlâ",
-    "ise",
-    "karak",
-    "kavga",
-    "kayın",
-    "koruy",
-    "kurta",
-    "kısa",
-    "müdah",
-    "olayd",
-    "rağme",
-    "saat",
-    "sonuc",
-    "sözlü",
-    "süred",
-    "tartı",
-    "tüfek",
-    "tüfeğ",
-    "vurma",
-    "vurul",
-    "yakla",
-    "yanda",
-    "yaşın",
-    "çoban",
-    "çıkan",
-    "öldür",
-    "öte",
-    "ışıkl"
-   ],
-   "at": "2026-11-08T22:30:02.099665+00:00"
-  },
-  {
-   "fp": [
     "9",
     "antal",
     "cop31",
@@ -10876,23 +10746,44 @@
     "örgüt"
    ],
    "at": "2026-11-10T10:11:48.625221+00:00"
+  },
+  {
+   "fp": [
+    "204",
+    "76",
+    "ilde",
+    "opera",
+    "tutuk",
+    "uyuşt",
+    "şüphe"
+   ],
+   "tok": [
+    "adli",
+    "bin",
+    "diğer",
+    "duyur",
+    "düzen",
+    "fazla",
+    "hafta",
+    "hap",
+    "hükmü",
+    "ildek",
+    "içişl",
+    "işlem",
+    "kontr",
+    "madde",
+    "satıc",
+    "sürüy",
+    "tonun",
+    "uygul",
+    "uyuşt",
+    "yönel",
+    "üzeri"
+   ],
+   "at": "2026-11-10T10:30:13.388646+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "51396c3156",
-   "post_id": "529346797199852_1461585076081200",
-   "title": "Erdoğan Bakü yolunda: Aliyev ile buzlar eriyecek mi?",
-   "at": "2026-11-08T10:32:36.109596+00:00",
-   "yazim": "claude",
-   "metin": "Erdoğan, Azerbaycan'ın Zafer Günü etkinlikleri için Karabağ'daki Füzuli Havalimanı'na indi ve İlham Aliyev onu pistte karşıladı.\n\nİki lider pistte kol kola yürüdü.\n\n— İki ülke arasında son haftalarda gerilim yükselmişti. Azerbaycan'daki okullarda başörtüsü kısıtlamaları ve 31 Türk vatandaşına getirilen giriş yasağı ilişkilere yük olmuştu.\n— Oktay Saral'ın açıklamalarının ardından tansiyon daha da artmış, Saral daha sonra görevden alınmıştı.\n— Aliyev, Ekim sonunda Ankara'da yapılan Türk Devletleri Teşkilatı Zirvesi'ne katılmamıştı.\n— Erdoğan'ın Aliyev ile yapacağı görüşmede işbirliği, bölgesel ve küresel gelişmeler ele alınacak. Ardından ortak basın açıklaması yapılması ve Hocalı Soykırım Anıtı ile Hankendi'deki Zafer Anıtı'nın ziyaret edilmesi bekleniyor.",
-   "sources": [
-    "DW Türkçe: https://www.dw.com/tr/erdoğan-bakü-yolunda-aliyev-ile-buzlar-eriyecek-mi/a-79877647?maca=tur-rss-tur-all-1495-xml-mrss",
-    "CNN Türk: https://www.cnnturk.com/video/dunya/erdogan-ve-aliyev-cnn-turke-konustu-3490493",
-    "Sözcü: https://www.sozcu.com.tr/buzlari-eriten-an-pistte-kol-kola-yuruduler-p377184",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/pistte-kol-kola-yuruduler-erdogan-azerbaycan-da-aliyev-havalimaninda-karsiladi-2554392"
-   ]
-  },
   {
    "id": "8cedae0464",
    "post_id": "529346797199852_1461596189413422",
@@ -13450,6 +13341,19 @@
     "Evrensel: https://www.evrensel.net/haber/6008780/mustafa-sarigul-en-kisa-zamanda-buyuk-bir-aciklama-yapacagim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/mustafa-sarigul-dimdik-ayaktayim-buyuk-bir-aciklama-yapacagim-2083323"
    ]
+  },
+  {
+   "id": "766aea03ab",
+   "post_id": "529346797199852_1463923675847340",
+   "title": "Bakanlık açıkladı: 76 ilde uyuşturucu operasyonu, 204 tutuklama",
+   "at": "2026-11-10T10:30:13.388646+00:00",
+   "yazim": "claude",
+   "metin": "İçişleri Bakanlığı, 76 ilde uyuşturucu satıcılarına yönelik operasyonlarda 2 bin 152 şüpheliyi yakaladı.\n\n— Son iki haftada yapılan operasyonlarda şüphelilerin bin 204'ü tutuklandı.\n— 364 şüpheli hakkında adli kontrol hükmü uygulandı, diğerlerinin işlemleri sürüyor.\n— Operasyonlarda 2 tonun üzerinde uyuşturucu madde ve 5 milyondan fazla uyuşturucu hap ele geçirildi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/76-ildeki-uyusturucu-operasyonlarinda-1204-supheli-tutuklandi-962783.html",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/icisleri-duyurdu-76-ilde-uyusturucu-saticilarina-operasyon-bin-204-supheli-tutuklandi-2554973",
+    "BirGün: https://www.birgun.net/haber/bakanlik-acikladi-76-ilde-uyusturucu-operasyonu-204-tutuklama-745615"
+   ]
   }
  ],
  "fails": {
@@ -13679,7 +13583,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120096734638731308",
+   "since_id": "2120100907916661245",
    "started": true
   },
   "ajansmuhbir1923": {
