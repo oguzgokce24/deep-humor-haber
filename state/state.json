@@ -10803,25 +10803,46 @@
     "şartl"
    ],
    "at": "2026-11-10T17:44:56.500001+00:00"
+  },
+  {
+   "fp": [
+    "düştü",
+    "hayat",
+    "kaybe"
+   ],
+   "tok": [
+    "alınd",
+    "ağır",
+    "durum",
+    "düşme",
+    "düştü",
+    "erkek",
+    "eski",
+    "eyale",
+    "gölet",
+    "göre",
+    "kambo",
+    "kanda",
+    "kız",
+    "muhta",
+    "nın",
+    "okul",
+    "saatl",
+    "sabah",
+    "servi",
+    "sonuc",
+    "tüfeğ",
+    "yaşam",
+    "yaşın",
+    "yitir",
+    "öğren",
+    "ünün",
+    "şoför"
+   ],
+   "at": "2026-11-10T17:55:51.044733+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "989649f5af",
-   "post_id": "529346797199852_1461982836041424",
-   "title": "Mısır'da iki tren çarpıştı: En az 4 kişi hayatını kaybetti, 88 kişi yaralandı",
-   "at": "2026-11-08T17:56:31.144521+00:00",
-   "yazim": "claude",
-   "metin": "Mısır'ın Giza vilayetindeki El-Ayyat ilçesinde iki yolcu treni çarpıştı, en az 4 kişi hayatını kaybetti, 88 kişi yaralandı.\n\n— Feyyum'a giden bir tren, Asvan'a giden başka bir trenin arka kısmına çarptı ve trenlerden biri raydan çıktı.\n\n— Cumhurbaşkanı Abdulfettah el-Sisi, kazanın nedenlerinin araştırılması ve sorumluların belirlenmesi için soruşturma başlatılmasını istedi.\n\n— Bir başka haberde ölü sayısı en az 7, yaralı sayısı ise 112 olarak verildi.\n\n— Kahire-Asvan hattında tren seferleri iki yönde de geçici olarak durduruldu.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/misirda-tren-kazasi-7-olu-112-yarali-962608.html",
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/c6lyekwgg18jo?at_medium=RSS&at_campaign=rss",
-    "Euronews: https://tr.euronews.com/2026/11/08/misirda-iki-tren-carpisti-en-az-4-kisi-hayatini-kaybetti-88-kisi-yaralandi",
-    "Habertürk: https://www.haberturk.com/dunya/misir-da-tren-kazasi-cok-sayida-kisi-yaralandi-3925812",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/misir-da-tren-faciasi-4-kisi-hayatini-kaybetti-88-yarali-var-2554476",
-    "BirGün: https://www.birgun.net/haber/misir-daki-tren-kazasinda-ilk-belirlemelere-gore-4-kisi-oldu-88-kisi-yaralandi-745309"
-   ]
-  },
   {
    "id": "1448f2b90f",
    "post_id": "529346797199852_1461992839373757",
@@ -13395,6 +13416,18 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/iran-abdnin-sartlarimiza-yaniti-aldatici-hurmuz-bogazi-7-sart-yerine-getirilene-kadar-acilmayacak-962851.html",
     "Evrensel: https://www.evrensel.net/haber/6008869/iran-abdnin-yaniti-aldatici-hurmuz-bogazi-7-sart-yerine-getirilene-kadar-acilmayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "4f612514c3",
+   "post_id": "529346797199852_1464355735804134",
+   "title": "Kamboçya'da okul servisi gölete düştü: 5 öğrenci hayatını kaybetti, 21 öğrenci yaralı",
+   "at": "2026-11-10T17:55:51.044733+00:00",
+   "yazim": "claude",
+   "metin": "Kamboçya'nın Kandal eyaletinde okul servisi gölete düştü, 5 kız öğrenci hayatını kaybetti.\n\n— Kaza sabah saatlerinde oldu. Servisteki 26 öğrenciden 21'i yaralandı.\n— Yaralı öğrencilerden 3'ünün durumu ağır.\n— Polise göre servis şoförü 31 yaşındaki bir erkek ve gözaltına alındı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tufegin-uzerine-dustu-eski-muhtar-hayatini-kaybetti-2555149",
+    "Evrensel: https://www.evrensel.net/haber/6008850/kambocyada-okul-servisi-golete-dustu-5-ogrenci-hayatini-kaybetti-21-ogrenci-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13629,7 +13662,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120209272286199923",
+   "since_id": "2120212524419125651",
    "started": true
   },
   "ajansmuhbir1923": {
