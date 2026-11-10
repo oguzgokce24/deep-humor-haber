@@ -10698,6 +10698,46 @@
     "ölçüd"
    ],
    "at": "2026-11-10T05:02:39.127025+00:00"
+  },
+  {
+   "fp": [
+    "amaçl",
+    "atik",
+    "bilgi",
+    "dijit",
+    "hangi",
+    "ilke",
+    "kim",
+    "okury",
+    "sorgu",
+    "taşkı",
+    "yatıy",
+    "üreti"
+   ],
+   "tok": [
+    "amaçl",
+    "atik",
+    "bilgi",
+    "dijit",
+    "diken",
+    "geleb",
+    "hangi",
+    "ilke",
+    "kim",
+    "kulağ",
+    "okury",
+    "otori",
+    "post",
+    "sorgu",
+    "süper",
+    "tartı",
+    "taşkı",
+    "the",
+    "yatıy",
+    "zekâ",
+    "üreti"
+   ],
+   "at": "2026-11-10T05:09:33.251975+00:00"
   }
  ],
  "posted": [
@@ -13433,20 +13473,10 @@
   "0842ac5b45": 1,
   "b00a878c40": 1,
   "910ccf128a": 1,
-  "2c9dadb5af": 2,
-  "fef50acd4c": 1,
-  "5770ced243": 1
+  "fef50acd4c": 2,
+  "5770ced243": 2
  },
  "fail_log": [
-  "2026-11-10T04:36 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:36 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:36 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:36 Mihriban Yılmaz cinayetinde kan donduran savunma: 'Sadece su -> ValueError: cümle yarım kalmış: ' bilezik, kolye ve telefonun alınmasıyla'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T04:55 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:55 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:55 Enver Şat: Yöre halkı seçenekleri tartışabilmeli ve kararlar -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:55 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
-  "2026-11-10T04:55 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T04:55 Fatma Çelik: Atatürk'e saygımızı 09:06'da nasıl bir Türkiye  -> ValueError: yanıt okunamadı",
   "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
   "2026-11-10T04:55 Oğuz Oyan: Peki ama sermaye çevreleri bunun neresinde? -> ValueError: yanıt okunamadı",
@@ -13477,7 +13507,16 @@
   "2026-11-10T05:06 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:06 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
   "2026-11-10T05:06 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:06 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı"
+  "2026-11-10T05:06 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 İlke Atik Taşkıran: Dijital okuryazarlık, bilginin kim taraf -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
+  "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
