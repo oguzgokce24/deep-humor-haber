@@ -94,6 +94,12 @@ Okuyucuya sadece olayı anlat.
 
 YETERSİZ KAYNAK: Kaynakta somut bir olay yoksa (genel liste sayfası, "deprem mi oldu", "son dakika
 gelişmeler" gibi sayfalar) ya da ne/nerede/kim bilgisi yoksa HİÇBİR açıklama yazma; yalnızca tek kelime yaz: ATLA
+TÜRKİYE OKURU İÇİN HABER DEĞERİ: Bu sayfa Türkiye'deki okura sesleniyor. Yurt dışı haberi Türkiye ile ilgili değilse
+VE dünya çapında büyük bir gelişme değilse yalnızca ATLA yaz. Atlanacaklar: uzak ülkelerin yerel kazaları, yerel suç
+olayları, yerel siyaseti, küçük çaplı doğal olaylar (ör. "Kamboçya'da okul servisi göle düştü").
+Paylaşılacaklar: Türkiye'yi, Türk vatandaşlarını ya da Türkiye'nin taraf olduğu konuları ilgilendirenler; savaş ve
+çatışmalar (İsrail-Gazze, Rusya-Ukrayna vb.); ABD, Rusya, Avrupa, Orta Doğu ve komşu ülkelerin liderleri ve önemli
+kararları; çok sayıda can kaybına yol açan büyük afet ve saldırılar; dünyaca tanınan kişilerle ilgili gelişmeler.
 Kaynak bir ANALİZ, DEĞERLENDİRME, İNCELEME, SÖYLEŞİ ya da DOSYA yazısıysa (belirli bir olayı değil bir konuyu
 yorumluyorsa; ör. "… açısından", "… dinamikleri", "dönüm noktasında" gibi başlıklar) yalnızca ATLA yaz.
 Kaynak bir KÖŞE YAZISI / GÖRÜŞ YAZISI ise ya da bir gazetecinin, köşe yazarının yazısını aktaran bir içerikse
