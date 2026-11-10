@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "genel",
-    "guter",
-    "krako",
-    "kınad",
-    "olayı",
-    "saldı",
-    "sekre",
-    "silah"
-   ],
-   "tok": [
-    "ana",
-    "annes",
-    "anton",
-    "arala",
-    "arası",
-    "ateş",
-    "açtı",
-    "babas",
-    "bildi",
-    "buldu",
-    "bulun",
-    "cesed",
-    "derin",
-    "dujar",
-    "duydu",
-    "dün",
-    "evind",
-    "genel",
-    "gerçe",
-    "guter",
-    "güney",
-    "günlü",
-    "güven",
-    "güçle",
-    "hasta",
-    "ilan",
-    "ilgil",
-    "karde",
-    "kenti",
-    "krako",
-    "kınad",
-    "kız",
-    "memur",
-    "meyda",
-    "mütee",
-    "nın",
-    "olayd",
-    "olayl",
-    "olayı",
-    "polon",
-    "sekre",
-    "silah",
-    "sivil",
-    "steph",
-    "sözcü",
-    "terör",
-    "toplu",
-    "turiz",
-    "ulusa",
-    "var",
-    "yakın",
-    "yas",
-    "yaşam",
-    "yaşan",
-    "yitir",
-    "çatış",
-    "öğled",
-    "ünlü",
-    "üzünt"
-   ],
-   "at": "2026-11-09T06:45:14.821573+00:00"
-  },
-  {
-   "fp": [
     "1",
     "4",
     "kütah",
@@ -10810,22 +10736,81 @@
     "önlem"
    ],
    "at": "2026-11-10T18:34:06.630711+00:00"
+  },
+  {
+   "fp": [
+    "değiş",
+    "gazet",
+    "kamud",
+    "resmi",
+    "siste",
+    "yayım",
+    "ücret"
+   ],
+   "tok": [
+    "alına",
+    "amaç",
+    "arası",
+    "başla",
+    "bütçe",
+    "denge",
+    "deste",
+    "değiş",
+    "düzen",
+    "düzey",
+    "ekim",
+    "eklen",
+    "esas",
+    "farkl",
+    "gazet",
+    "genel",
+    "gider",
+    "güven",
+    "güçlü",
+    "hangi",
+    "hazin",
+    "hedef",
+    "istih",
+    "kamu",
+    "kamud",
+    "kapsa",
+    "maaş",
+    "maliy",
+    "müker",
+    "nasıl",
+    "netle",
+    "olaca",
+    "oluşa",
+    "perso",
+    "planl",
+    "progr",
+    "resmi",
+    "sadel",
+    "sekre",
+    "siste",
+    "skala",
+    "soru",
+    "sorum",
+    "sosya",
+    "statü",
+    "strat",
+    "tarih",
+    "tekni",
+    "unvan",
+    "uygul",
+    "verec",
+    "yayım",
+    "yetki",
+    "yıllı",
+    "yılı",
+    "zaman",
+    "çalış",
+    "ücret"
+   ],
+   "at": "2026-11-10T18:53:11.588375+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "12f9523dc7",
-   "post_id": "529346797199852_1462029392703435",
-   "title": "Kocaeli Şehir Tiyatroları’nın kurucu sanatçılarından Şafak Karali hayatını kaybetti",
-   "at": "2026-11-08T18:56:51.368972+00:00",
-   "yazim": "claude",
-   "metin": "Kocaeli Şehir Tiyatroları'nın kurucu sanatçılarından oyuncu Şafak Karali, 57 yaşında hayatını kaybetti.\n\n— Karali, 1997'de Kocaeli Şehir Tiyatroları'nın kuruluş kadrosunda yer almıştı. \"Hamlet\", \"Kösem Sultan\" ve \"Sinan\" gibi oyunlarda rol almıştı.\n— Nuri Bilge Ceylan'ın \"Bir Zamanlar Anadolu'da\" filminde ve \"Avrupa Yakası\", \"Karadayı\" dizilerinde de oynamıştı.\n— Karali için 9 Kasım Pazartesi günü saat 10.00'da Süleyman Demirel Kültür Merkezi'nde anma töreni düzenlenecek.\n— Cenazesi öğle namazının ardından İzmit Yahya Kaptan Akşemsettin Camii'nden kaldırılacak.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/oyuncu-safak-karali-57-yasinda-hayatini-kaybetti-2554477",
-    "Evrensel: https://www.evrensel.net/haber/6008576/kocaeli-sehir-tiyatrolarinin-kurucu-sanatcilarindan-safak-karali-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/guncel-haberler/unlu-iyatrocu-safak-karali-hayatini-kaybetti-2083018"
-   ]
-  },
   {
    "id": "525eac45fa",
    "post_id": "529346797199852_1462038862702488",
@@ -13398,6 +13383,17 @@
     "Karar: https://www.karar.com/guncel-haberler/habastaki-isci-olumleri-onergesi-reddedildi-2083447",
     "Diken: https://www.diken.com.tr/isci-olumlerinin-arastirilmasi-onerileri-akp-ve-mhp-oylariyla-reddedildi/?utm_source=rss&utm_medium=rss&utm_campaign=isci-olumlerinin-arastirilmasi-onerileri-akp-ve-mhp-oylariyla-reddedildi"
    ]
+  },
+  {
+   "id": "d72ca24a02",
+   "post_id": "529346797199852_1464407555798952",
+   "title": "Resmi Gazete’de yayımlandı: Kamuda ücret sistemi değişiyor",
+   "at": "2026-11-10T18:53:11.588375+00:00",
+   "yazim": "claude",
+   "metin": "Kamuda farklı statülerde çalışan personelin ücret sistemi sadeleştirilecek.\n\n— Bu hedef, 27 Ekim 2026 tarihli mükerrer Resmi Gazete'de yayımlanan 2027 Yılı Cumhurbaşkanlığı Yıllık Programı'na eklendi.\n\n— Amaç, farklı statü ve unvanlar arasındaki ücret dengesizliklerini gidermek.\n\n— Yeni sistemde unvanların iş güçlüğü, yetki ve sorumluluk düzeyleri esas alınacak.\n\n— Çalışmanın sorumlusu Cumhurbaşkanlığı Genel Sekreterliği olacak. Çalışma ve Sosyal Güvenlik, Hazine ve Maliye bakanlıkları ile Strateji ve Bütçe Başkanlığı da destek verecek.\n\n— Hangi personelin kapsanacağı, ücret skalasının nasıl olacağı ve uygulamanın ne zaman başlayacağı teknik çalışmalardan sonra netleşecek.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/resmi-gazetede-yayimlandi-kamuda-ucret-sistemi-degisiyor-2083456"
+   ]
   }
  ],
  "fails": {
@@ -13588,12 +13584,10 @@
   "31407ab3fa": 1,
   "d1d4f1c2f7": 1,
   "c332295b4a": 1,
-  "558b280cac": 1
+  "558b280cac": 1,
+  "c9c5711427": 1
  },
  "fail_log": [
-  "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:09 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
@@ -13630,12 +13624,15 @@
   "2026-11-10T18:21 Atıf Ünaldı ile Netizen (419): Telefonunuza tıklamadan sızab -> ValueError: yanıt okunamadı",
   "2026-11-10T18:21 Atıf Ünaldı ile Netizen (419): Telefonunuza tıklamadan sızab -> ValueError: yanıt okunamadı",
   "2026-11-10T18:21 Atıf Ünaldı ile Netizen (419): Telefonunuza tıklamadan sızab -> ValueError: yanıt okunamadı",
-  "2026-11-10T18:34 İşçi ölümlerinin araştırılması önerileri AKP ve MHP oylarıyl -> ValueError: cümle yarım kalmış: 'rket çalışanlarında 109'dan 146'ya, taşe'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-10T18:34 İşçi ölümlerinin araştırılması önerileri AKP ve MHP oylarıyl -> ValueError: cümle yarım kalmış: 'rket çalışanlarında 109'dan 146'ya, taşe'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı",
+  "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı",
+  "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120220149836026232",
+   "since_id": "2120226628135751797",
    "started": true
   },
   "ajansmuhbir1923": {
