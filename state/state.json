@@ -11001,20 +11001,61 @@
     "şunla"
    ],
    "at": "2026-11-10T20:36:20.831981+00:00"
+  },
+  {
+   "fp": [
+    "asker",
+    "ateş",
+    "açıld",
+    "barış",
+    "gücü",
+    "güney",
+    "lübna",
+    "unıfı"
+   ],
+   "tok": [
+    "akşam",
+    "asker",
+    "ateş",
+    "ateşe",
+    "açıld",
+    "barış",
+    "bağlı",
+    "bölge",
+    "cilo",
+    "devri",
+    "duyur",
+    "edili",
+    "geliş",
+    "gezen",
+    "görev",
+    "gücü",
+    "gücün",
+    "güney",
+    "hassa",
+    "kaldı",
+    "kenti",
+    "lübna",
+    "maruz",
+    "olay",
+    "olayı",
+    "rutin",
+    "saatl",
+    "sur",
+    "sıras",
+    "takip",
+    "unıfı",
+    "vadi",
+    "yakla",
+    "yakın",
+    "yapan",
+    "yaptı",
+    "yaşan"
+   ],
+   "at": "2026-11-10T20:47:23.370667+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "28a4c1db3b",
-   "post_id": "529346797199852_1462104216029286",
-   "title": "Bakanlıktan \"güvensiz okul forması\" için toplatma kararı",
-   "at": "2026-11-08T20:46:26.601888+00:00",
-   "yazim": "claude",
-   "metin": "Ticaret Bakanlığı, çocuklara yönelik bir okul formasını güvensiz bularak satışını yasakladı ve piyasadaki ürünlerin toplatılmasına karar verdi.\n\n— Bakanlığa göre forma boğulma, yanık ve yaralanma gibi ciddi riskler taşıyor.\n— Karar, Piyasa Gözetimi ve Denetimi Dairesi Başkanlığı'nın yaptığı denetimlerin sonucunda alındı.\n— Bakanlık, çocukların sağlığını tehdit eden ürünlere karşı denetimlerin süreceğini belirtti.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/bakanliktan-guvensiz-okul-formasi-icin-toplatma-karari-2083032"
-   ]
-  },
   {
    "id": "64b2f44c70",
    "post_id": "529346797199852_1462112082695166",
@@ -13585,6 +13626,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/rusya-icin-casusluk-suphesi-ingiltere-de-abd-askeri-gozaltina-alindi-2555181",
     "BirGün: https://www.birgun.net/haber/ingiltere-de-abd-askeri-rusya-ya-casusluk-suphesiyle-gozaltina-alindi-745712"
    ]
+  },
+  {
+   "id": "bbf87bf046",
+   "post_id": "529346797199852_1464489199124121",
+   "title": "UNIFIL: Lübnan'ın güneyinde barış gücü askerlerine ateş açıldı",
+   "at": "2026-11-10T20:47:23.370667+00:00",
+   "yazim": "claude",
+   "metin": "Lübnan'ın güneyinde devriye gezen BM barış gücü askerlerine ateş açıldı.\n\nUNIFIL, akşam saatlerinde yaklaşık 12 el ateşe maruz kaldıklarını duyurdu.\n\n— Olay, barış gücünün rutin devriyesi sırasında yaşandı.\n\n— Lübnan'ın güneyi, BM barış gücünün görev yaptığı hassas bir bölge olduğu için olayın gelişmeleri yakından takip ediliyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/unifil-lubnanin-guneyinde-baris-gucu-askerlerine-ates-acildi/4119519",
+    "BirGün: https://www.birgun.net/haber/unifil-lubnan-in-guneyinde-baris-gucu-askerlerine-ates-acildi-745716"
+   ]
   }
  ],
  "fails": {
@@ -13778,11 +13831,10 @@
   "558b280cac": 1,
   "c9c5711427": 1,
   "eace240054": 1,
-  "e33ca12611": 1
+  "e33ca12611": 1,
+  "8e40f1d6b2": 1
  },
  "fail_log": [
-  "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Şeref Oğuz: Turizmden umabildiklerimiz azalıyor -> ValueError: yanıt okunamadı",
   "2026-11-10T05:16 1929 yılında bir Hint Mihracesi tarafından Mustafa Kemal Ata -> ValueError: yanıt okunamadı",
   "2026-11-10T05:41 \"Kimler geldi kimler geçti.. -> ValueError: yanıt okunamadı",
@@ -13820,12 +13872,14 @@
   "2026-11-10T19:32 Butlan CHP'sinden 'Cafer Mahiroğlu' hamlesi: Suç duyurusunda -> ValueError: yanıt okunamadı",
   "2026-11-10T19:32 Butlan CHP'sinden 'Cafer Mahiroğlu' hamlesi: Suç duyurusunda -> ValueError: cümle yarım kalmış: 'nbul Cumhuriyet Başsavcılığı rüşvet, iha'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-10T19:32 'On yılda 11 işçi ölürken bakanlık neredeydi?': Şişli'de HAB -> ValueError: cümle yarım kalmış: 'nin araştırılmasına yönelik öneriler AKP'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T20:23 ABD'de mahkeme, Trump'ın golf sahasındaki ağaç kesme yasağın -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-10T20:23 ABD'de mahkeme, Trump'ın golf sahasındaki ağaç kesme yasağın -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T20:47 MHP'li Erbaş'tan Victor Osimhen'e \"Kütahya'da tedavi\" daveti -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T20:47 MHP'li Erbaş'tan Victor Osimhen'e \"Kütahya'da tedavi\" daveti -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120247141587132641",
+   "since_id": "2120254268762366123",
    "started": true
   },
   "ajansmuhbir1923": {
