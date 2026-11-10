@@ -2,77 +2,6 @@
  "seen": [
   {
    "fp": [
-    "adana",
-    "ağaçl",
-    "devri",
-    "rüzga",
-    "şidde"
-   ],
-   "tok": [
-    "adana",
-    "ardın",
-    "atlat",
-    "ağacı",
-    "ağaç",
-    "ağaçl",
-    "biri",
-    "burad",
-    "can",
-    "canla",
-    "dalla",
-    "deki",
-    "devir",
-    "devri",
-    "direğ",
-    "duvar",
-    "düşme",
-    "düştü",
-    "ekipl",
-    "elekt",
-    "esnaf",
-    "etkil",
-    "evin",
-    "fırtı",
-    "güven",
-    "hatay",
-    "isted",
-    "kaldı",
-    "kapal",
-    "kilom",
-    "kimse",
-    "kurta",
-    "kuvve",
-    "meteo",
-    "neden",
-    "nin",
-    "olası",
-    "otomo",
-    "panos",
-    "pazar",
-    "rekla",
-    "rüzga",
-    "saatt",
-    "sayıd",
-    "semt",
-    "sürük",
-    "tehli",
-    "tezga",
-    "ucuz",
-    "uyarı",
-    "varan",
-    "yok",
-    "yüreğ",
-    "yıkıl",
-    "zor",
-    "çalış",
-    "çukur",
-    "önlem",
-    "şidde"
-   ],
-   "at": "2026-11-08T14:45:46.368372+00:00"
-  },
-  {
-   "fp": [
     "5",
     "belöz",
     "depla",
@@ -10807,20 +10736,65 @@
     "üstü"
    ],
    "at": "2026-11-10T02:43:04.363834+00:00"
+  },
+  {
+   "fp": [
+    "döndü",
+    "fabri",
+    "facia",
+    "geldi",
+    "göre",
+    "göz",
+    "habaş",
+    "işçi",
+    "mezar"
+   ],
+   "tok": [
+    "aliağ",
+    "almak",
+    "alınd",
+    "belir",
+    "cinay",
+    "daki",
+    "davet",
+    "demir",
+    "döndü",
+    "fabri",
+    "facia",
+    "felak",
+    "geldi",
+    "gelen",
+    "göre",
+    "göz",
+    "habaş",
+    "hafta",
+    "hasta",
+    "icraa",
+    "iktid",
+    "ise",
+    "istey",
+    "izmir",
+    "içind",
+    "işçi",
+    "işçil",
+    "meyda",
+    "mezar",
+    "nda",
+    "patla",
+    "tesis",
+    "yapma",
+    "yaşam",
+    "yaşan",
+    "yitir",
+    "çelik",
+    "çıkan",
+    "çıkar",
+    "önünd"
+   ],
+   "at": "2026-11-10T02:55:54.748929+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9c6702563d",
-   "post_id": "529346797199852_1461264276113280",
-   "title": "Okumaya değer üç kitap eleştirisi",
-   "at": "2026-11-08T03:45:32.840258+00:00",
-   "yazim": "claude",
-   "metin": "Bu hafta okumaya değer iki kitap var: Haydar Ergülen'in “Kutsal Lezzetler Alfabesi” ve “Tımbıllı” romanı.\n\n— “Kutsal Lezzetler Alfabesi” armuttan zeytine uzanan maddelerle ilerliyor. Sözlük gibi başlasa da her madde yeni bir alan açıyor ve bütüncül bir kitap ortaya çıkıyor.\n\n— Ergülen, bereketi, ekmeği ve sarımsağı yazıda ve şiirde nasıl yaşadıklarıyla anlatıyor.\n\n“Tımbıllı”da babaannesini kaybeden Çağla'nın gözünden bir hikâye okuyoruz. Ölüm büyük sözlerle açıklanmıyor; bir evin kokusu, bir ağaç ve çocuk aklındaki sorular üzerinden anlatılıyor. İstanbul'a taşınmak zorunda kalan Çağla'nın bıraktıklarını geride bırakıp bırakamayacağı sorusu da kitabın merkezinde yer alıyor.",
-   "sources": [
-    "Diken: https://www.diken.com.tr/okumaya-deger-uc-kitap-elestirisi-28/?utm_source=rss&utm_medium=rss&utm_campaign=okumaya-deger-uc-kitap-elestirisi-28"
-   ]
-  },
   {
    "id": "83c7764e2c",
    "post_id": "529346797199852_1461271392779235",
@@ -13362,6 +13336,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/derinlesen-kriz-iskur-raporunda-gencler-issiz-emekli-calismaya-mecbur-745510"
    ]
+  },
+  {
+   "id": "bb98f0e4c4",
+   "post_id": "529346797199852_1463537399219301",
+   "title": "Facia göz göre göre geldi: HABAŞ fabrikası işçi mezarlığına döndü",
+   "at": "2026-11-10T02:55:54.748929+00:00",
+   "yazim": "claude",
+   "metin": "İzmir Aliağa'daki HABAŞ Demir Çelik Fabrikası'nda çıkan patlamada en az 10 işçi hayatını kaybetti.\n\nPatlamada 15 işçi de yaralandı.\n\n— Fabrikada üç hafta içinde üç iş cinayetinin yaşandığı belirtiliyor.\n— Hastane önünde açıklama yapmak isteyen işçiler gözaltına alındı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/facia-goz-gore-gore-geldi-habas-fabrikasi-isci-mezarligina-dondu-745508"
+   ]
   }
  ],
  "fails": {
@@ -13538,13 +13523,10 @@
   "b0f77ccd27": 1,
   "f94c3a8ce3": 3,
   "25b129ca25": 2,
-  "0842ac5b45": 1
+  "0842ac5b45": 1,
+  "042cc8ed1b": 1
  },
  "fail_log": [
-  "2026-11-09T14:04 Adalet Bakanlığı bütçesi yeni cezaevlerine akacak -> ValueError: yanıt okunamadı",
-  "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı",
-  "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı",
-  "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı",
   "2026-11-09T15:12 İstanbul'da yarın okullar tatil mi? 10 Kasım Salı İstanbul'd -> ValueError: yanıt okunamadı",
   "2026-11-09T15:38 Beykoz Belediyesi davası: Alaattin Köseler’in oğlu “sakız” g -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-09T20:48 Anıtkabir inşaatından arşiv görüntüler: -> ValueError: yanıt okunamadı",
@@ -13580,7 +13562,11 @@
   "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
   "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
   "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T02:05 SOL Partili Kemal Koç'a verilen ceza kesinleşti: \"Depremzede -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-10T02:05 SOL Partili Kemal Koç'a verilen ceza kesinleşti: \"Depremzede -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T02:56 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
+  "2026-11-10T02:56 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
+  "2026-11-10T02:56 Sanat karın doyurmuyor: 427 salon kapandı -> ValueError: yanıt okunamadı",
+  "2026-11-10T02:56 Facia göz göre göre geldi: HABAŞ fabrikası işçi mezarlığına  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
