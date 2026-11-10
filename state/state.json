@@ -2,97 +2,6 @@
  "seen": [
   {
    "fp": [
-    "cehen",
-    "dan",
-    "iran",
-    "savaş"
-   ],
-   "tok": [
-    "abbas",
-    "abd",
-    "abluk",
-    "adıml",
-    "ameri",
-    "ara",
-    "arabu",
-    "arakç",
-    "ardın",
-    "artık",
-    "ataca",
-    "açaca",
-    "barış",
-    "bazı",
-    "bekle",
-    "belir",
-    "beyaz",
-    "bitir",
-    "boğaz",
-    "cehen",
-    "dan",
-    "deki",
-    "deney",
-    "deniz",
-    "diye",
-    "dışiş",
-    "geldi",
-    "gemil",
-    "getir",
-    "göre",
-    "görün",
-    "görüş",
-    "gün",
-    "güne",
-    "günlü",
-    "güçle",
-    "henüz",
-    "hürmü",
-    "ikinc",
-    "indir",
-    "iran",
-    "izley",
-    "kasım",
-    "katar",
-    "kazan",
-    "kendi",
-    "konus",
-    "nükle",
-    "payla",
-    "plana",
-    "planı",
-    "progr",
-    "saray",
-    "savaş",
-    "sert",
-    "sesle",
-    "seçer",
-    "seçim",
-    "seçin",
-    "seçme",
-    "sözle",
-    "tahra",
-    "taraf",
-    "terci",
-    "tetik",
-    "ticar",
-    "trump",
-    "uyarı",
-    "uzlaş",
-    "verdi",
-    "verme",
-    "yapma",
-    "yaptı",
-    "yağdı",
-    "yaşar",
-    "yenid",
-    "yerin",
-    "zaman",
-    "çağrı",
-    "önerm"
-   ],
-   "at": "2026-11-08T18:21:41.674957+00:00"
-  },
-  {
-   "fp": [
     "alany",
     "kazan",
     "trabz"
@@ -10799,21 +10708,62 @@
     "üzeri"
    ],
    "at": "2026-11-10T06:21:09.568750+00:00"
+  },
+  {
+   "fp": [
+    "165",
+    "254",
+    "abd",
+    "ara",
+    "cumhu",
+    "deki",
+    "demok",
+    "mecli",
+    "sanda",
+    "seçim",
+    "temsi",
+    "ulaşt"
+   ],
+   "tok": [
+    "abd",
+    "aldı",
+    "almış",
+    "ara",
+    "deki",
+    "demok",
+    "devam",
+    "ediyo",
+    "elde",
+    "elind",
+    "geçti",
+    "göre",
+    "hâlâ",
+    "kasım",
+    "kazan",
+    "kongr",
+    "mecli",
+    "nde",
+    "nin",
+    "nun",
+    "olmay",
+    "sanda",
+    "sayım",
+    "senat",
+    "seçim",
+    "sonuç",
+    "sürer",
+    "sürüy",
+    "tamam",
+    "temsi",
+    "ulaşa",
+    "ulaşt",
+    "yarış",
+    "çoğun"
+   ],
+   "at": "2026-11-10T06:33:46.132414+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8c2838c603",
-   "post_id": "529346797199852_1461424186097289",
-   "title": "AKOM'dan İstanbul'a 'Sibirya' uyarısı: Soğuk hava kaç gün sürecek?",
-   "at": "2026-11-08T07:10:30.868207+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da Sibirya kökenli soğuk hava etkisini sürdürüyor. AKOM, 8 Kasım Pazar sabahı havanın 7 dereceye kadar düşeceğini bildirdi.\n\n— Soğuk hava çarşamba gününe kadar etkili olmaya devam edecek.\n— Bu süreçte sıcaklıklar 12-14 derece civarında, mevsim normallerinin altında seyredecek.\n— Hafta ortasına kadar parçalı bulutlu hava hakim olacak, sabahın erken saatlerinde hafif yağış geçişleri görülebilecek.\n— Hava 13 Kasım Cuma günü 20 dereceye kadar yükselecek, 14 Kasım Cumartesi günü ise sağanak yağmur bekleniyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akom-dan-istanbul-a-sibirya-uyarisi-soguk-hava-kac-gun-surecek-2554337",
-    "BirGün: https://www.birgun.net/haber/akom-acikladi-istanbul-da-soguk-hava-ne-zaman-sona-erecek-745235"
-   ]
-  },
   {
    "id": "f860b1bfa8",
    "post_id": "529346797199852_1461433749429666",
@@ -13364,6 +13314,19 @@
     "Habertürk: https://www.haberturk.com/ekonomi/hazine-ve-maliye-bakanligi-vergi-yuzsuzleri-ni-aciklayacak-3926155",
     "Karar: https://www.karar.com/ekonomi-haberleri/vergi-borcu-olanlarin-isimleri-aciklanacak-5-milyon-tl-siniri-olacak-2083271"
    ]
+  },
+  {
+   "id": "1b556502a0",
+   "post_id": "529346797199852_1463726745867033",
+   "title": "ABD’de ara seçimler: Demokratlar 254, Cumhuriyetçiler 165 sandalyeye ulaştı",
+   "at": "2026-11-10T06:33:46.132414+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de ara seçimlerde Demokratlar Temsilciler Meclisi'nde 254, Cumhuriyetçiler 165 sandalye kazandı.\n\n— AP'nin ulaştığı sonuçlara göre Demokratlar Temsilciler Meclisi'nde çoğunluğu Cumhuriyetçilerden aldı. Oy sayımı hâlâ sürüyor.\n\n— Cumhuriyetçilerin elindeki 44 sandalye Demokratlara geçti. Kazananı belli olmayan 16 sandalye için sayım devam ediyor.\n\n— Demokratlar Senato'da da çoğunluğu Cumhuriyetçilerden almıştı. Seçimlerde Temsilciler Meclisi'nin 435 sandalyesinin tamamı ile Senato'nun 35 sandalyesi yarıştı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-254-cumhuriyetciler-165-sandalyeye-ulasti/4118119",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-254-cumhuriyetciler-165-sandalyeye-ulasti-962754.html",
+    "Evrensel: https://www.evrensel.net/haber/6008750/abdde-ara-secimler-demokratlar-254-cumhuriyetciler-165-sandalyeye-ulasti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13592,7 +13555,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120038906829611326",
+   "since_id": "2120040641296216499",
    "started": true
   },
   "ajansmuhbir1923": {
