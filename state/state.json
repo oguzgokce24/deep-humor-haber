@@ -2,83 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1450",
-    "avrup",
-    "balık",
-    "deniz",
-    "pazar",
-    "rakım",
-    "rusya",
-    "sivas",
-    "yok",
-    "yolcu",
-    "üreti"
-   ],
-   "tok": [
-    "alaba",
-    "alına",
-    "anaç",
-    "anest",
-    "anlat",
-    "avrup",
-    "balık",
-    "birka",
-    "büyüd",
-    "büyüt",
-    "büyüy",
-    "bırak",
-    "dağı",
-    "deki",
-    "deniz",
-    "dikka",
-    "dölle",
-    "dönüş",
-    "erkek",
-    "etekl",
-    "gitti",
-    "gönde",
-    "havuz",
-    "karaç",
-    "kenti",
-    "kıyıs",
-    "larva",
-    "metre",
-    "nerey",
-    "nın",
-    "olanl",
-    "olmay",
-    "pazar",
-    "rakım",
-    "rusya",
-    "sağıl",
-    "sağım",
-    "sivas",
-    "sonra",
-    "sperm",
-    "suda",
-    "sürüy",
-    "taki",
-    "tecer",
-    "tesis",
-    "tuzlu",
-    "ulaş",
-    "uygun",
-    "uzuny",
-    "yapan",
-    "yapıy",
-    "yok",
-    "yolcu",
-    "yumur",
-    "yıkan",
-    "yıldı",
-    "çekiy",
-    "üreti",
-    "ürünü"
-   ],
-   "at": "2026-11-09T03:51:27.900490+00:00"
-  },
-  {
-   "fp": [
     "den",
     "doğuy",
     "göste",
@@ -10869,20 +10792,66 @@
     "üçlü"
    ],
    "at": "2026-11-10T15:48:13.346235+00:00"
+  },
+  {
+   "fp": [
+    "81",
+    "akşam",
+    "istan",
+    "saatl",
+    "trafi",
+    "ulaşt",
+    "yoğun",
+    "yüzde"
+   ],
+   "tok": [
+    "akşam",
+    "ana",
+    "anado",
+    "ardın",
+    "arter",
+    "ataşe",
+    "avrup",
+    "bahçe",
+    "bitim",
+    "genel",
+    "göre",
+    "güçlü",
+    "harit",
+    "ibb",
+    "ilerl",
+    "kadık",
+    "kent",
+    "kuyru",
+    "köprü",
+    "malte",
+    "mesai",
+    "nda",
+    "neden",
+    "nin",
+    "oluşt",
+    "otomo",
+    "saat",
+    "saatl",
+    "trafi",
+    "ulaşt",
+    "uzun",
+    "yakas",
+    "yan",
+    "yolda",
+    "yolla",
+    "yoğun",
+    "yüzde",
+    "çalış",
+    "çevre",
+    "çıkan",
+    "çıktı",
+    "üzeri"
+   ],
+   "at": "2026-11-10T15:59:46.196168+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "70056838ea",
-   "post_id": "529346797199852_1461870679385973",
-   "title": "Goncurt'u kazanan yazar: Romanı yazarken yapay zekadan faydalandım",
-   "at": "2026-11-08T15:51:25.447865+00:00",
-   "yazim": "claude",
-   "metin": "Goncourt ödülünü kazanan Fransız yazar Philippe Jaenada, romanını yazarken yapay zekadan yararlandığını itiraf etti.\n\n— Jaenada, France Inter radyosuna kitabı yazarken \"üç kez\" yapay zekaya başvurduğunu söyledi. Birinde okuru \"oynamak\" için ChatGPT'nin yazdığı bir cümleyi romana koydu.\n\n— Bu itiraf, Goncourt Akademisi'nin Thélyson Orélien'in \"C'était ça ou Mourir\" kitabını yapay zeka şüphesiyle uzun listeden çıkarmasının ardından geldi.\n\n— Sosyal medyada bazı kullanıcılar, Orélien'e gösterilmeyen hoşgörünün Jaenada'ya gösterildiğini savundu.\n\nJaenada:\n\n“Yapay zekanın önüne geçilebileceğini düşünmüyorum, yokmuş gibi davranamayız.”",
-   "sources": [
-    "Diken: https://www.diken.com.tr/goncurtu-kazanan-yazar-romani-yazarken-yapay-zekadan-faydalandim/?utm_source=rss&utm_medium=rss&utm_campaign=goncurtu-kazanan-yazar-romani-yazarken-yapay-zekadan-faydalandim"
-   ]
-  },
   {
    "id": "e936b2a483",
    "post_id": "529346797199852_1461881822718192",
@@ -13460,6 +13429,21 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/10/disislerinden-kibristaki-3lu-gorusme-aciklamasi-is-birligini-olumlu-buluyoruz",
     "NTV: https://www.ntv.com.tr/turkiye/disislerinden-kibristaki-uclu-gorusmeye-iliskin-aciklama-1750316"
    ]
+  },
+  {
+   "id": "e04f14ddc5",
+   "post_id": "529346797199852_1464245585815149",
+   "title": "İstanbul'da akşam trafiği: Yoğunluk yüzde 81'e ulaştı",
+   "at": "2026-11-10T15:59:46.196168+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da akşam saatlerinde trafik yoğunluğu yüzde 81'e çıktı.\n\n— İBB'nin trafik haritasına göre saat 18.43'te kent genelindeki yoğunluk yüzde 81'e ulaştı.\n\n— Avrupa Yakası'nda D-100'ün Bahçelievler çevresinde yan yoldaki çalışma nedeniyle uzun araç kuyrukları oluştu.\n\n— Anadolu Yakası'nda Kadıköy, Ataşehir ve Maltepe'de D-100 üzerinde araçlar güçlükle ilerliyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yuzde-81e-ulasti-7698338",
+    "Sözcü: https://www.sozcu.com.tr/istanbulda-aksam-trafigi-yogunluk-yuzde-81e-ulasti-p380015",
+    "Diken: https://www.diken.com.tr/istanbulda-trafik-yogunlugu-yuzde-81-5/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-trafik-yogunlugu-yuzde-81-5",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/istanbulda-aksam-trafigi-yogunluk-yuzde-81e-ulasti-p380015",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-trafik-yogunlugu-yuzde-81e-ulasti-7698338"
+   ]
   }
  ],
  "fails": {
@@ -13691,7 +13675,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120180984872411489",
+   "since_id": "2120183588004270546",
    "started": true
   },
   "ajansmuhbir1923": {
