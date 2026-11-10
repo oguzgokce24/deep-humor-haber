@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "4",
-    "kütah",
-    "minib",
-    "otomo",
-    "yaral",
-    "çarpt",
-    "ölü"
-   ],
-   "tok": [
-    "ahi",
-    "akşam",
-    "ara",
-    "ayrıc",
-    "ağır",
-    "başla",
-    "cadde",
-    "etkis",
-    "evran",
-    "feci",
-    "fuatp",
-    "fırla",
-    "halin",
-    "hasta",
-    "ilgil",
-    "kaldı",
-    "kamyo",
-    "karış",
-    "kazay",
-    "kurta",
-    "kütah",
-    "mahal",
-    "minib",
-    "müdah",
-    "nde",
-    "otomo",
-    "park",
-    "rağme",
-    "saat",
-    "sokak",
-    "sürüc",
-    "sıral",
-    "yara",
-    "yola",
-    "çarpt",
-    "çarpı",
-    "çıkan",
-    "şehir"
-   ],
-   "at": "2026-11-09T06:57:53.394919+00:00"
-  },
-  {
-   "fp": [
     "akom",
     "geliy",
     "istan",
@@ -10808,23 +10755,101 @@
     "ücret"
    ],
    "at": "2026-11-10T18:53:11.588375+00:00"
+  },
+  {
+   "fp": [
+    "cop31",
+    "kadın",
+    "masad",
+    "olsun",
+    "sağlı",
+    "toplu",
+    "yerel",
+    "çağrı"
+   ],
+   "tok": [
+    "adil",
+    "almay",
+    "appea",
+    "azalt",
+    "biçim",
+    "cop31",
+    "dan",
+    "dayal",
+    "deki",
+    "deniz",
+    "diken",
+    "edili",
+    "elekt",
+    "emisy",
+    "enerj",
+    "etkil",
+    "etmel",
+    "finan",
+    "first",
+    "fosil",
+    "grupl",
+    "gözet",
+    "gümüş",
+    "hakkı",
+    "hava",
+    "ihtiy",
+    "iklim",
+    "imzal",
+    "insan",
+    "isted",
+    "isten",
+    "istiy",
+    "kadın",
+    "karşı",
+    "katıl",
+    "koord",
+    "koruy",
+    "krizi",
+    "kurul",
+    "kurum",
+    "kırıl",
+    "masad",
+    "metin",
+    "milya",
+    "murat",
+    "olmas",
+    "olsun",
+    "ortak",
+    "platf",
+    "polit",
+    "post",
+    "sağlı",
+    "süreç",
+    "talep",
+    "temel",
+    "temiz",
+    "ten",
+    "the",
+    "thhp",
+    "toplu",
+    "uyum",
+    "uzakl",
+    "veril",
+    "yakıt",
+    "yansı",
+    "yenil",
+    "yerel",
+    "yıllı",
+    "zirve",
+    "çağrı",
+    "çağır",
+    "çevre",
+    "çıkar",
+    "ölçüt",
+    "öncel",
+    "öncül",
+    "ülkel"
+   ],
+   "at": "2026-11-10T19:05:54.083312+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "525eac45fa",
-   "post_id": "529346797199852_1462038862702488",
-   "title": "Erzurum’da TIR’la çarpışan kamyonun şoförü hayatını kaybetti",
-   "at": "2026-11-08T19:09:22.435857+00:00",
-   "yazim": "claude",
-   "metin": "Erzurum'da bir TIR ile çarpışan kamyonun şoförü hayatını kaybetti.\n\n— TIR sürücüsü yara almadan kurtuldu. Kamyonda sıkışan şoför itfaiye ekiplerince çıkarıldı.\n— Ağır yaralı olarak ambulansla hastaneye kaldırılan şoför, doktorların tüm müdahalelerine rağmen yaşamını yitirdi.\n— Jandarma ekipleri kazayla ilgili inceleme başlattı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/erzurumda-feci-kaza-tirla-carpisan-kamyonun-soforu-hayatini-kaybetti-7696888",
-    "CNN Türk: https://www.cnnturk.com/turkiye/erzurumda-iki-tir-ve-kamyon-carpisti-korkunc-kazada-kamyon-soforu-can-verdi-3490660",
-    "Sözcü: https://www.sozcu.com.tr/erzurum-da-tir-la-carpisan-kamyonun-soforu-hayatini-kaybetti-p377301",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/erzurumda-feci-kaza-tirla-carpisan-kamyonun-soforu-hayatini-kaybetti-7696888"
-   ]
-  },
   {
    "id": "0db6d98aa6",
    "post_id": "529346797199852_1462047692701605",
@@ -13394,6 +13419,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/resmi-gazetede-yayimlandi-kamuda-ucret-sistemi-degisiyor-2083456"
    ]
+  },
+  {
+   "id": "8343cec92a",
+   "post_id": "529346797199852_1464417409131300",
+   "title": "COP31'e çağrı: Sağlıkçılar, kadınlar, yerel topluluklar da masada olsun",
+   "at": "2026-11-10T19:05:54.083312+00:00",
+   "yazim": "claude",
+   "metin": "THHP Koordinatörü Deniz Gümüşel:\n\n“Türkiye, iklim krizinin etkileri karşısında en kırılgan grupların ihtiyaçlarının karar süreçlerine yansıtılmasına öncülük etmeli.”\n\nSağlık ve iklim kuruluşları, COP31 iklim zirvesine katılan ülkeleri sağlığı koruyan kararlar almaya çağırdı. Türkiye'deki kuruluşların da imzaladığı ortak metinde, emisyon azaltımından finansmana kadar tüm politikalarda insan sağlığının gözetilmesi isteniyor.\n\n— Sağlık kuruluşları, fosil yakıtlardan adil biçimde uzaklaşmak için yenilenebilir enerjiye dayalı elektrifikasyona öncelik verilmesini istiyor.\n\n— Uyum finansmanının 2035'ten çok önce yıllık en az 120 milyar dolara çıkarılması talep ediliyor.\n\n— Temiz Hava Hakkı Platformu, iklim kararlarında sağlığın temel ölçüt olmasını Çevre Bakanı ve COP31 Başkanı Murat Kurum'dan istedi.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/cop31e-cagri-saglikcilar-kadinlar-yerel-topluluklar-da-masada-olsun/?utm_source=rss&utm_medium=rss&utm_campaign=cop31e-cagri-saglikcilar-kadinlar-yerel-topluluklar-da-masada-olsun"
+   ]
   }
  ],
  "fails": {
@@ -13590,7 +13626,6 @@
  "fail_log": [
   "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
   "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
-  "2026-11-10T05:09 Bülent Atamer: Enerji topluluğu -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
   "2026-11-10T05:13 Servet Yıldırım: Gezegenin de bütçelerin de tutulmayan sözle -> ValueError: yanıt okunamadı",
@@ -13627,12 +13662,13 @@
   "2026-11-10T18:34 İşçi ölümlerinin araştırılması önerileri AKP ve MHP oylarıyl -> ValueError: cümle yarım kalmış: 'rket çalışanlarında 109'dan 146'ya, taşe'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı",
   "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı",
-  "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı"
+  "2026-11-10T18:53 Bir geliştirici, Need for Speed Underground 2'deki arabaları -> ValueError: yanıt okunamadı",
+  "2026-11-10T19:06 COP31'e çağrı: Sağlıkçılar, kadınlar, yerel topluluklar da m -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120226628135751797",
+   "since_id": "2120229681504862648",
    "started": true
   },
   "ajansmuhbir1923": {
