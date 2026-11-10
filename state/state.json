@@ -2,107 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "bitir",
-    "den",
-    "iddia",
-    "iran",
-    "isted",
-    "nin",
-    "savaş",
-    "yardı",
-    "çin"
-   ],
-   "tok": [
-    "abd",
-    "amacı",
-    "belir",
-    "besse",
-    "bitir",
-    "demir",
-    "den",
-    "etkis",
-    "göre",
-    "haber",
-    "hamle",
-    "hazin",
-    "iddia",
-    "ileti",
-    "ilett",
-    "iran",
-    "isted",
-    "kapı",
-    "karşı",
-    "kulla",
-    "mesaj",
-    "nin",
-    "nüfuz",
-    "ortay",
-    "pekin",
-    "post",
-    "savaş",
-    "scott",
-    "sonla",
-    "tahra",
-    "talep",
-    "ulaşt",
-    "washi",
-    "yardı",
-    "yönet",
-    "çin",
-    "çıkıy",
-    "öneml",
-    "üzeri"
-   ],
-   "at": "2026-11-08T19:34:32.345810+00:00"
-  },
-  {
-   "fp": [
-    "aziz",
-    "başın",
-    "görün",
-    "maçın",
-    "tek",
-    "yıldı",
-    "çorum"
-   ],
-   "tok": [
-    "ardın",
-    "aziz",
-    "başın",
-    "daki",
-    "dikka",
-    "düşün",
-    "fener",
-    "geçti",
-    "görün",
-    "hali",
-    "izlem",
-    "izler",
-    "karşı",
-    "konuş",
-    "maçın",
-    "medya",
-    "nin",
-    "ortay",
-    "sosya",
-    "stadı",
-    "takip",
-    "takım",
-    "tek",
-    "u19",
-    "yayıl",
-    "yaşın",
-    "yıldı",
-    "çekti",
-    "çorum",
-    "çıkan",
-    "şehir"
-   ],
-   "at": "2026-11-08T19:45:17.145882+00:00"
-  },
-  {
-   "fp": [
     "1",
     "5",
     "aydın",
@@ -10835,22 +10734,63 @@
     "üreti"
    ],
    "at": "2026-11-10T07:33:06.176924+00:00"
+  },
+  {
+   "fp": [
+    "başla",
+    "borsa",
+    "dolar",
+    "döviz",
+    "güne",
+    "yükse"
+   ],
+   "tok": [
+    "aktör",
+    "avro",
+    "ayrı",
+    "başla",
+    "belir",
+    "borsa",
+    "brand",
+    "ceza",
+    "cezas",
+    "cinse",
+    "daki",
+    "döviz",
+    "dün",
+    "euro",
+    "euron",
+    "fiyat",
+    "güne",
+    "hapis",
+    "harek",
+    "ingil",
+    "ise",
+    "komed",
+    "krali",
+    "kurla",
+    "lirad",
+    "londr",
+    "nasıl",
+    "nde",
+    "olmuş",
+    "piyas",
+    "russe",
+    "satış",
+    "serbe",
+    "south",
+    "suçun",
+    "topla",
+    "yukar",
+    "yönlü",
+    "yükse",
+    "yıl",
+    "çarpt"
+   ],
+   "at": "2026-11-10T07:45:34.252701+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9d91fc64f2",
-   "post_id": "529346797199852_1461478672758507",
-   "title": "BBP, DSP ve Anavatan Partisi'nden AYM'ye başvuru: 11 Kasım'da incelenecek",
-   "at": "2026-11-08T08:14:38.815562+00:00",
-   "yazim": "claude",
-   "metin": "Anayasa Mahkemesi, üç siyasi partinin isim, rumuz ve amblem başvurularını 11 Kasım'da görüşecek.\n\nDSP, 3 Şubat 2026'da kurulan Yeniden Umut Partisi'nin \"mavi zemin üzerine beyaz güvercin\" amblemini kendi amblemine fazla benzer bulduğunu savundu. Anavatan Partisi ise Anayol Partisi'nin Türkiye haritalı, arılı amblemi ile isim ve rumuzunun kendi partisiyle karışabileceğini öne sürdü.\n\n— BBP, 28 Eylül 2026'da kurulan Büyük Değişim Birlik Partisi ile 21 Eylül 2026'da kurulan Hakta Birlik Partisi'nin isim, rumuz ve amblemlerine itiraz etti.\n— Üç başvuruda da bu isim ve amblemlerin hükümsüz sayılması ve siyasi partiler sicilinden silinmesi isteniyor.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/dsp-nin-guvercini-anavatan-partisi-nin-arisi-icin-aym-ye-basvuru-p377151",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/aym-de-3-kritik-basvuru-siyasi-partilerin-amblemleri-gundemde-2554367",
-    "BirGün: https://www.birgun.net/haber/bbp-dsp-ve-anavatan-partisi-nden-aym-ye-basvuru-11-kasim-da-incelenecek-745248"
-   ]
-  },
   {
    "id": "c3261ced13",
    "post_id": "529346797199852_1461487752757599",
@@ -13404,6 +13344,20 @@
     "Habertürk: https://www.haberturk.com/ekonomi/kahvaltilik-peynirde-yeni-donem-peynir-uretiminde-koy-ve-geleneksel-donemi-bitti-iste-yeni-kurallar-3926153",
     "Diken: https://www.diken.com.tr/peynir-duzenlemesi-sut-disi-protein-ve-jelatine-yasak/?utm_source=rss&utm_medium=rss&utm_campaign=peynir-duzenlemesi-sut-disi-protein-ve-jelatine-yasak"
    ]
+  },
+  {
+   "id": "8b87e130ae",
+   "post_id": "529346797199852_1463779302528444",
+   "title": "Döviz kurlarında yukarı yönlü hareket: Dolar ve Euro güne nasıl başladı?",
+   "at": "2026-11-10T07:45:34.252701+00:00",
+   "yazim": "claude",
+   "metin": "İngiliz komedyen ve aktör Russell Brand, Londra'da dört ayrı cinsel saldırı suçundan toplam 10 yıl 6 ay hapis cezasına çarptırıldı.\n\n— Karar, Londra'daki Southwark Kraliyet Mahkemesi'nde açıklandı.\n— Ceza, dört suçun toplamı olarak belirlendi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselisle-basladi/4118205",
+    "Habertürk: https://www.haberturk.com/ekonomi/borsa-gune-yukselisle-basladi-3926178",
+    "Evrensel: https://www.evrensel.net/haber/6008749/doviz-gune-yukselisle-basladi-dolar-ve-avro-ne-kadar-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/doviz-kurlarinda-yukari-yonlu-hareket-dolar-ve-euro-gune-nasil-basladi-745539"
+   ]
   }
  ],
  "fails": {
@@ -13632,7 +13586,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120055268637835469",
+   "since_id": "2120057102676754509",
    "started": true
   },
   "ajansmuhbir1923": {
