@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "247",
-    "akıll",
-    "ankar",
-    "bakan",
-    "güzer",
-    "kilom",
-    "korid",
-    "kurul",
-    "ulaşı",
-    "uralo"
-   ],
-   "tok": [
-    "abdul",
-    "akıll",
-    "aland",
-    "altya",
-    "aus",
-    "bağla",
-    "belir",
-    "daki",
-    "deney",
-    "devam",
-    "edip",
-    "ettiğ",
-    "geniş",
-    "gölba",
-    "güzer",
-    "hasda",
-    "haval",
-    "hedef",
-    "kapsa",
-    "kesim",
-    "kilom",
-    "korid",
-    "kurul",
-    "oluşt",
-    "otomo",
-    "otono",
-    "otoyo",
-    "oğulb",
-    "polat",
-    "proje",
-    "siste",
-    "sürüy",
-    "tekno",
-    "test",
-    "ulaşt",
-    "ulaşı",
-    "uralo",
-    "uygul",
-    "yakla",
-    "yolu",
-    "yönel",
-    "çalış",
-    "çevre",
-    "öneml"
-   ],
-   "at": "2026-11-08T13:54:42.164324+00:00"
-  },
-  {
-   "fp": [
     "9",
     "cenaz",
     "daki",
@@ -10823,20 +10762,68 @@
     "şirke"
    ],
    "at": "2026-11-10T01:51:09.660589+00:00"
+  },
+  {
+   "fp": [
+    "ceza",
+    "cezae",
+    "depre",
+    "hakkı",
+    "kemal",
+    "kesin",
+    "koç",
+    "parti",
+    "savun",
+    "sol",
+    "veril",
+    "yatac",
+    "yurtt"
+   ],
+   "tok": [
+    "ancak",
+    "aylık",
+    "ben",
+    "ceza",
+    "cezae",
+    "cezas",
+    "depre",
+    "diyer",
+    "etmiş",
+    "göste",
+    "hakkı",
+    "hapis",
+    "hesap",
+    "ise",
+    "işley",
+    "kemal",
+    "kesin",
+    "koç",
+    "kızıl",
+    "myk",
+    "parti",
+    "prote",
+    "satan",
+    "satma",
+    "satış",
+    "savun",
+    "serbe",
+    "sol",
+    "suçu",
+    "tepki",
+    "verec",
+    "veril",
+    "vurgu",
+    "yargı",
+    "yatac",
+    "yurtt",
+    "çadır",
+    "üyesi",
+    "şubat"
+   ],
+   "at": "2026-11-10T02:05:09.219888+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c7c6d7b66c",
-   "post_id": "529346797199852_1461226749450366",
-   "title": "Tradwife içerikleri kadınların öfkesini feminizme yöneltiyor: Gerçek suçlu kapitalizm",
-   "at": "2026-11-08T02:55:15.605818+00:00",
-   "yazim": "claude",
-   "metin": "Chicago Üniversitesi araştırmacısı Kate Gorodovich:\n\n“Tradwife'lar, ev hanımlığı topluluğu ormanındaki tek bir ağaçtan ibaret.”\n\n— Gorodovich'e göre medya ve akademi bu tek ağaca takılıp kalıp ormanın tamamını gözden kaçırdı.\n— Instagram'da #homemaker etiketi Mart 2026'da 938 bin gönderiye ulaşırken #tradwife etiketi 122 bin gönderide kalmıştı.\n— Eylül 2026'da bu sayılar sırasıyla 958 bin ve 137 bin oldu.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tradwife-icerikleri-kadinlarin-ofkesini-feminizme-yoneltiyor-gercek-suclu-kapitalizm-745214"
-   ]
-  },
   {
    "id": "46af89fefc",
    "post_id": "529346797199852_1461235829449458",
@@ -13378,6 +13365,17 @@
    "sources": [
     "Karar: https://www.karar.com/ekonomi-haberleri/apple-developer-center-nedir-turkiyede-ne-zaman-acilacak-apple-2083254"
    ]
+  },
+  {
+   "id": "c297586d81",
+   "post_id": "529346797199852_1463501555889552",
+   "title": "SOL Partili Kemal Koç'a verilen ceza kesinleşti: \"Depremzede yurttaşın hakkını savunduğum için cezaevinde yatacağım\"",
+   "at": "2026-11-10T02:05:09.219888+00:00",
+   "yazim": "claude",
+   "metin": "Çadır satışını protesto eden SOL Parti MYK Üyesi Kemal Koç'un 1 aylık hapis cezası kesinleşti.\n\nKemal Koç:\n\n“Suçu işleyenler yargılanmadı ve serbestler. Ancak ben depremzede yurttaşın hakkını savunduğum için bir ay cezaevinde yatacağım.”\n\n— Koç, 6 Şubat depremlerinde Kızılay'ın çadır satmasını protesto etmişti.\n— SOL Parti karara \"Çadır satanlar ve vurguncular hesap verecek\" diyerek tepki gösterdi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/sol-partili-kemal-koc-a-verilen-ceza-kesinlesti-depremzede-yurttasin-hakkini-savundugum-icin-cezaevinde-yatacagim-745512"
+   ]
   }
  ],
  "fails": {
@@ -13558,7 +13556,6 @@
  },
  "fail_log": [
   "2026-11-09T14:04 Adalet Bakanlığı bütçesi yeni cezaevlerine akacak -> ValueError: yanıt okunamadı",
-  "2026-11-09T14:04 Adalet Bakanlığı bütçesi yeni cezaevlerine akacak -> ValueError: yanıt okunamadı",
   "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı",
   "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı",
   "2026-11-09T15:00 2026 KPSS Ortaöğretim Sonuçları Ne Zaman Açıklanacak? Lise K -> ValueError: yanıt okunamadı",
@@ -13596,7 +13593,8 @@
   "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
   "2026-11-10T01:26 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
   "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: yanıt okunamadı",
-  "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-10T01:38 Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 krit -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-10T02:05 SOL Partili Kemal Koç'a verilen ceza kesinleşti: \"Depremzede -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
