@@ -12706,6 +12706,62 @@
     "çıktı"
    ],
    "at": "2026-11-11T18:24:09.175839+00:00"
+  },
+  {
+   "fp": [
+    "aslan",
+    "başka",
+    "cop31",
+    "ekono",
+    "elimi",
+    "etkin",
+    "ibb",
+    "kayna",
+    "konuş",
+    "kulla",
+    "nuri",
+    "tamam",
+    "yönel",
+    "çevre"
+   ],
+   "tok": [
+    "adale",
+    "akman",
+    "alınm",
+    "aslan",
+    "aynı",
+    "beled",
+    "beril",
+    "bloom",
+    "büro",
+    "büyük",
+    "cop31",
+    "düzen",
+    "ekono",
+    "elimi",
+    "etkin",
+    "green",
+    "hiçbi",
+    "ibb",
+    "iklim",
+    "kapsa",
+    "katıl",
+    "kayna",
+    "konuş",
+    "kulla",
+    "nuri",
+    "polit",
+    "sorul",
+    "sosya",
+    "tamam",
+    "yanıt",
+    "yardı",
+    "yönel",
+    "zaman",
+    "çevre",
+    "şef"
+   ],
+   "at": "2026-11-11T18:27:28.850490+00:00"
   }
  ],
  "posted": [
@@ -15527,14 +15583,11 @@
   "fb082d0374": 1,
   "a34b628508": 1,
   "1c4c3b79ef": 1,
-  "e9cf15f6e7": 2,
-  "05ff062fe2": 1,
-  "2938d232e0": 1
+  "05ff062fe2": 2,
+  "2938d232e0": 1,
+  "1163d6c291": 1
  },
  "fail_log": [
-  "2026-11-11T17:37 Sinemalarda yeni hafta: 10 film vizyona girecek... -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:40 Ulaş Bager Aldemir’in Marina Garcés’le söyleşisi: “Kıyamet,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:40 RAMS Park'ta zemin bakım çalışmaları kapsamında çim büyütme  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:40 Erdoğan, COP31 Liderler Zirvesi'nde konuştu: 'Önümüzde iki s -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:43 Ulaş Bager Aldemir’in Marina Garcés’le söyleşisi: “Kıyamet,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:43 Bütçe görüşmelerinde kadın konukevleri konuşuldu: AKP'li İsm -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15571,7 +15624,10 @@
   "2026-11-11T18:20 Sivas'ta işçi servisi kaza yaptı! Çok sayıda yaralı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:24 Brezilya'da 6 ay içinde evi 3 kez soyulan bir adam, hırsızla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:24 Aylin Kotil’in ifadesi ortaya çıktı! Erzincan'a Tesla ve pil -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:24 İBB Başkanvekili Nuri Aslan COP31 etkinliğinde konuştu: \"Eli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T18:24 İBB Başkanvekili Nuri Aslan COP31 etkinliğinde konuştu: \"Eli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:27 İBB Başkanvekili Nuri Aslan COP31 etkinliğinde konuştu: \"Eli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:27 Sivas'ta işçi servisi kaza yaptı! Çok sayıda yaralı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:27 İBB davasında Buğra Gökce ve Murat Kapki’den tahliye talebi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
