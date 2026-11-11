@@ -13869,12 +13869,11 @@
   "6a12964426": 1,
   "9c6fa5ad7b": 1,
   "d5a98b9ce2": 1,
-  "d08cbfab3f": 1
+  "d08cbfab3f": 2,
+  "b6a8384e3b": 1,
+  "862f02ade3": 1
  },
  "fail_log": [
-  "2026-11-11T06:41 Los Angeles'ta araç kalabalığın arasına daldı: 3 kişi yaşamı -> ValueError: yanıt okunamadı",
-  "2026-11-11T08:47 MHP’den dokunulmazlık çıkışı: Rüşvet ve yolsuzluk suçlamalar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-11T08:47 MHP’den dokunulmazlık çıkışı: Rüşvet ve yolsuzluk suçlamalar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-11T08:47 MHP’den dokunulmazlık çıkışı: Rüşvet ve yolsuzluk suçlamalar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-11T10:17 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> ValueError: cümle yarım kalmış: 'suç duyurusunda bulundu. Mahkeme dosyayı'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-11T10:17 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> ValueError: yanıt okunamadı",
@@ -13911,7 +13910,10 @@
   "2026-11-11T11:31 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:34 A Milli Takım'da sakatlık şoku: Kadrodan çıkarıldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:34 Meclis'te bomba iddia: AKP Genel Merkez çalışanlarının maaşı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:34 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T11:34 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:38 A Milli Takım'da sakatlık şoku: Kadrodan çıkarıldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:38 İtalya'da 100'den fazla okulda bomba alarmı: Çok sayıda okul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:38 Bir meslek grubuna yeşil pasaport talebi: İçişleri Bakanı’nd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
