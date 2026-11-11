@@ -13718,12 +13718,12 @@
   "b200768cdb": 1,
   "a8860028bf": 1,
   "6af69bab8f": 1,
-  "6a12964426": 1
+  "6a12964426": 1,
+  "562756e6df": 1,
+  "39c8bd0dfa": 1,
+  "2b0051ceaa": 1
  },
  "fail_log": [
-  "2026-11-11T01:41 MHP’li Ömer İzgi’den YENİ Parti’ye destek: Butlan kararı hat -> ValueError: yanıt okunamadı",
-  "2026-11-11T01:41 MHP’li Ömer İzgi’den YENİ Parti’ye destek: Butlan kararı hat -> ValueError: yanıt okunamadı",
-  "2026-11-11T01:41 James Bond: Yeni 007 kim olacak? Ne zaman gösterime girecek? -> ValueError: yanıt okunamadı",
   "2026-11-11T01:41 James Bond: Yeni 007 kim olacak? Ne zaman gösterime girecek? -> ValueError: yanıt okunamadı",
   "2026-11-11T01:41 James Bond: Yeni 007 kim olacak? Ne zaman gösterime girecek? -> ValueError: yanıt okunamadı",
   "2026-11-11T02:04 Fon skandalı iktidarı vurdu: Seçmen güveni eridi, tepki büyü -> ValueError: yanıt okunamadı",
@@ -13760,7 +13760,10 @@
   "2026-11-11T11:03 YENİ Parti'den 18 işçinin öldüğü faciaya ilişkin 10 bakanlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:07 9 Süper Lig kulübü PFDK'ye sevk edildi: Galatasaray, Fenerba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:07 İspanya'da 14 yıl sonra ilk genel grev: Talepler ücret artış -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:07 YENİ Parti'den 18 işçinin öldüğü faciaya ilişkin 10 bakanlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T11:07 YENİ Parti'den 18 işçinin öldüğü faciaya ilişkin 10 bakanlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:10 Ramazan ve Şevval umre turları için kayıtlar başladı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:10 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:10 Genç ailelere bebek müjdesi: Evlilik desteği alanlara yeni d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
