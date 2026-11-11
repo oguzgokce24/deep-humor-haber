@@ -16468,13 +16468,11 @@
   "79582f57b5": 1,
   "75b25972f8": 1,
   "07bba78d65": 1,
-  "e5efc46772": 1,
-  "85fb910efd": 1
+  "e5efc46772": 2,
+  "85fb910efd": 2,
+  "30b14bb959": 1
  },
  "fail_log": [
-  "2026-11-11T22:05 Bayrampaşa’da yıkım sırasında hasar gören 4 katlı bina tahli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:08 BUDO'da hava engeli: 8 sefer iptal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:08 MasterChef ikinci eleme adayı kim oldu? 11 Kasım 2026 Master -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:08 TÜPRAŞ işçisi: Sendikamız iş cinayetine karşı üç maymunu oyn -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:11 BUDO'da hava engeli: 8 sefer iptal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:11 Bayrampaşa’da yıkım sırasında hasar gören 4 katlı bina tahli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16511,7 +16509,10 @@
   "2026-11-11T22:44 T.C. ERZİNCAN 1. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:45 Morgan Rogers: \"Cristiano Ronaldo en sevdiğim oyuncu ama Dün -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:45 T.C. BURSA GAYRİMENKUL SATIŞ İCRA DAİRESİ MÜDÜRLÜĞÜ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:45 T.C. İSTANBUL VAKIFLAR 1. BÖLGE MÜDÜRLÜĞÜ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T22:45 T.C. İSTANBUL VAKIFLAR 1. BÖLGE MÜDÜRLÜĞÜ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:48 T.C. BURSA GAYRİMENKUL SATIŞ İCRA DAİRESİ MÜDÜRLÜĞÜ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:48 T.C. İSTANBUL VAKIFLAR 1. BÖLGE MÜDÜRLÜĞÜ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:48 İspanya'da 14 yıl sonra ilk genel grev: Madrid ve Barcelona' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
