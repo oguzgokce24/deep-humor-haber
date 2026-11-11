@@ -13509,6 +13509,56 @@
     "zor"
    ],
    "at": "2026-11-11T20:47:53.452749+00:00"
+  },
+  {
+   "fp": [
+    "1923",
+    "1950",
+    "anado",
+    "ağlar",
+    "demir",
+    "donat",
+    "dönem",
+    "gurur",
+    "harit",
+    "sanay",
+    "yerli"
+   ],
+   "tok": [
+    "anado",
+    "arası",
+    "atatü",
+    "ağlar",
+    "ağır",
+    "demir",
+    "dev",
+    "dokum",
+    "donat",
+    "dönem",
+    "faali",
+    "genç",
+    "gurur",
+    "hamle",
+    "harit",
+    "işlet",
+    "kamu",
+    "kemal",
+    "kendi",
+    "kurar",
+    "lider",
+    "musta",
+    "sanay",
+    "savun",
+    "tarım",
+    "tesis",
+    "uzana",
+    "yatır",
+    "yerli",
+    "yete",
+    "yılla",
+    "üreti"
+   ],
+   "at": "2026-11-11T20:51:15.205138+00:00"
   }
  ],
  "posted": [
@@ -16333,7 +16383,6 @@
   "2938d232e0": 1,
   "d426465d85": 1,
   "15b2915244": 1,
-  "d7a71f35ce": 2,
   "b4b8550939": 1,
   "1da75b6e18": 2,
   "7a090a5030": 1,
@@ -16341,12 +16390,10 @@
   "38155bb9b2": 1,
   "53520913bf": 1,
   "113734223a": 2,
-  "e1a2450e58": 1
+  "e1a2450e58": 2,
+  "a3aad9c7f9": 1
  },
  "fail_log": [
-  "2026-11-11T20:03 Takviye edici gıdalarda şeffaflık adımı: 24 bileşenin kaynağ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:07 Rize’de kamyonet dereye yuvarlandı: 3 kişi hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:07 İBB davası | Fatoş Pınar Türker: “Beni çocuklarıma kavuşturu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:07 Tarihte görülmemiş kriz: 2027 yılında üretilecek RAM bellekl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:10 Rize’de kamyonet dereye yuvarlandı: 3 kişi hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:10 Tarihte görülmemiş kriz: 2027 yılında üretilecek RAM bellekl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16383,7 +16430,10 @@
   "2026-11-11T20:44 Netanyahu bloğu yeni meclisteki ilk oylamayı muhalefete kayb -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:47 Gemini, el yazısıyla tutulan notları saniyeler içinde PDF ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:47 Kentsel dönüşümde teklifler ve sözleşmeler için ortak dosya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:47 18 işçinin öldüğü HABAŞ Katliamı soruşturması: Mehmet Rüştü  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T20:47 18 işçinin öldüğü HABAŞ Katliamı soruşturması: Mehmet Rüştü  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:51 Bursa’da otomobil ile motosiklet çarpıştı: Anne ve oğlu yara -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:51 Gemini, el yazısıyla tutulan notları saniyeler içinde PDF ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:51 Anadolu'yu demir ağlar ve yerli sanayiyle donatan 1923-1950  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
