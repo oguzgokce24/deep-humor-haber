@@ -11716,6 +11716,56 @@
     "şey"
    ],
    "at": "2026-11-11T14:58:16.663787+00:00"
+  },
+  {
+   "fp": [
+    "60",
+    "9",
+    "değer",
+    "fonu",
+    "hesab",
+    "karab",
+    "lira",
+    "milya",
+    "nasıl",
+    "parti",
+    "sosya",
+    "tan",
+    "yardı"
+   ],
+   "tok": [
+    "aile",
+    "belir",
+    "bütçe",
+    "dayan",
+    "değer",
+    "fonu",
+    "gelir",
+    "hesab",
+    "hizme",
+    "karab",
+    "kayna",
+    "komis",
+    "kulla",
+    "liran",
+    "mille",
+    "milya",
+    "nasıl",
+    "nda",
+    "nun",
+    "nın",
+    "parti",
+    "plan",
+    "sosya",
+    "tan",
+    "tbmm",
+    "teşvi",
+    "yardı",
+    "yılı",
+    "yılın",
+    "özgür"
+   ],
+   "at": "2026-11-11T15:01:33.910621+00:00"
   }
  ],
  "posted": [
@@ -14516,14 +14566,12 @@
   "09e94de9dd": 1,
   "a1cedcea2d": 1,
   "e96d95a18b": 1,
-  "c92b732101": 2,
   "16e4a14e1d": 1,
-  "a863efffcd": 1
+  "a863efffcd": 1,
+  "49cfebdfdc": 1,
+  "73bc19ea4c": 1
  },
  "fail_log": [
-  "2026-11-11T14:00 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:03 Kuş gribi alarmı: En az 40 tür yok olma tehlikesiyle karşı k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:03 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:03 İHD Adana’dan çözüm süreci için demokratikleşme çağrısı: 'Ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:07 18 işçi hayatını kaybetmişti: İzmir Barosu'ndan HABAŞ patlam -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:07 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14560,7 +14608,10 @@
   "2026-11-11T14:41 Altın günü kayıpla kaptı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:58 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:58 NASA, yeni astronotlar arıyor. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:58 1 yıl önce bugün Gürcistan'da düşen C-130 askeri kargo uçağı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T14:58 1 yıl önce bugün Gürcistan'da düşen C-130 askeri kargo uçağı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:01 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:01 YENİ Partili Karabat'tan Sosyal Yardımlaşma Fonu hesabı: 60, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:01 Galatasaray'da devre arası transfer listesi şekilleniyor: Ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
