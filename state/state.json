@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "6",
-    "brand",
-    "cezas",
-    "cinse",
-    "hapis",
-    "komed",
-    "oyunc",
-    "russe",
-    "saldı",
-    "suçla",
-    "tecav",
-    "yıl",
-    "çarpt"
-   ],
-   "tok": [
-    "brand",
-    "ceza",
-    "cezas",
-    "cinse",
-    "davan",
-    "hapis",
-    "ingil",
-    "komed",
-    "medya",
-    "neden",
-    "oyunc",
-    "russe",
-    "sonuc",
-    "suçla",
-    "tanın",
-    "tecav",
-    "veril",
-    "yargı",
-    "yıl",
-    "çarpt"
-   ],
-   "at": "2026-11-09T17:58:32.421039+00:00"
-  },
-  {
-   "fp": [
     "alınm",
     "arabi",
     "batı",
@@ -11024,23 +10983,96 @@
     "ödeme"
    ],
    "at": "2026-11-11T05:51:10.793737+00:00"
+  },
+  {
+   "fp": [
+    "anlar",
+    "annel",
+    "annes",
+    "evi",
+    "ister",
+    "kamer",
+    "mutfa",
+    "sürpr",
+    "yaktı",
+    "yapma",
+    "çocuk"
+   ],
+   "tok": [
+    "aldı",
+    "alev",
+    "alm",
+    "almad",
+    "almas",
+    "anlar",
+    "anne",
+    "annel",
+    "annes",
+    "araya",
+    "ağabe",
+    "ciddi",
+    "daire",
+    "doldu",
+    "dolu",
+    "duman",
+    "dönen",
+    "dönün",
+    "ekipl",
+    "evde",
+    "eve",
+    "evi",
+    "evin",
+    "geçti",
+    "girme",
+    "gördü",
+    "hasar",
+    "hazır",
+    "isted",
+    "ister",
+    "istey",
+    "itfai",
+    "izlem",
+    "iştey",
+    "kamer",
+    "karde",
+    "korku",
+    "koydu",
+    "kurtu",
+    "kız",
+    "maddi",
+    "marke",
+    "mutfa",
+    "müdah",
+    "neden",
+    "ocakt",
+    "ocağa",
+    "okuld",
+    "oluşt",
+    "sulta",
+    "söndü",
+    "sürpr",
+    "telev",
+    "unutt",
+    "unutu",
+    "yaktı",
+    "yangı",
+    "yapma",
+    "yara",
+    "yardı",
+    "yağ",
+    "yağın",
+    "yaşan",
+    "yaşın",
+    "yemek",
+    "çocuk",
+    "çocuğ",
+    "çıkar",
+    "çıktı"
+   ],
+   "at": "2026-11-11T06:03:09.097284+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "03679c5946",
-   "post_id": "529346797199852_1462554072650967",
-   "title": "Girit açıklarında mülteci teknesi alabora oldu: 12 kişi hayatını kaybetti",
-   "at": "2026-11-09T07:43:16.177269+00:00",
-   "yazim": "claude",
-   "metin": "Yunanistan'ın Girit Adası açıklarında mülteci taşıyan bir tekne alabora oldu, 12 kişi hayatını kaybetti.\n\n— Denizden 18 kişi sağ olarak kurtarıldı, 12 kişinin cansız bedenine ulaşıldı.\n\n— Teknenin alabora olduğunu, Kalon Limenon sahilinin 15 deniz mili güneydoğusundan geçen ticari bir gemi fark etti.\n\n— Sahil güvenlik ekipleri bölgede arama-kurtarma çalışmalarını sürdürüyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/dunya/yunanistan-aciklarinda-gocmen-teknesi-batti-12-kisi-hayatini-kaybetti-7697166",
-    "Evrensel: https://www.evrensel.net/haber/6008605/girit-aciklarinda-multeci-teknesi-alabora-oldu-12-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/dunya-haberleri/akdenizde-gocmen-faciasi-12-kisi-hayatini-kaybetti-2083089",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/yunanistan-aciklarinda-gocmen-teknesi-batti-12-kisi-hayatini-kaybetti-7697166"
-   ]
-  },
   {
    "id": "c3aa3e457a",
    "post_id": "529346797199852_1462562375983470",
@@ -13598,6 +13630,21 @@
     "Evrensel: https://www.evrensel.net/haber/6008901/afyonda-6-jeotermal-saha-ihaleye-cikariliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/resmi-gazete-de-yayimlandi-6-jeotermal-saha-icin-ihale-karari-745744"
    ]
+  },
+  {
+   "id": "9c250c4600",
+   "post_id": "529346797199852_1464933302413044",
+   "title": "Annesine sürpriz yapmak isterken evi yaktı: Korku dolu anlar kamerada",
+   "at": "2026-11-11T06:03:09.097284+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Sultangazi'de 10 yaşındaki bir kız annesine sürpriz yapmak isterken mutfakta yangın çıkardı.\n\n— Anne işteyken okuldan eve dönen kız ocağa yağ koydu, sonra televizyon izlemeye geçti. Ocakta unutulan yağ alev aldı.\n\n— 12 yaşındaki ağabey marketten dönünce evin dumanla dolduğunu gördü ve 112'yi arayarak yardım istedi.\n\n— İtfaiye ekipleri yangını söndürdü. İki çocuk yara almadan kurtuldu, ama dairede ciddi maddi hasar oluştu.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/video-annelerine-surpriz-yapmak-isterken-mutfagi-yaktilar-1750350",
+    "NTV: https://www.ntv.com.tr/turkiye/annelerine-surpriz-yapmak-isterken-mutfagi-yaktilar-1750351",
+    "Sözcü: https://www.sozcu.com.tr/10-yasindaki-cocuk-annesine-surpriz-yapmak-isterken-evi-yakti-o-anlar-kamerada-p380120",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/annesine-surpriz-yapmak-isterken-evi-yakti-korku-dolu-anlar-kamerada-2555245",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/sultangazide-annesine-surpriz-icin-yemek-yapmak-isteyen-cocuklar-evi-yakti-4871401"
+   ]
   }
  ],
  "fails": {
@@ -13847,7 +13894,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120390541196100046",
+   "since_id": "2120395790963052833",
    "started": true
   },
   "ajansmuhbir1923": {
