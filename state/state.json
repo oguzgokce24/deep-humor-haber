@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "9",
-    "düşen",
-    "hayat",
-    "kadın",
-    "katta",
-    "kaybe"
-   ],
-   "tok": [
-    "apart",
-    "araşt",
-    "başla",
-    "belir",
-    "beton",
-    "bildi",
-    "binan",
-    "cenaz",
-    "demir",
-    "dokuz",
-    "durum",
-    "düşen",
-    "düştü",
-    "ekipl",
-    "eğiti",
-    "gören",
-    "görev",
-    "hasta",
-    "ilgil",
-    "ilhan",
-    "kadın",
-    "kaldı",
-    "katta",
-    "katın",
-    "mahal",
-    "metre",
-    "morgu",
-    "nde",
-    "nin",
-    "niğde",
-    "olay",
-    "olayl",
-    "oturd",
-    "pence",
-    "rukiy",
-    "sağlı",
-    "sevk",
-    "uncu",
-    "yaşam",
-    "yerin",
-    "yitir",
-    "yükse",
-    "zemin",
-    "çevre",
-    "ölüm"
-   ],
-   "at": "2026-11-09T17:31:24.651688+00:00"
-  },
-  {
-   "fp": [
     "10",
     "6",
     "brand",
@@ -10990,22 +10932,51 @@
     "üzeri"
    ],
    "at": "2026-11-11T05:26:00.546731+00:00"
+  },
+  {
+   "fp": [
+    "ateşk",
+    "avrup",
+    "barış",
+    "dan",
+    "etmiy",
+    "kabul",
+    "nın",
+    "planı",
+    "rusya",
+    "taleb",
+    "tepki"
+   ],
+   "tok": [
+    "ateşk",
+    "avrup",
+    "barış",
+    "dan",
+    "dışiş",
+    "etmek",
+    "etmey",
+    "etmiy",
+    "göre",
+    "isten",
+    "kabul",
+    "kayıp",
+    "kazan",
+    "lavro",
+    "nın",
+    "planı",
+    "rusya",
+    "savun",
+    "serge",
+    "taleb",
+    "telaf",
+    "tepki",
+    "ukray",
+    "zaman"
+   ],
+   "at": "2026-11-11T05:38:35.546370+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "501dd0229c",
-   "post_id": "529346797199852_1462515755988132",
-   "title": "Minibüs otomobile ve park halindeki araçlara çarptı: 1 kişi öldü",
-   "at": "2026-11-09T06:57:53.394919+00:00",
-   "yazim": "claude",
-   "metin": "Kütahya'da bir minibüsün çarptığı otomobilin sürücüsü hayatını kaybetti, 4 kişi yaralandı.\n\n— Ara sokaktan caddeye çıkan otomobil, minibüsle çarpıştı. Minibüs ayrıca park halindeki bir otomobile ve kamyona da çarptı.\n\n— Kaza akşam saat 22.00 sıralarında Fuatpaşa Mahallesi Ahi Evran Caddesi'nde oldu.\n\n— Çarpışmanın etkisiyle yola fırlayan otomobil sürücüsü ağır yaralandı. Kütahya Şehir Hastanesi'ne kaldırılan sürücü, tüm müdahalelere rağmen kurtarılamadı.\n\n— Polis, kazayla ilgili soruşturma başlattı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/kutahya-da-minibus-3-araca-carpti-1-olu-4-yarali-3925880",
-    "Sözcü: https://www.sozcu.com.tr/minibus-otomobile-ve-park-halindeki-araclara-carpti-1-kisi-oldu-p379381",
-    "Karar: https://www.karar.com/sehir-haberleri/kutahyada-4-aracin-karistigi-feci-kaza-1-olu-4-yarali-2083086"
-   ]
-  },
   {
    "id": "df27138338",
    "post_id": "529346797199852_1462546085985099",
@@ -13567,6 +13538,17 @@
     "Evrensel: https://www.evrensel.net/haber/6008900/abd-enflasyonu-sonrasi-fiyatlarda-dusus-gram-ve-ons-altin-ne-kadar-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/altin-fiyatlarinda-fed-baskisi-gram-altin-ne-kadar-oldu-745733"
    ]
+  },
+  {
+   "id": "e0b51cb60a",
+   "post_id": "529346797199852_1464909945748713",
+   "title": "Rusya'dan Avrupa'nın barış planına tepki: ''Ateşkes talebinizi kabul etmiyoruz''",
+   "at": "2026-11-11T05:38:35.546370+00:00",
+   "yazim": "claude",
+   "metin": "Sergey Lavrov, Avrupa'nın ateşkes talebi için:\n\n“Ateşkes talebinizi kabul etmiyoruz.”\n\nRusya Dışişleri Bakanı Lavrov, Avrupa'nın Ukrayna'da ateşkes talebini kabul etmeyeceklerini söyledi.\n\n— Lavrov'a göre ateşkes, Ukrayna'nın kayıplarını telafi etmek ve zaman kazanmak için isteniyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/rusya-dan-avrupa-nin-baris-planina-tepki-ateskes-talebinizi-kabul-etmiyoruz-745743"
+   ]
   }
  ],
  "fails": {
@@ -13816,7 +13798,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120387101409656967",
+   "since_id": "2120390541196100046",
    "started": true
   },
   "ajansmuhbir1923": {
