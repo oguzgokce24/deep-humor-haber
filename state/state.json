@@ -12271,6 +12271,54 @@
     "şirke"
    ],
    "at": "2026-11-11T16:40:14.018384+00:00"
+  },
+  {
+   "fp": [
+    "aldı",
+    "alev",
+    "ankar",
+    "borus",
+    "cadde",
+    "doğal",
+    "gaz",
+    "kazı"
+   ],
+   "tok": [
+    "alanı",
+    "aldı",
+    "alev",
+    "alevl",
+    "altya",
+    "altın",
+    "borus",
+    "cadde",
+    "dehşe",
+    "doğal",
+    "döndü",
+    "gaz",
+    "gören",
+    "görme",
+    "hasar",
+    "ilçes",
+    "itfai",
+    "kapat",
+    "kazı",
+    "müdah",
+    "nın",
+    "otomo",
+    "saatl",
+    "savaş",
+    "sonuc",
+    "söndü",
+    "sıras",
+    "trafi",
+    "yangı",
+    "yaya",
+    "zarar",
+    "çalış",
+    "çıktı"
+   ],
+   "at": "2026-11-11T16:43:32.877332+00:00"
   }
  ],
  "posted": [
@@ -15083,13 +15131,10 @@
   "aa9e62bcba": 1,
   "caa5cc1178": 1,
   "5d49b3f1e6": 2,
-  "2a6ab63640": 2,
-  "49cfebdfdc": 1
+  "49cfebdfdc": 2,
+  "2a1e07bc08": 1
  },
  "fail_log": [
-  "2026-11-11T15:56 Aksaray'da otomobille motosiklet çarpıştı: 2'si ağır, 3 kişi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:59 Dünya Şampiyonu Ampute Millî Takımı Meksika yolcusu: Filiz K -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:59 Aksaray'da otomobille motosiklet çarpıştı: 2'si ağır, 3 kişi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:59 Milyonlarca öğrencinin gözü bu karardaydı: 12 Kasım Perşembe -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:03 Dünya Şampiyonu Ampute Millî Takımı Meksika yolcusu: Filiz K -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:03 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15126,12 +15171,15 @@
   "2026-11-11T16:36 Gülermak'tan kritik KAP açıklaması: Pusula fonundaki hissele -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:40 Ankara Altındağ'da kazı sırasında doğal gaz borusu alev aldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:40 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:40 Gülermak'tan kritik KAP açıklaması: Pusula fonundaki hissele -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T16:40 Gülermak'tan kritik KAP açıklaması: Pusula fonundaki hissele -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:43 Ankara Altındağ'da kazı sırasında doğal gaz borusu alev aldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:43 PlayStation 5, dünya genelinde 100.000.000 satış sayısına ul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:43 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120552098584838647",
+   "since_id": "2120557324783747576",
    "started": true
   },
   "ajansmuhbir1923": {
