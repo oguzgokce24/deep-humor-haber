@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "cami",
-    "feci",
-    "inşaa",
-    "kalıb",
-    "kaza",
-    "kubbe",
-    "yaral",
-    "çöktü",
-    "şanlı"
-   ],
-   "tok": [
-    "aldı",
-    "altın",
-    "alınd",
-    "ambul",
-    "ardın",
-    "bağlı",
-    "başla",
-    "belir",
-    "cami",
-    "devle",
-    "değil",
-    "elbeğ",
-    "feci",
-    "güven",
-    "hasta",
-    "henüz",
-    "ilçes",
-    "incel",
-    "inşaa",
-    "işçi",
-    "kaldı",
-    "kalıb",
-    "kalıp",
-    "kazan",
-    "kubbe",
-    "kulla",
-    "mahal",
-    "müdah",
-    "nde",
-    "neden",
-    "nın",
-    "olay",
-    "sonuc",
-    "süren",
-    "tedav",
-    "viran",
-    "yapıl",
-    "yapım",
-    "yerin",
-    "çalış",
-    "çöker",
-    "çökme",
-    "çöktü",
-    "önlem",
-    "şanlı"
-   ],
-   "at": "2026-11-09T15:38:14.162530+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "cevap",
     "eleşt",
@@ -11069,20 +11007,60 @@
     "özgür"
    ],
    "at": "2026-11-11T03:32:04.578935+00:00"
+  },
+  {
+   "fp": [
+    "50",
+    "başka",
+    "dayan",
+    "kişiy",
+    "meb",
+    "okull",
+    "sınıf",
+    "tablo",
+    "veril"
+   ],
+   "tok": [
+    "acile",
+    "belir",
+    "bulun",
+    "dayan",
+    "deki",
+    "eğiti",
+    "gardi",
+    "geldi",
+    "geçil",
+    "hale",
+    "hisse",
+    "ikili",
+    "ilçes",
+    "imkân",
+    "kalab",
+    "kendi",
+    "mardi",
+    "meb",
+    "mevcu",
+    "neden",
+    "nitel",
+    "nusay",
+    "okull",
+    "ortao",
+    "sen",
+    "sınıf",
+    "tablo",
+    "taşçı",
+    "temsi",
+    "ulaşt",
+    "veril",
+    "vurgu",
+    "yakup",
+    "çağrı",
+    "öğret"
+   ],
+   "at": "2026-11-11T03:44:35.697136+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6d6f0e701e",
-   "post_id": "529346797199852_1462424612663913",
-   "title": "Türkiye'de 'dron otoyolları' dönemi başlıyor: Hava koridorlarında otonom taşımacılık yapılacak",
-   "at": "2026-11-09T04:50:07.367120+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'de dronlar için gökyüzünde özel koridorlar kurulacak. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, bunun kara trafiğinden bağımsız yeni bir taşımacılık modeli olacağını söyledi.\n\n— Sivil Havacılık Genel Müdürlüğü'nün yayımladığı talimatla, dijital olarak tanımlanmış İHA koridorları oluşturulacak.\n— Uçuşlar yapay zekâ destekli bir takip sistemiyle yönetilecek. Riskli durumda rota değişebilecek, bazı araçlar iniş yapmak zorunda kalabilecek.\n— Öncelikli kullanım alanları arasında hastaneler arası kan, ilaç ve numune taşıma, kış aylarında kapanan yerleşimlere malzeme sevkiyatı ve fabrikalar arası parça taşıması var.\n— Koridorlar bireysel ve hobi amaçlı uçuşlara kapalı olacak. Uçuşları yalnızca izinli şirketlerde P2 lisanslı pilotlar yapabilecek.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/turkiyede-dron-otoyollari-donemi-basliyor-hava-koridorlarinda-otonom-2083057"
-   ]
-  },
   {
    "id": "454ef52010",
    "post_id": "529346797199852_1462443439328697",
@@ -13653,6 +13631,17 @@
    "metin": "YENİ Parti'de kurultay öncesi 150 kişilik Parti Meclisi listesi için çalışma başladı.\n\nGenel Başkan Özgür Özel, 14-15 Kasım'da yapılacak 1'inci Olağan Kurultay öncesinde PM listesini oluşturmaya başladı.\n\n— PM'de alanında uzman yeni isimlerin yanı sıra 77 milletvekilinin de yer alması planlanıyor.\n— Özel, 13 Kasım'da 81 il başkanıyla bir araya gelecek.\n— Kurultayda PM ve YDK seçimlerinin blok listeyle yapılması bekleniyor.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/yeni-parti-de-kurultay-hazirligi-150-kisilik-pm-de-kimler-yer-alacak-745732"
+   ]
+  },
+  {
+   "id": "1e301eaaed",
+   "post_id": "529346797199852_1464823935757314",
+   "title": "MEB'in verileri başka, okullardaki tablo başka: Sınıflar 50 kişiye dayandı",
+   "at": "2026-11-11T03:44:35.697136+00:00",
+   "yazim": "claude",
+   "metin": "Mardin'in Nusaybin ilçesindeki üç ortaokulda sınıf mevcutları 48'e ulaştı.\n\n— Eğitim Sen Nusaybin Temsilcisi Yakup Taşçı, kalabalık nedeniyle nitelikli eğitimin imkânsız hale geldiğini söyledi.\n— Taşçı, öğretmenlerin kendilerini \"gardiyan gibi\" hissettiğini belirtti.\n— Acilen ikili eğitime geçilmesi çağrısında bulundu.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/meb-in-verileri-baska-okullardaki-tablo-baska-siniflar-50-kisiye-dayandi-745707"
    ]
   }
  ],
