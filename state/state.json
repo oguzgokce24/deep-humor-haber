@@ -11303,6 +11303,52 @@
     "özel"
    ],
    "at": "2026-11-11T12:35:40.344970+00:00"
+  },
+  {
+   "fp": [
+    "adil",
+    "banka",
+    "eski",
+    "fon",
+    "genel",
+    "katıl",
+    "müdür",
+    "ortağ",
+    "soruş",
+    "takas",
+    "tutuk"
+   ],
+   "tok": [
+    "adil",
+    "advis",
+    "ali",
+    "arınc",
+    "banka",
+    "capit",
+    "eski",
+    "fon",
+    "genel",
+    "gülka",
+    "hapsi",
+    "ilgil",
+    "kasım",
+    "katıl",
+    "kurul",
+    "murat",
+    "müdür",
+    "omg",
+    "ortak",
+    "ortağ",
+    "paslı",
+    "sayıs",
+    "takas",
+    "veril",
+    "yunus",
+    "yönet",
+    "yükse",
+    "ömer"
+   ],
+   "at": "2026-11-11T12:39:03.373818+00:00"
   }
  ],
  "posted": [
@@ -14095,14 +14141,10 @@
   "e51df8acab": 2,
   "cb40d3b28d": 1,
   "f0815870c9": 1,
-  "62ef66115b": 2,
-  "1a6a8748e4": 1,
-  "5f9045de84": 1
+  "1a6a8748e4": 2,
+  "5f9045de84": 2
  },
  "fail_log": [
-  "2026-11-11T11:47 Fon vurgunu soruşturması: Türkiye'nin en zengin 62'nci ismi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:51 Serdar Bali'den Trabzonspor sağlık heyetine sert tepki: Ne i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:51 Hattat Maden’de 520 işçinin eylemi 9’uncu gününde: Maaş ve i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:51 Doğu Ergil yazdı: Fon skandalı açısından kamu ahlâkı ve yols -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:54 Arabesk müziğin acı kaybı: Besteci ve ses sanatçısı Cengiz T -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:54 Serdar Bali'den Trabzonspor sağlık heyetine sert tepki: Ne i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14139,7 +14181,10 @@
   "2026-11-11T12:32 Akın Gürlek-Özgür Özel mal varlığı davasında gerekçe açıklan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:35 Fon soruşturması: Eski Takasbank genel müdürü, Adil Katılım  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:35 Çatalca'da mürettebatının terk ettiği gemi karaya oturdu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:35 Gökhan Günaydın anlatıyor: AK Parti fon vurguncularının list -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T12:35 Gökhan Günaydın anlatıyor: AK Parti fon vurguncularının list -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:39 Fon soruşturması: Eski Takasbank genel müdürü, Adil Katılım  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:39 Çatalca'da mürettebatının terk ettiği gemi karaya oturdu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:39 Akın Gürlek-Özgür Özel mal varlığı davasında gerekçe açıklan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
