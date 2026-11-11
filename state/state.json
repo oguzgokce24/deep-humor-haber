@@ -12220,6 +12220,53 @@
     "ölümü"
    ],
    "at": "2026-11-11T16:26:48.924007+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "açıkl",
+    "dan",
+    "fon",
+    "günay",
+    "herke",
+    "iktid",
+    "liste",
+    "parti",
+    "zan",
+    "çağrı"
+   ],
+   "tok": [
+    "akp",
+    "alayı",
+    "altın",
+    "belir",
+    "bunla",
+    "dan",
+    "fon",
+    "gerek",
+    "gökha",
+    "görev",
+    "günay",
+    "herke",
+    "iktid",
+    "karış",
+    "kişil",
+    "liste",
+    "mecli",
+    "mensu",
+    "müdde",
+    "olmay",
+    "parti",
+    "sağla",
+    "sert",
+    "sürec",
+    "vekil",
+    "vurgu",
+    "zan",
+    "çağrı",
+    "çıkış"
+   ],
+   "at": "2026-11-11T16:30:10.241031+00:00"
   }
  ],
  "posted": [
@@ -15030,13 +15077,11 @@
   "d862334257": 1,
   "35b916135f": 1,
   "aa9e62bcba": 1,
-  "6eaf244a2f": 2,
-  "caa5cc1178": 1
+  "caa5cc1178": 1,
+  "49cfebdfdc": 1,
+  "5d49b3f1e6": 1
  },
  "fail_log": [
-  "2026-11-11T15:38 Son dakika...İzmir'deki patlamada gözaltına alınan 11 kişi a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:41 \"Sokağın hakkını vereceksiniz\" diyerek haraç istediler: Dizi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:41 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:41 Son dakika...İzmir'deki patlamada gözaltına alınan 11 kişi a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:44 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:44 Son dakika...İzmir'deki patlamada gözaltına alınan 11 kişi a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15073,7 +15118,10 @@
   "2026-11-11T16:23 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:26 Yeni Partili Günaydın: Fon listeyi açıklamadığınız müddetçe  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:26 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:26 Galatasaray Başkan Yardımcısından Osimhen için şoke eden açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T16:26 Galatasaray Başkan Yardımcısından Osimhen için şoke eden açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:30 Yeni Partili Günaydın: Fon listeyi açıklamadığınız müddetçe  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:30 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:30 Akın Gürlek dokuz ayda verilen bütün soru önergelerini yanıt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
