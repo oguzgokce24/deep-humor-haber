@@ -12406,6 +12406,46 @@
     "önerg"
    ],
    "at": "2026-11-11T17:20:34.402293+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "diplo",
+    "duran",
+    "iklim",
+    "ileti",
+    "merke",
+    "türki"
+   ],
+   "tok": [
+    "adale",
+    "ardın",
+    "burha",
+    "cop31",
+    "devam",
+    "devle",
+    "diplo",
+    "duran",
+    "dünya",
+    "dış",
+    "ettir",
+    "gelmi",
+    "göste",
+    "halin",
+    "iklim",
+    "ileti",
+    "küres",
+    "mesel",
+    "nato",
+    "nin",
+    "olmay",
+    "parça",
+    "polit",
+    "teşki",
+    "vazge",
+    "zirve"
+   ],
+   "at": "2026-11-11T17:23:51.510282+00:00"
   }
  ],
  "posted": [
@@ -15215,17 +15255,14 @@
   "2712e0fc80": 1,
   "d862334257": 1,
   "35b916135f": 1,
-  "aa9e62bcba": 1,
+  "aa9e62bcba": 2,
   "caa5cc1178": 1,
   "2a1e07bc08": 1,
   "4098bcc3e5": 1,
   "0a3fc7f282": 1,
-  "c9965c4876": 2
+  "99c26255f0": 1
  },
  "fail_log": [
-  "2026-11-11T16:30 Akın Gürlek dokuz ayda verilen bütün soru önergelerini yanıt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:33 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:33 Gülermak'tan kritik KAP açıklaması: Pusula fonundaki hissele -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:33 Akın Gürlek dokuz ayda verilen bütün soru önergelerini yanıt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:36 Ankara Altındağ'da kazı sırasında doğal gaz borusu alev aldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:36 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15262,7 +15299,10 @@
   "2026-11-11T17:17 Sevda Karaca: Bakanlık bütçesi kadınlar için değil iktidar ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:20 Burhanettin Duran: Türkiye diplomasinin merkezinde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:20 Okul çıkışında kan aktı... 17 yaşındaki öğrenci yaralandı: 4 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:20 Akın Gürlek dokuz ayda verilen bütün soru önergelerini yanıt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T17:20 Akın Gürlek dokuz ayda verilen bütün soru önergelerini yanıt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:23 Burhanettin Duran: Türkiye diplomasinin merkezinde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:23 İran, saldırı sinyali verdi: Hedef ABD'nin Avrupa'daki asker -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:23 SES‘ten bütçe tepkisi: Sosyal hizmetler hak temelli olmalıdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
