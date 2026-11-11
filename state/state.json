@@ -13761,14 +13761,12 @@
   "a8860028bf": 1,
   "6af69bab8f": 1,
   "6a12964426": 1,
-  "2b0051ceaa": 1,
+  "2b0051ceaa": 2,
   "9c6fa5ad7b": 1,
-  "f080b27e05": 1
+  "f080b27e05": 2,
+  "c3d5be7e03": 1
  },
  "fail_log": [
-  "2026-11-11T04:34 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı",
-  "2026-11-11T04:34 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı",
-  "2026-11-11T04:34 Listeden çıkarılmıştı: Kanada'dan 11 İranlı kuruluşa yeniden -> ValueError: yanıt okunamadı",
   "2026-11-11T04:34 Listeden çıkarılmıştı: Kanada'dan 11 İranlı kuruluşa yeniden -> ValueError: yanıt okunamadı",
   "2026-11-11T04:34 Listeden çıkarılmıştı: Kanada'dan 11 İranlı kuruluşa yeniden -> ValueError: yanıt okunamadı",
   "2026-11-11T04:34 Murat Sururi Özbülbül: Beni asıl hayran bırakan Atatürk'ün e -> ValueError: yanıt okunamadı",
@@ -13805,7 +13803,10 @@
   "2026-11-11T11:13 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:17 Mehmet Şimşek: “Türkiye’nin iklim hedefi 300 milyar dolar ge -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:17 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:17 Ramazan ve Şevval umre turları için kayıtlar başladı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T11:17 Ramazan ve Şevval umre turları için kayıtlar başladı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:20 Mehmet Şimşek: “Türkiye’nin iklim hedefi 300 milyar dolar ge -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:20 Joe Biden'a İrlanda'da Filistin protestosu: Üzerine süt kutu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:20 Genç ailelere bebek müjdesi: Evlilik desteği alanlara yeni d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
