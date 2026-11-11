@@ -11279,6 +11279,43 @@
     "şener"
    ],
    "at": "2026-11-11T12:17:29.005451+00:00"
+  },
+  {
+   "fp": [
+    "aile",
+    "bakan",
+    "hizme",
+    "sosya"
+   ],
+   "tok": [
+    "aile",
+    "anlay",
+    "artır",
+    "bütçe",
+    "düşük",
+    "eleşt",
+    "engel",
+    "genel",
+    "hakim",
+    "hizme",
+    "isted",
+    "kadın",
+    "kamus",
+    "kayna",
+    "mücad",
+    "perso",
+    "sağlı",
+    "sendi",
+    "ses",
+    "seviy",
+    "sosya",
+    "ten",
+    "yoksu",
+    "yılı",
+    "yılın",
+    "çocuk"
+   ],
+   "at": "2026-11-11T12:20:43.559332+00:00"
   }
  ],
  "posted": [
@@ -14066,14 +14103,12 @@
   "0e691f91cb": 1,
   "dec141e6ff": 1,
   "b0a053c140": 1,
-  "42394a6971": 2,
   "0f10b75abe": 1,
-  "444507fbff": 1
+  "444507fbff": 1,
+  "e51df8acab": 1,
+  "cb40d3b28d": 1
  },
  "fail_log": [
-  "2026-11-11T11:34 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:38 A Milli Takım'da sakatlık şoku: Kadrodan çıkarıldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:38 İtalya'da 100'den fazla okulda bomba alarmı: Çok sayıda okul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:38 Bir meslek grubuna yeşil pasaport talebi: İçişleri Bakanı’nd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:41 A Milli Takım'da sakatlık şoku: Kadrodan çıkarıldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:41 İtalya'da 100'den fazla okulda bomba alarmı: Çok sayıda okul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14110,12 +14145,15 @@
   "2026-11-11T12:14 Parada imzası olan dördüncü bürokrat da gitti: Kilimci, Şene -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:17 SES: Aile ve Sosyal Hizmetler Bakanlığının 2027 yılı bütçesi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:17 VGM ortaöğrenim burs sonuçları sorgulama ekranı 2026. VGM or -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:17 Parada imzası olan dördüncü bürokrat da gitti: Kilimci, Şene -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T12:17 Parada imzası olan dördüncü bürokrat da gitti: Kilimci, Şene -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:20 SES: Aile ve Sosyal Hizmetler Bakanlığının 2027 yılı bütçesi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:20 Akın Gürlek-Özgür Özel mal varlığı davasında gerekçe açıklan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:20 Adana'da bir vatandaş, benzin fiyatlarını protesto etmek içi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120489732090245622",
+   "since_id": "2120491263854358821",
    "started": true
   },
   "ajansmuhbir1923": {
