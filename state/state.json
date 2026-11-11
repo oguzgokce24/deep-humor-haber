@@ -15548,12 +15548,11 @@
   "fb082d0374": 1,
   "a34b628508": 1,
   "1c4c3b79ef": 1,
-  "e7eec8b9a2": 1
+  "e7eec8b9a2": 2,
+  "e9cf15f6e7": 1,
+  "05ff062fe2": 1
  },
  "fail_log": [
-  "2026-11-11T17:30 Rusya'nın ABD Büyükelçisi Aleksandr Darçiyev 'ani şekilde' h -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:33 Kanada'da anne ve kızını öldüren dört bozayı öldürüldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:33 Kürk Mantolu Madonna beyaz perdeye uyarlanıyor: Başrol belli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:33 Rusya'nın ABD Büyükelçisi Aleksandr Darçiyev 'ani şekilde' h -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:37 Erdoğan, COP31 Liderler Zirvesi'nde konuştu: 'Önümüzde iki s -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:37 Kanada'da anne ve kızını öldüren dört bozayı öldürüldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15590,7 +15589,10 @@
   "2026-11-11T18:14 AKP'li Yegin, Kuran kurslarında yaşanan \"hadiselere\" dair ko -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:17 Bütçe görüşmelerinde kadın konukevleri konuşuldu: AKP'li İsm -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:17 AKP'li Yegin, Kuran kurslarında yaşanan \"hadiselere\" dair ko -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:17 Aylin Kotil’in ifadesi ortaya çıktı! Erzincan'a Tesla ve pil -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T18:17 Aylin Kotil’in ifadesi ortaya çıktı! Erzincan'a Tesla ve pil -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:20 Aylin Kotil’in ifadesi ortaya çıktı! Erzincan'a Tesla ve pil -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:20 İBB Başkanvekili Nuri Aslan COP31 etkinliğinde konuştu: \"Eli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:20 Sivas'ta işçi servisi kaza yaptı! Çok sayıda yaralı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
