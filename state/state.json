@@ -2,99 +2,6 @@
  "seen": [
   {
    "fp": [
-    "427",
-    "doyur",
-    "kapan",
-    "karın",
-    "salon",
-    "sanat"
-   ],
-   "tok": [
-    "adeta",
-    "akp",
-    "altun",
-    "bin",
-    "bitec",
-    "bitme",
-    "bitti",
-    "doyur",
-    "düştü",
-    "ekim",
-    "eski",
-    "etraf",
-    "fahre",
-    "getir",
-    "hegem",
-    "ileti",
-    "itiba",
-    "kapan",
-    "karın",
-    "kültü",
-    "nin",
-    "nokta",
-    "polit",
-    "salon",
-    "sanat",
-    "sayıs",
-    "sinem",
-    "siyas",
-    "sözü",
-    "öğren",
-    "şekil"
-   ],
-   "at": "2026-11-10T03:34:02.064484+00:00"
-  },
-  {
-   "fp": [
-    "butla",
-    "demok",
-    "korkt",
-    "mutla"
-   ],
-   "tok": [
-    "aldı",
-    "aldığ",
-    "ardın",
-    "butla",
-    "demo",
-    "demok",
-    "dönüş",
-    "genel",
-    "geçer",
-    "güven",
-    "güçlü",
-    "irade",
-    "katıl",
-    "kazan",
-    "korkt",
-    "kurul",
-    "lider",
-    "mille",
-    "mutla",
-    "nin",
-    "olağa",
-    "oylar",
-    "parti",
-    "seçim",
-    "sonuc",
-    "sorun",
-    "söz",
-    "tamam",
-    "tarih",
-    "vadet",
-    "yetki",
-    "yüzde",
-    "çözec",
-    "özel",
-    "özgür",
-    "ülke",
-    "üyele",
-    "şunla"
-   ],
-   "at": "2026-11-10T03:34:11.616357+00:00"
-  },
-  {
-   "fp": [
     "3",
     "alınd",
     "daki",
@@ -14825,13 +14732,12 @@
   "d61c79b889": 1,
   "14c2936cf6": 1,
   "ad2c2ece1a": 1,
-  "49cfebdfdc": 1,
-  "68ced0a553": 1
+  "49cfebdfdc": 2,
+  "68ced0a553": 1,
+  "54d7be061a": 1,
+  "2712e0fc80": 1
  },
  "fail_log": [
-  "2026-11-11T14:34 Altın günü kayıpla kaptı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:37 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:37 YENİ Partili Karabat'tan Sosyal Yardımlaşma Fonu hesabı: 60, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:37 Altın günü kayıpla kaptı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:41 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:41 YENİ Partili Karabat'tan Sosyal Yardımlaşma Fonu hesabı: 60, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14868,12 +14774,15 @@
   "2026-11-11T15:28 Yunanistan-Kıbrıs elektrik hattına Ankara'dan 'izin': Fransı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:31 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:31 Yunanistan-Kıbrıs elektrik hattına Ankara'dan 'izin': Fransı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:31 Galatasaray'dan Victor Osimhen için dikkat çeken açıklama: ' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T15:31 Galatasaray'dan Victor Osimhen için dikkat çeken açıklama: ' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:35 \"Sokağın hakkını vereceksiniz\" diyerek haraç istediler: Dizi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:35 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:35 Bursa'da bir şahıs, 'Evraklarımı teslim edildi gösterip nede -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120535051964162139",
+   "since_id": "2120540272740200644",
    "started": true
   },
   "ajansmuhbir1923": {
