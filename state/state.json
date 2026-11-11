@@ -2,77 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başla",
-    "geri",
-    "sayım"
-   ],
-   "tok": [
-    "alanl",
-    "aldı",
-    "altın",
-    "ardın",
-    "bakım",
-    "başla",
-    "beled",
-    "büyük",
-    "daki",
-    "deste",
-    "devre",
-    "doğal",
-    "düşme",
-    "ejder",
-    "ekipl",
-    "erzur",
-    "etkil",
-    "gecel",
-    "geri",
-    "getir",
-    "güven",
-    "hale",
-    "havan",
-    "hazır",
-    "hedef",
-    "hız",
-    "kar",
-    "karla",
-    "karı",
-    "karın",
-    "kayak",
-    "kazan",
-    "koali",
-    "kontr",
-    "koşul",
-    "mekan",
-    "mesai",
-    "nde",
-    "nin",
-    "oluşt",
-    "palan",
-    "periy",
-    "pistl",
-    "sayım",
-    "sezon",
-    "siste",
-    "sosya",
-    "suni",
-    "sürdü",
-    "sürüy",
-    "sıfır",
-    "tesis",
-    "uygun",
-    "yakın",
-    "yapma",
-    "yağan",
-    "yağış",
-    "zaman",
-    "çalış",
-    "özell",
-    "üreti"
-   ],
-   "at": "2026-11-09T15:25:21.824441+00:00"
-  },
-  {
-   "fp": [
     "3",
     "cami",
     "feci",
@@ -11087,20 +11016,62 @@
     "ülke"
    ],
    "at": "2026-11-11T03:19:31.001906+00:00"
+  },
+  {
+   "fp": [
+    "150",
+    "alaca",
+    "hazır",
+    "kimle",
+    "kişil",
+    "kurul",
+    "parti",
+    "yer"
+   ],
+   "tok": [
+    "alaca",
+    "alanı",
+    "almas",
+    "araya",
+    "başla",
+    "bekle",
+    "blok",
+    "düzen",
+    "gelec",
+    "genel",
+    "grupt",
+    "hazır",
+    "inci",
+    "isiml",
+    "kasım",
+    "kimle",
+    "kişil",
+    "kurul",
+    "liste",
+    "mecli",
+    "mille",
+    "nin",
+    "olağa",
+    "oluşa",
+    "oluşt",
+    "parti",
+    "planl",
+    "seçim",
+    "sıra",
+    "uzman",
+    "yanı",
+    "yapıl",
+    "ydk",
+    "yer",
+    "çalış",
+    "önces",
+    "özel",
+    "özgür"
+   ],
+   "at": "2026-11-11T03:32:04.578935+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6eb708c1e0",
-   "post_id": "529346797199852_1462382246001483",
-   "title": "Kış yüzünü gösterdi: Meteoroloji'den Karadeniz'e kuvvetli yağış, doğuya kar uyarısı",
-   "at": "2026-11-09T04:04:04.996591+00:00",
-   "yazim": "claude",
-   "metin": "Marmara'dan Karadeniz'e uzanan bölgede yağmur ve sağanak bekleniyor, doğuda ise kar yağacak. Meteoroloji'nin 9 Kasım tarihli raporuna göre yağışlar hafta ortasına kadar sürecek gibi görünüyor.\n\n— Marmara'nın batısı, Afyonkarahisar hariç Ege kıyıları, Orta ve Doğu Karadeniz kıyıları ile Sinop çevrelerinde yağmur ve sağanak etkili olacak.\n— Doğu Karadeniz'in iç kesimleri ile Doğu Anadolu'nun doğusunda karla karışık yağmur ve kar yağışı bekleniyor.\n— Rize ve Artvin kıyılarında yağışların yer yer kuvvetli olacağı tahmin ediliyor.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008592/kis-yuzunu-gosterdi-meteoroloji-den-karadeniz-e-kuvvetli-yagis-doguya-kar-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "6d6f0e701e",
    "post_id": "529346797199852_1462424612663913",
@@ -13671,6 +13642,17 @@
    "metin": "İspanya'da bu yıl iki büyük hızlı tren kazasında 115 kişi hayatını kaybetti. Makinistler, güvenlik için yasal ve yapısal değişiklik talep ederek 24 saatlik iş bıraktı.\n\n— Makinistlerin eylemi, CCOO ve UGT'nin çağrısıyla ülke genelinde yapılacak ortak genel grevden hemen önce gerçekleşti.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/olumlu-tren-kazalarinin-ardindan-grev-oncesi-makinistler-is-birakti-745709"
+   ]
+  },
+  {
+   "id": "eed986fad9",
+   "post_id": "529346797199852_1464815335758174",
+   "title": "YENİ Parti'de kurultay hazırlığı: 150 kişilik PM'de kimler yer alacak?",
+   "at": "2026-11-11T03:32:04.578935+00:00",
+   "yazim": "claude",
+   "metin": "YENİ Parti'de kurultay öncesi 150 kişilik Parti Meclisi listesi için çalışma başladı.\n\nGenel Başkan Özgür Özel, 14-15 Kasım'da yapılacak 1'inci Olağan Kurultay öncesinde PM listesini oluşturmaya başladı.\n\n— PM'de alanında uzman yeni isimlerin yanı sıra 77 milletvekilinin de yer alması planlanıyor.\n— Özel, 13 Kasım'da 81 il başkanıyla bir araya gelecek.\n— Kurultayda PM ve YDK seçimlerinin blok listeyle yapılması bekleniyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/yeni-parti-de-kurultay-hazirligi-150-kisilik-pm-de-kimler-yer-alacak-745732"
    ]
   }
  ],
