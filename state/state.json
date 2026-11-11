@@ -11018,6 +11018,73 @@
     "ziyar"
    ],
    "at": "2026-11-11T11:27:23.400090+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "butla",
+    "chp",
+    "fonda",
+    "genel",
+    "iddia",
+    "kalmı",
+    "maaşl",
+    "merke",
+    "çalış"
+   ],
+   "tok": [
+    "akp",
+    "butla",
+    "chp",
+    "fon",
+    "fonda",
+    "gazia",
+    "genel",
+    "hasan",
+    "iddia",
+    "kaldı",
+    "kalmı",
+    "krizi",
+    "maaşl",
+    "maaşı",
+    "mecli",
+    "mille",
+    "sinde",
+    "sinin",
+    "ucu",
+    "uzand",
+    "vurgu",
+    "çalış",
+    "öztür"
+   ],
+   "at": "2026-11-11T11:34:51.931230+00:00"
+  },
+  {
+   "fp": [
+    "belge",
+    "izlen",
+    "naza",
+    "yılın"
+   ],
+   "tok": [
+    "anlat",
+    "belge",
+    "biri",
+    "deki",
+    "dünya",
+    "gazze",
+    "genel",
+    "izlen",
+    "izley",
+    "katli",
+    "medya",
+    "naza",
+    "sivil",
+    "ulaşt",
+    "yılın",
+    "ölüml"
+   ],
+   "at": "2026-11-11T11:34:52.308465+00:00"
   }
  ],
  "posted": [
@@ -13801,14 +13868,10 @@
   "6af69bab8f": 1,
   "6a12964426": 1,
   "9c6fa5ad7b": 1,
-  "69ccb9e25f": 2,
-  "afa4e3a0fa": 2,
-  "d5a98b9ce2": 1
+  "d5a98b9ce2": 1,
+  "d08cbfab3f": 1
  },
  "fail_log": [
-  "2026-11-11T05:00 Ajda Pekkan: Annelik çok güzel, keşke tatsaydım -> ValueError: cümle yarım kalmış: '— Hayatının beyaz per'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-11T06:41 Los Angeles'ta araç kalabalığın arasına daldı: 3 kişi yaşamı -> ValueError: yanıt okunamadı",
-  "2026-11-11T06:41 Los Angeles'ta araç kalabalığın arasına daldı: 3 kişi yaşamı -> ValueError: yanıt okunamadı",
   "2026-11-11T06:41 Los Angeles'ta araç kalabalığın arasına daldı: 3 kişi yaşamı -> ValueError: yanıt okunamadı",
   "2026-11-11T08:47 MHP’den dokunulmazlık çıkışı: Rüşvet ve yolsuzluk suçlamalar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-11T08:47 MHP’den dokunulmazlık çıkışı: Rüşvet ve yolsuzluk suçlamalar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -13845,7 +13908,10 @@
   "2026-11-11T11:27 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:31 A Milli Takım'da sakatlık şoku: Kadrodan çıkarıldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:31 Meclis'te bomba iddia: AKP Genel Merkez çalışanlarının maaşı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:31 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T11:31 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:34 A Milli Takım'da sakatlık şoku: Kadrodan çıkarıldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:34 Meclis'te bomba iddia: AKP Genel Merkez çalışanlarının maaşı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:34 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
