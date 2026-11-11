@@ -11480,6 +11480,49 @@
     "şahap"
    ],
    "at": "2026-11-11T14:00:21.506172+00:00"
+  },
+  {
+   "fp": [
+    "gribi",
+    "kuş",
+    "yok"
+   ],
+   "tok": [
+    "alarm",
+    "alınd",
+    "bilim",
+    "bin",
+    "bulun",
+    "deniz",
+    "dişi",
+    "doğru",
+    "edebi",
+    "eşiği",
+    "fille",
+    "getir",
+    "gribi",
+    "güney",
+    "h5n1",
+    "hassa",
+    "insan",
+    "karşı",
+    "kez",
+    "korum",
+    "kuş",
+    "neden",
+    "olma",
+    "oluşu",
+    "salgı",
+    "statü",
+    "tehli",
+    "tür",
+    "türü",
+    "türün",
+    "uyarı",
+    "yok",
+    "üyesi"
+   ],
+   "at": "2026-11-11T14:03:45.686079+00:00"
   }
  ],
  "posted": [
@@ -14278,13 +14321,10 @@
   "c5196d0b10": 2,
   "e1830c7c29": 2,
   "09e94de9dd": 1,
-  "b92047dc79": 2,
-  "a6e19c2dba": 1
+  "a6e19c2dba": 2,
+  "5e06a6760b": 1
  },
  "fail_log": [
-  "2026-11-11T12:52 VGM ortaöğrenim burs sonuçları sorgulama ekranı 2026. VGM or -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:56 Poligonda tabancayı başına doğrulttu, eğitmen engel oldu: O  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:56 Nur Mehmet Güler yazdı | KDP-YNK krizi: Türkiye ve Öcalan çö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:56 Uçağı kaçırdı, cihazlara zarar verdi: İki yıl sonra gazete i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:59 MHP Kayseri Milletvekili Baki Ersoy: -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:59 Nur Mehmet Güler yazdı | KDP-YNK krizi: Türkiye ve Öcalan çö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14321,7 +14361,10 @@
   "2026-11-11T13:56 Kuş gribi alarmı: En az 40 tür yok olma tehlikesiyle karşı k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:00 Kavcıoğlu'nun ismini o gündeme getirmişti: AKP'li Sayan'dan  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:00 Kuş gribi alarmı: En az 40 tür yok olma tehlikesiyle karşı k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:00 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T14:00 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:03 Kuş gribi alarmı: En az 40 tür yok olma tehlikesiyle karşı k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:03 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:03 İHD Adana’dan çözüm süreci için demokratikleşme çağrısı: 'Ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
