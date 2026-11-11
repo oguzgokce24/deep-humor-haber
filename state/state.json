@@ -13005,6 +13005,60 @@
     "şubey"
    ],
    "at": "2026-11-11T19:43:03.017516+00:00"
+  },
+  {
+   "fp": [
+    "den",
+    "kut",
+    "kuyu",
+    "mesne",
+    "opera",
+    "proje",
+    "rock",
+    "sound",
+    "uyarl",
+    "vatan",
+    "yayın"
+   ],
+   "tok": [
+    "altın",
+    "başla",
+    "benze",
+    "büyüd",
+    "den",
+    "dinle",
+    "dışın",
+    "görül",
+    "hem",
+    "hızla",
+    "ilgis",
+    "kitle",
+    "klasi",
+    "kut",
+    "kuyu",
+    "mesne",
+    "metin",
+    "müzik",
+    "müziğ",
+    "proje",
+    "rock",
+    "sanat",
+    "sound",
+    "türle",
+    "ulusl",
+    "uyarl",
+    "vatan",
+    "yayın",
+    "yenid",
+    "yerli",
+    "yorum",
+    "yurt",
+    "yılda",
+    "çatıs",
+    "çağda",
+    "çekme"
+   ],
+   "at": "2026-11-11T19:50:00.888140+00:00"
   }
  ],
  "posted": [
@@ -15836,14 +15890,10 @@
   "eb5b627927": 1,
   "8545367781": 1,
   "38155bb9b2": 1,
-  "546932125a": 2,
-  "190d99b465": 1,
-  "64f3e7c6e6": 1
+  "190d99b465": 2,
+  "64f3e7c6e6": 2
  },
  "fail_log": [
-  "2026-11-11T19:01 Varto Ekoloji Platformu’ndan, Doğu Anadolu Kalkınma Ajansı’n -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:04 İklim Performansı raporu: COP31'in ev sahibi Türkiye 53'üncü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:04 KESK Samsun Şubeler Platformu: Atakum Belediyesinde işten at -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:04 Mikser ile kamyonet çarpıştı: 3 yaralı, 32 koyun öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:08 İklim Performansı raporu: COP31'in ev sahibi Türkiye 53'üncü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:08 KESK Samsun Şubeler Platformu: Atakum Belediyesinde işten at -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15880,7 +15930,10 @@
   "2026-11-11T19:43 Kut Soundworks projesi Kut Vatan, Mesnevî'den uyarlanan rock -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:46 Çanakkale Emek, Barış ve Demokrasi Platformu: İşçilerin yaşa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:46 Akol Global, Kuzey Kıbrıs'taki projeleriyle Türk yatırımcıya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:46 Kut Soundworks projesi Kut Vatan, Mesnevî'den uyarlanan rock -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T19:46 Kut Soundworks projesi Kut Vatan, Mesnevî'den uyarlanan rock -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:50 Çanakkale Emek, Barış ve Demokrasi Platformu: İşçilerin yaşa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:50 Akol Global, Kuzey Kıbrıs'taki projeleriyle Türk yatırımcıya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:50 Kut Soundworks projesi Kut Vatan, Mesnevî'den uyarlanan rock -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
