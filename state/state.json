@@ -13322,6 +13322,65 @@
     "üzmek"
    ],
    "at": "2026-11-11T22:08:32.827149+00:00"
+  },
+  {
+   "fp": [
+    "8",
+    "budo",
+    "iptal",
+    "sefer"
+   ],
+   "tok": [
+    "armut",
+    "budo",
+    "bursa",
+    "deniz",
+    "engel",
+    "hatla",
+    "hava",
+    "iptal",
+    "koşul",
+    "neden",
+    "olums",
+    "otobü",
+    "sefer"
+   ],
+   "at": "2026-11-11T22:15:04.187497+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "bayra",
+    "bina",
+    "bitiş",
+    "gören",
+    "hasar",
+    "katlı",
+    "sıras",
+    "tahli",
+    "yıkım"
+   ],
+   "tok": [
+    "amaçl",
+    "bayra",
+    "bina",
+    "bitiş",
+    "dönüş",
+    "göre",
+    "gören",
+    "hasar",
+    "iddia",
+    "kapsa",
+    "katlı",
+    "kents",
+    "sıras",
+    "tahli",
+    "tedbi",
+    "yürüt",
+    "yıkım",
+    "zarar"
+   ],
+   "at": "2026-11-11T22:15:05.422788+00:00"
   }
  ],
  "posted": [
@@ -16156,14 +16215,10 @@
   "e1a2450e58": 2,
   "a3aad9c7f9": 1,
   "e8acb74ce1": 1,
-  "073dadcd7f": 2,
-  "474a2536ba": 2,
-  "8edb582055": 1
+  "8edb582055": 1,
+  "79582f57b5": 1
  },
  "fail_log": [
-  "2026-11-11T20:30 Kentsel dönüşümde teklifler ve sözleşmeler için ortak dosya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:34 İstanbul dahil 11 il için sarı kodlu uyarı: Kuvvetli yağış g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:34 Netanyahu bloğu yeni meclisteki ilk oylamayı muhalefete kayb -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:34 Doç. Dr. Atilla Adnan Eyüboğlu, meme estetiğinde kişiye özel -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:37 İstanbul dahil 11 il için sarı kodlu uyarı: Kuvvetli yağış g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:37 Husiler duyurdu: Suudi Arabistan'daki Kral Halid Havalimanı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16200,12 +16255,15 @@
   "2026-11-11T22:08 TÜPRAŞ işçisi: Sendikamız iş cinayetine karşı üç maymunu oyn -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:11 BUDO'da hava engeli: 8 sefer iptal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:11 Bayrampaşa’da yıkım sırasında hasar gören 4 katlı bina tahli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:11 Göçlerle şekillenen emekçi semtleri: Surdışı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T22:11 Göçlerle şekillenen emekçi semtleri: Surdışı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:15 BUDO'da hava engeli: 8 sefer iptal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:15 New York'ta bir bina çöktü. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:15 Bayrampaşa’da yıkım sırasında hasar gören 4 katlı bina tahli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120635293166408106",
+   "since_id": "2120640692540391899",
    "started": true
   },
   "ajansmuhbir1923": {
