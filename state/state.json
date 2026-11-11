@@ -11029,6 +11029,81 @@
     "şoku"
    ],
    "at": "2026-11-11T11:41:26.535821+00:00"
+  },
+  {
+   "fp": [
+    "100",
+    "alarm",
+    "den",
+    "fazla",
+    "ihbar",
+    "italy",
+    "kırmı",
+    "okuld",
+    "yapıl"
+   ],
+   "tok": [
+    "alarm",
+    "anoni",
+    "başke",
+    "başla",
+    "başta",
+    "binal",
+    "den",
+    "edili",
+    "fazla",
+    "gönde",
+    "güven",
+    "ihbar",
+    "italy",
+    "içere",
+    "kontr",
+    "kırmı",
+    "okul",
+    "okula",
+    "okuld",
+    "olmak",
+    "posta",
+    "roma",
+    "sayıd",
+    "tahli",
+    "tehdi",
+    "veril",
+    "yapıl",
+    "üzere"
+   ],
+   "at": "2026-11-11T11:44:42.462218+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "pasap",
+    "taleb",
+    "yeşil"
+   ],
+   "tok": [
+    "cümle",
+    "grubu",
+    "ilişk",
+    "içişl",
+    "işçil",
+    "kamu",
+    "kendi",
+    "mecli",
+    "mesle",
+    "musta",
+    "ndan",
+    "pasap",
+    "soru",
+    "taleb",
+    "tek",
+    "veril",
+    "yanıt",
+    "yeşil",
+    "çiftç",
+    "önerg"
+   ],
+   "at": "2026-11-11T11:44:43.206474+00:00"
   }
  ],
  "posted": [
@@ -13813,13 +13888,9 @@
   "6a12964426": 1,
   "9c6fa5ad7b": 1,
   "d5a98b9ce2": 1,
-  "b6a8384e3b": 2,
-  "862f02ade3": 2
+  "0e691f91cb": 1
  },
  "fail_log": [
-  "2026-11-11T10:17 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> ValueError: yanıt okunamadı",
-  "2026-11-11T11:00 9 Süper Lig kulübü PFDK'ye sevk edildi: Galatasaray, Fenerba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:00 İspanya'da 14 yıl sonra ilk genel grev: Talepler ücret artış -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:00 YENİ Parti'den 18 işçinin öldüğü faciaya ilişkin 10 bakanlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:03 9 Süper Lig kulübü PFDK'ye sevk edildi: Galatasaray, Fenerba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:03 İspanya'da 14 yıl sonra ilk genel grev: Talepler ücret artış -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -13856,12 +13927,15 @@
   "2026-11-11T11:38 Bir meslek grubuna yeşil pasaport talebi: İçişleri Bakanı’nd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:41 A Milli Takım'da sakatlık şoku: Kadrodan çıkarıldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:41 İtalya'da 100'den fazla okulda bomba alarmı: Çok sayıda okul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:41 Bir meslek grubuna yeşil pasaport talebi: İçişleri Bakanı’nd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T11:41 Bir meslek grubuna yeşil pasaport talebi: İçişleri Bakanı’nd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:44 İtalya'da 100'den fazla okulda bomba alarmı: Çok sayıda okul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:44 ABD Sağlık Bakanlığı, son dönemde kullanılan kilo verme ilaç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:44 Bir meslek grubuna yeşil pasaport talebi: İçişleri Bakanı’nd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120479444527886432",
+   "since_id": "2120482125044756781",
    "started": true
   },
   "ajansmuhbir1923": {
