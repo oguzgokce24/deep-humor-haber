@@ -13469,6 +13469,132 @@
     "üreti"
    ],
    "at": "2026-11-11T22:24:50.767937+00:00"
+  },
+  {
+   "fp": [
+    "genel",
+    "kabul",
+    "kanun",
+    "kurul",
+    "kızıl",
+    "madde",
+    "nin",
+    "tbmm",
+    "tekli",
+    "türk"
+   ],
+   "tok": [
+    "büyük",
+    "düzen",
+    "genel",
+    "ilgil",
+    "içere",
+    "kabul",
+    "kanun",
+    "kurul",
+    "kızıl",
+    "madde",
+    "mecli",
+    "mille",
+    "nda",
+    "nin",
+    "tbmm",
+    "tekli"
+   ],
+   "at": "2026-11-11T22:41:09.298541+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "değer",
+    "doğru",
+    "düzey",
+    "görüş",
+    "güven",
+    "iranl",
+    "medya",
+    "rızai",
+    "vance",
+    "yetki",
+    "üst"
+   ],
+   "tok": [
+    "abd",
+    "buna",
+    "dayan",
+    "değer",
+    "doğru",
+    "düzey",
+    "gazet",
+    "genel",
+    "göre",
+    "görüş",
+    "güven",
+    "haber",
+    "hamle",
+    "hazır",
+    "iran",
+    "iranl",
+    "kayna",
+    "konse",
+    "konus",
+    "konuy",
+    "medya",
+    "muhsi",
+    "rızai",
+    "sekre",
+    "ulusa",
+    "vance",
+    "washi",
+    "wsj",
+    "yakın",
+    "yapma",
+    "yetki",
+    "yönet",
+    "yükse",
+    "üst"
+   ],
+   "at": "2026-11-11T22:41:09.725741+00:00"
+  },
+  {
+   "fp": [
+    "dolan",
+    "emekl",
+    "evini",
+    "istan",
+    "kript",
+    "paray",
+    "polis",
+    "sahte",
+    "sattı",
+    "yurtt",
+    "çevir"
+   ],
+   "tok": [
+    "belir",
+    "beşik",
+    "bin",
+    "değer",
+    "dolan",
+    "emekl",
+    "evini",
+    "kendi",
+    "kimya",
+    "kript",
+    "paral",
+    "paras",
+    "paray",
+    "sahte",
+    "sattı",
+    "tanıt",
+    "ucuza",
+    "varlı",
+    "yaşın",
+    "yurtt",
+    "çevir",
+    "şahıs"
+   ],
+   "at": "2026-11-11T22:41:10.156488+00:00"
   }
  ],
  "posted": [
@@ -16307,15 +16433,9 @@
   "75b25972f8": 1,
   "926c29f506": 2,
   "ca3dbe65b3": 2,
-  "6261cc0696": 2,
-  "a1664e69b5": 2,
-  "7b6f5c6b76": 2,
-  "f60f2c9aee": 2
+  "6261cc0696": 2
  },
  "fail_log": [
-  "2026-11-11T21:55 İsrail Genelkurmay'ından orduya \"hazırlıklı olma\" talimatı,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T21:58 Hamile eşini öldürmekle suçlanıyordu: Yargıtay'dan tahliye k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T21:58 Sergen Yalçın: Galibiyete Türkiye'nin ihtiyacı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T21:58 İsrail Genelkurmay'ından orduya \"hazırlıklı olma\" talimatı,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:01 Sergen Yalçın: Galibiyete Türkiye'nin ihtiyacı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:01 TÜPRAŞ işçisi: Sendikamız iş cinayetine karşı üç maymunu oyn -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16352,7 +16472,10 @@
   "2026-11-11T22:34 İstanbul'da sahte polis dolandırıcılığı: Emekli yurttaşın ev -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:37 TBMM Genel Kurulu: 'Türk Kızılay Kanunu Teklifi'nin tüm madd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:37 ABD medyası: JD Vance, üst düzey İranlı güvenlik yetkilisi R -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:37 İstanbul'da sahte polis dolandırıcılığı: Emekli yurttaşın ev -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T22:37 İstanbul'da sahte polis dolandırıcılığı: Emekli yurttaşın ev -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:41 TBMM Genel Kurulu: 'Türk Kızılay Kanunu Teklifi'nin tüm madd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:41 ABD medyası: JD Vance, üst düzey İranlı güvenlik yetkilisi R -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:41 İstanbul'da sahte polis dolandırıcılığı: Emekli yurttaşın ev -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
