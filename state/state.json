@@ -11543,6 +11543,44 @@
     "özür"
    ],
    "at": "2026-11-11T13:02:45.010496+00:00"
+  },
+  {
+   "fp": [
+    "alana",
+    "devam",
+    "hakla",
+    "hospi",
+    "işten",
+    "medik",
+    "mücad",
+    "çalış",
+    "çıkar"
+   ],
+   "tok": [
+    "alana",
+    "devam",
+    "elazı",
+    "eylem",
+    "günün",
+    "hakla",
+    "hospi",
+    "işsiz",
+    "işten",
+    "kalan",
+    "kapan",
+    "maaş",
+    "medik",
+    "mücad",
+    "sürdü",
+    "talep",
+    "tazmi",
+    "yinel",
+    "çalış",
+    "çıkar",
+    "ödenm",
+    "üncü"
+   ],
+   "at": "2026-11-11T13:09:27.501198+00:00"
   }
  ],
  "posted": [
@@ -14335,14 +14373,10 @@
   "cb40d3b28d": 1,
   "f0815870c9": 1,
   "12a2a0a2e8": 1,
-  "381fa26a5c": 2,
-  "b89bf9b6a3": 1,
-  "6ff51efa78": 1
+  "b89bf9b6a3": 2,
+  "6ff51efa78": 2
  },
  "fail_log": [
-  "2026-11-11T12:17 Parada imzası olan dördüncü bürokrat da gitti: Kilimci, Şene -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:20 SES: Aile ve Sosyal Hizmetler Bakanlığının 2027 yılı bütçesi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:20 Akın Gürlek-Özgür Özel mal varlığı davasında gerekçe açıklan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:20 Adana'da bir vatandaş, benzin fiyatlarını protesto etmek içi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:24 Gökhan Günaydın anlatıyor: AK Parti fon vurguncularının list -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:24 Akın Gürlek-Özgür Özel mal varlığı davasında gerekçe açıklan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14379,7 +14413,10 @@
   "2026-11-11T13:02 İşten çıkarılan Medikal Hospital çalışanları: Haklarımızı al -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T13:06 Ece Tekbulut yazdı: Amerikan seçmeni sandıkta Big Tech’e “ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T13:06 İşten çıkarılan Medikal Hospital çalışanları: Haklarımızı al -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T13:06 Balkon korkuluklarında mahsur kalan 8 yaşındaki çocuğu polis -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T13:06 Balkon korkuluklarında mahsur kalan 8 yaşındaki çocuğu polis -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T13:09 Ece Tekbulut yazdı: Amerikan seçmeni sandıkta Big Tech’e “ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T13:09 İşten çıkarılan Medikal Hospital çalışanları: Haklarımızı al -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T13:09 Balkon korkuluklarında mahsur kalan 8 yaşındaki çocuğu polis -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
