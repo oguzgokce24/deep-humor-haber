@@ -2,43 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alınd",
-    "başba",
-    "eski",
-    "gözal",
-    "karde",
-    "macar",
-    "orban",
-    "vikto"
-   ],
-   "tok": [
-    "almıy",
-    "alına",
-    "alınd",
-    "aron",
-    "ayrın",
-    "başba",
-    "bildi",
-    "duyur",
-    "eski",
-    "ilgil",
-    "insan",
-    "karde",
-    "kayna",
-    "kaçak",
-    "macar",
-    "magya",
-    "olayl",
-    "orban",
-    "peter",
-    "ter",
-    "vikto",
-    "yer"
-   ],
-   "at": "2026-11-09T14:47:10.800337+00:00"
-  },
-  {
-   "fp": [
     "bilse",
     "ders",
     "faizi",
@@ -11113,20 +11076,75 @@
     "özell"
    ],
    "at": "2026-11-11T02:41:45.744839+00:00"
+  },
+  {
+   "fp": [
+    "30",
+    "başla",
+    "gidiy",
+    "halk",
+    "işten",
+    "kayyu",
+    "küçül",
+    "yüzde",
+    "çıkar"
+   ],
+   "tok": [
+    "adıml",
+    "aklam",
+    "aktar",
+    "ardın",
+    "atanm",
+    "azalt",
+    "başla",
+    "başsa",
+    "belir",
+    "bunla",
+    "cafer",
+    "dalar",
+    "deki",
+    "depar",
+    "durdu",
+    "ekim",
+    "fesat",
+    "gazet",
+    "gidiy",
+    "göre",
+    "halk",
+    "ihale",
+    "isten",
+    "işten",
+    "kanal",
+    "karış",
+    "kayyu",
+    "kurul",
+    "küçül",
+    "mahir",
+    "nin",
+    "onur",
+    "payla",
+    "perso",
+    "planl",
+    "rüşve",
+    "sayıs",
+    "suçla",
+    "sürül",
+    "tmsf",
+    "yayın",
+    "yazdı",
+    "yönet",
+    "yürüt",
+    "yüzde",
+    "çalış",
+    "çağrı",
+    "çıkar",
+    "öne",
+    "üzere"
+   ],
+   "at": "2026-11-11T02:54:18.366385+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "054e40f2e9",
-   "post_id": "529346797199852_1462357216003986",
-   "title": "Fon soruşturması sürüyor: AKP'li Şamil Tayyar'dan \"iki kritik isim\" iddiası",
-   "at": "2026-11-09T03:25:47.882693+00:00",
-   "yazim": "claude",
-   "metin": "Şamil Tayyar, fon soruşturmasında 433 şüpheliden 112'sinin tutuklu olduğunu söyledi.\n\n— 470 kişi ve şirketin malvarlığına tedbir konduğunu, gönüllü iade miktarının 30 milyar lirayı bulduğunu belirtti.\n— Eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya'nın tutuklanmasını önemli bir eşik olarak değerlendirdi.\n— BDDK, SPK ve Takasbank'ın üst düzey yöneticilerinin de sorgulanmaya başlandığını hatırlattı.\n\nTayyar, kamuoyunda tartışılan \"iki kritik isim\"in de soruşturmaya dahil edilebileceğini öne sürdü, ancak isim vermedi.\n\nAyrıca soruşturmanın bir an önce tamamlanması gerektiğini savundu.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/fon-sorusturmasi-suruyor-akp-li-samil-tayyar-dan-iki-kritik-isim-iddiasi-745356"
-   ]
-  },
   {
    "id": "0458e15b8a",
    "post_id": "529346797199852_1462365199336521",
@@ -13698,6 +13716,17 @@
    "metin": "Beykoz'daki eski Tekel Paşabahçe Fabrikası arazisinin değeri 8,5 milyar TL'yi aştı.\n\n— Arazi, özelleştirmede Cumhurbaşkanı Erdoğan'ın sınıf arkadaşı Aziz Torun tarafından 355 milyon TL'ye alınmıştı.\n\n— Torunlar GYO'nun bu arazide geliştirdiği Paşabahçe Projesi'nin ekspertiz değeri 8 milyar 755 milyon TL olarak aktarıldı.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/ozellestirmenin-kaymagi-tekel-arazisi-torunlar-a-yaradi-745704"
+   ]
+  },
+  {
+   "id": "927bc65d8d",
+   "post_id": "529346797199852_1464773352429039",
+   "title": "Halk TV'de işten çıkarmalar başladı: Kayyum yüzde 30 küçülmeye gidiyor",
+   "at": "2026-11-11T02:54:18.366385+00:00",
+   "yazim": "claude",
+   "metin": "Halk TV'de kayyum yönetimi işten çıkarmalara başladı. Gazeteci Dalar, 6 çalışanın kanala çağrıldığını yazdı.\n\n— Dalar'ın paylaşımına göre her departmandaki çalışan sayısı yüzde 30 azaltılmak isteniyor. Dalar, bunların \"daha ilk adımlar\" olduğunu belirtti.\n\n— Kanalın yayınları, 14 Ekim'deki operasyonun ardından TMSF'nin kayyum olarak atanmasıyla durdurulmuştu.\n\n— İstanbul Cumhuriyet Başsavcılığı, Halk TV Yönetim Kurulu Başkanı Cafer Mahiroğlu hakkında rüşvet, ihaleye fesat karıştırma ve aklama suçlamalarıyla soruşturma yürütüyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/halk-tv-de-isten-cikarmalar-basladi-kayyum-yuzde-30-kuculmeye-gidiyor-745731"
    ]
   }
  ],
