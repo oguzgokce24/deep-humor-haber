@@ -13359,6 +13359,43 @@
     "öldüğ"
    ],
    "at": "2026-11-11T20:24:08.475478+00:00"
+  },
+  {
+   "fp": [
+    "başla",
+    "decad",
+    "decod",
+    "finan",
+    "parib",
+    "çağın"
+   ],
+   "tok": [
+    "art",
+    "başla",
+    "decad",
+    "decod",
+    "düzen",
+    "ekipl",
+    "finan",
+    "gelen",
+    "hizme",
+    "isiml",
+    "kasım",
+    "lansm",
+    "mühen",
+    "nin",
+    "parib",
+    "tanıt",
+    "tekno",
+    "termi",
+    "çağın",
+    "önde",
+    "ürün",
+    "ürünl",
+    "ıntel",
+    "şirke"
+   ],
+   "at": "2026-11-11T20:27:32.722295+00:00"
   }
  ],
  "posted": [
@@ -16191,13 +16228,10 @@
   "8545367781": 1,
   "38155bb9b2": 1,
   "53520913bf": 1,
-  "119748cfed": 2,
-  "38bceb8942": 1
+  "38bceb8942": 2,
+  "371318142f": 1
  },
  "fail_log": [
-  "2026-11-11T19:32 Meteoroloji'den aralarında İstanbul'un da olduğu 11 il için  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:36 Zinedine Zidane: \"Kylian Mbappe hafif bir ağrı hissetti. Ris -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:36 Merkez Bankası'ndan kredi kararları: İhtiyaç, taşıt ve ticar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:36 Küresel fast food markaları şaşkına döndü: Türkiye kendi öz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:39 Küresel fast food markaları şaşkına döndü: Türkiye kendi öz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:39 Kentsel dönüşümde teklifler ve sözleşmeler için ortak dosya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16234,7 +16268,10 @@
   "2026-11-11T20:20 Paribu, finansın yeni çağını DECADE DECODED ile başlattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:24 Rutin işleri yapay zekaya devreden kadrolar iki kat hızlı bü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:24 Fizik Mühendisleri Odası'ndan HABAŞ patlamasıyla ilgili üç t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:24 Paribu, finansın yeni çağını DECADE DECODED ile başlattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T20:24 Paribu, finansın yeni çağını DECADE DECODED ile başlattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:27 Rutin işleri yapay zekaya devreden kadrolar iki kat hızlı bü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:27 Paribu, finansın yeni çağını DECADE DECODED ile başlattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:27 Doç. Dr. Atilla Adnan Eyüboğlu, meme estetiğinde kişiye özel -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
