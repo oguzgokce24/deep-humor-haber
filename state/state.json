@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "atatü",
-    "balon",
-    "bayra",
-    "kapad",
-    "poste",
-    "türk",
-    "uçtu"
-   ],
-   "tok": [
-    "anma",
-    "anmak",
-    "asıld",
-    "atatü",
-    "balon",
-    "bayra",
-    "bazı",
-    "belde",
-    "boyun",
-    "bugün",
-    "dolay",
-    "donat",
-    "düzen",
-    "etkin",
-    "görem",
-    "güne",
-    "günü",
-    "hava",
-    "haval",
-    "ilgiy",
-    "izled",
-    "kapad",
-    "kasım",
-    "oğuz",
-    "perib",
-    "pilot",
-    "poste",
-    "saat",
-    "sepet",
-    "süzül",
-    "sıcak",
-    "turis",
-    "türke",
-    "uçtu",
-    "uçuşu",
-    "yakla",
-    "özel",
-    "üzeri"
-   ],
-   "at": "2026-11-10T05:55:52.463505+00:00"
-  },
-  {
-   "fp": [
     "8",
     "cafer",
     "dalga",
@@ -12500,6 +12448,25 @@
     "şekil"
    ],
    "at": "2026-11-11T17:50:07.230012+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "büyük",
+    "depre",
+    "çankı"
+   ],
+   "tok": [
+    "afad",
+    "balıb",
+    "büyük",
+    "depre",
+    "geldi",
+    "meyda",
+    "saat",
+    "çankı"
+   ],
+   "at": "2026-11-11T17:57:18.100487+00:00"
   }
  ],
  "posted": [
@@ -15321,13 +15288,11 @@
   "fb082d0374": 1,
   "e46389ecb5": 1,
   "3aeceb9fce": 1,
-  "a50b81bf8d": 2,
-  "08a28f18b5": 2
+  "08a28f18b5": 2,
+  "479cb537a6": 1,
+  "a34b628508": 1
  },
  "fail_log": [
-  "2026-11-11T17:07 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:10 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:10 32 yıllık Türk tekstil şirketi konkordato ilan etti: Uluslar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:10 GTA 6, dağıtım merkezlerine ulaştı. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:13 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:13 Okul çıkışında kan aktı... 17 yaşındaki öğrenci yaralandı: 4 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15364,12 +15329,15 @@
   "2026-11-11T17:46 Ulaş Bager Aldemir’in Marina Garcés’le söyleşisi: “Kıyamet,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:50 Çankırı'da deprem -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:50 Çanakkale’de eski eş dehşeti: Bıçaklanan kadın ağır yaraland -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:50 Rusya'nın ABD Büyükelçisi Aleksandr Darçiyev 'ani şekilde' h -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T17:50 Rusya'nın ABD Büyükelçisi Aleksandr Darçiyev 'ani şekilde' h -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:57 Aydın'da 'yolsuzluk' davası: Özlem Çerçioğlu beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:57 Çankırı'da deprem -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:57 Khabib'in kuzeni ve MMA dövüşçüsü Usman Nurmagomedov, kardeş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120571724286525755",
+   "since_id": "2120576409508933715",
    "started": true
   },
   "ajansmuhbir1923": {
