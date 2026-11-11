@@ -12423,6 +12423,50 @@
     "üsler"
    ],
    "at": "2026-11-11T17:30:25.370914+00:00"
+  },
+  {
+   "fp": [
+    "aldem",
+    "bager",
+    "etmem",
+    "garc",
+    "ideol",
+    "itaat",
+    "işlev",
+    "kıyam",
+    "marin",
+    "onun",
+    "sloga",
+    "söyle",
+    "tesli",
+    "ulaş"
+   ],
+   "tok": [
+    "aldem",
+    "avrup",
+    "bager",
+    "değer",
+    "dünya",
+    "düşün",
+    "etmem",
+    "garc",
+    "ideol",
+    "imkân",
+    "itaat",
+    "işlev",
+    "kıyam",
+    "marin",
+    "medya",
+    "onun",
+    "ortak",
+    "sloga",
+    "söyle",
+    "tesli",
+    "ulaş",
+    "yapay",
+    "zekâd"
+   ],
+   "at": "2026-11-11T17:46:50.754391+00:00"
   }
  ],
  "posted": [
@@ -15242,15 +15286,13 @@
   "55a3a2b737": 2,
   "08f6cf621f": 2,
   "4a8ad18e74": 1,
-  "165c7a261f": 2,
   "fb082d0374": 1,
   "e46389ecb5": 1,
-  "3aeceb9fce": 1
+  "3aeceb9fce": 1,
+  "a50b81bf8d": 1,
+  "08a28f18b5": 1
  },
  "fail_log": [
-  "2026-11-11T17:00 Kömüre Veda kampanyası Antalya’da: “Bugün ne kadar kömür kul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:04 Galatasaray'dan Victor Osimhen için dikkat çeken açıklama: ' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:04 32 yıllık Türk tekstil şirketi konkordato ilan etti: Uluslar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:04 Kömüre Veda kampanyası Antalya’da: “Bugün ne kadar kömür kul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:07 Galatasaray'dan Victor Osimhen için dikkat çeken açıklama: ' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:07 32 yıllık Türk tekstil şirketi konkordato ilan etti: Uluslar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15287,7 +15329,10 @@
   "2026-11-11T17:40 Erdoğan, COP31 Liderler Zirvesi'nde konuştu: 'Önümüzde iki s -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:43 Ulaş Bager Aldemir’in Marina Garcés’le söyleşisi: “Kıyamet,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:43 Bütçe görüşmelerinde kadın konukevleri konuşuldu: AKP'li İsm -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:43 AKP'li Yegin, Kuran kurslarında yaşanan \"hadiselere\" dair ko -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T17:43 AKP'li Yegin, Kuran kurslarında yaşanan \"hadiselere\" dair ko -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:46 Çankırı'da deprem -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:46 Çanakkale’de eski eş dehşeti: Lokantasında bıçaklanan kadın  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:46 Ulaş Bager Aldemir’in Marina Garcés’le söyleşisi: “Kıyamet,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
