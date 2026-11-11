@@ -11440,6 +11440,46 @@
     "şekli"
    ],
    "at": "2026-11-11T13:56:57.029831+00:00"
+  },
+  {
+   "fp": [
+    "bekle",
+    "büyük",
+    "depre",
+    "kavcı",
+    "sayan"
+   ],
+   "tok": [
+    "akp",
+    "ağrı",
+    "bddk",
+    "bekle",
+    "beled",
+    "bulun",
+    "büyük",
+    "dan",
+    "depre",
+    "değil",
+    "eski",
+    "fon",
+    "getir",
+    "günde",
+    "ismin",
+    "istif",
+    "itham",
+    "içind",
+    "kavcı",
+    "nun",
+    "savcı",
+    "sayan",
+    "suçla",
+    "tartı",
+    "vurgu",
+    "yönel",
+    "çıkış",
+    "şahap"
+   ],
+   "at": "2026-11-11T14:00:21.506172+00:00"
   }
  ],
  "posted": [
@@ -14238,13 +14278,10 @@
   "c5196d0b10": 2,
   "e1830c7c29": 2,
   "09e94de9dd": 1,
-  "97bd038208": 2,
-  "b92047dc79": 1
+  "b92047dc79": 2,
+  "a6e19c2dba": 1
  },
  "fail_log": [
-  "2026-11-11T12:49 Poligonda tabancayı başına doğrulttu, eğitmen engel oldu: O  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:52 İş Sanat’ın \"Parlayan Yıldızlar\" konserleri başlıyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:52 Poligonda tabancayı başına doğrulttu, eğitmen engel oldu: O  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:52 VGM ortaöğrenim burs sonuçları sorgulama ekranı 2026. VGM or -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:56 Poligonda tabancayı başına doğrulttu, eğitmen engel oldu: O  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:56 Nur Mehmet Güler yazdı | KDP-YNK krizi: Türkiye ve Öcalan çö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14281,12 +14318,15 @@
   "2026-11-11T13:53 Kavcıoğlu'nun ismini o gündeme getirmişti: AKP'li Sayan'dan  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T13:56 Son dakika... Ev hapsiyle tahliye edilmişti: Emir Sarıgül ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T13:56 Kavcıoğlu'nun ismini o gündeme getirmişti: AKP'li Sayan'dan  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T13:56 Kuş gribi alarmı: En az 40 tür yok olma tehlikesiyle karşı k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T13:56 Kuş gribi alarmı: En az 40 tür yok olma tehlikesiyle karşı k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:00 Kavcıoğlu'nun ismini o gündeme getirmişti: AKP'li Sayan'dan  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:00 Kuş gribi alarmı: En az 40 tür yok olma tehlikesiyle karşı k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:00 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120510977405825395",
+   "since_id": "2120516329664909703",
    "started": true
   },
   "ajansmuhbir1923": {
