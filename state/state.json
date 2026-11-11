@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ayıra",
-    "bütçe",
-    "gezeg",
-    "kalma",
-    "payı",
-    "serve",
-    "sözle",
-    "tutul",
-    "yıldı"
-   ],
-   "tok": [
-    "antal",
-    "appea",
-    "ayıra",
-    "bütçe",
-    "cop31",
-    "diken",
-    "dünya",
-    "first",
-    "gezeg",
-    "günün",
-    "ikinc",
-    "kalma",
-    "linka",
-    "payı",
-    "post",
-    "serve",
-    "site",
-    "soru",
-    "sözle",
-    "the",
-    "tutul",
-    "yıldı",
-    "önünd"
-   ],
-   "at": "2026-11-10T05:13:01.220035+00:00"
-  },
-  {
-   "fp": [
-    "atame",
-    "bülen",
-    "enerj",
-    "toplu"
-   ],
-   "tok": [
-    "adale",
-    "alanı",
-    "appea",
-    "atame",
-    "bülen",
-    "dayan",
-    "demok",
-    "değil",
-    "diken",
-    "enerj",
-    "first",
-    "linka",
-    "post",
-    "site",
-    "the",
-    "toplu",
-    "yerel"
-   ],
-   "at": "2026-11-10T05:13:06.258993+00:00"
-  },
-  {
-   "fp": [
     "1929",
     "2",
     "atatü",
@@ -12377,6 +12310,48 @@
     "şirke"
    ],
    "at": "2026-11-11T17:10:41.077152+00:00"
+  },
+  {
+   "fp": [
+    "8",
+    "dokto",
+    "genç",
+    "hayat",
+    "katta",
+    "kaybe",
+    "ölümü",
+    "şüphe"
+   ],
+   "tok": [
+    "araşt",
+    "asist",
+    "balko",
+    "başla",
+    "binan",
+    "dokto",
+    "düşen",
+    "düşer",
+    "düştü",
+    "eğiti",
+    "gazio",
+    "genç",
+    "görev",
+    "hasta",
+    "hekim",
+    "ilgil",
+    "incel",
+    "inci",
+    "katta",
+    "katın",
+    "nde",
+    "olayl",
+    "pelin",
+    "pınar",
+    "yapan",
+    "yaşad",
+    "ölümü"
+   ],
+   "at": "2026-11-11T17:13:56.987041+00:00"
   }
  ],
  "posted": [
@@ -15190,15 +15165,12 @@
   "caa5cc1178": 1,
   "5d49b3f1e6": 2,
   "2a1e07bc08": 1,
-  "70f41e24a5": 1,
+  "70f41e24a5": 2,
   "4098bcc3e5": 1,
-  "49cfebdfdc": 2,
-  "0a3fc7f282": 1
+  "0a3fc7f282": 1,
+  "1ed8c213a7": 1
  },
  "fail_log": [
-  "2026-11-11T16:20 SES‘ten bütçe tepkisi: Sosyal hizmetler hak temelli olmalıdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:23 Yeni Partili Günaydın: Fon listeyi açıklamadığınız müddetçe  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:23 Halk TV'de gazeteci kıyımı: 70 kişinin kanalla yolları ayrıl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:23 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:26 Yeni Partili Günaydın: Fon listeyi açıklamadığınız müddetçe  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:26 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15235,7 +15207,10 @@
   "2026-11-11T17:07 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:10 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:10 32 yıllık Türk tekstil şirketi konkordato ilan etti: Uluslar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:10 GTA 6, dağıtım merkezlerine ulaştı. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T17:10 GTA 6, dağıtım merkezlerine ulaştı. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:13 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:13 Okul çıkışında kan aktı... 17 yaşındaki öğrenci yaralandı: 4 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:13 Sevda Karaca: Bakanlık bütçesi kadınlar için değil iktidar ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
