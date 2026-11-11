@@ -12174,6 +12174,48 @@
     "şirke"
    ],
    "at": "2026-11-11T16:16:37.115910+00:00"
+  },
+  {
+   "fp": [
+    "70",
+    "ayrıl",
+    "gazet",
+    "halk",
+    "kanal",
+    "kişin",
+    "kıyım",
+    "yolla"
+   ],
+   "tok": [
+    "ardın",
+    "atanm",
+    "ayrıl",
+    "azalt",
+    "başla",
+    "büyüy",
+    "dalar",
+    "depar",
+    "duyur",
+    "dün",
+    "gazet",
+    "halk",
+    "işten",
+    "kanal",
+    "kayyu",
+    "kıyım",
+    "onur",
+    "perso",
+    "planl",
+    "sayıs",
+    "yaptı",
+    "yolla",
+    "yüzde",
+    "çalış",
+    "çağrı",
+    "çıkar",
+    "üzere"
+   ],
+   "at": "2026-11-11T16:23:25.986702+00:00"
   }
  ],
  "posted": [
@@ -14983,14 +15025,11 @@
   "2712e0fc80": 1,
   "d862334257": 1,
   "35b916135f": 1,
-  "72a52fa9b5": 2,
-  "49cfebdfdc": 1,
-  "aa9e62bcba": 1
+  "49cfebdfdc": 2,
+  "aa9e62bcba": 1,
+  "6eaf244a2f": 1
  },
  "fail_log": [
-  "2026-11-11T15:31 Galatasaray'dan Victor Osimhen için dikkat çeken açıklama: ' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:35 \"Sokağın hakkını vereceksiniz\" diyerek haraç istediler: Dizi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:35 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:35 Bursa'da bir şahıs, 'Evraklarımı teslim edildi gösterip nede -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:38 \"Sokağın hakkını vereceksiniz\" diyerek haraç istediler: Dizi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:38 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15027,12 +15066,15 @@
   "2026-11-11T16:16 Yapay zekanın iklim faturası: Veri merkezleri Türkiye'nin bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:20 Halk TV'de gazeteci kıyımı: 70 kişinin kanalla yolları ayrıl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:20 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:20 SES‘ten bütçe tepkisi: Sosyal hizmetler hak temelli olmalıdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T16:20 SES‘ten bütçe tepkisi: Sosyal hizmetler hak temelli olmalıdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:23 Yeni Partili Günaydın: Fon listeyi açıklamadığınız müddetçe  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:23 Halk TV'de gazeteci kıyımı: 70 kişinin kanalla yolları ayrıl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T16:23 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120549998240682144",
+   "since_id": "2120552098584838647",
    "started": true
   },
   "ajansmuhbir1923": {
