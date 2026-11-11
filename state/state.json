@@ -11054,24 +11054,53 @@
     "çevre"
    ],
    "at": "2026-11-11T04:21:25.341774+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "dan",
+    "iranl",
+    "kanad",
+    "karar",
+    "kurul",
+    "liste",
+    "yaptı",
+    "yenid",
+    "çıkar"
+   ],
+   "tok": [
+    "aldı",
+    "alıyo",
+    "banka",
+    "bulun",
+    "dan",
+    "enerj",
+    "firma",
+    "gerek",
+    "getir",
+    "göste",
+    "ilişk",
+    "iran",
+    "iranl",
+    "kanad",
+    "kapsa",
+    "kurul",
+    "liste",
+    "nükle",
+    "progr",
+    "sigor",
+    "yaptı",
+    "yenid",
+    "yer",
+    "yerin",
+    "yüküm",
+    "çıkar",
+    "şirke"
+   ],
+   "at": "2026-11-11T04:37:26.661534+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fb5dfcac7b",
-   "post_id": "529346797199852_1462484342657940",
-   "title": "Trump'tan İran'ın altyapısına yeni saldırı tehdidi: Tarihe geçecek",
-   "at": "2026-11-09T06:07:20.506336+00:00",
-   "yazim": "claude",
-   "metin": "Tarihi Nuruosmaniye Camii'nin avlusunda düğün hazırlığı yapıldı, görüntüler tepki çekti.\n\n— Videoda avluya uzun davet masaları, mumlar ve çiçekler yerleştirildiği, beyaz nikah masasının kurulduğu görülüyor.\n— Bir kullanıcı Diyanet'i etiketleyerek, bunun herkesin yapabildiği bir uygulama mı yoksa torpille mi olduğunu sordu.\n— Tarihi eser niteliğindeki camilerde nikah için uzun bir izin süreci işliyor ve birçok kurumun onay vermesi gerekiyor.\n— Organizasyon şirketi alanı “Sadece çiftimiz için özel ayarlandı” sözleriyle tanıttı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-irana-saldirilarin-yaptiklari-en-iyi-seylerden-biri-olarak-tarihe-gececegini-one-surdu/4116408",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/trump-irana-saldirilar-yaptigimiz-en-iyi-seylerden-biri-olarak-tarihe-gececek-962626.html",
-    "Habertürk: https://www.haberturk.com/dunya/yaptigimiz-en-iyi-seylerden-biri-olarak-tarihe-gececek-3925882",
-    "Sözcü: https://www.sozcu.com.tr/tarihi-camide-dugun-yaptilar-p379344",
-    "Evrensel: https://www.evrensel.net/haber/6008593/trump-tan-iran-in-altyapisina-yeni-saldiri-tehdidi-tarihe-gececek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "9fcbb0d422",
    "post_id": "529346797199852_1462492132657161",
@@ -13637,6 +13666,17 @@
     "CNN Türk: https://www.cnnturk.com/hava-durumu/cnn-turk-hava-durumu/hava-durumu-11-11-2026-3491415",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-11-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2555237"
    ]
+  },
+  {
+   "id": "fa6f22e613",
+   "post_id": "529346797199852_1464864285753279",
+   "title": "Listeden çıkarılmıştı: Kanada'dan 11 İranlı kuruluşa yeniden yaptırım kararı",
+   "at": "2026-11-11T04:37:26.661534+00:00",
+   "yazim": "claude",
+   "metin": "Kanada, 11 İranlı kuruluşu yeniden yaptırım listesine aldı.\n\n— Bu kuruluşlar 2016'da yaptırım listesinden çıkarılmıştı.\n— Kanada, İran'ın nükleer programına ilişkin yükümlülüklerini yerine getirmediğini gerekçe gösterdi.\n— Listede bankalar, enerji şirketleri ve sigorta firmaları da yer alıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/listeden-cikarilmisti-kanada-dan-11-iranli-kurulusa-yeniden-yaptirim-karari-745736"
+   ]
   }
  ],
  "fails": {
@@ -13837,14 +13877,11 @@
   "95599b3825": 2,
   "f828c0bbc6": 2,
   "7bae346b45": 1,
-  "f48061b229": 1,
+  "f48061b229": 2,
   "a4c36782cd": 1,
   "b200768cdb": 1
  },
  "fail_log": [
-  "2026-11-10T20:47 MHP'li Erbaş'tan Victor Osimhen'e \"Kütahya'da tedavi\" daveti -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T20:47 MHP'li Erbaş'tan Victor Osimhen'e \"Kütahya'da tedavi\" daveti -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-10T21:00 Eşi gözaltına alınıp, serbest bırakıldı: Ahmet Şık'tan ilk a -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-10T21:00 MHP'li Erbaş'tan Victor Osimhen'e \"Kütahya'da tedavi\" daveti -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-10T22:15 Eyüpsultan’da sokak ortasında silahla saldırıp kaçtılar: 3 k -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-10T22:45 'Sen arabanın başında durma' diyerek kovulduğu oto sanayide  -> ValueError: yanıt okunamadı",
@@ -13881,7 +13918,10 @@
   "2026-11-11T04:34 Listeden çıkarılmıştı: Kanada'dan 11 İranlı kuruluşa yeniden -> ValueError: yanıt okunamadı",
   "2026-11-11T04:34 Murat Sururi Özbülbül: Beni asıl hayran bırakan Atatürk'ün e -> ValueError: yanıt okunamadı",
   "2026-11-11T04:34 Murat Sururi Özbülbül: Beni asıl hayran bırakan Atatürk'ün e -> ValueError: yanıt okunamadı",
-  "2026-11-11T04:34 Murat Sururi Özbülbül: Beni asıl hayran bırakan Atatürk'ün e -> ValueError: yanıt okunamadı"
+  "2026-11-11T04:34 Murat Sururi Özbülbül: Beni asıl hayran bırakan Atatürk'ün e -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:37 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:37 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:37 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
