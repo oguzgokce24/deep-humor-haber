@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "burdu",
-    "bıçak",
-    "fabri",
-    "kamyo",
-    "kavga",
-    "kişi",
-    "nda",
-    "şeker"
-   ],
-   "tok": [
-    "alanı",
-    "aleti",
-    "alınd",
-    "ambul",
-    "arası",
-    "ardın",
-    "bacağ",
-    "bekle",
-    "birli",
-    "burdu",
-    "büyüd",
-    "bıçak",
-    "devle",
-    "diğer",
-    "durum",
-    "dönüş",
-    "edile",
-    "ekibi",
-    "ekipl",
-    "fabri",
-    "gitti",
-    "hasta",
-    "iddia",
-    "ihbar",
-    "iyi",
-    "içeri",
-    "kaldı",
-    "kamyo",
-    "kavga",
-    "kısa",
-    "müdah",
-    "nda",
-    "neden",
-    "olay",
-    "sayıd",
-    "sağlı",
-    "suç",
-    "süred",
-    "sıra",
-    "tartı",
-    "yerin",
-    "çatış",
-    "çevre",
-    "çıkan",
-    "öğren",
-    "şeker"
-   ],
-   "at": "2026-11-10T06:46:23.157726+00:00"
-  },
-  {
-   "fp": [
     "05",
     "09",
     "anıyo",
@@ -12895,6 +12833,70 @@
     "çarpı"
    ],
    "at": "2026-11-11T18:40:50.002244+00:00"
+  },
+  {
+   "fp": [
+    "72",
+    "ihsan",
+    "katın",
+    "yangı",
+    "yaşın",
+    "çatı",
+    "öldü",
+    "ünal"
+   ],
+   "tok": [
+    "binan",
+    "daire",
+    "duman",
+    "etkil",
+    "gebze",
+    "ihsan",
+    "ilçes",
+    "katlı",
+    "katın",
+    "kocae",
+    "nin",
+    "yangı",
+    "yaşın",
+    "çatı",
+    "çıkan",
+    "ünal"
+   ],
+   "at": "2026-11-11T18:47:28.389937+00:00"
+  },
+  {
+   "fp": [
+    "buğra",
+    "davas",
+    "den",
+    "gökce",
+    "ibb",
+    "kapki",
+    "murat",
+    "tahli",
+    "taleb"
+   ],
+   "tok": [
+    "buğra",
+    "davas",
+    "den",
+    "duruş",
+    "gökce",
+    "günün",
+    "ibb",
+    "kapki",
+    "medya",
+    "murat",
+    "nda",
+    "tahli",
+    "taleb",
+    "talep",
+    "yargı",
+    "yedin",
+    "üçünc"
+   ],
+   "at": "2026-11-11T18:47:28.766952+00:00"
   }
  ],
  "posted": [
@@ -15717,15 +15719,10 @@
   "a34b628508": 1,
   "1c4c3b79ef": 1,
   "2938d232e0": 1,
-  "1163d6c291": 2,
   "d426465d85": 1,
-  "c7b1d2f6a0": 2,
-  "cd29262cce": 1
+  "cd29262cce": 2
  },
  "fail_log": [
-  "2026-11-11T18:00 CHP'de istifalar sürüyor: PM Üyesi Saniye Barut YENİ Parti'y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:04 Aydın'da 'yolsuzluk' davası: Özlem Çerçioğlu beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:04 Murat Aksoy ile Yeni Arayış (2) | Semih Turan: “Türkiye’de t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:04 CHP'de istifalar sürüyor: PM Üyesi Saniye Barut YENİ Parti'y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:07 Kumandadan kanal arama devri bitti: Türk izleyicisinin terci -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:07 Murat Aksoy ile Yeni Arayış (2) | Semih Turan: “Türkiye’de t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15762,7 +15759,10 @@
   "2026-11-11T18:40 Sivas'ta işçi servisi kaza yaptı! Çok sayıda yaralı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:44 Çatı katında yangın: 72 yaşındaki İhsan Ünal öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:44 İBB davasında Buğra Gökce ve Murat Kapki’den tahliye talebi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:44 Milli Takım'a çağrılmıyordu! Enes Ünal'dan Montella itirafı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T18:44 Milli Takım'a çağrılmıyordu! Enes Ünal'dan Montella itirafı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:47 Çatı katında yangın: 72 yaşındaki İhsan Ünal öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:47 İBB davasında Buğra Gökce ve Murat Kapki’den tahliye talebi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:47 Milli Takım'a çağrılmıyordu! Enes Ünal'dan Montella itirafı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
