@@ -12497,6 +12497,51 @@
     "çanak"
    ],
    "at": "2026-11-11T18:00:37.466991+00:00"
+  },
+  {
+   "fp": [
+    "davas",
+    "yolsu",
+    "çerçi",
+    "özlem"
+   ],
+   "tok": [
+    "akp",
+    "arala",
+    "aski",
+    "aydın",
+    "açıla",
+    "beled",
+    "beraa",
+    "bulun",
+    "büyük",
+    "canyu",
+    "cezas",
+    "chp",
+    "danış",
+    "davad",
+    "davas",
+    "den",
+    "ederk",
+    "erkan",
+    "eski",
+    "genel",
+    "geçmi",
+    "hapis",
+    "ise",
+    "karaa",
+    "müdür",
+    "nermi",
+    "nun",
+    "sanık",
+    "yardı",
+    "yolsu",
+    "yıl",
+    "çarpt",
+    "çerçi",
+    "özlem"
+   ],
+   "at": "2026-11-11T18:03:58.264366+00:00"
   }
  ],
  "posted": [
@@ -15318,14 +15363,11 @@
   "fb082d0374": 1,
   "e46389ecb5": 1,
   "3aeceb9fce": 1,
-  "479cb537a6": 2,
   "a34b628508": 1,
-  "85c2bc5452": 1
+  "85c2bc5452": 2,
+  "e877116172": 1
  },
  "fail_log": [
-  "2026-11-11T17:13 Sevda Karaca: Bakanlık bütçesi kadınlar için değil iktidar ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:17 Burhanettin Duran: Türkiye diplomasinin merkezinde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:17 Okul çıkışında kan aktı... 17 yaşındaki öğrenci yaralandı: 4 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:17 Sevda Karaca: Bakanlık bütçesi kadınlar için değil iktidar ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:20 Burhanettin Duran: Türkiye diplomasinin merkezinde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:20 Okul çıkışında kan aktı... 17 yaşındaki öğrenci yaralandı: 4 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15362,7 +15404,10 @@
   "2026-11-11T17:57 Khabib'in kuzeni ve MMA dövüşçüsü Usman Nurmagomedov, kardeş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:00 Aydın'da 'yolsuzluk' davası: Özlem Çerçioğlu beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:00 Çanakkale’de eski eş dehşeti: Bıçaklanan kadın ağır yaraland -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:00 CHP'de istifalar sürüyor: PM Üyesi Saniye Barut YENİ Parti'y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T18:00 CHP'de istifalar sürüyor: PM Üyesi Saniye Barut YENİ Parti'y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:04 Aydın'da 'yolsuzluk' davası: Özlem Çerçioğlu beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:04 Murat Aksoy ile Yeni Arayış (2) | Semih Turan: “Türkiye’de t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:04 CHP'de istifalar sürüyor: PM Üyesi Saniye Barut YENİ Parti'y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
