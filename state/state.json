@@ -2,41 +2,6 @@
  "seen": [
   {
    "fp": [
-    "204",
-    "76",
-    "ilde",
-    "opera",
-    "tutuk",
-    "uyuşt",
-    "şüphe"
-   ],
-   "tok": [
-    "adli",
-    "bin",
-    "diğer",
-    "duyur",
-    "düzen",
-    "fazla",
-    "hafta",
-    "hap",
-    "hükmü",
-    "ildek",
-    "içişl",
-    "işlem",
-    "kontr",
-    "madde",
-    "satıc",
-    "sürüy",
-    "tonun",
-    "uygul",
-    "uyuşt",
-    "yönel",
-    "üzeri"
-   ],
-   "at": "2026-11-10T10:30:13.388646+00:00"
-  },
-  {
-   "fp": [
     "ankar",
     "başke",
     "beyaz",
@@ -16340,14 +16305,11 @@
   "e8acb74ce1": 1,
   "79582f57b5": 1,
   "75b25972f8": 1,
-  "926c29f506": 1,
-  "ca3dbe65b3": 1,
-  "6261cc0696": 1
+  "926c29f506": 2,
+  "ca3dbe65b3": 2,
+  "6261cc0696": 2
  },
  "fail_log": [
-  "2026-11-11T20:47 18 işçinin öldüğü HABAŞ Katliamı soruşturması: Mehmet Rüştü  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:51 Bursa’da otomobil ile motosiklet çarpıştı: Anne ve oğlu yara -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:51 Gemini, el yazısıyla tutulan notları saniyeler içinde PDF ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:51 Anadolu'yu demir ağlar ve yerli sanayiyle donatan 1923-1950  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T21:52 Hamile eşini öldürmekle suçlanıyordu: Yargıtay'dan tahliye k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T21:52 Sean Strickland: \"Nurmagomedov ödlek kelimesinin sözlükteki  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16384,7 +16346,10 @@
   "2026-11-11T22:24 3 dönümde başlayan üretim 700 dönüme taştı: Kırklareli’nde 3 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:28 İzmir Demir Çelik (İDÇ) işçisi: Bir işçinin kaderi ölüm olma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:28 T.C. İSTANBUL 2. FİKRİ VE SINAİ HAKLAR HUKUK MAHKEMESİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:28 T.C. ERZİNCAN 1. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T22:28 T.C. ERZİNCAN 1. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:31 İzmir Demir Çelik (İDÇ) işçisi: Bir işçinin kaderi ölüm olma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:31 T.C. İSTANBUL 2. FİKRİ VE SINAİ HAKLAR HUKUK MAHKEMESİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:31 T.C. ERZİNCAN 1. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
