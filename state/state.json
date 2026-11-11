@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ara",
-    "beled",
-    "beyko",
-    "davas",
-    "hapsi",
-    "karar"
-   ],
-   "tok": [
-    "adli",
-    "alaat",
-    "anado",
-    "ara",
-    "arala",
-    "ağır",
-    "beled",
-    "beyko",
-    "ceza",
-    "daki",
-    "davas",
-    "devam",
-    "duruş",
-    "etkin",
-    "görev",
-    "gümüş",
-    "hakkı",
-    "hali",
-    "hapsi",
-    "heyet",
-    "ifade",
-    "isted",
-    "kaldı",
-    "kalem",
-    "kapsa",
-    "kontr",
-    "kösel",
-    "müdür",
-    "pişma",
-    "redde",
-    "sanık",
-    "sanığ",
-    "sekiz",
-    "suçla",
-    "sürec",
-    "tahli",
-    "tedbi",
-    "uzakl",
-    "veli",
-    "veren",
-    "özel"
-   ],
-   "at": "2026-11-09T23:13:19.173154+00:00"
-  },
-  {
-   "fp": [
     "arkas",
     "devam",
     "evden",
@@ -13719,14 +13665,12 @@
   "a8860028bf": 1,
   "6af69bab8f": 1,
   "6a12964426": 1,
-  "562756e6df": 1,
-  "39c8bd0dfa": 1,
-  "2b0051ceaa": 1
+  "562756e6df": 2,
+  "39c8bd0dfa": 2,
+  "2b0051ceaa": 1,
+  "9c6fa5ad7b": 1
  },
  "fail_log": [
-  "2026-11-11T01:41 James Bond: Yeni 007 kim olacak? Ne zaman gösterime girecek? -> ValueError: yanıt okunamadı",
-  "2026-11-11T01:41 James Bond: Yeni 007 kim olacak? Ne zaman gösterime girecek? -> ValueError: yanıt okunamadı",
-  "2026-11-11T02:04 Fon skandalı iktidarı vurdu: Seçmen güveni eridi, tepki büyü -> ValueError: yanıt okunamadı",
   "2026-11-11T02:04 Fon skandalı iktidarı vurdu: Seçmen güveni eridi, tepki büyü -> ValueError: yanıt okunamadı",
   "2026-11-11T02:04 Fon skandalı iktidarı vurdu: Seçmen güveni eridi, tepki büyü -> ValueError: yanıt okunamadı",
   "2026-11-11T04:34 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı",
@@ -13763,12 +13707,15 @@
   "2026-11-11T11:07 YENİ Parti'den 18 işçinin öldüğü faciaya ilişkin 10 bakanlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:10 Ramazan ve Şevval umre turları için kayıtlar başladı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:10 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:10 Genç ailelere bebek müjdesi: Evlilik desteği alanlara yeni d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T11:10 Genç ailelere bebek müjdesi: Evlilik desteği alanlara yeni d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:13 Cumhurbaşkanı Erdoğan: \"Gazzeli çocukların dramı üzerinden g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:13 Ramazan ve Şevval umre turları için kayıtlar başladı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T11:13 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120471019614060924",
+   "since_id": "2120474192122650969",
    "started": true
   },
   "ajansmuhbir1923": {
