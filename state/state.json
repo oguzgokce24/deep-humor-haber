@@ -13836,18 +13836,12 @@
   "2e2141b2fb": 2,
   "95599b3825": 2,
   "f828c0bbc6": 2,
-  "7bae346b45": 1
+  "7bae346b45": 1,
+  "f48061b229": 1,
+  "a4c36782cd": 1,
+  "b200768cdb": 1
  },
  "fail_log": [
-  "2026-11-10T19:06 COP31'e çağrı: Sağlıkçılar, kadınlar, yerel topluluklar da m -> ValueError: yanıt okunamadı",
-  "2026-11-10T19:18 Yeşim Salkım: \"Türk'üm, doğruyum, çalışkanım! Haluk İngiliz  -> ValueError: yanıt okunamadı",
-  "2026-11-10T19:18 Yeşim Salkım: \"Türk'üm, doğruyum, çalışkanım! Haluk İngiliz  -> ValueError: yanıt okunamadı",
-  "2026-11-10T19:18 Yeşim Salkım: \"Türk'üm, doğruyum, çalışkanım! Haluk İngiliz  -> ValueError: yanıt okunamadı",
-  "2026-11-10T19:32 Butlan CHP'sinden 'Cafer Mahiroğlu' hamlesi: Suç duyurusunda -> ValueError: cümle yarım kalmış: 'endisinden 50 milyon dolar isteyip istem'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T19:32 Butlan CHP'sinden 'Cafer Mahiroğlu' hamlesi: Suç duyurusunda -> ValueError: yanıt okunamadı",
-  "2026-11-10T19:32 Butlan CHP'sinden 'Cafer Mahiroğlu' hamlesi: Suç duyurusunda -> ValueError: cümle yarım kalmış: 'nbul Cumhuriyet Başsavcılığı rüşvet, iha'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T19:32 'On yılda 11 işçi ölürken bakanlık neredeydi?': Şişli'de HAB -> ValueError: cümle yarım kalmış: 'nin araştırılmasına yönelik öneriler AKP'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-10T20:23 ABD'de mahkeme, Trump'ın golf sahasındaki ağaç kesme yasağın -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-10T20:47 MHP'li Erbaş'tan Victor Osimhen'e \"Kütahya'da tedavi\" daveti -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-10T20:47 MHP'li Erbaş'tan Victor Osimhen'e \"Kütahya'da tedavi\" daveti -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-10T21:00 Eşi gözaltına alınıp, serbest bırakıldı: Ahmet Şık'tan ilk a -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
@@ -13878,7 +13872,16 @@
   "2026-11-11T01:41 James Bond: Yeni 007 kim olacak? Ne zaman gösterime girecek? -> ValueError: yanıt okunamadı",
   "2026-11-11T02:04 Fon skandalı iktidarı vurdu: Seçmen güveni eridi, tepki büyü -> ValueError: yanıt okunamadı",
   "2026-11-11T02:04 Fon skandalı iktidarı vurdu: Seçmen güveni eridi, tepki büyü -> ValueError: yanıt okunamadı",
-  "2026-11-11T02:04 Fon skandalı iktidarı vurdu: Seçmen güveni eridi, tepki büyü -> ValueError: yanıt okunamadı"
+  "2026-11-11T02:04 Fon skandalı iktidarı vurdu: Seçmen güveni eridi, tepki büyü -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Didem Eryar Ünlü: İklim krizinin çözümünde tek bir sektörün  -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Listeden çıkarılmıştı: Kanada'dan 11 İranlı kuruluşa yeniden -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Listeden çıkarılmıştı: Kanada'dan 11 İranlı kuruluşa yeniden -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Listeden çıkarılmıştı: Kanada'dan 11 İranlı kuruluşa yeniden -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Murat Sururi Özbülbül: Beni asıl hayran bırakan Atatürk'ün e -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Murat Sururi Özbülbül: Beni asıl hayran bırakan Atatürk'ün e -> ValueError: yanıt okunamadı",
+  "2026-11-11T04:34 Murat Sururi Özbülbül: Beni asıl hayran bırakan Atatürk'ün e -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
