@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "1938",
-    "basın",
-    "dünya",
-    "kasım"
-   ],
-   "tok": [
-    "634sm",
-    "adamd",
-    "andı",
-    "atatü",
-    "basın",
-    "doğu",
-    "dün",
-    "dünya",
-    "excel",
-    "figar",
-    "frans",
-    "gazet",
-    "grisi",
-    "gözle",
-    "güzel",
-    "https",
-    "kapat",
-    "kasım",
-    "kemal",
-    "kuruc",
-    "mille",
-    "moder",
-    "muciz",
-    "musta",
-    "new",
-    "nin",
-    "nun",
-    "sabah",
-    "times",
-    "vefat",
-    "york",
-    "çelik",
-    "ışıkl",
-    "şöyle"
-   ],
-   "at": "2026-11-09T22:23:15.464603+00:00"
-  },
-  {
-   "fp": [
     "bekle",
     "eve",
     "kırmı",
@@ -10904,20 +10858,72 @@
     "üçünc"
    ],
    "at": "2026-11-11T10:17:13.011801+00:00"
+  },
+  {
+   "fp": [
+    "46",
+    "ali",
+    "gazet",
+    "karar",
+    "tahli",
+    "tarak"
+   ],
+   "tok": [
+    "alene",
+    "ali",
+    "ardın",
+    "bilgi",
+    "birli",
+    "bırak",
+    "cezae",
+    "cuma",
+    "daki",
+    "davan",
+    "duruş",
+    "dışın",
+    "edece",
+    "ertel",
+    "eylül",
+    "gazet",
+    "gerek",
+    "gün",
+    "günlü",
+    "günü",
+    "günün",
+    "halkı",
+    "hapis",
+    "hazır",
+    "hesab",
+    "iddia",
+    "isten",
+    "istif",
+    "konul",
+    "medya",
+    "nde",
+    "neden",
+    "payla",
+    "serbe",
+    "sinca",
+    "sonra",
+    "sosya",
+    "suçla",
+    "tahli",
+    "tarak",
+    "tutul",
+    "yanıl",
+    "yasağ",
+    "yayma",
+    "yurt",
+    "yıla",
+    "yılda",
+    "çıkış",
+    "öneml",
+    "şubat"
+   ],
+   "at": "2026-11-11T10:34:54.494809+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ffc6c14ff1",
-   "post_id": "529346797199852_1462743355965372",
-   "title": "Ordu'da 'reçeteli ilaç' operasyonu: Eski başhekim dahil 2 şüpheli tutuklandı",
-   "at": "2026-11-09T11:58:05.009109+00:00",
-   "yazim": "claude",
-   "metin": "Ordu'nun Ünye ilçesinde reçeteli ilaçların hastane dışına çıkarılıp satıldığı iddiasıyla yapılan operasyonda 2 kişi tutuklandı.\n\nTutuklananlar arasında eski başhekim de var.\n\n— Operasyonda 18 şüpheli gözaltına alındı; bunlar arasında eski Ünye Devlet Hastanesi başhekimi, hastanede çalışmış bir personel ve medikal sektörde faaliyet gösteren işletme sahipleri var.\n— Şüphelilerin 16'sı adli kontrol şartıyla serbest bırakıldı.\n— İlaçların uyuşturucu ve uyarıcı üretiminde kullanılabileceği öne sürülüyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ordu-da-receteli-ilac-operasyonu-eski-bashekim-dahil-2-supheli-tutuklandi-2554734"
-   ]
-  },
   {
    "id": "841e3dcdf1",
    "post_id": "529346797199852_1462754212630953",
@@ -13472,6 +13478,22 @@
     "BirGün: https://www.birgun.net/haber/futbolda-bahis-sorusturmasi-mert-hakan-yandas-ve-ersen-dikmen-in-yargilandigi-dava-ertelendi-745792",
     "Karar: https://www.karar.com/guncel-haberler/mert-hakan-yandasin-yargilandigi-davada-durusma-ertelendi-2083585"
    ]
+  },
+  {
+   "id": "537f1277ca",
+   "post_id": "529346797199852_1465170572389317",
+   "title": "Gazeteci Ali Tarakçı 46 günlük tutukluluğun ardından tahliye edildi",
+   "at": "2026-11-11T10:34:54.494809+00:00",
+   "yazim": "claude",
+   "metin": "Gazeteci Ali Tarakçı, Ankara'daki Sincan Cezaevi'nde 46 gün tutulduktan sonra tahliye edildi.\n\n— Tarakçı, 26 Eylül 2026'da \"Çok önemli bir bakan cuma günü istifa edecek\" paylaşımı nedeniyle tutuklanmıştı.\n— Hakkında \"halkı yanıltıcı bilgiyi alenen yayma\" suçlamasıyla 1 yıldan 3 yıla kadar hapis istenen iddianame hazırlanmıştı.\n— Tahliye kararıyla birlikte yurt dışına çıkış yasağı konuldu.\n— Davanın bir sonraki duruşması 5 Şubat 2027'ye ertelendi.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/gazeteci-ali-tarakci-tutuklulugunun-46-gununde-tahliye-edildi-p380273",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/gazeteci-ali-tarakci-ya-tahliye-karari-2555329",
+    "Evrensel: https://www.evrensel.net/haber/6008971/gazeteci-ali-tarakci-46-gunluk-tutuklulugun-ardindan-tahliye-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/11/gazeteci-ali-tarakci-tahliye-edildi/",
+    "BirGün: https://www.birgun.net/haber/gazeteci-ali-tarakci-ya-tahliye-karari-745828",
+    "Karar: https://www.karar.com/guncel-haberler/gazeteci-ali-tarakciya-46-gun-sonra-tahliye-2083587"
+   ]
   }
  ],
  "fails": {
@@ -13724,7 +13746,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120459992117682331",
+   "since_id": "2120463170451984575",
    "started": true
   },
   "ajansmuhbir1923": {
