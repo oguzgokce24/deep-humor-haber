@@ -12926,6 +12926,93 @@
     "çarpı"
    ],
    "at": "2026-11-11T19:18:13.300430+00:00"
+  },
+  {
+   "fp": [
+    "anıtk",
+    "başka",
+    "bilic",
+    "diyan",
+    "işler",
+    "parti",
+    "ziyar"
+   ],
+   "tok": [
+    "adana",
+    "anma",
+    "anıtk",
+    "atatü",
+    "bilal",
+    "bilic",
+    "diy",
+    "diyan",
+    "dolay",
+    "genel",
+    "günde",
+    "günü",
+    "hatır",
+    "işler",
+    "kasım",
+    "konuş",
+    "kurdu",
+    "kurul",
+    "mevcu",
+    "mille",
+    "nda",
+    "nın",
+    "olmad",
+    "olup",
+    "parti",
+    "planı",
+    "taşıd",
+    "tbmm",
+    "yaptı",
+    "ziyar"
+   ],
+   "at": "2026-11-11T19:25:30.075891+00:00"
+  },
+  {
+   "fp": [
+    "ajans",
+    "anado",
+    "doğu",
+    "ekolo",
+    "kalkı",
+    "ndan",
+    "nın",
+    "planı",
+    "platf",
+    "tepki",
+    "topla",
+    "varto"
+   ],
+   "tok": [
+    "ajans",
+    "anado",
+    "daki",
+    "deste",
+    "doğu",
+    "ekolo",
+    "göste",
+    "ilişk",
+    "jeote",
+    "kalkı",
+    "muş",
+    "ndan",
+    "nın",
+    "ortay",
+    "planı",
+    "platf",
+    "propa",
+    "santr",
+    "taki",
+    "tepki",
+    "topla",
+    "varto",
+    "yapıl",
+    "çıkan"
+   ],
+   "at": "2026-11-11T19:25:30.621960+00:00"
   }
  ],
  "posted": [
@@ -15751,14 +15838,10 @@
   "d426465d85": 1,
   "15b2915244": 1,
   "d7a71f35ce": 2,
-  "f925ba1f77": 2,
   "b4b8550939": 1,
-  "57f92f746a": 2
+  "35f6b6eeff": 1
  },
  "fail_log": [
-  "2026-11-11T18:30 EMEP Milletvekili Sevda Karaca: 200 bin çocuğa verdiğiniz SE -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:34 Fon soruşturmasında tutuklandı: Hayati Yazıcı'nın eşinin yeğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:34 Emek Partisi Antalya İl Örgütü: HABAŞ’taki katliam münferit  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:34 EMEP Milletvekili Sevda Karaca: 200 bin çocuğa verdiğiniz SE -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:37 HASSAS | Merab Dvalishvili: -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:37 Fon soruşturmasında tutuklandı: Hayati Yazıcı'nın eşinin yeğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15795,7 +15878,10 @@
   "2026-11-11T19:18 YENİ Partili Bilici: Diyanet İşleri Başkanı Anıtkabir’i ziya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:22 YENİ Partili Bilici: Diyanet İşleri Başkanı Anıtkabir’i ziya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:22 Varto Ekoloji Platformu’ndan, Doğu Anadolu Kalkınma Ajansı’n -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:22 Anadolu'yu demir ağlar ve yerli sanayiyle donatan 1923-1950  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T19:22 Anadolu'yu demir ağlar ve yerli sanayiyle donatan 1923-1950  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:25 İspanya'da konut krizine karşı genel grev: En az 30 gözaltı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:25 YENİ Partili Bilici: Diyanet İşleri Başkanı Anıtkabir’i ziya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:25 Varto Ekoloji Platformu’ndan, Doğu Anadolu Kalkınma Ajansı’n -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
