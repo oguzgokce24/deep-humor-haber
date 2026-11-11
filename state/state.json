@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "blink",
-    "netan",
-    "uyarm"
-   ],
-   "tok": [
-    "abd",
-    "adım",
-    "anlat",
-    "anton",
-    "arası",
-    "atmad",
-    "aynı",
-    "azala",
-    "azald",
-    "açını",
-    "başba",
-    "blink",
-    "dan",
-    "deki",
-    "demok",
-    "den",
-    "deste",
-    "dışiş",
-    "eski",
-    "evanj",
-    "gazze",
-    "genç",
-    "gençl",
-    "görüş",
-    "israi",
-    "itira",
-    "içind",
-    "karşı",
-    "konus",
-    "korum",
-    "netan",
-    "olmay",
-    "parti",
-    "riski",
-    "sadec",
-    "sivil",
-    "sizin",
-    "sorun",
-    "söyle",
-    "uyard",
-    "uyarm",
-    "uyarı",
-    "yaptı",
-    "yeter",
-    "zaman"
-   ],
-   "at": "2026-11-09T14:34:14.705439+00:00"
-  },
-  {
-   "fp": [
     "alınd",
     "başba",
     "eski",
@@ -11122,20 +11067,55 @@
     "örgüt"
    ],
    "at": "2026-11-11T02:29:15.242297+00:00"
+  },
+  {
+   "fp": [
+    "arazi",
+    "kayma",
+    "tekel",
+    "torun",
+    "yarad",
+    "özell"
+   ],
+   "tok": [
+    "aktar",
+    "aldığ",
+    "alınm",
+    "arazi",
+    "arkad",
+    "aziz",
+    "aştı",
+    "beyko",
+    "daki",
+    "değer",
+    "ekspe",
+    "erdoğ",
+    "eski",
+    "ettiğ",
+    "eylül",
+    "fabri",
+    "geliş",
+    "gyo",
+    "günce",
+    "inşa",
+    "kayma",
+    "mily",
+    "milya",
+    "nin",
+    "nun",
+    "paşab",
+    "proje",
+    "sınıf",
+    "tarih",
+    "tekel",
+    "torun",
+    "yarad",
+    "özell"
+   ],
+   "at": "2026-11-11T02:41:45.744839+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "35e6813b9f",
-   "post_id": "529346797199852_1462335962672778",
-   "title": "Ankara’yı sarsan rüşvet skandalı",
-   "at": "2026-11-09T02:59:07.650090+00:00",
-   "yazim": "claude",
-   "metin": "Ankara'da bir savcının 1 milyon dolar rüşvet alıp bir iş insanını hapse attırdığı iddia edildi.\n\nOlayı, 2025'te kalp krizinde ölen zabıt katibi Feramuz Deniz'in ölmeden önce yazdığı ihbar mektubu ortaya çıkardı.\n\n— Mektupta, arsa anlaşmazlığı davasına savcı Oğuzhan K.'nin müdahale ettiği, karşılığında 1 milyon doların verildiği öne sürüldü.\n— Katip, paranın iki taksitte teslim edildiğini ve ilk 500 bin doların savcının kardeşine ulaştığını iddia etti.\n— İş insanı Adem Ç., mektubu HSK'ya yazdığı şikayet dilekçesiyle birlikte gönderdi ve haksız yere 19 yıl hapis cezası aldığını belirtti.\n— HSK, savcıyla ilgili soruşturma başlattı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/ankara-yi-sarsan-rusvet-skandali-p379346"
-   ]
-  },
   {
    "id": "054e40f2e9",
    "post_id": "529346797199852_1462357216003986",
@@ -13707,6 +13687,17 @@
    "metin": "Ölen kadının ailesine yönelik tehditler fiziki saldırıya dönüştü, kadın örgütleri adalet nöbetinde bir araya geldi.\n\n— Örgütler, aileye koruma tedbiri alınmamasına tepki gösterdi.\n\n— Kadınlar, ölümle ilgili iddiaların üzerine gidilmediğini eleştirdi ve gerçeğin açığa çıkarılmasını istedi.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/saldiri-ve-engellere-karsi-adalet-nobeti-rojin-in-akibeti-karanlikta-birakilamaz-745699"
+   ]
+  },
+  {
+   "id": "fc95ddc68f",
+   "post_id": "529346797199852_1464760825763625",
+   "title": "Özelleştirmenin kaymağı: Tekel arazisi Torunlar'a yaradı",
+   "at": "2026-11-11T02:41:45.744839+00:00",
+   "yazim": "claude",
+   "metin": "Beykoz'daki eski Tekel Paşabahçe Fabrikası arazisinin değeri 8,5 milyar TL'yi aştı.\n\n— Arazi, özelleştirmede Cumhurbaşkanı Erdoğan'ın sınıf arkadaşı Aziz Torun tarafından 355 milyon TL'ye alınmıştı.\n\n— Torunlar GYO'nun bu arazide geliştirdiği Paşabahçe Projesi'nin ekspertiz değeri 8 milyar 755 milyon TL olarak aktarıldı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/ozellestirmenin-kaymagi-tekel-arazisi-torunlar-a-yaradi-745704"
    ]
   }
  ],
