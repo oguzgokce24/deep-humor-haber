@@ -13414,6 +13414,134 @@
     "şikây"
    ],
    "at": "2026-11-11T20:34:22.347518+00:00"
+  },
+  {
+   "fp": [
+    "1990",
+    "bakan",
+    "eliyl",
+    "erkek",
+    "gökta",
+    "kısır",
+    "sgk",
+    "yılla"
+   ],
+   "tok": [
+    "aile",
+    "ameli",
+    "bütçe",
+    "eliyl",
+    "erkek",
+    "gökta",
+    "göste",
+    "hizme",
+    "iddia",
+    "ilgin",
+    "itira",
+    "komis",
+    "kısır",
+    "larda",
+    "mahin",
+    "mille",
+    "muhal",
+    "nda",
+    "neden",
+    "plan",
+    "sgk",
+    "sosya",
+    "sürme",
+    "tan",
+    "tartı",
+    "tbmm",
+    "tepki",
+    "yapıl",
+    "yinel",
+    "yılla",
+    "öne",
+    "özdem"
+   ],
+   "at": "2026-11-11T20:44:29.408574+00:00"
+  },
+  {
+   "fp": [
+    "alınd",
+    "arabi",
+    "daki",
+    "duyur",
+    "halid",
+    "haval",
+    "hedef",
+    "husil",
+    "kral",
+    "petro",
+    "suudi",
+    "tesis"
+   ],
+   "tok": [
+    "alınd",
+    "arabi",
+    "asker",
+    "belir",
+    "daki",
+    "duyur",
+    "düzen",
+    "füzel",
+    "halid",
+    "hava",
+    "haval",
+    "hedef",
+    "husil",
+    "insan",
+    "kral",
+    "otomo",
+    "petro",
+    "seri",
+    "seyir",
+    "suudi",
+    "sözcü",
+    "tesis",
+    "yahya",
+    "yaptı",
+    "yazıl"
+   ],
+   "at": "2026-11-11T20:44:29.976289+00:00"
+  },
+  {
+   "fp": [
+    "bloğu",
+    "kaybe",
+    "mecli",
+    "muhal",
+    "netan",
+    "oylam"
+   ],
+   "tok": [
+    "arap",
+    "açıla",
+    "başba",
+    "binya",
+    "blo",
+    "blok",
+    "bloğu",
+    "deste",
+    "diken",
+    "dün",
+    "eisen",
+    "gadi",
+    "israi",
+    "kasım",
+    "lider",
+    "mecli",
+    "muhal",
+    "ndeki",
+    "netan",
+    "oylam",
+    "parti",
+    "post",
+    "the",
+    "öncül"
+   ],
+   "at": "2026-11-11T20:44:30.416206+00:00"
   }
  ],
  "posted": [
@@ -16246,15 +16374,9 @@
   "8545367781": 1,
   "38155bb9b2": 1,
   "53520913bf": 1,
-  "113734223a": 2,
-  "c320c0cde9": 2,
-  "3bacf821d1": 2,
-  "32ae186a22": 2
+  "113734223a": 2
  },
  "fail_log": [
-  "2026-11-11T19:50 Kut Soundworks projesi Kut Vatan, Mesnevî'den uyarlanan rock -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:00 Merab Dvalishvili'nin saldırıya uğradığı anın farklı bir açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:00 İBB davası | Fatoş Pınar Türker: “Beni çocuklarıma kavuşturu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:00 Takviye edici gıdalarda şeffaflık adımı: 24 bileşenin kaynağ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:03 İBB davası | Fatoş Pınar Türker: “Beni çocuklarıma kavuşturu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:03 Tarihte görülmemiş kriz: 2027 yılında üretilecek RAM bellekl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16291,12 +16413,15 @@
   "2026-11-11T20:37 Bakan Göktaş: \"1990'lı yıllarda erkekler SGK eliyle kısırlaş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:41 Bakan Göktaş: \"1990'lı yıllarda erkekler SGK eliyle kısırlaş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:41 Husiler duyurdu: Suudi Arabistan'daki Kral Halid Havalimanı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:41 Netanyahu bloğu yeni meclisteki ilk oylamayı muhalefete kayb -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T20:41 Netanyahu bloğu yeni meclisteki ilk oylamayı muhalefete kayb -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:44 Bakan Göktaş: \"1990'lı yıllarda erkekler SGK eliyle kısırlaş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:44 Husiler duyurdu: Suudi Arabistan'daki Kral Halid Havalimanı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:44 Netanyahu bloğu yeni meclisteki ilk oylamayı muhalefete kayb -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120612356182974717",
+   "since_id": "2120617842328617384",
    "started": true
   },
   "ajansmuhbir1923": {
