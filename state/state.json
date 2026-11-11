@@ -2,65 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ceza",
-    "cezae",
-    "depre",
-    "hakkı",
-    "kemal",
-    "kesin",
-    "koç",
-    "parti",
-    "savun",
-    "sol",
-    "veril",
-    "yatac",
-    "yurtt"
-   ],
-   "tok": [
-    "ancak",
-    "aylık",
-    "ben",
-    "ceza",
-    "cezae",
-    "cezas",
-    "depre",
-    "diyer",
-    "etmiş",
-    "göste",
-    "hakkı",
-    "hapis",
-    "hesap",
-    "ise",
-    "işley",
-    "kemal",
-    "kesin",
-    "koç",
-    "kızıl",
-    "myk",
-    "parti",
-    "prote",
-    "satan",
-    "satma",
-    "satış",
-    "savun",
-    "serbe",
-    "sol",
-    "suçu",
-    "tepki",
-    "verec",
-    "veril",
-    "vurgu",
-    "yargı",
-    "yatac",
-    "yurtt",
-    "çadır",
-    "üyesi",
-    "şubat"
-   ],
-   "at": "2026-11-10T02:05:09.219888+00:00"
-  },
-  {
-   "fp": [
     "hüküm",
     "idare",
     "krizi",
@@ -11523,6 +11464,36 @@
     "üyesi"
    ],
    "at": "2026-11-11T14:03:45.686079+00:00"
+  },
+  {
+   "fp": [
+    "halin",
+    "kamyo",
+    "park",
+    "çaldı",
+    "çekic"
+   ],
+   "tok": [
+    "akıla",
+    "ardın",
+    "görün",
+    "güven",
+    "halin",
+    "hatay",
+    "hırsı",
+    "kamer",
+    "kamyo",
+    "olayı",
+    "park",
+    "sanay",
+    "sit",
+    "sites",
+    "yansı",
+    "yükle",
+    "çaldı",
+    "çekic"
+   ],
+   "at": "2026-11-11T14:07:09.450936+00:00"
   }
  ],
  "posted": [
@@ -14321,13 +14292,10 @@
   "c5196d0b10": 2,
   "e1830c7c29": 2,
   "09e94de9dd": 1,
-  "a6e19c2dba": 2,
-  "5e06a6760b": 1
+  "5e06a6760b": 2,
+  "6d41a13666": 1
  },
  "fail_log": [
-  "2026-11-11T12:56 Uçağı kaçırdı, cihazlara zarar verdi: İki yıl sonra gazete i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:59 MHP Kayseri Milletvekili Baki Ersoy: -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:59 Nur Mehmet Güler yazdı | KDP-YNK krizi: Türkiye ve Öcalan çö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:59 Uçağı kaçırdı, cihazlara zarar verdi: İki yıl sonra gazete i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T13:02 Nur Mehmet Güler yazdı | KDP-YNK krizi: Türkiye ve Öcalan çö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T13:02 Uçağı kaçırdı, cihazlara zarar verdi: İki yıl sonra gazete i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14364,7 +14332,10 @@
   "2026-11-11T14:00 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:03 Kuş gribi alarmı: En az 40 tür yok olma tehlikesiyle karşı k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:03 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:03 İHD Adana’dan çözüm süreci için demokratikleşme çağrısı: 'Ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T14:03 İHD Adana’dan çözüm süreci için demokratikleşme çağrısı: 'Ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:07 18 işçi hayatını kaybetmişti: İzmir Barosu'ndan HABAŞ patlam -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:07 Park halindeki kamyonu çekiciyle çaldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T14:07 İHD Adana’dan çözüm süreci için demokratikleşme çağrısı: 'Ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
