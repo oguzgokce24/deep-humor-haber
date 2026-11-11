@@ -11082,6 +11082,49 @@
     "şimdi"
    ],
    "at": "2026-11-11T11:57:48.989890+00:00"
+  },
+  {
+   "fp": [
+    "arabe",
+    "beste",
+    "cengi",
+    "hayat",
+    "kaybe",
+    "müziğ",
+    "tekin"
+   ],
+   "tok": [
+    "acı",
+    "ailes",
+    "arabe",
+    "ardın",
+    "beste",
+    "cengi",
+    "duyur",
+    "gelen",
+    "gördü",
+    "haber",
+    "hasta",
+    "ismi",
+    "kalp",
+    "kaybı",
+    "krizi",
+    "kızı",
+    "müziğ",
+    "sanat",
+    "ses",
+    "sonuc",
+    "sürel",
+    "tedav",
+    "tekin",
+    "usta",
+    "uzun",
+    "yaşam",
+    "yaşın",
+    "yitir",
+    "önde"
+   ],
+   "at": "2026-11-11T12:01:03.901979+00:00"
   }
  ],
  "posted": [
@@ -13870,14 +13913,11 @@
   "7a0dfcd9f4": 2,
   "4c21a5f054": 2,
   "80e89fbdcf": 1,
-  "9e41243007": 2,
-  "cbb1464aae": 1,
-  "dec141e6ff": 1
+  "cbb1464aae": 2,
+  "dec141e6ff": 1,
+  "f54638e291": 1
  },
  "fail_log": [
-  "2026-11-11T11:13 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:17 Mehmet Şimşek: “Türkiye’nin iklim hedefi 300 milyar dolar ge -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:17 Güllü'nün ölümünde ifade değiştiren Sultan Nur Ulu konuştu:  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:17 Ramazan ve Şevval umre turları için kayıtlar başladı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:20 Mehmet Şimşek: “Türkiye’nin iklim hedefi 300 milyar dolar ge -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:20 Joe Biden'a İrlanda'da Filistin protestosu: Üzerine süt kutu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -13914,7 +13954,10 @@
   "2026-11-11T11:54 Kasım indirimlerinde sahte kozmetik ve dolandırıcılık uyarıs -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:57 Cumhurbaşkanı Erdoğan: \"Gazzeli çocukların dramı üzerinden g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:57 Arabesk müziğin acı kaybı: Besteci ve ses sanatçısı Cengiz T -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:57 Serdar Bali'den Trabzonspor sağlık heyetine sert tepki: Ne i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T11:57 Serdar Bali'den Trabzonspor sağlık heyetine sert tepki: Ne i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:01 Arabesk müziğin acı kaybı: Besteci ve ses sanatçısı Cengiz T -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:01 Kasım indirimlerinde sahte kozmetik ve dolandırıcılık uyarıs -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:01 Peru'da 1600 yıllık mezarlıkta tek gözlü bebek iskeleti bulu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
