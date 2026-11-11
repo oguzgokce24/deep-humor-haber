@@ -13002,6 +13002,63 @@
     "çıkar"
    ],
    "at": "2026-11-11T19:36:01.053342+00:00"
+  },
+  {
+   "fp": [
+    "aldı",
+    "döndü",
+    "fast",
+    "food",
+    "geri",
+    "kendi",
+    "küres",
+    "marka",
+    "mutfa",
+    "sokak",
+    "türki",
+    "şaşkı"
+   ],
+   "tok": [
+    "aldı",
+    "araşt",
+    "açılı",
+    "birle",
+    "deney",
+    "döndü",
+    "döner",
+    "dışın",
+    "fast",
+    "food",
+    "gelen",
+    "geri",
+    "göre",
+    "hızlı",
+    "kendi",
+    "küres",
+    "lahma",
+    "lezze",
+    "marka",
+    "masa",
+    "meyda",
+    "mutfa",
+    "okuyo",
+    "pide",
+    "resto",
+    "reçet",
+    "servi",
+    "sokak",
+    "stand",
+    "tekel",
+    "yerle",
+    "yerli",
+    "yurt",
+    "yüzle",
+    "zinci",
+    "zirve",
+    "şaşkı",
+    "şubey"
+   ],
+   "at": "2026-11-11T19:43:03.017516+00:00"
   }
  ],
  "posted": [
@@ -15830,14 +15887,12 @@
   "b4b8550939": 1,
   "1da75b6e18": 2,
   "7a090a5030": 1,
-  "5cf7e26fcb": 2,
   "eb5b627927": 1,
-  "8545367781": 1
+  "8545367781": 1,
+  "38155bb9b2": 1,
+  "546932125a": 1
  },
  "fail_log": [
-  "2026-11-11T18:47 Milli Takım'a çağrılmıyordu! Enes Ünal'dan Montella itirafı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:57 F1 pilotu Lewis Hamilton, Gazze sınırındaki Refah Sınır Kapı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:57 Anadolu'yu demir ağlar ve yerli sanayiyle donatan 1923-1950  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:57 Milli Takım'a çağrılmıyordu! Enes Ünal'dan Montella itirafı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:01 KESK Samsun Şubeler Platformu: Atakum Belediyesinde işten at -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:01 Mikser ile kamyonet çarpıştı: 3 yaralı, 32 koyun öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15874,12 +15929,15 @@
   "2026-11-11T19:36 Küresel fast food markaları şaşkına döndü: Türkiye kendi öz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:39 Küresel fast food markaları şaşkına döndü: Türkiye kendi öz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:39 Kentsel dönüşümde teklifler ve sözleşmeler için ortak dosya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:39 18 işçinin öldüğü HABAŞ Katliamı soruşturması: Mehmet Rüştü  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T19:39 18 işçinin öldüğü HABAŞ Katliamı soruşturması: Mehmet Rüştü  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:43 Edirne'de uzun süre balık bekleyen kedi, tam balığa kavuşaca -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:43 Küresel fast food markaları şaşkına döndü: Türkiye kendi öz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T19:43 Kut Soundworks projesi Kut Vatan, Mesnevî'den uyarlanan rock -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120600947831222507",
+   "since_id": "2120603091447742603",
    "started": true
   },
   "ajansmuhbir1923": {
