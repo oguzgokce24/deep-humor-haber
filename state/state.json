@@ -16308,14 +16308,11 @@
   "926c29f506": 2,
   "ca3dbe65b3": 2,
   "6261cc0696": 2,
-  "a1664e69b5": 1,
-  "7b6f5c6b76": 1,
-  "f60f2c9aee": 1
+  "a1664e69b5": 2,
+  "7b6f5c6b76": 2,
+  "f60f2c9aee": 2
  },
  "fail_log": [
-  "2026-11-11T21:52 İsrail Genelkurmay'ından orduya \"hazırlıklı olma\" talimatı,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T21:55 Hamile eşini öldürmekle suçlanıyordu: Yargıtay'dan tahliye k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T21:55 Sergen Yalçın: Galibiyete Türkiye'nin ihtiyacı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T21:55 İsrail Genelkurmay'ından orduya \"hazırlıklı olma\" talimatı,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T21:58 Hamile eşini öldürmekle suçlanıyordu: Yargıtay'dan tahliye k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T21:58 Sergen Yalçın: Galibiyete Türkiye'nin ihtiyacı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16352,7 +16349,10 @@
   "2026-11-11T22:31 T.C. ERZİNCAN 1. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:34 TBMM Genel Kurulu: 'Türk Kızılay Kanunu Teklifi'nin tüm madd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:34 ABD medyası: JD Vance, üst düzey İranlı güvenlik yetkilisi R -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:34 İstanbul'da sahte polis dolandırıcılığı: Emekli yurttaşın ev -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T22:34 İstanbul'da sahte polis dolandırıcılığı: Emekli yurttaşın ev -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:37 TBMM Genel Kurulu: 'Türk Kızılay Kanunu Teklifi'nin tüm madd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:37 ABD medyası: JD Vance, üst düzey İranlı güvenlik yetkilisi R -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:37 İstanbul'da sahte polis dolandırıcılığı: Emekli yurttaşın ev -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
