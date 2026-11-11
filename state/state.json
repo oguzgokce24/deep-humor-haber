@@ -16144,13 +16144,11 @@
   "e1a2450e58": 2,
   "a3aad9c7f9": 1,
   "e8acb74ce1": 1,
-  "ddb5ffe689": 1,
-  "16bfd34fed": 1
+  "ddb5ffe689": 2,
+  "16bfd34fed": 2,
+  "073dadcd7f": 1
  },
  "fail_log": [
-  "2026-11-11T20:20 Paribu, finansın yeni çağını DECADE DECODED ile başlattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:24 Rutin işleri yapay zekaya devreden kadrolar iki kat hızlı bü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:24 Fizik Mühendisleri Odası'ndan HABAŞ patlamasıyla ilgili üç t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:24 Paribu, finansın yeni çağını DECADE DECODED ile başlattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:27 Rutin işleri yapay zekaya devreden kadrolar iki kat hızlı bü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:27 Paribu, finansın yeni çağını DECADE DECODED ile başlattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16187,7 +16185,10 @@
   "2026-11-11T21:58 İsrail Genelkurmay'ından orduya \"hazırlıklı olma\" talimatı,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:01 Sergen Yalçın: Galibiyete Türkiye'nin ihtiyacı var -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:01 TÜPRAŞ işçisi: Sendikamız iş cinayetine karşı üç maymunu oyn -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:01 MasterChef ikinci eleme adayı kim oldu? 11 Kasım 2026 Master -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T22:01 MasterChef ikinci eleme adayı kim oldu? 11 Kasım 2026 Master -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:05 MasterChef ikinci eleme adayı kim oldu? 11 Kasım 2026 Master -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:05 TÜPRAŞ işçisi: Sendikamız iş cinayetine karşı üç maymunu oyn -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T22:05 Bayrampaşa’da yıkım sırasında hasar gören 4 katlı bina tahli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
