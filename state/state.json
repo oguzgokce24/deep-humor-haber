@@ -13272,6 +13272,53 @@
     "üyesi"
    ],
    "at": "2026-11-11T20:17:19.390714+00:00"
+  },
+  {
+   "fp": [
+    "taşım",
+    "yapay",
+    "zekâ"
+   ],
+   "tok": [
+    "açısı",
+    "belir",
+    "cihan",
+    "deste",
+    "dönem",
+    "ekspe",
+    "evden",
+    "eve",
+    "eşyal",
+    "faali",
+    "fiyat",
+    "fotoğ",
+    "geliş",
+    "göste",
+    "hesap",
+    "hizme",
+    "kapsa",
+    "liste",
+    "maliy",
+    "nakli",
+    "netle",
+    "onlin",
+    "sektö",
+    "taşım",
+    "taşın",
+    "taşıy",
+    "tüket",
+    "uygul",
+    "yana",
+    "yapay",
+    "yılın",
+    "zekâ",
+    "çözüm",
+    "önced",
+    "önces",
+    "önem",
+    "üzeri"
+   ],
+   "at": "2026-11-11T20:20:43.899507+00:00"
   }
  ],
  "posted": [
@@ -16104,13 +16151,10 @@
   "8545367781": 1,
   "38155bb9b2": 1,
   "53520913bf": 1,
-  "d84aae4564": 2,
-  "a65ad6db5f": 1
+  "a65ad6db5f": 2,
+  "119748cfed": 1
  },
  "fail_log": [
-  "2026-11-11T19:25 Varto Ekoloji Platformu’ndan, Doğu Anadolu Kalkınma Ajansı’n -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:28 Merkez Bankası'ndan kredi kararları: İhtiyaç, taşıt ve ticar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T19:28 İspanya'da konut krizine karşı genel grev: En az 30 gözaltı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:28 Meteoroloji'den aralarında İstanbul'un da olduğu 11 il için  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:32 Merkez Bankası'ndan kredi kararları: İhtiyaç, taşıt ve ticar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T19:32 İspanya'da konut krizine karşı genel grev: En az 30 gözaltı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16147,12 +16191,15 @@
   "2026-11-11T20:13 Ev taşımada fiyat belirsizliğine yapay zekâ çözümü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:17 Ev taşımada fiyat belirsizliğine yapay zekâ çözümü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T20:17 Akol Global, Kuzey Kıbrıs'taki projeleriyle Türk yatırımcıya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T20:17 Fizik Mühendisleri Odası'ndan HABAŞ patlamasıyla ilgili üç t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T20:17 Fizik Mühendisleri Odası'ndan HABAŞ patlamasıyla ilgili üç t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:20 Ev taşımada fiyat belirsizliğine yapay zekâ çözümü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:20 Fizik Mühendisleri Odası'ndan HABAŞ patlamasıyla ilgili üç t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T20:20 Paribu, finansın yeni çağını DECADE DECODED ile başlattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120608741209031089",
+   "since_id": "2120612356182974717",
    "started": true
   },
   "ajansmuhbir1923": {
