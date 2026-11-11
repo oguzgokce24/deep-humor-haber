@@ -2,70 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alınm",
-    "arabi",
-    "batı",
-    "boru",
-    "doğu",
-    "hattı",
-    "hedef",
-    "nın",
-    "petro",
-    "sonuc",
-    "suudi",
-    "yangı",
-    "çıktı"
-   ],
-   "tok": [
-    "almad",
-    "alınd",
-    "alınm",
-    "arabi",
-    "batı",
-    "belir",
-    "bildi",
-    "bilgi",
-    "boru",
-    "dair",
-    "doğu",
-    "düzen",
-    "ekipl",
-    "enerj",
-    "geldi",
-    "gerçe",
-    "geçen",
-    "göre",
-    "hat",
-    "hattı",
-    "hedef",
-    "içeri",
-    "içind",
-    "kaldı",
-    "kimde",
-    "medin",
-    "meyda",
-    "müdah",
-    "neden",
-    "nın",
-    "petro",
-    "sonuc",
-    "suudi",
-    "söndü",
-    "sınır",
-    "tamam",
-    "yangı",
-    "yazıl",
-    "yer",
-    "yönel",
-    "zaman",
-    "çapta",
-    "çıktı",
-    "üzeri"
-   ],
-   "at": "2026-11-09T18:11:07.513731+00:00"
-  },
-  {
-   "fp": [
     "1",
     "2",
     "beton",
@@ -11070,23 +11006,74 @@
     "çıktı"
    ],
    "at": "2026-11-11T06:03:09.097284+00:00"
+  },
+  {
+   "fp": [
+    "eyüps",
+    "gecek",
+    "hayat",
+    "kaybe",
+    "kişi",
+    "yangı"
+   ],
+   "tok": [
+    "aldı",
+    "alevl",
+    "altın",
+    "alınd",
+    "ardın",
+    "belir",
+    "bulun",
+    "can",
+    "ekipl",
+    "evde",
+    "eyüps",
+    "gece",
+    "gecek",
+    "geldi",
+    "geçim",
+    "gören",
+    "hale",
+    "henüz",
+    "incel",
+    "islam",
+    "itfai",
+    "kağıt",
+    "kontr",
+    "kulla",
+    "kısa",
+    "mahal",
+    "nde",
+    "neden",
+    "saat",
+    "saatl",
+    "sakin",
+    "sardı",
+    "sağla",
+    "sağlı",
+    "söndü",
+    "sürdü",
+    "süred",
+    "sıral",
+    "sıras",
+    "topla",
+    "verdi",
+    "yakla",
+    "yangı",
+    "çalış",
+    "çatıs",
+    "çevre",
+    "çöken",
+    "çöktü",
+    "çıkan",
+    "çıktı",
+    "çıkış",
+    "öğren"
+   ],
+   "at": "2026-11-11T06:15:46.620116+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c3aa3e457a",
-   "post_id": "529346797199852_1462562375983470",
-   "title": "Afyonkarahisar'da aile içi kavga cinayetle bitti: 1 ölü, 2 gözaltı",
-   "at": "2026-11-09T07:55:57.771272+00:00",
-   "yazim": "claude",
-   "metin": "Afyonkarahisar'ın Işıklar beldesinde akrabalar arasındaki tartışma silahlı kavgaya dönüştü, 37 yaşındaki bir adam tüfekle vurularak hayatını kaybetti.\n\n— Tartışmanın nedeni henüz belirlenemedi.\n— Silah seslerini duyan çevredekilerin ihbarı üzerine sağlık ve jandarma ekipleri olay yerine gitti.\n— Yaralanan adam ambulansla Çobanlar Devlet Hastanesi'ne kaldırıldı, ancak doktorların tüm müdahalesine rağmen kurtarılamadı.\n— Olayın ardından kaçan iki kayınbiraderi, jandarmanın çalışmasıyla yaklaşık bir saat sonra bir akrabalarının evinde yakalandı.\n— Gözaltına alınan iki şüpheli jandarma karakoluna götürüldü.\n— Tüfeğin şüphelilerden hangisi tarafından ateşlendiği henüz belirlenemedi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/afyonkarahisar/kamyon-sahipligi-tartismasi-cinayetle-bitti-3490815",
-    "Sözcü: https://www.sozcu.com.tr/afyonkarahisar-daki-aile-kavgasi-cinayetle-bitti-p379412",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/afyonkarahisar-da-aile-ici-kavga-cinayetle-bitti-1-olu-2-gozalti-2554582",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/afyonkarahisarda-cinayet-kayinbiraderler-enistelerini-oldurdu-4870880"
-   ]
-  },
   {
    "id": "938bc03582",
    "post_id": "529346797199852_1462570855982622",
@@ -13645,6 +13632,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/annesine-surpriz-yapmak-isterken-evi-yakti-korku-dolu-anlar-kamerada-2555245",
     "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/sultangazide-annesine-surpriz-icin-yemek-yapmak-isteyen-cocuklar-evi-yakti-4871401"
    ]
+  },
+  {
+   "id": "a610da9850",
+   "post_id": "529346797199852_1464943962411978",
+   "title": "Eyüpsultan'da gecekondu yangını: Bir kişi hayatını kaybetti",
+   "at": "2026-11-11T06:15:46.620116+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Eyüpsultan'da bir gecekondu yangınında 1 kişi hayatını kaybetti.\n\nYangın gece saat 02.00 sıralarında İslambey Mahallesi'nde çıktı. Alevleri gören çevre sakinleri itfaiyeye, polise ve sağlık ekiplerine haber verdi.\n\n— Yangın yaklaşık iki saatlik çalışmanın ardından kontrol altına alındı, ama söndürme sırasında gecekondunun çatısı çöktü.\n— Yangının ardından yapılan incelemede, evde geçimini kağıt toplayarak sağlayan bir kişinin hayatını kaybettiği belirlendi.\n— Gecekondu kullanılamaz hale geldi. Yangının çıkış nedeni henüz belirlenemedi, itfaiye ve polis incelemeyi sürdürüyor.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/eyupsultan-da-gecekondu-yangini-bir-kisi-hayatini-kaybetti-2555248",
+    "Evrensel: https://www.evrensel.net/haber/6008897/eyupsultanda-gecekonduda-yangin-1-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13894,7 +13893,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120395790963052833",
+   "since_id": "2120399673001161215",
    "started": true
   },
   "ajansmuhbir1923": {
