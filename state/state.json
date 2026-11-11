@@ -16513,13 +16513,11 @@
   "79582f57b5": 1,
   "75b25972f8": 1,
   "07bba78d65": 1,
-  "774b236877": 1,
-  "cf6c8e5f0a": 1
+  "774b236877": 2,
+  "cf6c8e5f0a": 2,
+  "965b22b76f": 1
  },
  "fail_log": [
-  "2026-11-11T22:18 3 dönümde başlayan üretim 700 dönüme taştı: Kırklareli’nde 3 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:21 Göçlerle şekillenen emekçi semtleri: Surdışı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:21 İspanya'da genel grev: Halk konut kiralarının yüksekliğine v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:21 3 dönümde başlayan üretim 700 dönüme taştı: Kırklareli’nde 3 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:24 Nvidia CEO'su Jensen Huang'ın, kendisine bağlı çalışan üst d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:24 İspanya'da genel grev: Halk konut kiralarının yüksekliğine v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -16556,7 +16554,10 @@
   "2026-11-11T22:55 Kırmızı ışıkta durmayan sorumsuz kamyon şoförü bir kişiyi öl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:58 İngiltere Kralı 3. Charles'tan COP31 mesajı. Cumhurbaşkanı E -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T22:58 Devlet verilerinin sızmasından korkan İsveç, kamuda ChatGPT  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T22:58 İspanya'da 14 yıl sonra ilk genel grev: Madrid ve Barcelona' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T22:58 İspanya'da 14 yıl sonra ilk genel grev: Madrid ve Barcelona' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T23:01 İngiltere Kralı 3. Charles'tan COP31 mesajı. Cumhurbaşkanı E -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T23:01 Kırmızı ışıkta durmayan sorumsuz kamyon şoförü bir kişiyi öl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T23:01 İYİ Partili Vekil Kavuncu KARAR'ın gündeme getirdiği skandal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
