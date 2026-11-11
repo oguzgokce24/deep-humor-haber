@@ -12709,6 +12709,106 @@
     "şef"
    ],
    "at": "2026-11-11T18:27:28.850490+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "4",
+    "ali",
+    "ayda",
+    "dan",
+    "eşini",
+    "fon",
+    "hayat",
+    "iddia",
+    "kazan",
+    "lira",
+    "milya",
+    "nın",
+    "paslı",
+    "soruş",
+    "tera",
+    "tutuk",
+    "yazıc",
+    "yeğen"
+   ],
+   "tok": [
+    "adil",
+    "akışı",
+    "ali",
+    "ayda",
+    "aykır",
+    "bahad",
+    "banka",
+    "dan",
+    "değer",
+    "eşini",
+    "fon",
+    "gazet",
+    "iddia",
+    "işlem",
+    "kapsa",
+    "katıl",
+    "kazan",
+    "konus",
+    "kuruc",
+    "milya",
+    "nın",
+    "olağa",
+    "ortak",
+    "pasl",
+    "paslı",
+    "savcı",
+    "sağla",
+    "söz",
+    "tera",
+    "yatır",
+    "yazıc",
+    "yeğen",
+    "özgür",
+    "üzeri"
+   ],
+   "at": "2026-11-11T18:37:30.968709+00:00"
+  },
+  {
+   "fp": [
+    "antal",
+    "değil",
+    "emek",
+    "habaş",
+    "katli",
+    "münfe",
+    "parti",
+    "taki",
+    "örgüt"
+   ],
+   "tok": [
+    "antal",
+    "denet",
+    "değil",
+    "dikka",
+    "diye",
+    "emek",
+    "göste",
+    "habaş",
+    "işçin",
+    "karşı",
+    "katli",
+    "kaç",
+    "lazım",
+    "münfe",
+    "parti",
+    "patro",
+    "sorum",
+    "taki",
+    "tepki",
+    "yaptı",
+    "yapıl",
+    "çekti",
+    "ölmes",
+    "örgüt"
+   ],
+   "at": "2026-11-11T18:37:31.696487+00:00"
   }
  ],
  "posted": [
@@ -15533,14 +15633,10 @@
   "05ff062fe2": 2,
   "2938d232e0": 1,
   "1163d6c291": 1,
-  "223915bb95": 2,
-  "54d9c4e51f": 2,
-  "e836f40e4c": 2
+  "e836f40e4c": 2,
+  "d426465d85": 1
  },
  "fail_log": [
-  "2026-11-11T17:46 Ulaş Bager Aldemir’in Marina Garcés’le söyleşisi: “Kıyamet,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:50 Çankırı'da deprem -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:50 Çanakkale’de eski eş dehşeti: Bıçaklanan kadın ağır yaraland -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:50 Rusya'nın ABD Büyükelçisi Aleksandr Darçiyev 'ani şekilde' h -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:57 Aydın'da 'yolsuzluk' davası: Özlem Çerçioğlu beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:57 Çankırı'da deprem -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15577,12 +15673,15 @@
   "2026-11-11T18:30 EMEP Milletvekili Sevda Karaca: 200 bin çocuğa verdiğiniz SE -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:34 Fon soruşturmasında tutuklandı: Hayati Yazıcı'nın eşinin yeğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:34 Emek Partisi Antalya İl Örgütü: HABAŞ’taki katliam münferit  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:34 EMEP Milletvekili Sevda Karaca: 200 bin çocuğa verdiğiniz SE -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T18:34 EMEP Milletvekili Sevda Karaca: 200 bin çocuğa verdiğiniz SE -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:37 HASSAS | Merab Dvalishvili: -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:37 Fon soruşturmasında tutuklandı: Hayati Yazıcı'nın eşinin yeğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:37 Emek Partisi Antalya İl Örgütü: HABAŞ’taki katliam münferit  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120582855210545171",
+   "since_id": "2120586641622663228",
    "started": true
   },
   "ajansmuhbir1923": {
