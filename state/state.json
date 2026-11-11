@@ -12347,6 +12347,37 @@
     "üreti"
    ],
    "at": "2026-11-11T17:04:07.615744+00:00"
+  },
+  {
+   "fp": [
+    "galat",
+    "osimh",
+    "sakat",
+    "victo"
+   ],
+   "tok": [
+    "alaka",
+    "belir",
+    "cibar",
+    "dan",
+    "dikka",
+    "galat",
+    "ikinc",
+    "ilgil",
+    "konuş",
+    "kroni",
+    "leao",
+    "mehme",
+    "olmad",
+    "osimh",
+    "sakat",
+    "victo",
+    "yönet",
+    "zemin",
+    "çeken",
+    "şey"
+   ],
+   "at": "2026-11-11T17:07:21.667105+00:00"
   }
  ],
  "posted": [
@@ -15162,13 +15193,10 @@
   "2a1e07bc08": 1,
   "70f41e24a5": 1,
   "4098bcc3e5": 1,
-  "ed232d628b": 2,
-  "c3de48bbaf": 1
+  "c3de48bbaf": 2,
+  "49cfebdfdc": 1
  },
  "fail_log": [
-  "2026-11-11T16:13 Yapay zekanın iklim faturası: Veri merkezleri Türkiye'nin bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:16 Halk TV'de gazeteci kıyımı: 70 kişinin kanalla yolları ayrıl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:16 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:16 Yapay zekanın iklim faturası: Veri merkezleri Türkiye'nin bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:20 Halk TV'de gazeteci kıyımı: 70 kişinin kanalla yolları ayrıl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:20 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15205,7 +15233,10 @@
   "2026-11-11T17:00 Kömüre Veda kampanyası Antalya’da: “Bugün ne kadar kömür kul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:04 Galatasaray'dan Victor Osimhen için dikkat çeken açıklama: ' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:04 32 yıllık Türk tekstil şirketi konkordato ilan etti: Uluslar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:04 Kömüre Veda kampanyası Antalya’da: “Bugün ne kadar kömür kul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T17:04 Kömüre Veda kampanyası Antalya’da: “Bugün ne kadar kömür kul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:07 Galatasaray'dan Victor Osimhen için dikkat çeken açıklama: ' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:07 32 yıllık Türk tekstil şirketi konkordato ilan etti: Uluslar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:07 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
