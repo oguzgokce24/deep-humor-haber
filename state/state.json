@@ -11242,6 +11242,55 @@
     "üzeri"
    ],
    "at": "2026-11-11T12:07:37.227502+00:00"
+  },
+  {
+   "fp": [
+    "62",
+    "fon",
+    "nci",
+    "nin",
+    "soruş",
+    "taleb",
+    "tedbi",
+    "türki",
+    "zengi"
+   ],
+   "tok": [
+    "aldığ",
+    "ağır",
+    "başsa",
+    "fon",
+    "forbe",
+    "gelen",
+    "geçen",
+    "güler",
+    "günde",
+    "ihale",
+    "inşaa",
+    "ismi",
+    "isted",
+    "kamud",
+    "kapsa",
+    "kemal",
+    "kişis",
+    "kurul",
+    "metro",
+    "nci",
+    "nin",
+    "patro",
+    "sanay",
+    "sene",
+    "tahir",
+    "taleb",
+    "tedbi",
+    "vurgu",
+    "yönet",
+    "zen",
+    "zengi",
+    "özell",
+    "şirke"
+   ],
+   "at": "2026-11-11T12:10:52.509921+00:00"
   }
  ],
  "posted": [
@@ -14027,13 +14076,11 @@
   "9c6fa5ad7b": 1,
   "d5a98b9ce2": 1,
   "0e691f91cb": 1,
-  "80e89fbdcf": 2,
-  "dec141e6ff": 1
+  "dec141e6ff": 1,
+  "569e02df9e": 1,
+  "b0a053c140": 1
  },
  "fail_log": [
-  "2026-11-11T11:24 Genç ailelere bebek müjdesi: Evlilik desteği alanlara yeni d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:27 Joe Biden'a İrlanda'da Filistin protestosu: Üzerine süt kutu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T11:27 Meclis'te bomba iddia: AKP Genel Merkez çalışanlarının maaşı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:27 Gazze’deki katliamları anlatan “NAZA” yılın en çok izlenen b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:31 A Milli Takım'da sakatlık şoku: Kadrodan çıkarıldı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T11:31 Meclis'te bomba iddia: AKP Genel Merkez çalışanlarının maaşı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14070,7 +14117,10 @@
   "2026-11-11T12:04 Hattat Maden’de 520 işçinin eylemi 9’uncu gününde: Maaş ve i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:07 Peru'da 1600 yıllık mezarlıkta tek gözlü bebek iskeleti bulu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T12:07 Doğu Ergil yazdı: Fon skandalı açısından kamu ahlâkı ve yols -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T12:07 Fon vurgunu soruşturması: Türkiye'nin en zengin 62'nci ismi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T12:07 Fon vurgunu soruşturması: Türkiye'nin en zengin 62'nci ismi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:10 Fon vurgunu soruşturması: Türkiye'nin en zengin 62'nci ismi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:10 Parada imzası olan dördüncü bürokrat da gitti: Kilimci, Şene -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T12:10 Kuzey Marmara Otoyolu’ndaki kazada tıbbi atıklar yola saçıld -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
