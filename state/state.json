@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alman",
-    "bağım",
-    "birgü",
-    "dayan",
-    "demok",
-    "gelec",
-    "medya",
-    "savun"
-   ],
-   "tok": [
-    "alman",
-    "amacı",
-    "aydın",
-    "baskı",
-    "bağım",
-    "birgü",
-    "cezae",
-    "daki",
-    "dayan",
-    "dedir",
-    "demok",
-    "deste",
-    "dikka",
-    "durum",
-    "düzen",
-    "etkin",
-    "gazet",
-    "gelec",
-    "karşı",
-    "konse",
-    "konuş",
-    "koord",
-    "medya",
-    "mücad",
-    "olmak",
-    "savun",
-    "sürdü",
-    "tesli",
-    "vurgu",
-    "yapan",
-    "yayın",
-    "yaşar",
-    "çekil",
-    "önemi"
-   ],
-   "at": "2026-11-10T03:08:43.331205+00:00"
-  },
-  {
-   "fp": [
     "boğaz",
     "darp",
     "kapıs",
@@ -14664,12 +14615,11 @@
   "16e4a14e1d": 1,
   "a863efffcd": 1,
   "d61c79b889": 1,
-  "9e79569566": 1
+  "9e79569566": 2,
+  "49cfebdfdc": 1,
+  "14c2936cf6": 1
  },
  "fail_log": [
-  "2026-11-11T14:10 Bloomberg'den fon skandalı analizi: Sorun sadece tutuklamala -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:13 Adana'da tehlikeye davetiye: 2 kişilik motosiklette kasksız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T14:13 Fethiye'de toprak kayması: Teleferik otoparkının istinat duv -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:13 18 işçi hayatını kaybetmişti: İzmir Barosu'ndan HABAŞ patlam -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:17 Adana'da tehlikeye davetiye: 2 kişilik motosiklette kasksız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T14:17 Fethiye'de toprak kayması: Teleferik otoparkının istinat duv -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14706,7 +14656,10 @@
   "2026-11-11T15:04 Galatasaray'da devre arası transfer listesi şekilleniyor: Ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:08 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:08 Araştırma: Alman ordusunda kadın askerlerin yüzde 60'ından f -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:08 Galatasaray'da devre arası transfer listesi şekilleniyor: Ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T15:08 Galatasaray'da devre arası transfer listesi şekilleniyor: Ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:11 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:11 Araştırma: Alman ordusunda kadın askerlerin yüzde 60'ından f -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:11 Melih Gökçek'in acı günü! Sosyal medya hesabından duyurdu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
