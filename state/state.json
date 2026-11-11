@@ -2,37 +2,6 @@
  "seen": [
   {
    "fp": [
-    "8",
-    "cafer",
-    "dalga",
-    "gözal",
-    "ikinc",
-    "mahir",
-    "opera",
-    "soruş"
-   ],
-   "tok": [
-    "alınd",
-    "başsa",
-    "cafer",
-    "eskiş",
-    "geliş",
-    "ikinc",
-    "izmir",
-    "kapsa",
-    "mahir",
-    "nın",
-    "sürüy",
-    "talim",
-    "veril",
-    "yönel",
-    "yürüt",
-    "çalış"
-   ],
-   "at": "2026-11-10T06:08:35.196136+00:00"
-  },
-  {
-   "fp": [
     "5",
     "aralı",
     "açıkl",
@@ -12571,6 +12540,43 @@
     "üyesi"
    ],
    "at": "2026-11-11T18:07:22.250525+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "aksoy",
+    "arayı",
+    "murat",
+    "neden",
+    "semih",
+    "siste",
+    "toplu",
+    "turan",
+    "türki",
+    "çürüm"
+   ],
+   "tok": [
+    "aksoy",
+    "anoma",
+    "arayı",
+    "değer",
+    "güven",
+    "medya",
+    "murat",
+    "neden",
+    "semih",
+    "siste",
+    "siyas",
+    "sosya",
+    "tartı",
+    "toplu",
+    "turan",
+    "çares",
+    "çürüm",
+    "öğren",
+    "üzeri"
+   ],
+   "at": "2026-11-11T18:10:42.579108+00:00"
   }
  ],
  "posted": [
@@ -15393,13 +15399,10 @@
   "e46389ecb5": 1,
   "3aeceb9fce": 1,
   "a34b628508": 1,
-  "e877116172": 2,
-  "f6f98eb59a": 1
+  "f6f98eb59a": 2,
+  "1c4c3b79ef": 1
  },
  "fail_log": [
-  "2026-11-11T17:20 Akın Gürlek dokuz ayda verilen bütün soru önergelerini yanıt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:23 Burhanettin Duran: Türkiye diplomasinin merkezinde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:23 İran, saldırı sinyali verdi: Hedef ABD'nin Avrupa'daki asker -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:23 SES‘ten bütçe tepkisi: Sosyal hizmetler hak temelli olmalıdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:27 İran, saldırı sinyali verdi: Hedef ABD'nin Avrupa'daki asker -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:27 SES‘ten bütçe tepkisi: Sosyal hizmetler hak temelli olmalıdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15436,12 +15439,15 @@
   "2026-11-11T18:04 CHP'de istifalar sürüyor: PM Üyesi Saniye Barut YENİ Parti'y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:07 Kumandadan kanal arama devri bitti: Türk izleyicisinin terci -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T18:07 Murat Aksoy ile Yeni Arayış (2) | Semih Turan: “Türkiye’de t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T18:07 CHP'de istifalar sürüyor: PM Üyesi Saniye Barut YENİ Parti'y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T18:07 CHP'de istifalar sürüyor: PM Üyesi Saniye Barut YENİ Parti'y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:10 Sergen Yalçın: \"Sevinmek istiyoruz. Mutlu olmak istiyoruz, m -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:10 Kumandadan kanal arama devri bitti: Türk izleyicisinin terci -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T18:10 Murat Aksoy ile Yeni Arayış (2) | Semih Turan: “Türkiye’de t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120576409508933715",
+   "since_id": "2120579402140712980",
    "started": true
   },
   "ajansmuhbir1923": {
