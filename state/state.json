@@ -12032,6 +12032,48 @@
     "ölümü"
    ],
    "at": "2026-11-11T15:48:15.397254+00:00"
+  },
+  {
+   "fp": [
+    "butla",
+    "deste",
+    "dokun",
+    "kürsü",
+    "mhp",
+    "mille",
+    "olmal",
+    "sınır"
+   ],
+   "tok": [
+    "biz",
+    "biçim",
+    "butla",
+    "chp",
+    "deste",
+    "dokun",
+    "esas",
+    "gerek",
+    "iktid",
+    "ilişk",
+    "inanı",
+    "kürsü",
+    "mhp",
+    "mille",
+    "mutla",
+    "müsli",
+    "nin",
+    "olmal",
+    "ortağ",
+    "sarı",
+    "sinde",
+    "sinin",
+    "sözcü",
+    "sınır",
+    "tartı",
+    "yönet",
+    "çağrı"
+   ],
+   "at": "2026-11-11T15:56:23.259879+00:00"
   }
  ],
  "posted": [
@@ -14839,13 +14881,11 @@
   "ad2c2ece1a": 1,
   "68ced0a553": 1,
   "2712e0fc80": 1,
-  "1b30f05fa1": 2,
-  "d862334257": 1
+  "d862334257": 1,
+  "49cfebdfdc": 1,
+  "02a06078d6": 1
  },
  "fail_log": [
-  "2026-11-11T15:04 Galatasaray'da devre arası transfer listesi şekilleniyor: Ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:08 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:08 Araştırma: Alman ordusunda kadın askerlerin yüzde 60'ından f -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:08 Galatasaray'da devre arası transfer listesi şekilleniyor: Ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:11 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:11 Araştırma: Alman ordusunda kadın askerlerin yüzde 60'ından f -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -14882,7 +14922,10 @@
   "2026-11-11T15:44 Mutlak butlan yönetiminin sözcüsünden MHP'ye destek: \"Millet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:48 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T15:48 Mutlak butlan yönetiminin sözcüsünden MHP'ye destek: \"Millet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T15:48 İBB Meclisi'nde 20 ilçenin 2027 yılı bütçesi onaylandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T15:48 İBB Meclisi'nde 20 ilçenin 2027 yılı bütçesi onaylandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:56 Butlan CHP’sinden iktidar ortağı MHP'nin çağrısına destek: ‘ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:56 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T15:56 Aksaray'da otomobille motosiklet çarpıştı: 2'si ağır, 3 kişi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
