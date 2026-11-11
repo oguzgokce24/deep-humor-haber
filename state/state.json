@@ -12337,6 +12337,75 @@
     "çevre"
    ],
    "at": "2026-11-11T17:17:17.481209+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "gözal",
+    "okul",
+    "çıkış"
+   ],
+   "tok": [
+    "aktı",
+    "aletl",
+    "bitti",
+    "hasta",
+    "ilgil",
+    "kan",
+    "kavga",
+    "kesic",
+    "küçük",
+    "lise",
+    "lisel",
+    "metre",
+    "okul",
+    "olayl",
+    "pendi",
+    "tartı",
+    "uzağı",
+    "yakla",
+    "yaşın",
+    "yerle",
+    "çıkan",
+    "çıkış",
+    "öğren"
+   ],
+   "at": "2026-11-11T17:20:34.057661+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "akın",
+    "ayda",
+    "bütçe",
+    "bırak",
+    "görüş",
+    "gürle",
+    "soru",
+    "sorul",
+    "verec",
+    "veril",
+    "yanıt",
+    "yazıl",
+    "önerg"
+   ],
+   "tok": [
+    "akın",
+    "ayda",
+    "bütçe",
+    "bırak",
+    "görüş",
+    "gürle",
+    "medya",
+    "soru",
+    "sorul",
+    "verec",
+    "veril",
+    "yanıt",
+    "yazıl",
+    "önerg"
+   ],
+   "at": "2026-11-11T17:20:34.402293+00:00"
   }
  ],
  "posted": [
@@ -15148,17 +15217,12 @@
   "35b916135f": 1,
   "aa9e62bcba": 1,
   "caa5cc1178": 1,
-  "5d49b3f1e6": 2,
   "2a1e07bc08": 1,
   "4098bcc3e5": 1,
   "0a3fc7f282": 1,
-  "1ed8c213a7": 2,
-  "c9965c4876": 1
+  "c9965c4876": 2
  },
  "fail_log": [
-  "2026-11-11T16:26 Galatasaray Başkan Yardımcısından Osimhen için şoke eden açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:30 Yeni Partili Günaydın: Fon listeyi açıklamadığınız müddetçe  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T16:30 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:30 Akın Gürlek dokuz ayda verilen bütün soru önergelerini yanıt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:33 Genç doktorun şüpheli ölümü: Asistan hekim Dr. Pelin Pınar b -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T16:33 Gülermak'tan kritik KAP açıklaması: Pusula fonundaki hissele -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -15195,7 +15259,10 @@
   "2026-11-11T17:13 Sevda Karaca: Bakanlık bütçesi kadınlar için değil iktidar ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:17 Burhanettin Duran: Türkiye diplomasinin merkezinde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-11T17:17 Okul çıkışında kan aktı... 17 yaşındaki öğrenci yaralandı: 4 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-11T17:17 Sevda Karaca: Bakanlık bütçesi kadınlar için değil iktidar ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-11T17:17 Sevda Karaca: Bakanlık bütçesi kadınlar için değil iktidar ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:20 Burhanettin Duran: Türkiye diplomasinin merkezinde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:20 Okul çıkışında kan aktı... 17 yaşındaki öğrenci yaralandı: 4 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-11T17:20 Akın Gürlek dokuz ayda verilen bütün soru önergelerini yanıt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
