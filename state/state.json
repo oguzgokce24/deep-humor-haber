@@ -2,57 +2,6 @@
  "seen": [
   {
    "fp": [
-    "arınc",
-    "istif",
-    "kurul",
-    "telek",
-    "türk",
-    "yunus",
-    "yönet"
-   ],
-   "tok": [
-    "adı",
-    "alına",
-    "alınm",
-    "appea",
-    "arınc",
-    "dan",
-    "diken",
-    "duyur",
-    "eski",
-    "etmiş",
-    "first",
-    "fon",
-    "genel",
-    "geçen",
-    "görev",
-    "ilgil",
-    "istif",
-    "işlem",
-    "kap",
-    "kapsa",
-    "kasım",
-    "kurul",
-    "linka",
-    "müdür",
-    "piyas",
-    "post",
-    "serma",
-    "site",
-    "skand",
-    "takas",
-    "telek",
-    "the",
-    "yaptı",
-    "yunus",
-    "yönet",
-    "üyeli",
-    "üyesi"
-   ],
-   "at": "2026-11-09T12:10:37.646678+00:00"
-  },
-  {
-   "fp": [
     "5",
     "den",
     "edile",
@@ -11102,20 +11051,63 @@
     "üzeri"
    ],
    "at": "2026-11-11T00:00:44.118235+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "fon",
+    "soruş",
+    "taleb",
+    "tutuk"
+   ],
+   "tok": [
+    "adli",
+    "adliy",
+    "adres",
+    "aile",
+    "ali",
+    "arınc",
+    "betül",
+    "ceza",
+    "daki",
+    "diğer",
+    "dosya",
+    "eski",
+    "fatma",
+    "fon",
+    "geliş",
+    "genel",
+    "gönde",
+    "gülka",
+    "hakim",
+    "hapsi",
+    "isted",
+    "isten",
+    "kasım",
+    "kaya",
+    "kontr",
+    "murat",
+    "müdür",
+    "paslı",
+    "polit",
+    "savcı",
+    "sayan",
+    "serbe",
+    "sevk",
+    "sosya",
+    "sulh",
+    "takas",
+    "taleb",
+    "talep",
+    "yayın",
+    "yazıs",
+    "yunus",
+    "ömer"
+   ],
+   "at": "2026-11-11T00:13:30.902794+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a794d26536",
-   "post_id": "529346797199852_1462226509350390",
-   "title": "Kürsüde konuşurken verilen not, savunma bakanını kızdırdı: Uluslararası hukuka saygısızlık!",
-   "at": "2026-11-09T00:07:06.123677+00:00",
-   "yazim": "claude",
-   "metin": "Filipinler Savunma Bakanı Gilberto Teodoro Jr., Seul'deki bir savunma oturumunda kürsüye gelen Çin notunu salonda yüksek sesle okudu ve Pekin'i sert dille eleştirdi.\n\nFilipinler Savunma Bakanı Teodoro:\n\n“Elimde bir not var ve sanırım bu Çin'den geldi.” (...) “Kürsüde bana bir soru yöneltilirken elime tutuşturulacak doğru kağıt bu mu?”\n\n— Soru yanıtlanırken kürsüye Çin kaynaklı bir not bırakıldı. Notta, 2016'da Lahey'deki tahkim mahkemesinin Güney Çin Denizi kararını yok sayan Pekin'in tezleri yer alıyordu.\n\n— Teodoro, metni heyetlerin önünde okuyarak her iddiayı uluslararası sözleşmelerle çürüttü.\n\n— Pekin, tahkim kararını tanımayı reddetmeye ve bölgedeki adacıklarda askeri varlığını artırmaya devam ediyor.",
-   "sources": [
-    "Karar: https://www.karar.com/karar-tv/cin-filipinler-gerilimi-nasil-basladi-guney-cin-denizi-krizi-nedir-filipinler-2083049"
-   ]
-  },
   {
    "id": "5785626fee",
    "post_id": "529346797199852_1462233166016391",
@@ -13683,6 +13675,20 @@
    "metin": "Tesla, Türkiye'de 150 bin kilometrenin altındaki denetlenmiş ikinci el elektrikli araçları garantiyle satışa sundu.\n\n— Satış doğrudan Tesla üzerinden yapılıyor, aracı kurumlar devreden çıkarılmış.\n— Araçlar Tesla teknisyenlerince denetleniyor, bakımları yapılıp yenileniyor ve hasar geçmişi kontrol ediliyor.\n— Yeni araç garantisinin üzerine 1 yıl ya da 20 bin kilometre ek garanti veriliyor.\n— \"Takas\" programıyla eski araç yeni bir Tesla siparişinde değerlendiriliyor ve eski araç teslim alındıktan sonra aynı gün yeni araçla yola çıkılabiliyor.",
    "sources": [
     "Karar: https://www.karar.com/ekonomi-haberleri/ikinci-el-tesla-nereden-alinir-sertifikali-ikinci-el-tesla-nasil-2083477"
+   ]
+  },
+  {
+   "id": "9ab8978736",
+   "post_id": "529346797199852_1464651329107908",
+   "title": "Fon soruşturmasında Takasbank Genel Müdürü için tutuklama istendi",
+   "at": "2026-11-11T00:13:30.902794+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'daki fon soruşturmasında gözaltındaki 7 kişi adliyeye sevk edildi. Eski Takasbank Genel Müdürü Yunus Arıncı, Murat Ömer Gülkan ve Ali Paslı için tutuklama talep edildi.\n\n— Diğer 4 kişi için adli kontrol istendi.\n\n— Dosyalar Sulh Ceza Hakimliği'ne gönderildi.\n\n— Soruşturmada daha önce eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya 6 Kasım'da tutuklanmıştı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/fon-sorusturmasinda-yeni-gelisme-3-supheliye-tutuklama-4-supheliye-ev-hapsi-talebi-3491705",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-3-tutuklama-talebi-3926391",
+    "Sözcü: https://www.sozcu.com.tr/fon-sorusturmasinda-3-kisiye-tutuklama-talebi-p380059",
+    "Serbestiyet: https://serbestiyet.com/haberler/fon-sorusturmasinda-takasbank-genel-muduru-icin-tutuklama-istendi-253337/"
    ]
   }
  ],
