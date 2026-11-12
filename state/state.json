@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ameli",
-    "girdi",
-    "gires",
-    "iddia",
-    "perso",
-    "soruş",
-    "temiz"
-   ],
-   "tok": [
-    "ada",
-    "adli",
-    "ameli",
-    "aydın",
-    "başhe",
-    "başla",
-    "cenap",
-    "cerra",
-    "damcı",
-    "eğiti",
-    "girdi",
-    "gires",
-    "görev",
-    "hasta",
-    "idari",
-    "iddia",
-    "incel",
-    "işlem",
-    "katıl",
-    "konuy",
-    "mesut",
-    "müfet",
-    "nde",
-    "olmad",
-    "parti",
-    "perso",
-    "redde",
-    "sağlı",
-    "sürdü",
-    "temiz",
-    "tıbbi",
-    "yardı",
-    "yetki",
-    "zafer",
-    "çalış",
-    "öne",
-    "özel",
-    "üzere"
-   ],
-   "at": "2026-11-10T17:32:23.061674+00:00"
-  },
-  {
-   "fp": [
     "7",
     "abd",
     "aldat",
@@ -15730,6 +15678,86 @@
     "yer"
    ],
    "at": "2026-11-12T05:30:00.314323+00:00"
+  },
+  {
+   "fp": [
+    "belöz",
+    "emre",
+    "nun",
+    "trans"
+   ],
+   "tok": [
+    "arjan",
+    "belöz",
+    "den",
+    "direk",
+    "dorge",
+    "emre",
+    "fener",
+    "geliy",
+    "hamle",
+    "hazır",
+    "ndan",
+    "nene",
+    "nin",
+    "nun",
+    "orta",
+    "rotas",
+    "sahay",
+    "tekni",
+    "trans",
+    "yapma"
+   ],
+   "at": "2026-11-12T05:33:18.065349+00:00"
+  },
+  {
+   "fp": [
+    "babac",
+    "biz",
+    "deste",
+    "olduk",
+    "parti",
+    "siyas",
+    "sürec",
+    "terör",
+    "türki"
+   ],
+   "tok": [
+    "babac",
+    "bahçe",
+    "ben",
+    "bile",
+    "biz",
+    "dan",
+    "deki",
+    "den",
+    "deste",
+    "deva",
+    "erdoğ",
+    "gidec",
+    "gün",
+    "ihtim",
+    "ilişk",
+    "işler",
+    "lider",
+    "nin",
+    "olduk",
+    "olsa",
+    "parti",
+    "sayın",
+    "siyas",
+    "soruy",
+    "sözle",
+    "sürec",
+    "terör",
+    "verdi",
+    "yanıt",
+    "yüzde",
+    "zordu",
+    "çetre",
+    "çözüm"
+   ],
+   "at": "2026-11-12T05:33:18.764339+00:00"
   }
  ],
  "posted": [
@@ -18569,14 +18597,10 @@
   "36a42b4731": 2,
   "880732de06": 1,
   "75676d747e": 1,
-  "baa918a1d4": 2,
   "4d579019b9": 1,
-  "2d390e366f": 2
+  "1e419a9912": 1
  },
  "fail_log": [
-  "2026-11-12T04:39 Esfender Korkmaz: Yalnızca günü kurtarmaya bakabiliyoruz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T04:42 New York'ta bir bina kısmen çöktü: En az 1 kişi hayatını kay -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T04:42 Esfender Korkmaz: Yalnızca günü kurtarmaya bakabiliyoruz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T04:42 Zeynep Gürcanlı: Aliyev Tel Aviv'i karşısına almanın daha zo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T04:45 Galatasaray'da ocak operasyonu: Gidecekler ve gelecekler net -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T04:45 New York'ta bir bina kısmen çöktü: En az 1 kişi hayatını kay -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18613,7 +18637,10 @@
   "2026-11-12T05:26 Hediye Levent: Lübnan ve Suriye'deki İsrail işgali dünya gün -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:30 Emre Belözoğlu'nun ilk transferi belli oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:30 Hediye Levent: Lübnan ve Suriye'deki İsrail işgali dünya gün -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T05:30 Babacan: Terörsüz Türkiye sürecini ilk destekleyen siyasi pa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T05:30 Babacan: Terörsüz Türkiye sürecini ilk destekleyen siyasi pa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T05:33 Hem 7 dönemdir muhtar hem 40 yıllık usta: Sivaslı esnaf iki  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T05:33 Emre Belözoğlu'nun ilk transferi belli oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T05:33 Babacan: Terörsüz Türkiye sürecini ilk destekleyen siyasi pa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
