@@ -17023,6 +17023,44 @@
     "ölüyo"
    ],
    "at": "2026-11-12T14:00:39.316356+00:00"
+  },
+  {
+   "fp": [
+    "bıçak",
+    "giriş",
+    "kadın",
+    "kız",
+    "malat",
+    "okul",
+    "polis",
+    "saldı",
+    "çocuğ"
+   ],
+   "tok": [
+    "alınd",
+    "ateş",
+    "açtığ",
+    "bıçak",
+    "ekipl",
+    "giriş",
+    "görev",
+    "havay",
+    "ileri",
+    "kadın",
+    "kız",
+    "malat",
+    "okul",
+    "okulu",
+    "olay",
+    "sürül",
+    "sıras",
+    "çalış",
+    "çekti",
+    "çocuğ",
+    "öne",
+    "öğren"
+   ],
+   "at": "2026-11-12T14:04:03.943731+00:00"
   }
  ],
  "posted": [
@@ -19763,14 +19801,11 @@
   "4cae0db6f3": 1,
   "3c2af1f2b0": 1,
   "98b929b19b": 1,
-  "7565bdb754": 2,
   "c180290259": 1,
-  "8013fb3d21": 1
+  "8013fb3d21": 2,
+  "1c848fc95e": 1
  },
  "fail_log": [
-  "2026-11-12T13:16 AKP'li milletvekilinin kalbini durduran yanlış ilaç davasınd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T13:19 Çanakkale'de eski eşi tarafından bıçaklanan kadın hayatını k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T13:19 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:19 AKP'li milletvekilinin kalbini durduran yanlış ilaç davasınd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:22 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:22 AKP'li milletvekilinin kalbini durduran yanlış ilaç davasınd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19807,7 +19842,10 @@
   "2026-11-12T13:57 İstanbul için uyarılar art arda: Seferler iptal oldu, rüzgar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:00 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:00 Venezuela'dan COP31'de dikkat çeken sözler: Petrol endüstrim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T14:00 Mario Jardel'den uyuşturucu itirafı: Kokain kullandım ölüyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T14:00 Mario Jardel'den uyuşturucu itirafı: Kokain kullandım ölüyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:04 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:04 Venezuela'dan COP31'de dikkat çeken sözler: Petrol endüstrim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:04 YDS/2 sınav giriş belgesi yayımlandı: Sınav yerleri nasıl öğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
