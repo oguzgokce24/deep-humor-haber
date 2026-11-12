@@ -20437,12 +20437,11 @@
   "a07bb63ecd": 2,
   "a4c6b11609": 1,
   "048c09e922": 1,
-  "5841a0d9cf": 1
+  "5841a0d9cf": 2,
+  "4503d9a15d": 1,
+  "9c3e5da408": 1
  },
  "fail_log": [
-  "2026-11-12T16:03 Gümüşhane Üniversitesi'nde taciz iddiası. Öğretim üyesi açığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:06 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:06 'Evrenin en büyük haritası' hazırlanıyor: 900 milyondan fazl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:06 Tekirdağ'da iş cinayeti: Tesiste biyogaz çukuruna düşen işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:09 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:09 'Evrenin en büyük haritası' hazırlanıyor: 900 milyondan fazl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20479,7 +20478,10 @@
   "2026-11-12T16:50 Yanis Varoufakis Medyascope’a konuştu (2): “Bildiğimiz küres -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:54 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:54 Yanis Varoufakis Medyascope’a konuştu (2): “Bildiğimiz küres -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:54 YENİ Parti’de kurultay hazırlıkları tamamlandı: Butlan CHP's -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T16:54 YENİ Parti’de kurultay hazırlıkları tamamlandı: Butlan CHP's -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T16:57 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T16:57 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T16:57 İsrail Lübnan'da 'bütün ekosistemi mahvediyor': Buğday tarla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
