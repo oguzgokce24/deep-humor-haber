@@ -17717,6 +17717,93 @@
     "çevre"
    ],
    "at": "2026-11-12T17:14:37.120695+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "ağacı",
+    "işçis",
+    "kalan",
+    "kesil",
+    "orman"
+   ],
+   "tok": [
+    "altın",
+    "ağacı",
+    "bozte",
+    "cinay",
+    "deniz",
+    "devri",
+    "ilçes",
+    "işlet",
+    "işçis",
+    "kalan",
+    "kesil",
+    "kesim",
+    "mente",
+    "muğla",
+    "nde",
+    "nın",
+    "olay",
+    "orman",
+    "serka",
+    "sıras",
+    "yerin",
+    "çalış",
+    "çam",
+    "şefli"
+   ],
+   "at": "2026-11-12T17:21:17.670746+00:00"
+  },
+  {
+   "fp": [
+    "dan",
+    "emep",
+    "gelec",
+    "karac",
+    "sevda",
+    "tekin",
+    "tepki",
+    "yusuf",
+    "çocuk",
+    "ülken"
+   ],
+   "tok": [
+    "ahlak",
+    "aldı",
+    "antep",
+    "dan",
+    "değer",
+    "eleşt",
+    "emep",
+    "erdem",
+    "eğiti",
+    "gelec",
+    "hedef",
+    "huzur",
+    "işçil",
+    "karac",
+    "mesem",
+    "mille",
+    "milli",
+    "okull",
+    "sevda",
+    "siz",
+    "size",
+    "söyle",
+    "tekin",
+    "tepki",
+    "yok",
+    "yoksa",
+    "yusuf",
+    "çalan",
+    "çocuk",
+    "ölüml",
+    "ülken",
+    "üzeri",
+    "şidde"
+   ],
+   "at": "2026-11-12T17:21:18.528824+00:00"
   }
  ],
  "posted": [
@@ -20467,15 +20554,10 @@
   "048c09e922": 1,
   "9c3e5da408": 2,
   "f786bbee04": 2,
-  "0ca7b544ae": 2,
-  "5841a0d9cf": 2,
-  "4503d9a15d": 1,
+  "4503d9a15d": 2,
   "27cc2aff0e": 1
  },
  "fail_log": [
-  "2026-11-12T16:26 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:37 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:37 Bartın’da ücretleri ödenmeyen maden işçileri kendilerini oca -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:37 Karabat'tan Bakan Tekin'e tepki: \"Eğitimde devrim Londra’da  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:40 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:40 İBB davası... Murat Ongun: At içeri, korkut, yıldır, bezdir, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20512,7 +20594,10 @@
   "2026-11-12T17:14 EMEP’li Sevda Karaca’dan Yusuf Tekin’e tepki: Siz bu ülkenin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:17 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:17 Gazeteci: “Sizi Abdullah Çatlı’ya benzetiyorlar.” Hakan Fida -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T17:17 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T17:17 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:21 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:21 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:21 EMEP’li Sevda Karaca’dan Yusuf Tekin’e tepki: Siz bu ülkenin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
