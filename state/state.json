@@ -21837,12 +21837,11 @@
   "b7585d74cf": 1,
   "3e4f682712": 1,
   "06f8045a5d": 1,
-  "51bf7f3697": 1
+  "51bf7f3697": 2,
+  "3bb68afe05": 1,
+  "f8ea099c97": 1
  },
  "fail_log": [
-  "2026-11-12T20:43 Muhtar kapıyı kırıp, yangında mahsur kalan felçli vatandaşı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:46 Muhtar kapıyı kırıp, yangında mahsur kalan felçli vatandaşı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:46 Sabiha Gökçen Havalimanı'nda taksiciler birbirine girdi! 5 k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:46 Belçikalı yıldızlardan Arda Güler'e övgü: 'Bazı anlarda sade -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:51 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:51 Arjantin, Scaloni'nin sözleşmesini 2030'a kadar uzattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21879,7 +21878,10 @@
   "2026-11-12T21:25 İşçi katliamlarında yakınlarını kaybeden aileler: Gözlerinde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T21:29 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T21:29 Geçim sıkıntısı yaşayan yaşlı bir kadın TikTok'ta slime yayı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T21:29 HABAŞ’ın limanında ölen Raif Çatan’ın ağabeyi Aziz Çatan: ‘A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T21:29 HABAŞ’ın limanında ölen Raif Çatan’ın ağabeyi Aziz Çatan: ‘A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:32 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:32 HABAŞ’ın limanında ölen Raif Çatan’ın ağabeyi Aziz Çatan: ‘A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:32 Yeni Partinin ilk kurultayı hafta sonu | Gökhan Günaydın: İk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
