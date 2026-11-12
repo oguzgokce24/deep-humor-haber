@@ -21885,12 +21885,11 @@
   "b7585d74cf": 1,
   "3e4f682712": 1,
   "06f8045a5d": 1,
-  "ceb59b8ac8": 1
+  "ceb59b8ac8": 2,
+  "3bb68afe05": 1,
+  "909a9f6e54": 1
  },
  "fail_log": [
-  "2026-11-12T20:55 Belçikalı yıldızlardan Arda Güler'e övgü: 'Bazı anlarda sade -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:58 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:58 ABD'li senatörlerden, Trump'ın İran'a yönelik saldırılarını  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:58 Arjantin, Scaloni'nin sözleşmesini 2030'a kadar uzattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T21:02 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T21:02 Küresel uyarı: Fon depremi için ilk uyarıyı yapan küresel fi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21927,7 +21926,10 @@
   "2026-11-12T21:35 Yeni Partinin ilk kurultayı hafta sonu | Gökhan Günaydın: İk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T21:39 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T21:39 Yeni Partinin ilk kurultayı hafta sonu | Gökhan Günaydın: İk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T21:39 ‘Sadece gazetecilik yaptı, neyi savunacağız ki?’ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T21:39 ‘Sadece gazetecilik yaptı, neyi savunacağız ki?’ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:42 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:42 ‘Sadece gazetecilik yaptı, neyi savunacağız ki?’ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:42 19 tabut 1 yalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
