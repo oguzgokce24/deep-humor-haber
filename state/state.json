@@ -17918,6 +17918,96 @@
     "çıkar"
    ],
    "at": "2026-11-12T18:33:12.719324+00:00"
+  },
+  {
+   "fp": [
+    "ahmet",
+    "dönem",
+    "holdi",
+    "nazif",
+    "nun",
+    "olgun",
+    "zorlu"
+   ],
+   "tok": [
+    "ahmet",
+    "ardın",
+    "atama",
+    "bekle",
+    "değiş",
+    "dijit",
+    "dönem",
+    "düzey",
+    "gelen",
+    "gerçe",
+    "görev",
+    "holdi",
+    "inova",
+    "isim",
+    "kasım",
+    "kurul",
+    "merak",
+    "model",
+    "nazif",
+    "nun",
+    "olgun",
+    "seçil",
+    "vefat",
+    "vekil",
+    "verim",
+    "yana",
+    "yerin",
+    "yönet",
+    "yürüt",
+    "yılın",
+    "zorlu",
+    "üst"
+   ],
+   "at": "2026-11-12T18:39:59.464975+00:00"
+  },
+  {
+   "fp": [
+    "cevad",
+    "preka",
+    "uğurl"
+   ],
+   "tok": [
+    "aldı",
+    "anısı",
+    "başke",
+    "belgr",
+    "cenaz",
+    "cevad",
+    "dile",
+    "duala",
+    "duvar",
+    "düzen",
+    "efsan",
+    "forma",
+    "futbo",
+    "galat",
+    "getir",
+    "isteğ",
+    "kasım",
+    "nda",
+    "nin",
+    "parti",
+    "preka",
+    "resmi",
+    "stadı",
+    "sırbi",
+    "unutu",
+    "uğurl",
+    "veda",
+    "vefat",
+    "yapıl",
+    "yaşın",
+    "yer",
+    "yerin",
+    "yolcu",
+    "yılla"
+   ],
+   "at": "2026-11-12T18:40:01.586610+00:00"
   }
  ],
  "posted": [
@@ -20670,18 +20760,13 @@
   "f786bbee04": 2,
   "27cc2aff0e": 1,
   "09c8951edd": 1,
-  "88d467cd1b": 2,
   "e40b7f2dd6": 1,
   "4503d9a15d": 2,
   "4f19b45f7a": 1,
-  "cc157e414b": 2,
   "5841a0d9cf": 1,
-  "dcdb666dd6": 1
+  "dcdb666dd6": 2
  },
  "fail_log": [
-  "2026-11-12T17:28 Zorlu Holding'de yeni dönem: Ahmet Nazif Zorlu'nun ardından  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T17:55 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T17:55 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:55 Necati Özkan'dan 'rüşvet itirafı' suç duyurusu: \"Benim yaptı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:59 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:59 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20718,12 +20803,15 @@
   "2026-11-12T18:33 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T18:36 Zorlu Holding'de yeni dönem: Ahmet Nazif Zorlu'nun ardından  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T18:36 Prekazi'ye dualarla veda: Galatasaray formasıyla uğurlandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T18:36 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T18:36 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T18:40 Zorlu Holding'de yeni dönem: Ahmet Nazif Zorlu'nun ardından  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T18:40 Prekazi'ye dualarla veda: Galatasaray formasıyla uğurlandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T18:40 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120945017217032441",
+   "since_id": "2120949070462423272",
    "started": true
   },
   "ajansmuhbir1923": {
