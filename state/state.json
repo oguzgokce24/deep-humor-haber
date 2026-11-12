@@ -17651,6 +17651,52 @@
     "şefli"
    ],
    "at": "2026-11-12T17:01:01.058878+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "beyaz",
+    "kişi",
+    "saldı",
+    "saray",
+    "sesle",
+    "silah",
+    "vurul",
+    "yakın"
+   ],
+   "tok": [
+    "abd",
+    "arark",
+    "bazı",
+    "başke",
+    "beyaz",
+    "bölge",
+    "circl",
+    "civar",
+    "düzen",
+    "gerek",
+    "güven",
+    "henüz",
+    "intih",
+    "kapat",
+    "kilom",
+    "logan",
+    "nin",
+    "okull",
+    "paniğ",
+    "saray",
+    "semti",
+    "sesle",
+    "silah",
+    "uzakl",
+    "vurul",
+    "washi",
+    "yakla",
+    "yakın",
+    "çatış",
+    "çevre"
+   ],
+   "at": "2026-11-12T17:04:27.168894+00:00"
   }
  ],
  "posted": [
@@ -20399,13 +20445,11 @@
   "a07bb63ecd": 2,
   "a4c6b11609": 1,
   "048c09e922": 1,
-  "4503d9a15d": 2,
-  "9c3e5da408": 2
+  "9c3e5da408": 2,
+  "5841a0d9cf": 1,
+  "f786bbee04": 1
  },
  "fail_log": [
-  "2026-11-12T16:09 Tekirdağ'da iş cinayeti: Tesiste biyogaz çukuruna düşen işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:12 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:12 Karabat'tan Bakan Tekin'e tepki: \"Eğitimde devrim Londra’da  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:12 YENİ Parti’de kurultay hazırlıkları tamamlandı: Butlan CHP's -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:16 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:16 Son Dakika. İHA: Malatya'da helikopter düştü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20442,7 +20486,10 @@
   "2026-11-12T16:57 İsrail Lübnan'da 'bütün ekosistemi mahvediyor': Buğday tarla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:01 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:01 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T17:01 İsrail Lübnan'da 'bütün ekosistemi mahvediyor': Buğday tarla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T17:01 İsrail Lübnan'da 'bütün ekosistemi mahvediyor': Buğday tarla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:04 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:04 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:04 EMEP’li Sevda Karaca’dan Yusuf Tekin’e tepki: Siz bu ülkenin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
