@@ -16980,6 +16980,49 @@
     "öğren"
    ],
    "at": "2026-11-12T13:53:46.323795+00:00"
+  },
+  {
+   "fp": [
+    "den",
+    "itira",
+    "jarde",
+    "kokai",
+    "kulla",
+    "mario",
+    "uyuşt",
+    "ölüyo"
+   ],
+   "tok": [
+    "aldım",
+    "aşırı",
+    "biliy",
+    "boyun",
+    "den",
+    "dopin",
+    "doz",
+    "eski",
+    "galat",
+    "golcü",
+    "hafta",
+    "hisse",
+    "hiç",
+    "itira",
+    "jarde",
+    "kendi",
+    "keres",
+    "kokai",
+    "kontr",
+    "kulla",
+    "mario",
+    "nered",
+    "olmad",
+    "tatil",
+    "uyuma",
+    "uyuşt",
+    "yanım",
+    "ölüyo"
+   ],
+   "at": "2026-11-12T14:00:39.316356+00:00"
   }
  ],
  "posted": [
@@ -19720,14 +19763,11 @@
   "4cae0db6f3": 1,
   "3c2af1f2b0": 1,
   "98b929b19b": 1,
-  "7b9a4b2fbe": 2,
-  "7565bdb754": 1,
-  "c180290259": 1
+  "7565bdb754": 2,
+  "c180290259": 1,
+  "8013fb3d21": 1
  },
  "fail_log": [
-  "2026-11-12T13:12 Fernando Muslera'dan büyük final öncesi flaş karar: Kulüp ba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T13:16 Çanakkale'de eski eşi tarafından bıçaklanan kadın hayatını k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T13:16 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:16 AKP'li milletvekilinin kalbini durduran yanlış ilaç davasınd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:19 Çanakkale'de eski eşi tarafından bıçaklanan kadın hayatını k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:19 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19764,7 +19804,10 @@
   "2026-11-12T13:53 Mario Jardel'den uyuşturucu itirafı: Kokain kullandım ölüyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:57 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:57 Mario Jardel'den uyuşturucu itirafı: Kokain kullandım ölüyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T13:57 İstanbul için uyarılar art arda: Seferler iptal oldu, rüzgar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T13:57 İstanbul için uyarılar art arda: Seferler iptal oldu, rüzgar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:00 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:00 Venezuela'dan COP31'de dikkat çeken sözler: Petrol endüstrim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:00 Mario Jardel'den uyuşturucu itirafı: Kokain kullandım ölüyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
