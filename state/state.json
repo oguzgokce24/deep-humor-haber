@@ -18782,6 +18782,47 @@
     "çıkan"
    ],
    "at": "2026-11-12T20:46:39.848884+00:00"
+  },
+  {
+   "fp": [
+    "alkış",
+    "anlar",
+    "arda",
+    "bazı",
+    "belçi",
+    "güler",
+    "rakib",
+    "sadec",
+    "yıldı",
+    "övgü"
+   ],
+   "tok": [
+    "alkış",
+    "anlar",
+    "arda",
+    "ardın",
+    "bazı",
+    "belçi",
+    "bruyn",
+    "forma",
+    "futbo",
+    "giyen",
+    "güler",
+    "karşı",
+    "kevin",
+    "konuş",
+    "lamme",
+    "mağlu",
+    "milli",
+    "rakib",
+    "sadec",
+    "sahas",
+    "senne",
+    "takım",
+    "yıldı",
+    "övgü"
+   ],
+   "at": "2026-11-12T20:55:15.418079+00:00"
   }
  ],
  "posted": [
@@ -21542,14 +21583,10 @@
   "b8ef351855": 1,
   "e8ba8e9e1b": 1,
   "b7585d74cf": 1,
-  "4f09a7f32f": 2,
-  "3bb68afe05": 1,
-  "920c2ad6fb": 1
+  "3bb68afe05": 2,
+  "920c2ad6fb": 2
  },
  "fail_log": [
-  "2026-11-12T20:06 Cumhurbaşkanı Erdoğan'dan dünya liderlerine çağrı: 1,5 derec -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:09 İran'da yeni saldırı: Sirik hedef alındı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:09 İsrail, Fransa cumhurbaşkanı adayı Melenchon'un ülkeye giriş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:09 Yunus Akgün: 'Olumlu havayı hocamızla zaman geçtikçe sahaya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:12 İran'da yeni saldırı: Sirik hedef alındı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:12 Pompalı dehşeti: Kaldırımda yürüyenlere kurşun yağdırdı! Ölü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21586,7 +21623,10 @@
   "2026-11-12T20:46 Belçikalı yıldızlardan Arda Güler'e övgü: 'Bazı anlarda sade -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:51 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:51 Arjantin, Scaloni'nin sözleşmesini 2030'a kadar uzattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:51 Belçikalı yıldızlardan Arda Güler'e övgü: 'Bazı anlarda sade -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T20:51 Belçikalı yıldızlardan Arda Güler'e övgü: 'Bazı anlarda sade -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:55 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:55 Arjantin, Scaloni'nin sözleşmesini 2030'a kadar uzattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:55 Belçikalı yıldızlardan Arda Güler'e övgü: 'Bazı anlarda sade -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
