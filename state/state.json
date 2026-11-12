@@ -18397,6 +18397,55 @@
     "üreti"
    ],
    "at": "2026-11-12T19:43:43.394298+00:00"
+  },
+  {
+   "fp": [
+    "bana",
+    "benim",
+    "dan",
+    "duyur",
+    "göste",
+    "itira",
+    "necat",
+    "rüşve",
+    "suç",
+    "veril",
+    "yaptı",
+    "ödeme",
+    "özkan"
+   ],
+   "tok": [
+    "aldığ",
+    "ayrı",
+    "bana",
+    "bedel",
+    "belge",
+    "belir",
+    "benim",
+    "bulun",
+    "daire",
+    "dan",
+    "duyur",
+    "göste",
+    "haber",
+    "ifade",
+    "itira",
+    "kurul",
+    "medya",
+    "necat",
+    "rüşve",
+    "satın",
+    "sundu",
+    "suç",
+    "tepki",
+    "veril",
+    "yaptı",
+    "ödedi",
+    "ödeme",
+    "özkan",
+    "şoför"
+   ],
+   "at": "2026-11-12T19:47:05.377839+00:00"
   }
  ],
  "posted": [
@@ -21148,17 +21197,14 @@
   "f786bbee04": 2,
   "27cc2aff0e": 1,
   "09c8951edd": 1,
-  "e40b7f2dd6": 2,
   "4503d9a15d": 2,
   "f28066f4b8": 1,
   "dcdb666dd6": 2,
   "a2131ddb6a": 1,
-  "ef388a59bc": 1
+  "ef388a59bc": 2,
+  "e77f178f16": 1
  },
  "fail_log": [
-  "2026-11-12T18:59 Meclis'e sunuldu: 2,2 milyon kişinin GSS borcu silinecek -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:02 İmamoğlu'ndan Silivri'de sert savunma: Bu dava çökmüştür, ad -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:02 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:02 Arda Güler'in füzesi yetmedi! Milliler galibiyete hasret: 1- -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:06 İmamoğlu'ndan Silivri'de sert savunma: Bu dava çökmüştür, ad -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:06 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21195,7 +21241,10 @@
   "2026-11-12T19:40 Saat farkı Yeni Zelandalı oyunculara yaradı: Gece yarısı yay -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:43 Necati Özkan'dan 'rüşvet itirafı' suç duyurusu: \"Benim yaptı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:43 Yunus Akgün: 'Olumlu havayı hocamızla zaman geçtikçe sahaya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:43 İsrail Lübnan'da 'bütün ekosistemi mahvediyor': Buğday tarla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T19:43 İsrail Lübnan'da 'bütün ekosistemi mahvediyor': Buğday tarla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:47 Gençler zor mesleklerden uzaklaştı: Almanya kişi başı göçmen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:47 Necati Özkan'dan 'rüşvet itirafı' suç duyurusu: \"Benim yaptı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:47 Yunus Akgün: 'Olumlu havayı hocamızla zaman geçtikçe sahaya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
