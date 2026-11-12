@@ -20446,13 +20446,11 @@
   "a4c6b11609": 1,
   "048c09e922": 1,
   "9c3e5da408": 2,
-  "5841a0d9cf": 1,
-  "f786bbee04": 1
+  "5841a0d9cf": 2,
+  "f786bbee04": 2,
+  "4503d9a15d": 1
  },
  "fail_log": [
-  "2026-11-12T16:12 YENİ Parti’de kurultay hazırlıkları tamamlandı: Butlan CHP's -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:16 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:16 Son Dakika. İHA: Malatya'da helikopter düştü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:16 Karabat'tan Bakan Tekin'e tepki: \"Eğitimde devrim Londra’da  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:19 Son Dakika. İHA: Malatya'da helikopter düştü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:19 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20489,7 +20487,10 @@
   "2026-11-12T17:01 İsrail Lübnan'da 'bütün ekosistemi mahvediyor': Buğday tarla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:04 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:04 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T17:04 EMEP’li Sevda Karaca’dan Yusuf Tekin’e tepki: Siz bu ülkenin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T17:04 EMEP’li Sevda Karaca’dan Yusuf Tekin’e tepki: Siz bu ülkenin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:07 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:07 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:07 EMEP’li Sevda Karaca’dan Yusuf Tekin’e tepki: Siz bu ülkenin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
