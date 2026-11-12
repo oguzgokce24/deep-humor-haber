@@ -14699,6 +14699,131 @@
     "ünive"
    ],
    "at": "2026-11-12T02:20:16.822446+00:00"
+  },
+  {
+   "fp": [
+    "boyu",
+    "hayat",
+    "manza",
+    "unuta"
+   ],
+   "tok": [
+    "alev",
+    "aynı",
+    "ağabe",
+    "belir",
+    "bilme",
+    "boyu",
+    "cenaz",
+    "değil",
+    "dna",
+    "fabri",
+    "ferha",
+    "fırat",
+    "kapla",
+    "koştu",
+    "manza",
+    "maraş",
+    "ortal",
+    "patla",
+    "taşıd",
+    "testi",
+    "unuta",
+    "yanın",
+    "yaşam",
+    "yitir",
+    "çalış"
+   ],
+   "at": "2026-11-12T02:30:04.293446+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "halı",
+    "istif",
+    "kurta",
+    "milya",
+    "süpür",
+    "vurgu"
+   ],
+   "tok": [
+    "adını",
+    "akp",
+    "altın",
+    "bddk",
+    "büyüy",
+    "ederk",
+    "edile",
+    "ediyo",
+    "fatur",
+    "fon",
+    "geçti",
+    "gider",
+    "halı",
+    "iddia",
+    "istif",
+    "kavcı",
+    "kesme",
+    "kurta",
+    "kurum",
+    "milya",
+    "muhal",
+    "saray",
+    "skand",
+    "sorum",
+    "süpür",
+    "talep",
+    "vekil",
+    "vurgu",
+    "yakın",
+    "yargı",
+    "yönet",
+    "çalış",
+    "şahap"
+   ],
+   "at": "2026-11-12T02:30:04.775825+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "9",
+    "birey",
+    "bitmi",
+    "hasta",
+    "kapı",
+    "otizm",
+    "rapor",
+    "çiles"
+   ],
+   "tok": [
+    "ailel",
+    "birey",
+    "bitmi",
+    "bürok",
+    "dokto",
+    "dolaş",
+    "dönüş",
+    "ediyo",
+    "engel",
+    "erişi",
+    "eziye",
+    "hakla",
+    "hasta",
+    "kalan",
+    "kaldı",
+    "kapı",
+    "olmas",
+    "otizm",
+    "rapor",
+    "sağlı",
+    "süres",
+    "talep",
+    "temel",
+    "yoruc",
+    "zorun",
+    "çiles"
+   ],
+   "at": "2026-11-12T02:30:05.256758+00:00"
   }
  ],
  "posted": [
@@ -17534,15 +17659,9 @@
   "e8acb74ce1": 1,
   "79582f57b5": 1,
   "75b25972f8": 1,
-  "07bba78d65": 1,
-  "60add1ce6a": 2,
-  "55cb08a8e1": 2,
-  "9f3e01f2c0": 2
+  "07bba78d65": 1
  },
  "fail_log": [
-  "2026-11-12T01:13 Emekli öğretim üyesi Prof. Dr. Armağan Erdoğan: Yükseköğreti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T01:16 Ali Koç’tan COP31’de enerji bağımsızlığı çağrısı: 'Enerjide  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T01:16 Vekillere yargı baskısı bütçe görüşmelerine de yansıdı: ‘Vek -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T01:16 Emekli öğretim üyesi Prof. Dr. Armağan Erdoğan: Yükseköğreti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T01:19 Ali Koç’tan COP31’de enerji bağımsızlığı çağrısı: 'Enerjide  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T01:19 Vekillere yargı baskısı bütçe görüşmelerine de yansıdı: ‘Vek -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -17579,7 +17698,10 @@
   "2026-11-12T02:23 İki hastanede dokuz kapı: Otizmli bireylerin rapor çilesi bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:26 \"O manzarayı hayat boyu unutamam\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:26 İstifa kurtarmaz: Milyarlık vurgun halı altına süpürülemez -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T02:26 İki hastanede dokuz kapı: Otizmli bireylerin rapor çilesi bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T02:26 İki hastanede dokuz kapı: Otizmli bireylerin rapor çilesi bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T02:30 \"O manzarayı hayat boyu unutamam\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T02:30 İstifa kurtarmaz: Milyarlık vurgun halı altına süpürülemez -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T02:30 İki hastanede dokuz kapı: Otizmli bireylerin rapor çilesi bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
