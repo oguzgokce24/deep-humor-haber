@@ -18763,12 +18763,11 @@
   "5de901861c": 1,
   "53214c7e0a": 2,
   "3f393d66ff": 2,
-  "44f09a9ba2": 1
+  "44f09a9ba2": 2,
+  "b554035ece": 1,
+  "56532c4067": 1
  },
  "fail_log": [
-  "2026-11-12T05:36 Şebnem Korur Fincancı: TTB'nin onur kurullarında 1700'ü aşkı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T05:39 Hem 7 dönemdir muhtar hem 40 yıllık usta: Sivaslı esnaf iki  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T05:39 TEM Otoyolu'nda İETT otobüsü alevlere teslim oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:39 Şebnem Korur Fincancı: TTB'nin onur kurullarında 1700'ü aşkı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:43 TEM Otoyolu'nda İETT otobüsü alevlere teslim oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:43 Şebnem Korur Fincancı: TTB'nin onur kurullarında 1700'ü aşkı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18805,7 +18804,10 @@
   "2026-11-12T06:24 Depo başına 177 TL indirim: Dün gece yarısı yürürlüğe girdi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T06:28 Güneş Sistemi’nin gizli sırrı çözüldü: Kıyıda ilkel su izler -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T06:28 Dünyanın en ölümcül deniz yolu artık Karadeniz: İstanbul Boğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T06:28 İzmir’de 17 milyon 712 bin makaron ele geçirildi: 3 tutuklam -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T06:28 İzmir’de 17 milyon 712 bin makaron ele geçirildi: 3 tutuklam -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:31 ABD, 17 yaş altı dünya kupasından çekildi: Gerekçe güvenlik -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:31 Altın güne düşüşle başladı: Gram, çeyrek ve Cumhuriyet altın -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:31 Dünyanın en ölümcül deniz yolu artık Karadeniz: İstanbul Boğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
