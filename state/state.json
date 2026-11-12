@@ -16290,6 +16290,46 @@
     "çıktı"
    ],
    "at": "2026-11-12T11:11:26.556601+00:00"
+  },
+  {
+   "fp": [
+    "17",
+    "abd",
+    "bodru",
+    "telev",
+    "tutuk",
+    "yaşın",
+    "yıldı",
+    "çocuğ",
+    "çıktı"
+   ],
+   "tok": [
+    "abd",
+    "başın",
+    "bodru",
+    "cinay",
+    "ilgil",
+    "ilçes",
+    "kavga",
+    "muham",
+    "muğla",
+    "nin",
+    "nın",
+    "porte",
+    "sert",
+    "telev",
+    "turis",
+    "yaşın",
+    "yıldı",
+    "zemin",
+    "çarpa",
+    "çocuğ",
+    "çıktı",
+    "öldür",
+    "öldüğ",
+    "ünlü"
+   ],
+   "at": "2026-11-12T11:14:47.891148+00:00"
   }
  ],
  "posted": [
@@ -19165,13 +19205,11 @@
   "1bd60c649a": 2,
   "0994d97712": 2,
   "06fdcdd25b": 1,
-  "9bceec58a0": 2,
-  "e1a383c1b4": 1
+  "e1a383c1b4": 1,
+  "9d79ff6e36": 1,
+  "c10aea6005": 1
  },
  "fail_log": [
-  "2026-11-12T10:22 Ağrı'da sabah saatlerinde hayvan borsasına getirilen büyükba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:25 Fon skandalının kilit isminin şüpheli ölümü yeniden gündemde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:25 Araştırma: Obezite tanımında vücut kitle indeksi yeterli değ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:25 57 yaşında yeniden üniversiteli oluyor: Beyazıt Öztürk hayal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:28 Fon skandalının kilit isminin şüpheli ölümü yeniden gündemde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:28 İstanbul'un yeşil dönüşüm faturası 100 milyar dolar! İBB: Er -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19208,7 +19246,10 @@
   "2026-11-12T11:08 Beyoğlu'nda inşaatta göçük: Yakınındaki bina tahliye edildi! -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:11 Bodrum'da 17 yaşında çocuğu öldüren turist ABD'de televizyon -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:11 Bavulundan 21 milyon liralık uyuşturucu çıktı: \"Samsun'a gez -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:11 Düzce'de 12 Kasım 1999'da meydana gelen 7,2 büyüklüğündeki d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T11:11 Düzce'de 12 Kasım 1999'da meydana gelen 7,2 büyüklüğündeki d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:14 Bodrum'da 17 yaşında çocuğu öldüren turist ABD'de televizyon -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:14 Emekli maaşı hesaplandı: En güçlü formül açıklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:14 Şanlıurfa’da tarihi çarşı rengarenk oldu: Fiyatı 250 TL’ye ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
