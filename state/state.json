@@ -16031,6 +16031,79 @@
     "yükse"
    ],
    "at": "2026-11-12T08:45:49.684273+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "beled",
+    "seçim"
+   ],
+   "tok": [
+    "adayı",
+    "aki",
+    "akp",
+    "aldı",
+    "ardın",
+    "barta",
+    "beled",
+    "doğan",
+    "görev",
+    "mecli",
+    "nin",
+    "osman",
+    "oylam",
+    "parti",
+    "seçim",
+    "tur",
+    "turda",
+    "uzakl",
+    "vekil",
+    "yapıl",
+    "yavuz",
+    "önde",
+    "şeniz"
+   ],
+   "at": "2026-11-12T08:55:38.666988+00:00"
+  },
+  {
+   "fp": [
+    "başla",
+    "görüy",
+    "haare",
+    "iran",
+    "koali",
+    "kuram",
+    "netan",
+    "savaş",
+    "yenid",
+    "yolu",
+    "çıkış"
+   ],
+   "tok": [
+    "başla",
+    "bloğu",
+    "değer",
+    "değiş",
+    "eisen",
+    "görüy",
+    "görüş",
+    "haare",
+    "iktid",
+    "iran",
+    "kalab",
+    "koali",
+    "kuram",
+    "netan",
+    "nun",
+    "planl",
+    "savaş",
+    "sürdü",
+    "yenid",
+    "yolu",
+    "çıkış",
+    "önder"
+   ],
+   "at": "2026-11-12T08:55:39.075760+00:00"
   }
  ],
  "posted": [
@@ -18888,15 +18961,10 @@
   "0cebbb39e9": 1,
   "3678b65b9d": 1,
   "6977d48929": 1,
-  "4c79b8f4d9": 2,
   "4a04a6b91d": 1,
-  "c31769fce2": 2,
-  "4c3c080665": 1
+  "4c3c080665": 2
  },
  "fail_log": [
-  "2026-11-12T07:44 Antalya'nın Manavgat ilçesinde park halindeki araca çarpan s -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T07:47 Kütahya'da iş cinayeti: İnşaattan düşen işçi hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T07:47 Tanrıkulu eylül ayı hak ihlali raporunu yayımladı: 171 işken -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T07:47 Putin, Trump'ın temsilcileriyle görüşecek: Kremlin'den açıkl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T07:50 Kütahya'da iş cinayeti: İnşaattan düşen işçi hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T07:50 Tanrıkulu eylül ayı hak ihlali raporunu yayımladı: 171 işken -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18933,12 +19001,15 @@
   "2026-11-12T08:49 Haaretz: Koalisyon kuramayan Netanyahu, İran'la yeniden sava -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T08:52 Belediye başkanı tutuklanmıştı: Başkanvekili seçimi yapılıyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T08:52 Haaretz: Koalisyon kuramayan Netanyahu, İran'la yeniden sava -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T08:52 İran: Hürmüz Boğazı’nda 2 süper tankerde patlama sonrası yan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T08:52 İran: Hürmüz Boğazı’nda 2 süper tankerde patlama sonrası yan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T08:55 Belediye başkanı tutuklanmıştı: Başkanvekili seçimi yapılıyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T08:55 Haaretz: Koalisyon kuramayan Netanyahu, İran'la yeniden sava -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T08:55 İran: Hürmüz Boğazı’nda 2 süper tankerde patlama sonrası yan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120800248503132666",
+   "since_id": "2120802371492077879",
    "started": true
   },
   "ajansmuhbir1923": {
