@@ -19076,6 +19076,51 @@
     "şehit"
    ],
    "at": "2026-11-12T21:29:11.556544+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "adale",
+    "aziz",
+    "ağabe",
+    "bekli",
+    "habaş",
+    "liman",
+    "raif",
+    "yıldı",
+    "çatan",
+    "ölen"
+   ],
+   "tok": [
+    "adale",
+    "ailen",
+    "artık",
+    "aziz",
+    "ağabe",
+    "bekli",
+    "bizim",
+    "cinay",
+    "habaş",
+    "hiçbi",
+    "kanat",
+    "kapan",
+    "liman",
+    "raif",
+    "sesim",
+    "yaram",
+    "yaşad",
+    "yaşam",
+    "yaşan",
+    "yenid",
+    "yeter",
+    "yitir",
+    "yükse",
+    "yıldı",
+    "yılın",
+    "çatan",
+    "ölen"
+   ],
+   "at": "2026-11-12T21:35:57.453412+00:00"
   }
  ],
  "posted": [
@@ -21837,14 +21882,10 @@
   "b7585d74cf": 1,
   "3e4f682712": 1,
   "06f8045a5d": 1,
-  "51bf7f3697": 2,
-  "3bb68afe05": 1,
-  "f8ea099c97": 1
+  "3bb68afe05": 2,
+  "f8ea099c97": 2
  },
  "fail_log": [
-  "2026-11-12T20:46 Belçikalı yıldızlardan Arda Güler'e övgü: 'Bazı anlarda sade -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:51 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:51 Arjantin, Scaloni'nin sözleşmesini 2030'a kadar uzattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:51 Belçikalı yıldızlardan Arda Güler'e övgü: 'Bazı anlarda sade -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:55 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:55 Arjantin, Scaloni'nin sözleşmesini 2030'a kadar uzattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21881,7 +21922,10 @@
   "2026-11-12T21:29 HABAŞ’ın limanında ölen Raif Çatan’ın ağabeyi Aziz Çatan: ‘A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T21:32 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T21:32 HABAŞ’ın limanında ölen Raif Çatan’ın ağabeyi Aziz Çatan: ‘A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T21:32 Yeni Partinin ilk kurultayı hafta sonu | Gökhan Günaydın: İk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T21:32 Yeni Partinin ilk kurultayı hafta sonu | Gökhan Günaydın: İk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:35 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:35 HABAŞ’ın limanında ölen Raif Çatan’ın ağabeyi Aziz Çatan: ‘A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T21:35 Yeni Partinin ilk kurultayı hafta sonu | Gökhan Günaydın: İk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
