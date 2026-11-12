@@ -2,98 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ateşk",
-    "avrup",
-    "barış",
-    "dan",
-    "etmiy",
-    "kabul",
-    "nın",
-    "planı",
-    "rusya",
-    "taleb",
-    "tepki"
-   ],
-   "tok": [
-    "ateşk",
-    "avrup",
-    "barış",
-    "dan",
-    "dışiş",
-    "etmek",
-    "etmey",
-    "etmiy",
-    "göre",
-    "isten",
-    "kabul",
-    "kayıp",
-    "kazan",
-    "lavro",
-    "nın",
-    "planı",
-    "rusya",
-    "savun",
-    "serge",
-    "taleb",
-    "telaf",
-    "tepki",
-    "ukray",
-    "zaman"
-   ],
-   "at": "2026-11-11T05:38:35.546370+00:00"
-  },
-  {
-   "fp": [
-    "6",
-    "ihale",
-    "jeote",
-    "saha"
-   ],
-   "tok": [
-    "afyon",
-    "arama",
-    "arası",
-    "ayrı",
-    "ayrıc",
-    "açık",
-    "bedel",
-    "belir",
-    "bin",
-    "bulun",
-    "büyük",
-    "değiş",
-    "düzen",
-    "eklen",
-    "gazet",
-    "gerçe",
-    "hekta",
-    "ihale",
-    "ilçel",
-    "jeote",
-    "kasım",
-    "kayna",
-    "kdv",
-    "muham",
-    "peşin",
-    "resmi",
-    "ruhsa",
-    "saat",
-    "saha",
-    "sahal",
-    "sahas",
-    "sandı",
-    "tekli",
-    "usulü",
-    "yapıl",
-    "yayım",
-    "çay",
-    "çıkar",
-    "ödeme"
-   ],
-   "at": "2026-11-11T05:51:10.793737+00:00"
-  },
-  {
-   "fp": [
     "anlar",
     "annel",
     "annes",
@@ -17806,6 +17714,43 @@
     "çevre"
    ],
    "at": "2026-11-12T17:24:39.114761+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "ağacı",
+    "işçis",
+    "kalan",
+    "kesil",
+    "orman"
+   ],
+   "tok": [
+    "altın",
+    "ağacı",
+    "bozte",
+    "cinay",
+    "deniz",
+    "devri",
+    "ilçes",
+    "işlet",
+    "işçis",
+    "kalan",
+    "kesil",
+    "kesim",
+    "mente",
+    "muğla",
+    "nde",
+    "nın",
+    "olay",
+    "orman",
+    "serka",
+    "sıras",
+    "yerin",
+    "çalış",
+    "çam",
+    "şefli"
+   ],
+   "at": "2026-11-12T17:55:33.065275+00:00"
   }
  ],
  "posted": [
@@ -20558,14 +20503,11 @@
   "f786bbee04": 2,
   "27cc2aff0e": 1,
   "09c8951edd": 1,
-  "5841a0d9cf": 2,
-  "4503d9a15d": 1,
-  "88d467cd1b": 1
+  "4503d9a15d": 2,
+  "88d467cd1b": 1,
+  "e40b7f2dd6": 1
  },
  "fail_log": [
-  "2026-11-12T16:44 İBB davası... Murat Ongun: At içeri, korkut, yıldır, bezdir, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:47 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:47 İBB davası... Murat Ongun: At içeri, korkut, yıldır, bezdir, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:47 Cumhurbaşkanı Erdoğan: Türkiye bölgesinin istikrar ve güven  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:50 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:50 Cumhurbaşkanı Erdoğan: Türkiye bölgesinin istikrar ve güven  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20602,12 +20544,15 @@
   "2026-11-12T17:24 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:28 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:28 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T17:28 Zorlu Holding'de yeni dönem: Ahmet Nazif Zorlu'nun ardından  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T17:28 Zorlu Holding'de yeni dönem: Ahmet Nazif Zorlu'nun ardından  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:55 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:55 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:55 Necati Özkan'dan 'rüşvet itirafı' suç duyurusu: \"Benim yaptı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120931298223022268",
+   "since_id": "2120936610070143415",
    "started": true
   },
   "ajansmuhbir1923": {
