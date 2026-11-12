@@ -16077,6 +16077,46 @@
     "ölümü"
    ],
    "at": "2026-11-12T10:05:34.566393+00:00"
+  },
+  {
+   "fp": [
+    "arana",
+    "bülte",
+    "eleba",
+    "getir",
+    "kırmı",
+    "sayal",
+    "serca",
+    "suç",
+    "türki",
+    "örgüt"
+   ],
+   "tok": [
+    "arana",
+    "aranm",
+    "aranı",
+    "bulun",
+    "bülte",
+    "dan",
+    "eleba",
+    "getir",
+    "kaydı",
+    "kırmı",
+    "lider",
+    "nesil",
+    "organ",
+    "sayal",
+    "serca",
+    "seviy",
+    "suç",
+    "suçta",
+    "ulusl",
+    "yunan",
+    "çete",
+    "örgüt",
+    "ülkey"
+   ],
+   "at": "2026-11-12T10:08:53.285065+00:00"
   }
  ],
  "posted": [
@@ -18940,14 +18980,11 @@
   "4c4341be90": 1,
   "3ea7ae8900": 2,
   "d2182a0779": 1,
-  "a34467e6f7": 2,
-  "4d3583ca9e": 1,
-  "b8005b39b1": 1
+  "4d3583ca9e": 2,
+  "b8005b39b1": 1,
+  "13988b4582": 1
  },
  "fail_log": [
-  "2026-11-12T08:55 İran: Hürmüz Boğazı’nda 2 süper tankerde patlama sonrası yan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T08:58 Belediye başkanı tutuklanmıştı: Başkanvekili seçimi yapılıyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T08:58 İran: Hürmüz Boğazı’nda 2 süper tankerde patlama sonrası yan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T08:58 Samsun'da av faciası: Arkadaşını çenesinden vurdu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T09:02 Belediye başkanı tutuklanmıştı: Başkanvekili seçimi yapılıyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T09:02 Eğitim-Sen Genel Başkanı Irmak: Okul saldırısında asıl sorum -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18984,7 +19021,10 @@
   "2026-11-12T10:02 Adana'da hastanede doktor ile hemşire arasında arbede: Beyaz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:05 8. kattan 'düşen' doktor Pelin Pınar’ın ölümü: Şüpheli erkeğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:05 116 suçtan aranan suç örgütü elebaşı Sercan Sayal Türkiye'ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:05 Çatalca'da içerisinde ses sistemleri bulunan konteyner kıyıy -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T10:05 Çatalca'da içerisinde ses sistemleri bulunan konteyner kıyıy -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T10:08 116 suçtan aranan suç örgütü elebaşı Sercan Sayal Türkiye'ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T10:08 Adana'da hastanede doktor ile hemşire arasında arbede: Beyaz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T10:08 Bütçe görüşmelerinde Yusuf Tekin'e protesto: 'Şovu dışarıda  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
