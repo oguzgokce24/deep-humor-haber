@@ -18597,6 +18597,46 @@
     "ölümü"
    ],
    "at": "2026-11-12T20:19:38.780865+00:00"
+  },
+  {
+   "fp": [
+    "büyük",
+    "den",
+    "endiş",
+    "gelec",
+    "gençl",
+    "iklim",
+    "krizi",
+    "tuba",
+    "uyarı"
+   ],
+   "tok": [
+    "büyük",
+    "den",
+    "değiş",
+    "dikka",
+    "elçis",
+    "endiş",
+    "etkil",
+    "gelec",
+    "gençl",
+    "iklim",
+    "iyi",
+    "krizi",
+    "march",
+    "niyet",
+    "ntv",
+    "paolo",
+    "temsi",
+    "tuba",
+    "unıce",
+    "uyarı",
+    "yaptı",
+    "çekti",
+    "çocuk",
+    "üzeri"
+   ],
+   "at": "2026-11-12T20:23:03.873960+00:00"
   }
  ],
  "posted": [
@@ -21354,14 +21394,11 @@
   "a2131ddb6a": 1,
   "c7ba82846e": 1,
   "6381cad46d": 1,
-  "36754b2feb": 2,
   "b8ef351855": 1,
-  "8fb9cd3735": 1
+  "8fb9cd3735": 2,
+  "0b83d6ee51": 1
  },
  "fail_log": [
-  "2026-11-12T19:30 AK Partili Şamil Tayyar'dan Abdullah Güler'e fon listesi tep -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:33 Antalya'dan COP31'e tepki: \"Yeşil yıkama tiyatrosundan iklim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:33 Kent içi raylı sistem ağı 18 km daha büyüyecek: 19 istasyonl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:33 AK Partili Şamil Tayyar'dan Abdullah Güler'e fon listesi tep -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:36 Antalya'dan COP31'e tepki: \"Yeşil yıkama tiyatrosundan iklim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:36 Kent içi raylı sistem ağı 18 km daha büyüyecek: 19 istasyonl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21398,7 +21435,10 @@
   "2026-11-12T20:16 Pompalı dehşeti: Kaldırımda yürüyenlere kurşun yağdırdı! Ölü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:19 Mercedes-Benz Almanya'da yeni yatırımları askıya aldı: Fabri -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:19 Pompalı dehşeti: Kaldırımda yürüyenlere kurşun yağdırdı! Ölü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:19 Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler gelecekle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T20:19 Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler gelecekle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:23 Mercedes-Benz Almanya'da yeni yatırımları askıya aldı: Fabri -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:23 Nvidia'da Jensen Huang'ın istifası: ekonomistler 'büyük kayı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:23 Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler gelecekle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
