@@ -16318,6 +16318,34 @@
     "yaşam"
    ],
    "at": "2026-11-12T11:25:04.326390+00:00"
+  },
+  {
+   "fp": [
+    "bahçe",
+    "başka",
+    "kurtu",
+    "tan",
+    "tbmm",
+    "ziyar"
+   ],
+   "tok": [
+    "bahçe",
+    "devle",
+    "ediyo",
+    "genel",
+    "kapsa",
+    "kurtu",
+    "lider",
+    "mesai",
+    "mhp",
+    "numan",
+    "sürec",
+    "tan",
+    "tbmm",
+    "terör",
+    "ziyar"
+   ],
+   "at": "2026-11-12T11:28:25.742004+00:00"
   }
  ],
  "posted": [
@@ -19044,13 +19072,11 @@
   "06fdcdd25b": 1,
   "e1a383c1b4": 1,
   "c10aea6005": 2,
-  "a9fd1d6247": 2,
-  "4e0d2337ab": 1
+  "4e0d2337ab": 1,
+  "5c03e6b57b": 1,
+  "a4213ead03": 1
  },
  "fail_log": [
-  "2026-11-12T10:35 Tezgahta bu kriterlere bakmadan sakın almayın: Taze balığı a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:38 Yusuf Tekin, elini sıkmayan vekillerle alay etti: \"Ne kadar  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:38 COP31 | Greta Thunberg: Gezegeni kimin öldürdüğünü biliyoruz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:38 Mirosław Szymkowiak'tan çarpıcı açıklamalar: Trabzonspor'da  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:41 COP31 | Greta Thunberg: Gezegeni kimin öldürdüğünü biliyoruz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:41 Mirosław Szymkowiak'tan çarpıcı açıklamalar: Trabzonspor'da  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19087,7 +19113,10 @@
   "2026-11-12T11:21 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:25 Manifest'in kurucusu Tolga Akış tahliye edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:25 TBMM Başkanı Kurtulmuş'tan Bahçeli'ye ziyaret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:25 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T11:25 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:28 İstanbul'un kuzeyinden geçecek demiryoluna 25 teklif -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:28 TBMM Başkanı Kurtulmuş'tan Bahçeli'ye ziyaret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:28 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
