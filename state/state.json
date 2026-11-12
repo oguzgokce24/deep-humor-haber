@@ -18140,12 +18140,12 @@
   "75b25972f8": 1,
   "07bba78d65": 1,
   "36a42b4731": 2,
-  "880732de06": 1
+  "880732de06": 1,
+  "dfddefdd86": 1,
+  "48a19bcc15": 1,
+  "f3ee5b0393": 1
  },
  "fail_log": [
-  "2026-11-12T03:13 19 işçiden geriye kalan acı ve öfke -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T03:17 Bu yazılar beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T03:17 Serie A’da 7. Sıraya düşen Juventus, kurtuluş için Nijeryalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:17 Mor Merdiven Ağı’ndan COP31’e eşitlik çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:20 AKOM'dan İstanbul için fırtına alarmı: Lodos 80 kilometreye  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:20 Bu yazılar beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18182,7 +18182,10 @@
   "2026-11-12T04:03 Tüm vurguncu isimler açıklanmalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T04:06 New York'ta bir bina kısmen çöktü: En az 1 kişi hayatını kay -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T04:06 Tüm vurguncu isimler açıklanmalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T04:06 Gelinimiz zirveye aday -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T04:06 Gelinimiz zirveye aday -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T04:09 New York'ta bir bina kısmen çöktü: En az 1 kişi hayatını kay -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T04:09 Emre Belözoğlu gelir gelmez biletini kesti: Geçen sezonun sk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T04:09 Osman Kavala 3 bin 299 gündür hapiste -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
