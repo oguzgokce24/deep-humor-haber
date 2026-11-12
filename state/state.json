@@ -18767,13 +18767,11 @@
   "9671352054": 1,
   "7e074b000c": 1,
   "8683debf99": 2,
-  "2b013f1ef9": 1,
-  "3c5afb5280": 1
+  "2b013f1ef9": 2,
+  "3c5afb5280": 2,
+  "365390afbb": 1
  },
  "fail_log": [
-  "2026-11-12T05:23 Babacan: Terörsüz Türkiye sürecini ilk destekleyen siyasi pa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T05:26 Peru’nun Lima kentinde polis ekipleri, öğrenci ve tekerlekli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T05:26 Emre Belözoğlu'nun ilk transferi belli oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:26 Hediye Levent: Lübnan ve Suriye'deki İsrail işgali dünya gün -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:30 Emre Belözoğlu'nun ilk transferi belli oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:30 Hediye Levent: Lübnan ve Suriye'deki İsrail işgali dünya gün -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18810,7 +18808,10 @@
   "2026-11-12T06:11 Altınşehir'de çalışma: TEM'de sabah trafiği kilitlendi, kuyr -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T06:14 İzmir’de 17 milyon 712 bin makaron ele geçirildi: 3 tutuklam -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T06:14 Prof. Dr. Ahmet Ercan'dan İstanbul için iki büyük deprem uya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T06:14 Altınşehir'de çalışma: TEM'de sabah trafiği kilitlendi, kuyr -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T06:14 Altınşehir'de çalışma: TEM'de sabah trafiği kilitlendi, kuyr -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:18 Dövizde ilk rakamlar belli oldu: Dolar ve avro güne yükseliş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:18 İzmir’de 17 milyon 712 bin makaron ele geçirildi: 3 tutuklam -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:18 Prof. Dr. Ahmet Ercan'dan İstanbul için iki büyük deprem uya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
