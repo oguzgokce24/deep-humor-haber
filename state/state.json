@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ardın",
-    "bırak",
-    "grev",
-    "kazal",
-    "makin",
-    "tren",
-    "ölüml",
-    "önces"
-   ],
-   "tok": [
-    "ardın",
-    "büyük",
-    "bırak",
-    "ccoo",
-    "demir",
-    "değiş",
-    "edere",
-    "erken",
-    "eylem",
-    "facia",
-    "genel",
-    "gerçe",
-    "grev",
-    "grevd",
-    "güven",
-    "hemen",
-    "hızlı",
-    "ispan",
-    "kasım",
-    "kazal",
-    "kazas",
-    "makin",
-    "nin",
-    "ortak",
-    "saatl",
-    "seçim",
-    "taleb",
-    "talep",
-    "tren",
-    "ugt",
-    "yapıl",
-    "yapıs",
-    "yasal",
-    "yaşam",
-    "yitir",
-    "yıl",
-    "çağrı",
-    "ölüml",
-    "önces",
-    "ülke"
-   ],
-   "at": "2026-11-11T03:19:31.001906+00:00"
-  },
-  {
-   "fp": [
     "150",
     "alaca",
     "hazır",
@@ -17177,6 +17122,74 @@
     "çukur"
    ],
    "at": "2026-11-12T15:16:16.702654+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "ağacı",
+    "işçis",
+    "kalan",
+    "kesil",
+    "orman"
+   ],
+   "tok": [
+    "altın",
+    "ağacı",
+    "bozte",
+    "cinay",
+    "deniz",
+    "devri",
+    "ilçes",
+    "işlet",
+    "işçis",
+    "kalan",
+    "kesil",
+    "kesim",
+    "mente",
+    "muğla",
+    "nde",
+    "nın",
+    "olay",
+    "orman",
+    "serka",
+    "sıras",
+    "yerin",
+    "çalış",
+    "çam",
+    "şefli"
+   ],
+   "at": "2026-11-12T15:19:32.729010+00:00"
+  },
+  {
+   "fp": [
+    "14",
+    "devri",
+    "işçil",
+    "minib",
+    "osman",
+    "tarım",
+    "taşıy",
+    "yaral",
+    "zeyti"
+   ],
+   "tok": [
+    "arsla",
+    "bağlı",
+    "devri",
+    "işçil",
+    "kenar",
+    "köyü",
+    "minib",
+    "nin",
+    "osman",
+    "tarım",
+    "taşıy",
+    "yakın",
+    "yar",
+    "yol",
+    "zeyti"
+   ],
+   "at": "2026-11-12T15:19:33.301396+00:00"
   }
  ],
  "posted": [
@@ -19921,13 +19934,9 @@
   "a177c46c2c": 1,
   "dbf4680241": 2,
   "0ab08f4b4e": 2,
-  "5841a0d9cf": 2,
-  "9f215ba76f": 2
+  "776e378fdf": 1
  },
  "fail_log": [
-  "2026-11-12T14:33 Son dakika: Yolcu otobüsü yandı: 18 kişi tahliye edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T14:36 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, sa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T14:36 Malatya'da okul polisine bıçaklı saldırı girişimi: Çocuk göz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:36 Son dakika: Yolcu otobüsü yandı: 18 kişi tahliye edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:40 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, sa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:40 Malatya'da okul polisine bıçaklı saldırı girişimi: Çocuk göz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19964,7 +19973,10 @@
   "2026-11-12T15:13 AKP’nin enerji teklifinde ‘fon’ maddesi: Tasfiyeyi yürütenle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T15:16 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T15:16 Tarım işçilerini taşıyan minibüs devrildi: 14 yaralı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T15:16 Tekirdağ'da iş cinayeti: Tesiste biyogaz çukuruna düşen işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T15:16 Tekirdağ'da iş cinayeti: Tesiste biyogaz çukuruna düşen işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T15:19 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T15:19 Tarım işçilerini taşıyan minibüs devrildi: 14 yaralı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T15:19 MEB önünde 'ücretsiz yemek' eylemi: \"Sağlıklı öğün haktır\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
