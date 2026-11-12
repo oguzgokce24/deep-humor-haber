@@ -14879,6 +14879,112 @@
     "şimdi"
    ],
    "at": "2026-11-12T02:39:54.258078+00:00"
+  },
+  {
+   "fp": [
+    "antal",
+    "dan",
+    "dünya",
+    "gelec",
+    "hayal",
+    "insan",
+    "mesaj",
+    "ortak"
+   ],
+   "tok": [
+    "aldığ",
+    "antal",
+    "bizle",
+    "cop31",
+    "dan",
+    "değil",
+    "değiş",
+    "dünya",
+    "gelec",
+    "hatır",
+    "hayal",
+    "iklim",
+    "insan",
+    "konuş",
+    "kurum",
+    "mesaj",
+    "murat",
+    "nesil",
+    "ortak",
+    "yaptı",
+    "çevre",
+    "şehir"
+   ],
+   "at": "2026-11-12T02:53:26.537435+00:00"
+  },
+  {
+   "fp": [
+    "freni",
+    "tahli",
+    "yargı"
+   ],
+   "tok": [
+    "açtığ",
+    "boşal",
+    "davad",
+    "durdu",
+    "evler",
+    "freni",
+    "geldi",
+    "geri",
+    "isted",
+    "işlem",
+    "kalıc",
+    "mahal",
+    "nde",
+    "sayım",
+    "sürer",
+    "tahli",
+    "yargı",
+    "yurtt",
+    "yıkım",
+    "çubuk",
+    "çözüm"
+   ],
+   "at": "2026-11-12T02:53:27.334034+00:00"
+  },
+  {
+   "fp": [
+    "ara",
+    "beyoğ",
+    "nda",
+    "tatil",
+    "çocuk",
+    "şenli"
+   ],
+   "tok": [
+    "anima",
+    "ara",
+    "arası",
+    "atöly",
+    "beled",
+    "beyoğ",
+    "düzen",
+    "farkl",
+    "film",
+    "gerçe",
+    "göste",
+    "günle",
+    "kapsa",
+    "kasım",
+    "nda",
+    "oyunl",
+    "progr",
+    "sanat",
+    "sinem",
+    "tarih",
+    "tatil",
+    "tiyat",
+    "yönel",
+    "çocuk",
+    "şenli"
+   ],
+   "at": "2026-11-12T02:53:27.989989+00:00"
   }
  ],
  "posted": [
@@ -17714,15 +17820,9 @@
   "e8acb74ce1": 1,
   "79582f57b5": 1,
   "75b25972f8": 1,
-  "07bba78d65": 1,
-  "02dacccc8e": 2,
-  "3b4dfe137e": 2,
-  "517b34c56c": 2
+  "07bba78d65": 1
  },
  "fail_log": [
-  "2026-11-12T02:03 5. Doğan Avcıoğlu Ödülleri'ni kazananlar açıklandı: İsmail A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T02:07 Sermayeye dev kazanç, işçiye ölüm: HABAŞ 3 yılda 11 milyar T -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T02:07 Ankara'da festival zamanı: Perde 37. kez açılıyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:07 5. Doğan Avcıoğlu Ödülleri'ni kazananlar açıklandı: İsmail A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:10 Sermayeye dev kazanç, işçiye ölüm: HABAŞ 3 yılda 11 milyar T -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:10 Ankara'da festival zamanı: Perde 37. kez açılıyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -17759,7 +17859,10 @@
   "2026-11-12T02:43 Beyoğlu'nda çocuklara ara tatil şenliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:46 Antalya'dan dünyaya mesaj. \"Hayalimiz insanlığın ortak gelec -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:46 Tahliyeye yargı freni -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T02:46 Beyoğlu'nda çocuklara ara tatil şenliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T02:46 Beyoğlu'nda çocuklara ara tatil şenliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T02:53 Antalya'dan dünyaya mesaj. \"Hayalimiz insanlığın ortak gelec -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T02:53 Tahliyeye yargı freni -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T02:53 Beyoğlu'nda çocuklara ara tatil şenliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
