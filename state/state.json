@@ -2,81 +2,6 @@
  "seen": [
   {
    "fp": [
-    "100",
-    "alarm",
-    "den",
-    "fazla",
-    "ihbar",
-    "italy",
-    "kırmı",
-    "okuld",
-    "yapıl"
-   ],
-   "tok": [
-    "alarm",
-    "anoni",
-    "başke",
-    "başla",
-    "başta",
-    "binal",
-    "den",
-    "edili",
-    "fazla",
-    "gönde",
-    "güven",
-    "ihbar",
-    "italy",
-    "içere",
-    "kontr",
-    "kırmı",
-    "okul",
-    "okula",
-    "okuld",
-    "olmak",
-    "posta",
-    "roma",
-    "sayıd",
-    "tahli",
-    "tehdi",
-    "veril",
-    "yapıl",
-    "üzere"
-   ],
-   "at": "2026-11-11T11:44:42.462218+00:00"
-  },
-  {
-   "fp": [
-    "bakan",
-    "pasap",
-    "taleb",
-    "yeşil"
-   ],
-   "tok": [
-    "cümle",
-    "grubu",
-    "ilişk",
-    "içişl",
-    "işçil",
-    "kamu",
-    "kendi",
-    "mecli",
-    "mesle",
-    "musta",
-    "ndan",
-    "pasap",
-    "soru",
-    "taleb",
-    "tek",
-    "veril",
-    "yanıt",
-    "yeşil",
-    "çiftç",
-    "önerg"
-   ],
-   "at": "2026-11-11T11:44:43.206474+00:00"
-  },
-  {
-   "fp": [
     "bali",
     "den",
     "heyet",
@@ -19541,6 +19466,84 @@
     "şehit"
    ],
    "at": "2026-11-12T23:44:30.257804+00:00"
+  },
+  {
+   "fp": [
+    "aldı",
+    "alev",
+    "dağıt",
+    "frans",
+    "gelip",
+    "gerid",
+    "grubu",
+    "italy",
+    "nin",
+    "ortal",
+    "türki"
+   ],
+   "tok": [
+    "aldı",
+    "alev",
+    "dağıt",
+    "frans",
+    "geler",
+    "gelip",
+    "gerid",
+    "grubu",
+    "grup",
+    "italy",
+    "ligi",
+    "mağlu",
+    "nin",
+    "ortal",
+    "sahas",
+    "uefa",
+    "ulusl"
+   ],
+   "at": "2026-11-12T23:47:50.233016+00:00"
+  },
+  {
+   "fp": [
+    "30",
+    "arda",
+    "attı",
+    "bırak",
+    "gol",
+    "güler",
+    "hayra",
+    "metre",
+    "serge",
+    "vurdu",
+    "yalçı",
+    "öyle"
+   ],
+   "tok": [
+    "arda",
+    "attı",
+    "belçi",
+    "bırak",
+    "den",
+    "ettiğ",
+    "geldi",
+    "gol",
+    "güler",
+    "hayra",
+    "izmir",
+    "karşı",
+    "konuk",
+    "ligi",
+    "metre",
+    "milli",
+    "nde",
+    "serge",
+    "takım",
+    "uefa",
+    "ulusl",
+    "vurdu",
+    "yalçı",
+    "öyle"
+   ],
+   "at": "2026-11-12T23:47:50.908637+00:00"
   }
  ],
  "posted": [
@@ -22305,13 +22308,9 @@
   "f7ac78adce": 1,
   "3bb68afe05": 1,
   "7dde88538c": 1,
-  "9757a63dd2": 2,
-  "9619759dc7": 2
+  "f6718105ce": 1
  },
  "fail_log": [
-  "2026-11-12T22:57 Harry Kane İngiltere'de 36 yıllık rekoru kırdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T23:01 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T23:01 Ekrem İmamoğlu: “Adalet bu salonda değil, Silivri’nin kapısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:01 Harry Kane İngiltere'de 36 yıllık rekoru kırdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:04 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:04 Ekrem İmamoğlu: “Adalet bu salonda değil, Silivri’nin kapısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -22348,7 +22347,10 @@
   "2026-11-12T23:37 Arda Güler öyle bir gol attı ki! 30 metreden vurdu Sergen Ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:44 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:44 İtalya geriden gelip Fransa'yı dağıttı! Türkiye'nin grubunda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T23:44 Arda Güler öyle bir gol attı ki! 30 metreden vurdu Sergen Ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T23:44 Arda Güler öyle bir gol attı ki! 30 metreden vurdu Sergen Ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:47 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:47 İtalya geriden gelip Fransa'yı dağıttı! Türkiye'nin grubunda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:47 Arda Güler öyle bir gol attı ki! 30 metreden vurdu Sergen Ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
