@@ -17241,6 +17241,65 @@
     "çukur"
    ],
    "at": "2026-11-12T15:36:41.792647+00:00"
+  },
+  {
+   "fp": [
+    "bağlı",
+    "cihaz",
+    "edili",
+    "nasıl",
+    "takli",
+    "tarzı",
+    "tuzağ",
+    "uyard",
+    "uzman",
+    "whats",
+    "yapay",
+    "yazış",
+    "zekay",
+    "çalış"
+   ],
+   "tok": [
+    "bağlı",
+    "cihaz",
+    "dolan",
+    "duman",
+    "dönem",
+    "edile",
+    "edili",
+    "güven",
+    "heran",
+    "hesap",
+    "hızla",
+    "isten",
+    "kocae",
+    "konus",
+    "kriti",
+    "kulla",
+    "mağdu",
+    "nasıl",
+    "olayd",
+    "para",
+    "sesli",
+    "takli",
+    "tarzı",
+    "teyit",
+    "tuzağ",
+    "uyard",
+    "uzman",
+    "whats",
+    "yakın",
+    "yapay",
+    "yayıl",
+    "yazış",
+    "yaşay",
+    "yönte",
+    "zeka",
+    "zekay",
+    "çalış",
+    "üzeri"
+   ],
+   "at": "2026-11-12T15:40:00.631717+00:00"
   }
  ],
  "posted": [
@@ -19986,13 +20045,10 @@
   "dbf4680241": 2,
   "0ab08f4b4e": 2,
   "da5867f0ff": 1,
-  "0187b55c84": 2,
-  "5841a0d9cf": 1
+  "5841a0d9cf": 2,
+  "8cc68d70a7": 1
  },
  "fail_log": [
-  "2026-11-12T14:50 AYM’den teğmenlerin bireysel başvurusuna 'kabul edilemezlik' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T14:53 Tekirdağ'da iş cinayeti: Tesiste biyogaz çukuruna düşen işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T14:53 AYM’den teğmenlerin bireysel başvurusuna 'kabul edilemezlik' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:53 İran güvenlik şefi: Savaş yeniden başlarsa Avrupa'daki ABD ü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:56 Tekirdağ'da iş cinayeti: Tesiste biyogaz çukuruna düşen işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:56 AYM’den teğmenlerin bireysel başvurusuna 'kabul edilemezlik' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20029,12 +20085,15 @@
   "2026-11-12T15:33 WhatsApp'ta \"Bağlı Cihazlar\" tuzağı nasıl çalışıyor? Uzmanla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T15:36 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T15:36 WhatsApp'ta \"Bağlı Cihazlar\" tuzağı nasıl çalışıyor? Uzmanla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T15:36 Tekirdağ'da iş cinayeti: Tesiste biyogaz çukuruna düşen işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T15:36 Tekirdağ'da iş cinayeti: Tesiste biyogaz çukuruna düşen işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T15:40 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T15:40 Eğitim Sen’den MEB bütçesine tepki: ‘Okulların en temel harc -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T15:40 WhatsApp'ta \"Bağlı Cihazlar\" tuzağı nasıl çalışıyor? Uzmanla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120902550534918218",
+   "since_id": "2120903665296822696",
    "started": true
   },
   "ajansmuhbir1923": {
