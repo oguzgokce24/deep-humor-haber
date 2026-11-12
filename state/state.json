@@ -18360,6 +18360,63 @@
     "şoför"
    ],
    "at": "2026-11-12T19:47:05.377839+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "alman",
+    "başı",
+    "gençl",
+    "geçti",
+    "göçme",
+    "kişi",
+    "mesle",
+    "sayıs",
+    "uzakl",
+    "zor"
+   ],
+   "tok": [
+    "abd",
+    "alman",
+    "avrup",
+    "açığı",
+    "başı",
+    "büyük",
+    "bırak",
+    "ciddi",
+    "dilim",
+    "düşür",
+    "ekono",
+    "elema",
+    "geniş",
+    "genç",
+    "gençl",
+    "gerid",
+    "geçti",
+    "göçme",
+    "kapsa",
+    "mesle",
+    "motiv",
+    "neden",
+    "nüfus",
+    "nın",
+    "sanay",
+    "sayıs",
+    "sosya",
+    "tekni",
+    "uzakl",
+    "vergi",
+    "yarat",
+    "yardı",
+    "yerle",
+    "yükse",
+    "zirve",
+    "zor",
+    "zorlu",
+    "çalış",
+    "ödeme"
+   ],
+   "at": "2026-11-12T19:59:22.953147+00:00"
   }
  ],
  "posted": [
@@ -21116,14 +21173,11 @@
   "dcdb666dd6": 2,
   "a2131ddb6a": 1,
   "ef388a59bc": 2,
-  "e77f178f16": 2,
-  "a151b5fd9d": 1,
-  "c7ba82846e": 1
+  "a151b5fd9d": 2,
+  "c7ba82846e": 1,
+  "798c17bddf": 1
  },
  "fail_log": [
-  "2026-11-12T19:06 Meclis'e sunuldu: 2,2 milyon kişinin GSS borcu silinecek -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:09 İmamoğlu'ndan Silivri'de sert savunma: Bu dava çökmüştür, ad -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:09 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:09 Çömez'den Erdoğan'a \"Erişah Arıcan'ı derhal gözaltına alın\"  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:12 YENİ Parti'li Gökçen'den YÖK Başkanı Özvar'a sert tepki: \"Ge -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:12 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21160,7 +21214,10 @@
   "2026-11-12T19:47 Yunus Akgün: 'Olumlu havayı hocamızla zaman geçtikçe sahaya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:56 Özgür Özel'den Malatya'da şehit olan askerler için başsağlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:56 Jensen Huang’ın kuzeni ve AMD CEO’su Lisa Su, 2026 yılının e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:56 Gençler zor mesleklerden uzaklaştı: Almanya kişi başı göçmen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T19:56 Gençler zor mesleklerden uzaklaştı: Almanya kişi başı göçmen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:59 Özgür Özel'den Malatya'da şehit olan askerler için başsağlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:59 Gençler zor mesleklerden uzaklaştı: Almanya kişi başı göçmen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:59 Cumhurbaşkanı Erdoğan'dan dünya liderlerine çağrı: 1,5 derec -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
