@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "fon",
-    "soruş",
-    "taleb",
-    "tutuk"
-   ],
-   "tok": [
-    "adli",
-    "adliy",
-    "adres",
-    "aile",
-    "ali",
-    "arınc",
-    "betül",
-    "ceza",
-    "daki",
-    "diğer",
-    "dosya",
-    "eski",
-    "fatma",
-    "fon",
-    "geliş",
-    "genel",
-    "gönde",
-    "gülka",
-    "hakim",
-    "hapsi",
-    "isted",
-    "isten",
-    "kasım",
-    "kaya",
-    "kontr",
-    "murat",
-    "müdür",
-    "paslı",
-    "polit",
-    "savcı",
-    "sayan",
-    "serbe",
-    "sevk",
-    "sosya",
-    "sulh",
-    "takas",
-    "taleb",
-    "talep",
-    "yayın",
-    "yazıs",
-    "yunus",
-    "ömer"
-   ],
-   "at": "2026-11-11T00:13:30.902794+00:00"
-  },
-  {
-   "fp": [
     "ajans",
     "arkad",
     "attı",
@@ -19338,12 +19284,11 @@
   "ee67fd7dfc": 1,
   "a4213ead03": 2,
   "c7eaaee7b5": 1,
-  "3909fbc832": 1
+  "3909fbc832": 2,
+  "15e35808ed": 1,
+  "b4308abf2d": 1
  },
  "fail_log": [
-  "2026-11-12T11:25 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:28 İstanbul'un kuzeyinden geçecek demiryoluna 25 teklif -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:28 TBMM Başkanı Kurtulmuş'tan Bahçeli'ye ziyaret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:28 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:31 Çanakkale'de Aysel Sakaldaş'ı yaralayan fail tutuklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:31 İstanbul'un kuzeyinden geçecek demiryoluna 25 teklif -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19380,12 +19325,15 @@
   "2026-11-12T12:07 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:10 Gülistan Kılıç Koçyiğit’ten HABAŞ katliamı tepkisi: ‘Niye bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:10 88 yıllık ünlü tatlıcı zorda: Konkordato talep edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:10 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T12:10 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:14 Beyoğlu’nda dehşet: Evden halıya sarılı erkek cesedi çıktı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:14 Materazzi, 20 yıl sonra Zidane'ın Dünya Kupası finalinde att -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:14 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120846587849035955",
+   "since_id": "2120852520717230412",
    "started": true
   },
   "ajansmuhbir1923": {
