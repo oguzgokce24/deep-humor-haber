@@ -16554,6 +16554,98 @@
     "ünlü"
    ],
    "at": "2026-11-12T12:10:35.890566+00:00"
+  },
+  {
+   "fp": [
+    "bakıl",
+    "den",
+    "fon",
+    "gül",
+    "makam",
+    "mevki",
+    "parti",
+    "sorus",
+    "yanıt"
+   ],
+   "tok": [
+    "abdul",
+    "bakıl",
+    "belir",
+    "den",
+    "emekl",
+    "fon",
+    "gerek",
+    "gerçe",
+    "grup",
+    "gül",
+    "hal",
+    "hesap",
+    "içi",
+    "işlem",
+    "kanun",
+    "maaşl",
+    "makam",
+    "mevki",
+    "milya",
+    "parti",
+    "sorum",
+    "sorus",
+    "verme",
+    "yanıt",
+    "yapıl",
+    "ödeme"
+   ],
+   "at": "2026-11-12T12:17:22.430775+00:00"
+  },
+  {
+   "fp": [
+    "betül",
+    "cezae",
+    "fatma",
+    "görüş",
+    "kaya",
+    "kimle",
+    "koğuş",
+    "nın",
+    "prote",
+    "sayan"
+   ],
+   "tok": [
+    "betül",
+    "ceza",
+    "cezae",
+    "deki",
+    "diğer",
+    "fatma",
+    "fon",
+    "geçmi",
+    "görüş",
+    "gözya",
+    "günle",
+    "hangi",
+    "infaz",
+    "kalıy",
+    "kapal",
+    "kapsa",
+    "karşı",
+    "kaya",
+    "kimle",
+    "koğuş",
+    "kurum",
+    "marma",
+    "nasıl",
+    "nda",
+    "nın",
+    "olsun",
+    "peki",
+    "prote",
+    "sayan",
+    "siliv",
+    "sloga",
+    "yanda",
+    "yaşam"
+   ],
+   "at": "2026-11-12T12:17:24.302706+00:00"
   }
  ],
  "posted": [
@@ -19282,16 +19374,11 @@
   "4e0d2337ab": 1,
   "924b86b192": 1,
   "ee67fd7dfc": 1,
-  "a4213ead03": 2,
   "c7eaaee7b5": 1,
-  "3909fbc832": 2,
-  "15e35808ed": 1,
+  "15e35808ed": 2,
   "b4308abf2d": 1
  },
  "fail_log": [
-  "2026-11-12T11:28 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:31 Çanakkale'de Aysel Sakaldaş'ı yaralayan fail tutuklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:31 İstanbul'un kuzeyinden geçecek demiryoluna 25 teklif -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:31 CHP'li 258 eski parlamenterden Yeni Parti'ye toplu katılım k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:35 İstanbul'un kuzeyinden geçecek demiryoluna 25 teklif -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:35 CHP'li 258 eski parlamenterden Yeni Parti'ye toplu katılım k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19328,7 +19415,10 @@
   "2026-11-12T12:10 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:14 Beyoğlu’nda dehşet: Evden halıya sarılı erkek cesedi çıktı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:14 Materazzi, 20 yıl sonra Zidane'ın Dünya Kupası finalinde att -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:14 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T12:14 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:17 Beyoğlu’nda dehşet: Evden halıya sarılı erkek cesedi çıktı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:17 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:17 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
