@@ -19048,13 +19048,11 @@
   "050b185f2e": 2,
   "38b09d2896": 2,
   "924b86b192": 1,
-  "25148e3337": 1,
-  "9d77353105": 1
+  "25148e3337": 2,
+  "9d77353105": 2,
+  "9f7a999d8f": 1
  },
  "fail_log": [
-  "2026-11-12T10:48 Mersin Emek ve Demokrasi Platformu: İş cinayetleri kader değ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:51 Manisa'da park halindeki otomobilin yanında erkek cesedi bul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:51 Gürsel Aksel Stadyumu nerede, hangi şehirde ve ilçede? Gürse -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:51 Mersin Emek ve Demokrasi Platformu: İş cinayetleri kader değ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:54 Manisa'da park halindeki otomobilin yanında erkek cesedi bul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:54 Mersin Emek ve Demokrasi Platformu: İş cinayetleri kader değ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19091,7 +19089,10 @@
   "2026-11-12T11:35 Manifest'in kurucusu Tolga Akış'a tahliye kararı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:38 Çanakkale'de Aysel Sakaldaş'ı yaralayan fail tutuklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:38 Manifest grubunun menajeri Tolga Akış hakkında tahliye karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:38 Marketlere siber saldırı: Belçika İran'ı işaret etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T11:38 Marketlere siber saldırı: Belçika İran'ı işaret etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:42 Manifest grubunun menajeri Tolga Akış hakkında tahliye karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:42 Marketlere siber saldırı: Belçika İran'ı işaret etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T11:42 Kenan Yıldız Neden Yok? Kenan Yıldız Belçika Maçında Neden O -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
