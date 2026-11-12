@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altın",
-    "fiyat",
-    "gram"
-   ],
-   "tok": [
-    "abd",
-    "altın",
-    "artır",
-    "aşan",
-    "baskı",
-    "bekle",
-    "bin",
-    "değer",
-    "düşür",
-    "düşüş",
-    "enfla",
-    "faiz",
-    "fed",
-    "fiyat",
-    "geliş",
-    "gram",
-    "gördü",
-    "görüy",
-    "günün",
-    "indi",
-    "işare",
-    "işlem",
-    "kalır",
-    "lirad",
-    "mesaj",
-    "ons",
-    "seviy",
-    "sonra",
-    "yakla",
-    "yetki",
-    "yüzde",
-    "çıkma",
-    "öncek",
-    "üzeri"
-   ],
-   "at": "2026-11-11T05:26:00.546731+00:00"
-  },
-  {
-   "fp": [
     "ateşk",
     "avrup",
     "barış",
@@ -20602,12 +20558,11 @@
   "f786bbee04": 2,
   "27cc2aff0e": 1,
   "09c8951edd": 1,
-  "5841a0d9cf": 1
+  "5841a0d9cf": 2,
+  "4503d9a15d": 1,
+  "88d467cd1b": 1
  },
  "fail_log": [
-  "2026-11-12T16:40 Yanis Varoufakis Medyascope’a konuştu (2): “Bildiğimiz küres -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:44 Cumhurbaşkanı Erdoğan: Türkiye bölgesinin istikrar ve güven  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:44 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:44 İBB davası... Murat Ongun: At içeri, korkut, yıldır, bezdir, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:47 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:47 İBB davası... Murat Ongun: At içeri, korkut, yıldır, bezdir, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20644,12 +20599,15 @@
   "2026-11-12T17:21 EMEP’li Sevda Karaca’dan Yusuf Tekin’e tepki: Siz bu ülkenin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:24 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T17:24 CANLI ANLATIM: Türkiye - Belçika | Uluslar A Ligi 1. Grup 5. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T17:24 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T17:24 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:28 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:28 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T17:28 Zorlu Holding'de yeni dönem: Ahmet Nazif Zorlu'nun ardından  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120930228201799989",
+   "since_id": "2120931298223022268",
    "started": true
   },
   "ajansmuhbir1923": {
