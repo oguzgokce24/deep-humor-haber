@@ -17593,6 +17593,72 @@
     "çeken"
    ],
    "at": "2026-11-12T16:47:38.693851+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "ağacı",
+    "işçis",
+    "kalan",
+    "kesil",
+    "orman"
+   ],
+   "tok": [
+    "altın",
+    "ağacı",
+    "bozte",
+    "cinay",
+    "deniz",
+    "devri",
+    "ilçes",
+    "işlet",
+    "işçis",
+    "kalan",
+    "kesil",
+    "kesim",
+    "mente",
+    "muğla",
+    "nde",
+    "nın",
+    "olay",
+    "orman",
+    "serka",
+    "sıras",
+    "yerin",
+    "çalış",
+    "çam",
+    "şefli"
+   ],
+   "at": "2026-11-12T16:50:57.758781+00:00"
+  },
+  {
+   "fp": [
+    "adası",
+    "bölge",
+    "cumhu",
+    "erdoğ",
+    "güven",
+    "istik",
+    "türki"
+   ],
+   "tok": [
+    "adası",
+    "biçim",
+    "bölge",
+    "cop31",
+    "erdoğ",
+    "etmiş",
+    "forum",
+    "güven",
+    "güçlü",
+    "istik",
+    "konum",
+    "nda",
+    "nin",
+    "teyit",
+    "yaptı"
+   ],
+   "at": "2026-11-12T16:50:58.548888+00:00"
   }
  ],
  "posted": [
@@ -20341,14 +20407,9 @@
   "a07bb63ecd": 1,
   "a4c6b11609": 1,
   "048c09e922": 1,
-  "d84bd062a7": 1,
-  "fd202b4242": 2,
-  "5841a0d9cf": 2
+  "d84bd062a7": 2
  },
  "fail_log": [
-  "2026-11-12T15:56 Barış Boyun suç örgütü yöneticisi Azerbaycan'da yakalandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T15:59 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T15:59 Barış Boyun suç örgütü yöneticisi Azerbaycan'da yakalandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T15:59 Gümüşhane Üniversitesi'nde taciz iddiası. Öğretim üyesi açığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:03 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:03 Barış Boyun suç örgütü yöneticisi Azerbaycan'da yakalandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20385,7 +20446,10 @@
   "2026-11-12T16:44 İBB davası... Murat Ongun: At içeri, korkut, yıldır, bezdir, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:47 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T16:47 İBB davası... Murat Ongun: At içeri, korkut, yıldır, bezdir, -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T16:47 Cumhurbaşkanı Erdoğan: Türkiye bölgesinin istikrar ve güven  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T16:47 Cumhurbaşkanı Erdoğan: Türkiye bölgesinin istikrar ve güven  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T16:50 Muğla'da iş cinayeti: Kesilen ağacın altında kalan orman işç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T16:50 Cumhurbaşkanı Erdoğan: Türkiye bölgesinin istikrar ve güven  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T16:50 Yanis Varoufakis Medyascope’a konuştu (2): “Bildiğimiz küres -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
