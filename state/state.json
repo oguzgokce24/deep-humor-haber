@@ -18750,6 +18750,41 @@
     "yolda"
    ],
    "at": "2026-11-12T20:39:57.972978+00:00"
+  },
+  {
+   "fp": [
+    "basın",
+    "boğaz",
+    "hürmü",
+    "iran",
+    "kenti",
+    "sirik",
+    "vurul",
+    "yakın"
+   ],
+   "tok": [
+    "appea",
+    "basın",
+    "bağlı",
+    "belir",
+    "boğaz",
+    "diken",
+    "düşma",
+    "eyale",
+    "first",
+    "hedef",
+    "hürmü",
+    "iran",
+    "kenti",
+    "linka",
+    "post",
+    "sirik",
+    "site",
+    "the",
+    "vurul",
+    "yakın"
+   ],
+   "at": "2026-11-12T20:43:17.080756+00:00"
   }
  ],
  "posted": [
@@ -21510,13 +21545,10 @@
   "b8ef351855": 1,
   "e8ba8e9e1b": 1,
   "e0d8691094": 2,
-  "7961984077": 2,
-  "3d9abb2179": 1
+  "3d9abb2179": 2,
+  "b7585d74cf": 1
  },
  "fail_log": [
-  "2026-11-12T19:56 Gençler zor mesleklerden uzaklaştı: Almanya kişi başı göçmen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:59 Özgür Özel'den Malatya'da şehit olan askerler için başsağlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:59 Gençler zor mesleklerden uzaklaştı: Almanya kişi başı göçmen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:59 Cumhurbaşkanı Erdoğan'dan dünya liderlerine çağrı: 1,5 derec -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:02 Özgür Özel'den Malatya'da şehit olan askerler için başsağlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:02 Cumhurbaşkanı Erdoğan'dan dünya liderlerine çağrı: 1,5 derec -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21553,12 +21585,15 @@
   "2026-11-12T20:36 1 Mayıs Mahallesi'nde HABAŞ tepkisi: Bu düzenin sorumluları  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:39 İran basını: Hürmüz Boğazı yakınlarındaki Sirik kenti vuruld -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:39 Muhtar kapıyı kırıp, yangında mahsur kalan felçli vatandaşı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:39 Yoldan geçenlere pompalı tüfekle ateş açtı: 1 ölü, 4 yaralı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T20:39 Yoldan geçenlere pompalı tüfekle ateş açtı: 1 ölü, 4 yaralı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:43 X'te gönderi başına 4 olan medya yükleme limiti 20'ye yüksel -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:43 İran basını: Hürmüz Boğazı yakınlarındaki Sirik kenti vuruld -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:43 Muhtar kapıyı kırıp, yangında mahsur kalan felçli vatandaşı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120976024754348208",
+   "since_id": "2120980050136711370",
    "started": true
   },
   "ajansmuhbir1923": {
