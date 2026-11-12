@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "adliy",
-    "fon",
-    "kişi",
-    "sevk",
-    "soruş",
-    "vurgu",
-    "şüphe"
-   ],
-   "tok": [
-    "adliy",
-    "advis",
-    "alına",
-    "arala",
-    "arası",
-    "ardın",
-    "arınc",
-    "başsa",
-    "biten",
-    "bulls",
-    "bulun",
-    "capit",
-    "daki",
-    "emniy",
-    "eski",
-    "fon",
-    "genel",
-    "getir",
-    "gülka",
-    "holdi",
-    "ilişk",
-    "işlem",
-    "kapsa",
-    "kontr",
-    "kurul",
-    "lydia",
-    "maden",
-    "murat",
-    "müdür",
-    "nın",
-    "omg",
-    "piyas",
-    "ruzy",
-    "savcı",
-    "sağlı",
-    "serma",
-    "sevk",
-    "sürdü",
-    "sürüy",
-    "takas",
-    "var",
-    "vurgu",
-    "yatır",
-    "yunus",
-    "yönet",
-    "çağla",
-    "şirke"
-   ],
-   "at": "2026-11-10T15:22:53.815149+00:00"
-  },
-  {
-   "fp": [
     "gazet",
     "hapsi",
     "ismai",
@@ -15052,6 +14990,61 @@
     "ülken"
    ],
    "at": "2026-11-12T03:13:23.744710+00:00"
+  },
+  {
+   "fp": [
+    "beraa",
+    "yazıl"
+   ],
+   "tok": [
+    "beraa",
+    "yazıl"
+   ],
+   "at": "2026-11-12T03:23:38.970159+00:00"
+  },
+  {
+   "fp": [
+    "7",
+    "almay",
+    "düşen",
+    "juven",
+    "kurtu",
+    "nijer",
+    "ocakt",
+    "osimh",
+    "planl",
+    "serie",
+    "sıray",
+    "tehdi",
+    "yıldı"
+   ],
+   "tok": [
+    "almay",
+    "düşen",
+    "euro",
+    "hazır",
+    "italy",
+    "juv",
+    "juven",
+    "kalan",
+    "kulüb",
+    "kurtu",
+    "kısmı",
+    "nijer",
+    "ocakt",
+    "osimh",
+    "peşin",
+    "planl",
+    "serie",
+    "sıray",
+    "taksi",
+    "tehdi",
+    "tekli",
+    "yapıl",
+    "yıldı",
+    "ödene"
+   ],
+   "at": "2026-11-12T03:23:39.627188+00:00"
   }
  ],
  "posted": [
@@ -17888,15 +17881,10 @@
   "79582f57b5": 1,
   "75b25972f8": 1,
   "07bba78d65": 1,
-  "6a76cfc8f9": 2,
-  "ea20adcebe": 2,
   "3da0fbf4ee": 1,
-  "1e67a281cf": 1
+  "1e67a281cf": 2
  },
  "fail_log": [
-  "2026-11-12T02:33 Müteahhit 'çağ atladı': Şehir hastanelerine 129,4 milyar TL -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T02:36 Gençlere karşı 'ittifak': AKP-MHP'den 14 önergeye birden ret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T02:36 Mitingler yetmez: Kolektif irade yoksa zafer de yok -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:36 Müteahhit 'çağ atladı': Şehir hastanelerine 129,4 milyar TL -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:39 Gençlere karşı 'ittifak': AKP-MHP'den 14 önergeye birden ret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:39 Mitingler yetmez: Kolektif irade yoksa zafer de yok -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -17933,7 +17921,10 @@
   "2026-11-12T03:17 Mor Merdiven Ağı’ndan COP31’e eşitlik çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:20 AKOM'dan İstanbul için fırtına alarmı: Lodos 80 kilometreye  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:20 Bu yazılar beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T03:20 Serie A’da 7. Sıraya düşen Juventus, kurtuluş için Nijeryalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T03:20 Serie A’da 7. Sıraya düşen Juventus, kurtuluş için Nijeryalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T03:23 AKOM'dan İstanbul için fırtına alarmı: Lodos 80 kilometreye  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T03:23 Bu yazılar beraat etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T03:23 Serie A’da 7. Sıraya düşen Juventus, kurtuluş için Nijeryalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
