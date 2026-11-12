@@ -16853,6 +16853,48 @@
     "öğren"
    ],
    "at": "2026-11-12T13:33:09.953361+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "başar",
+    "edece",
+    "ilki",
+    "kur",
+    "müslü",
+    "nin",
+    "sayed",
+    "senat",
+    "tarih",
+    "yemin"
+   ],
+   "tok": [
+    "abd",
+    "abdul",
+    "ara",
+    "başar",
+    "edece",
+    "ilki",
+    "kasım",
+    "kur",
+    "kuran",
+    "köken",
+    "meyda",
+    "müslü",
+    "mısır",
+    "nin",
+    "okudu",
+    "sayed",
+    "senat",
+    "seçil",
+    "seçim",
+    "tarih",
+    "trump",
+    "yapac",
+    "yemin",
+    "ülke"
+   ],
+   "at": "2026-11-12T13:36:35.337614+00:00"
   }
  ],
  "posted": [
@@ -19591,13 +19633,10 @@
   "cc42d837c1": 2,
   "deb902a47f": 1,
   "4cae0db6f3": 1,
-  "51e8c4b34f": 2,
-  "2188ef8b2b": 1
+  "2188ef8b2b": 2,
+  "7565bdb754": 1
  },
  "fail_log": [
-  "2026-11-12T12:30 Ciro ikiye katlandı, sıra işçi kıyımında: Alfemo'da 200 işçi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:34 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:34 55 yıl sonra yeniden öğrenci oldu: 71 yaşındaki Nursel nine  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:34 Yeni Parti “Fon Yasası”nın iptali için AYM’ye başvurdu: Mağd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:37 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:37 İnşaat mühendisleri 81 ilde sokağa çıktı: Yaşanabilir bir ül -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19634,7 +19673,10 @@
   "2026-11-12T13:29 ABD'nin ilk Müslüman senatöründen tarihi karar: Kuran ile ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:33 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:33 Trump'tan Meksika'ya göç tehdidi: Gümrük vergilerini iki kat -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T13:33 ABD'nin ilk Müslüman senatöründen tarihi karar: Kuran ile ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T13:33 ABD'nin ilk Müslüman senatöründen tarihi karar: Kuran ile ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T13:36 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T13:36 Trump'tan Meksika'ya göç tehdidi: Gümrük vergilerini iki kat -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T13:36 ABD'nin ilk Müslüman senatöründen tarihi karar: Kuran ile ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
