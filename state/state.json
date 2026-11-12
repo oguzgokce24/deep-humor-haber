@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "arazi",
-    "kayma",
-    "tekel",
-    "torun",
-    "yarad",
-    "özell"
-   ],
-   "tok": [
-    "aktar",
-    "aldığ",
-    "alınm",
-    "arazi",
-    "arkad",
-    "aziz",
-    "aştı",
-    "beyko",
-    "daki",
-    "değer",
-    "ekspe",
-    "erdoğ",
-    "eski",
-    "ettiğ",
-    "eylül",
-    "fabri",
-    "geliş",
-    "gyo",
-    "günce",
-    "inşa",
-    "kayma",
-    "mily",
-    "milya",
-    "nin",
-    "nun",
-    "paşab",
-    "proje",
-    "sınıf",
-    "tarih",
-    "tekel",
-    "torun",
-    "yarad",
-    "özell"
-   ],
-   "at": "2026-11-11T02:41:45.744839+00:00"
-  },
-  {
-   "fp": [
     "30",
     "başla",
     "gidiy",
@@ -16991,6 +16945,55 @@
     "çıkan"
    ],
    "at": "2026-11-12T14:40:05.711687+00:00"
+  },
+  {
+   "fp": [
+    "cop31",
+    "dan",
+    "dikka",
+    "çeken"
+   ],
+   "tok": [
+    "antal",
+    "berk",
+    "cop31",
+    "dan",
+    "delcy",
+    "devle",
+    "dikka",
+    "dünya",
+    "düzen",
+    "egeme",
+    "endüs",
+    "enerj",
+    "fosil",
+    "geliş",
+    "geçic",
+    "güçle",
+    "hakkı",
+    "iklim",
+    "kirac",
+    "konus",
+    "mesaj",
+    "nde",
+    "oktay",
+    "petro",
+    "rodri",
+    "savun",
+    "sektö",
+    "sözle",
+    "uzakl",
+    "vazge",
+    "venez",
+    "yakıt",
+    "zirve",
+    "çağrı",
+    "çeken",
+    "çıktı",
+    "öne",
+    "ülkes"
+   ],
+   "at": "2026-11-12T14:43:23.843737+00:00"
   }
  ],
  "posted": [
@@ -19731,14 +19734,11 @@
   "4cae0db6f3": 1,
   "3c2af1f2b0": 1,
   "98b929b19b": 1,
-  "c180290259": 1,
-  "8013fb3d21": 2,
-  "1c848fc95e": 1
+  "c180290259": 2,
+  "1c848fc95e": 1,
+  "14dba45e48": 1
  },
  "fail_log": [
-  "2026-11-12T13:29 ABD'nin ilk Müslüman senatöründen tarihi karar: Kuran ile ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T13:33 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T13:33 Trump'tan Meksika'ya göç tehdidi: Gümrük vergilerini iki kat -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:33 ABD'nin ilk Müslüman senatöründen tarihi karar: Kuran ile ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:36 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T13:36 Trump'tan Meksika'ya göç tehdidi: Gümrük vergilerini iki kat -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19775,7 +19775,10 @@
   "2026-11-12T14:36 Son dakika: Yolcu otobüsü yandı: 18 kişi tahliye edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:40 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, sa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T14:40 Malatya'da okul polisine bıçaklı saldırı girişimi: Çocuk göz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T14:40 Son dakika: Yolcu otobüsü yandı: 18 kişi tahliye edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T14:40 Son dakika: Yolcu otobüsü yandı: 18 kişi tahliye edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:43 İstanbul'da lodos seferleri vurdu: Yarın daha da şiddetlenme -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:43 Fernando Muslera'dan büyük final öncesi flaş karar: Kulüp ba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T14:43 Venezuela'dan COP31'de dikkat çeken sözler: Petrol endüstrim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
