@@ -19301,12 +19301,11 @@
   "4e0d2337ab": 1,
   "924b86b192": 1,
   "ee67fd7dfc": 1,
-  "41083e9be2": 1
+  "41083e9be2": 2,
+  "a4213ead03": 1,
+  "c7eaaee7b5": 1
  },
  "fail_log": [
-  "2026-11-12T11:11 Düzce'de 12 Kasım 1999'da meydana gelen 7,2 büyüklüğündeki d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:14 Bodrum'da 17 yaşında çocuğu öldüren turist ABD'de televizyon -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:14 Emekli maaşı hesaplandı: En güçlü formül açıklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:14 Şanlıurfa’da tarihi çarşı rengarenk oldu: Fiyatı 250 TL’ye ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:18 Emekli maaşı hesaplandı: En güçlü formül açıklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:18 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19343,7 +19342,10 @@
   "2026-11-12T11:52 Kenan Yıldız Neden Yok? Kenan Yıldız Belçika Maçında Neden O -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:55 Çin, Türkiye'de 15 milyar dolarlık yenilenebilir enerji yatı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:55 AB'den Rusya'ya yeni yaptırım paketi: 150 şirket ve 50 banka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:55 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T11:55 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:00 AB'den Rusya'ya yeni yaptırım paketi: 150 şirket ve 50 banka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:00 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:00 Önceden yere atılıyordu şimdi trend oldu: Yılda 13 ton işlen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
