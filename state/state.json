@@ -16646,6 +16646,38 @@
     "yaşam"
    ],
    "at": "2026-11-12T12:17:24.302706+00:00"
+  },
+  {
+   "fp": [
+    "beyoğ",
+    "bulun",
+    "cesed",
+    "erkek",
+    "evde",
+    "halıy",
+    "nda",
+    "sarıl"
+   ],
+   "tok": [
+    "başla",
+    "beyoğ",
+    "bulun",
+    "cesed",
+    "ekipl",
+    "erkek",
+    "evde",
+    "evden",
+    "halde",
+    "halıy",
+    "incel",
+    "nda",
+    "olay",
+    "sarıl",
+    "sevk",
+    "yerin",
+    "çıktı"
+   ],
+   "at": "2026-11-12T12:20:44.184898+00:00"
   }
  ],
  "posted": [
@@ -19375,13 +19407,11 @@
   "924b86b192": 1,
   "ee67fd7dfc": 1,
   "c7eaaee7b5": 1,
-  "15e35808ed": 2,
-  "b4308abf2d": 1
+  "b4308abf2d": 1,
+  "4e7cce3495": 1,
+  "1d997e7e6b": 1
  },
  "fail_log": [
-  "2026-11-12T11:31 CHP'li 258 eski parlamenterden Yeni Parti'ye toplu katılım k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:35 İstanbul'un kuzeyinden geçecek demiryoluna 25 teklif -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:35 CHP'li 258 eski parlamenterden Yeni Parti'ye toplu katılım k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:35 Manifest'in kurucusu Tolga Akış'a tahliye kararı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:38 Çanakkale'de Aysel Sakaldaş'ı yaralayan fail tutuklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:38 Manifest grubunun menajeri Tolga Akış hakkında tahliye karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19418,12 +19448,15 @@
   "2026-11-12T12:14 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:17 Beyoğlu’nda dehşet: Evden halıya sarılı erkek cesedi çıktı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:17 AK Partili Gül'den fon sorusuna yanıt: Makamına ve mevkisine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:17 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T12:17 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:20 Beyoğlu’nda dehşet: Evden halıya sarılı erkek cesedi çıktı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:20 Gebelikte erken doğum uyarısı: 'Enfeksiyonlar ve takipsizlik -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:20 Son dakika... Genel Sağlık Sigortası borçlarının silinmesi i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120852520717230412",
+   "since_id": "2120853554479206850",
    "started": true
   },
   "ajansmuhbir1923": {
