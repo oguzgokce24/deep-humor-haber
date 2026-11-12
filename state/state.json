@@ -18716,6 +18716,40 @@
     "yapan"
    ],
    "at": "2026-11-12T20:36:36.333497+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "4",
+    "ateş",
+    "açtı",
+    "geçen",
+    "pompa",
+    "tüfek",
+    "yaral",
+    "yolda",
+    "ölü"
+   ],
+   "tok": [
+    "ardın",
+    "ateş",
+    "ateşl",
+    "açan",
+    "açtı",
+    "ağır",
+    "başın",
+    "dayay",
+    "erdem",
+    "geçen",
+    "ilçes",
+    "kadın",
+    "mersi",
+    "pompa",
+    "silah",
+    "tüfek",
+    "yolda"
+   ],
+   "at": "2026-11-12T20:39:57.972978+00:00"
   }
  ],
  "posted": [
@@ -21476,13 +21510,10 @@
   "b8ef351855": 1,
   "e8ba8e9e1b": 1,
   "e0d8691094": 2,
-  "01d1c8a759": 2,
-  "7961984077": 1
+  "7961984077": 2,
+  "3d9abb2179": 1
  },
  "fail_log": [
-  "2026-11-12T19:47 Yunus Akgün: 'Olumlu havayı hocamızla zaman geçtikçe sahaya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:56 Özgür Özel'den Malatya'da şehit olan askerler için başsağlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:56 Jensen Huang’ın kuzeni ve AMD CEO’su Lisa Su, 2026 yılının e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:56 Gençler zor mesleklerden uzaklaştı: Almanya kişi başı göçmen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:59 Özgür Özel'den Malatya'da şehit olan askerler için başsağlığ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:59 Gençler zor mesleklerden uzaklaştı: Almanya kişi başı göçmen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21519,7 +21550,10 @@
   "2026-11-12T20:33 Sabiha Gökçen Havalimanı'nda taksiciler birbirine girdi! 5 k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:36 İran basını: Hürmüz Boğazı yakınlarındaki Sirik kenti vuruld -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:36 Yoldan geçenlere pompalı tüfekle ateş açtı: 1 ölü, 4 yaralı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:36 1 Mayıs Mahallesi'nde HABAŞ tepkisi: Bu düzenin sorumluları  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T20:36 1 Mayıs Mahallesi'nde HABAŞ tepkisi: Bu düzenin sorumluları  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:39 İran basını: Hürmüz Boğazı yakınlarındaki Sirik kenti vuruld -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:39 Muhtar kapıyı kırıp, yangında mahsur kalan felçli vatandaşı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:39 Yoldan geçenlere pompalı tüfekle ateş açtı: 1 ölü, 4 yaralı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
