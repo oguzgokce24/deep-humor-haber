@@ -18637,6 +18637,52 @@
     "üzeri"
    ],
    "at": "2026-11-12T20:23:03.873960+00:00"
+  },
+  {
+   "fp": [
+    "alman",
+    "benz",
+    "merce",
+    "yatır"
+   ],
+   "tok": [
+    "aldı",
+    "alman",
+    "artıy",
+    "artış",
+    "askıy",
+    "audi",
+    "baskı",
+    "benz",
+    "daki",
+    "dayat",
+    "durdu",
+    "fabri",
+    "kapan",
+    "kapsa",
+    "konse",
+    "masad",
+    "merce",
+    "metal",
+    "olası",
+    "olmad",
+    "otomo",
+    "progr",
+    "stutt",
+    "tasar",
+    "tesis",
+    "uzun",
+    "volks",
+    "yakla",
+    "yatır",
+    "yönel",
+    "çalış",
+    "ücret",
+    "üreti",
+    "üzeri",
+    "şimdi"
+   ],
+   "at": "2026-11-12T20:26:24.234899+00:00"
   }
  ],
  "posted": [
@@ -21395,13 +21441,10 @@
   "c7ba82846e": 1,
   "6381cad46d": 1,
   "b8ef351855": 1,
-  "8fb9cd3735": 2,
-  "0b83d6ee51": 1
+  "0b83d6ee51": 2,
+  "e8ba8e9e1b": 1
  },
  "fail_log": [
-  "2026-11-12T19:33 AK Partili Şamil Tayyar'dan Abdullah Güler'e fon listesi tep -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:36 Antalya'dan COP31'e tepki: \"Yeşil yıkama tiyatrosundan iklim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:36 Kent içi raylı sistem ağı 18 km daha büyüyecek: 19 istasyonl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:36 AK Partili Şamil Tayyar'dan Abdullah Güler'e fon listesi tep -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:40 Antalya'dan COP31'e tepki: \"Yeşil yıkama tiyatrosundan iklim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:40 Emekli Albay Yusuf Alabarda: -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21438,12 +21481,15 @@
   "2026-11-12T20:19 Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler gelecekle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:23 Mercedes-Benz Almanya'da yeni yatırımları askıya aldı: Fabri -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:23 Nvidia'da Jensen Huang'ın istifası: ekonomistler 'büyük kayı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:23 Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler gelecekle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T20:23 Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler gelecekle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:26 Mercedes-Benz Almanya'da yeni yatırımları askıya aldı: Fabri -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:26 Avustralya’da 17 yaşındaki bir genç, arkadaşıyla kamp yapark -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:26 Nvidia'da Jensen Huang'ın istifası: ekonomistler 'büyük kayı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2120973260363903059",
+   "since_id": "2120976024754348208",
    "started": true
   },
   "ajansmuhbir1923": {
