@@ -16116,6 +16116,114 @@
     "ırmak"
    ],
    "at": "2026-11-12T09:08:50.150051+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "almış",
+    "anaht",
+    "bıçak",
+    "darbe",
+    "eski",
+    "evin",
+    "eşini",
+    "gizli",
+    "öldür"
+   ],
+   "tok": [
+    "aksar",
+    "almış",
+    "anaht",
+    "annes",
+    "boşan",
+    "bıçak",
+    "darbe",
+    "döndü",
+    "eski",
+    "evin",
+    "evind",
+    "eşini",
+    "gizli",
+    "hasta",
+    "nöbet",
+    "yeşil",
+    "yıl",
+    "çocuk",
+    "öldür",
+    "şefik"
+   ],
+   "at": "2026-11-12T09:12:07.208832+00:00"
+  },
+  {
+   "fp": [
+    "ihrac",
+    "ithal",
+    "tüik"
+   ],
+   "tok": [
+    "artar",
+    "aşağı",
+    "birim",
+    "buna",
+    "değer",
+    "dış",
+    "endek",
+    "eylül",
+    "geril",
+    "göste",
+    "güçlü",
+    "haddi",
+    "ihrac",
+    "ithal",
+    "karşı",
+    "mikta",
+    "nin",
+    "oranl",
+    "ticar",
+    "tüik",
+    "veril",
+    "yükse",
+    "çekti"
+   ],
+   "at": "2026-11-12T09:12:07.820854+00:00"
+  },
+  {
+   "fp": [
+    "arkad",
+    "vurdu",
+    "çenes"
+   ],
+   "tok": [
+    "aldı",
+    "altın",
+    "alını",
+    "arkad",
+    "ateş",
+    "avına",
+    "başla",
+    "domuz",
+    "ekipl",
+    "facia",
+    "gökçe",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "kaldı",
+    "kazar",
+    "mahal",
+    "muhta",
+    "nin",
+    "olayd",
+    "olayl",
+    "samsu",
+    "tedav",
+    "tüfeğ",
+    "vurdu",
+    "çarşa",
+    "çenes",
+    "çıkan"
+   ],
+   "at": "2026-11-12T09:12:08.514258+00:00"
   }
  ],
  "posted": [
@@ -18974,15 +19082,9 @@
   "3678b65b9d": 1,
   "6977d48929": 1,
   "4a04a6b91d": 1,
-  "4c79b8f4d9": 2,
-  "75f111092c": 2,
-  "a6498ed8bf": 2,
-  "42f014a7d5": 2
+  "4c79b8f4d9": 2
  },
  "fail_log": [
-  "2026-11-12T08:01 Sultangazi'de 6'ncı kattaki evinin balkonundan düşen kadın a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T08:04 100 km’de 0,9 litre yakıyor: Dünyanın en az yakan aracı açık -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T08:04 Saldırı için araçtan indi: 182 bin 719 lira ceza -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T08:04 Sultangazi'de 6'ncı kattaki evinin balkonundan düşen kadın a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T08:07 100 km’de 0,9 litre yakıyor: Dünyanın en az yakan aracı açık -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T08:07 Sultangazi'de 6'ncı kattaki evinin balkonundan düşen kadın a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19019,7 +19121,10 @@
   "2026-11-12T09:05 TÜİK açıkladı: Türkiye'nin ithalat ve ihracat oranları belli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T09:08 Eğitim-Sen Genel Başkanı Irmak: Okul saldırısında asıl sorum -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T09:08 Eski eşini 15 bıçak darbesiyle öldürmüştü: Evin anahtarını g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T09:08 TÜİK açıkladı: Türkiye'nin ithalat ve ihracat oranları belli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T09:08 TÜİK açıkladı: Türkiye'nin ithalat ve ihracat oranları belli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T09:12 Eski eşini 15 bıçak darbesiyle öldürmüştü: Evin anahtarını g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T09:12 TÜİK açıkladı: Türkiye'nin ithalat ve ihracat oranları belli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T09:12 Samsun'da av faciası: Arkadaşını çenesinden vurdu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
