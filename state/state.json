@@ -15960,6 +15960,129 @@
     "yargı"
    ],
    "at": "2026-11-12T08:11:04.087434+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "beled",
+    "seçim"
+   ],
+   "tok": [
+    "adayı",
+    "aki",
+    "akp",
+    "aldı",
+    "ardın",
+    "barta",
+    "beled",
+    "doğan",
+    "görev",
+    "mecli",
+    "nin",
+    "osman",
+    "oylam",
+    "parti",
+    "seçim",
+    "tur",
+    "turda",
+    "uzakl",
+    "vekil",
+    "yapıl",
+    "yavuz",
+    "önde",
+    "şeniz"
+   ],
+   "at": "2026-11-12T08:45:47.841721+00:00"
+  },
+  {
+   "fp": [
+    "29",
+    "5",
+    "banka",
+    "enfla",
+    "merke",
+    "sonu",
+    "tahmi",
+    "yükse",
+    "yıl"
+   ],
+   "tok": [
+    "asgar",
+    "banka",
+    "başla",
+    "bekle",
+    "düşme",
+    "emekl",
+    "enfla",
+    "gelec",
+    "günce",
+    "haney",
+    "hedef",
+    "ilan",
+    "ilişk",
+    "karah",
+    "kayıp",
+    "kez",
+    "memur",
+    "milya",
+    "nda",
+    "nin",
+    "nın",
+    "puanl",
+    "rapor",
+    "reviz",
+    "rezer",
+    "sapma",
+    "sonu",
+    "tahmi",
+    "tcmb",
+    "tek",
+    "topla",
+    "yenid",
+    "yukar",
+    "yönlü",
+    "yükse",
+    "yüzde",
+    "yıl",
+    "yılın",
+    "zam",
+    "çekti",
+    "çıkar",
+    "ücret"
+   ],
+   "at": "2026-11-12T08:45:49.088307+00:00"
+  },
+  {
+   "fp": [
+    "100",
+    "başla",
+    "bıst",
+    "dolar",
+    "döviz",
+    "güne",
+    "yükse"
+   ],
+   "tok": [
+    "avro",
+    "açılı",
+    "başla",
+    "borsa",
+    "bıst",
+    "döviz",
+    "endek",
+    "euro",
+    "güne",
+    "ise",
+    "kurla",
+    "lirad",
+    "piyas",
+    "puand",
+    "rakam",
+    "serbe",
+    "seviy",
+    "yükse"
+   ],
+   "at": "2026-11-12T08:45:49.684273+00:00"
   }
  ],
  "posted": [
@@ -18816,15 +18939,9 @@
   "e75bc81961": 2,
   "0cebbb39e9": 1,
   "3678b65b9d": 1,
-  "6977d48929": 1,
-  "4c79b8f4d9": 2,
-  "ae6e5d9736": 2,
-  "8afeb7f0a4": 2
+  "6977d48929": 1
  },
  "fail_log": [
-  "2026-11-12T07:34 İzmir’de 17 milyon 712 bin makaron ele geçirildi: 3 tutuklam -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T07:37 Şehir hastanelerinin faturası kabardı: 10 ayda 129,5 milyar  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T07:37 Mavi Apartmanı davasında karar: İş yeri maliki beraat etti,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T07:37 Mississippi’de 145 yıl sonra siyah senatör: Cumhuriyetçileri -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T07:40 Mississippi’de 145 yıl sonra siyah senatör: Cumhuriyetçileri -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T07:40 Putin, Trump'ın temsilcileriyle görüşecek: Kremlin'den açıkl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18861,7 +18978,10 @@
   "2026-11-12T08:39 Dövizde ilk rakamlar belli oldu: Dolar ve avro güne yükseliş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T08:42 Belediye başkanı tutuklanmıştı: Başkanvekili seçimi yapılıyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T08:42 TCMB enflasyon tahminlerini 18. kez yükseltti: 2026 sonu yüz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T08:42 Dövizde ilk rakamlar belli oldu: Dolar ve avro güne yükseliş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T08:42 Dövizde ilk rakamlar belli oldu: Dolar ve avro güne yükseliş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T08:45 Belediye başkanı tutuklanmıştı: Başkanvekili seçimi yapılıyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T08:45 TCMB enflasyon tahminlerini 18. kez yükseltti: 2026 sonu yüz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T08:45 Dövizde ilk rakamlar belli oldu: Dolar ve avro güne yükseliş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
