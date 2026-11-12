@@ -2,82 +2,6 @@
  "seen": [
   {
    "fp": [
-    "atağı",
-    "dan",
-    "denet",
-    "garan",
-    "ikinc",
-    "ilave",
-    "model",
-    "satış",
-    "tesla",
-    "türki"
-   ],
-   "tok": [
-    "alabi",
-    "altın",
-    "alınd",
-    "atağı",
-    "avant",
-    "aynı",
-    "aşmay",
-    "bakım",
-    "başla",
-    "bin",
-    "bünye",
-    "dan",
-    "denet",
-    "devre",
-    "değer",
-    "doğru",
-    "edili",
-    "elekt",
-    "eski",
-    "garan",
-    "geçen",
-    "geçmi",
-    "gün",
-    "hasar",
-    "ikinc",
-    "ilave",
-    "inter",
-    "ise",
-    "istey",
-    "kendi",
-    "kilom",
-    "kontr",
-    "kurum",
-    "mevcu",
-    "model",
-    "otomo",
-    "pazar",
-    "progr",
-    "resmi",
-    "satın",
-    "satış",
-    "sipar",
-    "siste",
-    "sites",
-    "sundu",
-    "sürüc",
-    "takas",
-    "tekni",
-    "tesla",
-    "tesli",
-    "veril",
-    "verme",
-    "yapıl",
-    "yenil",
-    "yola",
-    "yıl",
-    "çıkar",
-    "çıkıl",
-    "üzeri"
-   ],
-   "at": "2026-11-11T00:00:44.118235+00:00"
-  },
-  {
-   "fp": [
     "3",
     "fon",
     "soruş",
@@ -16573,6 +16497,38 @@
     "yaşam"
    ],
    "at": "2026-11-12T11:55:36.173153+00:00"
+  },
+  {
+   "fp": [
+    "paket",
+    "rusya",
+    "yaptı"
+   ],
+   "tok": [
+    "avrup",
+    "banka",
+    "baskı",
+    "belir",
+    "benja",
+    "den",
+    "ekono",
+    "frans",
+    "hadda",
+    "hazır",
+    "hedef",
+    "işler",
+    "kapsa",
+    "mosko",
+    "nci",
+    "paket",
+    "rusya",
+    "sorum",
+    "sürdü",
+    "yaptı",
+    "yönel",
+    "şirke"
+   ],
+   "at": "2026-11-12T12:03:52.141850+00:00"
   }
  ],
  "posted": [
@@ -19301,14 +19257,12 @@
   "4e0d2337ab": 1,
   "924b86b192": 1,
   "ee67fd7dfc": 1,
-  "41083e9be2": 2,
   "a4213ead03": 1,
-  "c7eaaee7b5": 1
+  "c7eaaee7b5": 1,
+  "7b41f8b79d": 1,
+  "37d36ccfaf": 1
  },
  "fail_log": [
-  "2026-11-12T11:14 Şanlıurfa’da tarihi çarşı rengarenk oldu: Fiyatı 250 TL’ye ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:18 Emekli maaşı hesaplandı: En güçlü formül açıklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T11:18 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:18 Şanlıurfa’da tarihi çarşı rengarenk oldu: Fiyatı 250 TL’ye ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:21 TBMM Başkanı Kurtulmuş'tan Bahçeli'ye ziyaret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T11:21 Emekli maaşı hesaplandı: En güçlü formül açıklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19345,7 +19299,10 @@
   "2026-11-12T11:55 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:00 AB'den Rusya'ya yeni yaptırım paketi: 150 şirket ve 50 banka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:00 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:00 Önceden yere atılıyordu şimdi trend oldu: Yılda 13 ton işlen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T12:00 Önceden yere atılıyordu şimdi trend oldu: Yılda 13 ton işlen -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:03 AB'den Rusya'ya yeni yaptırım paketi: 150 şirket ve 50 banka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:03 Gülistan Kılıç Koçyiğit’ten HABAŞ katliamı tepkisi: ‘Niye bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:03 88 yıllık ünlü tatlıcı zorda: Konkordato talep edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
