@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "butla",
-    "chp",
-    "fonda",
-    "genel",
-    "iddia",
-    "kalmı",
-    "maaşl",
-    "merke",
-    "çalış"
-   ],
-   "tok": [
-    "akp",
-    "butla",
-    "chp",
-    "fon",
-    "fonda",
-    "gazia",
-    "genel",
-    "hasan",
-    "iddia",
-    "kaldı",
-    "kalmı",
-    "krizi",
-    "maaşl",
-    "maaşı",
-    "mecli",
-    "mille",
-    "sinde",
-    "sinin",
-    "ucu",
-    "uzand",
-    "vurgu",
-    "çalış",
-    "öztür"
-   ],
-   "at": "2026-11-11T11:34:51.931230+00:00"
-  },
-  {
-   "fp": [
-    "belge",
-    "izlen",
-    "naza",
-    "yılın"
-   ],
-   "tok": [
-    "anlat",
-    "belge",
-    "biri",
-    "deki",
-    "dünya",
-    "gazze",
-    "genel",
-    "izlen",
-    "izley",
-    "katli",
-    "medya",
-    "naza",
-    "sivil",
-    "ulaşt",
-    "yılın",
-    "ölüml"
-   ],
-   "at": "2026-11-11T11:34:52.308465+00:00"
-  },
-  {
-   "fp": [
     "kadro",
     "milli",
     "sakat",
@@ -22362,12 +22295,11 @@
   "f7ac78adce": 1,
   "3bb68afe05": 1,
   "7dde88538c": 1,
-  "f6718105ce": 1
+  "f6718105ce": 2,
+  "9757a63dd2": 1,
+  "9619759dc7": 1
  },
  "fail_log": [
-  "2026-11-12T22:51 Gazeteciden Hakan Fidan'ı gülümseten ilginç soru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T22:54 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T22:54 Muçi ve Manaj attı Arnavutluk kazandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:54 Gazeteciden Hakan Fidan'ı gülümseten ilginç soru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:57 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:57 Muçi ve Manaj attı Arnavutluk kazandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -22404,7 +22336,10 @@
   "2026-11-12T23:31 19 tabut 1 yalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:34 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:34 İspanya puan kaybı nedir bilmiyor! 5'te 5 yaptılar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T23:34 19 tabut 1 yalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T23:34 19 tabut 1 yalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:37 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:37 İtalya geriden gelip Fransa'yı dağıttı! Türkiye'nin grubunda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:37 Arda Güler öyle bir gol attı ki! 30 metreden vurdu Sergen Ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
