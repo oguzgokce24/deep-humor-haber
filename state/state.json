@@ -18058,6 +18058,39 @@
     "öne"
    ],
    "at": "2026-11-12T19:02:43.746990+00:00"
+  },
+  {
+   "fp": [
+    "gss",
+    "mecli",
+    "silin"
+   ],
+   "tok": [
+    "abdul",
+    "borcu",
+    "borçl",
+    "büyük",
+    "düzen",
+    "genel",
+    "grup",
+    "gss",
+    "güler",
+    "istih",
+    "mecli",
+    "mille",
+    "parti",
+    "prim",
+    "sağlı",
+    "sigor",
+    "silin",
+    "sunul",
+    "tbmm",
+    "tekli",
+    "teşvi",
+    "uzatı",
+    "öngör"
+   ],
+   "at": "2026-11-12T19:06:08.266082+00:00"
   }
  ],
  "posted": [
@@ -20814,14 +20847,10 @@
   "4503d9a15d": 2,
   "4f19b45f7a": 2,
   "f28066f4b8": 1,
-  "a52f6fb9f2": 2,
-  "f2fa1a0f3b": 1,
-  "dcdb666dd6": 1
+  "f2fa1a0f3b": 2,
+  "dcdb666dd6": 2
  },
  "fail_log": [
-  "2026-11-12T18:12 İzmir'de denizde korkutan görüntü: Kadın cesedi çıktı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T18:16 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T18:16 İzmir'de denizde korkutan görüntü: Kadın cesedi çıktı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T18:16 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T18:19 Beyaz Saray yakınlarında silahlı saldırı: 5 kişi vuruldu, 1  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T18:19 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20858,7 +20887,10 @@
   "2026-11-12T18:59 Meclis'e sunuldu: 2,2 milyon kişinin GSS borcu silinecek -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:02 İmamoğlu'ndan Silivri'de sert savunma: Bu dava çökmüştür, ad -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:02 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:02 Arda Güler'in füzesi yetmedi! Milliler galibiyete hasret: 1- -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T19:02 Arda Güler'in füzesi yetmedi! Milliler galibiyete hasret: 1- -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:06 İmamoğlu'ndan Silivri'de sert savunma: Bu dava çökmüştür, ad -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:06 Furkan Apartmanı davası: Müteahhit Hasan Hüseyin Sever'e yak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T19:06 Meclis'e sunuldu: 2,2 milyon kişinin GSS borcu silinecek -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
