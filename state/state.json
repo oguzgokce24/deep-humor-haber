@@ -16846,6 +16846,49 @@
     "ülkey"
    ],
    "at": "2026-11-12T12:44:26.721944+00:00"
+  },
+  {
+   "fp": [
+    "davas",
+    "den",
+    "edile",
+    "ibb",
+    "kimle",
+    "siliv",
+    "tahli",
+    "yayın"
+   ],
+   "tok": [
+    "aktar",
+    "akış",
+    "aydan",
+    "başsa",
+    "davas",
+    "den",
+    "duruş",
+    "düzen",
+    "edile",
+    "ekibi",
+    "grubu",
+    "hapis",
+    "ibb",
+    "iddia",
+    "istem",
+    "kapsa",
+    "kimle",
+    "manif",
+    "medya",
+    "menaj",
+    "müste",
+    "siliv",
+    "tahli",
+    "tolga",
+    "yayın",
+    "yürüt",
+    "yıla",
+    "özel"
+   ],
+   "at": "2026-11-12T12:51:10.556457+00:00"
   }
  ],
  "posted": [
@@ -19579,14 +19622,10 @@
   "1d997e7e6b": 1,
   "acb6f0e249": 2,
   "59ad377d4d": 1,
-  "2fc5b47863": 2,
-  "7565bdb754": 1,
-  "295c8a0b69": 1
+  "7565bdb754": 2,
+  "295c8a0b69": 2
  },
  "fail_log": [
-  "2026-11-12T12:03 88 yıllık ünlü tatlıcı zorda: Konkordato talep edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:07 Gülistan Kılıç Koçyiğit’ten HABAŞ katliamı tepkisi: ‘Niye bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:07 88 yıllık ünlü tatlıcı zorda: Konkordato talep edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:07 Fon soruşturmasında tutuklanan Fatma Betül Sayan Kaya'nın ce -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:10 Gülistan Kılıç Koçyiğit’ten HABAŞ katliamı tepkisi: ‘Niye bi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:10 88 yıllık ünlü tatlıcı zorda: Konkordato talep edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19623,7 +19662,10 @@
   "2026-11-12T12:44 İnşaat mühendisleri 81 ilde sokağa çıktı: Yaşanabilir bir ül -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:47 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T12:47 Manifest'in menajerine 'müstehcen yayın' davasının ilk duruş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T12:47 Kasım ayında raflarda: Borges, küçük İskender, Yu Hua ve H.G -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T12:47 Kasım ayında raflarda: Borges, küçük İskender, Yu Hua ve H.G -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:51 Malatya’da okul girişinde kadın polise bıçaklı saldırı: Kız  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:51 Manifest'in menajerine 'müstehcen yayın' davasının ilk duruş -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T12:51 Kasım ayında raflarda: Borges, küçük İskender, Yu Hua ve H.G -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
