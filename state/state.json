@@ -19183,14 +19183,11 @@
   "5519e73cad": 2,
   "f3a59f85ac": 1,
   "b270dbb972": 1,
-  "525f322708": 1,
-  "1bd60c649a": 1,
-  "c36220be2f": 1
+  "525f322708": 2,
+  "1bd60c649a": 2,
+  "c36220be2f": 2
  },
  "fail_log": [
-  "2026-11-12T10:05 Çatalca'da içerisinde ses sistemleri bulunan konteyner kıyıy -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:08 116 suçtan aranan suç örgütü elebaşı Sercan Sayal Türkiye'ye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:08 Adana'da hastanede doktor ile hemşire arasında arbede: Beyaz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:08 Bütçe görüşmelerinde Yusuf Tekin'e protesto: 'Şovu dışarıda  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:12 Adana'da hastanede doktor ile hemşire arasında arbede: Beyaz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:12 Bütçe görüşmelerinde Yusuf Tekin'e protesto: 'Şovu dışarıda  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -19227,7 +19224,10 @@
   "2026-11-12T10:44 COP31’de Kıbrıs gerilimi: AB’den Türkiye’ye Gümrük Birliği i -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:48 Manisa'da park halindeki otomobilin yanında erkek cesedi bul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T10:48 Gürsel Aksel Stadyumu nerede, hangi şehirde ve ilçede? Gürse -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T10:48 Mersin Emek ve Demokrasi Platformu: İş cinayetleri kader değ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T10:48 Mersin Emek ve Demokrasi Platformu: İş cinayetleri kader değ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T10:51 Manisa'da park halindeki otomobilin yanında erkek cesedi bul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T10:51 Gürsel Aksel Stadyumu nerede, hangi şehirde ve ilçede? Gürse -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T10:51 Mersin Emek ve Demokrasi Platformu: İş cinayetleri kader değ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
