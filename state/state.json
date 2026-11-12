@@ -15147,6 +15147,61 @@
     "şekil"
    ],
    "at": "2026-11-12T03:36:55.350590+00:00"
+  },
+  {
+   "fp": [
+    "aile",
+    "bakan",
+    "böyle",
+    "bütçe",
+    "edece",
+    "fon",
+    "gönde",
+    "görüş",
+    "muhal",
+    "mücad",
+    "nın",
+    "vurgu",
+    "yoksu"
+   ],
+   "tok": [
+    "aile",
+    "asu",
+    "böyle",
+    "bütçe",
+    "dikka",
+    "edece",
+    "eskid",
+    "fon",
+    "fonda",
+    "genel",
+    "geçen",
+    "gönde",
+    "görüş",
+    "göste",
+    "kadın",
+    "kalem",
+    "kaya",
+    "kolla",
+    "koltu",
+    "mille",
+    "milya",
+    "muhal",
+    "mücad",
+    "nın",
+    "otura",
+    "parti",
+    "tahm",
+    "vurgu",
+    "yaşad",
+    "yoksu",
+    "yurtt",
+    "yıl",
+    "çekti",
+    "çuval",
+    "örnek"
+   ],
+   "at": "2026-11-12T03:40:15.530996+00:00"
   }
  ],
  "posted": [
@@ -17983,13 +18038,10 @@
   "79582f57b5": 1,
   "75b25972f8": 1,
   "07bba78d65": 1,
-  "f1f3e78654": 2,
-  "bc30607eb9": 1
+  "bc30607eb9": 2,
+  "b651f052b8": 1
  },
  "fail_log": [
-  "2026-11-12T02:53 Beyoğlu'nda çocuklara ara tatil şenliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T02:56 Borç sarmalı finans şirketlerini besliyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T02:56 BirGün muhabiri İsmail Arı 22 gündür tutuklu! -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T02:56 Özel antrenörle çalıştı, formunu artırdı: İrfan’ın sırrı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:00 Borç sarmalı finans şirketlerini besliyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:00 BirGün muhabiri İsmail Arı 22 gündür tutuklu! -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18026,7 +18078,10 @@
   "2026-11-12T03:33 Muhalefet Aile Bakanlığı’nın bütçe görüşmelerinde fon vurgun -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:36 Trump’ın ‘topal ördek’ olmasıyla F-35 tedariki tamamen rafa  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T03:36 Muhalefet Aile Bakanlığı’nın bütçe görüşmelerinde fon vurgun -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T03:36 Fransa izin mi istedi, rutin bildirimde mi bulundu? Doğu Akd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T03:36 Fransa izin mi istedi, rutin bildirimde mi bulundu? Doğu Akd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T03:40 Muhalefet Aile Bakanlığı’nın bütçe görüşmelerinde fon vurgun -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T03:40 Fransa izin mi istedi, rutin bildirimde mi bulundu? Doğu Akd -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T03:40 Türk Telekom ve TÜİK’ten aldığı ihaleler Meclis gündemine ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
