@@ -19478,6 +19478,32 @@
     "çatlı"
    ],
    "at": "2026-11-12T22:54:34.909682+00:00"
+  },
+  {
+   "fp": [
+    "arnav",
+    "attı",
+    "kazan",
+    "manaj",
+    "muçi"
+   ],
+   "tok": [
+    "arnav",
+    "attı",
+    "ernes",
+    "finla",
+    "grup",
+    "hafta",
+    "kazan",
+    "ligi",
+    "manaj",
+    "mağlu",
+    "muçi",
+    "rey",
+    "uefa",
+    "ulusl"
+   ],
+   "at": "2026-11-12T22:57:52.895917+00:00"
   }
  ],
  "posted": [
@@ -22243,13 +22269,10 @@
   "f7ac78adce": 1,
   "3bb68afe05": 1,
   "7dde88538c": 1,
-  "23d8cd8ec6": 2,
-  "f6718105ce": 1
+  "f6718105ce": 2,
+  "9e23a2fb82": 1
  },
  "fail_log": [
-  "2026-11-12T22:06 Orban reddetmişti, Magyar onaylıyor: Macaristan'dan İstanbul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T22:09 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T22:09 GSS prim borcu affı Meclis'te! 1 Ocak 2017 öncesi 5,6 milyar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:09 HABAŞ patronu Mehmet Rüştü Başaran yalı hapsinden işçilere t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:12 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:12 GSS prim borcu affı Meclis'te! 1 Ocak 2017 öncesi 5,6 milyar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -22286,7 +22309,10 @@
   "2026-11-12T22:51 Gazeteciden Hakan Fidan'ı gülümseten ilginç soru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:54 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:54 Muçi ve Manaj attı Arnavutluk kazandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T22:54 Gazeteciden Hakan Fidan'ı gülümseten ilginç soru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T22:54 Gazeteciden Hakan Fidan'ı gülümseten ilginç soru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T22:57 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T22:57 Muçi ve Manaj attı Arnavutluk kazandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T22:57 Harry Kane İngiltere'de 36 yıllık rekoru kırdı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
