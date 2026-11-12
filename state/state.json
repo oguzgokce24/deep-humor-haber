@@ -18684,14 +18684,11 @@
   "44f09a9ba2": 2,
   "b554035ece": 1,
   "56532c4067": 1,
-  "c8eca3a6d5": 1,
-  "bec1a3218a": 1,
-  "a8e87fe3e5": 1
+  "c8eca3a6d5": 2,
+  "bec1a3218a": 2,
+  "a8e87fe3e5": 2
  },
  "fail_log": [
-  "2026-11-12T05:43 Ahmet Taşgetiren: 'Alıcı' parti için hayati sorular -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T05:46 Portekiz’de Charles Kasırgası alarmı: 350’den fazla uçuş ipt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T05:46 Ahmet Taşgetiren: 'Alıcı' parti için hayati sorular -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:46 Akif Beki: Başkalarına güvenmiyorlarsa bari Demircan hocaya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:49 Portekiz’de Charles Kasırgası alarmı: 350’den fazla uçuş ipt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:49 Ahmet Taşgetiren: 'Alıcı' parti için hayati sorular -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18728,7 +18725,10 @@
   "2026-11-12T06:31 Dünyanın en ölümcül deniz yolu artık Karadeniz: İstanbul Boğ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T06:34 Altın güne düşüşle başladı: Gram, çeyrek ve Cumhuriyet altın -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T06:34 Ömer Çelik'ten İsrail'e tepki. \"Katliam şebekesi, suçlarını  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T06:34 Kontenjanlar doluyor! 2027 Diyanet Ramazan Umresi fiyatları  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T06:34 Kontenjanlar doluyor! 2027 Diyanet Ramazan Umresi fiyatları  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:38 Altın güne düşüşle başladı: Gram, çeyrek ve Cumhuriyet altın -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:38 Ömer Çelik'ten İsrail'e tepki. \"Katliam şebekesi, suçlarını  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T06:38 Kontenjanlar doluyor! 2027 Diyanet Ramazan Umresi fiyatları  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
