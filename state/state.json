@@ -15688,6 +15688,48 @@
     "yönel"
    ],
    "at": "2026-11-12T05:23:26.792544+00:00"
+  },
+  {
+   "fp": [
+    "almıy",
+    "deki",
+    "dünya",
+    "günde",
+    "hediy",
+    "israi",
+    "işgal",
+    "leven",
+    "lübna",
+    "suriy",
+    "yer"
+   ],
+   "tok": [
+    "almıy",
+    "dair",
+    "deki",
+    "diken",
+    "dünya",
+    "formü",
+    "gidil",
+    "günde",
+    "hediy",
+    "hüküm",
+    "ihtim",
+    "israi",
+    "işgal",
+    "koali",
+    "kurul",
+    "leven",
+    "lübna",
+    "post",
+    "sandı",
+    "suriy",
+    "tartı",
+    "the",
+    "yenid",
+    "yer"
+   ],
+   "at": "2026-11-12T05:30:00.314323+00:00"
   }
  ],
  "posted": [
@@ -18527,15 +18569,11 @@
   "36a42b4731": 2,
   "880732de06": 1,
   "75676d747e": 1,
-  "976a4ac000": 2,
-  "baa918a1d4": 1,
+  "baa918a1d4": 2,
   "4d579019b9": 1,
-  "2d390e366f": 1
+  "2d390e366f": 2
  },
  "fail_log": [
-  "2026-11-12T04:36 Atilla Özsever: Asgari ücret 45 ay boyunca açlık sınırının a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T04:39 New York'ta bir bina kısmen çöktü: En az 1 kişi hayatını kay -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T04:39 Atilla Özsever: Asgari ücret 45 ay boyunca açlık sınırının a -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T04:39 Esfender Korkmaz: Yalnızca günü kurtarmaya bakabiliyoruz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T04:42 New York'ta bir bina kısmen çöktü: En az 1 kişi hayatını kay -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T04:42 Esfender Korkmaz: Yalnızca günü kurtarmaya bakabiliyoruz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -18572,7 +18610,10 @@
   "2026-11-12T05:23 Babacan: Terörsüz Türkiye sürecini ilk destekleyen siyasi pa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:26 Peru’nun Lima kentinde polis ekipleri, öğrenci ve tekerlekli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T05:26 Emre Belözoğlu'nun ilk transferi belli oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T05:26 Hediye Levent: Lübnan ve Suriye'deki İsrail işgali dünya gün -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T05:26 Hediye Levent: Lübnan ve Suriye'deki İsrail işgali dünya gün -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T05:30 Emre Belözoğlu'nun ilk transferi belli oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T05:30 Hediye Levent: Lübnan ve Suriye'deki İsrail işgali dünya gün -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T05:30 Babacan: Terörsüz Türkiye sürecini ilk destekleyen siyasi pa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
