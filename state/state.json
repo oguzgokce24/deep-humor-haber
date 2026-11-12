@@ -18559,6 +18559,44 @@
     "şehri"
    ],
    "at": "2026-11-12T20:16:16.379590+00:00"
+  },
+  {
+   "fp": [
+    "dehşe",
+    "kaldı",
+    "kurşu",
+    "pompa",
+    "var",
+    "yaral",
+    "yağdı",
+    "yürüy",
+    "ölü"
+   ],
+   "tok": [
+    "alanı",
+    "ateş",
+    "açan",
+    "açtı",
+    "dehşe",
+    "döndü",
+    "erdem",
+    "ilçes",
+    "kadın",
+    "kaldı",
+    "kanlı",
+    "kurşu",
+    "mersi",
+    "ortal",
+    "pompa",
+    "rastg",
+    "savaş",
+    "tüfeğ",
+    "var",
+    "yağdı",
+    "yürüy",
+    "ölümü"
+   ],
+   "at": "2026-11-12T20:19:38.780865+00:00"
   }
  ],
  "posted": [
@@ -21316,14 +21354,11 @@
   "a2131ddb6a": 1,
   "c7ba82846e": 1,
   "6381cad46d": 1,
-  "6b28ee4761": 2,
-  "36754b2feb": 1,
-  "b8ef351855": 1
+  "36754b2feb": 2,
+  "b8ef351855": 1,
+  "8fb9cd3735": 1
  },
  "fail_log": [
-  "2026-11-12T19:26 Milyonlarca kullanıcının alışkanlığı değişecek: Google Mesaj -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:30 Milyonlarca kullanıcının alışkanlığı değişecek: Google Mesaj -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T19:30 Kent içi raylı sistem ağı 18 km daha büyüyecek: 19 istasyonl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:30 AK Partili Şamil Tayyar'dan Abdullah Güler'e fon listesi tep -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:33 Antalya'dan COP31'e tepki: \"Yeşil yıkama tiyatrosundan iklim -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T19:33 Kent içi raylı sistem ağı 18 km daha büyüyecek: 19 istasyonl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21360,7 +21395,10 @@
   "2026-11-12T20:12 Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler gelecekle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:16 İran'da yeni saldırı: Sirik hedef alındı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T20:16 Sergen Yalçın: \"Çocuklar pırlanta gibi. Kolej takımı havası  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T20:16 Pompalı dehşeti: Kaldırımda yürüyenlere kurşun yağdırdı! Ölü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T20:16 Pompalı dehşeti: Kaldırımda yürüyenlere kurşun yağdırdı! Ölü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:19 Mercedes-Benz Almanya'da yeni yatırımları askıya aldı: Fabri -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:19 Pompalı dehşeti: Kaldırımda yürüyenlere kurşun yağdırdı! Ölü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T20:19 Tuba Büyüküstün'den iklim krizi uyarısı: ''Gençler gelecekle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
