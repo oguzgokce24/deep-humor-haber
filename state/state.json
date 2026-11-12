@@ -2,83 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "bakan",
-    "eurol",
-    "hedef",
-    "kacır",
-    "karbo",
-    "milya",
-    "nin",
-    "türki"
-   ],
-   "tok": [
-    "avrol",
-    "duyur",
-    "dönüş",
-    "eurol",
-    "gerek",
-    "hazin",
-    "hedef",
-    "iklim",
-    "kacır",
-    "karbo",
-    "maliy",
-    "medya",
-    "mehme",
-    "milya",
-    "nin",
-    "sanay",
-    "yatır",
-    "şimşe"
-   ],
-   "at": "2026-11-11T11:23:57.992058+00:00"
-  },
-  {
-   "fp": [
-    "ailel",
-    "deste",
-    "doğan",
-    "evlil",
-    "paket",
-    "veril",
-    "yarar"
-   ],
-   "tok": [
-    "aile",
-    "ailel",
-    "alanl",
-    "anne",
-    "başla",
-    "bebek",
-    "bebeğ",
-    "birli",
-    "deste",
-    "doğan",
-    "evlil",
-    "fonu",
-    "genç",
-    "gençl",
-    "hediy",
-    "ihtiy",
-    "içere",
-    "kapsa",
-    "müjde",
-    "müsia",
-    "paket",
-    "proje",
-    "sahib",
-    "temel",
-    "ulaşt",
-    "valil",
-    "veril",
-    "yarar",
-    "çocuk"
-   ],
-   "at": "2026-11-11T11:24:00.052737+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "başka",
     "biden",
@@ -22312,13 +22235,11 @@
   "3bb68afe05": 1,
   "7dde88538c": 1,
   "14f0b7f7fb": 1,
-  "2e1142c1a6": 1,
-  "2aaa3a3c6d": 1
+  "2e1142c1a6": 2,
+  "2aaa3a3c6d": 2,
+  "f6718105ce": 1
  },
  "fail_log": [
-  "2026-11-12T22:33 Özdağ'dan fon yolsuzluğu tepkisi: Derin bir girdap yarattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T22:36 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T22:36 Özdağ'dan fon yolsuzluğu tepkisi: Derin bir girdap yarattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:36 Aksaray'da feci kaza: 2 kişi hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:40 Özdağ'dan fon yolsuzluğu tepkisi: Derin bir girdap yarattı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T22:40 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -22355,7 +22276,10 @@
   "2026-11-12T23:17 İspanya puan kaybı nedir bilmiyor! 5'te 5 yaptılar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:21 Zelenskiy: Rusya ile en büyük esir takası yapılacak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:21 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T23:21 Manchester United, Mauricio Pochettino ile anlaştı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-12T23:21 Manchester United, Mauricio Pochettino ile anlaştı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:24 Zelenskiy: Rusya ile en büyük esir takası yapılacak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:24 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-12T23:24 Manchester United, Mauricio Pochettino ile anlaştı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
