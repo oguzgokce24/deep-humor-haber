@@ -21892,12 +21892,12 @@
   "7dde88538c": 1,
   "2913191076": 2,
   "c0cc6600e3": 1,
-  "f6718105ce": 2
+  "f6718105ce": 2,
+  "44a01e231d": 1,
+  "0897cc0971": 1,
+  "e4164950bc": 1
  },
  "fail_log": [
-  "2026-11-13T01:14 Tuvalu’nun mücadelesi iklim adaletinin aciliyetini gösteriyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T01:17 Hizbullah MEB’in izniyle okullarda geleneksel siyer sınavını -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T01:17 Şimşek, temel düzenleme alanlarını sıralarken saydığı başlık -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:17 KİT’lerde ‘yazılı yanıtların içi bomboş’ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:21 Hizbullah MEB’in izniyle okullarda geleneksel siyer sınavını -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:21 Şimşek, temel düzenleme alanlarını sıralarken saydığı başlık -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21934,7 +21934,10 @@
   "2026-11-13T02:39 17 milyon öğrenci ara tatile çıkıyor: Okullar 23 Kasım'da aç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:42 Bütçede 'garanti' türbülansı: 1,8 milyar TL havaya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:42 Sigara satışlarında yeni dönem hazırlığı: HES kodu benzeri s -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T02:42 17 milyon öğrenci ara tatile çıkıyor: Okullar 23 Kasım'da aç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T02:42 17 milyon öğrenci ara tatile çıkıyor: Okullar 23 Kasım'da aç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T02:46 'Diyanet mülakatında kul hakkı yediler' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T02:46 'Elimi sıkmadınız üzüntüden ölürüm' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T02:46 Locarno seçkisi dördüncü kez İstanbul Modern'de -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
