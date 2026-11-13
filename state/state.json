@@ -2,87 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ailel",
-    "başka",
-    "genel",
-    "görüş",
-    "habaş",
-    "hayat",
-    "işçil",
-    "kaybe",
-    "parti",
-    "telef",
-    "özel",
-    "özgür"
-   ],
-   "tok": [
-    "ailel",
-    "aliağ",
-    "daki",
-    "demir",
-    "den",
-    "düşen",
-    "fabri",
-    "gelen",
-    "genel",
-    "geri",
-    "gerçe",
-    "görüş",
-    "habaş",
-    "hazır",
-    "izmir",
-    "işçil",
-    "kurul",
-    "meyda",
-    "nda",
-    "nin",
-    "parti",
-    "patla",
-    "sayım",
-    "seçil",
-    "telef",
-    "varsa",
-    "yapma",
-    "çelik",
-    "ölen",
-    "özel",
-    "özgür",
-    "üzeri"
-   ],
-   "at": "2026-11-11T23:15:19.755430+00:00"
-  },
-  {
-   "fp": [
-    "aysel",
-    "bıçak",
-    "erkek",
-    "eskid",
-    "evli",
-    "sakal",
-    "yaral",
-    "çanak"
-   ],
-   "tok": [
-    "aysel",
-    "ağır",
-    "bayra",
-    "bıçak",
-    "erkek",
-    "eskid",
-    "evli",
-    "ilçes",
-    "isiml",
-    "lokan",
-    "nin",
-    "sahib",
-    "sakal",
-    "yaşın",
-    "çanak"
-   ],
-   "at": "2026-11-11T23:15:20.386105+00:00"
-  },
-  {
-   "fp": [
     "kayıp",
     "kâr",
     "mezar",
@@ -18997,6 +18916,95 @@
     "yoğun"
    ],
    "at": "2026-11-13T11:14:07.993330+00:00"
+  },
+  {
+   "fp": [
+    "19",
+    "arbed",
+    "fabri",
+    "gergi",
+    "habaş",
+    "hayat",
+    "iddia",
+    "işçi",
+    "işçil",
+    "kaybe",
+    "patla",
+    "telef",
+    "yasağ",
+    "çıktı"
+   ],
+   "tok": [
+    "arbed",
+    "ayağa",
+    "başar",
+    "bekle",
+    "bırak",
+    "eylem",
+    "fabri",
+    "gergi",
+    "getir",
+    "geçer",
+    "giriş",
+    "göste",
+    "habaş",
+    "iddia",
+    "izmir",
+    "işi",
+    "işçi",
+    "işçil",
+    "işçin",
+    "işçiy",
+    "kaldı",
+    "kavga",
+    "kurul",
+    "mehme",
+    "mezar",
+    "patla",
+    "rüştü",
+    "sabah",
+    "sıras",
+    "talim",
+    "telef",
+    "tepki",
+    "vardi",
+    "verdi",
+    "yasak",
+    "yasağ",
+    "yaşam",
+    "yaşan",
+    "yitir",
+    "yönet",
+    "çıktı",
+    "öldüğ",
+    "önünd"
+   ],
+   "at": "2026-11-13T11:17:29.438224+00:00"
+  },
+  {
+   "fp": [
+    "kavga",
+    "silah",
+    "şanlı"
+   ],
+   "tok": [
+    "birec",
+    "dökül",
+    "eroğl",
+    "ilçes",
+    "kan",
+    "kavga",
+    "müslü",
+    "nın",
+    "silah",
+    "vurul",
+    "yaşam",
+    "yaşın",
+    "yitir",
+    "şahıs",
+    "şanlı"
+   ],
+   "at": "2026-11-13T11:17:30.728678+00:00"
   }
  ],
  "posted": [
@@ -21798,13 +21806,9 @@
   "d0d74c26ab": 1,
   "39e43c8567": 2,
   "d3e57056f2": 1,
-  "c8145e8721": 2,
-  "02116e8a97": 2
+  "26f88d6865": 1
  },
  "fail_log": [
-  "2026-11-13T10:24 Tesiste iş cinayeti: Biyogaz çukuruna düşen işçinin ölümüne  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:27 Malatya'daki helikopter kazasında dört asker hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:27 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:27 Tesiste iş cinayeti: Biyogaz çukuruna düşen işçinin ölümüne  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:30 Malatya'daki helikopter kazasında dört asker hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:30 Tesiste iş cinayeti: Biyogaz çukuruna düşen işçinin ölümüne  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21841,12 +21845,15 @@
   "2026-11-13T11:10 Şanlıurfa’da kavgada kan döküldü: Silahla vurulan şahıs yaşa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:14 18 işçinin öldüğü HABAŞ'ta telefon yasağı iddiası: Fabrika ö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:14 Şanlıurfa’da kavgada kan döküldü: Silahla vurulan şahıs yaşa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:14 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T11:14 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:17 18 işçinin öldüğü HABAŞ'ta telefon yasağı iddiası: Fabrika ö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:17 2026'nın bitmesine 48 gün kaldı. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:17 Şanlıurfa’da kavgada kan döküldü: Silahla vurulan şahıs yaşa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121197042601226267",
+   "since_id": "2121200387160224022",
    "started": true
   },
   "ajansmuhbir1923": {
