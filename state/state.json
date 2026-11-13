@@ -19469,6 +19469,37 @@
     "şekil"
    ],
    "at": "2026-11-13T01:34:04.118350+00:00"
+  },
+  {
+   "fp": [
+    "akın",
+    "fatih",
+    "festi",
+    "film",
+    "filmi",
+    "göste",
+    "nde",
+    "selan",
+    "ulusl"
+   ],
+   "tok": [
+    "akın",
+    "bölüm",
+    "fatih",
+    "festi",
+    "film",
+    "filmi",
+    "göste",
+    "hayal",
+    "konuk",
+    "nde",
+    "nin",
+    "selan",
+    "ulusl",
+    "özel",
+    "şarkı"
+   ],
+   "at": "2026-11-13T01:43:49.524153+00:00"
   }
  ],
  "posted": [
@@ -22235,11 +22266,9 @@
   "7dde88538c": 1,
   "2913191076": 2,
   "c0cc6600e3": 1,
-  "f6718105ce": 2,
-  "4032ff5f17": 2
+  "f6718105ce": 2
  },
  "fail_log": [
-  "2026-11-13T00:21 T.C. YENİMAHALLE BELEDİYE BŞK. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T00:24 T.C. YENİMAHALLE BELEDİYE BŞK. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T00:24 T.C. KANDIRA SATIŞ MEMURLUĞU -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T00:24 T.C. İSTANBUL PROF.DR.CEMİL TAŞCIOĞLU ŞEHİR HASTANESİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -22278,7 +22307,8 @@
   "2026-11-13T01:34 Özgür Özel, verdikleri mücadeleyi ve partisinin gelecek vizy -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:34 Üç günde üç kadın şüpheli şekilde öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:37 Fatih Akın’ın yeni filmi Selanik Uluslararası Film Festivali -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T01:40 Fatih Akın’ın yeni filmi Selanik Uluslararası Film Festivali -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T01:40 Fatih Akın’ın yeni filmi Selanik Uluslararası Film Festivali -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T01:43 Fatih Akın’ın yeni filmi Selanik Uluslararası Film Festivali -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
