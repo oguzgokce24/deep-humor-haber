@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ayıba",
-    "camid",
-    "getir",
-    "günde",
-    "iyi",
-    "izin",
-    "karar",
-    "kavun",
-    "kimle",
-    "mecli",
-    "parti",
-    "skand",
-    "taşıd",
-    "vekil",
-    "verdi"
-   ],
-   "tok": [
-    "alınd",
-    "avlus",
-    "ayıba",
-    "buğra",
-    "camid",
-    "camii",
-    "diye",
-    "düğün",
-    "ersoy",
-    "eşit",
-    "getir",
-    "günde",
-    "herke",
-    "imkân",
-    "istem",
-    "iyi",
-    "izin",
-    "kavun",
-    "kimde",
-    "kimle",
-    "kurum",
-    "kültü",
-    "mecli",
-    "mille",
-    "nuruo",
-    "parti",
-    "skand",
-    "sordu",
-    "soru",
-    "sunul",
-    "tarih",
-    "taşıd",
-    "taşın",
-    "tbmm",
-    "vekil",
-    "verdi",
-    "yanıt",
-    "yemek",
-    "önerg"
-   ],
-   "at": "2026-11-11T23:08:37.831142+00:00"
-  },
-  {
-   "fp": [
     "ailel",
     "başka",
     "genel",
@@ -18985,6 +18924,41 @@
     "ünlü"
    ],
    "at": "2026-11-13T11:07:23.368240+00:00"
+  },
+  {
+   "fp": [
+    "13",
+    "29",
+    "371",
+    "64",
+    "fetö",
+    "gözal",
+    "ilde",
+    "izmir",
+    "işlem",
+    "kaçak",
+    "merke",
+    "opera",
+    "yapıl",
+    "şüphe"
+   ],
+   "tok": [
+    "alınd",
+    "eğiti",
+    "fetö",
+    "günce",
+    "izmir",
+    "işlem",
+    "kadın",
+    "kaçak",
+    "nin",
+    "nün",
+    "pdy",
+    "sayıd",
+    "yapıl",
+    "yönel"
+   ],
+   "at": "2026-11-13T11:10:46.722901+00:00"
   }
  ],
  "posted": [
@@ -21787,12 +21761,10 @@
   "39e43c8567": 2,
   "32fe74f826": 2,
   "d3e57056f2": 1,
-  "c929846539": 2
+  "c8145e8721": 1,
+  "02116e8a97": 1
  },
  "fail_log": [
-  "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T10:20 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T10:20 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:20 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:24 Malatya'daki helikopter kazasında dört asker hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:24 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21829,7 +21801,10 @@
   "2026-11-13T11:04 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:07 13 ilde FETÖ'nün 'kadın' yapılanmasına operasyon: Çok sayıda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:07 Demet Evgar'dan yıllar sonra gelen itiraf: \"Açlık grevi yapt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:07 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T11:07 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:10 18 işçinin öldüğü HABAŞ'ta telefon yasağı iddiası: Fabrika ö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:10 13 ilde FETÖ'nün 'kadın' yapılanmasına operasyon: Çok sayıda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:10 Şanlıurfa’da kavgada kan döküldü: Silahla vurulan şahıs yaşa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
