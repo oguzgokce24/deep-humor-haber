@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akden",
-    "bildi",
-    "bilme",
-    "bulun",
-    "doğu",
-    "frans",
-    "isted",
-    "izin",
-    "navte",
-    "rutin"
-   ],
-   "tok": [
-    "akden",
-    "akşam",
-    "alınd",
-    "arası",
-    "açtı",
-    "bildi",
-    "bilme",
-    "bulun",
-    "den",
-    "deniz",
-    "doğu",
-    "elekt",
-    "frans",
-    "great",
-    "isted",
-    "izin",
-    "kablo",
-    "kuvve",
-    "kıta",
-    "muvaf",
-    "navte",
-    "nin",
-    "perde",
-    "proje",
-    "rutin",
-    "sahan",
-    "sea",
-    "tartı",
-    "yayım",
-    "yunan",
-    "öncek",
-    "ınter",
-    "şirke"
-   ],
-   "at": "2026-11-12T03:43:39.649670+00:00"
-  },
-  {
-   "fp": [
     "aldığ",
     "günde",
     "ihale",
@@ -21265,19 +21215,17 @@
   "554acec5f9": 2,
   "c46fece234": 1,
   "312c445e6c": 1,
-  "777098d56c": 1,
+  "777098d56c": 2,
   "d1c05b0582": 1,
   "48ea8c8001": 1,
   "3772a65a3d": 2,
   "8a71b20f7d": 1,
   "5815ddc7f9": 1,
   "9c85fd642a": 2,
-  "2a75da15a5": 1
+  "2a75da15a5": 2,
+  "ae3cb577f4": 1
  },
  "fail_log": [
-  "2026-11-13T14:52 Cemal Hünal Medyascope’a konuştu: “Diziler 6 kuşak reklam ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T14:56 Oyuncu İrem Helvacıoğlu: (Haluk Bilginer hk.) — Fransa’da, A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T14:56 Sokak ortasında kadınlara şiddet kamerada: İki şüpheli gözal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:56 Üreticiden tepki: Tarlada 35 TL olan kivi markette 150 TL -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:59 Sokak ortasında kadınlara şiddet kamerada: İki şüpheli gözal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:59 Üreticiden tepki: Tarlada 35 TL olan kivi markette 150 TL -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21314,7 +21262,10 @@
   "2026-11-13T15:38 Close-up Photographer of the Year: Rekor başvurudan seçilen  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:41 Mekiye Akyel davasında eski eşinden 'kira' savunması -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:41 Kayıhan Pala: Türkiye ölümcül iş kazalarında dünyada ikinci  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T15:41 Mütalaa (42) | HABAŞ faciasından fon soruşturmasına: Kim hes -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T15:41 Mütalaa (42) | HABAŞ faciasından fon soruşturmasına: Kim hes -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:44 Kayıhan Pala: Türkiye ölümcül iş kazalarında dünyada ikinci  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:44 Camilerden yükselen itiraz yayılıyor: Şimdi de İsmailağa Cem -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:44 Gözde Şeker yazdı: Yüzde 36,7’lik demokrasi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
