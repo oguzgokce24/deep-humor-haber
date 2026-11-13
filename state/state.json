@@ -18577,6 +18577,83 @@
     "çıkan"
    ],
    "at": "2026-11-13T09:05:44.686716+00:00"
+  },
+  {
+   "fp": [
+    "ağır",
+    "bina",
+    "boğaz",
+    "boşlu",
+    "düşen",
+    "naz",
+    "sarıy",
+    "yaral",
+    "öyküm",
+    "öğren",
+    "ünive"
+   ],
+   "tok": [
+    "adım",
+    "adımd",
+    "atan",
+    "attığ",
+    "ağır",
+    "bakım",
+    "basma",
+    "bina",
+    "boğaz",
+    "boşlu",
+    "duvar",
+    "düşen",
+    "düşer",
+    "düştü",
+    "kenar",
+    "naz",
+    "sarıy",
+    "sürüy",
+    "tehli",
+    "yoğun",
+    "çamur",
+    "öyküm",
+    "öğren",
+    "ünive"
+   ],
+   "at": "2026-11-13T09:09:02.345994+00:00"
+  },
+  {
+   "fp": [
+    "aydın",
+    "hasta",
+    "hayat",
+    "kadın",
+    "kaybe",
+    "manta",
+    "yaşın",
+    "zehir"
+   ],
+   "tok": [
+    "altya",
+    "aydın",
+    "boğan",
+    "ekibi",
+    "futbo",
+    "genç",
+    "hasta",
+    "iddia",
+    "isviç",
+    "kadın",
+    "kaldı",
+    "manta",
+    "oynay",
+    "shono",
+    "thun",
+    "yasa",
+    "yaşın",
+    "yosef",
+    "zehir",
+    "ülke"
+   ],
+   "at": "2026-11-13T09:09:04.464053+00:00"
   }
  ],
  "posted": [
@@ -21373,13 +21450,9 @@
   "98f00b39db": 2,
   "c3cbf9134f": 2,
   "1766a04065": 1,
-  "49556839be": 2,
-  "42dad6433d": 2
+  "8203c67c3d": 1
  },
  "fail_log": [
-  "2026-11-13T08:12 Goldman Sachs'tan Türkiye raporu: Dikkat çeken fon krizi uya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T08:16 Darth Vader’ın \"Star Wars\" ışın kılıcı 4,87 milyon dolara sa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T08:16 Üniversitesi öğrencisi bina boşluğuna düştü: Öyküm Naz'ın ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:16 Miras vurgununda 'joker' oyunu ifşa oldu: 11 gözaltı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:19 IMEI kayıt harcına 15 bin TL zam geliyor: 2027'de 69 bin 358 -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:19 Üniversitesi öğrencisi bina boşluğuna düştü: Öyküm Naz'ın ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21416,7 +21489,10 @@
   "2026-11-13T09:02 Burdur'da kavgada kan aktı! 4 kadın bıçaklandı: 2 kişi gözal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:05 Üniversitesi öğrencisi bina boşluğuna düştü: Öyküm Naz'ın ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:05 16 yaşındaki futbolcu hayatını kaybetti: Ülke futbolunu yasa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:05 Burdur'da kavgada kan aktı! 4 kadın bıçaklandı: 2 kişi gözal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T09:05 Burdur'da kavgada kan aktı! 4 kadın bıçaklandı: 2 kişi gözal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T09:09 Üniversitesi öğrencisi bina boşluğuna düştü: Öyküm Naz'ın ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T09:09 16 yaşındaki futbolcu hayatını kaybetti: Ülke futbolunu yasa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T09:09 İstanbul'da kripto para dolandırıcılığı: 2 milyon dolarlık v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
