@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "atlıy",
-    "eğiti",
-    "rapor",
-    "öğren",
-    "öğün"
-   ],
-   "tok": [
-    "aldığ",
-    "arası",
-    "atlad",
-    "atlıy",
-    "başlı",
-    "belir",
-    "besle",
-    "biri",
-    "birin",
-    "eğiti",
-    "hafta",
-    "hazır",
-    "imkân",
-    "kamun",
-    "koydu",
-    "maddi",
-    "neden",
-    "nin",
-    "oecd",
-    "oranl",
-    "ortay",
-    "rapor",
-    "sorum",
-    "sırad",
-    "ten",
-    "yaşın",
-    "yemeğ",
-    "yer",
-    "yeter",
-    "çocuk",
-    "öğren",
-    "öğün",
-    "ülkel"
-   ],
-   "at": "2026-11-11T14:34:18.098692+00:00"
-  },
-  {
-   "fp": [
     "altın",
     "düşüş",
     "günü"
@@ -21834,12 +21788,12 @@
   "7dde88538c": 1,
   "2913191076": 2,
   "c0cc6600e3": 1,
-  "f6718105ce": 2
+  "f6718105ce": 2,
+  "fdf81ad6f4": 1,
+  "4c91618db9": 1,
+  "c804e313b1": 1
  },
  "fail_log": [
-  "2026-11-13T00:34 Kadınlar arasındaki kavgada ortalık karıştı! Polis bile zor  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T01:07 Yalnızca iki gizli tanık ‘duyduklarını’ anlattı, tutuklular  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T01:07 Filo Jet ve Tuğberk İmamoğlu gemi kazalarında dokuz naaşa hâ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:07 Tuvalu’nun mücadelesi iklim adaletinin aciliyetini gösteriyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:11 Yalnızca iki gizli tanık ‘duyduklarını’ anlattı, tutuklular  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:11 Filo Jet ve Tuğberk İmamoğlu gemi kazalarında dokuz naaşa hâ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21876,7 +21830,10 @@
   "2026-11-13T02:29 İBB Miras'tan Haliç Tersanesi'ne yeni sanat sahnesi: Forsa P -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:32 Bakan Tekin’e istifa çağrısı: Döneminizde 51 kişi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:32 İspanya'da genel grev: Sağın korkusu sınıf mücadelesi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T02:32 İBB Miras'tan Haliç Tersanesi'ne yeni sanat sahnesi: Forsa P -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T02:32 İBB Miras'tan Haliç Tersanesi'ne yeni sanat sahnesi: Forsa P -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T02:36 Bütçede 'garanti' türbülansı: 1,8 milyar TL havaya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T02:36 Sigara satışlarında yeni dönem hazırlığı: HES kodu benzeri s -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T02:36 17 milyon öğrenci ara tatile çıkıyor: Okullar 23 Kasım'da aç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
