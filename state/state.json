@@ -2,83 +2,6 @@
  "seen": [
   {
    "fp": [
-    "11",
-    "düştü",
-    "eksiy",
-    "peş",
-    "peşe",
-    "tekno",
-    "zarar",
-    "çeyre",
-    "özkay"
-   ],
-   "tok": [
-    "ayınd",
-    "ciro",
-    "dikka",
-    "düştü",
-    "eksiy",
-    "enfla",
-    "finan",
-    "gider",
-    "güçle",
-    "holdi",
-    "kayıp",
-    "kâr",
-    "milya",
-    "muhas",
-    "nakit",
-    "net",
-    "ortak",
-    "peş",
-    "peşe",
-    "pozit",
-    "saban",
-    "seris",
-    "tekno",
-    "yükse",
-    "yılın",
-    "zarar",
-    "çekiy",
-    "çekse",
-    "çeyre",
-    "çıkar",
-    "özkay"
-   ],
-   "at": "2026-11-12T00:30:39.143494+00:00"
-  },
-  {
-   "fp": [
-    "bakan",
-    "sıkın"
-   ],
-   "tok": [
-    "ancak",
-    "anlam",
-    "belir",
-    "bilan",
-    "ciddi",
-    "dönem",
-    "habaş",
-    "katli",
-    "kazas",
-    "müfet",
-    "savaş",
-    "sebep",
-    "sonra",
-    "sözle",
-    "sıkın",
-    "tepki",
-    "vedat",
-    "yaşan",
-    "çalış",
-    "çeken",
-    "ışıkh"
-   ],
-   "at": "2026-11-12T00:30:39.715169+00:00"
-  },
-  {
-   "fp": [
     "3",
     "dokun",
     "dosya",
@@ -18963,6 +18886,58 @@
     "şekli"
    ],
    "at": "2026-11-13T12:27:31.483335+00:00"
+  },
+  {
+   "fp": [
+    "cenaz",
+    "deyin",
+    "dur",
+    "habaş",
+    "işçis",
+    "zengi"
+   ],
+   "tok": [
+    "abdul",
+    "aliağ",
+    "artık",
+    "ağır",
+    "ağıtl",
+    "cenaz",
+    "daki",
+    "demir",
+    "deyin",
+    "dur",
+    "edere",
+    "gelen",
+    "gözya",
+    "habaş",
+    "hasta",
+    "isyan",
+    "izmir",
+    "işçi",
+    "işçis",
+    "kadın",
+    "kaldı",
+    "kasım",
+    "kürtç",
+    "kılıç",
+    "memle",
+    "meyda",
+    "patla",
+    "tepki",
+    "tesis",
+    "topra",
+    "tören",
+    "urfa",
+    "veril",
+    "yaşın",
+    "yeter",
+    "zengi",
+    "çelik",
+    "ölüml",
+    "şanlı"
+   ],
+   "at": "2026-11-13T12:30:47.728529+00:00"
   }
  ],
  "posted": [
@@ -21771,13 +21746,10 @@
   "4ca5210fef": 1,
   "00036bd3e3": 1,
   "cf788a6ae1": 1,
-  "8eecc49f53": 2,
-  "0b59a64906": 1
+  "0b59a64906": 2,
+  "a2458f8eec": 1
  },
  "fail_log": [
-  "2026-11-13T11:41 Yıldız Holding COP31'de 2030 hedeflerini açıkladı: Kadın çif -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:44 Araç sahipleri dikkat: İki gün kaldı, değiştirmeyen ceza öde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:44 HABAŞ işçilerine müdahale: İşçiler darbedilerek gözaltına al -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:44 Tarih verildi: İstanbul dahil 10 il için gök gürültülü sağan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:47 Araç sahipleri dikkat: İki gün kaldı, değiştirmeyen ceza öde -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:47 HABAŞ işçilerine müdahale: İşçiler darbedilerek gözaltına al -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21814,7 +21786,10 @@
   "2026-11-13T12:24 Bahçelievler’de korku dolu anlar: Devrilen ağaç 3 aracı ezdi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:27 DEÜ Hastanesi işçileri: HABAŞ’ın sorumluları hesap vermeli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:27 HABAŞ işçisinin cenazesinde tepki: \"Zenginlere dur deyin, ar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T12:27 Ekrem İmamoğlu ifade verdi: 'Savunma yapmayacağım' şeklinde  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T12:27 Ekrem İmamoğlu ifade verdi: 'Savunma yapmayacağım' şeklinde  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T12:30 DEÜ Hastanesi işçileri: HABAŞ’ın sorumluları hesap vermeli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T12:30 HABAŞ işçisinin cenazesinde tepki: \"Zenginlere dur deyin, ar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T12:30 Mimarlar Odası: Dikili Halkevi yaşayan kent belleğidir, yıkı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
