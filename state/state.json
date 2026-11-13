@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "8",
-    "balko",
-    "dokto",
-    "düştü",
-    "genç",
-    "katta",
-    "pelin",
-    "pınar",
-    "ölümü",
-    "şüphe"
-   ],
-   "tok": [
-    "araşt",
-    "asist",
-    "balko",
-    "başla",
-    "binan",
-    "boğan",
-    "camia",
-    "dokto",
-    "düşer",
-    "düştü",
-    "eğiti",
-    "gazio",
-    "genç",
-    "görev",
-    "hasta",
-    "hekim",
-    "ilgil",
-    "incel",
-    "inci",
-    "katta",
-    "katın",
-    "nde",
-    "olayl",
-    "pelin",
-    "pınar",
-    "sağlı",
-    "yapan",
-    "yasa",
-    "yaşad",
-    "ölüm",
-    "ölümü"
-   ],
-   "at": "2026-11-11T15:28:20.378461+00:00"
-  },
-  {
-   "fp": [
-    "belçi",
-    "lukak",
-    "maçı",
-    "romel",
-    "türki",
-    "önces",
-    "şoku"
-   ],
-   "tok": [
-    "belçi",
-    "forma",
-    "frans",
-    "giyem",
-    "hafif",
-    "kalça",
-    "karşı",
-    "lukak",
-    "maçı",
-    "nun",
-    "romel",
-    "sorun",
-    "yaşay",
-    "önces",
-    "üstün",
-    "şoku"
-   ],
-   "at": "2026-11-11T15:28:21.556999+00:00"
-  },
-  {
-   "fp": [
     "aldı",
     "ankar",
     "dan",
@@ -19107,6 +19029,98 @@
     "öngör"
    ],
    "at": "2026-11-13T03:12:58.249175+00:00"
+  },
+  {
+   "fp": [
+    "19",
+    "canın",
+    "hapsi",
+    "hesab",
+    "sorul"
+   ],
+   "tok": [
+    "ailel",
+    "aliağ",
+    "ardın",
+    "başar",
+    "başla",
+    "bırak",
+    "canın",
+    "daki",
+    "demir",
+    "duyur",
+    "fabri",
+    "habaş",
+    "hapsi",
+    "hesab",
+    "hukuk",
+    "işçil",
+    "işçin",
+    "kanı",
+    "mücad",
+    "nda",
+    "patla",
+    "patro",
+    "serbe",
+    "sorul",
+    "sorum",
+    "tepki",
+    "yargı",
+    "yağdı",
+    "yaşam",
+    "yaşan",
+    "yerde",
+    "yitir",
+    "çelik",
+    "ölen"
+   ],
+   "at": "2026-11-13T03:30:00.494514+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "göre",
+    "ilerl",
+    "liler",
+    "norma",
+    "şey"
+   ],
+   "tok": [
+    "abdul",
+    "adale",
+    "akp",
+    "akın",
+    "ardın",
+    "biril",
+    "bürok",
+    "fon",
+    "grup",
+    "göre",
+    "gül",
+    "gürle",
+    "hiyer",
+    "ifade",
+    "ihmal",
+    "ilerl",
+    "ilişk",
+    "kasta",
+    "konuy",
+    "kulla",
+    "kurum",
+    "liler",
+    "muhal",
+    "norma",
+    "organ",
+    "savun",
+    "sürec",
+    "vurgu",
+    "yakın",
+    "yapı",
+    "yürüt",
+    "şeffa",
+    "şey"
+   ],
+   "at": "2026-11-13T03:30:00.966843+00:00"
   }
  ],
  "posted": [
@@ -21874,15 +21888,11 @@
   "2913191076": 2,
   "c0cc6600e3": 1,
   "f6718105ce": 2,
-  "f83e72e6b3": 2,
-  "af45821406": 2,
   "e68490f6b1": 1,
-  "3c426402e4": 1
+  "3c426402e4": 1,
+  "b2295c764e": 1
  },
  "fail_log": [
-  "2026-11-13T02:36 17 milyon öğrenci ara tatile çıkıyor: Okullar 23 Kasım'da aç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T02:39 Bütçede 'garanti' türbülansı: 1,8 milyar TL havaya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T02:39 Sigara satışlarında yeni dönem hazırlığı: HES kodu benzeri s -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:39 17 milyon öğrenci ara tatile çıkıyor: Okullar 23 Kasım'da aç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:42 Bütçede 'garanti' türbülansı: 1,8 milyar TL havaya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:42 Sigara satışlarında yeni dönem hazırlığı: HES kodu benzeri s -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21919,7 +21929,10 @@
   "2026-11-13T03:16 Silivri’de iddia çok ‘İlke’ yok -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T03:26 19 canın hesabı ev hapsiyle mi sorulacak? -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T03:26 AKP'lilere göre her şey normal ilerliyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T03:26 Dursun Özbek'in 26 milyon euroluk transferi en çok Thomas Re -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T03:26 Dursun Özbek'in 26 milyon euroluk transferi en çok Thomas Re -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T03:30 2027'de geçerli olacak trafik cezaları belli oldu: Bu hatala -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T03:30 19 canın hesabı ev hapsiyle mi sorulacak? -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T03:30 AKP'lilere göre her şey normal ilerliyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
