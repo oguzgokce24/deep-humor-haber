@@ -2,113 +2,6 @@
  "seen": [
   {
    "fp": [
-    "124",
-    "den",
-    "girdi",
-    "iyile",
-    "küres",
-    "liste",
-    "türki",
-    "çapta",
-    "ünive"
-   ],
-   "tok": [
-    "aldı",
-    "araşt",
-    "den",
-    "derec",
-    "duyur",
-    "dünya",
-    "educa",
-    "girdi",
-    "görün",
-    "hazır",
-    "highe",
-    "iyile",
-    "kalit",
-    "kurul",
-    "küres",
-    "liste",
-    "ortam",
-    "sanay",
-    "saygı",
-    "sonuç",
-    "sıral",
-    "times",
-    "ulusl",
-    "yer",
-    "yükse",
-    "çapta",
-    "ölçüt",
-    "öğret",
-    "ünive"
-   ],
-   "at": "2026-11-12T03:13:22.345207+00:00"
-  },
-  {
-   "fp": [
-    "5",
-    "annel",
-    "ayırı",
-    "ağırl",
-    "dakik",
-    "dinle",
-    "gazil",
-    "terör"
-   ],
-   "tok": [
-    "annel",
-    "anıtk",
-    "ayırı",
-    "ağırl",
-    "biz",
-    "dakik",
-    "den",
-    "dinle",
-    "gazil",
-    "girem",
-    "mecli",
-    "platf",
-    "sesle",
-    "terör",
-    "çerçi",
-    "şehit"
-   ],
-   "at": "2026-11-12T03:13:23.083189+00:00"
-  },
-  {
-   "fp": [
-    "19",
-    "acı",
-    "geriy",
-    "işçid",
-    "kalan",
-    "öfke"
-   ],
-   "tok": [
-    "acı",
-    "demir",
-    "düzen",
-    "eylem",
-    "fabri",
-    "gelen",
-    "geriy",
-    "göre",
-    "göz",
-    "işçid",
-    "kalan",
-    "patla",
-    "patr",
-    "prote",
-    "yanın",
-    "çelik",
-    "öfke",
-    "ülken"
-   ],
-   "at": "2026-11-12T03:13:23.744710+00:00"
-  },
-  {
-   "fp": [
     "beraa",
     "yazıl"
    ],
@@ -18555,6 +18448,46 @@
     "ölüml"
    ],
    "at": "2026-11-13T15:13:04.414092+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "bunu",
+    "cemal",
+    "dizil",
+    "hünal",
+    "istem",
+    "konuş",
+    "kuşak",
+    "medya",
+    "rekla",
+    "seyir",
+    "yayın"
+   ],
+   "tok": [
+    "anlat",
+    "bunu",
+    "cemal",
+    "dijit",
+    "dizi",
+    "dizil",
+    "etkis",
+    "hünal",
+    "istem",
+    "konuş",
+    "kuşak",
+    "medya",
+    "oyunc",
+    "platf",
+    "popül",
+    "rekla",
+    "seyir",
+    "sürel",
+    "uzun",
+    "yayın",
+    "yükse"
+   ],
+   "at": "2026-11-13T15:21:51.570782+00:00"
   }
  ],
  "posted": [
@@ -21377,17 +21310,14 @@
   "312c445e6c": 1,
   "777098d56c": 1,
   "d1c05b0582": 1,
-  "82c1130b65": 2,
   "48ea8c8001": 1,
   "3772a65a3d": 2,
   "8a71b20f7d": 1,
   "5815ddc7f9": 1,
-  "2643904178": 1
+  "2643904178": 2,
+  "285d7fec6e": 1
  },
  "fail_log": [
-  "2026-11-13T14:29 23 yıl 5 ay hapisle aranan firari banyo kapısının arkasında  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T14:32 Beylikdüzü'nde otomobil tır ile İETT otobüsünün arasına sıkı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T14:32 Zelenskiy'den Meloni'ye yanıt: \"Görüşmeyi sen istemedin\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:32 Camilerden yükselen itiraz yayılıyor: Şimdi de İsmailağa Cem -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:36 Halit Yukay'ın ölümü: Bilirkişi raporu hakkında karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:36 Azarov'un eski sözcüsü hedef alındı iddiası: Moskova'da otom -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21424,12 +21354,15 @@
   "2026-11-13T15:09 Rivayet Muhtelif (44): HABAŞ’taki işçi ölümlerinin asıl soru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:13 Galatasaray'da istifa depremi! Resmi siteden açıklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:13 Rivayet Muhtelif (44): HABAŞ’taki işçi ölümlerinin asıl soru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T15:13 MESEM'lerde 'devlet katkısı' tartışması: MESEM'lilerin ücret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T15:13 MESEM'lerde 'devlet katkısı' tartışması: MESEM'lilerin ücret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:21 MESEM'lerde 'devlet katkısı' tartışması: MESEM'lilerin ücret -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:21 “Bana dokunmayan yılan bin yaşasın kafasından çıkalım” -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:21 Cemal Hünal Medyascope’a konuştu: “Diziler 6 kuşak reklam ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121259277083869588",
+   "since_id": "2121261162423836943",
    "started": true
   },
   "ajansmuhbir1923": {
