@@ -18700,6 +18700,52 @@
     "öne"
    ],
    "at": "2026-11-13T19:06:43.480237+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "dair",
+    "den",
+    "habaş",
+    "metal",
+    "patla",
+    "susma",
+    "türk"
+   ],
+   "tok": [
+    "aliağ",
+    "ardın",
+    "artık",
+    "cinay",
+    "dair",
+    "demir",
+    "den",
+    "fabri",
+    "facia",
+    "genel",
+    "habaş",
+    "hak",
+    "ilçes",
+    "izmir",
+    "işçin",
+    "metal",
+    "mürse",
+    "ndaki",
+    "olayı",
+    "patla",
+    "sendi",
+    "sorum",
+    "susma",
+    "yardı",
+    "yaşam",
+    "yaşan",
+    "yitir",
+    "çelik",
+    "öcal",
+    "önünd",
+    "üyele"
+   ],
+   "at": "2026-11-13T19:13:16.863284+00:00"
   }
  ],
  "posted": [
@@ -21537,14 +21583,10 @@
   "22da04378c": 1,
   "4a32cceae9": 1,
   "0188647824": 2,
-  "7c4c1ae07a": 2,
-  "a7a168b313": 1,
-  "8834c9c6b6": 1
+  "a7a168b313": 2,
+  "8834c9c6b6": 2
  },
  "fail_log": [
-  "2026-11-13T18:27 Antalya'dan dünyaya uyarı: 200 milyon insan göçe zorlanabili -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:30 Dünya Alem (68): Doğu Akdeniz’de yeni dengeler ve Kıbrıs müz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:30 Dönemin bürokratından akılalmaz dolandırıcılık: Yeğeni de is -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:30 Antalya'dan dünyaya uyarı: 200 milyon insan göçe zorlanabili -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:33 Dünya Alem (68): Doğu Akdeniz’de yeni dengeler ve Kıbrıs müz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:33 Antalya'dan dünyaya uyarı: 200 milyon insan göçe zorlanabili -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21581,7 +21623,10 @@
   "2026-11-13T19:06 Yeni Parti binanın ruhsatsız olduğu için mühürlendiğini belg -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:10 İBB Başkan Vekili Nuri Aslan duyurdu: Saraçhane binasının ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:10 HABAŞ patlamasına dair Türk Metal'den açıklama: \"Artık susma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:10 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T19:10 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:13 İBB Başkan Vekili Nuri Aslan duyurdu: Saraçhane binasının ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:13 HABAŞ patlamasına dair Türk Metal'den açıklama: \"Artık susma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:13 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
