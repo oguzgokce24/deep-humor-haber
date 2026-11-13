@@ -18916,6 +18916,49 @@
     "ülkey"
    ],
    "at": "2026-11-13T07:16:44.650860+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "akciğ",
+    "dakik",
+    "kanse"
+   ],
+   "tok": [
+    "akciğ",
+    "aslın",
+    "ayı",
+    "başın",
+    "bunun",
+    "dakik",
+    "dikka",
+    "doç",
+    "dünya",
+    "elbek",
+    "farkı",
+    "gerek",
+    "göğüs",
+    "hasta",
+    "ise",
+    "kanse",
+    "kapsa",
+    "konul",
+    "konuş",
+    "nadir",
+    "ned",
+    "olmam",
+    "osman",
+    "tablo",
+    "tek",
+    "teşhi",
+    "tümör",
+    "uzman",
+    "veri",
+    "yüzyı",
+    "çeken",
+    "şimdi"
+   ],
+   "at": "2026-11-13T07:23:18.542584+00:00"
   }
  ],
  "posted": [
@@ -21702,14 +21745,10 @@
   "f452c30ad2": 1,
   "689924526e": 1,
   "61798377bc": 2,
-  "a200f6e370": 2,
-  "dff2e803ce": 1,
-  "5ae2b90de6": 1
+  "dff2e803ce": 2,
+  "5ae2b90de6": 2
  },
  "fail_log": [
-  "2026-11-13T06:37 Demet Evgar 17 yaşında yaşadıklarını anlattı: Açlık grevi ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T06:40 BM: Yemen'de ağustostan bu yana 333 binden fazla kişi yerind -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T06:40 Demet Evgar 17 yaşında yaşadıklarını anlattı: Açlık grevi ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:40 Goldman Sachs MB'nin fon analizine katılmadı: Daha büyük etk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:43 BM: Yemen'de ağustostan bu yana 333 binden fazla kişi yerind -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:43 Çüngüş’te meşhur ‘Menengiç’ mesaisi başladı: Doğal lezzete y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21746,7 +21785,10 @@
   "2026-11-13T07:16 Akciğer kanserinde korkutan veri: 'Her 2 dakikada bir...' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:20 Maslak'ta feci kaza kamerada: Motosiklet otobüsün altında ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:20 Akciğer kanserinde korkutan veri: 'Her 2 dakikada bir...' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T07:20 Bakanlıktan “Kabe örtüsü kokusu” reklamlarına durdurma karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T07:20 Bakanlıktan “Kabe örtüsü kokusu” reklamlarına durdurma karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:23 Maslak'ta feci kaza kamerada: Motosiklet otobüsün altında ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:23 Akciğer kanserinde korkutan veri: 'Her 2 dakikada bir...' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:23 Bakanlıktan “Kabe örtüsü kokusu” reklamlarına durdurma karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
