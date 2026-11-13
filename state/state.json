@@ -21537,12 +21537,11 @@
   "22da04378c": 1,
   "4a32cceae9": 1,
   "0188647824": 2,
-  "7c4c1ae07a": 1
+  "7c4c1ae07a": 2,
+  "a7a168b313": 1,
+  "8834c9c6b6": 1
  },
  "fail_log": [
-  "2026-11-13T18:24 Dönemin bürokratından akılalmaz dolandırıcılık: Yeğeni de is -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:27 OpenAI'dan 'ChatGPT Wallet': Yapay zeka sizin yerinize ödeme -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:27 Dönemin bürokratından akılalmaz dolandırıcılık: Yeğeni de is -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:27 Antalya'dan dünyaya uyarı: 200 milyon insan göçe zorlanabili -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:30 Dünya Alem (68): Doğu Akdeniz’de yeni dengeler ve Kıbrıs müz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:30 Dönemin bürokratından akılalmaz dolandırıcılık: Yeğeni de is -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21579,12 +21578,15 @@
   "2026-11-13T19:03 Kalabalık büyüdükçe sorumluluğun azalması: Seyirci Etkisi ne -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:06 HABAŞ patlamasına dair Türk Metal'den açıklama: \"Artık susma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:06 44. Altın Joystick Ödülleri’nde yılın oyunu ve diğer kazanan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:06 Yeni Parti binanın ruhsatsız olduğu için mühürlendiğini belg -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T19:06 Yeni Parti binanın ruhsatsız olduğu için mühürlendiğini belg -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:10 İBB Başkan Vekili Nuri Aslan duyurdu: Saraçhane binasının ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:10 HABAŞ patlamasına dair Türk Metal'den açıklama: \"Artık susma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:10 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121316002092785703",
+   "since_id": "2121319589640351801",
    "started": true
   },
   "ajansmuhbir1923": {
