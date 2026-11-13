@@ -18932,6 +18932,38 @@
     "üst"
    ],
    "at": "2026-11-13T11:30:52.771326+00:00"
+  },
+  {
+   "fp": [
+    "fırtı",
+    "iptal",
+    "istan"
+   ],
+   "tok": [
+    "bazı",
+    "deniz",
+    "diken",
+    "fırtı",
+    "geçic",
+    "giriş",
+    "iptal",
+    "kapat",
+    "koru",
+    "korul",
+    "lodos",
+    "neden",
+    "orman",
+    "otobü",
+    "park",
+    "post",
+    "sefer",
+    "telef",
+    "the",
+    "vapur",
+    "yasak",
+    "ziyar"
+   ],
+   "at": "2026-11-13T11:34:15.286551+00:00"
   }
  ],
  "posted": [
@@ -21736,14 +21768,11 @@
   "26f88d6865": 1,
   "1047f570d5": 1,
   "a248b12a3b": 1,
-  "a9646e301c": 2,
   "cf56966758": 1,
-  "9f152358c7": 1
+  "9f152358c7": 2,
+  "9b883893e5": 1
  },
  "fail_log": [
-  "2026-11-13T10:40 Kanadalı şarkıcı Mendes'ten Gazze için ses yükseltme çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:44 Trump'tan İran itirafı: İsrail'e işaret etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:44 Kanadalı şarkıcı Mendes'ten Gazze için ses yükseltme çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:44 Lewis Hamilton, Refah Sınır Kapısı'nda: Gazze için ateşkes v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:47 Kanadalı şarkıcı Mendes'ten Gazze için ses yükseltme çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:47 WhatsApp’a yeni özellik geliyor: 'Tek seferlik mesaj' dönemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21780,7 +21809,10 @@
   "2026-11-13T11:27 5 teknoloji devine yapay zeka davası: Çalışmalar durdurulsun -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:30 AKP'li bürokrattan fon krizi yorumu: 6-7 puan kaybettirdi, F -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:30 İstanbul'da fırtına: Vapur, teleferik ve deniz otobüsleri ip -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:30 Şamil Tayyar'dan AK Parti'ye siyaset uyarısı: \"Muktedirken ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T11:30 Şamil Tayyar'dan AK Parti'ye siyaset uyarısı: \"Muktedirken ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:34 İstanbul'da fırtına: Vapur, teleferik ve deniz otobüsleri ip -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:34 İstanbul'da korkutan manzara: 60 yıllık bina kalaslarla ayak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:34 Şamil Tayyar'dan AK Parti'ye siyaset uyarısı: \"Muktedirken ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
