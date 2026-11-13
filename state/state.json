@@ -18616,6 +18616,37 @@
     "örgüt"
    ],
    "at": "2026-11-13T18:33:56.274419+00:00"
+  },
+  {
+   "fp": [
+    "68",
+    "akden",
+    "alem",
+    "denge",
+    "doğu",
+    "dünya",
+    "kıbrı",
+    "müzak",
+    "çıkma"
+   ],
+   "tok": [
+    "akden",
+    "alem",
+    "denge",
+    "değer",
+    "doğu",
+    "dünya",
+    "enerj",
+    "geliş",
+    "kıbrı",
+    "libya",
+    "medya",
+    "mutab",
+    "müzak",
+    "rekab",
+    "çıkma"
+   ],
+   "at": "2026-11-13T18:37:12.116795+00:00"
   }
  ],
  "posted": [
@@ -21450,13 +21481,11 @@
   "40c671105b": 2,
   "c999b18a64": 1,
   "4a19319e50": 1,
-  "cfd0030b7d": 2,
-  "647a02d0ad": 1
+  "647a02d0ad": 1,
+  "565ae87d4b": 1,
+  "253124a52c": 1
  },
  "fail_log": [
-  "2026-11-13T17:50 Küçükçekmece'de depreme dayanıksız olduğu tespit edilen 6 ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T17:53 19 işçinin hayatını kaybettiği HABAŞ'tan açıklama: ‘1931'de  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T17:53 Londra Belediye Başkanı Sadiq Khan'dan Dursun Özbek'e ziyare -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:53 Küçükçekmece'de depreme dayanıksız olduğu tespit edilen 6 ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:57 İmamoğlu’ndan İBB davası tepkisi: Niçin 20 ay tutuklu kaldı  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:57 YÖK'ten üniversite personeline pasaport kolaylığı: Yeşil ve  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21493,12 +21522,15 @@
   "2026-11-13T18:30 Antalya'dan dünyaya uyarı: 200 milyon insan göçe zorlanabili -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:33 Dünya Alem (68): Doğu Akdeniz’de yeni dengeler ve Kıbrıs müz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:33 Antalya'dan dünyaya uyarı: 200 milyon insan göçe zorlanabili -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:33 ECB başkanlığı: Hernández de Cos ve Knot aday, Fransa-Almany -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T18:33 ECB başkanlığı: Hernández de Cos ve Knot aday, Fransa-Almany -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T18:37 ABD'de getirdiği kargoyu evin kedisine fırlattıktan sonra gü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T18:37 Dünya Alem (68): Doğu Akdeniz’de yeni dengeler ve Kıbrıs müz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T18:37 BMW 721 bin aracını geri çağırdı: Yetkililerden kapalı alana -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121305841680929012",
+   "since_id": "2121311193076027801",
    "started": true
   },
   "ajansmuhbir1923": {
