@@ -18326,6 +18326,90 @@
     "çöktü"
    ],
    "at": "2026-11-13T16:42:51.102324+00:00"
+  },
+  {
+   "fp": [
+    "nesil",
+    "sayal",
+    "suç",
+    "tutuk",
+    "örgüt"
+   ],
+   "tok": [
+    "appea",
+    "diken",
+    "eleba",
+    "first",
+    "getir",
+    "izmir",
+    "kasım",
+    "lin",
+    "nesil",
+    "post",
+    "sayal",
+    "serca",
+    "site",
+    "suç",
+    "the",
+    "yunan",
+    "örgüt"
+   ],
+   "at": "2026-11-13T16:49:23.586650+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "gerek",
+    "grubu",
+    "güçle",
+    "kas",
+    "mutla",
+    "profe",
+    "yaşla",
+    "ünlü"
+   ],
+   "tok": [
+    "ancak",
+    "azalm",
+    "azalt",
+    "açısı",
+    "bağım",
+    "büyük",
+    "denge",
+    "doğru",
+    "düşme",
+    "edebi",
+    "fizik",
+    "gerek",
+    "grubu",
+    "grupl",
+    "göre",
+    "gücün",
+    "günlü",
+    "güçle",
+    "harek",
+    "ileri",
+    "ilerl",
+    "kabil",
+    "kas",
+    "kaybı",
+    "kısıt",
+    "mutla",
+    "profe",
+    "rehab",
+    "riski",
+    "taşıy",
+    "tedav",
+    "uzman",
+    "yaş",
+    "yaşam",
+    "yaşla",
+    "zorla",
+    "çalış",
+    "önem",
+    "ünlü"
+   ],
+   "at": "2026-11-13T16:49:24.258189+00:00"
   }
  ],
  "posted": [
@@ -21157,14 +21241,9 @@
   "7f0d86790c": 1,
   "39ecd26b23": 1,
   "a7259c39dc": 1,
-  "bb22e6462d": 2,
-  "d4b8512566": 2,
-  "40c671105b": 1
+  "40c671105b": 2
  },
  "fail_log": [
-  "2026-11-13T15:51 Gözde Şeker yazdı: Yüzde 36,7’lik demokrasi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T15:54 Ders filminin konusu ne? Ders filminin oyuncuları kim? -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T15:54 Husiler duyurdu: Aden'de Suudi subayların bulunduğu askeri k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:54 ATM limitleri açıklandı: Hangi banka ne kadar izin veriyor? -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:57 Ders filminin konusu ne? Ders filminin oyuncuları kim? -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:57 Husiler duyurdu: Aden'de Suudi subayların bulunduğu askeri k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21201,12 +21280,15 @@
   "2026-11-13T16:42 Ünlü profesörler açıkladı: Yaşlandıkça mutlaka güçlendirilme -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T16:46 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T16:46 'Yeni nesil suç örgütü' operasyonu: Sercan Sayal tutuklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T16:46 Ünlü profesörler açıkladı: Yaşlandıkça mutlaka güçlendirilme -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T16:46 Ünlü profesörler açıkladı: Yaşlandıkça mutlaka güçlendirilme -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T16:49 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T16:49 'Yeni nesil suç örgütü' operasyonu: Sercan Sayal tutuklandı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T16:49 Ünlü profesörler açıkladı: Yaşlandıkça mutlaka güçlendirilme -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121282604888478123",
+   "since_id": "2121283506365997456",
    "started": true
   },
   "ajansmuhbir1923": {
