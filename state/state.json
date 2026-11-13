@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "charl",
-    "cop31",
-    "cumhu",
-    "erdoğ",
-    "ingil",
-    "kralı",
-    "tan",
-    "teşek"
-   ],
-   "tok": [
-    "antal",
-    "charl",
-    "cop31",
-    "düzen",
-    "erdoğ",
-    "gönde",
-    "halkı",
-    "ingil",
-    "kral",
-    "kralı",
-    "lider",
-    "mesaj",
-    "tan",
-    "teşek",
-    "zirve"
-   ],
-   "at": "2026-11-11T23:05:16.468262+00:00"
-  },
-  {
-   "fp": [
-    "durma",
-    "kamyo",
-    "kişiy",
-    "kırmı",
-    "sorum",
-    "öldür",
-    "ışıkt",
-    "şoför"
-   ],
-   "tok": [
-    "acil",
-    "anda",
-    "anı",
-    "arkad",
-    "bulun",
-    "durma",
-    "ekipl",
-    "facia",
-    "gelen",
-    "geçid",
-    "hasta",
-    "kadın",
-    "kaldı",
-    "kamyo",
-    "kurtu",
-    "kırmı",
-    "otomo",
-    "savru",
-    "servi",
-    "sonuc",
-    "sorum",
-    "trafi",
-    "veren",
-    "yaya",
-    "yol",
-    "zinci",
-    "çarpm",
-    "çarpt",
-    "öldür",
-    "ışıkt",
-    "şidde",
-    "şoför"
-   ],
-   "at": "2026-11-11T23:05:17.779662+00:00"
-  },
-  {
-   "fp": [
     "ayıba",
     "camid",
     "getir",
@@ -19003,6 +18925,66 @@
     "öğret"
    ],
    "at": "2026-11-13T11:04:03.196754+00:00"
+  },
+  {
+   "fp": [
+    "açlık",
+    "dan",
+    "demet",
+    "evgar",
+    "gelen",
+    "girdi",
+    "grevi",
+    "itira",
+    "konse",
+    "peruk",
+    "sınav",
+    "yaptı",
+    "yılla"
+   ],
+   "tok": [
+    "ahmet",
+    "anlat",
+    "açlık",
+    "babas",
+    "başar",
+    "başla",
+    "dan",
+    "demet",
+    "evde",
+    "evgar",
+    "gelen",
+    "geniş",
+    "girdi",
+    "grevi",
+    "hayra",
+    "hikay",
+    "isim",
+    "itira",
+    "karşı",
+    "kez",
+    "kitle",
+    "konse",
+    "mesle",
+    "mümta",
+    "oyunc",
+    "payla",
+    "peruk",
+    "progr",
+    "sahip",
+    "söyle",
+    "sürec",
+    "sınav",
+    "tayla",
+    "yaptı",
+    "yaşad",
+    "yaşın",
+    "yılla",
+    "zorlu",
+    "çıkma",
+    "ünlü"
+   ],
+   "at": "2026-11-13T11:07:23.368240+00:00"
   }
  ],
  "posted": [
@@ -21803,15 +21785,11 @@
   "0113181ec0": 1,
   "d0d74c26ab": 1,
   "39e43c8567": 2,
-  "32fe74f826": 1,
+  "32fe74f826": 2,
   "d3e57056f2": 1,
-  "134068db85": 2,
-  "c929846539": 1
+  "c929846539": 2
  },
  "fail_log": [
-  "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:20 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:20 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
@@ -21848,7 +21826,10 @@
   "2026-11-13T11:00 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:04 13 ilde FETÖ'nün 'kadın' yapılanmasına operasyon: Çok sayıda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:04 Demet Evgar'dan yıllar sonra gelen itiraf: \"Açlık grevi yapt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:04 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T11:04 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:07 13 ilde FETÖ'nün 'kadın' yapılanmasına operasyon: Çok sayıda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:07 Demet Evgar'dan yıllar sonra gelen itiraf: \"Açlık grevi yapt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:07 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
