@@ -2,82 +2,6 @@
  "seen": [
   {
    "fp": [
-    "350",
-    "alarm",
-    "charl",
-    "den",
-    "fazla",
-    "iptal",
-    "kapat",
-    "kasır",
-    "okull",
-    "porte",
-    "uçuş"
-   ],
-   "tok": [
-    "alarm",
-    "bölge",
-    "charl",
-    "den",
-    "edili",
-    "fazla",
-    "güney",
-    "hava",
-    "iptal",
-    "kapat",
-    "kasır",
-    "koşul",
-    "kırmı",
-    "neden",
-    "okull",
-    "olums",
-    "orta",
-    "porte",
-    "uçuş",
-    "veril"
-   ],
-   "at": "2026-11-12T05:52:56.522606+00:00"
-  },
-  {
-   "fp": [
-    "akif",
-    "bari",
-    "başka",
-    "beki",
-    "demir",
-    "güven",
-    "hocay",
-    "kulak",
-    "versi"
-   ],
-   "tok": [
-    "akif",
-    "appea",
-    "bari",
-    "beki",
-    "demir",
-    "diken",
-    "first",
-    "güven",
-    "hoca",
-    "hocay",
-    "iktid",
-    "içeri",
-    "kulak",
-    "linka",
-    "nın",
-    "post",
-    "rastl",
-    "site",
-    "the",
-    "uyara",
-    "versi",
-    "yazıs"
-   ],
-   "at": "2026-11-12T05:52:56.827274+00:00"
-  },
-  {
-   "fp": [
     "5",
     "binde",
     "büyüy",
@@ -18293,6 +18217,124 @@
     "yanay"
    ],
    "at": "2026-11-13T17:47:24.845830+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "19",
+    "1931",
+    "birin",
+    "demir",
+    "habaş",
+    "hayat",
+    "ihrac",
+    "işçin",
+    "kaybe",
+    "kurul",
+    "olduk",
+    "serma",
+    "tan",
+    "türk",
+    "yılın",
+    "çelik"
+   ],
+   "tok": [
+    "aliağ",
+    "başla",
+    "belir",
+    "birin",
+    "dair",
+    "daki",
+    "demir",
+    "faali",
+    "fabri",
+    "gelen",
+    "habaş",
+    "ihrac",
+    "işçin",
+    "kurul",
+    "meyda",
+    "olaya",
+    "olduk",
+    "sahib",
+    "serma",
+    "tan",
+    "yılın",
+    "çelik",
+    "üzgün",
+    "şirke"
+   ],
+   "at": "2026-11-13T17:53:57.541008+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "beled",
+    "dursu",
+    "khan",
+    "londr",
+    "sadiq",
+    "ziyar",
+    "özbek"
+   ],
+   "tok": [
+    "aydın",
+    "ağırl",
+    "beled",
+    "berab",
+    "cuma",
+    "dan",
+    "dursu",
+    "galat",
+    "heyet",
+    "khan",
+    "kulüb",
+    "kıldı",
+    "londr",
+    "mete",
+    "namaz",
+    "ndan",
+    "sadiq",
+    "saray",
+    "spor",
+    "sulta",
+    "yardı",
+    "ziyar",
+    "çoban",
+    "özbek"
+   ],
+   "at": "2026-11-13T17:53:58.721698+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "bina",
+    "katlı",
+    "küçük",
+    "riskl"
+   ],
+   "tok": [
+    "bina",
+    "binad",
+    "binan",
+    "boşal",
+    "bulun",
+    "dayan",
+    "depre",
+    "edile",
+    "kanar",
+    "katlı",
+    "küçük",
+    "mahal",
+    "mühür",
+    "nde",
+    "paniğ",
+    "riskl",
+    "sakin",
+    "tahli",
+    "tespi"
+   ],
+   "at": "2026-11-13T17:53:59.311024+00:00"
   }
  ],
  "posted": [
@@ -21126,15 +21168,9 @@
   "f84e6171f0": 2,
   "40c671105b": 2,
   "c999b18a64": 1,
-  "4a19319e50": 1,
-  "fd6089ac0c": 2,
-  "80ffa9d4ab": 2,
-  "34042d2dd6": 2
+  "4a19319e50": 1
  },
  "fail_log": [
-  "2026-11-13T17:03 Kalabalık büyüdükçe sorumluluğun azalması: Seyirci Etkisi ne -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T17:06 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T17:06 IŞİD soruşturmaları deli dumrul misali: IŞİD’in tekfirciliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:06 Bi’ de Buradan Bak (2) | Erkan Baş: “Hırsızları değil, bizi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:09 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:09 IŞİD soruşturmaları deli dumrul misali: IŞİD’in tekfirciliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21171,12 +21207,15 @@
   "2026-11-13T17:47 ABD Hazine Bakanı Bessent açıkladı: Megaspeed'in kara listey -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:50 19 işçinin hayatını kaybettiği HABAŞ'tan açıklama: ‘1931'de  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:50 Londra Belediye Başkanı Sadiq Khan'dan Dursun Özbek'e ziyare -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T17:50 Küçükçekmece'de depreme dayanıksız olduğu tespit edilen 6 ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T17:50 Küçükçekmece'de depreme dayanıksız olduğu tespit edilen 6 ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:53 19 işçinin hayatını kaybettiği HABAŞ'tan açıklama: ‘1931'de  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:53 Londra Belediye Başkanı Sadiq Khan'dan Dursun Özbek'e ziyare -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:53 Küçükçekmece'de depreme dayanıksız olduğu tespit edilen 6 ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121297133014036793",
+   "since_id": "2121300066308878642",
    "started": true
   },
   "ajansmuhbir1923": {
