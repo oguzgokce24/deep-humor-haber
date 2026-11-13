@@ -21518,13 +21518,11 @@
   "ae41ec34e0": 1,
   "05ff6a14ce": 1,
   "1ebf14c854": 2,
-  "f242415b26": 1,
-  "be55d8982a": 1
+  "f242415b26": 2,
+  "be55d8982a": 2,
+  "ddf32f2276": 1
  },
  "fail_log": [
-  "2026-11-13T12:34 Bolu Ticaret ve Sanayi Odası Başkanı dolandırıldı: Adım adım -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T12:37 Ekrem İmamoğlu'nun ifadesi ortaya çıktı: \"Suçlamayı asla kab -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T12:37 116 suçtan aranan Yunanistan'da yakalanan suç örgütü elebaşı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:37 Zeytinburnu'nda iki gemi birbirine çarptı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:40 Zeytinburnu açıklarında demirli iki gemi birbirine sürttü. G -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:40 116 suçtan aranan Yunanistan'da yakalanan suç örgütü elebaşı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21561,12 +21559,15 @@
   "2026-11-13T13:24 KKTC'de 28 kişinin öldüğü gemi faciasında yeni gelişme: 9 şü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:27 KKTC'de 28 kişinin öldüğü gemi faciasında yeni gelişme: 9 şü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:27 Araştırma: Kargalar insanlardan iki daha hızlı karar veriyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:27 Sağlık Bakanı Memişoğlu duyurdu: Diyaliz merkezlerinde yeni  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T13:27 Sağlık Bakanı Memişoğlu duyurdu: Diyaliz merkezlerinde yeni  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:31 Araştırma: Kargalar insanlardan iki daha hızlı karar veriyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:31 Sağlık Bakanı Memişoğlu duyurdu: Diyaliz merkezlerinde yeni  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:31 Çanakkale geçilmeyecek: Tüm feribot seferleri iptal edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121228318997668206",
+   "since_id": "2121233855264800965",
    "started": true
   },
   "ajansmuhbir1923": {
