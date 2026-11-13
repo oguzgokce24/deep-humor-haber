@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bulun",
-    "cesed",
-    "erkek",
-    "halin",
-    "manis",
-    "otomo",
-    "park",
-    "yanın"
-   ],
-   "tok": [
-    "bulun",
-    "cesed",
-    "erkek",
-    "erkeğ",
-    "geldi",
-    "hale",
-    "halin",
-    "ilçes",
-    "kenar",
-    "kulla",
-    "manis",
-    "nın",
-    "otomo",
-    "park",
-    "yangı",
-    "yanın",
-    "yapıl",
-    "yol",
-    "yunus",
-    "ölüm"
-   ],
-   "at": "2026-11-12T10:54:46.589870+00:00"
-  },
-  {
-   "fp": [
-    "cinay",
-    "demok",
-    "değil",
-    "emek",
-    "hesap",
-    "kader",
-    "mersi",
-    "platf",
-    "sorum",
-    "verme"
-   ],
-   "tok": [
-    "alınm",
-    "anlay",
-    "cinay",
-    "demok",
-    "denil",
-    "değil",
-    "emek",
-    "habaş",
-    "hesap",
-    "ilgil",
-    "insan",
-    "kader",
-    "katli",
-    "koyan",
-    "kârı",
-    "mersi",
-    "platf",
-    "riskl",
-    "sonuc",
-    "sorum",
-    "verme",
-    "yaşam",
-    "ölüml",
-    "önlem",
-    "önlen",
-    "önüne"
-   ],
-   "at": "2026-11-12T10:54:46.984520+00:00"
-  },
-  {
-   "fp": [
     "21",
     "bavul",
     "değer",
@@ -18521,25 +18443,68 @@
     "şemsi"
    ],
    "at": "2026-11-13T22:53:15.365975+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "gemis",
+    "missi",
+    "nde",
+    "nehri",
+    "tanke",
+    "yolcu",
+    "çarpt"
+   ],
+   "tok": [
+    "abd",
+    "değiş",
+    "düzen",
+    "erdoğ",
+    "eyale",
+    "eğiti",
+    "gemis",
+    "isten",
+    "istih",
+    "işsiz",
+    "kanun",
+    "kruz",
+    "liman",
+    "louis",
+    "mecli",
+    "mesle",
+    "missi",
+    "nda",
+    "nde",
+    "nehri",
+    "new",
+    "nin",
+    "orlea",
+    "parti",
+    "planl",
+    "sigor",
+    "sundu",
+    "sürel",
+    "süres",
+    "tanke",
+    "tekli",
+    "teşvi",
+    "uzatm",
+    "uzatı",
+    "veril",
+    "yakın",
+    "yan",
+    "yattı",
+    "yetki",
+    "yolcu",
+    "yük",
+    "çarpt",
+    "çarpı",
+    "öngör"
+   ],
+   "at": "2026-11-13T23:06:00.182802+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5175d21e4c",
-   "post_id": "529346797199852_1463055855934122",
-   "title": "SPK'den fon yatırımcılarına yönelik 'dolandırıcılık' mesajları uyarısı",
-   "at": "2026-11-09T16:03:39.609673+00:00",
-   "yazim": "claude",
-   "metin": "SPK, tasfiye edilen ve alım satıma kapatılan fonların yatırımcılarını dolandırıcılara karşı uyardı.\n\n— Dolandırıcılar telefon, kısa mesaj ve sosyal medya üzerinden yatırımcılara ulaşıyor. Ödemelerin hızlandırılabileceğini ya da öncelik sağlanabileceğini vaat ediyorlar.\n\n— SPK'ya göre bu fonların ödeme süreçlerini yalnızca yetkili kurumlar yürütüyor. Yatırımcılardan ücret, komisyon ya da kimlik ve banka bilgisi istenmesi söz konusu değil.\n\n— Aracılık vaadiyle para isteyenlere itibar edilmemesi, bu tür girişimlerle karşılaşılırsa kolluk birimlerine ya da Cumhuriyet Başsavcılıklarına başvurulması isteniyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari/4117537",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari-43371973",
-    "Milliyet: https://www.milliyet.com.tr/gundem/spkden-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari-7697499",
-    "CNN Türk: https://www.cnnturk.com/turkiye/spkden-fon-yatirimcilarina-dolandiricilik-uyarisi-3491030",
-    "Habertürk: https://www.haberturk.com/ekonomi/spk-dan-fon-yatirimcilarina-yonelik-dolandiricilik-uyarisi-3926084",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/spk-den-fon-yatirimcilarina-yonelik-dolandiricilik-mesajlari-uyarisi-2554817"
-   ]
-  },
   {
    "id": "078b0db554",
    "post_id": "529346797199852_1463066625933045",
@@ -21091,6 +21056,20 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/spk-haftalik-bulteni-yayimlandi-2-fonun-kurulmasina-izin-verildi-746352"
    ]
+  },
+  {
+   "id": "275d3c55d4",
+   "post_id": "529346797199852_1467936472112727",
+   "title": "ABD'de yük gemisinin çarptığı kruz gemisi yan yattı",
+   "at": "2026-11-13T23:06:00.182802+00:00",
+   "yazim": "claude",
+   "metin": "AK Parti'nin Meclis'e sunduğu kanun teklifiyle Cumhurbaşkanı Erdoğan'a istihdam teşviklerinin süresini uzatma yetkisi verilmek isteniyor.\n\n— Teklif, Mesleki Eğitim Kanunu ile İşsizlik Sigortası Kanunu'nda değişiklik öngörüyor.\n— Bu düzenlemeyle teşvik sürelerinin Cumhurbaşkanı tarafından uzatılabilmesi planlanıyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdnin-louisiana-eyaletindeki-mississippi-nehrinde-tanker-yolcu-gemisine-carpti/4124778",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/abdde-mississippi-nehrinde-tanker-yolcu-gemisine-carpti-963231.html",
+    "BBC Türkçe: https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
+    "Evrensel: https://www.evrensel.net/haber/6009411/new-orleansta-mississippi-nehrinde-yolcu-gemisiyle-tanker-carpisti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -21359,7 +21338,6 @@
   "486e7d7aa4": 2
  },
  "fail_log": [
-  "2026-11-13T19:32 Metro altyapısı için 1.1 milyar doların harcandığı New York’ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:32 Bursa’da İmamoğlu protestoları nedeniyle yargılanan 11 kişi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:35 Bursa’da İmamoğlu protestoları nedeniyle yargılanan 11 kişi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:35 Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21398,12 +21376,13 @@
   "2026-11-13T22:15 Orkun Kökçü'den Beşiktaş itirafı: 'Bana yapılan bir haksızlı -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
   "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
-  "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı"
+  "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
+  "2026-11-13T23:06 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121371426066219435",
+   "since_id": "2121376706045120574",
    "started": true
   },
   "ajansmuhbir1923": {
