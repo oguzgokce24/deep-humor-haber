@@ -2,106 +2,6 @@
  "seen": [
   {
    "fp": [
-    "demir",
-    "idç",
-    "izmir",
-    "işçin",
-    "işçis",
-    "kader",
-    "olmam",
-    "çelik",
-    "ölüm"
-   ],
-   "tok": [
-    "bacas",
-    "demir",
-    "değer",
-    "değil",
-    "duman",
-    "fabri",
-    "görül",
-    "hiçbi",
-    "idç",
-    "insan",
-    "izmir",
-    "işçin",
-    "işçis",
-    "kader",
-    "kalan",
-    "konuş",
-    "kıyme",
-    "lazım",
-    "olmam",
-    "rakam",
-    "topra",
-    "yarım",
-    "yükse",
-    "çelik",
-    "çeliğ",
-    "ölüm",
-    "üreti"
-   ],
-   "at": "2026-11-11T22:44:24.084131+00:00"
-  },
-  {
-   "fp": [
-    "3",
-    "5",
-    "anado",
-    "asliy",
-    "ceza",
-    "hakim",
-    "hukuk",
-    "istan",
-    "mahke"
-   ],
-   "tok": [
-    "adıya",
-    "aile",
-    "anado",
-    "asliy",
-    "batma",
-    "ceza",
-    "fikri",
-    "gazio",
-    "hakim",
-    "hakla",
-    "hukuk",
-    "kocae",
-    "sınai",
-    "urla",
-    "yalov",
-    "şanlı"
-   ],
-   "at": "2026-11-11T22:44:25.136607+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "hakim",
-    "hukuk",
-    "istan",
-    "mahke",
-    "sulh"
-   ],
-   "tok": [
-    "anado",
-    "diyad",
-    "edirn",
-    "erzin",
-    "hakim",
-    "hende",
-    "hukuk",
-    "kovan",
-    "memur",
-    "satış",
-    "silva",
-    "sulh"
-   ],
-   "at": "2026-11-11T22:44:25.986928+00:00"
-  },
-  {
-   "fp": [
     "bursa",
     "daire",
     "gayri",
@@ -19067,6 +18967,87 @@
     "çocuk"
    ],
    "at": "2026-11-13T10:44:12.982477+00:00"
+  },
+  {
+   "fp": [
+    "gazze",
+    "kanad",
+    "mende",
+    "ten",
+    "yükse",
+    "çağrı",
+    "şarkı"
+   ],
+   "tok": [
+    "altın",
+    "baskı",
+    "bizde",
+    "cesur",
+    "deki",
+    "etmey",
+    "filis",
+    "gazze",
+    "getir",
+    "halin",
+    "kaldı",
+    "kanad",
+    "mende",
+    "mücad",
+    "norm",
+    "olma",
+    "olmak",
+    "payla",
+    "sanat",
+    "ses",
+    "sesim",
+    "sesle",
+    "shawn",
+    "sıra",
+    "sıras",
+    "ten",
+    "uzun",
+    "yaşay",
+    "yükse",
+    "zaman",
+    "zorun",
+    "çağrı",
+    "çocuk",
+    "şarkı",
+    "şimdi"
+   ],
+   "at": "2026-11-13T10:47:34.349177+00:00"
+  },
+  {
+   "fp": [
+    "cumhu",
+    "kanun",
+    "tekli",
+    "yetki"
+   ],
+   "tok": [
+    "akp",
+    "den",
+    "eğiti",
+    "geliy",
+    "göre",
+    "işsiz",
+    "kanun",
+    "mecli",
+    "mesle",
+    "nda",
+    "nin",
+    "parti",
+    "planl",
+    "sigor",
+    "sunul",
+    "süre",
+    "tanın",
+    "tbmm",
+    "tekli",
+    "uzatm",
+    "yetki"
+   ],
+   "at": "2026-11-13T10:47:36.413190+00:00"
   }
  ],
  "posted": [
@@ -21867,14 +21848,10 @@
   "0113181ec0": 1,
   "d0d74c26ab": 1,
   "39e43c8567": 2,
-  "153f7ae7d7": 2,
   "32fe74f826": 1,
-  "e8470d9d6b": 2
+  "1507ea093c": 1
  },
  "fail_log": [
-  "2026-11-13T10:13 MSB: Görevi başında rahatsızlanan er Kaan Öcal şehit oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:13 Sırbistan'da Öğrenci Listesi temsilcisi Ubovic: ''İsrail ile -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:13 Türkiye-Fransa maçının hakemi belli oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:17 MSB: Görevi başında rahatsızlanan er Kaan Öcal şehit oldu -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:17 MSB: Görevi başında rahatsızlanan er Kaan Öcal şehit oldu -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:17 MSB: Görevi başında rahatsızlanan er Kaan Öcal şehit oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21911,7 +21888,10 @@
   "2026-11-13T10:40 Kanadalı şarkıcı Mendes'ten Gazze için ses yükseltme çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:44 Trump'tan İran itirafı: İsrail'e işaret etti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:44 Kanadalı şarkıcı Mendes'ten Gazze için ses yükseltme çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:44 Lewis Hamilton, Refah Sınır Kapısı'nda: Gazze için ateşkes v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T10:44 Lewis Hamilton, Refah Sınır Kapısı'nda: Gazze için ateşkes v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T10:47 Kanadalı şarkıcı Mendes'ten Gazze için ses yükseltme çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T10:47 WhatsApp’a yeni özellik geliyor: 'Tek seferlik mesaj' dönemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T10:47 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
