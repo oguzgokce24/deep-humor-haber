@@ -2,109 +2,6 @@
  "seen": [
   {
    "fp": [
-    "düzey",
-    "görüş",
-    "lider",
-    "zelen",
-    "zirve",
-    "üçlü"
-   ],
-   "tok": [
-    "adına",
-    "belir",
-    "bildi",
-    "bitir",
-    "devam",
-    "devle",
-    "düzen",
-    "düzey",
-    "erdir",
-    "ettiğ",
-    "görüş",
-    "lider",
-    "rusya",
-    "savaş",
-    "sona",
-    "sürdü",
-    "sürüy",
-    "ukray",
-    "volod",
-    "yönün",
-    "zelen",
-    "zirve",
-    "üçlü"
-   ],
-   "at": "2026-11-11T23:35:19.684902+00:00"
-  },
-  {
-   "fp": [
-    "antal",
-    "dan",
-    "harek",
-    "paşin",
-    "tuhaf"
-   ],
-   "tok": [
-    "antal",
-    "başba",
-    "cop31",
-    "dan",
-    "ermen",
-    "gelen",
-    "harek",
-    "iklim",
-    "katıl",
-    "nikol",
-    "paşin",
-    "tuhaf",
-    "zirve",
-    "ziyar",
-    "üzere"
-   ],
-   "at": "2026-11-11T23:35:20.390323+00:00"
-  },
-  {
-   "fp": [
-    "balık",
-    "devam",
-    "emeği",
-    "istif",
-    "sömür",
-    "sınıf",
-    "teşvi",
-    "çocuk"
-   ],
-   "tok": [
-    "ayrıl",
-    "balık",
-    "birle",
-    "bütçe",
-    "devam",
-    "düşük",
-    "edile",
-    "edilm",
-    "emeği",
-    "eğiti",
-    "genel",
-    "gördü",
-    "inşa",
-    "istif",
-    "kalab",
-    "neden",
-    "okull",
-    "pay",
-    "seviy",
-    "sömür",
-    "sınıf",
-    "teşvi",
-    "yatır",
-    "yılın",
-    "çocuk"
-   ],
-   "at": "2026-11-11T23:35:58.923977+00:00"
-  },
-  {
-   "fp": [
     "değiş",
     "dünya",
     "kâatt"
@@ -18964,6 +18861,54 @@
     "ziyar"
    ],
    "at": "2026-11-13T11:34:15.286551+00:00"
+  },
+  {
+   "fp": [
+    "dan",
+    "mukte",
+    "parti",
+    "siyas",
+    "tayya",
+    "uyarı",
+    "veriy",
+    "zarar",
+    "çatış",
+    "şamil"
+   ],
+   "tok": [
+    "ancak",
+    "belir",
+    "bugün",
+    "bulun",
+    "dan",
+    "devle",
+    "dikka",
+    "eleşt",
+    "ettiğ",
+    "iktid",
+    "izlen",
+    "mukte",
+    "mücad",
+    "nin",
+    "odakl",
+    "parti",
+    "sahib",
+    "siyas",
+    "strat",
+    "tam",
+    "tayya",
+    "uyarı",
+    "veriy",
+    "vesay",
+    "yetki",
+    "yönet",
+    "zarar",
+    "çatış",
+    "çağrı",
+    "çekic",
+    "şamil"
+   ],
+   "at": "2026-11-13T11:37:41.351814+00:00"
   }
  ],
  "posted": [
@@ -21769,13 +21714,10 @@
   "1047f570d5": 1,
   "a248b12a3b": 1,
   "cf56966758": 1,
-  "9f152358c7": 2,
-  "9b883893e5": 1
+  "9b883893e5": 2,
+  "8d849c058c": 1
  },
  "fail_log": [
-  "2026-11-13T10:44 Lewis Hamilton, Refah Sınır Kapısı'nda: Gazze için ateşkes v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:47 Kanadalı şarkıcı Mendes'ten Gazze için ses yükseltme çağrısı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:47 WhatsApp’a yeni özellik geliyor: 'Tek seferlik mesaj' dönemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:47 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:50 Aksaray'da polisin \"dur\" ihtarına uymayarak kaçan plakasız m -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:50 WhatsApp’a yeni özellik geliyor: 'Tek seferlik mesaj' dönemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21812,7 +21754,10 @@
   "2026-11-13T11:30 Şamil Tayyar'dan AK Parti'ye siyaset uyarısı: \"Muktedirken ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:34 İstanbul'da fırtına: Vapur, teleferik ve deniz otobüsleri ip -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:34 İstanbul'da korkutan manzara: 60 yıllık bina kalaslarla ayak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:34 Şamil Tayyar'dan AK Parti'ye siyaset uyarısı: \"Muktedirken ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T11:34 Şamil Tayyar'dan AK Parti'ye siyaset uyarısı: \"Muktedirken ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:37 Yıldız Holding COP31'de 2030 hedeflerini açıkladı: Kadın çif -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:37 İstanbul'da korkutan manzara: 60 yıllık bina kalaslarla ayak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:37 Şamil Tayyar'dan AK Parti'ye siyaset uyarısı: \"Muktedirken ç -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
