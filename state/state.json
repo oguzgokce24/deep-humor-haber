@@ -2,77 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bütçe",
-    "hak",
-    "hizme",
-    "olmal",
-    "ses",
-    "sosya",
-    "temel",
-    "ten",
-    "tepki"
-   ],
-   "tok": [
-    "aile",
-    "bulun",
-    "bütçe",
-    "dair",
-    "düzen",
-    "esasl",
-    "hak",
-    "hizme",
-    "olmal",
-    "ses",
-    "sosya",
-    "temel",
-    "ten",
-    "tepki",
-    "yapan",
-    "yenid",
-    "çağrı"
-   ],
-   "at": "2026-11-11T17:27:07.598036+00:00"
-  },
-  {
-   "fp": [
-    "abd",
-    "asker",
-    "avrup",
-    "hedef",
-    "iran",
-    "nin",
-    "üsler"
-   ],
-   "tok": [
-    "abd",
-    "alabi",
-    "asker",
-    "avrup",
-    "bazı",
-    "daki",
-    "genel",
-    "güven",
-    "halin",
-    "hedef",
-    "herha",
-    "iran",
-    "konse",
-    "muhsi",
-    "nin",
-    "rızai",
-    "sekre",
-    "sinya",
-    "ulusa",
-    "verdi",
-    "yükse",
-    "ülkel",
-    "ülkey",
-    "üsler"
-   ],
-   "at": "2026-11-11T17:30:25.370914+00:00"
-  },
-  {
-   "fp": [
     "aldem",
     "bager",
     "etmem",
@@ -18935,6 +18864,35 @@
     "yürüy"
    ],
    "at": "2026-11-13T05:26:37.011646+00:00"
+  },
+  {
+   "fp": [
+    "22",
+    "istan",
+    "opera",
+    "suç",
+    "örgüt"
+   ],
+   "tok": [
+    "ayrı",
+    "eylem",
+    "karış",
+    "kaste",
+    "kurşu",
+    "nitel",
+    "otomo",
+    "silah",
+    "suç",
+    "suça",
+    "tespi",
+    "teşeb",
+    "yağma",
+    "yeri",
+    "öldür",
+    "örgüt",
+    "şafak"
+   ],
+   "at": "2026-11-13T05:36:07.035268+00:00"
   }
  ],
  "posted": [
@@ -21709,14 +21667,12 @@
   "73459e9174": 1,
   "222db456e0": 1,
   "f9857b5d71": 2,
-  "a381b634cf": 2,
   "3495339069": 1,
-  "86ec9d4fc3": 1
+  "86ec9d4fc3": 1,
+  "3b5c1c019d": 1,
+  "dccfa043ef": 1
  },
  "fail_log": [
-  "2026-11-13T04:43 43 ilde kişisel veri operasyonu: 101 kişi gözaltına alındı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T04:47 Meteoroloji açıkladı: 13 Kasım 2026 hava durumu raporu... Bu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T04:47 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T04:47 43 ilde kişisel veri operasyonu: 101 kişi gözaltına alındı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T04:50 Meteoroloji açıkladı: 13 Kasım 2026 hava durumu raporu... Bu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T04:50 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21753,12 +21709,15 @@
   "2026-11-13T05:23 Hatay'da boğazına yiyecek kaçan ilkokul öğrencisi, okul pers -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T05:26 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T05:26 Cangül Örnek: 'Türkiye Yüzyılı'nda Londra'da kapılar çalınıy -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T05:26 Resul Kurt: Haftalık çalışma süresi en çok 45 saattir -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T05:26 Resul Kurt: Haftalık çalışma süresi en çok 45 saattir -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T05:36 Sarıgül soruşturmasında yeni operasyon: 18 gözaltı kararı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T05:36 İstanbul'da silahlı suç örgütüne şafak operasyonu: 15 ayrı e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T05:36 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121111280245477731",
+   "since_id": "2121112676835152049",
    "started": true
   },
   "ajansmuhbir1923": {
