@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "60",
-    "9",
-    "değer",
-    "fonu",
-    "hesab",
-    "karab",
-    "lira",
-    "milya",
-    "nasıl",
-    "parti",
-    "sosya",
-    "tan",
-    "yardı"
-   ],
-   "tok": [
-    "aile",
-    "belir",
-    "bütçe",
-    "dayan",
-    "değer",
-    "fonu",
-    "gelir",
-    "hesab",
-    "hizme",
-    "karab",
-    "kayna",
-    "komis",
-    "kulla",
-    "liran",
-    "mille",
-    "milya",
-    "nasıl",
-    "nda",
-    "nun",
-    "nın",
-    "parti",
-    "plan",
-    "sosya",
-    "tan",
-    "tbmm",
-    "teşvi",
-    "yardı",
-    "yılı",
-    "yılın",
-    "özgür"
-   ],
-   "at": "2026-11-11T15:01:33.910621+00:00"
-  },
-  {
-   "fp": [
     "8",
     "dokto",
     "evind",
@@ -19169,6 +19119,118 @@
     "yapac"
    ],
    "at": "2026-11-13T02:52:50.400468+00:00"
+  },
+  {
+   "fp": [
+    "cezae",
+    "değil",
+    "girme",
+    "işlem",
+    "mümkü",
+    "suç"
+   ],
+   "tok": [
+    "akp",
+    "beled",
+    "biz",
+    "can",
+    "cezae",
+    "değil",
+    "gazet",
+    "geçen",
+    "girme",
+    "güner",
+    "hücre",
+    "hüsey",
+    "itira",
+    "işlem",
+    "metre",
+    "mümkü",
+    "onlar",
+    "röpor",
+    "suç",
+    "vurgu",
+    "yaptı",
+    "yargı",
+    "yönel",
+    "çanka",
+    "özgür"
+   ],
+   "at": "2026-11-13T03:02:54.953712+00:00"
+  },
+  {
+   "fp": [
+    "emekç",
+    "fatur",
+    "kesil",
+    "krizi",
+    "rekla"
+   ],
+   "tok": [
+    "bozuk",
+    "bütçe",
+    "dayan",
+    "dizi",
+    "düşüş",
+    "emekç",
+    "etmes",
+    "fatur",
+    "gelir",
+    "geçec",
+    "istem",
+    "isten",
+    "içind",
+    "kesil",
+    "krizi",
+    "makin",
+    "oyunc",
+    "rekla",
+    "savun",
+    "sektö",
+    "sendi",
+    "set",
+    "siyas",
+    "sübva",
+    "sınıf",
+    "uzman",
+    "yaşan"
+   ],
+   "at": "2026-11-13T03:02:55.470299+00:00"
+  },
+  {
+   "fp": [
+    "daral",
+    "özgür"
+   ],
+   "tok": [
+    "alan",
+    "alanı",
+    "başın",
+    "beled",
+    "bileş",
+    "cezae",
+    "daral",
+    "deki",
+    "dolul",
+    "düşen",
+    "edild",
+    "gazet",
+    "hesap",
+    "hüküm",
+    "komed",
+    "mahkû",
+    "metre",
+    "muhal",
+    "nın",
+    "oranı",
+    "sonun",
+    "topla",
+    "toplu",
+    "yansı",
+    "özgür",
+    "öğren"
+   ],
+   "at": "2026-11-13T03:02:55.995447+00:00"
   }
  ],
  "posted": [
@@ -21935,15 +21997,9 @@
   "7dde88538c": 1,
   "2913191076": 2,
   "c0cc6600e3": 1,
-  "f6718105ce": 2,
-  "1af815369c": 2,
-  "d0c22ff464": 2,
-  "5915304f89": 2
+  "f6718105ce": 2
  },
  "fail_log": [
-  "2026-11-13T01:30 Üç günde üç kadın şüpheli şekilde öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T01:34 AKP’li Üsküdar’da işçi kıyımı sürüyor -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T01:34 Özgür Özel, verdikleri mücadeleyi ve partisinin gelecek vizy -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:34 Üç günde üç kadın şüpheli şekilde öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:37 Fatih Akın’ın yeni filmi Selanik Uluslararası Film Festivali -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T01:40 Fatih Akın’ın yeni filmi Selanik Uluslararası Film Festivali -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21980,7 +22036,10 @@
   "2026-11-13T02:56 Özgürlükler 'daralıyor' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:59 Suç işlememek mümkün ama cezaevine girmemek mümkün değil -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T02:59 Reklam krizin faturası emekçiye kesilemez -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T02:59 Özgürlükler 'daralıyor' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T02:59 Özgürlükler 'daralıyor' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T03:02 Suç işlememek mümkün ama cezaevine girmemek mümkün değil -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T03:02 Reklam krizin faturası emekçiye kesilemez -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T03:02 Özgürlükler 'daralıyor' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
