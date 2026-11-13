@@ -21775,18 +21775,12 @@
   "538e6105dd": 1,
   "0113181ec0": 1,
   "d0d74c26ab": 1,
-  "39e43c8567": 2
+  "39e43c8567": 2,
+  "24f4874003": 1,
+  "153f7ae7d7": 1,
+  "32fe74f826": 1
  },
  "fail_log": [
-  "2026-11-13T09:32 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:32 Malatya'daki helikopter kazasında dört asker hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:32 Casusluk iddiaları etkili oldu: Nvidia'da 490 milyar dolarlı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:36 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:36 Malatya'daki helikopter kazasında dört asker hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:36 Casusluk iddiaları etkili oldu: Nvidia'da 490 milyar dolarlı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:39 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:39 Malatya'daki helikopter kazasında dört asker hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:39 Casusluk iddiaları etkili oldu: Nvidia'da 490 milyar dolarlı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:43 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:43 Cari işlemler hesabı eylülde 2 milyar 720 milyon dolar fazla -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:43 Malatya'daki helikopter kazasında dört asker hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21817,12 +21811,21 @@
   "2026-11-13T10:17 Türkiye-Fransa maçının hakemi belli oldu -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:17 Türkiye-Fransa maçının hakemi belli oldu -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:17 Türkiye-Fransa maçının hakemi belli oldu -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T10:17 Sırbistan'da Öğrenci Listesi temsilcisi Ubovic: ''İsrail ile -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T10:17 Sırbistan'da Öğrenci Listesi temsilcisi Ubovic: ''İsrail ile -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "2026-11-13T10:20 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "2026-11-13T10:20 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+  "2026-11-13T10:20 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121180348553822292",
+   "since_id": "2121185436663963878",
    "started": true
   },
   "ajansmuhbir1923": {
