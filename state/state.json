@@ -2,36 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alıyo",
-    "bütün",
-    "cevde",
-    "ekolo",
-    "ekono",
-    "ele",
-    "içind",
-    "polit",
-    "yılma"
-   ],
-   "tok": [
-    "aldık",
-    "alıyo",
-    "belir",
-    "biz",
-    "bütün",
-    "cevde",
-    "ekolo",
-    "ekono",
-    "inanı",
-    "içind",
-    "polit",
-    "yardı",
-    "yılma",
-    "örtüş"
-   ],
-   "at": "2026-11-12T09:22:02.292268+00:00"
-  },
-  {
-   "fp": [
     "aysel",
     "cezan",
     "gerek",
@@ -18687,21 +18657,78 @@
     "şidde"
    ],
    "at": "2026-11-13T21:13:19.049145+00:00"
+  },
+  {
+   "fp": [
+    "anlaş",
+    "gazet",
+    "girdi",
+    "mekke",
+    "resmi",
+    "yayım",
+    "yürür"
+   ],
+   "tok": [
+    "anlaş",
+    "arabi",
+    "arası",
+    "ayrıl",
+    "ağust",
+    "bildi",
+    "birde",
+    "birin",
+    "bölge",
+    "dahil",
+    "değil",
+    "dış",
+    "edebi",
+    "gazet",
+    "genel",
+    "gerek",
+    "girdi",
+    "göre",
+    "göste",
+    "ilişk",
+    "imzal",
+    "kanun",
+    "kasım",
+    "kayna",
+    "kurul",
+    "mekke",
+    "muhal",
+    "mümkü",
+    "nin",
+    "nın",
+    "olası",
+    "onayl",
+    "onayı",
+    "ortak",
+    "pakis",
+    "resmi",
+    "savaş",
+    "savun",
+    "sayıl",
+    "silah",
+    "sonra",
+    "suudi",
+    "tbmm",
+    "tepki",
+    "yapıl",
+    "yayım",
+    "yürür",
+    "yıl",
+    "çatış",
+    "çeken",
+    "çekil",
+    "önced",
+    "ülked",
+    "ülkey",
+    "üçüne"
+   ],
+   "at": "2026-11-13T21:25:07.940857+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9bfaa2cf7c",
-   "post_id": "529346797199852_1462929992613375",
-   "title": "Adalet Bakanlığı bütçesi yeni cezaevlerine akacak",
-   "at": "2026-11-09T14:04:02.282849+00:00",
-   "yazim": "claude",
-   "metin": "Fon listesi tartışmasında YENİ Partili Gökhan Günaydın:\n\n“60 milletvekilinden bahsediliyor, 30 bakandan bahsediliyor. Hangi ucu nereye giderse gidiyor, hani!”\n\n— Tartışma, TBMM Plan ve Bütçe Komisyonu'nda Adalet Bakanlığı'nın 2027 bütçesi görüşülürken çıktı.\n— AKP'li Yaşar Kırkpınar'ın \"Gökhan Bey, elinizi tutan mı var?\" sözü salondaki gerginliği artırdı.\n— Bakan Akın Gürlek, fon soruşturmasının derinleştiğini ve bağlantıların araştırıldığını söyledi.\n— Muhalefetin verdiği 1.543 soru önergesinin 1.346'sının cevaplanmadığı ilan edildi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/adalet-bakanligi-nin-butce-gorusmesinde-fon-listesi-tartismasi-yasandi-liste-ortada-kaldi-2554780",
-    "Evrensel: https://www.evrensel.net/haber/6008691/adalet-bakanligi-butcesi-yeni-cezaevlerine-akacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "0500fed6b8",
    "post_id": "529346797199852_1462963519276689",
@@ -21251,6 +21278,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/lodos-felaketi-3-tekne-batti-bir-tekne-suruklendi-2556028",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/kenti-lodos-vurdu-3-tekne-batti-bir-tekne-suruklendi-p381152"
    ]
+  },
+  {
+   "id": "413b874022",
+   "post_id": "529346797199852_1467876738785367",
+   "title": "Mekke Anlaşması Resmi Gazete’de yayımlanarak yürürlüğe girdi",
+   "at": "2026-11-13T21:25:07.940857+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye, Pakistan ve Suudi Arabistan arasındaki Mekke Ortak Savunma Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi.\n\n— Anlaşmaya göre üç ülkeden birine yapılacak dış kaynaklı silahlı saldırı, üçüne birden yapılmış sayılacak.\n— Anlaşma 7 Ağustos'ta Mekke'de imzalanmıştı, TBMM Genel Kurulu da 5 Kasım'da onaylamıştı.\n— İlk 10 yıl anlaşmadan ayrılmak mümkün değil, sonrasında en az 3 ay önceden bildirimle çekilinebiliyor.\n— Muhalefet, olası bölgesel çatışmalarda Türkiye'yi savaşa dahil edebileceği gerekçesiyle anlaşmaya tepki gösteriyor.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/mekke-anlasmasi-yururluge-girdi-963230.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-mekke-anlasmasi-yururluge-girdi-43377693",
+    "Milliyet: https://www.milliyet.com.tr/gundem/resmi-gazetede-yayimlandi-mekke-anlasmasi-yururluge-girdi-7700423",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/13/son-dakika-mekke-anlasmasi-resmi-gazetede-yayimlandi",
+    "NTV: https://www.ntv.com.tr/turkiye/mekke-savunma-anlasmasi-yururluge-girdi-1750772",
+    "Sözcü: https://www.sozcu.com.tr/son-dakika-mekke-anlasmasi-resmi-gazete-de-yayimlandi-p381153"
+   ]
   }
  ],
  "fails": {
@@ -21518,7 +21561,6 @@
   "46a55c2a3c": 2
  },
  "fail_log": [
-  "2026-11-13T19:10 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:13 İBB Başkan Vekili Nuri Aslan duyurdu: Saraçhane binasının ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:13 HABAŞ patlamasına dair Türk Metal'den açıklama: \"Artık susma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:13 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21557,12 +21599,13 @@
   "2026-11-13T20:24 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
   "2026-11-13T20:35 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
   "2026-11-13T20:35 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
-  "2026-11-13T20:35 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı"
+  "2026-11-13T20:35 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
+  "2026-11-13T21:25 Mekke Anlaşması Resmi Gazete’de yayımlanarak yürürlüğe girdi -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121349825790898215",
+   "since_id": "2121353243150426579",
    "started": true
   },
   "ajansmuhbir1923": {
