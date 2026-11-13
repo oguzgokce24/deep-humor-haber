@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "devir",
-    "fonun",
-    "güler",
-    "hazır",
-    "hisse",
-    "kap",
-    "kriti",
-    "pusul",
-    "tan"
-   ],
-   "tok": [
-    "ağır",
-    "banka",
-    "bulun",
-    "den",
-    "devir",
-    "edilm",
-    "faali",
-    "fon",
-    "fonun",
-    "geldi",
-    "gelen",
-    "güler",
-    "günde",
-    "hazır",
-    "herha",
-    "hesap",
-    "hisse",
-    "inşaa",
-    "kap",
-    "kapsa",
-    "kriti",
-    "kurul",
-    "mal",
-    "pusul",
-    "sanay",
-    "taahh",
-    "talep",
-    "tan",
-    "tedbi",
-    "ticar",
-    "varlı",
-    "yönel",
-    "yönet",
-    "şahsi",
-    "şirke"
-   ],
-   "at": "2026-11-11T16:40:14.018384+00:00"
-  },
-  {
-   "fp": [
     "aldı",
     "alev",
     "ankar",
@@ -18981,6 +18929,36 @@
     "ürünl"
    ],
    "at": "2026-11-13T04:37:21.719882+00:00"
+  },
+  {
+   "fp": [
+    "adale",
+    "deg",
+    "izlen",
+    "ruşen",
+    "salon",
+    "siliv",
+    "yorum",
+    "çakır"
+   ],
+   "tok": [
+    "adale",
+    "davas",
+    "deg",
+    "değil",
+    "diyer",
+    "ibb",
+    "izlen",
+    "medya",
+    "ruşen",
+    "salon",
+    "siliv",
+    "sürec",
+    "tahli",
+    "yorum",
+    "çakır"
+   ],
+   "at": "2026-11-13T04:40:36.786255+00:00"
   }
  ],
  "posted": [
@@ -21749,12 +21727,10 @@
   "c0cc6600e3": 1,
   "f6718105ce": 2,
   "a0008cc4fd": 1,
-  "e05c97dc58": 2
+  "dccfa043ef": 1,
+  "2125a406cc": 1
  },
  "fail_log": [
-  "2026-11-13T03:40 Dursun Özbek'in 26 milyon euroluk transferi en çok Thomas Re -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T03:43 Mersin'de pompalı tüfekli saldırı: 1 kadın hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T03:43 Silivri’de iddia çok ‘İlke’ yok -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T03:43 İntikam tatbikatı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T03:46 Silivri’de iddia çok ‘İlke’ yok -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T03:46 İntikam tatbikatı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21791,7 +21767,10 @@
   "2026-11-13T04:34 Takviye edici gıdalara yasal düzenleme geliyor: Ürün güvenli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T04:37 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T04:37 Ruşen Çakır yorumladı | Silivri izlenimleri: “Adalet bu salo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T04:37 Takviye edici gıdalara yasal düzenleme geliyor: Ürün güvenli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T04:37 Takviye edici gıdalara yasal düzenleme geliyor: Ürün güvenli -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T04:40 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T04:40 Ruşen Çakır yorumladı | Silivri izlenimleri: “Adalet bu salo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T04:40 Meteoroloji açıkladı: 13 Kasım 2026 hava durumu raporu... Bu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
