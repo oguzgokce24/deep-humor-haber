@@ -18952,6 +18952,57 @@
     "özell"
    ],
    "at": "2026-11-13T11:00:38.349751+00:00"
+  },
+  {
+   "fp": [
+    "atama",
+    "atana",
+    "den",
+    "dikka",
+    "kalma",
+    "maaşl",
+    "mhp",
+    "çeken",
+    "öneri",
+    "öğret"
+   ],
+   "tok": [
+    "atama",
+    "atana",
+    "başla",
+    "bütçe",
+    "deki",
+    "den",
+    "dikka",
+    "eğiti",
+    "genel",
+    "görev",
+    "görüş",
+    "ilişk",
+    "istey",
+    "kadem",
+    "kalay",
+    "kalma",
+    "koşul",
+    "maaş",
+    "maaşl",
+    "mhp",
+    "milli",
+    "musta",
+    "okul",
+    "siste",
+    "sundu",
+    "taban",
+    "tbmm",
+    "yardı",
+    "yılı",
+    "çalış",
+    "çeken",
+    "öneri",
+    "özel",
+    "öğret"
+   ],
+   "at": "2026-11-13T11:04:03.196754+00:00"
   }
  ],
  "posted": [
@@ -21754,13 +21805,10 @@
   "39e43c8567": 2,
   "32fe74f826": 1,
   "d3e57056f2": 1,
-  "8424e07e73": 2,
-  "134068db85": 1
+  "134068db85": 2,
+  "c929846539": 1
  },
  "fail_log": [
-  "2026-11-13T10:17 Sırbistan'da Öğrenci Listesi temsilcisi Ubovic: ''İsrail ile -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:20 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
@@ -21797,12 +21845,15 @@
   "2026-11-13T10:50 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:00 Demet Evgar'dan yıllar sonra gelen itiraf: \"Açlık grevi yapt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:00 WhatsApp’a yeni özellik geliyor: 'Tek seferlik mesaj' dönemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:00 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T11:00 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:04 13 ilde FETÖ'nün 'kadın' yapılanmasına operasyon: Çok sayıda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:04 Demet Evgar'dan yıllar sonra gelen itiraf: \"Açlık grevi yapt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:04 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121193361121943752",
+   "since_id": "2121197042601226267",
    "started": true
   },
   "ajansmuhbir1923": {
