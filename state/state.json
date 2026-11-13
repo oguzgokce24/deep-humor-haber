@@ -18602,6 +18602,44 @@
     "öğle"
    ],
    "at": "2026-11-13T13:14:13.387613+00:00"
+  },
+  {
+   "fp": [
+    "boğaz",
+    "engel",
+    "gemi",
+    "lodos",
+    "neden",
+    "trafi",
+    "yönlü",
+    "çanak",
+    "çift"
+   ],
+   "tok": [
+    "boğaz",
+    "engel",
+    "etkil",
+    "gemi",
+    "geç",
+    "geçiş",
+    "gündü",
+    "itiba",
+    "kamer",
+    "kapan",
+    "kapat",
+    "lodos",
+    "mücad",
+    "nda",
+    "neden",
+    "saat",
+    "trafi",
+    "trans",
+    "vapur",
+    "yönlü",
+    "çanak",
+    "çift"
+   ],
+   "at": "2026-11-13T13:17:37.146887+00:00"
   }
  ],
  "posted": [
@@ -21418,14 +21456,11 @@
   "ae41ec34e0": 1,
   "45117d79d8": 1,
   "05ff6a14ce": 1,
-  "eeff763661": 2,
   "1ebf14c854": 2,
-  "b38846cad3": 1
+  "b38846cad3": 2,
+  "f9d83b9020": 1
  },
  "fail_log": [
-  "2026-11-13T12:14 Tolga Şardan yazdı: AKP'li Ertan Aydın'ın 'çakarlı' aracını  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T12:17 İstanbul Şehir Tiyatroları “Cadı Kazanı” oyununu Bahçelievle -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T12:17 Bahçelievler’de korku dolu anlar: Devrilen ağaç 3 aracı ezdi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:17 Gerçekle kurmacanın iç içe geçtiği “Her Şey Biraz Yalan” sah -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:20 Ekrem İmamoğlu ifade verdi: 'Savunma yapmayacağım' şeklinde  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:20 Bahçelievler’de korku dolu anlar: Devrilen ağaç 3 aracı ezdi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21462,7 +21497,10 @@
   "2026-11-13T13:10 Şimşek, ekonomik verileri övdü: \"Bu başarı, bir tesadüf deği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:14 Tarih verildi: İstanbul dahil 10 il için gök gürültülü sağan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:14 Çanakkale Boğazı lodos nedeniyle çift yönlü gemi geçişlerine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:14 Aydın'da 24 bin 650 sentetik hap ele geçirildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T13:14 Aydın'da 24 bin 650 sentetik hap ele geçirildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:17 Çanakkale Boğazı lodos nedeniyle çift yönlü gemi geçişlerine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:17 Aydın'da 24 bin 650 sentetik hap ele geçirildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:17 Şimşek, ekonomik verileri övdü: \"Bu başarı, bir tesadüf deği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
