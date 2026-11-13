@@ -2,93 +2,6 @@
  "seen": [
   {
    "fp": [
-    "anıtk",
-    "başka",
-    "bilic",
-    "diyan",
-    "işler",
-    "parti",
-    "ziyar"
-   ],
-   "tok": [
-    "adana",
-    "anma",
-    "anıtk",
-    "atatü",
-    "bilal",
-    "bilic",
-    "diy",
-    "diyan",
-    "dolay",
-    "genel",
-    "günde",
-    "günü",
-    "hatır",
-    "işler",
-    "kasım",
-    "konuş",
-    "kurdu",
-    "kurul",
-    "mevcu",
-    "mille",
-    "nda",
-    "nın",
-    "olmad",
-    "olup",
-    "parti",
-    "planı",
-    "taşıd",
-    "tbmm",
-    "yaptı",
-    "ziyar"
-   ],
-   "at": "2026-11-11T19:25:30.075891+00:00"
-  },
-  {
-   "fp": [
-    "ajans",
-    "anado",
-    "doğu",
-    "ekolo",
-    "kalkı",
-    "ndan",
-    "nın",
-    "planı",
-    "platf",
-    "tepki",
-    "topla",
-    "varto"
-   ],
-   "tok": [
-    "ajans",
-    "anado",
-    "daki",
-    "deste",
-    "doğu",
-    "ekolo",
-    "göste",
-    "ilişk",
-    "jeote",
-    "kalkı",
-    "muş",
-    "ndan",
-    "nın",
-    "ortay",
-    "planı",
-    "platf",
-    "propa",
-    "santr",
-    "taki",
-    "tepki",
-    "topla",
-    "varto",
-    "yapıl",
-    "çıkan"
-   ],
-   "at": "2026-11-11T19:25:30.621960+00:00"
-  },
-  {
-   "fp": [
     "30",
     "genel",
     "grev",
@@ -18959,6 +18872,85 @@
     "şimdi"
    ],
    "at": "2026-11-13T07:23:18.542584+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "altın",
+    "feci",
+    "kaldı",
+    "kamer",
+    "kaza",
+    "masla",
+    "motos",
+    "otobü",
+    "yaral"
+   ],
+   "tok": [
+    "altın",
+    "arala",
+    "ardın",
+    "bulun",
+    "durak",
+    "feci",
+    "iett",
+    "indir",
+    "inen",
+    "kaldı",
+    "kamer",
+    "kontr",
+    "masla",
+    "motos",
+    "otobü",
+    "otomo",
+    "sarıy",
+    "sürüc",
+    "sürük",
+    "sıkış",
+    "topla",
+    "yolcu",
+    "çarpt",
+    "çarpı",
+    "çıkar"
+   ],
+   "at": "2026-11-13T07:26:34.172312+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "durdu",
+    "kabe",
+    "karar",
+    "kokus",
+    "rekla",
+    "örtüs"
+   ],
+   "tok": [
+    "aksa",
+    "atfed",
+    "benze",
+    "değer",
+    "durdu",
+    "ifade",
+    "incel",
+    "kabe",
+    "kokus",
+    "manev",
+    "medin",
+    "mesci",
+    "platf",
+    "ravza",
+    "rekla",
+    "tanı",
+    "tanıt",
+    "ticar",
+    "uhud",
+    "unsur",
+    "veril",
+    "örtüs",
+    "ürün"
+   ],
+   "at": "2026-11-13T07:26:34.765501+00:00"
   }
  ],
  "posted": [
@@ -21745,13 +21737,9 @@
   "f452c30ad2": 1,
   "689924526e": 1,
   "61798377bc": 2,
-  "dff2e803ce": 2,
-  "5ae2b90de6": 2
+  "8cc25e73ef": 1
  },
  "fail_log": [
-  "2026-11-13T06:40 Goldman Sachs MB'nin fon analizine katılmadı: Daha büyük etk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T06:43 BM: Yemen'de ağustostan bu yana 333 binden fazla kişi yerind -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T06:43 Çüngüş’te meşhur ‘Menengiç’ mesaisi başladı: Doğal lezzete y -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:43 Demet Evgar 17 yaşında yaşadıklarını anlattı: Açlık grevi ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:47 Kişisel verileri ele geçiren siber suçlularına yönelik opera -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:47 Samsun'da fuhuş operasyonu: 18 şüpheli adliyeye sevk edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21788,12 +21776,15 @@
   "2026-11-13T07:20 Bakanlıktan “Kabe örtüsü kokusu” reklamlarına durdurma karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:23 Maslak'ta feci kaza kamerada: Motosiklet otobüsün altında ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:23 Akciğer kanserinde korkutan veri: 'Her 2 dakikada bir...' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T07:23 Bakanlıktan “Kabe örtüsü kokusu” reklamlarına durdurma karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T07:23 Bakanlıktan “Kabe örtüsü kokusu” reklamlarına durdurma karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:26 Maslak'ta feci kaza kamerada: Motosiklet otobüsün altında ka -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:26 Bakanlıktan “Kabe örtüsü kokusu” reklamlarına durdurma karar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:26 Baharat olarak sadece tuz ekleniyor: Sivas lezzetinin ünü Tü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121138448316727420",
+   "since_id": "2121142304324899009",
    "started": true
   },
   "ajansmuhbir1923": {
