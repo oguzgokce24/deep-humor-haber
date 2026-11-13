@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "arama",
-    "bitti",
-    "bozdu",
-    "devri",
-    "ezber",
-    "izley",
-    "kanal",
-    "kuman",
-    "terci",
-    "türk"
-   ],
-   "tok": [
-    "alına",
-    "alışk",
-    "arama",
-    "belir",
-    "bitti",
-    "bozdu",
-    "deki",
-    "devri",
-    "değiş",
-    "dijit",
-    "dünya",
-    "ekran",
-    "emea",
-    "erişi",
-    "evril",
-    "ezber",
-    "favor",
-    "gelen",
-    "izley",
-    "kanal",
-    "kuman",
-    "kökte",
-    "mecra",
-    "odası",
-    "oturm",
-    "pedro",
-    "pina",
-    "platf",
-    "rekla",
-    "satın",
-    "seçti",
-    "terci",
-    "yardı",
-    "youtu",
-    "yüzde"
-   ],
-   "at": "2026-11-11T18:14:02.478148+00:00"
-  },
-  {
-   "fp": [
     "adamı",
     "akp",
     "ben",
@@ -21820,12 +21768,11 @@
   "a381b634cf": 2,
   "e4b6512070": 1,
   "2b1834f178": 2,
-  "ea61fe990e": 1
+  "ea61fe990e": 2,
+  "dccfa043ef": 1,
+  "41e4b2ec8c": 1
  },
  "fail_log": [
-  "2026-11-13T05:23 Hatay'da boğazına yiyecek kaçan ilkokul öğrencisi, okul pers -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T05:26 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T05:26 Cangül Örnek: 'Türkiye Yüzyılı'nda Londra'da kapılar çalınıy -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T05:26 Resul Kurt: Haftalık çalışma süresi en çok 45 saattir -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T05:36 Sarıgül soruşturmasında yeni operasyon: 18 gözaltı kararı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T05:36 İstanbul'da silahlı suç örgütüne şafak operasyonu: 15 ayrı e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21862,7 +21809,10 @@
   "2026-11-13T06:09 Erdoğan’ın küstüğü arkadaşından öğrenci yurdu: Açılışta dikk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:12 Yüz binlerce hastayı ilgilendiren karar: Tüm kurallar sil ba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:12 Uzmanından mevsimsel depresyon uyarısı: Aşırı uyuma ve karbo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T06:12 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T06:12 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T06:16 Uzmanından mevsimsel depresyon uyarısı: Aşırı uyuma ve karbo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T06:16 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T06:16 Hakkı Özdal: Tek haneli enflasyon perisi yerini yüzde 30 öcü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
