@@ -18747,6 +18747,49 @@
     "çüngü"
    ],
    "at": "2026-11-13T09:19:15.128528+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "4",
+    "borsa",
+    "dolan",
+    "dolar",
+    "gözal",
+    "istan",
+    "kar",
+    "kript",
+    "milyo",
+    "vurgu",
+    "yalan",
+    "yükse"
+   ],
+   "tok": [
+    "borsa",
+    "dolan",
+    "düştü",
+    "elde",
+    "etme",
+    "fbı",
+    "iddia",
+    "ilişk",
+    "kar",
+    "kazan",
+    "kişid",
+    "koydu",
+    "kript",
+    "milya",
+    "para",
+    "topla",
+    "vaadi",
+    "varlı",
+    "vurgu",
+    "yalan",
+    "yatır",
+    "yükse",
+    "üzeri"
+   ],
+   "at": "2026-11-13T09:26:04.091141+00:00"
   }
  ],
  "posted": [
@@ -21543,14 +21586,10 @@
   "98f00b39db": 2,
   "c3cbf9134f": 2,
   "1766a04065": 1,
-  "8203c67c3d": 2,
-  "9b1d23d374": 1,
-  "fc4e53e7f9": 1
+  "9b1d23d374": 2,
+  "fc4e53e7f9": 2
  },
  "fail_log": [
-  "2026-11-13T08:29 Recep Karagöz yazdı – ABD’den Yasir Qadhi’nin çağrısı: Oy ve -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T08:33 Eskişehir'de polisin \"dur\" ihtarına uymayarak kaçan plakasız -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T08:33 Üniversitesi öğrencisi bina boşluğuna düştü: Öyküm Naz'ın ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:33 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:36 Üniversitesi öğrencisi bina boşluğuna düştü: Öyküm Naz'ın ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:36 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21587,7 +21626,10 @@
   "2026-11-13T09:19 Diyarbakır'da ailesinin kayıp ihbarında bulunduğu kadın aran -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:22 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:22 İstanbul'da kripto para dolandırıcılığı: 2 milyon dolarlık v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:22 PFDK Süper Lig'den 7 kulübe ceza verdi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T09:22 PFDK Süper Lig'den 7 kulübe ceza verdi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T09:26 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T09:26 İstanbul'da kripto para dolandırıcılığı: 2 milyon dolarlık v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T09:26 PFDK Süper Lig'den 7 kulübe ceza verdi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
