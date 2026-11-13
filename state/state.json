@@ -2,141 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bursa",
-    "daire",
-    "gayri",
-    "icra",
-    "müdür",
-    "satış"
-   ],
-   "tok": [
-    "bursa",
-    "daire",
-    "diyar",
-    "gayri",
-    "icra",
-    "karas",
-    "küçük",
-    "müdür",
-    "satış"
-   ],
-   "at": "2026-11-11T22:51:48.752096+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "bölge",
-    "istan",
-    "müdür",
-    "vakıf"
-   ],
-   "tok": [
-    "bölge",
-    "devle",
-    "işler",
-    "müdür",
-    "vakıf"
-   ],
-   "at": "2026-11-11T22:51:49.556371+00:00"
-  },
-  {
-   "fp": [
-    "chatg",
-    "claud",
-    "devle",
-    "isveç",
-    "kamud",
-    "korka",
-    "sızma",
-    "veril",
-    "yasak"
-   ],
-   "tok": [
-    "amaçl",
-    "bilgi",
-    "chatg",
-    "claud",
-    "devle",
-    "durdu",
-    "engel",
-    "erişi",
-    "girme",
-    "görev",
-    "hassa",
-    "isveç",
-    "kamu",
-    "kamud",
-    "karşı",
-    "korka",
-    "kurum",
-    "olmay",
-    "onayl",
-    "otomo",
-    "perso",
-    "platf",
-    "popül",
-    "riskl",
-    "sızma",
-    "sızın",
-    "taray",
-    "veri",
-    "veril",
-    "yapan",
-    "yapay",
-    "yasak",
-    "yoluy",
-    "yönet",
-    "zeka",
-    "çalış"
-   ],
-   "at": "2026-11-11T22:58:33.633822+00:00"
-  },
-  {
-   "fp": [
-    "14",
-    "200",
-    "barce",
-    "bine",
-    "genel",
-    "grev",
-    "ispan",
-    "kişi",
-    "madri",
-    "sokağ",
-    "yakın",
-    "yıl",
-    "çıktı"
-   ],
-   "tok": [
-    "barce",
-    "bine",
-    "büyük",
-    "deste",
-    "eylem",
-    "genel",
-    "grev",
-    "greve",
-    "grevi",
-    "ispan",
-    "işçil",
-    "kez",
-    "konut",
-    "krizi",
-    "madri",
-    "neden",
-    "pahal",
-    "sendi",
-    "sokağ",
-    "topla",
-    "yakın",
-    "yıl",
-    "çıktı",
-    "ülken"
-   ],
-   "at": "2026-11-11T22:58:34.346544+00:00"
-  },
-  {
-   "fp": [
     "3",
     "charl",
     "cop31",
@@ -19048,6 +18913,45 @@
     "yetki"
    ],
    "at": "2026-11-13T10:47:36.413190+00:00"
+  },
+  {
+   "fp": [
+    "başlı",
+    "dönem",
+    "mesaj",
+    "sefer",
+    "tek",
+    "whats"
+   ],
+   "tok": [
+    "alma",
+    "başlı",
+    "dönem",
+    "ekran",
+    "engel",
+    "fotoğ",
+    "geliy",
+    "görün",
+    "hazır",
+    "iletm",
+    "işlem",
+    "kaybo",
+    "kaydı",
+    "kez",
+    "kopya",
+    "kulla",
+    "mesaj",
+    "metin",
+    "okund",
+    "sefer",
+    "sesli",
+    "silin",
+    "taşım",
+    "tek",
+    "whats",
+    "özell"
+   ],
+   "at": "2026-11-13T11:00:38.349751+00:00"
   }
  ],
  "posted": [
@@ -21849,14 +21753,11 @@
   "d0d74c26ab": 1,
   "39e43c8567": 2,
   "32fe74f826": 1,
-  "1507ea093c": 2,
   "d3e57056f2": 1,
-  "8424e07e73": 1
+  "8424e07e73": 2,
+  "134068db85": 1
  },
  "fail_log": [
-  "2026-11-13T10:17 Türkiye-Fransa maçının hakemi belli oldu -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T10:17 Türkiye-Fransa maçının hakemi belli oldu -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T10:17 Türkiye-Fransa maçının hakemi belli oldu -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:17 Sırbistan'da Öğrenci Listesi temsilcisi Ubovic: ''İsrail ile -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T10:20 Kızına tacizde bulunduğunu öne sürdüğü kişiyi dövüp polise t -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
@@ -21893,7 +21794,10 @@
   "2026-11-13T10:47 AKP'den kanun teklifi: Cumhurbaşkanı'na yeni yetki -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:50 Aksaray'da polisin \"dur\" ihtarına uymayarak kaçan plakasız m -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:50 WhatsApp’a yeni özellik geliyor: 'Tek seferlik mesaj' dönemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:50 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T10:50 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:00 Demet Evgar'dan yıllar sonra gelen itiraf: \"Açlık grevi yapt -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:00 WhatsApp’a yeni özellik geliyor: 'Tek seferlik mesaj' dönemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T11:00 MHP'den öğretmen atamaları ve maaşlar için dikkat çeken öner -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
