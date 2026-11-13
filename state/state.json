@@ -21687,13 +21687,12 @@
   "9221d283fe": 2,
   "554acec5f9": 2,
   "c46fece234": 1,
-  "d1e36e0934": 1,
-  "312c445e6c": 1
+  "d1e36e0934": 2,
+  "312c445e6c": 1,
+  "c145684189": 1,
+  "74a5bc90f1": 1
  },
  "fail_log": [
-  "2026-11-13T13:14 Aydın'da 24 bin 650 sentetik hap ele geçirildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:17 Çanakkale Boğazı lodos nedeniyle çift yönlü gemi geçişlerine -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:17 Aydın'da 24 bin 650 sentetik hap ele geçirildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:17 Şimşek, ekonomik verileri övdü: \"Bu başarı, bir tesadüf deği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:21 Ekrem İmamoğlu'nun ifadesi ortaya çıktı: \"Suçlamayı asla kab -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T13:21 Ekrem İmamoğlu'nun ifadesi ortaya çıktı: \"Suçlamayı asla kab -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
@@ -21730,7 +21729,10 @@
   "2026-11-13T13:48 Diego Gomez, Crystal Palace karşısında orta sahadan attığı g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:51 MSB duyurdu: Görevde rahatsızlanan er hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:51 A Milli Takım için Fransa maçı kritik: A Ligi'nde kalmak içi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:51 Gözde Şeker yazdı: Yüzde 36,7’lik demokrasi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T13:51 Gözde Şeker yazdı: Yüzde 36,7’lik demokrasi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:55 Kenya'da yapımı devam eden 8 katlı bina çöktü: 6 ölü, enkaz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:55 MSB duyurdu: Görevde rahatsızlanan er hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:55 Zelenskiy'den Meloni'ye yanıt: \"Görüşmeyi sen istemedin\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
