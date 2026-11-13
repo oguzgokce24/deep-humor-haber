@@ -2,119 +2,6 @@
  "seen": [
   {
    "fp": [
-    "11",
-    "görev",
-    "izni",
-    "kahra",
-    "kamu",
-    "okul",
-    "saldı",
-    "soruş",
-    "taki",
-    "yok",
-    "çıkma"
-   ],
-   "tok": [
-    "arala",
-    "başsa",
-    "eski",
-    "eğiti",
-    "geliş",
-    "görev",
-    "ilişk",
-    "incel",
-    "itira",
-    "izin",
-    "izni",
-    "kahra",
-    "kamu",
-    "maraş",
-    "millî",
-    "okul",
-    "ortao",
-    "taki",
-    "takş",
-    "tamam",
-    "valil",
-    "verme",
-    "yaşan",
-    "yok",
-    "çıkma",
-    "öğret"
-   ],
-   "at": "2026-11-12T07:24:02.337428+00:00"
-  },
-  {
-   "fp": [
-    "17",
-    "3",
-    "712",
-    "adet",
-    "bin",
-    "dev",
-    "doldu",
-    "ele",
-    "geçir",
-    "izmir",
-    "makar",
-    "milyo"
-   ],
-   "tok": [
-    "adet",
-    "arama",
-    "bin",
-    "borno",
-    "depo",
-    "dev",
-    "doldu",
-    "ekipl",
-    "ilçes",
-    "izmir",
-    "kaçak",
-    "kom",
-    "makar",
-    "otomo",
-    "sente",
-    "ton",
-    "uyuşt",
-    "vurgu"
-   ],
-   "at": "2026-11-12T07:24:04.145450+00:00"
-  },
-  {
-   "fp": [
-    "aslın",
-    "atık",
-    "cop31",
-    "emine",
-    "erdoğ",
-    "hayat",
-    "konuş",
-    "sıfır"
-   ],
-   "tok": [
-    "aslın",
-    "atık",
-    "cop31",
-    "dünya",
-    "emine",
-    "erdoğ",
-    "eşi",
-    "konuş",
-    "köyü",
-    "malze",
-    "mutfa",
-    "oluyo",
-    "recep",
-    "sıfır",
-    "tayyi",
-    "yenid",
-    "örnek"
-   ],
-   "at": "2026-11-12T07:30:55.173532+00:00"
-  },
-  {
-   "fp": [
     "1",
     "10",
     "5",
@@ -21667,12 +21554,12 @@
   "22da04378c": 1,
   "4a32cceae9": 1,
   "0188647824": 2,
-  "54c19794d9": 1
+  "54c19794d9": 1,
+  "68ae3beda5": 1,
+  "9c71415da3": 1,
+  "752bc2583c": 1
  },
  "fail_log": [
-  "2026-11-13T18:33 ECB başkanlığı: Hernández de Cos ve Knot aday, Fransa-Almany -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:37 ABD'de getirdiği kargoyu evin kedisine fırlattıktan sonra gü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:37 Dünya Alem (68): Doğu Akdeniz’de yeni dengeler ve Kıbrıs müz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:37 BMW 721 bin aracını geri çağırdı: Yetkililerden kapalı alana -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:40 BMW 721 bin aracını geri çağırdı: Yetkililerden kapalı alana -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:40 ECB başkanlığı: Hernández de Cos ve Knot aday, Fransa-Almany -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21709,12 +21596,15 @@
   "2026-11-13T19:13 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:16 İBB Başkan Vekili Nuri Aslan duyurdu: Saraçhane binasının ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:16 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:16 Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T19:16 Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:32 Orkun Kökçü: \"Beşiktaş'a çok özel duygular beslediğim için m -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:32 Metro altyapısı için 1.1 milyar doların harcandığı New York’ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:32 Bursa’da İmamoğlu protestoları nedeniyle yargılanan 11 kişi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121319589640351801",
+   "since_id": "2121324299705290813",
    "started": true
   },
   "ajansmuhbir1923": {
