@@ -18802,6 +18802,47 @@
     "çarpt"
    ],
    "at": "2026-11-13T08:02:49.915750+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "alarm",
+    "anlar",
+    "harek",
+    "köprü",
+    "nde",
+    "otomo",
+    "polis",
+    "silah",
+    "temmu",
+    "çıktı",
+    "şehit"
+   ],
+   "tok": [
+    "alarm",
+    "anlar",
+    "bayra",
+    "bulun",
+    "diğer",
+    "durdu",
+    "ekibi",
+    "elind",
+    "görül",
+    "halin",
+    "harek",
+    "köprü",
+    "nde",
+    "olay",
+    "otomo",
+    "sevk",
+    "seyir",
+    "silah",
+    "temmu",
+    "yerin",
+    "çıktı",
+    "şehit"
+   ],
+   "at": "2026-11-13T08:06:12.927986+00:00"
   }
  ],
  "posted": [
@@ -21592,14 +21633,10 @@
   "e922a16662": 1,
   "415c0961dd": 1,
   "b4d3231700": 2,
-  "7e53ed811e": 1,
-  "da2b8d7a2d": 2,
-  "d0f150a78f": 1
+  "7e53ed811e": 2,
+  "d0f150a78f": 2
  },
  "fail_log": [
-  "2026-11-13T06:57 Bursa'da 7 katlı apartmanın çatı katında yangın -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T07:00 İBB davası: Mehmet Pehlivan dahil 8 kişi tahliye edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T07:00 Trump'tan Obama'ya: \"Kolayca yenerdim\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:00 Casusluk skandalında Trump ayrıntısı: Nvidia'nın eski CEO'su -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:03 İBB davası: Mehmet Pehlivan dahil 8 kişi tahliye edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:03 Casusluk skandalında Trump ayrıntısı: Nvidia'nın eski CEO'su -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21636,12 +21673,15 @@
   "2026-11-13T07:59 Devrim Muhafızları: Hürmüz Boğazı'nda LNG gemisi mayına çarp -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:02 Cafer Mahiroğlu soruşturması: Gözaltına alınan 6 kişi adliye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:02 15 Temmuz Şehitler Köprüsü'nde hareketli anlar: Silahıyla ar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T08:02 Devrim Muhafızları: Hürmüz Boğazı'nda LNG gemisi mayına çarp -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T08:02 Devrim Muhafızları: Hürmüz Boğazı'nda LNG gemisi mayına çarp -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T08:06 Cafer Mahiroğlu soruşturması: Gözaltına alınan 6 kişi adliye -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T08:06 15 Temmuz Şehitler Köprüsü'nde hareketli anlar: Silahıyla ar -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T08:06 Pakistan'da yolcu minibüsü nehre düştü: 11 kişi yaşamını yit -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121150529438892226",
+   "since_id": "2121152234104975652",
    "started": true
   },
   "ajansmuhbir1923": {
