@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "galat",
-    "gelec",
-    "gidec",
-    "netle",
-    "ocak",
-    "opera"
-   ],
-   "tok": [
-    "ara",
-    "ayhan",
-    "ayrıl",
-    "buruk",
-    "defte",
-    "dikka",
-    "direk",
-    "dönem",
-    "galat",
-    "gazet",
-    "gelec",
-    "geliş",
-    "gelme",
-    "gidec",
-    "görüş",
-    "halin",
-    "ilişk",
-    "ise",
-    "kaan",
-    "kadro",
-    "kapat",
-    "netle",
-    "nin",
-    "ocak",
-    "okan",
-    "planl",
-    "sabun",
-    "san",
-    "tekli",
-    "tekni",
-    "trans",
-    "uygun",
-    "yağız",
-    "yaşan",
-    "çeken",
-    "önces"
-   ],
-   "at": "2026-11-12T05:10:20.802471+00:00"
-  },
-  {
-   "fp": [
     "25",
     "borsa",
     "dev",
@@ -18485,6 +18436,94 @@
     "özgür"
    ],
    "at": "2026-11-13T17:03:02.228672+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "8",
+    "katlı",
+    "kenya",
+    "çöktü"
+   ],
+   "tok": [
+    "altın",
+    "arama",
+    "başke",
+    "bina",
+    "binan",
+    "bölüm",
+    "enkaz",
+    "halin",
+    "inşaa",
+    "işçi",
+    "işçil",
+    "kalan",
+    "katlı",
+    "kenya",
+    "kurta",
+    "nairo",
+    "nın",
+    "sonuc",
+    "sürüy",
+    "ulaşm",
+    "yakın",
+    "yaşam",
+    "yitir",
+    "çalış",
+    "çökme",
+    "çöktü"
+   ],
+   "at": "2026-11-13T17:13:05.229557+00:00"
+  },
+  {
+   "fp": [
+    "deli",
+    "dumru",
+    "eleşt",
+    "etmiş",
+    "ihsan",
+    "misal",
+    "soruş",
+    "tekfi",
+    "teşvi",
+    "ışid",
+    "şenoc"
+   ],
+   "tok": [
+    "adı",
+    "anlay",
+    "bayan",
+    "birbi",
+    "deli",
+    "dumru",
+    "düşen",
+    "ehl",
+    "eleşt",
+    "etk",
+    "etmiş",
+    "eğiti",
+    "girdi",
+    "görüş",
+    "halis",
+    "iddia",
+    "ihsan",
+    "konus",
+    "medre",
+    "misal",
+    "notla",
+    "savun",
+    "sünne",
+    "tartı",
+    "tekfi",
+    "ters",
+    "teşvi",
+    "veren",
+    "yazıs",
+    "çizgi",
+    "ışid",
+    "şenoc"
+   ],
+   "at": "2026-11-13T17:13:09.417574+00:00"
   }
  ],
  "posted": [
@@ -21315,14 +21354,10 @@
   "dfe2670e81": 2,
   "7f0d86790c": 1,
   "0e7c18a202": 1,
-  "40c671105b": 2,
-  "2f05a6f10b": 2,
-  "39ccb3944a": 2
+  "39ccb3944a": 2,
+  "0240891907": 1
  },
  "fail_log": [
-  "2026-11-13T16:14 Husiler duyurdu: Aden'de Suudi subayların bulunduğu askeri k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T16:29 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T16:29 İstanbul’da kaçak tarihi eser operasyonu: Çalıntı sikkeler,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T16:29 9 dakikada şarjını dolduran 1.193 beygirlik canavar: BYD’nin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T16:32 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T16:32 İstanbul’da kaçak tarihi eser operasyonu: Çalıntı sikkeler,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21359,7 +21394,10 @@
   "2026-11-13T17:06 Bi’ de Buradan Bak (2) | Erkan Baş: “Hırsızları değil, bizi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:09 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:09 IŞİD soruşturmaları deli dumrul misali: IŞİD’in tekfirciliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T17:09 Bi’ de Buradan Bak (2) | Erkan Baş: “Hırsızları değil, bizi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T17:09 Bi’ de Buradan Bak (2) | Erkan Baş: “Hırsızları değil, bizi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:13 Sezonu 200 TL’den açmıştı 165 TL’ye kadar geriledi: Giresun’ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:13 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:13 IŞİD soruşturmaları deli dumrul misali: IŞİD’in tekfirciliği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
