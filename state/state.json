@@ -2,41 +2,6 @@
  "seen": [
   {
    "fp": [
-    "atıkl",
-    "açıkt",
-    "didem",
-    "eryar",
-    "küres",
-    "sorun",
-    "yakıl",
-    "ünlü"
-   ],
-   "tok": [
-    "appea",
-    "atıkl",
-    "açıkt",
-    "cephe",
-    "didem",
-    "diken",
-    "eryar",
-    "first",
-    "görün",
-    "iklim",
-    "krizi",
-    "küres",
-    "linka",
-    "post",
-    "site",
-    "sorun",
-    "the",
-    "var",
-    "yakıl",
-    "ünlü"
-   ],
-   "at": "2026-11-12T04:32:49.376554+00:00"
-  },
-  {
-   "fp": [
     "bina",
     "new",
     "york",
@@ -18367,6 +18332,44 @@
     "yemen"
    ],
    "at": "2026-11-13T16:14:12.749839+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "8",
+    "katlı",
+    "kenya",
+    "çöktü"
+   ],
+   "tok": [
+    "altın",
+    "arama",
+    "başke",
+    "bina",
+    "binan",
+    "bölüm",
+    "enkaz",
+    "halin",
+    "inşaa",
+    "işçi",
+    "işçil",
+    "kalan",
+    "katlı",
+    "kenya",
+    "kurta",
+    "nairo",
+    "nın",
+    "sonuc",
+    "sürüy",
+    "ulaşm",
+    "yakın",
+    "yaşam",
+    "yitir",
+    "çalış",
+    "çökme",
+    "çöktü"
+   ],
+   "at": "2026-11-13T16:32:54.706534+00:00"
   }
  ],
  "posted": [
@@ -21196,14 +21199,10 @@
   "51ec5479e4": 1,
   "dfe2670e81": 2,
   "7f0d86790c": 1,
-  "40c671105b": 2,
-  "e5c808b431": 1,
-  "99966e4b7b": 1
+  "e5c808b431": 2,
+  "99966e4b7b": 2
  },
  "fail_log": [
-  "2026-11-13T15:34 Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüştü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T15:38 Mekiye Akyel davasında eski eşinden 'kira' savunması -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T15:38 Mütalaa (42) | HABAŞ faciasından fon soruşturmasına: Kim hes -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:38 Close-up Photographer of the Year: Rekor başvurudan seçilen  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:41 Mekiye Akyel davasında eski eşinden 'kira' savunması -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:41 Kayıhan Pala: Türkiye ölümcül iş kazalarında dünyada ikinci  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21240,7 +21239,10 @@
   "2026-11-13T16:14 Husiler duyurdu: Aden'de Suudi subayların bulunduğu askeri k -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T16:29 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T16:29 İstanbul’da kaçak tarihi eser operasyonu: Çalıntı sikkeler,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T16:29 9 dakikada şarjını dolduran 1.193 beygirlik canavar: BYD’nin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T16:29 9 dakikada şarjını dolduran 1.193 beygirlik canavar: BYD’nin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T16:32 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T16:32 İstanbul’da kaçak tarihi eser operasyonu: Çalıntı sikkeler,  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T16:32 9 dakikada şarjını dolduran 1.193 beygirlik canavar: BYD’nin -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
