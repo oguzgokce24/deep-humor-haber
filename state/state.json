@@ -18662,20 +18662,78 @@
     "önces"
    ],
    "at": "2026-11-13T21:37:35.896451+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "durdu",
+    "genel",
+    "havac"
+   ],
+   "tok": [
+    "abd",
+    "aksam",
+    "alarm",
+    "aldı",
+    "alınd",
+    "ancak",
+    "arası",
+    "ardın",
+    "arıza",
+    "bekle",
+    "bildi",
+    "bölge",
+    "chica",
+    "ciddi",
+    "değil",
+    "durdu",
+    "duyur",
+    "etkil",
+    "faa",
+    "feder",
+    "freka",
+    "gelen",
+    "genel",
+    "gerek",
+    "göste",
+    "güven",
+    "hava",
+    "havac",
+    "haval",
+    "hazır",
+    "henüz",
+    "idare",
+    "ikinc",
+    "ileti",
+    "ise",
+    "isted",
+    "kalkı",
+    "kalma",
+    "kesin",
+    "kontr",
+    "koşul",
+    "neden",
+    "olası",
+    "olağa",
+    "radyo",
+    "sayıl",
+    "sorun",
+    "sürec",
+    "trafi",
+    "ulaşı",
+    "uçak",
+    "uçakl",
+    "uçuşl",
+    "yapac",
+    "yaşan",
+    "yerde",
+    "önces",
+    "ülke"
+   ],
+   "at": "2026-11-13T21:50:05.888608+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f5600f70f3",
-   "post_id": "529346797199852_1462975512608823",
-   "title": "Eski Macaristan Başbakanı Viktor Orban'ın kardeşi gözaltına alındı",
-   "at": "2026-11-09T14:47:10.800337+00:00",
-   "yazim": "claude",
-   "metin": "Macaristan'da eski Başbakan Viktor Orban'ın kardeşi insan kaçakçılığı şüphesiyle gözaltına alındı.\n\nHaberi, Başbakan Péter Magyar duyurdu.\n\n— Gözaltına alınan kişi, Viktor Orban'ın kardeşi.\n— Şüphe, insan kaçakçılığı üzerine. Olayla ilgili başka bir ayrıntı kaynaklarda yer almıyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/eski-macaristan-basbakani-viktor-orban-in-kardesi-gozaltina-alindi-745476"
-   ]
-  },
   {
    "id": "57c1beb7d1",
    "post_id": "529346797199852_1462990705940637",
@@ -21233,6 +21291,18 @@
     "BirGün: https://www.birgun.net/haber/imamoglu-ndan-yeni-parti-kurultayi-na-cagri-turkiye-yenileniyor-746330",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/ekonomi/bakan-kacirdan-cop31-paylasimi-katki-sunmayi-surdurecegiz-7700409"
    ]
+  },
+  {
+   "id": "37ccfd7430",
+   "post_id": "529346797199852_1467894168783624",
+   "title": "ABD'de havacılık alarmı: FAA ülke genelinde uçak kalkışlarını durdurdu",
+   "at": "2026-11-13T21:50:05.888608+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de Federal Havacılık İdaresi (FAA), ülke genelindeki havalimanlarında uçak kalkışlarını durdurdu.\n\nKalkışa hazırlanan uçaklar yerde bekletiliyor. Aksamanın ne kadar süreceği ise belli değil.\n\n— FAA, kalkış yapacak uçakların ikinci bir bildirime kadar yerde kalmasını istedi.\n— Kararın gerekçesi olarak olağanüstü koşullar ve güvenlik gösterildi.\n— Kararın öncesinde Chicago bölgesinde hava trafik kontrol iletişiminde ciddi sorunlar yaşandığı bildirildi.\n— Radyo frekanslarındaki kesintiler ve iletişim arızaları olası nedenler arasında sayılıyor, ancak kesin neden henüz açıklanmadı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-abd-genelindeki-tum-havalimanlarinda-ucuslarin-durdurulmasi-karari-aldi/4124785",
+    "Karar: https://www.karar.com/dunya-haberleri/abdde-havacilik-alarmi-faa-ulke-genelinde-ucak-kalkislarini-durdurdu-2084042"
+   ]
   }
  ],
  "fails": {
@@ -21544,7 +21614,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121354453483975018",
+   "since_id": "2121359824537649215",
    "started": true
   },
   "ajansmuhbir1923": {
