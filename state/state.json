@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "galib",
-    "serge",
-    "yalçı"
-   ],
-   "tok": [
-    "adam",
-    "alaca",
-    "arda",
-    "belçi",
-    "benim",
-    "berab",
-    "bulun",
-    "bunu",
-    "can",
-    "deney",
-    "direk",
-    "durum",
-    "futbo",
-    "galib",
-    "hazır",
-    "hep",
-    "ihtiy",
-    "ilgil",
-    "irfan",
-    "kadro",
-    "kahve",
-    "karşı",
-    "maçın",
-    "milli",
-    "nin",
-    "okan",
-    "serge",
-    "sorul",
-    "takım",
-    "tekni",
-    "terci",
-    "var",
-    "yalçı",
-    "yanıt",
-    "yapac",
-    "yok",
-    "çıkma",
-    "önces",
-    "öneml"
-   ],
-   "at": "2026-11-11T22:01:53.130472+00:00"
-  },
-  {
-   "fp": [
     "11",
     "2026",
     "adayı",
@@ -21783,14 +21734,12 @@
   "f6718105ce": 1,
   "538e6105dd": 1,
   "0113181ec0": 1,
-  "530be48fa1": 1,
+  "530be48fa1": 2,
   "d0d74c26ab": 1,
-  "7d79f5ea09": 1
+  "7d79f5ea09": 2,
+  "39e43c8567": 1
  },
  "fail_log": [
-  "2026-11-13T09:09 İstanbul'da kripto para dolandırıcılığı: 2 milyon dolarlık v -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:12 Ankara'da bazı yollar araç trafiğine kapatılacak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T09:12 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:12 Diyarbakır'da ailesinin kayıp ihbarında bulunduğu kadın aran -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:15 Ankara'da bazı yollar araç trafiğine kapatılacak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T09:15 Manisa'da uyuşturucu operasyonu: 30 gözaltı, 26 tutuklama -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21827,7 +21776,10 @@
   "2026-11-13T09:49 Tüketici hakem heyetlerine 10 ayda 842 bin başvuru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:00 Erdoğan'ın eski metin yazarı: \"Klikler birbirlerine operasyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T10:00 Görevi başında rahatsızlanan asker şehit oldu -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T10:00 HABAŞ'taki facia öncesi verdiği su molası hayatını kurtardı: -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T10:00 HABAŞ'taki facia öncesi verdiği su molası hayatını kurtardı: -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T10:03 Erdoğan'ın eski metin yazarı: \"Klikler birbirlerine operasyo -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T10:03 HABAŞ'taki facia öncesi verdiği su molası hayatını kurtardı: -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T10:03 Tüketici hakem heyetlerine 10 ayda 842 bin başvuru -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
