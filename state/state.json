@@ -18731,21 +18731,81 @@
     "ülke"
    ],
    "at": "2026-11-13T21:50:05.888608+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "eylem",
+    "gözal",
+    "habaş",
+    "kişi",
+    "serbe"
+   ],
+   "tok": [
+    "aldı",
+    "aliağ",
+    "alına",
+    "alınm",
+    "ardın",
+    "arkad",
+    "bağım",
+    "başla",
+    "birli",
+    "bulun",
+    "buna",
+    "bırak",
+    "cep",
+    "daki",
+    "demir",
+    "denet",
+    "ege",
+    "eylem",
+    "fabri",
+    "gerek",
+    "getir",
+    "giriş",
+    "göste",
+    "gün",
+    "güven",
+    "habaş",
+    "hepsi",
+    "ilçes",
+    "isten",
+    "istiy",
+    "izmir",
+    "izni",
+    "işçi",
+    "işçil",
+    "işçin",
+    "kapat",
+    "kasım",
+    "kurum",
+    "müdah",
+    "nda",
+    "nden",
+    "nokta",
+    "patla",
+    "serbe",
+    "sırad",
+    "taki",
+    "telef",
+    "tepki",
+    "trafi",
+    "yas",
+    "yasağ",
+    "yenid",
+    "yolu",
+    "çağrı",
+    "çelik",
+    "ölen",
+    "önlem",
+    "ücret",
+    "üreti"
+   ],
+   "at": "2026-11-13T22:02:43.993947+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "57c1beb7d1",
-   "post_id": "529346797199852_1462990705940637",
-   "title": "Mahkemeden dikkat çeken 'BİLSEM' kararı: Ek ders ücreti faiziyle ödenecek",
-   "at": "2026-11-09T14:59:57.755180+00:00",
-   "yazim": "claude",
-   "metin": "Sakarya'da mahkeme, BİLSEM'de zekâ testi uygulayan rehber öğretmenin ek ders ücretinin faiziyle birlikte ödenmesine karar verdi.\n\n— Öğretmen 2018-2023 yılları arasında BİLSEM öğrenci seçme sürecinde toplam 284 oturum zekâ testi uyguladı, ama bu görevlerin karşılığı ödenmedi.\n\n— Milli Eğitim Bakanlığı, testlerin rehber öğretmenlerin asli görevleri arasında olduğu gerekçesiyle 5 Aralık 2025'teki ödeme başvurusunu reddetti.\n\n— Eğitim Gücü Sen üyesi öğretmen için açılan davada Sakarya 2. İdare Mahkemesi bu reddi iptal etti. Mahkeme, testlerin öğrenci seçme sınavının bir parçası olduğuna hükmetti.\n\n— Ödenmeyen ücretler, 5 Aralık 2025'ten itibaren işleyecek yasal faizle birlikte ödenecek.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mahkemeden-dikkat-ceken-bilsem-karari-ek-ders-ucreti-faiziyle-odenecek-2554797",
-    "BirGün: https://www.birgun.net/haber/mahkemeden-bilsem-karari-ek-ders-ucreti-faiziyle-odenecek-745470"
-   ]
-  },
   {
    "id": "33b1e69fac",
    "post_id": "529346797199852_1463003922605982",
@@ -21303,6 +21363,18 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-abd-genelindeki-tum-havalimanlarinda-ucuslarin-durdurulmasi-karari-aldi/4124785",
     "Karar: https://www.karar.com/dunya-haberleri/abdde-havacilik-alarmi-faa-ulke-genelinde-ucak-kalkislarini-durdurdu-2084042"
    ]
+  },
+  {
+   "id": "6511fb5488",
+   "post_id": "529346797199852_1467901155449592",
+   "title": "HABAŞ'taki eylemde gözaltına alınmışlardı: 9 kişi serbest bırakıldı",
+   "at": "2026-11-13T22:02:43.993947+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'in Aliağa ilçesindeki HABAŞ fabrikasında telefon yasağına tepki gösteren işçilerin eylemine müdahale eden jandarma 9 kişiyi gözaltına aldı, hepsi serbest bırakıldı.\n\n— Fabrikada 9 Kasım'daki patlamada 19 işçi hayatını kaybetmişti.\n— Patlamanın ardından cep telefonlarının güvenlik noktasında bırakılması istendi. İşçiler buna tepki olarak fabrika girişinde yolu trafiğe kapattı.\n— İşçiler, ölen arkadaşları için 5 gün ücretli yas izni ve fabrikanın bağımsız kurumlarca denetlenmesini istiyor.\n— Gerekli iş güvenliği önlemleri alınmadan üretime yeniden başlanmaması çağrısında bulunuyorlar.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/habasta-telefon-yasagi-eyleminde-gozaltina-alinan-9-kisi-serbest-p381145",
+    "BirGün: https://www.birgun.net/haber/habas-taki-eylemde-gozaltina-alinmislardi-9-kisi-serbest-birakildi-746329"
+   ]
   }
  ],
  "fails": {
@@ -21567,12 +21639,10 @@
   "9cd5fd9ddc": 2,
   "45cc9b61dc": 1,
   "3f2e8ed7fa": 2,
-  "46a55c2a3c": 2
+  "46a55c2a3c": 2,
+  "486e7d7aa4": 1
  },
  "fail_log": [
-  "2026-11-13T19:13 İBB Başkan Vekili Nuri Aslan duyurdu: Saraçhane binasının ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:13 HABAŞ patlamasına dair Türk Metal'den açıklama: \"Artık susma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:13 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:16 İBB Başkan Vekili Nuri Aslan duyurdu: Saraçhane binasının ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:16 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:16 Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21609,12 +21679,15 @@
   "2026-11-13T20:35 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
   "2026-11-13T20:35 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
   "2026-11-13T20:35 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
-  "2026-11-13T21:25 Mekke Anlaşması Resmi Gazete’de yayımlanarak yürürlüğe girdi -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-13T21:25 Mekke Anlaşması Resmi Gazete’de yayımlanarak yürürlüğe girdi -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-13T22:02 New Orleans’ta Mississippi Nehri’nde yolcu gemisiyle tanker  -> ValueError: yanıt okunamadı",
+  "2026-11-13T22:02 New Orleans’ta Mississippi Nehri’nde yolcu gemisiyle tanker  -> ValueError: yanıt okunamadı",
+  "2026-11-13T22:02 New Orleans’ta Mississippi Nehri’nde yolcu gemisiyle tanker  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121359824537649215",
+   "since_id": "2121362637036699911",
    "started": true
   },
   "ajansmuhbir1923": {
