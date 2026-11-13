@@ -2,38 +2,6 @@
  "seen": [
   {
    "fp": [
-    "gezeg",
-    "greta",
-    "thunb",
-    "öldür"
-   ],
-   "tok": [
-    "aktiv",
-    "antal",
-    "bilin",
-    "biliy",
-    "bunun",
-    "cop31",
-    "daki",
-    "diken",
-    "gezeg",
-    "greta",
-    "iklim",
-    "kimin",
-    "konuş",
-    "post",
-    "the",
-    "thunb",
-    "yapıl",
-    "zirve",
-    "öldür",
-    "ölmed",
-    "ölmüy"
-   ],
-   "at": "2026-11-12T10:44:55.122551+00:00"
-  },
-  {
-   "fp": [
     "bulun",
     "cesed",
     "erkek",
@@ -18514,23 +18482,48 @@
     "öncel"
    ],
    "at": "2026-11-13T22:40:26.781116+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "bülte",
+    "fonun",
+    "hafta",
+    "izin",
+    "kurul",
+    "spk",
+    "veril",
+    "yayım"
+   ],
+   "tok": [
+    "biri",
+    "bülte",
+    "diğer",
+    "fonla",
+    "fonu",
+    "fonun",
+    "gayri",
+    "giriş",
+    "hafta",
+    "izin",
+    "kurul",
+    "nin",
+    "nun",
+    "piram",
+    "piyas",
+    "portf",
+    "serma",
+    "spk",
+    "verdi",
+    "veril",
+    "yayım",
+    "yönet",
+    "şemsi"
+   ],
+   "at": "2026-11-13T22:53:15.365975+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6942ea7037",
-   "post_id": "529346797199852_1463037919269249",
-   "title": "Akın Gürlek: “Kamu görevlileri de tutuklanıyor. Kimseyi koruyup kollamıyoruz.”",
-   "at": "2026-11-09T15:51:00.700795+00:00",
-   "yazim": "claude",
-   "metin": "Adalet Bakanı Akın Gürlek:\n\n“Kamu görevlileri de tutuklanıyor. Kimseyi koruyup kollamıyoruz.”\n\nGürlek, Adalet Bakanlığı'nın 2027 bütçesini TBMM Plan ve Bütçe Komisyonu'nda sundu. Sunumunda fon skandalına ilişkin soruşturmanın son durumunu da anlattı.\n\n— 9 Kasım 2026 itibarıyla soruşturmada 464 şüpheli var, 120 kişi tutuklu.\n— Gürlek, gönüllü iade yapılmasının tek başına hukuki sorumluluğu ortadan kaldırmayacağını söyledi.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-bakan-gurlekten-muhalefetin-fon-sorusturmasiyla-ilgili-elestirilerine-cevap-kimse-korunup-kollanmiyor-7697491",
-    "CNN Türk: https://www.cnnturk.com/turkiye/bakan-gurlekten-fon-sorusturmasi-aciklamasi-kimse-korunup-kollanmiyor-3491032",
-    "Serbestiyet: https://serbestiyet.com/haberler/akin-gurlek-kamu-gorevlileri-de-tutuklaniyor-kimseyi-koruyup-kollamiyoruz-253263/",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-bakan-gurlekten-muhalefetin-fon-sorusturmasiyla-ilgili-elestirilerine-cevap-kimse-korunup-kollanmiyor-7697491"
-   ]
-  },
   {
    "id": "5175d21e4c",
    "post_id": "529346797199852_1463055855934122",
@@ -21087,6 +21080,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ulusal-adil-gecis-stratejisi-ve-eylem-plani-na-iliskin-genelge-resmi-gazete-de-2556034",
     "BirGün: https://www.birgun.net/haber/resmi-gazetede-yayimlandi-ulusal-adil-gecis-stratejisi-ve-eylem-plani-yururluge-girdi-746350"
    ]
+  },
+  {
+   "id": "19f00ba2a9",
+   "post_id": "529346797199852_1467929462113428",
+   "title": "SPK haftalık bülteni yayımlandı: 2 fonun kurulmasına izin verildi",
+   "at": "2026-11-13T22:53:15.365975+00:00",
+   "yazim": "claude",
+   "metin": "Sermaye Piyasası Kurulu (SPK), haftalık bülteninde iki yeni fonun kurulmasına izin verdi.\n\n— Fonlardan biri FT Gayrimenkul ve Girişim Sermayesi Portföy Yönetimi AŞ'nin girişim sermayesi şemsiye fonu.\n\n— Diğeri Piramit Portföy Yönetimi AŞ'nin gayrimenkul şemsiye fonu.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/spk-haftalik-bulteni-yayimlandi-2-fonun-kurulmasina-izin-verildi-746352"
+   ]
   }
  ],
  "fails": {
@@ -21352,12 +21356,9 @@
   "45cc9b61dc": 1,
   "3f2e8ed7fa": 2,
   "46a55c2a3c": 2,
-  "486e7d7aa4": 1
+  "486e7d7aa4": 2
  },
  "fail_log": [
-  "2026-11-13T19:16 KKTC’nin 43. kuruluş yıldönümü Ankara’da kutlandı. ’Egemen e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:16 Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:32 Orkun Kökçü: \"Beşiktaş'a çok özel duygular beslediğim için m -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:32 Metro altyapısı için 1.1 milyar doların harcandığı New York’ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:32 Bursa’da İmamoğlu protestoları nedeniyle yargılanan 11 kişi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:35 Bursa’da İmamoğlu protestoları nedeniyle yargılanan 11 kişi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21394,7 +21395,10 @@
   "2026-11-13T22:02 New Orleans’ta Mississippi Nehri’nde yolcu gemisiyle tanker  -> ValueError: yanıt okunamadı",
   "2026-11-13T22:02 New Orleans’ta Mississippi Nehri’nde yolcu gemisiyle tanker  -> ValueError: yanıt okunamadı",
   "2026-11-13T22:02 New Orleans’ta Mississippi Nehri’nde yolcu gemisiyle tanker  -> ValueError: yanıt okunamadı",
-  "2026-11-13T22:15 Orkun Kökçü'den Beşiktaş itirafı: 'Bana yapılan bir haksızlı -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-13T22:15 Orkun Kökçü'den Beşiktaş itirafı: 'Bana yapılan bir haksızlı -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
+  "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
+  "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
