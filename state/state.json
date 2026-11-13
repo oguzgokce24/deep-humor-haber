@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "derey",
-    "feci",
-    "hayat",
-    "kamyo",
-    "kaybe",
-    "kaza",
-    "kişi",
-    "nde",
-    "rize",
-    "yuvar",
-    "çayel",
-    "ölü"
-   ],
-   "tok": [
-    "atara",
-    "bahçe",
-    "derey",
-    "devri",
-    "feci",
-    "ilçes",
-    "kamyo",
-    "kontr",
-    "nde",
-    "nin",
-    "otomo",
-    "rize",
-    "takla",
-    "yuvar",
-    "çay",
-    "çayel",
-    "çıkan"
-   ],
-   "at": "2026-11-11T20:13:53.071646+00:00"
-  },
-  {
-   "fp": [
-    "barış",
-    "demok",
-    "değer",
-    "emek",
-    "hakkı",
-    "hırsı",
-    "işçil",
-    "kâr",
-    "platf",
-    "serma",
-    "yaşam",
-    "çanak"
-   ],
-   "tok": [
-    "barış",
-    "demok",
-    "değer",
-    "emek",
-    "habaş",
-    "hakkı",
-    "hırsı",
-    "işçil",
-    "karşı",
-    "katli",
-    "kâr",
-    "platf",
-    "serma",
-    "taki",
-    "vurgu",
-    "yaptı",
-    "yaşam",
-    "çanak"
-   ],
-   "at": "2026-11-11T20:13:53.614067+00:00"
-  },
-  {
-   "fp": [
     "akol",
     "alter",
     "globa",
@@ -18772,6 +18698,46 @@
     "yuvar"
    ],
    "at": "2026-11-13T08:09:34.437461+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "87",
+    "darth",
+    "dolar",
+    "kılıc",
+    "milyo",
+    "satıl",
+    "vader",
+    "ışın"
+   ],
+   "tok": [
+    "alıcı",
+    "ana",
+    "bugün",
+    "bular",
+    "dalla",
+    "darth",
+    "düell",
+    "düzen",
+    "eşyas",
+    "fiyat",
+    "hatır",
+    "kulla",
+    "kılıc",
+    "müzay",
+    "oriji",
+    "pahal",
+    "rekor",
+    "satıl",
+    "star",
+    "vader",
+    "wars",
+    "üzeri",
+    "üçlem",
+    "ışın"
+   ],
+   "at": "2026-11-13T08:16:17.808504+00:00"
   }
  ],
  "posted": [
@@ -21562,14 +21528,11 @@
   "e922a16662": 1,
   "415c0961dd": 1,
   "b4d3231700": 2,
-  "e77c3307bf": 2,
-  "98f00b39db": 1,
-  "75c90e1ce0": 1
+  "98f00b39db": 2,
+  "75c90e1ce0": 1,
+  "62636f7462": 1
  },
  "fail_log": [
-  "2026-11-13T07:06 Samsun'da fuhuş operasyonu: 18 şüpheli adliyeye sevk edildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T07:10 Ankara'da FETÖ operasyonu: 6 gözaltı var! -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T07:10 Microsoft uygulamalarında küresel kesinti: Outlook ve Teams  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:10 Microsoft'ta 74 ülkeyi etkileyen kesinti: 12 saattir sorun g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:13 Ankara'da FETÖ operasyonu: 6 gözaltı var! -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:13 Microsoft uygulamalarında küresel kesinti: Outlook ve Teams  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21606,7 +21569,10 @@
   "2026-11-13T08:09 Pakistan'da yolcu minibüsü nehre düştü: 11 kişi yaşamını yit -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:12 Darth Vader’ın \"Star Wars\" ışın kılıcı 4,87 milyon dolara sa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T08:12 Üniversitesi öğrencisi bina boşluğuna düştü: Öyküm Naz'ın ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T08:12 Goldman Sachs'tan Türkiye raporu: Dikkat çeken fon krizi uya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T08:12 Goldman Sachs'tan Türkiye raporu: Dikkat çeken fon krizi uya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T08:16 Darth Vader’ın \"Star Wars\" ışın kılıcı 4,87 milyon dolara sa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T08:16 Üniversitesi öğrencisi bina boşluğuna düştü: Öyküm Naz'ın ha -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T08:16 Miras vurgununda 'joker' oyunu ifşa oldu: 11 gözaltı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
