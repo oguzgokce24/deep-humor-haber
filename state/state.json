@@ -2,112 +2,6 @@
  "seen": [
   {
    "fp": [
-    "antal",
-    "dan",
-    "dünya",
-    "gelec",
-    "hayal",
-    "insan",
-    "mesaj",
-    "ortak"
-   ],
-   "tok": [
-    "aldığ",
-    "antal",
-    "bizle",
-    "cop31",
-    "dan",
-    "değil",
-    "değiş",
-    "dünya",
-    "gelec",
-    "hatır",
-    "hayal",
-    "iklim",
-    "insan",
-    "konuş",
-    "kurum",
-    "mesaj",
-    "murat",
-    "nesil",
-    "ortak",
-    "yaptı",
-    "çevre",
-    "şehir"
-   ],
-   "at": "2026-11-12T02:53:26.537435+00:00"
-  },
-  {
-   "fp": [
-    "freni",
-    "tahli",
-    "yargı"
-   ],
-   "tok": [
-    "açtığ",
-    "boşal",
-    "davad",
-    "durdu",
-    "evler",
-    "freni",
-    "geldi",
-    "geri",
-    "isted",
-    "işlem",
-    "kalıc",
-    "mahal",
-    "nde",
-    "sayım",
-    "sürer",
-    "tahli",
-    "yargı",
-    "yurtt",
-    "yıkım",
-    "çubuk",
-    "çözüm"
-   ],
-   "at": "2026-11-12T02:53:27.334034+00:00"
-  },
-  {
-   "fp": [
-    "ara",
-    "beyoğ",
-    "nda",
-    "tatil",
-    "çocuk",
-    "şenli"
-   ],
-   "tok": [
-    "anima",
-    "ara",
-    "arası",
-    "atöly",
-    "beled",
-    "beyoğ",
-    "düzen",
-    "farkl",
-    "film",
-    "gerçe",
-    "göste",
-    "günle",
-    "kapsa",
-    "kasım",
-    "nda",
-    "oyunl",
-    "progr",
-    "sanat",
-    "sinem",
-    "tarih",
-    "tatil",
-    "tiyat",
-    "yönel",
-    "çocuk",
-    "şenli"
-   ],
-   "at": "2026-11-12T02:53:27.989989+00:00"
-  },
-  {
-   "fp": [
     "besli",
     "borç",
     "finan",
@@ -21461,12 +21355,12 @@
   "312c445e6c": 1,
   "777098d56c": 1,
   "d1c05b0582": 1,
-  "82c1130b65": 2
+  "82c1130b65": 2,
+  "48ea8c8001": 1,
+  "3772a65a3d": 1,
+  "59efe984ef": 1
  },
  "fail_log": [
-  "2026-11-13T13:48 Diego Gomez, Crystal Palace karşısında orta sahadan attığı g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:51 MSB duyurdu: Görevde rahatsızlanan er hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:51 A Milli Takım için Fransa maçı kritik: A Ligi'nde kalmak içi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:51 Gözde Şeker yazdı: Yüzde 36,7’lik demokrasi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:55 Kenya'da yapımı devam eden 8 katlı bina çöktü: 6 ölü, enkaz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:55 MSB duyurdu: Görevde rahatsızlanan er hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21503,12 +21397,15 @@
   "2026-11-13T14:49 İspanya'da 29 Kasım seçimleri için kampanya başladı: Sanchez -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:52 AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı. Acil  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:52 Azarov'un eski sözcüsü hedef alındı iddiası: Moskova'da otom -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T14:52 Cemal Hünal Medyascope’a konuştu: “Diziler 6 kuşak reklam ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T14:52 Cemal Hünal Medyascope’a konuştu: “Diziler 6 kuşak reklam ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T14:56 Oyuncu İrem Helvacıoğlu: (Haluk Bilginer hk.) — Fransa’da, A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T14:56 Sokak ortasında kadınlara şiddet kamerada: İki şüpheli gözal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T14:56 Üreticiden tepki: Tarlada 35 TL olan kivi markette 150 TL -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121253055618310438",
+   "since_id": "2121255605835117038",
    "started": true
   },
   "ajansmuhbir1923": {
