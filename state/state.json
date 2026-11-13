@@ -18215,6 +18215,119 @@
     "şehir"
    ],
    "at": "2026-11-13T17:31:05.206194+00:00"
+  },
+  {
+   "fp": [
+    "eisen",
+    "kampa",
+    "karşı",
+    "netan",
+    "vatan",
+    "yürüt",
+    "ırkçı"
+   ],
+   "tok": [
+    "arap",
+    "arapl",
+    "başın",
+    "belir",
+    "beri",
+    "eisen",
+    "eleşt",
+    "gayri",
+    "getir",
+    "görev",
+    "göste",
+    "halin",
+    "hedef",
+    "hüküm",
+    "israi",
+    "kampa",
+    "karşı",
+    "kayde",
+    "kurma",
+    "neden",
+    "netan",
+    "nun",
+    "parça",
+    "seçim",
+    "siyas",
+    "tan",
+    "vatan",
+    "yürüt",
+    "çalış",
+    "ırkçı"
+   ],
+   "at": "2026-11-13T17:47:23.954609+00:00"
+  },
+  {
+   "fp": [
+    "aihm",
+    "karar",
+    "kaval",
+    "mahke",
+    "osman"
+   ],
+   "tok": [
+    "aihm",
+    "ardın",
+    "ağır",
+    "başvu",
+    "ceza",
+    "ilişk",
+    "kaval",
+    "osman",
+    "redde",
+    "tahli",
+    "verdi",
+    "vermi",
+    "yanıt",
+    "yönel",
+    "üst"
+   ],
+   "at": "2026-11-13T17:47:24.498138+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "alınm",
+    "bakan",
+    "besse",
+    "hazin",
+    "kara",
+    "liste",
+    "megas",
+    "yanay"
+   ],
+   "tok": [
+    "abd",
+    "alınm",
+    "ancak",
+    "arası",
+    "aylar",
+    "besse",
+    "dışiş",
+    "güven",
+    "hazin",
+    "kara",
+    "konud",
+    "koord",
+    "kurum",
+    "liste",
+    "megas",
+    "olduk",
+    "sanay",
+    "savaş",
+    "sağla",
+    "scott",
+    "söyle",
+    "temsi",
+    "ticar",
+    "varlı",
+    "yana",
+    "yanay"
+   ],
+   "at": "2026-11-13T17:47:24.845830+00:00"
   }
  ],
  "posted": [
@@ -21049,17 +21162,11 @@
   "40c671105b": 2,
   "c999b18a64": 1,
   "4a19319e50": 1,
-  "a6b702d64b": 2,
   "fd6089ac0c": 1,
   "80ffa9d4ab": 1,
-  "34042d2dd6": 1,
-  "6dd652e2d5": 2,
-  "aeefef5fcc": 2
+  "34042d2dd6": 1
  },
  "fail_log": [
-  "2026-11-13T16:56 COP30 Başkanlığı Temsilcisi COP31 Mavi Alan’da STK’larla bul -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T16:59 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T16:59 Tarık Çelenk yazdı: “Sol Müslüman” olur mu? -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T16:59 İstanbul’da fırtına: Çatılar uçtu, ağaçlar devrildi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:03 Kenya'da 8 katlı bina çöktü: 6 işçi öldü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:03 Tarık Çelenk yazdı: “Sol Müslüman” olur mu? -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21096,7 +21203,10 @@
   "2026-11-13T17:40 AİHM tahliye kararı vermişti: Osman Kavala’ya ilişkin başvur -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:44 Hükümeti kurmakla görevlendirilen Eisenkot'tan Netanyahu'ya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T17:44 AİHM tahliye kararı vermişti: Osman Kavala’ya ilişkin başvur -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T17:44 ABD Hazine Bakanı Bessent açıkladı: Megaspeed'in kara listey -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T17:44 ABD Hazine Bakanı Bessent açıkladı: Megaspeed'in kara listey -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:47 Hükümeti kurmakla görevlendirilen Eisenkot'tan Netanyahu'ya  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:47 AİHM tahliye kararı vermişti: Osman Kavala’ya ilişkin başvur -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T17:47 ABD Hazine Bakanı Bessent açıkladı: Megaspeed'in kara listey -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
