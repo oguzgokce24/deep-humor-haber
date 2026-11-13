@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "görüş",
-    "putin",
-    "temsi"
-   ],
-   "tok": [
-    "abd",
-    "abu",
-    "amacı",
-    "araya",
-    "bugün",
-    "dabi",
-    "danış",
-    "den",
-    "devle",
-    "donal",
-    "dış",
-    "erdir",
-    "gelec",
-    "görüş",
-    "jared",
-    "kaps",
-    "kreml",
-    "kushn",
-    "mosko",
-    "müzak",
-    "polit",
-    "putin",
-    "rusya",
-    "savaş",
-    "sona",
-    "steve",
-    "temsi",
-    "trump",
-    "ukray",
-    "uşako",
-    "vladi",
-    "witko",
-    "yuriy",
-    "yürüt",
-    "üzere",
-    "üçlü"
-   ],
-   "at": "2026-11-12T07:47:36.837055+00:00"
-  },
-  {
-   "fp": [
     "düşen",
     "hayat",
     "inşaa",
@@ -18767,6 +18721,103 @@
     "şey"
    ],
    "at": "2026-11-13T19:38:57.809363+00:00"
+  },
+  {
+   "fp": [
+    "balık",
+    "isted",
+    "kapta",
+    "katam",
+    "telsi",
+    "yardı",
+    "yetiş"
+   ],
+   "tok": [
+    "alabo",
+    "alaku",
+    "ali",
+    "balık",
+    "bursa",
+    "dolan",
+    "halat",
+    "ilçes",
+    "isted",
+    "kapta",
+    "karac",
+    "katam",
+    "motor",
+    "nın",
+    "tehli",
+    "telsi",
+    "yardı",
+    "yetiş"
+   ],
+   "at": "2026-11-13T19:48:47.049706+00:00"
+  },
+  {
+   "fp": [
+    "euron",
+    "fazla",
+    "kendi",
+    "sezon",
+    "sohbe",
+    "yenil"
+   ],
+   "tok": [
+    "avrup",
+    "bakış",
+    "başlı",
+    "derin",
+    "dilde",
+    "euron",
+    "fazla",
+    "gazet",
+    "haber",
+    "hafta",
+    "içi",
+    "kasım",
+    "kendi",
+    "progr",
+    "sezon",
+    "sohbe",
+    "stüdy",
+    "yenil",
+    "şekil"
+   ],
+   "at": "2026-11-13T19:48:47.608973+00:00"
+  },
+  {
+   "fp": [
+    "arabi",
+    "golü",
+    "gyu",
+    "güney",
+    "hyeon",
+    "kore",
+    "mağlu",
+    "suudi",
+    "yetme"
+   ],
+   "tok": [
+    "adına",
+    "arabi",
+    "beşik",
+    "gol",
+    "golcü",
+    "golü",
+    "gyu",
+    "güney",
+    "hyeon",
+    "kayde",
+    "kore",
+    "maçta",
+    "mağlu",
+    "nin",
+    "suudi",
+    "takım",
+    "yetme"
+   ],
+   "at": "2026-11-13T19:48:48.360321+00:00"
   }
  ],
  "posted": [
@@ -21603,15 +21654,9 @@
   "22da04378c": 1,
   "4a32cceae9": 1,
   "68ae3beda5": 1,
-  "9c71415da3": 1,
-  "416e30c89f": 2,
-  "c43f325fbc": 2,
-  "fdaff7eee2": 2
+  "9c71415da3": 1
  },
  "fail_log": [
-  "2026-11-13T18:50 Piyasalarda son iş günü: BIST 100 yükselişle, altın düşüşle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:53 Yener Orkunoğlu yazdı: Batı Marksizmi nedir? (2) -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:53 Piyasalarda son iş günü: BIST 100 yükselişle, altın düşüşle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:53 Microsoft normale dönüyor: Erişim önemli ölçüde iyileşti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:56 Fatih Terim'in 83 bin TL'lik restoran hesabını ödeme yöntemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:56 Yener Orkunoğlu yazdı: Batı Marksizmi nedir? (2) -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21648,7 +21693,10 @@
   "2026-11-13T19:42 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:45 Katamaranın kaptanı telsizden yardım istedi, balıkçılar yeti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:45 Euronews yeni sezonunda: Daha fazla canlı haber ve sohbetle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:45 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T19:45 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:48 Katamaranın kaptanı telsizden yardım istedi, balıkçılar yeti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:48 Euronews yeni sezonunda: Daha fazla canlı haber ve sohbetle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:48 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
