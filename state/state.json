@@ -2,76 +2,6 @@
  "seen": [
   {
    "fp": [
-    "düşen",
-    "hayat",
-    "inşaa",
-    "işçi",
-    "kaybe",
-    "kütah"
-   ],
-   "tok": [
-    "ahmet",
-    "altın",
-    "cinay",
-    "düşen",
-    "ilçes",
-    "inşaa",
-    "işçi",
-    "kütah",
-    "metre",
-    "nın",
-    "turan",
-    "yükse"
-   ],
-   "at": "2026-11-12T07:54:17.441696+00:00"
-  },
-  {
-   "fp": [
-    "171",
-    "ayı",
-    "eylül",
-    "hak",
-    "ihlal",
-    "işken",
-    "vakas"
-   ],
-   "tok": [
-    "ayda",
-    "ayı",
-    "bilan",
-    "bin",
-    "cinay",
-    "engel",
-    "erişi",
-    "erkek",
-    "eylül",
-    "göre",
-    "hak",
-    "ihlal",
-    "işken",
-    "işçi",
-    "kadın",
-    "kayde",
-    "mille",
-    "nin",
-    "nun",
-    "parti",
-    "rapor",
-    "sezgi",
-    "sonuc",
-    "tanrı",
-    "vakas",
-    "yayım",
-    "yaşam",
-    "yitir",
-    "çocuk",
-    "ölüm",
-    "şidde"
-   ],
-   "at": "2026-11-12T07:54:18.323952+00:00"
-  },
-  {
-   "fp": [
     "arttı",
     "eti",
     "eylül",
@@ -21655,14 +21585,12 @@
   "4a32cceae9": 1,
   "68ae3beda5": 1,
   "9c71415da3": 1,
-  "696942231d": 1,
-  "9cd5fd9ddc": 1,
-  "45cc9b61dc": 1
+  "696942231d": 2,
+  "9cd5fd9ddc": 2,
+  "45cc9b61dc": 1,
+  "3f2e8ed7fa": 1
  },
  "fail_log": [
-  "2026-11-13T18:56 Microsoft normale dönüyor: Erişim önemli ölçüde iyileşti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:00 Yener Orkunoğlu yazdı: Batı Marksizmi nedir? (2) -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:00 Microsoft normale dönüyor: Erişim önemli ölçüde iyileşti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:00 44. Altın Joystick Ödülleri’nde yılın oyunu ve diğer kazanan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:03 44. Altın Joystick Ödülleri’nde yılın oyunu ve diğer kazanan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:03 Yeni Parti binanın ruhsatsız olduğu için mühürlendiğini belg -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21699,7 +21627,10 @@
   "2026-11-13T19:48 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:52 Mükemmel olmaya çalışarak insanları uzaklaştırmak: Kusursuzl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:52 Türkiye'ya karşı sahaya çıkmıştı! Galatasaray transfer liste -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:52 Marmarabirlik zeytin alım fiyatları açıklandı mı? Marmarabir -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T19:52 Marmarabirlik zeytin alım fiyatları açıklandı mı? Marmarabir -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:55 Orkun Kökçü'den Beşiktaş itirafı: 'Bana yapılan bir haksızlı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:55 Mükemmel olmaya çalışarak insanları uzaklaştırmak: Kusursuzl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:55 Türkiye'ya karşı sahaya çıkmıştı! Galatasaray transfer liste -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
