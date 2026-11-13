@@ -18868,6 +18868,33 @@
     "öğren"
    ],
    "at": "2026-11-13T13:48:33.683765+00:00"
+  },
+  {
+   "fp": [
+    "asker",
+    "başın",
+    "duyur",
+    "görev",
+    "rahat",
+    "şehit"
+   ],
+   "tok": [
+    "asker",
+    "başın",
+    "duyur",
+    "esnas",
+    "görev",
+    "güler",
+    "kaan",
+    "milli",
+    "msb",
+    "mühim",
+    "rahat",
+    "savun",
+    "öcal",
+    "şehit"
+   ],
+   "at": "2026-11-13T13:58:40.185757+00:00"
   }
  ],
  "posted": [
@@ -21687,15 +21714,11 @@
   "9221d283fe": 2,
   "554acec5f9": 2,
   "c46fece234": 1,
-  "d1e36e0934": 2,
   "312c445e6c": 1,
-  "c145684189": 1,
-  "74a5bc90f1": 1
+  "c145684189": 2,
+  "74a5bc90f1": 2
  },
  "fail_log": [
-  "2026-11-13T13:17 Şimşek, ekonomik verileri övdü: \"Bu başarı, bir tesadüf deği -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:21 Ekrem İmamoğlu'nun ifadesi ortaya çıktı: \"Suçlamayı asla kab -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-  "2026-11-13T13:21 Ekrem İmamoğlu'nun ifadesi ortaya çıktı: \"Suçlamayı asla kab -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T13:21 Ekrem İmamoğlu'nun ifadesi ortaya çıktı: \"Suçlamayı asla kab -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T13:21 Aydın'da 24 bin 650 sentetik hap ele geçirildi -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
   "2026-11-13T13:21 Aydın'da 24 bin 650 sentetik hap ele geçirildi -> JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
@@ -21732,7 +21755,10 @@
   "2026-11-13T13:51 Gözde Şeker yazdı: Yüzde 36,7’lik demokrasi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:55 Kenya'da yapımı devam eden 8 katlı bina çöktü: 6 ölü, enkaz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T13:55 MSB duyurdu: Görevde rahatsızlanan er hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T13:55 Zelenskiy'den Meloni'ye yanıt: \"Görüşmeyi sen istemedin\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T13:55 Zelenskiy'den Meloni'ye yanıt: \"Görüşmeyi sen istemedin\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:58 Kenya'da yapımı devam eden 8 katlı bina çöktü: 6 ölü, enkaz  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:58 MSB duyurdu: Görevde rahatsızlanan er hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T13:58 Zelenskiy'den Meloni'ye yanıt: \"Görüşmeyi sen istemedin\" -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
