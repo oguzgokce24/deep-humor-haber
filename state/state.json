@@ -19442,6 +19442,19 @@
     "beled"
    ],
    "at": "2026-11-13T00:21:12.513829+00:00"
+  },
+  {
+   "fp": [
+    "beled",
+    "bşk",
+    "yenim"
+   ],
+   "tok": [
+    "beled",
+    "bşk",
+    "yenim"
+   ],
+   "at": "2026-11-13T00:24:31.606739+00:00"
   }
  ],
  "posted": [
@@ -22209,12 +22222,10 @@
   "2913191076": 2,
   "c0cc6600e3": 1,
   "f6718105ce": 2,
-  "082191081b": 2
+  "2b30ffd509": 1,
+  "3f7f6e9fa0": 1
  },
  "fail_log": [
-  "2026-11-12T23:34 19 tabut 1 yalı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T23:37 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-12T23:37 İtalya geriden gelip Fransa'yı dağıttı! Türkiye'nin grubunda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:37 Arda Güler öyle bir gol attı ki! 30 metreden vurdu Sergen Ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:44 Malatya'da düşen helikopterde dört asker hayatını kaybetti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-12T23:44 İtalya geriden gelip Fransa'yı dağıttı! Türkiye'nin grubunda -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -22251,7 +22262,10 @@
   "2026-11-13T00:17 T.C. YENİMAHALLE BELEDİYE BŞK. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T00:21 Rusya ve İran'dan ABD'nin Hazar görev gücüne tepki -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T00:21 T.C. ARSUZ BELEDİYE BAŞKANLIĞI -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T00:21 T.C. YENİMAHALLE BELEDİYE BŞK. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T00:21 T.C. YENİMAHALLE BELEDİYE BŞK. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T00:24 T.C. YENİMAHALLE BELEDİYE BŞK. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T00:24 T.C. KANDIRA SATIŞ MEMURLUĞU -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T00:24 T.C. İSTANBUL PROF.DR.CEMİL TAŞCIOĞLU ŞEHİR HASTANESİ -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
