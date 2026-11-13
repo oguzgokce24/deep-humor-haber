@@ -2,35 +2,6 @@
  "seen": [
   {
    "fp": [
-    "barut",
-    "chp",
-    "istif",
-    "parti",
-    "saniy",
-    "sürüy",
-    "üyesi"
-   ],
-   "tok": [
-    "barut",
-    "butla",
-    "chp",
-    "depre",
-    "duyur",
-    "edere",
-    "geçti",
-    "istif",
-    "katıl",
-    "mecli",
-    "parti",
-    "saniy",
-    "sinde",
-    "sürüy",
-    "üyesi"
-   ],
-   "at": "2026-11-11T18:07:22.250525+00:00"
-  },
-  {
-   "fp": [
     "2",
     "aksoy",
     "arayı",
@@ -18935,6 +18906,104 @@
     "şafak"
    ],
    "at": "2026-11-13T06:02:40.290816+00:00"
+  },
+  {
+   "fp": [
+    "akıl",
+    "almaz",
+    "cimer",
+    "diye",
+    "edece",
+    "kızın",
+    "olay",
+    "saçın",
+    "öreme",
+    "öğret",
+    "şikây"
+   ],
+   "tok": [
+    "akıl",
+    "almaz",
+    "annen",
+    "başla",
+    "cimer",
+    "değiş",
+    "diyal",
+    "diye",
+    "edece",
+    "eleşt",
+    "evde",
+    "eğiti",
+    "gazet",
+    "gerek",
+    "kızın",
+    "okuld",
+    "olay",
+    "payla",
+    "profi",
+    "resto",
+    "saçın",
+    "sulta",
+    "söyle",
+    "sözle",
+    "tanık",
+    "taray",
+    "uçar",
+    "veli",
+    "yönel",
+    "öreme",
+    "örmed",
+    "öğret",
+    "üzeri",
+    "şikây"
+   ],
+   "at": "2026-11-13T06:09:21.039978+00:00"
+  },
+  {
+   "fp": [
+    "arkad",
+    "açılı",
+    "dikka",
+    "erdoğ",
+    "ifade",
+    "küstü",
+    "yurdu",
+    "çeken",
+    "öğren"
+   ],
+   "tok": [
+    "akp",
+    "anado",
+    "ardın",
+    "arkad",
+    "açılı",
+    "bilal",
+    "binas",
+    "dediğ",
+    "dikka",
+    "erdoğ",
+    "geçmi",
+    "grup",
+    "hatip",
+    "ifade",
+    "imam",
+    "konuş",
+    "kulla",
+    "küstü",
+    "lises",
+    "mesut",
+    "okul",
+    "recep",
+    "tay",
+    "tayyi",
+    "topra",
+    "yurdu",
+    "yılla",
+    "çeken",
+    "öğren",
+    "şirke"
+   ],
+   "at": "2026-11-13T06:09:21.484737+00:00"
   }
  ],
  "posted": [
@@ -21715,14 +21784,9 @@
   "e4b6512070": 1,
   "dccfa043ef": 2,
   "2b1834f178": 2,
-  "160bf2e537": 2,
-  "3d396cfd89": 2,
-  "90af1a5c6b": 1
+  "90af1a5c6b": 2
  },
  "fail_log": [
-  "2026-11-13T05:16 Cangül Örnek: 'Türkiye Yüzyılı'nda Londra'da kapılar çalınıy -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T05:20 İstanbul'da silahlı suç örgütüne şafak operasyonu: 15 ayrı e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T05:20 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T05:20 Nuri Kayış: İnsanlığın doğayla barışık yaşaması için kulağın -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T05:23 İstanbul'da silahlı suç örgütüne şafak operasyonu: 15 ayrı e -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T05:23 Mersin'de pompalı tüfekli saldırgan dehşeti: 1 kişi öldü, 4  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21759,12 +21823,15 @@
   "2026-11-13T06:02 Erdoğan’ın küstüğü arkadaşından öğrenci yurdu: Açılışta dikk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:06 Yüz binlerce hastayı ilgilendiren karar: Tüm kurallar sil ba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:06 Akıl almaz olay: Kızının saçını öremedi diye öğretmeni CİMER -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T06:06 Erdoğan’ın küstüğü arkadaşından öğrenci yurdu: Açılışta dikk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T06:06 Erdoğan’ın küstüğü arkadaşından öğrenci yurdu: Açılışta dikk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T06:09 Yüz binlerce hastayı ilgilendiren karar: Tüm kurallar sil ba -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T06:09 Akıl almaz olay: Kızının saçını öremedi diye öğretmeni CİMER -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T06:09 Erdoğan’ın küstüğü arkadaşından öğrenci yurdu: Açılışta dikk -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121118733796028687",
+   "since_id": "2121123061327876324",
    "started": true
   },
   "ajansmuhbir1923": {
