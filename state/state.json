@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aile",
-    "bakan",
-    "böyle",
-    "bütçe",
-    "edece",
-    "fon",
-    "gönde",
-    "görüş",
-    "muhal",
-    "mücad",
-    "nın",
-    "vurgu",
-    "yoksu"
-   ],
-   "tok": [
-    "aile",
-    "asu",
-    "böyle",
-    "bütçe",
-    "dikka",
-    "edece",
-    "eskid",
-    "fon",
-    "fonda",
-    "genel",
-    "geçen",
-    "gönde",
-    "görüş",
-    "göste",
-    "kadın",
-    "kalem",
-    "kaya",
-    "kolla",
-    "koltu",
-    "mille",
-    "milya",
-    "muhal",
-    "mücad",
-    "nın",
-    "otura",
-    "parti",
-    "tahm",
-    "vurgu",
-    "yaşad",
-    "yoksu",
-    "yurtt",
-    "yıl",
-    "çekti",
-    "çuval",
-    "örnek"
-   ],
-   "at": "2026-11-12T03:40:15.530996+00:00"
-  },
-  {
-   "fp": [
     "akden",
     "bildi",
     "bilme",
@@ -18417,6 +18362,89 @@
     "ürküt"
    ],
    "at": "2026-11-13T15:38:14.616562+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "davas",
+    "eski",
+    "eşind",
+    "insan",
+    "kayıp",
+    "kimse",
+    "kiras",
+    "konuş",
+    "mekiy",
+    "savun",
+    "yıldı",
+    "ödeme",
+    "öldür"
+   ],
+   "tok": [
+    "akyel",
+    "annes",
+    "arana",
+    "cesed",
+    "davad",
+    "davas",
+    "değer",
+    "eski",
+    "eşind",
+    "ilişk",
+    "insan",
+    "kaybo",
+    "kayıp",
+    "kimse",
+    "kira",
+    "kiras",
+    "konuş",
+    "mekiy",
+    "nin",
+    "savun",
+    "siirt",
+    "yıl",
+    "yıldı",
+    "çocuk",
+    "ödeme",
+    "öldür"
+   ],
+   "at": "2026-11-13T15:41:30.674587+00:00"
+  },
+  {
+   "fp": [
+    "42",
+    "facia",
+    "fon",
+    "habaş",
+    "hesap",
+    "kim",
+    "mütal",
+    "soruş",
+    "verec"
+   ],
+   "tok": [
+    "davas",
+    "değer",
+    "dosya",
+    "facia",
+    "fon",
+    "furka",
+    "fırat",
+    "fıstı",
+    "geliş",
+    "habaş",
+    "hesap",
+    "ibb",
+    "karab",
+    "kim",
+    "medya",
+    "mütal",
+    "patla",
+    "verec",
+    "yonca",
+    "şık"
+   ],
+   "at": "2026-11-13T15:41:31.594107+00:00"
   }
  ],
  "posted": [
@@ -21244,13 +21272,9 @@
   "8a71b20f7d": 1,
   "5815ddc7f9": 1,
   "9c85fd642a": 2,
-  "e8e06466ae": 2,
-  "634606b8a8": 2
+  "2a75da15a5": 1
  },
  "fail_log": [
-  "2026-11-13T14:49 İspanya'da 29 Kasım seçimleri için kampanya başladı: Sanchez -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T14:52 AKINCI ve Bayraktar TB2 kara yoluna iniş-kalkış yaptı. Acil  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T14:52 Azarov'un eski sözcüsü hedef alındı iddiası: Moskova'da otom -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:52 Cemal Hünal Medyascope’a konuştu: “Diziler 6 kuşak reklam ya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:56 Oyuncu İrem Helvacıoğlu: (Haluk Bilginer hk.) — Fransa’da, A -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T14:56 Sokak ortasında kadınlara şiddet kamerada: İki şüpheli gözal -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21287,7 +21311,10 @@
   "2026-11-13T15:34 Cumhurbaşkanı Erdoğan, Katar Emiri Al Sani ile görüştü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:38 Mekiye Akyel davasında eski eşinden 'kira' savunması -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T15:38 Mütalaa (42) | HABAŞ faciasından fon soruşturmasına: Kim hes -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T15:38 Close-up Photographer of the Year: Rekor başvurudan seçilen  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T15:38 Close-up Photographer of the Year: Rekor başvurudan seçilen  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:41 Mekiye Akyel davasında eski eşinden 'kira' savunması -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:41 Kayıhan Pala: Türkiye ölümcül iş kazalarında dünyada ikinci  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T15:41 Mütalaa (42) | HABAŞ faciasından fon soruşturmasına: Kim hes -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
