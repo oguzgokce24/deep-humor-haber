@@ -2,35 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ekinc",
-    "güneş",
-    "hasan",
-    "kompl",
-    "spor",
-    "yazdı",
-    "şamil",
-    "şenol"
-   ],
-   "tok": [
-    "aldı",
-    "efsan",
-    "ekinc",
-    "güneş",
-    "hasan",
-    "isiml",
-    "kalem",
-    "kompl",
-    "spor",
-    "trabz",
-    "yazdı",
-    "yazı",
-    "şamil",
-    "şenol"
-   ],
-   "at": "2026-11-11T19:14:47.733273+00:00"
-  },
-  {
-   "fp": [
     "bile",
     "bugün",
     "den",
@@ -18936,6 +18907,94 @@
     "örgüt"
    ],
    "at": "2026-11-13T07:13:26.776434+00:00"
+  },
+  {
+   "fp": [
+    "erişi",
+    "hizme",
+    "kesin",
+    "küres",
+    "micro",
+    "outlo",
+    "sorun",
+    "teams",
+    "uygul",
+    "yaşan"
+   ],
+   "tok": [
+    "ait",
+    "aksad",
+    "bazı",
+    "birço",
+    "dünya",
+    "erişi",
+    "hizme",
+    "işlet",
+    "kayna",
+    "kesin",
+    "kulla",
+    "küres",
+    "micro",
+    "neden",
+    "olmad",
+    "outlo",
+    "siber",
+    "siste",
+    "sorun",
+    "teams",
+    "uygul",
+    "yapay",
+    "yaşan",
+    "zeka",
+    "çalış",
+    "çapın",
+    "çözüm",
+    "özell",
+    "ülked",
+    "üzeri",
+    "şirke"
+   ],
+   "at": "2026-11-13T07:16:43.689160+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "etkil",
+    "micro",
+    "sorun"
+   ],
+   "tok": [
+    "aksam",
+    "anthr",
+    "açtı",
+    "aşan",
+    "aşkın",
+    "başla",
+    "devam",
+    "ediyo",
+    "enteg",
+    "erişi",
+    "etkil",
+    "gider",
+    "hizme",
+    "kesin",
+    "micro",
+    "opena",
+    "outlo",
+    "platf",
+    "saati",
+    "saatt",
+    "sorun",
+    "süred",
+    "teams",
+    "yapay",
+    "yol",
+    "zekâ",
+    "çalış",
+    "ülked",
+    "ülkey"
+   ],
+   "at": "2026-11-13T07:16:44.650860+00:00"
   }
  ],
  "posted": [
@@ -21722,13 +21781,9 @@
   "f452c30ad2": 1,
   "689924526e": 1,
   "61798377bc": 2,
-  "0cb5422cfe": 2,
-  "a8b2570d22": 2
+  "a200f6e370": 1
  },
  "fail_log": [
-  "2026-11-13T06:22 Hakkı Özdal: Tek haneli enflasyon perisi yerini yüzde 30 öcü -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T06:26 Altın bir yılın dibini gördü, ardından yükselişe geçti: Piya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T06:26 Nvidia’da casusluk istifa getirdi: İstihbaratın eski yöntemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:26 Alkollü sürücünün zor anları: Yasal sınırı 23'e katladı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:37 BM: Yemen'de ağustostan bu yana 333 binden fazla kişi yerind -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T06:37 Galatasaray, Batrakov’un sözleşme şartlarında iyileştirmeye  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21765,7 +21820,10 @@
   "2026-11-13T07:10 Microsoft'ta 74 ülkeyi etkileyen kesinti: 12 saattir sorun g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:13 Ankara'da FETÖ operasyonu: 6 gözaltı var! -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T07:13 Microsoft uygulamalarında küresel kesinti: Outlook ve Teams  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T07:13 Microsoft'ta 74 ülkeyi etkileyen kesinti: 12 saattir sorun g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T07:13 Microsoft'ta 74 ülkeyi etkileyen kesinti: 12 saattir sorun g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:16 Microsoft uygulamalarında küresel kesinti: Outlook ve Teams  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:16 Microsoft'ta 74 ülkeyi etkileyen kesinti: 12 saattir sorun g -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T07:16 Akciğer kanserinde korkutan veri: 'Her 2 dakikada bir...' -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
