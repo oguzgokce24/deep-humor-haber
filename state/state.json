@@ -18755,22 +18755,53 @@
     "üzeri"
    ],
    "at": "2026-11-13T20:11:29.510432+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "30",
+    "anton",
+    "bile",
+    "finan",
+    "guter",
+    "ihtiy",
+    "karşı",
+    "katın",
+    "unu",
+    "uyum",
+    "yüzde",
+    "çıkar"
+   ],
+   "tok": [
+    "anton",
+    "ayrıl",
+    "belir",
+    "bile",
+    "cop31",
+    "fazla",
+    "finan",
+    "geliş",
+    "guter",
+    "ihtiy",
+    "iklim",
+    "kaldı",
+    "karşı",
+    "katın",
+    "medya",
+    "söyle",
+    "unu",
+    "uyum",
+    "uyumu",
+    "yeter",
+    "yüzde",
+    "çağrı",
+    "çıkar",
+    "ülkel"
+   ],
+   "at": "2026-11-13T20:24:05.656667+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "918fb491de",
-   "post_id": "529346797199852_1462790422627332",
-   "title": "Son Dakika... Akın Gürlek'ten 'fon vurgunu' açıklaması: 'Kimsenin makamı, unvanı hukuk üzerinde konum sağlamaz'",
-   "at": "2026-11-09T12:48:27.538775+00:00",
-   "yazim": "claude",
-   "metin": "Adalet Bakanı Akın Gürlek, fon soruşturması için:\n\n“Kimsenin makamı, unvanı, ekonomik gücü veya kurduğu ilişkiler kendisine hukukun üzerinde bir konum sağlayamaz.\n\nAsla hiçbir suç hiçbir suçlunun yanına kâr kalmayacaktır.”\n\n— Gürlek, fon soruşturmasında para hareketlerinin, mali bağlantıların ve malvarlığı devirlerinin somut delillerle incelendiğini söyledi.\n— Soruşturma derinleştikçe piyasa aktörlerinin ötesindeki denetim mekanizmalarına kadar uzanan bağlantıların da araştırıldığını belirtti.\n— Malvarlıklarının kaçırılmasını ve gizlenmesini önlemek için tedbirler alındığını, yurt dışına çıkarılan değerlerin geri getirilmesi için hukuki mekanizmaların işletildiğini ekledi.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/ekonomi/bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-3925973",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-akin-gurlek-ten-fon-vurgunu-aciklamasi-kimsenin-makami-unvani-hukuk-uzerinde-konum-saglamaz-2554681",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/akin-gurlekten-fon-vurgunu-aciklamasi-kimsenin-makami-unvani-hukuk-uzerinde-konum-saglamaz-4870945"
-   ]
-  },
   {
    "id": "8bd20558af",
    "post_id": "529346797199852_1462868472619527",
@@ -21331,6 +21362,17 @@
     "BirGün: https://www.birgun.net/haber/bakan-gurlekten-uc-faali-mechul-cinayet-dosyasina-iliskin-aciklama-3-tutuklama-11-gozalti-746312",
     "Karar: https://www.karar.com/guncel-haberler/bakan-gurlek-acikladi-3-faili-mechul-cinayet-daha-aydinlatildi-2084019"
    ]
+  },
+  {
+   "id": "978c735455",
+   "post_id": "529346797199852_1467838658789175",
+   "title": "Antonio Guterres: “Uyum finansmanını üç katına çıkarmak bile ihtiyacın yüzde 30’unu karşılamıyor”",
+   "at": "2026-11-13T20:24:05.656667+00:00",
+   "yazim": "claude",
+   "metin": "Antonio Guterres:\n\n“Uyum finansmanını üç katına çıkarmak bile ihtiyacın yüzde 30’unu karşılamıyor.”\n\nCOP31'de iklim uyumu için ayrılan finansmanın yetersiz kaldığını söyleyen Guterres, gelişmiş ülkelere daha fazla finansman çağrısı yaptı.",
+   "sources": [
+    "Medyascope: https://medyascope.tv/2026/11/13/antonio-guterres-mevcut-iklim-fonlari-yeterli-degil/"
+   ]
   }
  ],
  "fails": {
@@ -21594,12 +21636,10 @@
   "9c71415da3": 1,
   "9cd5fd9ddc": 2,
   "45cc9b61dc": 1,
-  "3f2e8ed7fa": 2
+  "3f2e8ed7fa": 2,
+  "46a55c2a3c": 1
  },
  "fail_log": [
-  "2026-11-13T19:03 Kalabalık büyüdükçe sorumluluğun azalması: Seyirci Etkisi ne -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:06 HABAŞ patlamasına dair Türk Metal'den açıklama: \"Artık susma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:06 44. Altın Joystick Ödülleri’nde yılın oyunu ve diğer kazanan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:06 Yeni Parti binanın ruhsatsız olduğu için mühürlendiğini belg -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:10 İBB Başkan Vekili Nuri Aslan duyurdu: Saraçhane binasının ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:10 HABAŞ patlamasına dair Türk Metal'den açıklama: \"Artık susma -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21636,12 +21676,15 @@
   "2026-11-13T19:55 Türkiye'ya karşı sahaya çıkmıştı! Galatasaray transfer liste -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:59 Mükemmel olmaya çalışarak insanları uzaklaştırmak: Kusursuzl -> ValueError: yanıt okunamadı",
   "2026-11-13T19:59 Mükemmel olmaya çalışarak insanları uzaklaştırmak: Kusursuzl -> ValueError: yanıt okunamadı",
-  "2026-11-13T19:59 Mükemmel olmaya çalışarak insanları uzaklaştırmak: Kusursuzl -> ValueError: yanıt okunamadı"
+  "2026-11-13T19:59 Mükemmel olmaya çalışarak insanları uzaklaştırmak: Kusursuzl -> ValueError: yanıt okunamadı",
+  "2026-11-13T20:24 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
+  "2026-11-13T20:24 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı",
+  "2026-11-13T20:24 Fona 300 milyonla girip 28 milyarla çıkan iş insanı kim? \"Tü -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121331508535595329",
+   "since_id": "2121337942094303268",
    "started": true
   },
   "ajansmuhbir1923": {
