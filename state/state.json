@@ -2,135 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bin",
-    "ceza",
-    "lira"
-   ],
-   "tok": [
-    "amacı",
-    "beşik",
-    "bin",
-    "ceza",
-    "idar",
-    "indi",
-    "inen",
-    "karış",
-    "kavga",
-    "otomo",
-    "sürüc",
-    "tartı",
-    "topla",
-    "trafi",
-    "çekme"
-   ],
-   "at": "2026-11-12T08:04:22.813322+00:00"
-  },
-  {
-   "fp": [
-    "6",
-    "ağır",
-    "düşen",
-    "istan",
-    "kadın",
-    "katta",
-    "ncı",
-    "yaral"
-   ],
-   "tok": [
-    "altın",
-    "alınd",
-    "ağır",
-    "balko",
-    "düşen",
-    "düşer",
-    "evin",
-    "evini",
-    "hasta",
-    "kadın",
-    "kaldı",
-    "katta",
-    "ncı",
-    "olay",
-    "sulta",
-    "tedav",
-    "yaşad",
-    "şekil"
-   ],
-   "at": "2026-11-12T08:07:45.306271+00:00"
-  },
-  {
-   "fp": [
-    "0",
-    "100",
-    "9",
-    "artır",
-    "açık",
-    "dünya",
-    "litre",
-    "otomo",
-    "satış",
-    "yakan",
-    "yakıy"
-   ],
-   "tok": [
-    "artır",
-    "açık",
-    "bilin",
-    "dünya",
-    "holla",
-    "litre",
-    "model",
-    "otomo",
-    "satış",
-    "yakan",
-    "yakıy",
-    "çıktı"
-   ],
-   "at": "2026-11-12T08:11:03.577626+00:00"
-  },
-  {
-   "fp": [
-    "davas",
-    "gözle",
-    "gün",
-    "ibb",
-    "incel",
-    "kriti",
-    "tutuk"
-   ],
-   "tok": [
-    "alına",
-    "arala",
-    "ardın",
-    "bekle",
-    "bulun",
-    "davas",
-    "deki",
-    "devam",
-    "duruş",
-    "edece",
-    "ekrem",
-    "gözle",
-    "gün",
-    "günün",
-    "ibb",
-    "imamo",
-    "incel",
-    "kriti",
-    "nun",
-    "salon",
-    "sanığ",
-    "seçil",
-    "siliv",
-    "tahli",
-    "taleb",
-    "yapıl",
-    "yargı"
-   ],
-   "at": "2026-11-12T08:11:04.087434+00:00"
-  },
-  {
-   "fp": [
     "başka",
     "beled",
     "seçim"
@@ -18827,22 +18698,66 @@
     "çıkmı"
    ],
    "at": "2026-11-13T19:58:56.655348+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "aydın",
+    "bakan",
+    "cinay",
+    "faili",
+    "gürle",
+    "meçhu"
+   ],
+   "tok": [
+    "adale",
+    "adamı",
+    "adli",
+    "akın",
+    "alı",
+    "alınd",
+    "aydın",
+    "belir",
+    "bitli",
+    "bulun",
+    "bursa",
+    "cinay",
+    "dosya",
+    "duyur",
+    "faali",
+    "faili",
+    "gürle",
+    "halde",
+    "hiçbi",
+    "iddia",
+    "ilişk",
+    "izin",
+    "kadın",
+    "kaybo",
+    "keste",
+    "kimli",
+    "kontr",
+    "meçhu",
+    "musta",
+    "olmak",
+    "tatva",
+    "teki",
+    "ten",
+    "veril",
+    "verme",
+    "yenid",
+    "yürüt",
+    "yıldı",
+    "zaman",
+    "çıkar",
+    "öldür",
+    "örtül",
+    "üzeri"
+   ],
+   "at": "2026-11-13T20:11:29.510432+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3145026113",
-   "post_id": "529346797199852_1462777402628634",
-   "title": "İBB davasında 106'ncı duruşma: Murat Çalık tahliyesini istedi",
-   "at": "2026-11-09T12:35:54.715093+00:00",
-   "yazim": "claude",
-   "metin": "Tutuklu Murat Çalık, İBB davasında tahliye talebini yineledi:\n\n“Ben kimseden ayrıcalık, merhamet beklemiyorum. Merhamet beklemiyorum. Yalnızca yaşam hakkımın korunmasını istiyorum.”\n\n— Beylikdüzü Belediye Başkanı Çalık, yaklaşık 20 aydır tutuklu. Silivri'deki 106. duruşmada sağlık durumunu anlattı.\n\n— Çalık, iki kez kanser geçirdiğini ve Adli Tıp Kurumu'nun ilk hastane raporundaki değerleri değiştirdiğini iddia etti.\n\n— Boynunda takip edilen kitleler olduğunu söyleyen Çalık, lenfoma şüphesiyle yeniden ameliyat olduğunu belirtti.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/ibb-davasinda-caliktan-yasam-hakki-cagrisi-p379570",
-    "Evrensel: https://www.evrensel.net/haber/6008631/ibb-davasinda-106-nci-durusma-murat-calik-tahliyesini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/guncel-haberler/murat-caliktan-ibb-davasinda-carpici-iddia-adli-tip-saglik-raporumdaki-2083178"
-   ]
-  },
   {
    "id": "918fb491de",
    "post_id": "529346797199852_1462790422627332",
@@ -21399,6 +21314,22 @@
    "metin": "Galatasaray, Napoli'deki Kevin De Bruyne'yi transfer listesine aldı.\n\n— De Bruyne Napoli'den ayrılmaya karar verirse Galatasaray harekete geçebilecek.\n— Sarı-kırmızılılar geçen yaz da oyuncuyu kadrosuna katmak istemişti, ama De Bruyne Napoli'yi tercih etmişti.\n— Napoli'nin bu sezon yaşadığı sıkıntılar ve oyuncunun takımdaki konumu ayrılık ihtimalini artırıyor.\n— Hollanda basınına göre en ciddi adaylardan biri PSV Eindhoven ve kulüp oyuncunun temsilcileriyle temasa geçti.\n— Henüz resmi bir anlaşma açıklanmadı.",
    "sources": [
     "Sözcü Spor: https://www.sozcu.com.tr/turkiye-ya-karsi-sahaya-cikmisti-galatasaray-transfer-listesine-aldi-p381136"
+   ]
+  },
+  {
+   "id": "18be22a6ff",
+   "post_id": "529346797199852_1467831352123239",
+   "title": "Gürlek açıkladı: Üç cinayet soruşturmasında 3 tutuklama, 11 gözaltı",
+   "at": "2026-11-13T20:11:29.510432+00:00",
+   "yazim": "claude",
+   "metin": "Adalet Bakanı Akın Gürlek, Bursa ve Bitlis'teki üç faili meçhul cinayet dosyası için:\n\n“Hiçbir cinayetin üzerinin zamanla örtülmesine izin vermeyeceğiz. 76 dosyada 83 cinayeti faili meçhul olmaktan çıkardık.”\n\n— Mustafakemalpaşa'da 2010'da kaybolup öldürülmüş halde bulunan bir adamın dosyasında bir şüpheli tutuklandı.\n— Tatvan'da 2006'da ölü bulunan, kimliği belirlenemeyen kadının dosyasında iki şüpheli tutuklandı, iki kişi hakkında adli kontrol kararı verildi.\n— 2012'de kaybolan bir adamın öldürüldüğü iddiasıyla yürütülen Kestel soruşturmasında 11 şüpheli gözaltına alındı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/adalet-bakani-gurlek-3-faili-mechul-cinayetin-daha-aydinlatildigini-duyurdu/4124605",
+    "CNN Türk: https://www.cnnturk.com/turkiye/adalet-bakani-gurlek-duyurdu-3-faili-mechul-daha-aydinlatildi-3492990",
+    "Habertürk: https://www.haberturk.com/gundem/adalet-bakani-gurlek-76-dosyadaki-83-cinayetin-aydinlatildigini-duyurdu-3927219",
+    "Sözcü: https://www.sozcu.com.tr/gurlek-acikladi-uc-cinayet-sorusturmasinda-3-tutuklama-11-gozalti-p381122",
+    "BirGün: https://www.birgun.net/haber/bakan-gurlekten-uc-faali-mechul-cinayet-dosyasina-iliskin-aciklama-3-tutuklama-11-gozalti-746312",
+    "Karar: https://www.karar.com/guncel-haberler/bakan-gurlek-acikladi-3-faili-mechul-cinayet-daha-aydinlatildi-2084019"
    ]
   }
  ],
