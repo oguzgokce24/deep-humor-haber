@@ -18603,6 +18603,68 @@
     "öncek"
    ],
    "at": "2026-11-13T18:53:40.365429+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "batı",
+    "marks",
+    "nedir",
+    "orkun",
+    "yazdı",
+    "yener"
+   ],
+   "tok": [
+    "anti",
+    "batı",
+    "eleşt",
+    "emper",
+    "jeopo",
+    "krizl",
+    "marks",
+    "medya",
+    "nedir",
+    "orkun",
+    "sosya",
+    "tartı",
+    "yazdı",
+    "yazı",
+    "yener",
+    "çin",
+    "örgüt",
+    "üzeri"
+   ],
+   "at": "2026-11-13T19:00:11.346679+00:00"
+  },
+  {
+   "fp": [
+    "dönüy",
+    "erişi",
+    "iyile",
+    "micro",
+    "norma",
+    "ölçüd",
+    "öneml"
+   ],
+   "tok": [
+    "copil",
+    "dönüy",
+    "erişi",
+    "hafif",
+    "hizme",
+    "iyile",
+    "kadem",
+    "küres",
+    "micro",
+    "norma",
+    "outlo",
+    "sorun",
+    "taki",
+    "teams",
+    "ölçüd",
+    "öneml"
+   ],
+   "at": "2026-11-13T19:00:11.848651+00:00"
   }
  ],
  "posted": [
@@ -21438,14 +21500,10 @@
   "c999b18a64": 1,
   "565ae87d4b": 1,
   "22da04378c": 1,
-  "32bcdfc370": 2,
-  "881d9c7e9f": 2,
-  "4a32cceae9": 1
+  "4a32cceae9": 1,
+  "6d8f1bd689": 1
  },
  "fail_log": [
-  "2026-11-13T18:13 HABAŞ: Kötü niyetli paylaşımları hassasiyetle takip ediyoruz -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:16 Türkiye Sigorta fon kazancını TMSF'ye iade etti: 1,6 milyar  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:16 Hareket Yönetimi: “Demokratik siyasi çözüm irademiz tamdır” -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:16 Bahçelievler'de beton pompası yayaya çarptı: Bir kişi hayatı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:20 OpenAI'dan 'ChatGPT Wallet': Yapay zeka sizin yerinize ödeme -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:20 Hareket Yönetimi: “Demokratik siyasi çözüm irademiz tamdır” -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21482,7 +21540,10 @@
   "2026-11-13T18:53 Microsoft normale dönüyor: Erişim önemli ölçüde iyileşti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:56 Fatih Terim'in 83 bin TL'lik restoran hesabını ödeme yöntemi -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T18:56 Yener Orkunoğlu yazdı: Batı Marksizmi nedir? (2) -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T18:56 Microsoft normale dönüyor: Erişim önemli ölçüde iyileşti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T18:56 Microsoft normale dönüyor: Erişim önemli ölçüde iyileşti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:00 Yener Orkunoğlu yazdı: Batı Marksizmi nedir? (2) -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:00 Microsoft normale dönüyor: Erişim önemli ölçüde iyileşti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T19:00 44. Altın Joystick Ödülleri’nde yılın oyunu ve diğer kazanan -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
