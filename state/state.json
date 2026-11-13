@@ -2,36 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "sıkın"
-   ],
-   "tok": [
-    "ancak",
-    "anlam",
-    "belir",
-    "bilan",
-    "ciddi",
-    "dönem",
-    "habaş",
-    "katli",
-    "kazas",
-    "müfet",
-    "savaş",
-    "sebep",
-    "sonra",
-    "sözle",
-    "sıkın",
-    "tepki",
-    "vedat",
-    "yaşan",
-    "çalış",
-    "çeken",
-    "ışıkh"
-   ],
-   "at": "2026-11-12T00:03:04.006076+00:00"
-  },
-  {
-   "fp": [
     "10",
     "alarm",
     "başın",
@@ -18905,6 +18875,43 @@
     "özgür"
    ],
    "at": "2026-11-13T12:00:19.038206+00:00"
+  },
+  {
+   "fp": [
+    "dikka",
+    "hafta",
+    "sonu"
+   ],
+   "tok": [
+    "başla",
+    "bekle",
+    "bolu",
+    "cumar",
+    "derec",
+    "dikka",
+    "etkil",
+    "geliy",
+    "geril",
+    "geçiş",
+    "günü",
+    "hafta",
+    "hava",
+    "olmas",
+    "pazar",
+    "planı",
+    "sağan",
+    "sonu",
+    "soğuk",
+    "sıcak",
+    "sınav",
+    "var",
+    "yapan",
+    "yerel",
+    "yolla",
+    "çıkma",
+    "öğled"
+   ],
+   "at": "2026-11-13T12:03:35.549407+00:00"
   }
  ],
  "posted": [
@@ -21711,15 +21718,11 @@
   "a248b12a3b": 1,
   "cf56966758": 1,
   "4ca5210fef": 1,
-  "f6718105ce": 1,
+  "f6718105ce": 2,
   "00036bd3e3": 1,
-  "9c72267c07": 2,
-  "f255245530": 1
+  "f255245530": 2
  },
  "fail_log": [
-  "2026-11-13T11:14 3 saatlik yol 35 dakikaya düşecek: Yeni otoyolun trafiğe açı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:17 18 işçinin öldüğü HABAŞ'ta telefon yasağı iddiası: Fabrika ö -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T11:17 2026'nın bitmesine 48 gün kaldı. -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:17 Şanlıurfa’da kavgada kan döküldü: Silahla vurulan şahıs yaşa -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:20 5 teknoloji devine yapay zeka davası: Çalışmalar durdurulsun -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T11:20 IEA: Küresel petrol arzı talebi aştı, Avrupa'da motorin fiya -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -21756,7 +21759,10 @@
   "2026-11-13T11:57 Umberto Eco anısına düzenlenecek: Kara Hafta İstanbul Festiv -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:00 İstanbul'da korkutan manzara: 60 yıllık bina kalaslarla ayak -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T12:00 Bolu’da hafta sonu planı yapanlar dikkat: Sağanak ve soğuk h -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T12:00 Selvi'den 'dokunulmazlık' iddiası: 'Özel ve 10 vekil için ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
+  "2026-11-13T12:00 Selvi'den 'dokunulmazlık' iddiası: 'Özel ve 10 vekil için ta -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T12:03 Bolu’da hafta sonu planı yapanlar dikkat: Sağanak ve soğuk h -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T12:03 Umberto Eco anısına düzenlenecek: Kara Hafta İstanbul Festiv -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
+  "2026-11-13T12:03 Malatya'daki helikopter kazasında dört asker hayatını kaybet -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."
  ],
  "x": {
   "bpthaber": {
