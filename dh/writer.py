@@ -311,6 +311,33 @@ def fallback(cluster) -> dict:
 LAST_ERRORS: list[str] = []
 
 
+OLAY = re.compile(r"çöktü|çukur|kaza|yangın|patlama|öldü|hayatını kaybet|yaralandı|sel |su bask|heyelan|"
+                  r"deprem|cinayet|bıçak|silah|saldırı|kayboldu|ölü bulundu|devrildi|çarpıştı|yıkıldı|"
+                  r"zehirlen|boğul|düştü|göçük", re.I)
+YER = re.compile(r"[A-ZÇĞİÖŞÜ][\wçğıöşüâîû]+['’](?:da|de|ta|te|nda|nde|daki|deki|ın|in|un|ün|nın|nin|nun|nün)\b")
+
+
+ILLER = ("Adana Adıyaman Afyonkarahisar Ağrı Amasya Ankara Antalya Artvin Aydın Balıkesir Bilecik Bingöl Bitlis Bolu "
+         "Burdur Bursa Çanakkale Çankırı Çorum Denizli Diyarbakır Edirne Elazığ Erzincan Erzurum Eskişehir Gaziantep "
+         "Giresun Gümüşhane Hakkari Hatay Isparta Mersin İstanbul İzmir Kars Kastamonu Kayseri Kırklareli Kırşehir "
+         "Kocaeli Konya Kütahya Malatya Manisa Kahramanmaraş Mardin Muğla Muş Nevşehir Niğde Ordu Rize Sakarya Samsun "
+         "Siirt Sinop Sivas Tekirdağ Tokat Trabzon Tunceli Şanlıurfa Uşak Van Yozgat Zonguldak Aksaray Bayburt Karaman "
+         "Kırıkkale Batman Şırnak Bartın Ardahan Iğdır Yalova Karabük Kilis Osmaniye Düzce").split()
+
+
+def _check_place(w: dict):
+    """Olay haberinde (kaza, çökme, yangın, cinayet…) ilk paragraf olayın NEREDE olduğunu söylemeli."""
+    if (w.get("category") or "") == "SPOR":
+        return
+    first = re.sub(r"\*\*", "", w["text"]).strip().split("\n\n")[0]
+    if re.match(r"^[^:\n]{3,60}:\s*$", first.split("\n")[0]):
+        return                                  # alıntı biçimi ("Ad Soyad:")
+    has_place = YER.search(first) or any(il in first for il in ILLER) or re.search(r"[A-ZÇĞİÖŞÜ]\w+ merkezli", first)
+    if OLAY.search(first) and not has_place:
+        raise ValueError("ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', "
+                         "'Çankaya'da') ilk cümleye ekle")
+
+
 def write(cluster, model: str, log=print) -> dict | None:
     """Anahtar varsa metni Claude yazar. Reddedilen yanıt, ret nedeniyle birlikte tekrar yazdırılır (3 deneme).
     Yine olmazsa, temiz bir yedek metin kuralları geçiyorsa o kullanılır; geçmiyorsa haber bu tur atlanır."""
@@ -325,7 +352,9 @@ def write(cluster, model: str, log=print) -> dict | None:
     feedback = ""
     for attempt in (1, 2, 3):
         try:
-            return _call_claude(src, model, key, feedback)
+            w = _call_claude(src, model, key, feedback)
+            _check_place(w)
+            return w
         except SkipStory as e:
             LAST_ERRORS.append(f"{cluster.lead().title[:60]} -> ATLANDI: {e}")
             log("  Kaynak yetersiz / somut olay yok; haber atlandı.")
