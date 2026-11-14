@@ -2,82 +2,6 @@
  "seen": [
   {
    "fp": [
-    "birbi",
-    "erdoğ",
-    "eski",
-    "klikl",
-    "metin",
-    "opera",
-    "yazar",
-    "çekiy"
-   ],
-   "tok": [
-    "aydın",
-    "birbi",
-    "dönüş",
-    "erdoğ",
-    "eski",
-    "fon",
-    "hesap",
-    "klikl",
-    "metin",
-    "savun",
-    "siyas",
-    "yazar",
-    "çekiy",
-    "ünal"
-   ],
-   "at": "2026-11-13T10:06:39.737540+00:00"
-  },
-  {
-   "fp": [
-    "hayat",
-    "kurta",
-    "molas",
-    "verdi",
-    "önces"
-   ],
-   "tok": [
-    "ayrıl",
-    "bakım",
-    "bölüm",
-    "böyle",
-    "büyük",
-    "dakik",
-    "demir",
-    "fabri",
-    "facia",
-    "geldi",
-    "gördü",
-    "habaş",
-    "izmir",
-    "işçin",
-    "işçis",
-    "kayna",
-    "kazay",
-    "kez",
-    "kurta",
-    "kurtu",
-    "meyda",
-    "molas",
-    "muhar",
-    "ndaki",
-    "patla",
-    "sırad",
-    "taki",
-    "tam",
-    "verdi",
-    "yaptı",
-    "yiri",
-    "yıldı",
-    "yıllı",
-    "çelik",
-    "önces"
-   ],
-   "at": "2026-11-13T10:06:40.460357+00:00"
-  },
-  {
-   "fp": [
     "asker",
     "başın",
     "görev",
@@ -16273,19 +16197,11 @@
   "66e96d5dc5": 1,
   "f314a6055f": 1,
   "97adf6ab5e": 1,
-  "c2cb22e769": 1,
-  "557e5bc75e": 1
+  "c2cb22e769": 2,
+  "557e5bc75e": 2,
+  "d2e4a701db": 1
  },
  "fail_log": [
-  "2026-11-14T10:09 Merab Dvalishvili: \"Serbest bırakıldığımı herkesin bilmesini -> ValueError: yanıt okunamadı",
-  "2026-11-14T10:22 Ukrayna'nın savaş alanından yaralıları tahliye etmek için ya -> ValueError: yanıt okunamadı",
-  "2026-11-14T10:22 Ukrayna'nın savaş alanından yaralıları tahliye etmek için ya -> ValueError: yanıt okunamadı",
-  "2026-11-14T10:22 Ukrayna'nın savaş alanından yaralıları tahliye etmek için ya -> ValueError: yanıt okunamadı",
-  "2026-11-14T10:22 Kivi üreticilerine fiyat şoku: Maliyet 60-65 TL, tüccar 35-3 -> ValueError: cümle yarım kalmış: '— İlçede yaklaşık'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-14T11:12 Orban'ın eski bakanına yolsuzluk soruşturması: Ormana gömülm -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-14T12:31 Mantar bolluğu: Tanımadan yemeyin -> ValueError: yanıt okunamadı",
-  "2026-11-14T15:34 Reuters duyurdu: Trump, Erdoğan'la görüşmesinin ardından ira -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-14T15:47 Binbaşı Kulaksız saldırısının firari şüphelisi 11 yıl sonra  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-14T16:25 Karaköy’den Eminönü’ne kadın zinciri: 'Cezasızlık düzeni son -> ValueError: yanıt okunamadı",
   "2026-11-14T17:21 Sergen Yalçın: \"Ben bu grupta sadece bir maç oynadım. Onu da -> ValueError: yanıt okunamadı",
   "2026-11-14T17:21 Sergen Yalçın: \"Ben bu grupta sadece bir maç oynadım. Onu da -> ValueError: yanıt okunamadı",
@@ -16316,12 +16232,21 @@
   "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
   "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
   "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
-  "2026-11-14T21:56 Netanyahu’nun birlik hükümeti çağrısına Eisenkot’tan “siyasi -> ValueError: cümle yarım kalmış: 'Likud arasında 15 Kasım'da yapılacak gör'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-14T21:56 Netanyahu’nun birlik hükümeti çağrısına Eisenkot’tan “siyasi -> ValueError: cümle yarım kalmış: 'Likud arasında 15 Kasım'da yapılacak gör'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-14T22:09 Çin'de Osmanlı tarihi dersi veren bir öğretmen, ders için Os -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:09 Çin'de Osmanlı tarihi dersi veren bir öğretmen, ders için Os -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:09 Çin'de Osmanlı tarihi dersi veren bir öğretmen, ders için Os -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:09 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:09 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:09 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:09 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:09 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:09 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121719963488862360",
+   "since_id": "2121725348391874581",
    "started": true
   },
   "ajansmuhbir1923": {
