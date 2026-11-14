@@ -2,118 +2,6 @@
  "seen": [
   {
    "fp": [
-    "cezae",
-    "değil",
-    "girme",
-    "işlem",
-    "mümkü",
-    "suç"
-   ],
-   "tok": [
-    "akp",
-    "beled",
-    "biz",
-    "can",
-    "cezae",
-    "değil",
-    "gazet",
-    "geçen",
-    "girme",
-    "güner",
-    "hücre",
-    "hüsey",
-    "itira",
-    "işlem",
-    "metre",
-    "mümkü",
-    "onlar",
-    "röpor",
-    "suç",
-    "vurgu",
-    "yaptı",
-    "yargı",
-    "yönel",
-    "çanka",
-    "özgür"
-   ],
-   "at": "2026-11-13T03:02:54.953712+00:00"
-  },
-  {
-   "fp": [
-    "emekç",
-    "fatur",
-    "kesil",
-    "krizi",
-    "rekla"
-   ],
-   "tok": [
-    "bozuk",
-    "bütçe",
-    "dayan",
-    "dizi",
-    "düşüş",
-    "emekç",
-    "etmes",
-    "fatur",
-    "gelir",
-    "geçec",
-    "istem",
-    "isten",
-    "içind",
-    "kesil",
-    "krizi",
-    "makin",
-    "oyunc",
-    "rekla",
-    "savun",
-    "sektö",
-    "sendi",
-    "set",
-    "siyas",
-    "sübva",
-    "sınıf",
-    "uzman",
-    "yaşan"
-   ],
-   "at": "2026-11-13T03:02:55.470299+00:00"
-  },
-  {
-   "fp": [
-    "daral",
-    "özgür"
-   ],
-   "tok": [
-    "alan",
-    "alanı",
-    "başın",
-    "beled",
-    "bileş",
-    "cezae",
-    "daral",
-    "deki",
-    "dolul",
-    "düşen",
-    "edild",
-    "gazet",
-    "hesap",
-    "hüküm",
-    "komed",
-    "mahkû",
-    "metre",
-    "muhal",
-    "nın",
-    "oranı",
-    "sonun",
-    "topla",
-    "toplu",
-    "yansı",
-    "özgür",
-    "öğren"
-   ],
-   "at": "2026-11-13T03:02:55.995447+00:00"
-  },
-  {
-   "fp": [
     "2",
     "ağaçl",
     "bursa",
@@ -14844,23 +14732,80 @@
     "üzeri"
    ],
    "at": "2026-11-14T14:57:05.478275+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "donba",
+    "karşı",
+    "nato",
+    "üyeli"
+   ],
+   "tok": [
+    "abd",
+    "ameri",
+    "anlaş",
+    "asker",
+    "attı",
+    "batıl",
+    "belir",
+    "biçim",
+    "daki",
+    "den",
+    "donba",
+    "ediyo",
+    "garan",
+    "getir",
+    "göre",
+    "görüş",
+    "günde",
+    "güven",
+    "hak",
+    "halk",
+    "hedef",
+    "iddia",
+    "ise",
+    "karşı",
+    "kesin",
+    "kez",
+    "konun",
+    "kriti",
+    "lider",
+    "mesel",
+    "meşru",
+    "nato",
+    "nin",
+    "nın",
+    "olaca",
+    "olur",
+    "olurs",
+    "ortay",
+    "oylam",
+    "putin",
+    "rusya",
+    "somut",
+    "soru",
+    "sorul",
+    "sunul",
+    "tamam",
+    "tan",
+    "tekli",
+    "topra",
+    "ukray",
+    "yinel",
+    "zelen",
+    "çekil",
+    "çıkıy",
+    "öneri",
+    "ülkes",
+    "üye",
+    "üyeli",
+    "üzeri"
+   ],
+   "at": "2026-11-14T15:09:46.236837+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fc64e4244e",
-   "post_id": "529346797199852_1463832559189785",
-   "title": "Financial Times: Netanyahu, Trump'ı ikna etmek için her gün arıyor",
-   "at": "2026-11-10T08:44:53.726023+00:00",
-   "yazim": "claude",
-   "metin": "Financial Times'ın haberine göre İsrail Başbakanı Binyamin Netanyahu, ABD Başkanı Donald Trump'ı her gün arayarak İran'a yeni saldırı başlatması için baskı yapıyor.\n\n— Bu bilgi, gazetenin görüşmeleri bilen isimsiz bir kaynağından aktarılıyor.\n\n— Trump ise Beyaz Saray'da İran'la görüşmelerin iyi gittiğini, sürecin yakında biteceğini umduğunu ve yeni bir askeri harekata gerek olmadığını söyledi.\n\n— İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Rızai ise ABD'yle görüşmeleri \"hayali\" olarak nitelendirdi ve Washington'a yedi şart sundu.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/financial-times-netanyahu-irana-yeni-saldirilar-baslatmaya-ikna-etmek-icin-trumpi-her-gun-ariyor-962775.html",
-    "Habertürk: https://www.haberturk.com/dunya/ft-yazdi-netanyahu-trump-i-her-gun-ariyor-3926204",
-    "BirGün: https://www.birgun.net/haber/financial-times-netanyahu-trump-i-ikna-etmek-icin-her-gun-ariyor-745574",
-    "Diken: https://www.diken.com.tr/ft-netanyahu-irana-yeni-saldiri-icin-her-gun-trumpi-ariyor/?utm_source=rss&utm_medium=rss&utm_campaign=ft-netanyahu-irana-yeni-saldiri-icin-her-gun-trumpi-ariyor"
-   ]
-  },
   {
    "id": "86e109a095",
    "post_id": "529346797199852_1463840089189032",
@@ -17413,6 +17358,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/koyde-yasli-ciftin-aci-olumu-zehirlenerek-hayatini-kaybettiler-2556134",
     "Karar: https://www.karar.com/guncel-haberler/corumda-yasli-ciftin-aci-sonu-gunler-once-olmusler-2084148"
    ]
+  },
+  {
+   "id": "e3467e847a",
+   "post_id": "529346797199852_1468596605380047",
+   "title": "ABD'den Ukrayna'ya kritik teklif: Donbas'a karşılık NATO üyeliği",
+   "at": "2026-11-14T15:09:46.236837+00:00",
+   "yazim": "claude",
+   "metin": "Zelenskiy, ABD'nin Donbas önerisi için:\n\n“Amerikalılar bir mesele ortaya attı: ‘Ukrayna NATO'ya üye olursa ne olur? Ukrayna Donbas'tan çekilir mi?’ Bu soru ilk kez soruldu.”\n\n— Zelenskiy'ye göre ABD, Ukrayna'nın Donbas'tan çekilmesi karşılığında NATO üyeliğini gündeme getirdi. Ukrayna lideri, ülkesinin topraklarından çekilmeyeceğini yineledi.\n— Rusya Donbas'ın tamamında hak iddia ediyor. Putin de Ukrayna'nın NATO üyeliğine kesin biçimde karşı çıkıyor.\n— Zelenskiy, NATO ve AB'den somut güvenlik garantileri üzerinde görüşüldüğünü söyledi. Bir anlaşma olursa konunun halk oylamasına sunulacağını belirtti.",
+   "sources": [
+    "DW Türkçe: https://www.dw.com/tr/abd-den-ukrayna-ya-kritik-teklif-donbas-a-karşılık-nato-üyeliği/a-79948459?maca=tur-rss-tur-all-1495-xml-mrss",
+    "Evrensel: https://www.evrensel.net/haber/6009477/zelenskiy-abd-donbas-karsiliginda-nato-uyeligini-gundeme-getirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -17692,7 +17649,7 @@
   "20dda61241": 1,
   "de2a9bf25e": 1,
   "50b136853a": 1,
-  "92d4b354c8": 1
+  "92d4b354c8": 2
  },
  "fail_log": [
   "2026-11-14T05:37 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
@@ -17739,7 +17696,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121616619025940646",
+   "since_id": "2121620918153916538",
    "started": true
   },
   "ajansmuhbir1923": {
