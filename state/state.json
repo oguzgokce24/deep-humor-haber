@@ -52,132 +52,6 @@
     "uzman",
     "şehit"
    ],
-   "at": "2026-11-12T21:52:34.909447+00:00"
-  },
-  {
-   "fp": [
-    "gazet",
-    "neyi",
-    "sadec",
-    "savun"
-   ],
-   "tok": [
-    "anlat",
-    "arı",
-    "avuka",
-    "bilge",
-    "birgü",
-    "cezae",
-    "gazet",
-    "gökde",
-    "hakim",
-    "ismai",
-    "karşı",
-    "kasım",
-    "koşul",
-    "neyi",
-    "nurca",
-    "nın",
-    "sadec",
-    "savun",
-    "sürec",
-    "tayla",
-    "temsi",
-    "yargı",
-    "çıkac"
-   ],
-   "at": "2026-11-12T21:52:36.313913+00:00"
-  },
-  {
-   "fp": [
-    "başba",
-    "bitti",
-    "gidip",
-    "israi",
-    "olabi",
-    "trump"
-   ],
-   "tok": [
-    "abd",
-    "anlat",
-    "asker",
-    "başba",
-    "bitti",
-    "bulun",
-    "deki",
-    "deste",
-    "dikka",
-    "donal",
-    "gidip",
-    "ihtim",
-    "iran",
-    "israi",
-    "olabi",
-    "orada",
-    "oranı",
-    "popül",
-    "süren",
-    "trump",
-    "verdi",
-    "yönel",
-    "yüzde",
-    "çeken",
-    "öne"
-   ],
-   "at": "2026-11-12T21:56:00.090383+00:00"
-  },
-  {
-   "fp": [
-    "4",
-    "asker",
-    "cnn",
-    "düşen",
-    "düştü",
-    "helik",
-    "ihtim",
-    "isim",
-    "kazas",
-    "kimli",
-    "malat",
-    "türk",
-    "uzman",
-    "şehit"
-   ],
-   "tok": [
-    "alan",
-    "asker",
-    "asıld",
-    "baba",
-    "bayra",
-    "cnn",
-    "daki",
-    "duyur",
-    "düşen",
-    "düşme",
-    "düştü",
-    "görün",
-    "hangi",
-    "havad",
-    "helik",
-    "ihtim",
-    "isim",
-    "kamer",
-    "kazas",
-    "kazay",
-    "kimli",
-    "konuş",
-    "malat",
-    "milli",
-    "neden",
-    "ocakl",
-    "savun",
-    "sebep",
-    "skors",
-    "sonuc",
-    "tipi",
-    "uzman",
-    "şehit"
-   ],
    "at": "2026-11-12T22:02:46.984083+00:00"
   },
   {
@@ -15759,20 +15633,34 @@
     "özgür"
    ],
    "at": "2026-11-14T09:43:26.558011+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "istan",
+    "kaçak",
+    "opera",
+    "silah"
+   ],
+   "tok": [
+    "alınd",
+    "düzen",
+    "edirn",
+    "imala",
+    "kaçak",
+    "namlu",
+    "silah",
+    "taban",
+    "ticar",
+    "topla",
+    "yönel",
+    "zanlı",
+    "önlen"
+   ],
+   "at": "2026-11-14T09:56:43.658570+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6d0a242ae6",
-   "post_id": "529346797199852_1463526482553726",
-   "title": "Derinleşen kriz İŞKUR raporunda: Gençler işsiz, emekli çalışmaya mecbur",
-   "at": "2026-11-10T02:43:04.363834+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'de kayıtlı işsiz sayısı, İŞKUR'un Ekim verilerine göre 2,2 milyonu aştı.\n\n— Bir yılı aşkın süredir iş bekleyen 228 bin kişinin yüzde 58'ini 20-34 yaş arasındaki gençler oluşturuyor.\n\n— Düşük emekli aylıkları nedeniyle 60 yaş üstü 32 bin kişi de iş aramak zorunda kaldı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/derinlesen-kriz-iskur-raporunda-gencler-issiz-emekli-calismaya-mecbur-745510"
-   ]
-  },
   {
    "id": "bb98f0e4c4",
    "post_id": "529346797199852_1463537399219301",
@@ -18324,6 +18212,18 @@
     "Medyascope: https://medyascope.tv/2026/11/14/yeni-parti-ilk-kurultayini-yapiyor-ozgur-ozel-kursude/",
     "Karar: https://www.karar.com/guncel-haberler/yeni-partiye-kurultayda-surpriz-katilim-tutuklu-7-belediye-baskanindan-2084084"
    ]
+  },
+  {
+   "id": "012384a377",
+   "post_id": "529346797199852_1468357805403927",
+   "title": "İstanbul'da silah kaçakçılığı operasyonu: 4 şüpheli gözaltında",
+   "at": "2026-11-14T09:56:43.658570+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da silah kaçakçılığı operasyonunda 4 şüpheli gözaltına alındı.\n\n— Operasyonlarda toplam 282 tabanca ve 150 namlu ele geçirildi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/istanbul-ve-edirnede-silah-kacakciligi-operasyonlarinda-4-zanli-yakalandi-3493088",
+    "Sözcü: https://www.sozcu.com.tr/istanbulda-silah-kacakciligi-operasyonu-4-supheli-gozaltinda-p381265"
+   ]
   }
  ],
  "fails": {
@@ -18647,7 +18547,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121537106866524431",
+   "since_id": "2121540071283384414",
    "started": true
   },
   "ajansmuhbir1923": {
