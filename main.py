@@ -213,6 +213,26 @@ def find_new(cfg, st):
         if now - datetime.fromisoformat(p["at"]) < timedelta(hours=36):
             raw = vtokens(p["title"] + " " + p.get("metin", ""))
             recent_raw.append(({t for t in raw if vstrong(t)}, raw))
+    # Kesin tekrar kontrolü: son 48 saatte paylaşılan haberlerin bağlantıları ve başlık kelimeleri
+    recent_links, recent_titles = set(), []
+    for p in st.get("posted", []):
+        if now - datetime.fromisoformat(p["at"]) < timedelta(hours=48):
+            for src in p.get("sources", []):
+                m = re.search(r"https?://\S+", src)
+                if m:
+                    recent_links.add(m.group(0).rstrip(").,"))
+            recent_titles.append(vtokens(p["title"]))
+
+    def same_story(c) -> bool:
+        if any(i.link in recent_links for i in c.items):
+            return True                          # aynı haber bağlantısı daha önce paylaşılmış
+        for i in c.items:
+            tt = vtokens(i.title)
+            for old in recent_titles:
+                if tt and old and len(tt & old) / len(tt | old) >= 0.7:
+                    return True                  # başlık neredeyse aynı (zayıf kelimeler dahil)
+        return False
+
     fresh = []
     def score(c):
         sc = interest_score(c)
@@ -231,6 +251,8 @@ def find_new(cfg, st):
         if any((len(lt & pt) >= 2 or (sport_now and lt & pt and is_sport(p["title"])))
                and not new_development(c.lead().title, vtokens(p["title"] + " " + p.get("metin", "")))
                for pt, p in zip(last_toks, last)):
+            continue
+        if same_story(c):
             continue
         fp = c.fingerprint
         titles = [i.title for i in c.items]
