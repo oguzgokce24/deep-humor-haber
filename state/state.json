@@ -17822,24 +17822,71 @@
     "ünün"
    ],
    "at": "2026-11-14T02:21:11.040273+00:00"
+  },
+  {
+   "fp": [
+    "binas",
+    "dikil",
+    "edilm",
+    "eski",
+    "hafız",
+    "halke",
+    "kent",
+    "tehdi",
+    "yok",
+    "yıkım"
+   ],
+   "tok": [
+    "başvu",
+    "belle",
+    "binan",
+    "binas",
+    "binay",
+    "daki",
+    "dikil",
+    "durdu",
+    "duyur",
+    "edilm",
+    "eski",
+    "görüy",
+    "hafız",
+    "halke",
+    "ihale",
+    "ilçes",
+    "isted",
+    "istiy",
+    "izmir",
+    "kapsa",
+    "karşı",
+    "kasım",
+    "kent",
+    "korum",
+    "korun",
+    "kurul",
+    "mimar",
+    "müdür",
+    "nün",
+    "nın",
+    "oda",
+    "odası",
+    "parça",
+    "sağlı",
+    "sürec",
+    "tarih",
+    "tehdi",
+    "tesci",
+    "tmmob",
+    "yapan",
+    "yapın",
+    "yok",
+    "yıkım",
+    "öneml",
+    "şubes"
+   ],
+   "at": "2026-11-14T02:33:52.987788+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b21995e0b6",
-   "post_id": "529346797199852_1463217459251295",
-   "title": "Fransa buzdolabı saldırılarından İran'ı sorumlu tuttu",
-   "at": "2026-11-09T19:27:47.285073+00:00",
-   "yazim": "claude",
-   "metin": "Fransa Dışişleri Bakanı Jean-Noël Barrot, ekimdeki market saldırısı için:\n\n“Bu saldırının sorumluluğunun İran İslam Cumhuriyeti’ne bağlı İslam Devrim Muhafızları Ordusu’na ait olduğunu doğrulayabilirim.”\n\n— Ekim ayının 11-12'sinde Fransa'daki yüzlerce markette buzdolapları devre dışı kaldı. Bazılarının sıcaklığı 50 dereceye kadar çıktı ve çok sayıda ürün çöpe gitti.\n\n— Barrot, İran'ın Paris büyükelçisinin Dışişleri Bakanlığı'na çağrıldığını ve protesto notası verildiğini açıkladı.\n\n— Barrot, saldırının karşılıksız kalmayacağını ve sorumlulara Avrupa düzeyinde yaptırım uygulanacağını söyledi.\n\n— İran, kötü niyetli siber operasyon yürüttüğü yönündeki iddiaları reddediyor.\n\n— Bu ay ise Avrupa genelinde 100'den fazla işletmeyi vuran ikinci bir saldırı dalgası yaşandı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/fransa-disisleri-bakani-barrot-marketlere-siber-saldirinin-sorumlulugu-iran-devrim-muhafizlarina-ait/4117829",
-    "DW Türkçe: https://www.dw.com/tr/fransa-buzdolabı-saldırılarından-iran-ı-sorumlu-tuttu/a-79904747?maca=tur-rss-tur-all-1495-xml-mrss",
-    "Habertürk: https://www.haberturk.com/dunya/fransa-siber-saldiridan-iran-i-sorumlu-tuttu-3926109",
-    "Diken: https://www.diken.com.tr/fransa-marketlere-siber-saldirinin-sorumlusu-iran/?utm_source=rss&utm_medium=rss&utm_campaign=fransa-marketlere-siber-saldirinin-sorumlusu-iran",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/fransa-marketleri-hedef-alan-saldiridan-irani-sorumlu-tuttu-karsiliksiz-kalmayacak-43372076"
-   ]
-  },
   {
    "id": "fec58a8625",
    "post_id": "529346797199852_1463225149250526",
@@ -20361,6 +20408,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/akp-ve-mhpnin-dokunulmazligi-fezlekelerin-yuzde-98i-muhalefete-746356"
    ]
+  },
+  {
+   "id": "04afe9f745",
+   "post_id": "529346797199852_1468065788766462",
+   "title": "Kent hafızası yok edilmesin: Dikili Eski Halkevi Binası için yıkım tehdidi",
+   "at": "2026-11-14T02:33:52.987788+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'in Dikili ilçesindeki tarihi Eski Halkevi binası yıkım tehdidiyle karşı karşıya.\n\n— TMMOB Mimarlar Odası İzmir Şubesi, İl Sağlık Müdürlüğü'nün 30 Kasım'daki ihalesinin bu binanın yıkımını da kapsadığını açıkladı.\n\n— Oda, binanın korunması için Koruma Kurulu'na tescil başvurusu yaptı.\n\n— Mimarlar Odası, yıkım ve ihale sürecinin durdurulmasını istiyor. Oda, binayı kent belleğinin önemli bir parçası olarak görüyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/kent-hafizasi-yok-edilmesin-dikili-eski-halkevi-binasi-icin-yikim-tehdidi-746341"
+   ]
   }
  ],
  "fails": {
@@ -20627,12 +20685,10 @@
   "3f2e8ed7fa": 2,
   "46a55c2a3c": 2,
   "486e7d7aa4": 2,
-  "7482134257": 1
+  "7482134257": 1,
+  "8e233566cb": 1
  },
  "fail_log": [
-  "2026-11-13T19:38 Kalabalık büyüdükçe sorumluluğun azalması: Seyirci Etkisi ne -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:42 Euronews yeni sezonunda: Daha fazla canlı haber ve sohbetle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:42 Katamaranın kaptanı telsizden yardım istedi, balıkçılar yeti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:42 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:45 Katamaranın kaptanı telsizden yardım istedi, balıkçılar yeti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:45 Euronews yeni sezonunda: Daha fazla canlı haber ve sohbetle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20669,7 +20725,10 @@
   "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
   "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
   "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
-  "2026-11-14T00:57 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı"
+  "2026-11-14T00:57 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
+  "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
+  "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
+  "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
