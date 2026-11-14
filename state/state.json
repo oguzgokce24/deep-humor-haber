@@ -2,129 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "87",
-    "darth",
-    "dolar",
-    "kılıc",
-    "milyo",
-    "satıl",
-    "vader",
-    "ışın"
-   ],
-   "tok": [
-    "alıcı",
-    "ana",
-    "bugün",
-    "bular",
-    "dalla",
-    "darth",
-    "düell",
-    "düzen",
-    "eşyas",
-    "fiyat",
-    "hatır",
-    "kulla",
-    "kılıc",
-    "müzay",
-    "oriji",
-    "pahal",
-    "rekor",
-    "satıl",
-    "star",
-    "vader",
-    "wars",
-    "üzeri",
-    "üçlem",
-    "ışın"
-   ],
-   "at": "2026-11-13T08:16:17.808504+00:00"
-  },
-  {
-   "fp": [
-    "ağır",
-    "bina",
-    "boşlu",
-    "düşen",
-    "naz",
-    "yaral",
-    "öyküm",
-    "öğren",
-    "ünive"
-   ],
-   "tok": [
-    "adım",
-    "adımd",
-    "atan",
-    "attığ",
-    "ağır",
-    "bakım",
-    "basma",
-    "bina",
-    "boğaz",
-    "boşlu",
-    "duvar",
-    "düşen",
-    "düşer",
-    "düştü",
-    "kenar",
-    "naz",
-    "sarıy",
-    "sürüy",
-    "tehli",
-    "yoğun",
-    "çamur",
-    "öyküm",
-    "öğren",
-    "ünive"
-   ],
-   "at": "2026-11-13T08:19:43.860040+00:00"
-  },
-  {
-   "fp": [
-    "11",
-    "gözal",
-    "joker",
-    "miras",
-    "oyunu",
-    "vurgu"
-   ],
-   "tok": [
-    "alan",
-    "avuka",
-    "belge",
-    "bulun",
-    "deşif",
-    "dolan",
-    "düzen",
-    "dışın",
-    "gaipl",
-    "hakla",
-    "hedef",
-    "ifşa",
-    "joker",
-    "kulla",
-    "mesle",
-    "miras",
-    "oyunu",
-    "pasap",
-    "sahte",
-    "vatan",
-    "vurgu",
-    "yapan",
-    "yaşay",
-    "yurt",
-    "yönte",
-    "zaman",
-    "çöker",
-    "ülked",
-    "şahıs",
-    "şebek"
-   ],
-   "at": "2026-11-13T08:23:04.305135+00:00"
-  },
-  {
-   "fp": [
     "dev",
     "harcı",
     "kayıt",
@@ -13958,23 +13835,83 @@
     "çağrı"
    ],
    "at": "2026-11-14T20:13:00.105451+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "krizi",
+    "sürüy",
+    "uçuş"
+   ],
+   "tok": [
+    "abd",
+    "aksam",
+    "başla",
+    "bekle",
+    "belir",
+    "bin",
+    "devam",
+    "değiş",
+    "duffy",
+    "durdu",
+    "döner",
+    "dönüy",
+    "ediyo",
+    "ekipm",
+    "eski",
+    "etkil",
+    "etmek",
+    "eğer",
+    "faa",
+    "fazla",
+    "feder",
+    "gecik",
+    "genel",
+    "geçme",
+    "güven",
+    "harek",
+    "hava",
+    "havac",
+    "havad",
+    "idare",
+    "ileti",
+    "inanm",
+    "indi",
+    "iptal",
+    "kasım",
+    "kayna",
+    "kongr",
+    "kontr",
+    "krizi",
+    "moder",
+    "neden",
+    "nin",
+    "norma",
+    "olduğ",
+    "saatt",
+    "sean",
+    "siber",
+    "siste",
+    "sonra",
+    "sorun",
+    "sözle",
+    "sürüy",
+    "trafi",
+    "ulaşt",
+    "ulaşı",
+    "uçak",
+    "uçuş",
+    "uçuşl",
+    "yalnı",
+    "yere",
+    "çağır",
+    "ülke",
+    "şekil"
+   ],
+   "at": "2026-11-14T20:25:50.136979+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a5692424f9",
-   "post_id": "529346797199852_1464140989158942",
-   "title": "ABD'de enflasyon beklentileri aştı: Piyasaların gözü bu verideydi",
-   "at": "2026-11-10T14:08:42.145212+00:00",
-   "yazim": "claude",
-   "metin": "ABD'de tüketici fiyatları ekimde beklentilerin üzerinde arttı.\n\nAylık enflasyon yüzde 0,4 oldu, piyasalar yüzde 0,3 bekliyordu. Gıda ve enerji hariç çekirdek enflasyon da beklentinin üstünde, yüzde 0,3 oldu.\n\n— Gıda fiyatları yüzde 0,5, barınma maliyetleri yüzde 0,3 arttı.\n— Benzin aylık yüzde 1 yükseldi ve yıllık artışı yüzde 37,4 oldu.\n— Ekim 2025 verileri toplanamadığı için yıllık enflasyon oranı hesaplanamadı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-ekimde-beklentilerin-uzerinde-artti/4118964",
-    "CNN Türk: https://www.cnnturk.com/finans-haberler/abdde-ekim-ayi-enflasyonu-aciklandi-tufe-aylik-yuzde-0-4-artti-3491621",
-    "Habertürk: https://www.haberturk.com/ekonomi/abd-de-enflasyon-beklentiyi-asti-3926329",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/abd-de-enflasyon-beklentileri-asti-piyasalarin-gozu-bu-verideydi-2555074"
-   ]
-  },
   {
    "id": "8e84fa9531",
    "post_id": "529346797199852_1464151489157892",
@@ -16482,6 +16419,18 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/fransa-da-halk-sokakta-macron-ve-polisleri-bizimle-savasiyor-746491"
    ]
+  },
+  {
+   "id": "dbe8258b32",
+   "post_id": "529346797199852_1468826505357057",
+   "title": "ABD'de uçuş krizi: Hava ulaşımındaki aksamalar sürüyor",
+   "at": "2026-11-14T20:25:50.136979+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de hava trafik kontrol sistemindeki iletişim sorunu nedeniyle uçuşlar 4 saatten fazla durduruldu. Operasyonlar normale dönüyor ama gecikme ve iptaller sürüyor.\n\n— Federal Havacılık İdaresi (FAA), 13 Kasım'da ülke genelinde uçuşları durdurdu. Havada olan 3 bin 500 uçak güvenli şekilde yere indi.\n\n— Ulaştırma Bakanı Sean Duffy, sorunun yalnızca eski ekipmanlardan kaynaklanmadığını, iletişim sisteminin de çok eski olduğunu söyledi.\n\n— Duffy, bir siber saldırı olduğuna inanmadığını belirtti ve Kongre'yi kontrol sistemlerini modernize etmek için harekete geçmeye çağırdı.\n\n— Duffy'nin sözleri: “Eğer sistemlerimizi değiştirmeye başlamayacaksak, daha ne kadar bekleyeceğiz?”",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/dunya/abd-de-hava-trafigindeki-iletisim-arizasi-binlerce-ucusu-olumsuz-etkiledi-3927423",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/abd-de-ucus-krizi-hava-ulasimindaki-aksamalar-suruyor-2556180"
+   ]
   }
  ],
  "fails": {
@@ -16767,12 +16716,10 @@
   "0472f96463": 1,
   "997a70fd1a": 1,
   "b2e27d0936": 1,
-  "934b1514f1": 1
+  "934b1514f1": 1,
+  "a4d70f07fa": 1
  },
  "fail_log": [
-  "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
-  "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
-  "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
   "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
   "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
   "2026-11-14T06:01 Arjantin'de doğal gaz borusu patladı: 1 kişi öldü, 30 kişi y -> ValueError: yanıt okunamadı",
@@ -16809,7 +16756,10 @@
   "2026-11-14T19:10 Wanda Nara: (İcardi'nin sevgilisi China Suarez hk.) \"Benim g -> ValueError: yanıt okunamadı",
   "2026-11-14T19:10 Wanda Nara: (İcardi'nin sevgilisi China Suarez hk.) \"Benim g -> ValueError: yanıt okunamadı",
   "2026-11-14T19:35 EMEP Dersim İl Kongresinde konuşan Sevda Karaca: “Süreç tıkı -> ValueError: cümle yarım kalmış: 'TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-14T20:13 Cristiano Ronaldo için yapılan veda koreografisi: -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-14T20:13 Cristiano Ronaldo için yapılan veda koreografisi: -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-14T20:25 İran'da işçi servisi devrildi: 5 ölü, 17 yaralı -> ValueError: yanıt okunamadı",
+  "2026-11-14T20:25 İran'da işçi servisi devrildi: 5 ölü, 17 yaralı -> ValueError: yanıt okunamadı",
+  "2026-11-14T20:25 İran'da işçi servisi devrildi: 5 ölü, 17 yaralı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
