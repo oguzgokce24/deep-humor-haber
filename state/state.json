@@ -2,116 +2,6 @@
  "seen": [
   {
    "fp": [
-    "asker",
-    "başın",
-    "görev",
-    "msb",
-    "rahat",
-    "şehit"
-   ],
-   "tok": [
-    "asker",
-    "başın",
-    "duyur",
-    "esnas",
-    "görev",
-    "güler",
-    "kaan",
-    "milli",
-    "msb",
-    "mühim",
-    "naaşı",
-    "olmuş",
-    "rahat",
-    "savun",
-    "uğurl",
-    "öcal",
-    "şehit"
-   ],
-   "at": "2026-11-13T10:16:51.113188+00:00"
-  },
-  {
-   "fp": [
-    "frans",
-    "hakem",
-    "ingil",
-    "maçın",
-    "türki"
-   ],
-   "tok": [
-    "chris",
-    "darre",
-    "düdük",
-    "engla",
-    "frans",
-    "görev",
-    "günü",
-    "hakem",
-    "ingil",
-    "karşı",
-    "kasım",
-    "kavan",
-    "ligi",
-    "maçın",
-    "milli",
-    "mücad",
-    "nde",
-    "oynay",
-    "pazar",
-    "takım",
-    "uefa",
-    "ulusl",
-    "var",
-    "yapac",
-    "yönet",
-    "çalac"
-   ],
-   "at": "2026-11-13T10:16:58.637643+00:00"
-  },
-  {
-   "fp": [
-    "belir",
-    "durdu",
-    "israi",
-    "liste",
-    "silah",
-    "sırbi",
-    "temsi",
-    "ticar",
-    "ubovi",
-    "öğren"
-   ],
-   "tok": [
-    "belir",
-    "durdu",
-    "fabri",
-    "filip",
-    "iha",
-    "israi",
-    "kazan",
-    "kesil",
-    "kurul",
-    "ların",
-    "liste",
-    "monta",
-    "planl",
-    "proje",
-    "seçim",
-    "silah",
-    "sonla",
-    "sırbi",
-    "temsi",
-    "ticar",
-    "ubovi",
-    "çizdi",
-    "öğren",
-    "ülked",
-    "üzeri"
-   ],
-   "at": "2026-11-13T10:17:02.349670+00:00"
-  },
-  {
-   "fp": [
     "4",
     "asker",
     "daki",
@@ -13477,6 +13367,47 @@
     "üreti"
    ],
    "at": "2026-11-14T22:12:56.150110+00:00"
+  },
+  {
+   "fp": [
+    "bütçe",
+    "ediyo",
+    "emekç",
+    "güven",
+    "hakkı",
+    "istiy",
+    "kadın",
+    "kamu",
+    "talep",
+    "çalış"
+   ],
+   "tok": [
+    "aldığ",
+    "bütçe",
+    "değil",
+    "ediyo",
+    "emekç",
+    "emeği",
+    "eşit",
+    "günle",
+    "güven",
+    "hak",
+    "hakkı",
+    "istiy",
+    "kadın",
+    "kamu",
+    "kopar",
+    "kırın",
+    "payım",
+    "sömür",
+    "talep",
+    "tam",
+    "yaşam",
+    "çalış",
+    "özgür",
+    "şidde"
+   ],
+   "at": "2026-11-14T22:20:02.194161+00:00"
   }
  ],
  "posted": [
@@ -16279,20 +16210,10 @@
   "f314a6055f": 1,
   "97adf6ab5e": 1,
   "d2e4a701db": 1,
-  "513fbe7706": 2,
-  "e2397fe55d": 1,
-  "861ad4fce9": 1
+  "e2397fe55d": 2,
+  "861ad4fce9": 2
  },
  "fail_log": [
-  "2026-11-14T20:40 İran'da işçi servisi devrildi: 5 ölü, 17 yaralı -> ValueError: yanıt okunamadı",
-  "2026-11-14T20:40 İran'da işçi servisi devrildi: 5 ölü, 17 yaralı -> ValueError: yanıt okunamadı",
-  "2026-11-14T20:40 İran'da işçi servisi devrildi: 5 ölü, 17 yaralı -> ValueError: yanıt okunamadı",
-  "2026-11-14T21:09 Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’i -> ValueError: yanıt okunamadı",
-  "2026-11-14T21:09 Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’i -> ValueError: yanıt okunamadı",
-  "2026-11-14T21:09 Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’i -> ValueError: yanıt okunamadı",
-  "2026-11-14T21:53 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
-  "2026-11-14T21:53 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
-  "2026-11-14T21:53 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
   "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
   "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
   "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
@@ -16323,7 +16244,16 @@
   "2026-11-14T22:16 Çin çeliği, gümrük duvarları ve HABAŞ: Aliağa’da işçiler ned -> ValueError: yanıt okunamadı",
   "2026-11-14T22:16 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
   "2026-11-14T22:16 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:16 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı"
+  "2026-11-14T22:16 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Kamu emekçisi kadınlar bütçeden hakkını istiyor: Güvenli ve  -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Kamu emekçisi kadınlar bütçeden hakkını istiyor: Güvenli ve  -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Kamu emekçisi kadınlar bütçeden hakkını istiyor: Güvenli ve  -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Çin çeliği, gümrük duvarları ve HABAŞ: Aliağa’da işçiler ned -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Çin çeliği, gümrük duvarları ve HABAŞ: Aliağa’da işçiler ned -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Çin çeliği, gümrük duvarları ve HABAŞ: Aliağa’da işçiler ned -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:20 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
