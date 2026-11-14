@@ -2,118 +2,6 @@
  "seen": [
   {
    "fp": [
-    "huang",
-    "istif",
-    "jense",
-    "nvidi"
-   ],
-   "tok": [
-    "ayrıl",
-    "büyük",
-    "casus",
-    "daki",
-    "diye",
-    "diyor",
-    "diğer",
-    "ekono",
-    "gelec",
-    "hata",
-    "huang",
-    "istif",
-    "jense",
-    "kayıp",
-    "kriti",
-    "krizi",
-    "kuruc",
-    "lizbo",
-    "nitel",
-    "nvidi",
-    "sektö",
-    "sonra",
-    "sorud",
-    "summi",
-    "söylü",
-    "tasar",
-    "uzun",
-    "web",
-    "yapay",
-    "yaşay",
-    "yönet",
-    "zeka",
-    "şekil",
-    "şirke"
-   ],
-   "at": "2026-11-12T20:29:47.767036+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "düzen",
-    "habaş",
-    "hesap",
-    "mahal",
-    "mayıs",
-    "nde",
-    "sorum",
-    "tepki",
-    "verec"
-   ],
-   "tok": [
-    "daki",
-    "düzen",
-    "eylem",
-    "habaş",
-    "halkı",
-    "hesap",
-    "karşı",
-    "mahal",
-    "mayıs",
-    "nde",
-    "patla",
-    "sorum",
-    "taki",
-    "tepki",
-    "verec",
-    "yapan"
-   ],
-   "at": "2026-11-12T20:36:36.333497+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "4",
-    "ateş",
-    "açtı",
-    "geçen",
-    "pompa",
-    "tüfek",
-    "yaral",
-    "yolda",
-    "ölü"
-   ],
-   "tok": [
-    "ardın",
-    "ateş",
-    "ateşl",
-    "açan",
-    "açtı",
-    "ağır",
-    "başın",
-    "dayay",
-    "erdem",
-    "geçen",
-    "ilçes",
-    "kadın",
-    "mersi",
-    "pompa",
-    "silah",
-    "tüfek",
-    "yolda"
-   ],
-   "at": "2026-11-12T20:39:57.972978+00:00"
-  },
-  {
-   "fp": [
     "basın",
     "boğaz",
     "hürmü",
@@ -16264,20 +16152,70 @@
     "üst"
    ],
    "at": "2026-11-14T08:27:30.873093+00:00"
+  },
+  {
+   "fp": [
+    "baba",
+    "hayat",
+    "kaybe",
+    "kızı"
+   ],
+   "tok": [
+    "ailec",
+    "ambul",
+    "anne",
+    "ağır",
+    "baba",
+    "bariy",
+    "başla",
+    "belir",
+    "bitti",
+    "bulun",
+    "devle",
+    "direk",
+    "ekipl",
+    "facia",
+    "gelen",
+    "hafif",
+    "hanif",
+    "hasta",
+    "hâkim",
+    "ilgil",
+    "ilhan",
+    "incel",
+    "itfai",
+    "kaldı",
+    "kara",
+    "kazas",
+    "kazay",
+    "kızı",
+    "kızın",
+    "mevki",
+    "murat",
+    "olay",
+    "onu",
+    "orada",
+    "otomo",
+    "sonuc",
+    "sürüc",
+    "sıkış",
+    "ticar",
+    "trafi",
+    "yaşın",
+    "yerin",
+    "yolcu",
+    "yolun",
+    "zeyne",
+    "çankı",
+    "çarpa",
+    "çarpm",
+    "çavun",
+    "çıkar"
+   ],
+   "at": "2026-11-14T08:40:02.648176+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "00e0395fa4",
-   "post_id": "529346797199852_1463471672559207",
-   "title": "Yıllardır sabırsızlıkla beklenen metro hattında açılış takvimi değişti",
-   "at": "2026-11-10T01:25:59.102472+00:00",
-   "yazim": "claude",
-   "metin": "Kocaeli'de M1 Gebze OSB - Darıca Sahil metro hattının açılışı ertelendi.\n\nAçılış tarihi 29 Ekim 2026'dan en geç 2027 Mart ayına kaydırıldı.\n\n— Gebze ve Darıca'da yaşayanlar uzun süredir bu hattın açılmasını bekliyordu.\n— 15,4 kilometrelik hatta 11 istasyon var. Gebze OSB ile Darıca sahili arasındaki yolculuk 19 dakikaya düşecek.\n— Hat tam kapasiteyle çalışmaya başlayınca günlük 55 bin aracın yollardan çekilmesi hedefleniyor.\n— Gecikmenin nedeni süren sinyalizasyon çalışmaları. Bu işi ASELSAN yürütüyor.",
-   "sources": [
-    "Karar: https://www.karar.com/sehir-haberleri/gebze-darica-metrosu-ne-zaman-acilacak-cayirova-hatti-nereden-gececek-2083261"
-   ]
-  },
   {
    "id": "b32b53045a",
    "post_id": "529346797199852_1463482299224811",
@@ -18806,6 +18744,18 @@
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/fon-vurgununda-sok-iddia-300-milyonla-girdi-28-milyarla-cikti-kim-bu-is-insani-p381230",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-28-milyarlik-iddia-servet-kazanan-is-insani-ve-kulislerde-konusulan-ust-duzey-burokrat-kim-2556067"
+   ]
+  },
+  {
+   "id": "48fa4c859d",
+   "post_id": "529346797199852_1468307242075650",
+   "title": "Çankırı’da trafik kazası: Baba ile 9 yaşındaki kızı hayatını kaybetti",
+   "at": "2026-11-14T08:40:02.648176+00:00",
+   "yazim": "claude",
+   "metin": "Çankırı'da bariyere çarpan hafif ticari araçtaki baba ile 9 yaşındaki kızı hayatını kaybetti.\n\nKaza, D-100 kara yolunun Çavundur mevkisinde, sürücünün direksiyon hâkimiyetini kaybetmesi sonucu oldu.\n\nOlay yerine gelen ekipler, 39 yaşındaki sürücü ile kızının orada hayatını kaybettiğini belirledi.\n\nAraçta bulunan 37 yaşındaki anne ağır yaralandı. İtfaiye ekipleri onu sıkıştığı araçtan çıkardı ve ambulansla Çankırı Devlet Hastanesi'ne kaldırıldı. Kazayla ilgili inceleme başlatıldı.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009442/cankiri-da-trafik-kazasi-baba-ile-9-yasindaki-kizi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/guncel-haberler/ailece-yolculuk-faciayla-bitti-baba-ve-kizi-hayatini-kaybetti-anne-agir-2084078"
    ]
   }
  ],
