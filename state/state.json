@@ -13396,6 +13396,87 @@
     "çağrı"
    ],
    "at": "2026-11-14T21:56:36.425230+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "ardın",
+    "habaş",
+    "kalab",
+    "kalıb",
+    "kalıp",
+    "konuş",
+    "korkt",
+    "mesem",
+    "patro",
+    "öğren"
+   ],
+   "tok": [
+    "altın",
+    "anlat",
+    "ardın",
+    "arkad",
+    "burun",
+    "deki",
+    "geldi",
+    "gün",
+    "habaş",
+    "kalab",
+    "kalıb",
+    "kalıp",
+    "katli",
+    "kazal",
+    "kazas",
+    "kendi",
+    "konuş",
+    "korkt",
+    "mesem",
+    "patro",
+    "uzuvl",
+    "yerle",
+    "çalış",
+    "öğren",
+    "ümran"
+   ],
+   "at": "2026-11-14T22:12:48.369823+00:00"
+  },
+  {
+   "fp": [
+    "birle",
+    "evren",
+    "manşe",
+    "yaşam"
+   ],
+   "tok": [
+    "alınm",
+    "baskı",
+    "birle",
+    "bunun",
+    "burun",
+    "büyük",
+    "büyüm",
+    "ceza",
+    "derin",
+    "eller",
+    "evren",
+    "hırsı",
+    "işçil",
+    "karşı",
+    "katli",
+    "kâr",
+    "manşe",
+    "otomo",
+    "patro",
+    "rejim",
+    "rekab",
+    "sahas",
+    "sendi",
+    "yaşam",
+    "çalış",
+    "ölüml",
+    "üreti"
+   ],
+   "at": "2026-11-14T22:12:56.150110+00:00"
   }
  ],
  "posted": [
@@ -16197,20 +16278,10 @@
   "66e96d5dc5": 1,
   "f314a6055f": 1,
   "97adf6ab5e": 1,
-  "c2cb22e769": 2,
-  "557e5bc75e": 2,
-  "d2e4a701db": 1
+  "d2e4a701db": 1,
+  "513fbe7706": 1
  },
  "fail_log": [
-  "2026-11-14T16:25 Karaköy’den Eminönü’ne kadın zinciri: 'Cezasızlık düzeni son -> ValueError: yanıt okunamadı",
-  "2026-11-14T17:21 Sergen Yalçın: \"Ben bu grupta sadece bir maç oynadım. Onu da -> ValueError: yanıt okunamadı",
-  "2026-11-14T17:21 Sergen Yalçın: \"Ben bu grupta sadece bir maç oynadım. Onu da -> ValueError: yanıt okunamadı",
-  "2026-11-14T17:21 Sergen Yalçın: \"Ben bu grupta sadece bir maç oynadım. Onu da -> ValueError: yanıt okunamadı",
-  "2026-11-14T17:58 Hindistan'da tatlı şeklinde hazırlanmış patlayıcı, bir kişin -> ValueError: yanıt okunamadı",
-  "2026-11-14T17:58 Hindistan'da tatlı şeklinde hazırlanmış patlayıcı, bir kişin -> ValueError: yanıt okunamadı",
-  "2026-11-14T17:58 Hindistan'da tatlı şeklinde hazırlanmış patlayıcı, bir kişin -> ValueError: yanıt okunamadı",
-  "2026-11-14T19:10 Wanda Nara: (İcardi'nin sevgilisi China Suarez hk.) \"Benim g -> ValueError: yanıt okunamadı",
-  "2026-11-14T19:10 Wanda Nara: (İcardi'nin sevgilisi China Suarez hk.) \"Benim g -> ValueError: yanıt okunamadı",
   "2026-11-14T19:10 Wanda Nara: (İcardi'nin sevgilisi China Suarez hk.) \"Benim g -> ValueError: yanıt okunamadı",
   "2026-11-14T19:35 EMEP Dersim İl Kongresinde konuşan Sevda Karaca: “Süreç tıkı -> ValueError: cümle yarım kalmış: 'TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-14T20:13 Cristiano Ronaldo için yapılan veda koreografisi: -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
@@ -16241,7 +16312,16 @@
   "2026-11-14T22:09 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
   "2026-11-14T22:09 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
   "2026-11-14T22:09 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:09 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı"
+  "2026-11-14T22:09 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 Kamu emekçisi kadınlar bütçeden hakkını istiyor: Güvenli ve  -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 Kamu emekçisi kadınlar bütçeden hakkını istiyor: Güvenli ve  -> ValueError: yanıt okunamadı",
+  "2026-11-14T22:13 Kamu emekçisi kadınlar bütçeden hakkını istiyor: Güvenli ve  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
