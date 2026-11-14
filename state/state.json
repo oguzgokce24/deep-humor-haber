@@ -2,178 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bıçak",
-    "giriş",
-    "kadın",
-    "malat",
-    "okul",
-    "polis",
-    "saldı"
-   ],
-   "tok": [
-    "ateş",
-    "açtığ",
-    "bıçak",
-    "ekipl",
-    "giriş",
-    "görev",
-    "havay",
-    "kadın",
-    "kız",
-    "malat",
-    "okul",
-    "okulu",
-    "olay",
-    "sürül",
-    "sıras",
-    "çalış",
-    "çocuğ",
-    "öne",
-    "öğren"
-   ],
-   "at": "2026-11-12T12:34:15.127568+00:00"
-  },
-  {
-   "fp": [
-    "55",
-    "71",
-    "açık",
-    "kayıt",
-    "lisey",
-    "nine",
-    "nurse",
-    "yaptı",
-    "yaşın",
-    "yenid",
-    "yıl",
-    "öğren"
-   ],
-   "tok": [
-    "arada",
-    "açık",
-    "başvu",
-    "bırak",
-    "dersl",
-    "diplo",
-    "döndü",
-    "düzce",
-    "eğiti",
-    "fizik",
-    "geri",
-    "halk",
-    "kalan",
-    "kaydo",
-    "kayıt",
-    "kimya",
-    "kızı",
-    "lise",
-    "lisey",
-    "nine",
-    "nurse",
-    "seval",
-    "tam",
-    "teşvi",
-    "torun",
-    "yaptı",
-    "yarıd",
-    "yarım",
-    "yaşay",
-    "yaşın",
-    "yenid",
-    "yıl",
-    "yılın",
-    "zorla",
-    "öğren",
-    "öğret"
-   ],
-   "at": "2026-11-12T12:41:04.471292+00:00"
-  },
-  {
-   "fp": [
-    "bıçak",
-    "giriş",
-    "kadın",
-    "kız",
-    "malat",
-    "okul",
-    "polis",
-    "saldı",
-    "çocuğ"
-   ],
-   "tok": [
-    "ateş",
-    "açtığ",
-    "bıçak",
-    "ekipl",
-    "giriş",
-    "görev",
-    "havay",
-    "kadın",
-    "kız",
-    "malat",
-    "okul",
-    "okulu",
-    "olay",
-    "sürül",
-    "sıras",
-    "çalış",
-    "çekti",
-    "çocuğ",
-    "öne",
-    "öğren"
-   ],
-   "at": "2026-11-12T12:44:22.899579+00:00"
-  },
-  {
-   "fp": [
-    "81",
-    "ilde",
-    "inşaa",
-    "mühen",
-    "sokağ",
-    "çıktı"
-   ],
-   "tok": [
-    "ardın",
-    "basın",
-    "binle",
-    "birli",
-    "bırak",
-    "deste",
-    "düşük",
-    "emeği",
-    "gerçe",
-    "güven",
-    "hak",
-    "inşaa",
-    "istiy",
-    "izmir",
-    "karşı",
-    "kayıp",
-    "kentl",
-    "mesle",
-    "mühen",
-    "nitel",
-    "odası",
-    "sabrı",
-    "savun",
-    "sağlı",
-    "sesle",
-    "sokağ",
-    "tüken",
-    "verdi",
-    "yapıl",
-    "yaşan",
-    "yürüy",
-    "çalış",
-    "çıktı",
-    "ücret",
-    "ülkey"
-   ],
-   "at": "2026-11-12T12:44:26.721944+00:00"
-  },
-  {
-   "fp": [
     "davas",
     "den",
     "edile",
@@ -18135,22 +17963,75 @@
     "çıkab"
    ],
    "at": "2026-11-14T00:32:08.861699+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "başka",
+    "beled",
+    "davet",
+    "isime",
+    "katıl",
+    "parti",
+    "yanıt",
+    "çarpı"
+   ],
+   "tok": [
+    "ahmet",
+    "akp",
+    "almak",
+    "aslın",
+    "balta",
+    "başvu",
+    "beled",
+    "bileğ",
+    "böyle",
+    "dan",
+    "davet",
+    "demek",
+    "deste",
+    "değiş",
+    "diyer",
+    "edece",
+    "etmiş",
+    "gelin",
+    "gru",
+    "grup",
+    "gücüm",
+    "hakkı",
+    "hasan",
+    "hibes",
+    "hizme",
+    "iklim",
+    "iktid",
+    "isime",
+    "isted",
+    "istey",
+    "kasta",
+    "katıl",
+    "kendi",
+    "makin",
+    "mecli",
+    "namlı",
+    "nimet",
+    "nin",
+    "nın",
+    "olanı",
+    "parti",
+    "söyle",
+    "verdi",
+    "yanıt",
+    "çarpı",
+    "çevre",
+    "özeti",
+    "üyele",
+    "şehir",
+    "şimdi"
+   ],
+   "at": "2026-11-14T00:44:51.842249+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5f8be208c6",
-   "post_id": "529346797199852_1463153642591010",
-   "title": "Suudi Arabistan: Doğu-Batı Petrol Boru Hattı'nın hedef alınması sonucu yangın çıktı",
-   "at": "2026-11-09T18:11:07.513731+00:00",
-   "yazim": "claude",
-   "metin": "Suudi Arabistan'da Medine sınırları içinden geçen Doğu-Batı Petrol Boru Hattı'na saldırı düzenlendi, hat üzerinde yangın çıktı.\n\n— Suudi Arabistan Enerji Bakanlığı'nın yazılı açıklamasına göre yangın sınırlı kaldı ve ekiplerin zamanında müdahalesiyle tamamen söndürüldü.\n\n— Açıklamada saldırının kimden geldiğine dair bir bilgi yer almadı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/suudi-arabistan-dogu-bati-petrol-boru-hattinin-hedef-alinmasi-sonucu-yangin-cikti/4117789",
-    "Habertürk: https://www.haberturk.com/dunya/suudi-arabistan-petrol-boru-hatti-hedef-alindi-3926093",
-    "BirGün: https://www.birgun.net/haber/suudi-arabistan-dogu-bati-petrol-boru-hatti-nin-hedef-alinmasi-sonucu-yangin-cikti-745492"
-   ]
-  },
   {
    "id": "9e3221ce8d",
    "post_id": "529346797199852_1463163979256643",
@@ -20687,6 +20568,19 @@
    "sources": [
     "Diken: https://www.diken.com.tr/saganak-ve-firtina-istanbul-dahil-11-ile-sari-kodlu-uyari/?utm_source=rss&utm_medium=rss&utm_campaign=saganak-ve-firtina-istanbul-dahil-11-ile-sari-kodlu-uyari"
    ]
+  },
+  {
+   "id": "d40eb589e2",
+   "post_id": "529346797199852_1467995648773476",
+   "title": "Belediye Başkanı'nı partisine katılmaya davet eden AKP'li isime çarpıcı yanıt",
+   "at": "2026-11-14T00:44:51.842249+00:00",
+   "yazim": "claude",
+   "metin": "Kastamonu Belediye Başkanı Hasan Baltacı, AKP Grup Başkanvekili Ahmet Namlı'nın \"partimize gelin\" davetine böyle yanıt verdi:\n\n“Hakkımız olanı almak için ya partimize gelin demek Türkiye’nin özeti aslında.”\n\n— Namlı, \"İktidarın nimetlerini isteyemezsiniz şimdi\" diyerek Baltacı'yı AKP'ye davet etmişti.\n— Baltacı, iş makinesi hibesi için Çevre, Şehircilik ve İklim Değişikliği Bakanlığına başvurduklarını ve AKP'li meclis üyelerinden destek istediklerini söylemişti.\n— Baltacı, \"Kendi öz gücümüzle bileğimizin hakkıyla bu Kastamonu’ya hizmet edeceğiz\" dedi.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/belediye-baskanini-partisine-davet-eden-akpli-isime-carpici-yanit-p381160",
+    "BirGün: https://www.birgun.net/haber/kastamonu-belediye-baskani-baltaciya-akp-li-namlidan-davet-baskan-dan-kendi-oz-gucumuzle-bilegimizin-hakkiyla-bu-kastamonuya-hizmet-edecegiz-yaniti-746355",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/belediye-baskanini-partisine-davet-eden-akpli-isime-carpici-yanit-p381160"
+   ]
   }
  ],
  "fails": {
@@ -20952,12 +20846,10 @@
   "45cc9b61dc": 1,
   "3f2e8ed7fa": 2,
   "46a55c2a3c": 2,
-  "486e7d7aa4": 2
+  "486e7d7aa4": 2,
+  "7482134257": 1
  },
  "fail_log": [
-  "2026-11-13T19:35 Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:35 Yeni Parti binanın ruhsatsız olduğu için mühürlendiğini belg -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:38 Bursa’da İmamoğlu protestoları nedeniyle yargılanan 11 kişi  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:38 Rüzgar tersine dönecek, sıcaklık sert düşecek. İstanbul'da d -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:38 Kalabalık büyüdükçe sorumluluğun azalması: Seyirci Etkisi ne -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:42 Euronews yeni sezonunda: Daha fazla canlı haber ve sohbetle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20994,7 +20886,10 @@
   "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
   "2026-11-13T23:06 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
   "2026-11-14T00:19 Sermayenin ikiyüzlülüğü: Beş işçiyi öldüren şirket, HABAŞ ai -> ValueError: yanıt okunamadı",
-  "2026-11-14T00:32 Sağanak ve fırtına: İstanbul dahil 11 ile sarı kodlu uyarı -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-14T00:32 Sağanak ve fırtına: İstanbul dahil 11 ile sarı kodlu uyarı -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
+  "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
+  "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
