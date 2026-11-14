@@ -2,39 +2,6 @@
  "seen": [
   {
    "fp": [
-    "dan",
-    "derin",
-    "fon",
-    "girda",
-    "tepki",
-    "yarat",
-    "yolsu",
-    "özdağ"
-   ],
-   "tok": [
-    "açtığ",
-    "büyük",
-    "dan",
-    "derin",
-    "ekono",
-    "fon",
-    "genel",
-    "girda",
-    "krize",
-    "parti",
-    "söyle",
-    "tepki",
-    "yarat",
-    "yol",
-    "yolsu",
-    "zafer",
-    "özdağ",
-    "ümit"
-   ],
-   "at": "2026-11-12T22:39:58.914472+00:00"
-  },
-  {
-   "fp": [
     "2",
     "aksar",
     "feci",
@@ -15343,20 +15310,81 @@
     "yuvar"
    ],
    "at": "2026-11-14T10:34:42.129226+00:00"
+  },
+  {
+   "fp": [
+    "asgar",
+    "açıkl",
+    "ten",
+    "türk",
+    "ücret"
+   ],
+   "tok": [
+    "alını",
+    "asgar",
+    "aynen",
+    "ağar",
+    "başla",
+    "bekle",
+    "belir",
+    "beşer",
+    "bizim",
+    "değiş",
+    "doğru",
+    "durum",
+    "eleşt",
+    "emekl",
+    "emekç",
+    "genel",
+    "geçen",
+    "geçer",
+    "göre",
+    "görüş",
+    "henüz",
+    "hüküm",
+    "ilgil",
+    "ilişk",
+    "itira",
+    "işver",
+    "işçi",
+    "kaldı",
+    "karşı",
+    "katıl",
+    "komis",
+    "masay",
+    "mehme",
+    "memur",
+    "netle",
+    "oturm",
+    "oyçok",
+    "ramaz",
+    "sonun",
+    "sürüy",
+    "takvi",
+    "ten",
+    "tespi",
+    "topla",
+    "var",
+    "veril",
+    "yakın",
+    "yapıl",
+    "yapıs",
+    "yardı",
+    "yönel",
+    "yüzde",
+    "yıl",
+    "yılki",
+    "zammı",
+    "çalış",
+    "önces",
+    "ücret",
+    "üye",
+    "şimşe"
+   ],
+   "at": "2026-11-14T10:47:21.376507+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f30a516216",
-   "post_id": "529346797199852_1463563869216654",
-   "title": "İşte butlanın korktuğu mutlak demokrasi",
-   "at": "2026-11-10T03:34:11.616357+00:00",
-   "yazim": "claude",
-   "metin": "YENİ Parti'de ön seçimi Özgür Özel kazandı. Özel, sonucun ardından şunları söyledi:\n\n“Söz de karar da yetki de milletindir. Üyelerimizden aldığımız bu tarihi güveni, 1. Olağan Kurultayımızla, Türkiye’nin sorunlarını çözecek güçlü bir iradeye dönüştüreceğiz.”\n\n— Ön seçimde geçerli oyların tamamını Özgür Özel aldı.\n— Ülke genelinde katılım yüzde 81,3 oldu.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/iste-butlanin-korktugu-mutlak-demokrasi-p379708"
-   ]
-  },
   {
    "id": "cfde12d2eb",
    "post_id": "529346797199852_1463571915882516",
@@ -17912,6 +17940,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ordu-da-feci-kaza-ucuruma-yuvarlanan-aracta-3-kisi-hayatini-kaybetti-2556081",
     "Evrensel: https://www.evrensel.net/haber/6009460/ordu-da-ucuruma-yuvarlanan-otomobildeki-3-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/orduda-ucuruma-yuvarlanan-otomobildeki-3-kisi-oldu-7700673"
+   ]
+  },
+  {
+   "id": "8718773807",
+   "post_id": "529346797199852_1468392038733837",
+   "title": "Görüşmeler yakında başlayacak: Türk-İş'ten ilk asgari ücret açıklaması",
+   "at": "2026-11-14T10:47:21.376507+00:00",
+   "yazim": "claude",
+   "metin": "Türk-İş Genel Başkan Yardımcısı Ramazan Ağar, Asgari Ücret Tespit Komisyonu için:\n\n“Geçen yılki durum bizim için bu yıl da aynen geçerli.”\n\n— Türk-İş, geçen yıl komisyonun yapısını eleştirip toplantılara katılmamıştı.\n— Komisyonda işçi, işveren ve hükümetten beşer üye var, kararlar oyçokluğuyla alınıyor.\n— Türk-İş'e göre komisyonun yapısında bu yıl da değişiklik yapılmadı, bu yüzden toplantılara katılıp katılmayacağına henüz karar verilmedi.\n— 2027 asgari ücreti için görüşme takvimi henüz açıklanmadı, takvimin yıl sonuna doğru netleşmesi bekleniyor.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/milyonlarca-calisani-ilgilendiriyor-turk-is-ten-ilk-asgari-ucret-aciklamasi-2556088",
+    "BirGün: https://www.birgun.net/haber/gorusmeler-yakinda-baslayacak-turk-is-ten-ilk-asgari-ucret-aciklamasi-746440",
+    "BirGün: https://www.birgun.net/haber/mehmet-simsekten-emekli-ve-memur-zammi-ile-asgari-ucret-aciklamasi-746424"
    ]
   }
  ],
