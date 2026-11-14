@@ -2,89 +2,6 @@
  "seen": [
   {
    "fp": [
-    "intik",
-    "tatbi"
-   ],
-   "tok": [
-    "akden",
-    "doğu",
-    "düzen",
-    "güney",
-    "intik",
-    "katıl",
-    "kıbrı",
-    "nemes",
-    "rum",
-    "tatbi",
-    "yönet",
-    "yıl",
-    "ülken"
-   ],
-   "at": "2026-11-13T03:50:08.643890+00:00"
-  },
-  {
-   "fp": [
-    "babam",
-    "bana",
-    "doğru",
-    "miras",
-    "söyle"
-   ],
-   "tok": [
-    "babam",
-    "bana",
-    "damga",
-    "doğru",
-    "konuş",
-    "kızı",
-    "miras",
-    "nedim",
-    "olsun",
-    "olurs",
-    "pelin",
-    "söyle",
-    "tören",
-    "türkm",
-    "vurdu",
-    "ödül"
-   ],
-   "at": "2026-11-13T03:53:31.793897+00:00"
-  },
-  {
-   "fp": [
-    "bütçe",
-    "gelen",
-    "isim",
-    "sunum",
-    "suçla",
-    "yolsu"
-   ],
-   "tok": [
-    "arkas",
-    "bulun",
-    "bütçe",
-    "edip",
-    "fatih",
-    "gelen",
-    "iddia",
-    "isim",
-    "işare",
-    "karak",
-    "otura",
-    "parti",
-    "suat",
-    "sunum",
-    "suçla",
-    "tabur",
-    "tekin",
-    "vurgu",
-    "yolsu",
-    "özçağ"
-   ],
-   "at": "2026-11-13T03:57:04.574222+00:00"
-  },
-  {
-   "fp": [
     "acı",
     "boyut",
     "büyüy",
@@ -14671,21 +14588,84 @@
     "şehit"
    ],
    "at": "2026-11-14T15:47:14.451305+00:00"
+  },
+  {
+   "fp": [
+    "belöz",
+    "değiş",
+    "emre",
+    "saman"
+   ],
+   "tok": [
+    "altya",
+    "ardın",
+    "ayrıl",
+    "belir",
+    "belöz",
+    "bulmu",
+    "bunu",
+    "burad",
+    "daki",
+    "deki",
+    "deney",
+    "değer",
+    "değil",
+    "değin",
+    "değiş",
+    "direk",
+    "diyen",
+    "doğdu",
+    "doğru",
+    "durum",
+    "ekibi",
+    "emeği",
+    "emre",
+    "ettiğ",
+    "fener",
+    "gelen",
+    "gelme",
+    "gerek",
+    "geçen",
+    "giden",
+    "görev",
+    "günde",
+    "güçlü",
+    "hedef",
+    "herke",
+    "ihtiy",
+    "ilgil",
+    "isiml",
+    "kadro",
+    "kazan",
+    "kişis",
+    "kocae",
+    "konuş",
+    "kötüy",
+    "maçı",
+    "mükem",
+    "nokta",
+    "ocak",
+    "odakl",
+    "olmas",
+    "oyun",
+    "planl",
+    "planı",
+    "saman",
+    "savun",
+    "sağlı",
+    "takım",
+    "tekni",
+    "teşek",
+    "trans",
+    "var",
+    "vardı",
+    "yapıl",
+    "yok"
+   ],
+   "at": "2026-11-14T15:59:55.458063+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c9b92d3447",
-   "post_id": "529346797199852_1463871179185923",
-   "title": "İBB davasında 107'nci gün başladı: Eski vekil Aykut Erdoğdu'nun talepleri alınıyor",
-   "at": "2026-11-10T09:33:31.504744+00:00",
-   "yazim": "claude",
-   "metin": "Tutuklu eski milletvekili Aykut Erdoğdu, İBB davasında mahkemeye seslendi:\n\n“Sizin heyetinizden bana ceza verilmesini istiyorum. İşlemediğim bir suçtan, delili olmayan bir suçtan cezalandırılmak istiyorum.”\n\nİstanbul'da, Silivri'deki duruşmada 436 sanıklı davanın 107'nci gününde konuşan Erdoğdu, cezanın kendisine verilmesini istedi. Aynı sözlerinde Ekrem İmamoğlu ve Fatih Keleş'in masum olduğunu savundu. Duruşmada tahliye talepleri de dinlenecek.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008766/ibb-davasinda-107nci-gun-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/ibb-davasinda-107-nci-gun-basladi-eski-vekil-aykut-erdogdu-nun-talepleri-aliniyor-745575"
-   ]
-  },
   {
    "id": "565a4b62df",
    "post_id": "529346797199852_1463880975851610",
@@ -17235,6 +17215,18 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-sehit-binbasi-kulaksiz-in-faili-yakalandi-3927393",
     "Sözcü: https://www.sozcu.com.tr/binbasi-kulaksiz-saldirisinin-firari-suphelisi-11-yil-sonra-yakalandi-p381344",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sehit-binbasi-arslan-kulaksiz-in-firari-suphelisi-bitlis-in-tatvan-ilcesinde-yakalandi-2556148"
+   ]
+  },
+  {
+   "id": "fec789a4cb",
+   "post_id": "529346797199852_1468641295375578",
+   "title": "Emre Belözoğlu: Samandıra'da değişim gerekiyordu",
+   "at": "2026-11-14T15:59:55.458063+00:00",
+   "yazim": "claude",
+   "metin": "Emre Belözoğlu, Fenerbahçe'deki teknik ve sağlık ekibi değişikliği için:\n\n“Samandıra'da değişim gerekiyordu. Gelenler mükemmel, gidenler kötüymüş gibi bir durum yok. Bunu doğru bulmuyorum.”\n\nFenerbahçe Teknik Direktörü Belözoğlu, teknik kadrodan sağlık ekibine kadar değişiklik yapıldığını söyledi. Kararların kişisel değerlendirmelerden değil, değişim ihtiyacından doğduğunu belirtti.\n\n— Belözoğlu, gidenlerin de değerli isimler olduğunu ve emeği geçen herkese teşekkür ettiğini söyledi.\n— Takımın hedefi, kazanma odaklı ve savunma planları güçlü bir oyun.\n— Teknik direktörün gündeminde ocak transferleri yok, önce Kocaelispor maçı var.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/emre-belozoglu-samandira-daki-degisimle-ilgili-konustu-belirledigimiz-noktalar-vardi-ve-2556150",
+    "Karar: https://www.karar.com/spor-haberleri/emre-belozoglu-samandirada-degisim-gerekiyordu-2084151"
    ]
   }
  ],
