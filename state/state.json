@@ -14906,23 +14906,70 @@
     "şidde"
    ],
    "at": "2026-11-14T13:53:46.089461+00:00"
+  },
+  {
+   "fp": [
+    "bahçe",
+    "dan",
+    "dervi",
+    "erhan",
+    "giren",
+    "göste",
+    "kolun",
+    "nin",
+    "tepki",
+    "usta"
+   ],
+   "tok": [
+    "aktar",
+    "anıtk",
+    "arkas",
+    "ayrıl",
+    "ağust",
+    "bahçe",
+    "belir",
+    "bunun",
+    "dan",
+    "deki",
+    "den",
+    "dervi",
+    "devam",
+    "değer",
+    "dikka",
+    "düşün",
+    "edece",
+    "ekim",
+    "eleşt",
+    "erhan",
+    "ettiğ",
+    "geldi",
+    "giren",
+    "girme",
+    "gördü",
+    "görün",
+    "göste",
+    "hatır",
+    "itira",
+    "iyi",
+    "kolun",
+    "müsav",
+    "neden",
+    "nin",
+    "nun",
+    "parti",
+    "selam",
+    "siyas",
+    "taban",
+    "tepki",
+    "terci",
+    "tören",
+    "usta",
+    "çekti"
+   ],
+   "at": "2026-11-14T14:06:26.736308+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d53ac67068",
-   "post_id": "529346797199852_1463756335864074",
-   "title": "İran tehdidi ABD üslerinde alarm yarattı: Amerikan savaş uçakları İngiltere'den kaçırılıyor",
-   "at": "2026-11-10T07:20:33.608985+00:00",
-   "yazim": "claude",
-   "metin": "ABD, İran kaynaklı olduğu değerlendirilen bir tehdit nedeniyle İngiltere'deki RAF Mildenhall Hava Üssü'nden çok sayıda askeri uçağı başka noktalara taşıdı.\n\n— Wall Street Journal'ın haberine göre sevkiyat 9 Kasım Pazartesi günü yapıldı ve uçaklar Almanya'ya yöneldi.\n— Pentagon, ekimde de İngiltere'nin güneybatısındaki RAF Fairford Üssü'ndeki B-1 bombardıman uçaklarını ABD'ye geri göndermişti.\n— RAF Mildenhall ve RAF Lakenheath üslerinde güvenlik seviyesi \"FPCON Charlie\" aşamasına yükseltildi.\n— Tahran yönetimi, olası yeni bir ABD saldırısına karşılığın Ortadoğu ile sınırlı kalmayacağını uyardı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti/4118136",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingilteredeki-usten-tahliye-etti-962758.html",
-    "Habertürk: https://www.haberturk.com/dunya/wsj-abd-iran-tehdidi-uzerine-tanker-ucaklarini-ingiltere-deki-usten-tahliye-etti-3926167",
-    "Karar: https://www.karar.com/dunya-haberleri/iran-tehdidi-abd-uslerinde-alarm-yaratti-amerikan-savas-ucaklari-2083293"
-   ]
-  },
   {
    "id": "dfbd47a1d0",
    "post_id": "529346797199852_1463764039196637",
@@ -17484,6 +17531,18 @@
     "Euronews: https://tr.euronews.com/2026/11/14/abden-israile-cagri-gazzeye-insani-yardimin-derhal-onu-acilsin",
     "Evrensel: https://www.evrensel.net/haber/6009502/ab-den-israil-e-gazze-de-sinir-kapilarini-acma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "3605a2f3b0",
+   "post_id": "529346797199852_1468546258718415",
+   "title": "Bahçeli’nin koluna giren Dervişoğlu’na tepki göstermişti: Erhan Usta’dan yeni açıklama",
+   "at": "2026-11-14T14:06:26.736308+00:00",
+   "yazim": "claude",
+   "metin": "İYİ Partili Erhan Usta, Dervişoğlu'nun Bahçeli'nin koluna girmesini eleştirdiği açıklamalarının arkasında olduğunu söyledi.\n\n— Usta, Anıtkabir'deki 29 Ekim töreninde gördüğü bu görüntüyü \"siyasi bir tercih\" olarak değerlendirip itiraz ettiğini belirtti.\n\n— Dervişoğlu'nun 30 Ağustos'ta Bahçeli ile selamlaşmadığını da hatırlatan Usta, bunun partideki tabanın da dikkatini çektiğini söyledi.\n\n— Usta, İYİ Parti'den ayrılmayı düşünmediğini, partide siyasete devam edeceğini açıkladı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/bahceli-nin-koluna-giren-dervisoglu-na-tepki-gostermisti-iyi-partili-erhan-usta-dan-yeni-aciklama-geldi-2556127",
+    "BirGün: https://www.birgun.net/haber/bahcelinin-koluna-giren-dervisogluna-tepki-gostermisti-erhan-ustadan-yeni-aciklama-746462"
+   ]
   }
  ],
  "fails": {
@@ -17809,7 +17868,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121600744092569664",
+   "since_id": "2121603295928365541",
    "started": true
   },
   "ajansmuhbir1923": {
