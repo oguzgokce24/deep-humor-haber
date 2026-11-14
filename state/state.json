@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "42",
-    "79",
-    "dev",
-    "ele",
-    "geçir",
-    "gözal",
-    "ilde",
-    "kişis",
-    "opera",
-    "siber",
-    "tehdi",
-    "veril",
-    "yaptı",
-    "yönel",
-    "şanta"
-   ],
-   "tok": [
-    "ait",
-    "alına",
-    "amacı",
-    "belir",
-    "bilgi",
-    "dev",
-    "finan",
-    "grupl",
-    "kişis",
-    "kulla",
-    "mesaj",
-    "payla",
-    "satış",
-    "sayıs",
-    "siber",
-    "sunup",
-    "suçlu",
-    "tehdi",
-    "uygul",
-    "var",
-    "veril",
-    "yaptı",
-    "yönel",
-    "yükse",
-    "zanlı",
-    "üzeri",
-    "şanta"
-   ],
-   "at": "2026-11-13T06:53:39.148206+00:00"
-  },
-  {
-   "fp": [
     "girse",
     "kolay",
     "obama",
@@ -14086,22 +14037,77 @@
     "önces"
    ],
    "at": "2026-11-14T18:45:08.400288+00:00"
+  },
+  {
+   "fp": [
+    "121",
+    "alınd",
+    "frans",
+    "gözal",
+    "kişi"
+   ],
+   "tok": [
+    "alınd",
+    "artan",
+    "ayrıl",
+    "bazı",
+    "beşin",
+    "biber",
+    "bin",
+    "bine",
+    "bordo",
+    "bunu",
+    "bütçe",
+    "dened",
+    "düzen",
+    "engel",
+    "etmek",
+    "eylem",
+    "eğiti",
+    "fazla",
+    "frans",
+    "gazı",
+    "genel",
+    "geniş",
+    "göre",
+    "göste",
+    "güven",
+    "güçle",
+    "ise",
+    "isted",
+    "izins",
+    "içişl",
+    "katıl",
+    "kulla",
+    "lyon",
+    "maliy",
+    "nante",
+    "organ",
+    "pahal",
+    "paris",
+    "prote",
+    "rouen",
+    "silah",
+    "sokağ",
+    "sürdü",
+    "sürüy",
+    "tasar",
+    "turu",
+    "turun",
+    "vazge",
+    "yakın",
+    "yasa",
+    "yaşam",
+    "yürüy",
+    "çıktı",
+    "öne",
+    "ülke",
+    "şartl"
+   ],
+   "at": "2026-11-14T18:57:37.853883+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cc4259cf4a",
-   "post_id": "529346797199852_1464035285836179",
-   "title": "İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın çıktı",
-   "at": "2026-11-10T12:27:18.384017+00:00",
-   "yazim": "claude",
-   "metin": "İran'ın açıklamasına göre Hürmüz Boğazı'nda iki petrol tankeri devre dışı kaldı; biri mayına çarparak alev aldı.\n\n— İran Devrim Muhafızları Deniz Kuvvetleri'ne göre, İran'ın belirlediği güzergâhın dışında, takip sistemlerini kapatarak ilerleyen bir süpertanker deniz mayınına çarptı ve yangın çıktı.\n\n— İkinci tanker ise ABD savaş uçaklarının korumasında aynı güzergâhın dışından geçmeye çalışırken \"kaza\"ya karıştı ve büyük çaplı bir yangın çıktı.\n\n— Açıklamada, İran'ın belirlediği güzergâh dışında hareket eden ve ABD ordusuyla iş birliği yapan tüm gemilerin hedef alınacağı bildirildi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti/4118707",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti-962807.html",
-    "Evrensel: https://www.evrensel.net/haber/6008813/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "765517d5e4",
    "post_id": "529346797199852_1464045592501815",
@@ -16629,6 +16635,18 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/zidane-duyurdu-turkiye-maci-oncesi-mbappe-karari-2556178",
     "Sözcü Spor: https://www.sozcu.com.tr/zidane-acikladi-mbappe-turkiyeye-karsi-oynayacak-mi-p381368"
+   ]
+  },
+  {
+   "id": "bca594b881",
+   "post_id": "529346797199852_1468772525362455",
+   "title": "Fransa'da protestoların beşinci turu: 121 kişi gözaltına alındı",
+   "at": "2026-11-14T18:57:37.853883+00:00",
+   "yazim": "claude",
+   "metin": "Fransa'da hayat pahalılığı ve eğitim protestolarının beşinci turunda 121 kişi gözaltına alındı.\n\n— İçişleri Bakanlığı'na göre ülke genelinde 106 bin, Paris'te 24 bin kişi sokağa çıktı. Organizatörler ise katılımın 200 bine yakın olduğunu öne sürdü.\n\n— Göstericiler eğitime daha fazla bütçe ayrılmasını ve güvenlik güçlerinin silah kullanımını genişleten yasa tasarısından vazgeçilmesini istedi.\n\n— Paris'te bazı göstericiler izinsiz yürüyüş denedi, polis bunu engelledi. Lyon, Nantes, Rouen ve Bordo'da da polis biber gazı kullandı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/fransa-da-protestolarin-besinci-turu-121-kisi-gozaltina-alindi-2556179",
+    "Evrensel: https://www.evrensel.net/haber/6009540/fransa-da-eylemler-suruyor-121-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
