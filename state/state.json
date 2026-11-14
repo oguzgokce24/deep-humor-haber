@@ -13415,25 +13415,66 @@
     "öğren"
    ],
    "at": "2026-11-14T21:40:10.774937+00:00"
+  },
+  {
+   "fp": [
+    "birli",
+    "eisen",
+    "hüküm",
+    "netan",
+    "nun"
+   ],
+   "tok": [
+    "algı",
+    "arası",
+    "ardın",
+    "bende",
+    "binya",
+    "birli",
+    "denem",
+    "eisen",
+    "ekim",
+    "engel",
+    "gadi",
+    "görev",
+    "görüş",
+    "günü",
+    "güzel",
+    "hüküm",
+    "ise",
+    "israi",
+    "kasım",
+    "kness",
+    "koşul",
+    "kurma",
+    "kurul",
+    "likud",
+    "manev",
+    "netan",
+    "nitel",
+    "numar",
+    "nun",
+    "pazar",
+    "salı",
+    "seçim",
+    "siyas",
+    "suçla",
+    "sökme",
+    "sürüy",
+    "tan",
+    "tekli",
+    "ulusa",
+    "vatan",
+    "yanıt",
+    "yapıl",
+    "yasha",
+    "çalış",
+    "çağrı"
+   ],
+   "at": "2026-11-14T21:56:36.425230+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3d5539b27d",
-   "post_id": "529346797199852_1464225422483832",
-   "title": "Son dakika... Gazeteci İsmail Saymaz'ın ev hapsi kaldırıldı",
-   "at": "2026-11-10T15:35:29.874744+00:00",
-   "yazim": "claude",
-   "metin": "Gazeteci İsmail Saymaz'ın ev hapsi kaldırıldı:\n\n“Doğrusu bu kadar erken beklemiyordum. Duruşmaya kadar evde kalmayı göze almıştım. Bu da benim için sürpriz oldu çok sevindim.”\n\n— Saymaz, fon soruşturması kapsamında Ticaret Bakanı Ömer Bolat hakkındaki iddiaları tartışmıştı. Hakkında iddianame düzenlenmiş ve 14 yıl 10 ay hapis cezası istenmişti.\n\n— İlk duruşma 8 Temmuz 2027'de görülecek.\n\n— Gazeteci Murat Ağırel ise Sarıgül soruşturması kapsamında tutuklu bulunuyor.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/son-dakika-ismail-saymaz-in-ev-hapsi-karari-kalkti-p379970",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-gazeteci-ismail-saymaz-in-ev-hapsi-kaldirildi-2555067",
-    "Evrensel: https://www.evrensel.net/haber/6008846/gazeteci-ismail-saymazin-ev-hapsi-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Medyascope: https://medyascope.tv/2026/11/10/ismail-saymazin-ev-hapsi-kaldirildi/",
-    "BirGün: https://www.birgun.net/haber/gazeteci-ismail-saymaz-in-ev-hapsi-kaldirildi-745664",
-    "Karar: https://www.karar.com/guncel-haberler/gazeteci-ismail-saymazin-ev-hapsi-karari-kaldirildi-2083400"
-   ]
-  },
   {
    "id": "db019bee9d",
    "post_id": "529346797199852_1464235625816145",
@@ -15929,6 +15970,18 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/kayseride-iki-grup-arasi-bicakli-kavga-iki-kisi-yaralandi-4872503",
     "Yeni Şafak: https://www.yenisafak.com/gundem/konyada-bicakli-kavga-17-yasindaki-mkz-agir-yarali-4872492"
    ]
+  },
+  {
+   "id": "60c4ce93ce",
+   "post_id": "529346797199852_1468880668684974",
+   "title": "Netanyahu’nun birlik hükümeti çağrısına Eisenkot’tan “siyasi manevra” yanıtı",
+   "at": "2026-11-14T21:56:36.425230+00:00",
+   "yazim": "claude",
+   "metin": "Eisenkot'tan Netanyahu'nun birlik hükümeti çağrısına yanıt:\n\n“Güzel deneme, ama bu numaralar bende sökmez. Ve İsrail vatandaşlarında da sökmez.”\n\n— Netanyahu, hükümeti kurmakla görevlendirilen Eisenkot'a ön koşulsuz görüşme ve ulusal birlik hükümeti çağrısı yaptı.\n— Eisenkot bu çağrıyı siyasi manevra olarak nitelendirdi ve Netanyahu'yu yeni hükümetin kurulmasını engellemekle suçladı.\n— İsrail'de 27 Ekim seçimlerinin ardından hükümet kurma görüşmeleri sürüyor.\n— Yashar ile Likud arasındaki görüşme 15 Kasım Pazar günü yapılacak.\n— Knesset Başkanlığı seçimi ise 17 Kasım Salı günü yapılacak.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/eisenkot-netanyahunun-ulusal-birlik-hukumeti-teklifini-yeni-bir-algi-operasyonu-olarak-niteledi/4125442",
+    "Evrensel: https://www.evrensel.net/haber/6009543/netanyahu-nun-birlik-hukumeti-cagrisina-eisenkot-tan-siyasi-manevra-yaniti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -16224,7 +16277,6 @@
   "557e5bc75e": 1
  },
  "fail_log": [
-  "2026-11-14T09:43 YENİ Parti ilk kurultayını yapıyor: 7 tutuklu belediye başka -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-14T10:09 Merab Dvalishvili: \"Serbest bırakıldığımı herkesin bilmesini -> ValueError: yanıt okunamadı",
   "2026-11-14T10:22 Ukrayna'nın savaş alanından yaralıları tahliye etmek için ya -> ValueError: yanıt okunamadı",
   "2026-11-14T10:22 Ukrayna'nın savaş alanından yaralıları tahliye etmek için ya -> ValueError: yanıt okunamadı",
@@ -16263,7 +16315,8 @@
   "2026-11-14T21:53 HABAŞ ardından konuştuğumuz MESEM öğrencisi: Kalıbın altında -> ValueError: yanıt okunamadı",
   "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
   "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
-  "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı"
+  "2026-11-14T21:53 Evrensel'in manşeti: Yaşamak için birleş! -> ValueError: yanıt okunamadı",
+  "2026-11-14T21:56 Netanyahu’nun birlik hükümeti çağrısına Eisenkot’tan “siyasi -> ValueError: cümle yarım kalmış: 'Likud arasında 15 Kasım'da yapılacak gör'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
