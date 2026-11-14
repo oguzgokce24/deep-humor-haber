@@ -2,183 +2,6 @@
  "seen": [
   {
    "fp": [
-    "büyük",
-    "esir",
-    "rusya",
-    "takas",
-    "yapıl",
-    "zelen"
-   ],
-   "tok": [
-    "abd",
-    "araya",
-    "avrup",
-    "barış",
-    "başla",
-    "büyük",
-    "devle",
-    "erdir",
-    "esir",
-    "gelen",
-    "gerçe",
-    "görüş",
-    "irlan",
-    "kadar",
-    "katıl",
-    "rusya",
-    "savaş",
-    "sona",
-    "takas",
-    "ukray",
-    "umut",
-    "verdi",
-    "yana",
-    "yapıl",
-    "yetki",
-    "yla",
-    "zelen",
-    "ülkel",
-    "şimdi"
-   ],
-   "at": "2026-11-12T23:27:57.369639+00:00"
-  },
-  {
-   "fp": [
-    "anlaş",
-    "manch",
-    "mauri",
-    "poche",
-    "unite"
-   ],
-   "tok": [
-    "anlaş",
-    "carri",
-    "düşme",
-    "geril",
-    "hattı",
-    "küme",
-    "leagu",
-    "manch",
-    "mauri",
-    "micha",
-    "poche",
-    "premi",
-    "unite",
-    "yerin"
-   ],
-   "at": "2026-11-12T23:27:58.637502+00:00"
-  },
-  {
-   "fp": [
-    "4",
-    "asker",
-    "cnn",
-    "düşen",
-    "hangi",
-    "helik",
-    "ihtim",
-    "isim",
-    "kaza",
-    "kazas",
-    "konuş",
-    "malat",
-    "sebep",
-    "türk",
-    "uzman",
-    "şehit"
-   ],
-   "tok": [
-    "asker",
-    "cnn",
-    "duyur",
-    "düşen",
-    "düştü",
-    "hangi",
-    "helik",
-    "ihtim",
-    "isim",
-    "kazas",
-    "kazay",
-    "kimli",
-    "konuş",
-    "malat",
-    "milli",
-    "neden",
-    "savun",
-    "sebep",
-    "skors",
-    "tipi",
-    "uzman",
-    "şehit"
-   ],
-   "at": "2026-11-12T23:31:17.816491+00:00"
-  },
-  {
-   "fp": [
-    "5",
-    "bilmi",
-    "ispan",
-    "kaybı",
-    "nedir",
-    "puan",
-    "yaptı"
-   ],
-   "tok": [
-    "beşin",
-    "bilmi",
-    "depla",
-    "grup",
-    "hafta",
-    "ispan",
-    "kaybı",
-    "ligi",
-    "nedir",
-    "puan",
-    "uefa",
-    "ulusl",
-    "yaptı",
-    "yendi",
-    "çekya"
-   ],
-   "at": "2026-11-12T23:34:37.272636+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "19",
-    "tabut",
-    "yalı"
-   ],
-   "tok": [
-    "bazıl",
-    "bile",
-    "bodru",
-    "boğaz",
-    "bulun",
-    "cenaz",
-    "dna",
-    "feci",
-    "habaş",
-    "hapsi",
-    "işçil",
-    "kaldı",
-    "ndan",
-    "patro",
-    "pek",
-    "tabut",
-    "villa",
-    "yalı",
-    "yatac",
-    "yayıl",
-    "yere",
-    "ölen",
-    "şekil",
-    "şirke"
-   ],
-   "at": "2026-11-12T23:34:37.814498+00:00"
-  },
-  {
-   "fp": [
     "4",
     "asker",
     "cnn",
@@ -15189,23 +15012,63 @@
     "şebek"
    ],
    "at": "2026-11-14T11:25:19.362052+00:00"
+  },
+  {
+   "fp": [
+    "ayran",
+    "kefir",
+    "rekor",
+    "seviy",
+    "ulaşt",
+    "yoğur",
+    "üreti"
+   ],
+   "tok": [
+    "arttı",
+    "artış",
+    "ayda",
+    "aynı",
+    "ayran",
+    "ayınd",
+    "bin",
+    "deste",
+    "dönem",
+    "eylül",
+    "ilişk",
+    "ise",
+    "kefir",
+    "kesin",
+    "küres",
+    "kırdı",
+    "nin",
+    "ocak",
+    "rekor",
+    "sanay",
+    "seviy",
+    "süred",
+    "süt",
+    "tarih",
+    "tarım",
+    "ton",
+    "tona",
+    "ulaşt",
+    "veril",
+    "yakla",
+    "yoğur",
+    "yükse",
+    "yüzde",
+    "yılda",
+    "yıllı",
+    "yılın",
+    "zirve",
+    "çıktı",
+    "üreti",
+    "ürünl"
+   ],
+   "at": "2026-11-14T11:40:56.714316+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b0985effe8",
-   "post_id": "529346797199852_1463609049212136",
-   "title": "İstanbul'da huzur uygulaması. 445 kişi gözaltına alındı",
-   "at": "2026-11-10T04:23:53.183531+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da polisin kent genelinde yaptığı \"Huzur İstanbul\" denetiminde 445 şüpheli gözaltına alındı.\n\n— Denetimlerde aranan 538 kişi ile 79 yoklama kaçağı yakalandı.\n— Polis 23 ruhsatsız tabanca, 7 tüfek ve 8 kurusıkı tabanca ele geçirdi.\n— 877 gram uyuşturucu ile 605 uyuşturucu hap bulundu.\n— 372 umuma açık yer denetlendi, 2 bin 835 araç ve motosiklet sürücüsüne işlem yapıldı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-huzur-uygulamasinda-445-supheliye-gozalti-962746.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbulda-huzur-uygulamasi-445-kisi-gozaltina-alindi-43372209",
-    "NTV: https://www.ntv.com.tr/turkiye/istanbulda-huzur-uygulamasi-445-kisi-gozaltina-alindi-1750191",
-    "Habertürk: https://www.haberturk.com/gundem/istanbul-daki-huzur-uygulamasinda-445-zanli-gozaltina-alindi-3926146"
-   ]
-  },
   {
    "id": "1763747391",
    "post_id": "529346797199852_1463623959210645",
@@ -17767,6 +17630,20 @@
     "TRT Haber: https://www.trthaber.com/haber/bilim-teknoloji/turksat-altyapi-bulunmayan-bolgelere-kesintisiz-internet-saglayacak-963268.html",
     "Diken: https://www.diken.com.tr/yerli-ve-milli-turksattan-gunes-enerjili-wi-fi/?utm_source=rss&utm_medium=rss&utm_campaign=yerli-ve-milli-turksattan-gunes-enerjili-wi-fi"
    ]
+  },
+  {
+   "id": "7272d641b3",
+   "post_id": "529346797199852_1468431862063188",
+   "title": "Ayran, kefir ve yoğurt üretiminde 5 yıllık rekor artış",
+   "at": "2026-11-14T11:40:56.714316+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'de ayran, kefir ve yoğurt üretimi son beş yılda kesintisiz arttı.\n\n— Ayran ve kefir üretimi beş yılda yüzde 45 arttı. 2022'nin ocak-eylül döneminde 574 bin 939 ton üretilmişti.\n— Yoğurt üretimi aynı sürede yaklaşık yüzde 27 arttı. 2022'nin ilk dokuz ayında 888 bin 676 ton olan üretim 1 milyon 126 bin 83 tona çıktı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/ekonomi/ayran-kefir-ve-yogurt-uretimi-9-ayda-rekor-seviyeye-ulasti-963266.html",
+    "TRT Haber: https://www.trthaber.com/haber/ekonomi/kuresel-tarim-destekleri-rekor-seviyeye-ulasti-963249.html",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/turkiyede-ayran-kefir-ve-yogurt-uretiminde-rekor-3493165",
+    "Karar: https://www.karar.com/ekonomi-haberleri/ayran-kefir-ve-yogurt-uretiminde-5-yillik-rekor-artis-2084113"
+   ]
   }
  ],
  "fails": {
@@ -18091,7 +17968,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121562211675943290",
+   "since_id": "2121567828780163082",
    "started": true
   },
   "ajansmuhbir1923": {
