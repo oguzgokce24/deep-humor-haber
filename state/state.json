@@ -2,43 +2,6 @@
  "seen": [
   {
    "fp": [
-    "düştü",
-    "helik",
-    "malat"
-   ],
-   "tok": [
-    "alevl",
-    "anlar",
-    "appea",
-    "asker",
-    "diken",
-    "düştü",
-    "ekibi",
-    "ekip",
-    "ekipl",
-    "enkaz",
-    "helik",
-    "ilçes",
-    "itfai",
-    "kamer",
-    "malat",
-    "nın",
-    "olay",
-    "post",
-    "sayıd",
-    "sağlı",
-    "sevk",
-    "the",
-    "tipi",
-    "yansı",
-    "yerin",
-    "yeşil",
-    "yükse"
-   ],
-   "at": "2026-11-12T16:26:10.098826+00:00"
-  },
-  {
-   "fp": [
     "alama",
     "bartı",
     "işçil",
@@ -17293,20 +17256,99 @@
     "üreti"
    ],
    "at": "2026-11-14T04:24:47.170120+00:00"
+  },
+  {
+   "fp": [
+    "bıçak",
+    "dedir",
+    "eski",
+    "eşini",
+    "istes",
+    "kamer",
+    "marke",
+    "pes",
+    "sanık",
+    "savun",
+    "yapar",
+    "yerde",
+    "öldür"
+   ],
+   "tok": [
+    "ağır",
+    "boşan",
+    "bulun",
+    "bursa",
+    "bıçak",
+    "ceza",
+    "cezay",
+    "daki",
+    "davan",
+    "dedir",
+    "devam",
+    "dosya",
+    "duruş",
+    "eksik",
+    "ertel",
+    "eski",
+    "etmed",
+    "eşi",
+    "eşini",
+    "getir",
+    "gider",
+    "gitti",
+    "görül",
+    "halin",
+    "harek",
+    "ileri",
+    "ilçes",
+    "ise",
+    "isted",
+    "istes",
+    "kadın",
+    "kamer",
+    "kasiy",
+    "kastı",
+    "kasım",
+    "kaydı",
+    "konuş",
+    "marke",
+    "mağdu",
+    "mudan",
+    "neden",
+    "nin",
+    "nın",
+    "olay",
+    "olmad",
+    "pes",
+    "rahat",
+    "sait",
+    "sanık",
+    "sanığ",
+    "savun",
+    "tamam",
+    "tanık",
+    "tarih",
+    "tartı",
+    "varke",
+    "verdi",
+    "verer",
+    "yalnı",
+    "yanın",
+    "yapar",
+    "yapma",
+    "yargı",
+    "yaşan",
+    "yaşın",
+    "yerde",
+    "yerle",
+    "zinci",
+    "çalış",
+    "öldür"
+   ],
+   "at": "2026-11-14T04:28:58.901034+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "825ed1522a",
-   "post_id": "529346797199852_1463293729243668",
-   "title": "'Siyasetçi' iması: Fon vurgununa nasıl karıştığı sorulan eski bakan ‘siyasetçilerin tavsiyesi’ dedi",
-   "at": "2026-11-09T21:13:31.657408+00:00",
-   "yazim": "claude",
-   "metin": "Fon soruşturmasında tutuklanan eski Aile Bakanı Fatma Betül Kaya, 163 milyonluk fon yatırımını siyasetçilerin tavsiyesiyle yaptığını söyledi.\n\nFatma Betül Kaya, hâkimlik ifadesinde:\n\n“Eşimle bir miktar birikimimizi değerlendirmek istedik. Hem Erdin Bey’in söyledikleri hem de birçok siyasetçiden duyduklarım doğrultusunda yatırım yaptık.”\n\n— Kaya, ifadesinde ev hanımı olduğunu ve aylık gelirinin 500 bin TL olduğunu söyledi.\n\n— Tera Holding yöneticisi Erdin Özel'in kendisine yardımcı olarak önerildiğini, ancak hiçbir dönemde yardımcısı olmadığını belirtti.\n\n— Kaya suçlamaları reddediyor ve yatırım kararını eşiyle birlikte aldıklarını savunuyor.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/siyasetci-imasi-fon-vurgununa-nasil-karistigi-sorulan-eski-bakan-2083241"
-   ]
-  },
   {
    "id": "fecf19428b",
    "post_id": "529346797199852_1463301215909586",
@@ -19825,6 +19867,17 @@
    "sources": [
     "Hürriyet: https://www.hurriyet.com.tr/gundem/aymden-darbecilere-konulan-hacze-onay-43377739",
     "Sözcü: https://www.sozcu.com.tr/tegmenlere-aym-den-ret-p381178"
+   ]
+  },
+  {
+   "id": "78ee433c22",
+   "post_id": "529346797199852_1468142665425441",
+   "title": "Markette eski eşini bıçaklayan sanıktan pes dedirten savunma: 'Öldürmek isteseydim kamerasız yerde yapardım'",
+   "at": "2026-11-14T04:28:58.901034+00:00",
+   "yazim": "claude",
+   "metin": "Eski eşini markette bıçaklayan sanık Sait E., savunmasında:\n\n“Öldürmek isteseydim çok rahat öldürebileceğim yerler varken, kamera kaydının olmadığı, tanıkların bulunmayacağı bir yerde yapmak varken neden markette öldüreyim?”\n\n— Olay 4 Kasım 2025'te Mudanya'daki bir zincir markette yaşandı. Kasiyer olarak çalışan 31 yaşındaki M.E. ile tartışan eski eşi Sait E., yanında getirdiği bıçakla kadını ağır yaraladı.\n— Sanık, öldürmek kastıyla hareket etmediğini ve yalnızca konuşmak için markete gittiğini savundu. Mağdur ise en ağır cezayı istedi.\n— Mahkeme Sait E.'nin tutukluluğunun devamına karar verdi. Duruşma, dosyadaki eksikliklerin tamamlanması için ileri bir tarihe ertelendi.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/markette-eski-esini-bicaklayan-saniktan-pes-dedirten-savunma-oldurmek-2084048"
    ]
   }
  ],
