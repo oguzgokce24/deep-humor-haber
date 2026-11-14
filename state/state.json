@@ -2,89 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altın",
-    "ağacı",
-    "işçis",
-    "kalan",
-    "kesil",
-    "orman"
-   ],
-   "tok": [
-    "altın",
-    "ağacı",
-    "bozte",
-    "cinay",
-    "deniz",
-    "devri",
-    "ilçes",
-    "işlet",
-    "işçis",
-    "kalan",
-    "kesil",
-    "kesim",
-    "mente",
-    "muğla",
-    "nde",
-    "nın",
-    "olay",
-    "orman",
-    "serka",
-    "sıras",
-    "yerin",
-    "çalış",
-    "çam",
-    "şefli"
-   ],
-   "at": "2026-11-12T17:55:33.065275+00:00"
-  },
-  {
-   "fp": [
-    "5",
-    "beyaz",
-    "kişi",
-    "saldı",
-    "saray",
-    "sesle",
-    "silah",
-    "vurul",
-    "yakın"
-   ],
-   "tok": [
-    "abd",
-    "arark",
-    "bazı",
-    "başke",
-    "beyaz",
-    "bölge",
-    "circl",
-    "civar",
-    "düzen",
-    "gerek",
-    "güven",
-    "henüz",
-    "intih",
-    "kapat",
-    "kilom",
-    "logan",
-    "nin",
-    "okull",
-    "paniğ",
-    "saray",
-    "semti",
-    "sesle",
-    "silah",
-    "uzakl",
-    "vurul",
-    "washi",
-    "yakla",
-    "yakın",
-    "çatış",
-    "çevre"
-   ],
-   "at": "2026-11-12T17:59:01.287575+00:00"
-  },
-  {
-   "fp": [
     "apart",
     "davas",
     "furka"
@@ -17191,22 +17108,41 @@
     "üçlü"
    ],
    "at": "2026-11-14T05:47:50.839483+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "dolan",
+    "ilde",
+    "opera"
+   ],
+   "tok": [
+    "adliy",
+    "alına",
+    "anda",
+    "aynı",
+    "bartı",
+    "baskı",
+    "belge",
+    "belir",
+    "dolan",
+    "düzen",
+    "ekipl",
+    "emniy",
+    "firma",
+    "karab",
+    "nitel",
+    "resmi",
+    "resmî",
+    "sahte",
+    "sevk",
+    "uğrat",
+    "zarar"
+   ],
+   "at": "2026-11-14T06:01:09.499503+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "85ec20938c",
-   "post_id": "529346797199852_1463351412571233",
-   "title": "Bursa’da araç yüklü çekici dehşet saçtı: Otomobil ve hafif ticari araca çarpıp eve girdi",
-   "at": "2026-11-09T22:35:53.492866+00:00",
-   "yazim": "claude",
-   "metin": "Bursa'da yüklü bir çekici, otomobil ve hafif ticari araca çarpıp bir evin içine girdi.\n\nÇarpmanın etkisiyle savrulan çekici, bir evin duvarına çarparak durabildi. Kazada çekici sürücüsü kabinde sıkışarak yaralandı.\n\n— İtfaiye ekipleri demir yığınlarını keserek sürücüyü araçtan çıkardı.\n— Sürücü, ilk müdahalenin ardından hastaneye kaldırıldı ve tedavisi başladı.\n— Diğer araçlardaki 2 kişinin hafif sıyrıklarla kurtulduğu öğrenildi.\n— Kaza nedeniyle Yalova-Bursa kara yolunda bir süre trafik kontrollü sağlandı. Araçlar kaldırılıp temizlik tamamlanınca trafik normale döndü.\n— Polis kazayla ilgili inceleme başlattı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/bursa/orhangazi/arac-yuklu-cekici-once-kirmizi-isikta-bekleyen-araclara-ve-eve-carpti-1-yarali-3491234",
-    "Sözcü: https://www.sozcu.com.tr/bursa-da-arac-yuklu-cekici-dehset-sacti-otomobil-ve-hafif-ticari-araca-carpip-eve-girdi-p379683",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/boluda-canli-tavuk-yuklu-tir-dehseti-kirmizi-isikta-bekleyen-araclara-carpti-4871085"
-   ]
-  },
   {
    "id": "bfae0c3004",
    "post_id": "529346797199852_1463363789236662",
@@ -19727,6 +19663,18 @@
     "Evrensel: https://www.evrensel.net/haber/6009420/trump-si-ve-putinle-gorusecek-gundemde-nukleer-silahlar-ve-iran-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/dunya-haberleri/trump-si-ve-putinle-uclu-gorusme-gerceklestirecek-2084055"
    ]
+  },
+  {
+   "id": "aeac61b5e3",
+   "post_id": "529346797199852_1468202675419440",
+   "title": "Karabük merkezli 4 ilde dolandırıcılık operasyonu: 11 şüpheli yakalandı",
+   "at": "2026-11-14T06:01:09.499503+00:00",
+   "yazim": "claude",
+   "metin": "Karabük merkezli dolandırıcılık operasyonunda 11 şüpheli yakalandı. Şüphelilerin firmaları 55 milyon lira zarara uğrattıkları belirlendi.\n\n— Emniyet ekipleri Karabük, Ankara, İstanbul ve Bartın'da aynı anda baskın yaptı.\n— Nitelikli dolandırıcılık ve resmi belgede sahtecilik soruşturmasında gözaltına alınan şüpheliler adliyeye sevk edildi.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/firmalari-55-milyon-lira-dolandirdilar-4-ilde-operasyon-p381201",
+    "BirGün: https://www.birgun.net/haber/karabuk-merkezli-4-ilde-dolandiricilik-operasyonu-11-supheli-yakalandi-746374"
+   ]
   }
  ],
  "fails": {
@@ -20002,12 +19950,10 @@
   "9be792bd65": 1,
   "6624b105db": 1,
   "dbc167bba2": 1,
-  "9c75a102e7": 1
+  "9c75a102e7": 1,
+  "4da2fc36a7": 1
  },
  "fail_log": [
-  "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: cümle yarım kalmış: '— G'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: yanıt okunamadı",
   "2026-11-14T04:25 AKP kulisinde ‘yeni sayfa’ arayışı: Kabine değişikliği için  -> ValueError: yanıt okunamadı",
   "2026-11-14T04:25 AKP kulisinde ‘yeni sayfa’ arayışı: Kabine değişikliği için  -> ValueError: yanıt okunamadı",
   "2026-11-14T04:25 AKP kulisinde ‘yeni sayfa’ arayışı: Kabine değişikliği için  -> ValueError: yanıt okunamadı",
@@ -20044,7 +19990,10 @@
   "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
   "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
   "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
-  "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı"
+  "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
+  "2026-11-14T06:01 Arjantin'de doğal gaz borusu patladı: 1 kişi öldü, 30 kişi y -> ValueError: yanıt okunamadı",
+  "2026-11-14T06:01 Arjantin'de doğal gaz borusu patladı: 1 kişi öldü, 30 kişi y -> ValueError: yanıt okunamadı",
+  "2026-11-14T06:01 Arjantin'de doğal gaz borusu patladı: 1 kişi öldü, 30 kişi y -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
