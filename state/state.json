@@ -2,120 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alkış",
-    "anlar",
-    "arda",
-    "bazı",
-    "belçi",
-    "güler",
-    "rakib",
-    "sadec",
-    "yıldı",
-    "övgü"
-   ],
-   "tok": [
-    "alkış",
-    "anlar",
-    "arda",
-    "ardın",
-    "bazı",
-    "belçi",
-    "bruyn",
-    "forma",
-    "futbo",
-    "giyen",
-    "güler",
-    "karşı",
-    "kevin",
-    "konuş",
-    "lamme",
-    "mağlu",
-    "milli",
-    "rakib",
-    "sadec",
-    "sahas",
-    "senne",
-    "takım",
-    "yıldı",
-    "övgü"
-   ],
-   "at": "2026-11-12T20:55:15.418079+00:00"
-  },
-  {
-   "fp": [
-    "4",
-    "asker",
-    "düşen",
-    "düştü",
-    "helik",
-    "kazas",
-    "malat",
-    "şehit"
-   ],
-   "tok": [
-    "alan",
-    "asker",
-    "cnn",
-    "daki",
-    "duyur",
-    "düşen",
-    "düştü",
-    "görün",
-    "havad",
-    "helik",
-    "ihtim",
-    "isim",
-    "kamer",
-    "kazas",
-    "kazay",
-    "kimli",
-    "kırım",
-    "malat",
-    "milli",
-    "msb",
-    "neden",
-    "savun",
-    "skors",
-    "tipi",
-    "uzman",
-    "uğrad",
-    "şehit"
-   ],
-   "at": "2026-11-12T20:58:40.380467+00:00"
-  },
-  {
-   "fp": [
-    "arjan",
-    "nin",
-    "scalo",
-    "sözle",
-    "uzatt"
-   ],
-   "tok": [
-    "anlaş",
-    "arjan",
-    "den",
-    "feder",
-    "futbo",
-    "imzal",
-    "lione",
-    "milli",
-    "nikah",
-    "nin",
-    "scalo",
-    "sözle",
-    "takım",
-    "tazel",
-    "uzatt",
-    "yana",
-    "yle",
-    "yıllı",
-    "çalış"
-   ],
-   "at": "2026-11-12T20:58:42.381111+00:00"
-  },
-  {
-   "fp": [
     "4",
     "asker",
     "düşen",
@@ -16181,20 +16067,54 @@
     "öne"
    ],
    "at": "2026-11-14T08:52:31.906292+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "4",
+    "7",
+    "dolan",
+    "ilde",
+    "merke",
+    "opera",
+    "yakal",
+    "şüphe"
+   ],
+   "tok": [
+    "adliy",
+    "alına",
+    "alınd",
+    "anda",
+    "ardın",
+    "aynı",
+    "bartı",
+    "baskı",
+    "belge",
+    "belir",
+    "dev",
+    "dolan",
+    "duyur",
+    "düzen",
+    "edile",
+    "emniy",
+    "firma",
+    "iddia",
+    "izmir",
+    "içişl",
+    "işlem",
+    "karab",
+    "nitel",
+    "resmî",
+    "sahte",
+    "sevk",
+    "siber",
+    "uğrat",
+    "zarar"
+   ],
+   "at": "2026-11-14T09:05:19.298548+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5f0594df40",
-   "post_id": "529346797199852_1463493252557049",
-   "title": "Apple'dan Türkiye'ye dev yatırım: İstanbul ve Ankara, küresel teknoloji ağının parçası oluyor",
-   "at": "2026-11-10T01:51:09.660589+00:00",
-   "yazim": "claude",
-   "metin": "Apple, Türkiye'de İstanbul ve Ankara'da toplam 7 eğitim ve teknoloji merkezi kuracak.\n\n— İstanbul'da 2027'de bir geliştirici akademisi ile geliştirici merkezi açılacak. Ankara'daki üretim akademisi ise 2028'de çalışmaya başlayacak.\n\n— Ülke genelinde 5 Apple Developer Academy kurulacak. Diğer dört akademinin hangi illerde olacağı henüz belli değil.\n\n— Akademilerde yazılımcılar ve girişimciler dokuz ay boyunca ücretsiz eğitim alacak. Başvuru koşulları daha sonra açıklanacak.\n\n— Şirket, yatırımın toplam maliyetini paylaşmadı. Hedef, yerli yazılımcıların uluslararası uygulama pazarındaki payını büyütmek ve KOBİ'lerin yapay zeka destekli üretime geçişini hızlandırmak.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/apple-developer-center-nedir-turkiyede-ne-zaman-acilacak-apple-2083254"
-   ]
-  },
   {
    "id": "c297586d81",
    "post_id": "529346797199852_1463501555889552",
@@ -18730,6 +18650,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/kastamonu-hanonunde-otomobiller-carpisti-5-yarali-4872375",
     "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/halic-koprusunde-makas-faciasi-5-arac-birbirine-girdi-2-yarali-4872334"
    ]
+  },
+  {
+   "id": "566cc0ecea",
+   "post_id": "529346797199852_1468324078740633",
+   "title": "Karabük merkezli 4 ilde dolandırıcılık operasyonu: 11 şüpheli yakalandı",
+   "at": "2026-11-14T09:05:19.298548+00:00",
+   "yazim": "claude",
+   "metin": "Karabük merkezli operasyonda, firmaları 55 milyon lira dolandırdığı iddia edilen 11 şüpheli gözaltına alındı.\n\n— Polis, Karabük, Ankara, İstanbul ve Bartın'da aynı anda baskın yaptı.\n\n— Gözaltındaki şüpheliler emniyetteki işlemlerinin ardından adliyeye sevk edildi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/7-ilde-dolandiricilik-operasyonu-12-supheli-yakalandi-963257.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/7-ilde-nitelikli-dolandiricilik-operasyonu-12-gozalti-43378004",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/14/son-dakika-icisleri-bakanligi-duyurdu-7-ilde-dev-dolandiricilik-operasyonu-12-supheli-yakalandi",
+    "Sözcü: https://www.sozcu.com.tr/firmalari-55-milyon-lira-dolandirdilar-4-ilde-operasyon-p381201",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/izmir-merkezli-siber-dolandiricilik-operasyonu-8-tutuklama-4872358",
+    "BirGün: https://www.birgun.net/haber/izmir-merkezli-4-ilde-siber-dolandiricilik-operasyonu-8-supheli-tutuklandi-746386"
+   ]
   }
  ],
  "fails": {
@@ -19053,7 +18989,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121523898588033326",
+   "since_id": "2121529762703098218",
    "started": true
   },
   "ajansmuhbir1923": {
