@@ -14967,23 +14967,67 @@
     "çekti"
    ],
    "at": "2026-11-14T14:06:26.736308+00:00"
+  },
+  {
+   "fp": [
+    "antal",
+    "cop31",
+    "iklim",
+    "yürüy"
+   ],
+   "tok": [
+    "adale",
+    "antal",
+    "arası",
+    "aydın",
+    "başla",
+    "buluş",
+    "burad",
+    "cop31",
+    "demok",
+    "dünya",
+    "düzen",
+    "emek",
+    "fosil",
+    "güçle",
+    "halkl",
+    "iklim",
+    "indi",
+    "kadın",
+    "kanza",
+    "kapsa",
+    "karşı",
+    "katıl",
+    "meyda",
+    "mitin",
+    "ndan",
+    "paral",
+    "parkı",
+    "savun",
+    "sloga",
+    "sürec",
+    "süreç",
+    "talep",
+    "top",
+    "toplu",
+    "yakıt",
+    "yapıl",
+    "yaşam",
+    "yurtt",
+    "yürüd",
+    "yürüy",
+    "zaman",
+    "zirve",
+    "çevre",
+    "çıktı",
+    "çıkış",
+    "öne",
+    "örgüt"
+   ],
+   "at": "2026-11-14T14:19:02.707036+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "dfbd47a1d0",
-   "post_id": "529346797199852_1463764039196637",
-   "title": "Peynir düzenlemesi: Süt dışı protein ve jelatine yasak",
-   "at": "2026-11-10T07:33:06.176924+00:00",
-   "yazim": "claude",
-   "metin": "Tarım ve Orman Bakanlığı'nın hazırladığı yeni tebliğle peynirde süt dışı protein kullanımı yasaklandı.\n\n— Etiketlerde \"köy peyniri\", \"geleneksel peynir\", \"doğal peynir\" ve \"çiftlik peyniri\" ifadeleri artık kullanılamayacak.\n— Çiğ ya da termizasyonlu sütten yapılan telemesi haşlanmamış peynirler, en az dört ay olgunlaştırılmadan satışa çıkarılamayacak.\n— Peynirler muhafaza, taşıma ve satış sırasında 10 derecenin altında tutulmak zorunda olacak.\n— Yeni kurallara uymak için 30 Nisan 2027'ye kadar süre verildi. Bundan önce satışa çıkan peynirler raf ömrü bitene kadar satılabilecek.\n— Yeni düzenlemeye uygun olmayan dilimlenebilir eritme peynirleri ise 30 Nisan 2027'den sonra raflardan kalkacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/peynir-uretiminde-sut-proteini-disindaki-proteinler-yasaklandi/4118191",
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/peynir-uretiminde-sut-disi-proteinlere-yasak-962763.html",
-    "Habertürk: https://www.haberturk.com/ekonomi/kahvaltilik-peynirde-yeni-donem-peynir-uretiminde-koy-ve-geleneksel-donemi-bitti-iste-yeni-kurallar-3926153",
-    "Diken: https://www.diken.com.tr/peynir-duzenlemesi-sut-disi-protein-ve-jelatine-yasak/?utm_source=rss&utm_medium=rss&utm_campaign=peynir-duzenlemesi-sut-disi-protein-ve-jelatine-yasak"
-   ]
-  },
   {
    "id": "8b87e130ae",
    "post_id": "529346797199852_1463779302528444",
@@ -17543,6 +17587,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/bahceli-nin-koluna-giren-dervisoglu-na-tepki-gostermisti-iyi-partili-erhan-usta-dan-yeni-aciklama-geldi-2556127",
     "BirGün: https://www.birgun.net/haber/bahcelinin-koluna-giren-dervisogluna-tepki-gostermisti-erhan-ustadan-yeni-aciklama-746462"
    ]
+  },
+  {
+   "id": "3e5fc9988a",
+   "post_id": "529346797199852_1468555888717452",
+   "title": "Antalya'da COP31'e paralel iklim yürüyüşü: Yaşamı savunanlar meydanlara indi",
+   "at": "2026-11-14T14:19:02.707036+00:00",
+   "yazim": "claude",
+   "metin": "Antalya'da COP31 sürecine paralel düzenlenen iklim yürüyüşünde yurttaşlar \"Yaşamı Savunuyoruz\" sloganıyla meydanlara indi.\n\n— Yürüyüş, Halkların İklim Zirvesi kapsamında çevre örgütleri, emek ve demokrasi güçleri ile yurttaşların katılımıyla yapıldı.\n— Katılımcılar Aydın Kanza Parkı'ndan Cumhuriyet Meydanı'na yürüdü ve burada miting düzenledi.\n— Talepler arasında iklim adaleti, fosil yakıtlardan çıkış ve karar süreçlerine toplumsal katılım öne çıktı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/antalya-da-cop31-e-paralel-iklim-yuruyusu-yasami-savunanlar-meydanlara-indi-2556108",
+    "Medyascope: https://medyascope.tv/2026/11/14/dunya-kadin-yuruyusu-cop31e-karsi-iklim-adaleti-bulusmasi-baslatti/"
+   ]
   }
  ],
  "fails": {
@@ -17868,7 +17924,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121603295928365541",
+   "since_id": "2121606458965967032",
    "started": true
   },
   "ajansmuhbir1923": {
