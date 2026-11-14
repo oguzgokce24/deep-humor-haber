@@ -104,6 +104,8 @@ kararları; çok sayıda can kaybına yol açan büyük afet ve saldırılar; d�
 Haberin asıl değeri bir VİDEO ya da görüntüyse (viral video, "o anlar kameraya yansıdı", dalganın birini
 ıslatması, ilginç bir an gibi) ve ölüm, yaralanma, gözaltı gibi ciddi bir sonuç yoksa yalnızca ATLA yaz;
 biz video paylaşamıyoruz, fotoğrafla bu haber anlaşılmaz.
+Kültür-sanat ETKİNLİĞİ haberlerini (konser, sergi, şiir, beste, tiyatro, prömiyer, kitap tanıtımı, festival,
+söyleşi, anma programı, ödül töreni) yalnızca ATLA ile geç; ölüm, yasak, iptal ya da skandal varsa yaz.
 Kaynak bir ANALİZ, DEĞERLENDİRME, İNCELEME, SÖYLEŞİ ya da DOSYA yazısıysa (belirli bir olayı değil bir konuyu
 yorumluyorsa; ör. "… açısından", "… dinamikleri", "dönüm noktasında" gibi başlıklar) yalnızca ATLA yaz.
 Kaynak bir KÖŞE YAZISI / GÖRÜŞ YAZISI ise ya da bir gazetecinin, köşe yazarının yazısını aktaran bir içerikse

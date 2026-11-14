@@ -141,6 +141,21 @@ def video_story(c) -> bool:
     return any(w in t for w in VIDEO_HABER) and not any(w in t for w in CIDDI)
 
 
+# Kültür-sanat etkinliği haberleri (konser, sergi, şiir, prömiyer…): sayfada etkileşim getirmiyor
+ETKINLIK = ["konser", "sergi", "sergisi", "festival", "şiir", "beste", "bestelen", "seslendirdi", "tiyatro",
+            "prömiyer", "galası", "gala gecesi", "sahnelen", "kitabı", "kitap tanıtım", "söyleşi", "panelde", "paneli düzenlendi", "sempozyum",
+            "anma programı", "anma töreni", "etkinliği", "etkinlik", "resital", "orkestra", "operası", "opera sanatçı", "balesi", "bale gösteri",
+            "fotoğraf sergisi", "film gösterimi", "ödül töreni", "ödülü aldı", "ödülüne layık"]
+SKANDAL = ["öldü", "hayatını kaybetti", "vefat", "tutuklandı", "gözaltı", "soruşturma", "iptal edildi",
+           "yasaklandı", "tepki", "skandal", "saldırı", "kavga", "yakalandı", "operasyon", "derbi", "maç"]
+
+
+def event_story(c) -> bool:
+    """Kültür-sanat etkinliği haberi mi (başlığa göre); ölüm/yasak/skandal gibi bir gelişme varsa değil."""
+    t = _tr_low(" ".join(i.title for i in c.items[:4]))
+    return any(re.search(r"(?<![a-zçğıöşü])" + re.escape(w), t) for w in ETKINLIK) and not any(w in t for w in SKANDAL)
+
+
 def sport_story(c) -> bool:
     """Spor haberi mi: spor bölümünden gelen bağlantı ya da başlıklarda en az 2 spor kelimesi."""
     if any("/spor" in i.link.lower() for i in c.items):
@@ -270,7 +285,9 @@ def find_new(cfg, st):
         if same_story(c):
             continue
         if video_story(c):
-            continue                                 # videosu olmadan anlaşılmayan "o anlar" haberleri
+            continue
+        if event_story(c):
+            continue                                 # konser/sergi/şiir gibi etkinlik haberleri                                 # videosu olmadan anlaşılmayan "o anlar" haberleri
         fp = c.fingerprint
         titles = [i.title for i in c.items]
         lead_t = c.lead().title
