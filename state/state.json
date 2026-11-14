@@ -2,118 +2,6 @@
  "seen": [
   {
    "fp": [
-    "basın",
-    "boğaz",
-    "hürmü",
-    "iran",
-    "kenti",
-    "sirik",
-    "vurul",
-    "yakın"
-   ],
-   "tok": [
-    "appea",
-    "basın",
-    "bağlı",
-    "belir",
-    "boğaz",
-    "diken",
-    "düşma",
-    "eyale",
-    "first",
-    "hedef",
-    "hürmü",
-    "iran",
-    "kenti",
-    "linka",
-    "post",
-    "sirik",
-    "site",
-    "the",
-    "vurul",
-    "yakın"
-   ],
-   "at": "2026-11-12T20:43:17.080756+00:00"
-  },
-  {
-   "fp": [
-    "canı",
-    "felçl",
-    "harek",
-    "hayat",
-    "kahra",
-    "kalan",
-    "kurta",
-    "mahsu",
-    "muhta",
-    "pahas",
-    "vatan",
-    "yangı"
-   ],
-   "tok": [
-    "alevl",
-    "bolu",
-    "canı",
-    "devri",
-    "evde",
-    "evind",
-    "far",
-    "felçl",
-    "geçer",
-    "harek",
-    "kahra",
-    "kalan",
-    "kaldı",
-    "kapıy",
-    "kurta",
-    "kırıp",
-    "mahsu",
-    "muhta",
-    "pahas",
-    "soban",
-    "sokak",
-    "sonuc",
-    "vatan",
-    "yanan",
-    "yangı",
-    "çıkan"
-   ],
-   "at": "2026-11-12T20:46:38.842793+00:00"
-  },
-  {
-   "fp": [
-    "5",
-    "alma",
-    "arası",
-    "kavga",
-    "pendi",
-    "taksi",
-    "tutuk",
-    "yolcu"
-   ],
-   "tok": [
-    "alma",
-    "arası",
-    "birbi",
-    "girdi",
-    "gökçe",
-    "haval",
-    "kavga",
-    "mesel",
-    "nda",
-    "neden",
-    "pendi",
-    "sabih",
-    "taksi",
-    "tartı",
-    "teki",
-    "yolcu",
-    "çıkan"
-   ],
-   "at": "2026-11-12T20:46:39.848884+00:00"
-  },
-  {
-   "fp": [
     "alkış",
     "anlar",
     "arda",
@@ -16213,20 +16101,89 @@
     "çıkar"
    ],
    "at": "2026-11-14T08:40:02.648176+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "2",
+    "5",
+    "haliç",
+    "kasta",
+    "kaza",
+    "kişi",
+    "köprü",
+    "nde",
+    "otomo",
+    "tekir",
+    "tır",
+    "yaral",
+    "zinci",
+    "çarpı",
+    "öldü"
+   ],
+   "tok": [
+    "akşam",
+    "ambul",
+    "antal",
+    "arkad",
+    "atatü",
+    "attığ",
+    "aynı",
+    "birbi",
+    "döndü",
+    "dün",
+    "etkis",
+    "facia",
+    "gece",
+    "girdi",
+    "haliç",
+    "hanön",
+    "hasta",
+    "haval",
+    "ilçes",
+    "kaldı",
+    "karış",
+    "kasta",
+    "kazay",
+    "kuyru",
+    "köprü",
+    "makas",
+    "nde",
+    "norma",
+    "nun",
+    "oluşt",
+    "otomo",
+    "refüj",
+    "saat",
+    "saatl",
+    "sağla",
+    "sonuc",
+    "süre",
+    "sürüc",
+    "sürül",
+    "sıral",
+    "taksi",
+    "tekir",
+    "trafi",
+    "tır",
+    "ulaşı",
+    "uzun",
+    "yan",
+    "yolda",
+    "yönde",
+    "yönün",
+    "zinci",
+    "çarpa",
+    "çarpm",
+    "çarpt",
+    "çarpı",
+    "çekic",
+    "öne"
+   ],
+   "at": "2026-11-14T08:52:31.906292+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b32b53045a",
-   "post_id": "529346797199852_1463482299224811",
-   "title": "Belözoğlu gelir gelmez F.Bahçe’deki farkını gösterdi: 5 kritik dokunuş",
-   "at": "2026-11-10T01:38:41.976073+00:00",
-   "yazim": "claude",
-   "metin": "Fenerbahçe, Emre Belözoğlu yönetimindeki ilk maçında Çorum FK'yi 5-0 yendi ve takımın oyunundaki değişim dikkat çekti.\n\n— Belözoğlu, geniş bir ekiple Samandıra'ya geçti ve antrenörlük kadrosuna İsmail Kartal döneminden kimseyi almadı.\n— İngilizce, İtalyanca ve İspanyolca bilen hoca, yabancı futbolcularla aracısız konuşuyor.\n— Oyuncu değişikliklerini skora uygun ve doğru zamanda yapıyor, bu da saha kontrolünü Fenerbahçe'de tutuyor.\n— Greenwood, İrfan Can ve Oğuz Aydın, Belözoğlu'nun sahada tanıdığı özgürlük alanı sayesinde daha iyi oynuyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/belozoglu-gelir-gelmez-f-bahce-deki-farkini-gosterdi-5-kritik-dokunus-2554880"
-   ]
-  },
   {
    "id": "5f0594df40",
    "post_id": "529346797199852_1463493252557049",
@@ -18757,6 +18714,22 @@
     "Evrensel: https://www.evrensel.net/haber/6009442/cankiri-da-trafik-kazasi-baba-ile-9-yasindaki-kizi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/ailece-yolculuk-faciayla-bitti-baba-ve-kizi-hayatini-kaybetti-anne-agir-2084078"
    ]
+  },
+  {
+   "id": "dc6072ecf5",
+   "post_id": "529346797199852_1468314735408234",
+   "title": "Tekirdağ'da otomobil ile TIR çarpıştı: 1 kişi öldü, 2 kişi yaralandı",
+   "at": "2026-11-14T08:52:31.906292+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Haliç Köprüsü'nde 5 aracın karıştığı zincirleme kazada 2 kişi yaralandı.\n\nGece saat 00.00 sıralarında, sürücüsünün makas attığı öne sürülen otomobil Atatürk Havalimanı yönünde taksiye çarptı. Çarpmanın etkisiyle aynı yöndeki 3 araç daha kazaya karıştı.\n\n— Yaralılar ambulanslarla hastaneye kaldırıldı.\n— Köprünün Atatürk Havalimanı yönünde uzun araç kuyrukları oluştu, trafik bir süre yan yoldan sağlandı.\n— Kazaya karışan araçlar çekiciyle yoldan kaldırıldıktan sonra ulaşım normale döndü.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/tekirdag/tekirdagda-otomobil-ile-tir-carpisti-1-kisi-oldu-2-kisi-yaralandi-3493122",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/kastamonu/kastamonuda-iki-otomobilin-carpistigi-kazada-5-kisi-yaralandi-3493117",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/antalya/antalyada-refuje-carpan-otomobildeki-2-kisi-yarali-3493115",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/halic-koprusu-nde-5-araclik-zincirleme-kaza-2-yarali-2556048",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/kastamonu-hanonunde-otomobiller-carpisti-5-yarali-4872375",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/halic-koprusunde-makas-faciasi-5-arac-birbirine-girdi-2-yarali-4872334"
+   ]
   }
  ],
  "fails": {
@@ -19080,7 +19053,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121518253344481533",
+   "since_id": "2121523898588033326",
    "started": true
   },
   "ajansmuhbir1923": {
