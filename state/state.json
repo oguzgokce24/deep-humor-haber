@@ -2,125 +2,6 @@
  "seen": [
   {
    "fp": [
-    "den",
-    "dmm",
-    "endek",
-    "geril",
-    "iddia",
-    "iklim",
-    "türki",
-    "yalan"
-   ],
-   "tok": [
-    "art",
-    "asıls",
-    "başlı",
-    "buldu",
-    "ccpı",
-    "den",
-    "dezen",
-    "değiş",
-    "diken",
-    "dmm",
-    "endek",
-    "geril",
-    "göre",
-    "göste",
-    "iddia",
-    "iklim",
-    "iktid",
-    "maksa",
-    "mücad",
-    "nin",
-    "niyet",
-    "perfo",
-    "post",
-    "rapor",
-    "sırad",
-    "the",
-    "yalan",
-    "üncü"
-   ],
-   "at": "2026-11-12T15:06:26.505898+00:00"
-  },
-  {
-   "fp": [
-    "akp",
-    "enerj",
-    "fon",
-    "tasfi",
-    "tekli"
-   ],
-   "tok": [
-    "akp",
-    "banka",
-    "devre",
-    "enerj",
-    "fiill",
-    "fon",
-    "fonla",
-    "görev",
-    "güven",
-    "hariç",
-    "hukuk",
-    "idari",
-    "işlem",
-    "kapat",
-    "madde",
-    "mali",
-    "mecli",
-    "muafi",
-    "neden",
-    "nin",
-    "oluşt",
-    "sorum",
-    "sundu",
-    "suç",
-    "sürec",
-    "tasfi",
-    "taşım",
-    "tekli",
-    "torba",
-    "tutul",
-    "varlı",
-    "veril",
-    "yasal",
-    "yatır",
-    "yenil",
-    "yürüt",
-    "ödeme"
-   ],
-   "at": "2026-11-12T15:13:00.824326+00:00"
-  },
-  {
-   "fp": [
-    "biyog",
-    "cinay",
-    "düşen",
-    "işçi",
-    "tesis",
-    "çukur"
-   ],
-   "tok": [
-    "atık",
-    "berta",
-    "biyog",
-    "cinay",
-    "derin",
-    "düşen",
-    "ilçes",
-    "işçi",
-    "katı",
-    "metre",
-    "tekir",
-    "tesis",
-    "çorlu",
-    "çukur"
-   ],
-   "at": "2026-11-12T15:16:16.702654+00:00"
-  },
-  {
-   "fp": [
     "altın",
     "ağacı",
     "işçis",
@@ -17671,20 +17552,59 @@
     "üzeri"
    ],
    "at": "2026-11-14T03:05:26.432628+00:00"
+  },
+  {
+   "fp": [
+    "anoni",
+    "ardın",
+    "dünya",
+    "kadın",
+    "koca",
+    "prömi",
+    "sesi"
+   ],
+   "tok": [
+    "ahırd",
+    "aktar",
+    "anlat",
+    "anoni",
+    "ardın",
+    "belge",
+    "boyu",
+    "boyun",
+    "burcu",
+    "dünya",
+    "emeği",
+    "eserl",
+    "festi",
+    "film",
+    "hafız",
+    "ilçes",
+    "izini",
+    "kadın",
+    "koca",
+    "kuşak",
+    "nde",
+    "perde",
+    "prömi",
+    "sayıl",
+    "sesi",
+    "süren",
+    "tarla",
+    "taşıd",
+    "taşıy",
+    "tonya",
+    "trabz",
+    "türkü",
+    "yakan",
+    "yeşil",
+    "yönet",
+    "çalış"
+   ],
+   "at": "2026-11-14T03:18:04.438216+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "415d38e389",
-   "post_id": "529346797199852_1463246432581731",
-   "title": "Hakkari, şarj altyapısında İstanbul'u solladı: İşte 48 bin 971 şarj soketinin il bazlı tam listesi",
-   "at": "2026-11-09T20:10:26.654816+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'de elektrikli araç sayısı bir ayda 11 bin 558 artarak 491 bin 492'ye çıktı.\n\nEPDK'nın Kasım ayı verilerine göre şarj soketi sayısı da 48 bin 971'e yükseldi.\n\n— Araç sayısı bir önceki ay 479 bin 934'tü ve yarım milyona yaklaştı.\n— Soketlerin 21 bin 307'si hızlı şarj (DC) tipinde, şehirler arası yollarda zaman kazandırıyor.\n— Türkiye genelinde her 100 elektrikli araca yaklaşık 10 şarj soketi düşüyor.\n— Aylık bazda en sert artışı istasyon sayısını yüzde 13,33 artıran Osmaniye yaşadı.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/turkiyede-sarj-istasyonu-sayisi-kac-oldu-hangi-ilde-kac-sarj-2083240"
-   ]
-  },
   {
    "id": "6cc1eabe16",
    "post_id": "529346797199852_1463256012580773",
@@ -20206,6 +20126,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/ateskes-kagit-uzerinde-kaldi-dunya-bir-hastaneyi-korumaktan-aciz-746359"
    ]
+  },
+  {
+   "id": "a4fb366d3d",
+   "post_id": "529346797199852_1468097185429989",
+   "title": "Koca Dünya prömiyerini yaptı: ‘Anonim’in ardındaki kadınların sesi",
+   "at": "2026-11-14T03:18:04.438216+00:00",
+   "yazim": "claude",
+   "metin": "Trabzon'un Tonya ilçesinde tarlada ve ahırda türkü yakan kadınların izini süren \"Koca Dünya\" belgeseli dünya prömiyerini Ankara Film Festivali'nde yaptı.\n\n— Belgesel, \"anonim\" sayılan türkülerin ardındaki kadın emeğini perdeye taşıyor.\n\n— Yönetmen Burcu Yeşilbaş, bu eserlerin kuşaklar boyunca aktarılan hafızasını da anlatıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/koca-dunya-promiyerini-yapti-anonimin-ardindaki-kadinlarin-sesi-746363"
+   ]
   }
  ],
  "fails": {
@@ -20472,12 +20403,10 @@
   "3f2e8ed7fa": 2,
   "46a55c2a3c": 2,
   "486e7d7aa4": 2,
-  "7482134257": 1
+  "7482134257": 1,
+  "d349014603": 1
  },
  "fail_log": [
-  "2026-11-13T19:48 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:52 Mükemmel olmaya çalışarak insanları uzaklaştırmak: Kusursuzl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:52 Türkiye'ya karşı sahaya çıkmıştı! Galatasaray transfer liste -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:52 Marmarabirlik zeytin alım fiyatları açıklandı mı? Marmarabir -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:55 Orkun Kökçü'den Beşiktaş itirafı: 'Bana yapılan bir haksızlı -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:55 Mükemmel olmaya çalışarak insanları uzaklaştırmak: Kusursuzl -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20514,7 +20443,10 @@
   "2026-11-14T02:52 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
   "2026-11-14T03:05 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
   "2026-11-14T03:05 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
-  "2026-11-14T03:05 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı"
+  "2026-11-14T03:05 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
+  "2026-11-14T03:18 Beylikdüzü’nün 23 milyon yıllık mirası: \"Delikli Taş\" işitse -> ValueError: yanıt okunamadı",
+  "2026-11-14T03:18 Beylikdüzü’nün 23 milyon yıllık mirası: \"Delikli Taş\" işitse -> ValueError: yanıt okunamadı",
+  "2026-11-14T03:18 Beylikdüzü’nün 23 milyon yıllık mirası: \"Delikli Taş\" işitse -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
