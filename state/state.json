@@ -2,40 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aylin",
-    "den",
-    "duyur",
-    "hakkı",
-    "iddia",
-    "ilgil",
-    "kotil",
-    "sarıg",
-    "soruş",
-    "suç",
-    "tutuk"
-   ],
-   "tok": [
-    "aylin",
-    "bulun",
-    "den",
-    "duyur",
-    "hakar",
-    "hakkı",
-    "iddia",
-    "iftir",
-    "ilgil",
-    "korum",
-    "kotil",
-    "musta",
-    "nün",
-    "sarıg",
-    "suç",
-    "suçla"
-   ],
-   "at": "2026-11-12T15:56:29.532770+00:00"
-  },
-  {
-   "fp": [
     "altın",
     "ağacı",
     "işçis",
@@ -17367,20 +17333,71 @@
     "şehri"
    ],
    "at": "2026-11-14T03:55:46.713481+00:00"
+  },
+  {
+   "fp": [
+    "asrın",
+    "büyür",
+    "ekono",
+    "fatur",
+    "vurgu",
+    "övünd",
+    "şimşe"
+   ],
+   "tok": [
+    "anlat",
+    "ardın",
+    "arıca",
+    "asrın",
+    "ayağı",
+    "başar",
+    "bddk",
+    "bin",
+    "borsa",
+    "boyut",
+    "büyür",
+    "edebi",
+    "ekono",
+    "erişa",
+    "eski",
+    "fatur",
+    "fon",
+    "fonda",
+    "göste",
+    "hazin",
+    "ilişk",
+    "ise",
+    "isiml",
+    "ismle",
+    "istif",
+    "kavcı",
+    "maliy",
+    "mehme",
+    "milya",
+    "nun",
+    "siyas",
+    "sundu",
+    "sürec",
+    "sürer",
+    "sürül",
+    "tablo",
+    "tasfi",
+    "topla",
+    "veril",
+    "vurgu",
+    "yapıl",
+    "yatır",
+    "yer",
+    "ödeme",
+    "öne",
+    "övünd",
+    "şahap",
+    "şimşe"
+   ],
+   "at": "2026-11-14T03:59:35.686873+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "71aa06ec4d",
-   "post_id": "529346797199852_1463275589245482",
-   "title": "Her 10 öneriden 7'si kabul edildi: Hukuk dünyasında yapay zekanın ulaştığı başarı şaşkınlık yarattı",
-   "at": "2026-11-09T20:48:12.962232+00:00",
-   "yazim": "claude",
-   "metin": "Microsoft, hukukçular için 20'den fazla yeni Copilot özelliğini genel kullanıma açtı. Araçlar doğrudan Word içinde çalışıyor ve sözleşme hazırlama, dava takibi ile hukuki araştırmayı kolaylaştırıyor.\n\n— Sistem, onaylı eski sözleşmelerden yola çıkarak saniyeler içinde yeni bir taslak hazırlayabiliyor.\n— Riskli ya da eksik maddeleri bulup belgeye doğrudan işliyor ve tüm değişiklikleri açıkça işaretliyor.\n— Sözleşmelerdeki yükümlülükleri ve son teslim tarihlerini otomatik olarak takip ediyor.\n— Kullanıcılar yapay zekanın önerilerinin her 10 maddesinden yedisini kabul etti.",
-   "sources": [
-    "Karar: https://www.karar.com/teknoloji-haberleri/her-10-oneriden-7si-kabul-edildi-hukuk-dunyasinda-yapay-zekanin-2083247"
-   ]
-  },
   {
    "id": "e466cb1637",
    "post_id": "529346797199852_1463285659244475",
@@ -19902,6 +19919,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/iklim-adaleti-icin-yasam-savunuculari-antalyada-bulusuyor-746337"
    ]
+  },
+  {
+   "id": "6b7a9f999e",
+   "post_id": "529346797199852_1468123025427405",
+   "title": "Asrın vurgununda fatura büyürken Şimşek ekonomiyle övündü",
+   "at": "2026-11-14T03:59:35.686873+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'de 119 fondaki vurgunda 444 bin 893 yatırımcıya toplam 161 milyar TL ödeme yapıldı.\n\n— BDDK eski Başkanı Şahap Kavcıoğlu'nun ardından Borsa İstanbul Başkanı Erişah Arıcan'ın da istifa edebileceği öne sürüldü.\n\n— Tasfiye sürecini anlatan açıklamada vurgunun siyasi boyutuna ve ismlere yer verilmedi.\n\n— Hazine ve Maliye Bakanı Mehmet Şimşek ise bu tablo sürerken ekonomik göstergeleri başarı olarak sundu.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/asrin-vurgununda-fatura-buyurken-simsek-ekonomiyle-ovundu-746354"
+   ]
   }
  ],
  "fails": {
@@ -20169,13 +20197,10 @@
   "46a55c2a3c": 2,
   "486e7d7aa4": 2,
   "7482134257": 1,
-  "0fe06ea34b": 1,
-  "ab2c12b8f7": 1
+  "0fe06ea34b": 2,
+  "ab2c12b8f7": 2
  },
  "fail_log": [
-  "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
-  "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
-  "2026-11-13T22:53 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
   "2026-11-13T23:06 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
   "2026-11-14T00:19 Sermayenin ikiyüzlülüğü: Beş işçiyi öldüren şirket, HABAŞ ai -> ValueError: yanıt okunamadı",
   "2026-11-14T00:32 Sağanak ve fırtına: İstanbul dahil 11 ile sarı kodlu uyarı -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -20212,7 +20237,10 @@
   "2026-11-14T03:55 Şehrin Tiyatrosu'nun şehir içi turnesi devam ediyor -> ValueError: yanıt okunamadı",
   "2026-11-14T03:55 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
   "2026-11-14T03:55 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
-  "2026-11-14T03:55 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı"
+  "2026-11-14T03:55 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
+  "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
+  "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
+  "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
