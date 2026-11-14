@@ -17043,6 +17043,96 @@
     "şirke"
    ],
    "at": "2026-11-14T05:20:50.377646+00:00"
+  },
+  {
+   "fp": [
+    "atill",
+    "cinay",
+    "dönüş",
+    "edild",
+    "eylem",
+    "güçlü",
+    "karta",
+    "mitin",
+    "prote",
+    "özsev",
+    "şekil"
+   ],
+   "tok": [
+    "atill",
+    "cinay",
+    "demir",
+    "diken",
+    "dönüş",
+    "edild",
+    "eylem",
+    "fabri",
+    "gelen",
+    "günü",
+    "güçlü",
+    "habaş",
+    "işçi",
+    "karta",
+    "kasım",
+    "meyda",
+    "mitin",
+    "patla",
+    "post",
+    "prote",
+    "the",
+    "yangı",
+    "çelik",
+    "özsev",
+    "şeki",
+    "şekil"
+   ],
+   "at": "2026-11-14T05:44:09.531216+00:00"
+  },
+  {
+   "fp": [
+    "acile",
+    "ahmet",
+    "hakan",
+    "konus",
+    "liste",
+    "olayı",
+    "olmak",
+    "oğlu",
+    "tartı",
+    "çıkar",
+    "şart"
+   ],
+   "tok": [
+    "acile",
+    "ahmet",
+    "bazı",
+    "diken",
+    "diye",
+    "diyer",
+    "falan",
+    "hakan",
+    "hakkı",
+    "ise",
+    "kafal",
+    "karış",
+    "konus",
+    "lekel",
+    "liste",
+    "nin",
+    "olayı",
+    "olmak",
+    "oğlu",
+    "parti",
+    "post",
+    "tartı",
+    "the",
+    "yapıy",
+    "yönet",
+    "çıkar",
+    "üstün",
+    "şart"
+   ],
+   "at": "2026-11-14T05:44:13.830323+00:00"
   }
  ],
  "posted": [
@@ -19851,18 +19941,11 @@
   "c17af26193": 1,
   "ba609415cc": 1,
   "9be792bd65": 1,
-  "b91df4300d": 2,
-  "06739e22af": 2,
   "6624b105db": 1,
-  "dbc167bba2": 1
+  "dbc167bba2": 1,
+  "9c75a102e7": 1
  },
  "fail_log": [
-  "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
-  "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
-  "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
-  "2026-11-14T04:25 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
-  "2026-11-14T04:25 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
-  "2026-11-14T04:25 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
   "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: cümle yarım kalmış: '— G'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: yanıt okunamadı",
@@ -19896,12 +19979,18 @@
   "2026-11-14T05:40 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
   "2026-11-14T05:40 Ahmet Hakan: Çatır çatır hesap sorulurken AK Parti yetkilile -> ValueError: yanıt okunamadı",
   "2026-11-14T05:40 Ahmet Hakan: Çatır çatır hesap sorulurken AK Parti yetkilile -> ValueError: yanıt okunamadı",
-  "2026-11-14T05:40 Ahmet Hakan: Çatır çatır hesap sorulurken AK Parti yetkilile -> ValueError: yanıt okunamadı"
+  "2026-11-14T05:40 Ahmet Hakan: Çatır çatır hesap sorulurken AK Parti yetkilile -> ValueError: yanıt okunamadı",
+  "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
+  "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
+  "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
+  "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
+  "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
+  "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121475935719280939",
+   "since_id": "2121479121347686570",
    "started": true
   },
   "ajansmuhbir1923": {
