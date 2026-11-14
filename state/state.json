@@ -27,105 +27,6 @@
     "örgüt",
     "şafak"
    ],
-   "at": "2026-11-13T05:36:07.035268+00:00"
-  },
-  {
-   "fp": [
-    "19",
-    "ailes",
-    "geliş",
-    "gözal",
-    "kara",
-    "karar",
-    "kişi",
-    "musta",
-    "opera",
-    "para",
-    "sarıg",
-    "soruş",
-    "şüphe"
-   ],
-   "tok": [
-    "ailes",
-    "aklam",
-    "alınd",
-    "arala",
-    "başla",
-    "geliş",
-    "iddia",
-    "ilgil",
-    "kara",
-    "musta",
-    "para",
-    "sarıg",
-    "veril"
-   ],
-   "at": "2026-11-13T05:42:46.694789+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "4",
-    "kişi",
-    "mersi",
-    "pompa",
-    "saldı",
-    "tüfek",
-    "yaral"
-   ],
-   "tok": [
-    "ardın",
-    "ateş",
-    "aynı",
-    "açtı",
-    "ağır",
-    "bulun",
-    "dehşe",
-    "erdem",
-    "giriş",
-    "hasta",
-    "ilçes",
-    "intih",
-    "ise",
-    "kadın",
-    "kaldı",
-    "mersi",
-    "olay",
-    "pompa",
-    "silah",
-    "tüfek",
-    "yerin",
-    "yürüy"
-   ],
-   "at": "2026-11-13T05:42:48.474910+00:00"
-  },
-  {
-   "fp": [
-    "22",
-    "istan",
-    "opera",
-    "suç",
-    "örgüt"
-   ],
-   "tok": [
-    "ayrı",
-    "eylem",
-    "karış",
-    "kaste",
-    "kurşu",
-    "nitel",
-    "otomo",
-    "silah",
-    "suç",
-    "suça",
-    "tespi",
-    "teşeb",
-    "yağma",
-    "yeri",
-    "öldür",
-    "örgüt",
-    "şafak"
-   ],
    "at": "2026-11-13T05:46:05.079567+00:00"
   },
   {
@@ -14375,25 +14276,70 @@
     "ısmar"
    ],
    "at": "2026-11-14T17:33:30.822563+00:00"
+  },
+  {
+   "fp": [
+    "gazet",
+    "kadın",
+    "kılıç",
+    "nun",
+    "progr"
+   ],
+   "tok": [
+    "almas",
+    "atıld",
+    "bahse",
+    "basın",
+    "bayra",
+    "chp",
+    "deki",
+    "dışın",
+    "eller",
+    "emekç",
+    "engel",
+    "fizik",
+    "gazet",
+    "gelip",
+    "genel",
+    "gider",
+    "görün",
+    "istey",
+    "istiy",
+    "kadın",
+    "karak",
+    "kasım",
+    "katıl",
+    "kavga",
+    "kemal",
+    "kocae",
+    "kongr",
+    "kılıç",
+    "mensu",
+    "müdah",
+    "ndeki",
+    "nun",
+    "olayl",
+    "parti",
+    "progr",
+    "salon",
+    "tepki",
+    "tokat",
+    "ulusl",
+    "uğray",
+    "vuruy",
+    "yaşan",
+    "yerel",
+    "yürüd",
+    "çekme",
+    "çekti",
+    "çıkan",
+    "özgür",
+    "şikay"
+   ],
+   "at": "2026-11-14T17:45:40.096023+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a4c962d1b4",
-   "post_id": "529346797199852_1463966659176375",
-   "title": "Bulgaristan'da zincirleme trafik kazası: En az 11 ölü, 48 yaralı",
-   "at": "2026-11-10T11:20:22.541924+00:00",
-   "yazim": "claude",
-   "metin": "Bulgaristan'ın güneydoğusunda sis yüzünden yaşanan zincirleme kazalarda en az 11 kişi hayatını kaybetti, 48 kişi yaralandı.\n\n— Kazalara 50'den fazla otomobil ve ağır vasıta karıştı. Kazalar Trakya Otoyolu'nda, Yambol yakınlarında salı sabahı meydana geldi.\n— Görgü tanıklarından biri görüş mesafesinin yaklaşık 30 metreye düştüğünü söyledi.\n— Tanker kamyonlarında olanlar dahil bazı kişilerin araçlarda sıkıştığı bildirildi. Kurtarma ekipleri, mahsur kalanları çıkarmak için araçların metal kısımlarını kesmek zorunda kaldı.\n— Otoyol iki yönde de trafiğe kapatıldı ve yolun bir süre daha kapalı kalacağı açıklandı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/bulgaristanda-yaklasik-70-aracin-karistigi-zincirleme-trafik-kazalarinda-10-kisi-hayatini-kaybetti/4118689",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/bulgaristanda-yaklasik-70-aracin-karistigi-iki-zincirleme-trafik-kazasinda-en-az-10-kisi-oldu-962801.html",
-    "Euronews: https://tr.euronews.com/2026/11/10/bulgaristanda-zincirleme-trafik-kazasi-en-az-11-olu-48-yarali",
-    "Milliyet: https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanda-korkunc-zincirleme-kaza-11-olu-48-yarali-7698118",
-    "BirGün: https://www.birgun.net/haber/bulgaristan-da-iki-ayri-zincirleme-kaza-70-arac-birbirine-girdi-745631",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanda-korkunc-zincirleme-kaza-11-olu-48-yarali-7698118"
-   ]
-  },
   {
    "id": "75b1abe4f4",
    "post_id": "529346797199852_1463983495841358",
@@ -16924,6 +16870,18 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/uskudarda-dev-dalgalarda-islanan-gencler-46-milyon-izlettik-hala-2084156"
    ]
+  },
+  {
+   "id": "db2d1c37dd",
+   "post_id": "529346797199852_1468719902034384",
+   "title": "Kılıçdaroğlu’nun programında basına saldırı: Kadın gazeteciye tokat atıldı",
+   "at": "2026-11-14T17:45:40.096023+00:00",
+   "yazim": "claude",
+   "metin": "CHP Genel Başkanı Kemal Kılıçdaroğlu'nun Kocaeli'deki programında partililer gazetecilere saldırdı.\n\nProgramda kavgayı görüntülemek isteyen kadın gazeteci:\n\n“Basın özgürlüğünden bahseden parti, gazetecilere saldırıyor. Olayları çekmek istiyorum, gelip ellerime vuruyor.”\n\n— Kocaeli Uluslararası Kongre Merkezi'ndeki 14 Kasım programında çıkan kavga, yerel basın mensuplarının görüntü almasını engelledi.\n— Partililer, ellerindeki bayraklarla gazetecilerin üzerine yürüdü ve salon dışında da fiziki müdahale yaşandı.\n— Bir kadın gazeteciye tokat atıldı. Saldırıya uğrayan gazeteciler karakola giderek şikayetçi oldu.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009538/kilicdaroglu-nun-programinda-basina-saldiri-kadin-gazeteciye-tokat-atildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/guncel-haberler/kilicdaroglunun-katildigi-chp-programinda-kavga-kadin-gazetecilere-2084155"
+   ]
   }
  ],
  "fails": {
@@ -17205,7 +17163,8 @@
   "50b136853a": 1,
   "92d4b354c8": 2,
   "43bae6c6ee": 1,
-  "c8f8d7c6f3": 1
+  "c8f8d7c6f3": 1,
+  "0472f96463": 1
  },
  "fail_log": [
   "2026-11-14T05:40 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
@@ -17252,7 +17211,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121653530540888067",
+   "since_id": "2121658014725968130",
    "started": true
   },
   "ajansmuhbir1923": {
