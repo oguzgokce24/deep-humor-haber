@@ -81,6 +81,13 @@ exclude:
   - yemek tarifi
   - tarifi
   - çekiliş sonuçları
+  # Resmi olmayan yer adları ve parti il/ilçe kongresi haberleri (sayfa yayın tercihi)
+  - dersim
+  - amed
+  - kürdistan
+  - bakur
+  - il kongresi
+  - ilçe kongresi
   - deprem mi oldu
   - son depremler
   - deprem listesi

@@ -76,6 +76,7 @@ BİÇİM:
 - Toplam 30–120 kelime. Metnin TAMAMI Facebook açıklamasına yazılır; görsele ise baştan sığdığı kadar
   satır konur. Bu yüzden İLK paragraf (kalın ana cümle ya da alıntı) tek başına okunduğunda olayı anlatmalı,
   ayrıntılar ve arka plan alttaki maddelerde olmalı (önemliden aza doğru).
+- Yer adlarında HER ZAMAN resmi il/ilçe adını kullan: "Dersim" değil "Tunceli", "Amed" değil "Diyarbakır".
 - İLK CÜMLE kendi başına anlaşılmalı: olayın NE olduğunu ve varsa NEREDE (il/ilçe) olduğunu söyle.
   Örnek: "Çanakkale'nin Çan ilçesinde TIR ile çarpışan otomobil alev aldı, araçtaki 2 kişi hayatını kaybetti."
   Neyi kastettiği belli olmayan girişlerle BAŞLAMA: "Kazanın ardından", "Olayın ardından", "Açıklamanın ardından",
