@@ -2,247 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "5",
-    "beyaz",
-    "kişi",
-    "saldı",
-    "saray",
-    "sesle",
-    "silah",
-    "vurul",
-    "yakın"
-   ],
-   "tok": [
-    "abd",
-    "aranı",
-    "arark",
-    "bazı",
-    "başke",
-    "beyaz",
-    "bölge",
-    "circl",
-    "civar",
-    "düzen",
-    "gerek",
-    "güven",
-    "henüz",
-    "kapat",
-    "kilom",
-    "logan",
-    "nin",
-    "okull",
-    "paniğ",
-    "saray",
-    "semti",
-    "sesle",
-    "silah",
-    "uzakl",
-    "vurul",
-    "washi",
-    "yakla",
-    "yakın",
-    "çevre"
-   ],
-   "at": "2026-11-12T14:40:04.379652+00:00"
-  },
-  {
-   "fp": [
-    "bıçak",
-    "giriş",
-    "gözal",
-    "kadın",
-    "kız",
-    "malat",
-    "okul",
-    "polis",
-    "saldı",
-    "çocuğ"
-   ],
-   "tok": [
-    "alınd",
-    "ateş",
-    "açark",
-    "bıçak",
-    "giriş",
-    "girme",
-    "havay",
-    "ileri",
-    "istey",
-    "kadın",
-    "kız",
-    "malat",
-    "müdah",
-    "okul",
-    "okula",
-    "sürül",
-    "sıras",
-    "çalış",
-    "çekti",
-    "çocuk",
-    "çocuğ",
-    "çıkar",
-    "öne"
-   ],
-   "at": "2026-11-12T14:40:05.308565+00:00"
-  },
-  {
-   "fp": [
-    "15",
-    "alevl",
-    "anda",
-    "otobü",
-    "tahli",
-    "tesli",
-    "yandı",
-    "yolcu",
-    "zongu"
-   ],
-   "tok": [
-    "alevl",
-    "anda",
-    "devre",
-    "geldi",
-    "hale",
-    "halin",
-    "ilçes",
-    "kulla",
-    "otobü",
-    "seyir",
-    "tahli",
-    "tesli",
-    "yandı",
-    "yangı",
-    "yolcu",
-    "zongu",
-    "çıkan"
-   ],
-   "at": "2026-11-12T14:40:05.711687+00:00"
-  },
-  {
-   "fp": [
-    "cop31",
-    "dan",
-    "dikka",
-    "çeken"
-   ],
-   "tok": [
-    "antal",
-    "berk",
-    "cop31",
-    "dan",
-    "delcy",
-    "devle",
-    "dikka",
-    "dünya",
-    "düzen",
-    "egeme",
-    "endüs",
-    "enerj",
-    "fosil",
-    "geliş",
-    "geçic",
-    "güçle",
-    "hakkı",
-    "iklim",
-    "kirac",
-    "konus",
-    "mesaj",
-    "nde",
-    "oktay",
-    "petro",
-    "rodri",
-    "savun",
-    "sektö",
-    "sözle",
-    "uzakl",
-    "vazge",
-    "venez",
-    "yakıt",
-    "zirve",
-    "çağrı",
-    "çeken",
-    "çıktı",
-    "öne",
-    "ülkes"
-   ],
-   "at": "2026-11-12T14:43:23.843737+00:00"
-  },
-  {
-   "fp": [
-    "etkil",
-    "iptal",
-    "istan",
-    "lodos",
-    "sefer",
-    "vurdu",
-    "yarın",
-    "şidde"
-   ],
-   "tok": [
-    "aksam",
-    "arda",
-    "art",
-    "bazı",
-    "bekle",
-    "etkil",
-    "fırt",
-    "iptal",
-    "kuvve",
-    "kıyıy",
-    "lodos",
-    "metro",
-    "neden",
-    "oluyo",
-    "rüzga",
-    "sefer",
-    "süre",
-    "uyarı",
-    "vapur",
-    "vurdu",
-    "yarın",
-    "yaşan",
-    "şidde"
-   ],
-   "at": "2026-11-12T14:46:42.856732+00:00"
-  },
-  {
-   "fp": [
-    "dan",
-    "ferna",
-    "karar",
-    "musle"
-   ],
-   "tok": [
-    "büyük",
-    "bırak",
-    "copa",
-    "dan",
-    "efsan",
-    "estud",
-    "etmey",
-    "ferna",
-    "final",
-    "futbo",
-    "galat",
-    "ikna",
-    "kalec",
-    "kariy",
-    "kulüp",
-    "liber",
-    "musle",
-    "plata",
-    "sahal",
-    "sürdü",
-    "veda",
-    "yeşil",
-    "çalış",
-    "önces"
-   ],
-   "at": "2026-11-12T14:49:59.885327+00:00"
-  },
-  {
-   "fp": [
     "biyog",
     "cinay",
     "düşen",
@@ -17884,20 +17643,52 @@
     "şubes"
    ],
    "at": "2026-11-14T02:33:52.987788+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "7",
+    "havuz",
+    "katkı",
+    "lik",
+    "milya",
+    "rekla"
+   ],
+   "tok": [
+    "ardın",
+    "aylık",
+    "banka",
+    "birli",
+    "dönem",
+    "eleşt",
+    "eylül",
+    "gerek",
+    "göre",
+    "halk",
+    "harca",
+    "havuz",
+    "iktid",
+    "kamu",
+    "katkı",
+    "lik",
+    "medya",
+    "milya",
+    "nın",
+    "ocak",
+    "rekla",
+    "tamam",
+    "tartı",
+    "topla",
+    "ulaşt",
+    "vakıf",
+    "veril",
+    "yakın",
+    "ziraa"
+   ],
+   "at": "2026-11-14T02:52:40.223640+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fec58a8625",
-   "post_id": "529346797199852_1463225149250526",
-   "title": "Otomotiv sektöründe taşlar yerinden oynadı: Tarihi rekor kayıtlara geçti",
-   "at": "2026-11-09T19:40:33.328262+00:00",
-   "yazim": "claude",
-   "metin": "Avrupa Birliği'nde 2026'nın üçüncü çeyreğinde elektrikli araç satışları, ilk kez benzinli ve dizel araç satışlarını geçti.\n\n— Elektrikli araçlar 710 bin 580 adet satarken, benzinli ve dizel araçlar 655 bin 540 adette kaldı.\n— Brüksel merkezli Transport & Environment'ın verilerine göre, ikinci çeyrekte yalnızca benzinli otomobilleri geçen elektrikli araçlar, üçüncü çeyrekte tüm içten yanmalı motorlu araçları geride bıraktı.\n— Norveç'te elektrikli araçların pazar payı yüzde 97,9'a çıktı.\n\nTürkiye'de de benzer bir değişim var. ODMD'nin 2026 Ocak-Eylül verilerine göre dizel otomobil satışları yüzde 40,7 daraldı.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/avrupada-elektrikli-arac-satislari-ne-kadar-artti-hafif-hibrit-2083237"
-   ]
-  },
   {
    "id": "b23db38521",
    "post_id": "529346797199852_1463237119249329",
@@ -20419,6 +20210,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/kent-hafizasi-yok-edilmesin-dikili-eski-halkevi-binasi-icin-yikim-tehdidi-746341"
    ]
+  },
+  {
+   "id": "edef6fa20d",
+   "post_id": "529346797199852_1468078855431822",
+   "title": "'Havuza’ katkı: 7,1 milyar TL’lik reklam",
+   "at": "2026-11-14T02:52:40.223640+00:00",
+   "yazim": "claude",
+   "metin": "Üç kamu bankasının Ocak-Eylül 2026 dönemindeki reklam harcaması toplamda 7,1 milyar TL'ye ulaştı.\n\n— Ziraat Bankası 1,9 milyar TL harcadı. Vakıfbank ve Halk Bankası'nın harcamaları daha önce açıklanmıştı.\n\n— Eleştirilere göre bu reklamların tamamına yakını iktidara yakın medyaya verildi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/havuza-katki-7-1-milyar-tllik-reklam-746344"
+   ]
   }
  ],
  "fails": {
@@ -20686,12 +20488,9 @@
   "46a55c2a3c": 2,
   "486e7d7aa4": 2,
   "7482134257": 1,
-  "8e233566cb": 1
+  "8e233566cb": 2
  },
  "fail_log": [
-  "2026-11-13T19:42 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:45 Katamaranın kaptanı telsizden yardım istedi, balıkçılar yeti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
-  "2026-11-13T19:45 Euronews yeni sezonunda: Daha fazla canlı haber ve sohbetle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:45 Hyeon-gyu Oh'un golü yetmedi: Güney Kore, Suudi Arabistan'a  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:48 Katamaranın kaptanı telsizden yardım istedi, balıkçılar yeti -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
   "2026-11-13T19:48 Euronews yeni sezonunda: Daha fazla canlı haber ve sohbetle  -> RuntimeError: API: Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.",
@@ -20728,7 +20527,10 @@
   "2026-11-14T00:57 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
   "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
   "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
-  "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı"
+  "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
+  "2026-11-14T02:52 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
+  "2026-11-14T02:52 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
+  "2026-11-14T02:52 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
