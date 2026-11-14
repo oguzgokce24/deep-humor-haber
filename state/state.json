@@ -2,63 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "alman",
-    "başı",
-    "gençl",
-    "geçti",
-    "göçme",
-    "kişi",
-    "mesle",
-    "sayıs",
-    "uzakl",
-    "zor"
-   ],
-   "tok": [
-    "abd",
-    "alman",
-    "avrup",
-    "açığı",
-    "başı",
-    "büyük",
-    "bırak",
-    "ciddi",
-    "dilim",
-    "düşür",
-    "ekono",
-    "elema",
-    "geniş",
-    "genç",
-    "gençl",
-    "gerid",
-    "geçti",
-    "göçme",
-    "kapsa",
-    "mesle",
-    "motiv",
-    "neden",
-    "nüfus",
-    "nın",
-    "sanay",
-    "sayıs",
-    "sosya",
-    "tekni",
-    "uzakl",
-    "vergi",
-    "yarat",
-    "yardı",
-    "yerle",
-    "yükse",
-    "zirve",
-    "zor",
-    "zorlu",
-    "çalış",
-    "ödeme"
-   ],
-   "at": "2026-11-12T19:59:22.953147+00:00"
-  },
-  {
-   "fp": [
     "asker",
     "başsa",
     "den",
@@ -16516,20 +16459,46 @@
     "zarar"
    ],
    "at": "2026-11-14T07:50:06.958399+00:00"
+  },
+  {
+   "fp": [
+    "geldi",
+    "hale",
+    "kulla",
+    "malte",
+    "otomo"
+   ],
+   "tok": [
+    "aldı",
+    "alev",
+    "ardın",
+    "başla",
+    "duman",
+    "geldi",
+    "hale",
+    "halin",
+    "inere",
+    "itfai",
+    "kulla",
+    "kurtu",
+    "kısmı",
+    "malte",
+    "motor",
+    "müdah",
+    "otomo",
+    "saatl",
+    "seyir",
+    "söndü",
+    "sürüc",
+    "yanan",
+    "yangı",
+    "yarım",
+    "çıkan"
+   ],
+   "at": "2026-11-14T08:02:32.446332+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "63fb779303",
-   "post_id": "529346797199852_1463434325896275",
-   "title": "İsrail'de hükümet arayışı: Eisenkot ve Liberman meclis başkanlığı için uzlaştı",
-   "at": "2026-11-10T00:29:30.872334+00:00",
-   "yazim": "claude",
-   "metin": "İsrail'de hükümeti kurma yetkisi verilen Gadi Eisenkot ile Avigdor Liberman, meclis başkanlığını Yashar Partisi'ne vermek konusunda anlaştı.\n\n— Eisenkot, Yashar Partisi'nin lideri ve hükümet kurma görevini alan isim. Liberman da onun \"değişim bloku\" ortağı.\n— İki lider, koalisyona destek karşılığında Haredi partilerine zorunlu askerlikte esneklik sunacağı öne sürüldü.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/israil-de-hukumet-arayisi-eisenkot-ve-liberman-meclis-baskanligi-icin-uzlasti-745529"
-   ]
-  },
   {
    "id": "14a91e8cb2",
    "post_id": "529346797199852_1463453442561030",
@@ -19056,6 +19025,18 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/izmir-merkezli-siber-dolandiricilik-operasyonu-8-tutuklama-4872358",
     "BirGün: https://www.birgun.net/haber/izmir-merkezli-4-ilde-siber-dolandiricilik-operasyonu-8-supheli-tutuklandi-746386",
     "BirGün: https://www.birgun.net/haber/karabuk-merkezli-4-ilde-dolandiricilik-operasyonu-11-supheli-yakalandi-746374"
+   ]
+  },
+  {
+   "id": "07d7db82ac",
+   "post_id": "529346797199852_1468280738744967",
+   "title": "Maltepe'de otomobil yangını: Araç kullanılamaz hale geldi",
+   "at": "2026-11-14T08:02:32.446332+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Maltepe'de seyir halindeki bir otomobil alev aldı.\n\nMotor kısmından çıkan dumanların ardından yangın başladı. Sürücü araçtan inerek kurtuldu.\n\nİtfaiye yarım saatlik müdahaleyle yangını söndürdü. Otomobil kullanılamaz hale geldi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/maltepe/maltepede-alev-alev-yanan-otomobil-kullanilamaz-hale-geldi-3493084",
+    "BirGün: https://www.birgun.net/haber/maltepe-de-otomobil-yangini-arac-kullanilamaz-hale-geldi-746382"
    ]
   }
  ],
