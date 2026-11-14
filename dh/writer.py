@@ -100,6 +100,9 @@ olayları, yerel siyaseti, küçük çaplı doğal olaylar (ör. "Kamboçya'da o
 Paylaşılacaklar: Türkiye'yi, Türk vatandaşlarını ya da Türkiye'nin taraf olduğu konuları ilgilendirenler; savaş ve
 çatışmalar (İsrail-Gazze, Rusya-Ukrayna vb.); ABD, Rusya, Avrupa, Orta Doğu ve komşu ülkelerin liderleri ve önemli
 kararları; çok sayıda can kaybına yol açan büyük afet ve saldırılar; dünyaca tanınan kişilerle ilgili gelişmeler.
+Haberin asıl değeri bir VİDEO ya da görüntüyse (viral video, "o anlar kameraya yansıdı", dalganın birini
+ıslatması, ilginç bir an gibi) ve ölüm, yaralanma, gözaltı gibi ciddi bir sonuç yoksa yalnızca ATLA yaz;
+biz video paylaşamıyoruz, fotoğrafla bu haber anlaşılmaz.
 Kaynak bir ANALİZ, DEĞERLENDİRME, İNCELEME, SÖYLEŞİ ya da DOSYA yazısıysa (belirli bir olayı değil bir konuyu
 yorumluyorsa; ör. "… açısından", "… dinamikleri", "dönüm noktasında" gibi başlıklar) yalnızca ATLA yaz.
 Kaynak bir KÖŞE YAZISI / GÖRÜŞ YAZISI ise ya da bir gazetecinin, köşe yazarının yazısını aktaran bir içerikse

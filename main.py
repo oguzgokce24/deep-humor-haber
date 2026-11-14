@@ -126,6 +126,21 @@ def is_sport(text: str) -> bool:
     return sum(1 for w in SPOR if re.search(r"(?<![a-zçğıöşü])" + re.escape(w), t)) >= 1
 
 
+# Asıl değeri bir video/görüntü olan haberler: video paylaşamadığımız için fotoğrafla anlamsız kalır
+VIDEO_HABER = ["kameraya yansıdı", "kameraya yansıyan", "kamerada", "kameraya takıldı", "o anlar", "anlar kamera",
+               "viral", "izlettik", "milyon izlen", "milyonlarca izlen", "sosyal medyada gündem oldu",
+               "sosyal medyayı salladı", "görüntüler ortaya çıktı", "görüntüleri ortaya çıktı", "ıslattı",
+               "ıslanan", "cep telefonuyla kayd"]
+CIDDI = ["öldü", "hayatını kaybetti", "can verdi", "ölü", "yaralı", "yaralandı", "tutuklandı", "gözaltı",
+         "yakalandı", "saldırı", "patlama", "deprem", "yangın", "cinayet", "soruşturma", "bıçak", "silah"]
+
+
+def video_story(c) -> bool:
+    """Haberin asıl konusu bir video/görüntü ise (başlığa göre) ve ciddi bir sonuç yoksa True."""
+    t = _tr_low(" ".join(i.title for i in c.items[:4]))
+    return any(w in t for w in VIDEO_HABER) and not any(w in t for w in CIDDI)
+
+
 def sport_story(c) -> bool:
     """Spor haberi mi: spor bölümünden gelen bağlantı ya da başlıklarda en az 2 spor kelimesi."""
     if any("/spor" in i.link.lower() for i in c.items):
@@ -254,6 +269,8 @@ def find_new(cfg, st):
             continue
         if same_story(c):
             continue
+        if video_story(c):
+            continue                                 # videosu olmadan anlaşılmayan "o anlar" haberleri
         fp = c.fingerprint
         titles = [i.title for i in c.items]
         lead_t = c.lead().title
