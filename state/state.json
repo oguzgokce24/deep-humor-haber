@@ -2,87 +2,6 @@
  "seen": [
   {
    "fp": [
-    "den",
-    "itira",
-    "jarde",
-    "kokai",
-    "kulla",
-    "mario",
-    "uyuşt",
-    "ölüyo"
-   ],
-   "tok": [
-    "aldım",
-    "aşırı",
-    "biliy",
-    "boyun",
-    "den",
-    "dopin",
-    "doz",
-    "eski",
-    "galat",
-    "golcü",
-    "hafta",
-    "hisse",
-    "hiç",
-    "itira",
-    "jarde",
-    "kendi",
-    "keres",
-    "kokai",
-    "kontr",
-    "kulla",
-    "mario",
-    "nered",
-    "olmad",
-    "tatil",
-    "uyuma",
-    "uyuşt",
-    "yanım",
-    "ölüyo"
-   ],
-   "at": "2026-11-12T14:00:39.316356+00:00"
-  },
-  {
-   "fp": [
-    "bıçak",
-    "giriş",
-    "kadın",
-    "kız",
-    "malat",
-    "okul",
-    "polis",
-    "saldı",
-    "çocuğ"
-   ],
-   "tok": [
-    "alınd",
-    "ateş",
-    "açtığ",
-    "bıçak",
-    "ekipl",
-    "giriş",
-    "görev",
-    "havay",
-    "ileri",
-    "kadın",
-    "kız",
-    "malat",
-    "okul",
-    "okulu",
-    "olay",
-    "sürül",
-    "sıras",
-    "çalış",
-    "çekti",
-    "çocuğ",
-    "öne",
-    "öğren"
-   ],
-   "at": "2026-11-12T14:04:03.943731+00:00"
-  },
-  {
-   "fp": [
     "4",
     "5",
     "beyaz",
@@ -17782,20 +17701,77 @@
     "üreti"
    ],
    "at": "2026-11-14T01:55:53.117863+00:00"
+  },
+  {
+   "fp": [
+    "aldı",
+    "bakan",
+    "bütçe",
+    "eğiti",
+    "hedef",
+    "iddia",
+    "tekin",
+    "tezga",
+    "verdi",
+    "yanıt",
+    "yolsu",
+    "özel"
+   ],
+   "tok": [
+    "alan",
+    "aldı",
+    "arkas",
+    "benim",
+    "bütçe",
+    "derke",
+    "eğiti",
+    "görüş",
+    "hedef",
+    "hırsı",
+    "iddia",
+    "ilişk",
+    "ise",
+    "isim",
+    "komis",
+    "lere",
+    "lider",
+    "meb",
+    "mesaj",
+    "mesem",
+    "meyda",
+    "milli",
+    "mitin",
+    "muhal",
+    "nda",
+    "ndaki",
+    "parti",
+    "plan",
+    "seçim",
+    "sizin",
+    "sorar",
+    "sordu",
+    "sorul",
+    "sürec",
+    "tartı",
+    "teki",
+    "tekin",
+    "tezga",
+    "verdi",
+    "verme",
+    "yanıt",
+    "yapma",
+    "yen",
+    "yolsu",
+    "yusuf",
+    "çocuk",
+    "ölen",
+    "özel",
+    "özgür"
+   ],
+   "at": "2026-11-14T02:08:33.496185+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4901330259",
-   "post_id": "529346797199852_1463201369252904",
-   "title": "Almanya'da 1 euroluk döner izdihamı: Taş ve sopalarla polise saldırdılar",
-   "at": "2026-11-09T19:02:33.483435+00:00",
-   "yazim": "claude",
-   "metin": "Almanya'nın Dortmund kentinde 1 euroluk döner kampanyası yüzlerce kişiyi sokağa döktü, kalabalık polise saldırdı.\n\n— Restoranın açılışında duyurulan kampanyanın ardından Körne semtinde büyük bir kalabalık oluştu.\n\n— Restoran sahibi yaklaşık 1000 kişinin geldiğini söyledi. Polis ise kalabalığın yaklaşık 300 kişi olduğunu bildirdi.\n\n— Özel güvenlik yoğunluğu kontrol edemeyince sahip polisi aradı. Polis dağılma anonsu yaptı, ama bazı kişiler polise taş, cam şişe, havai fişek ve sandalye fırlattı.\n\n— Yaklaşık 100 polis memuru ve bir helikopter olay yerine gönderildi. Yaralanan olmadı.\n\n— Polis bazı şüphelileri gözaltına aldı, birinin üzerinde kurusıkı tabanca bulundu.\n\n— Dortmund Emniyet Müdürü Tim Frommeyer, polise yönelik şiddeti sert sözlerle eleştirdi. Dönercinin faaliyeti yerel makamlarca durduruldu.",
-   "sources": [
-    "Karar: https://www.karar.com/dunya-haberleri/almanyada-1-euroluk-doner-izdihami-tas-ve-sopalarla-polise-saldirdilar-2083234"
-   ]
-  },
   {
    "id": "68eb73e3da",
    "post_id": "529346797199852_1463209339252107",
@@ -20323,6 +20299,17 @@
    "metin": "Samsun'daki çevre örgütleri SAMÇEP ve Ekoloji Birliği, COP31 sürecini eleştirdi. Örgütler, iklim krizinin kapitalist üretim ve tüketim düzeninden ayrı düşünülemeyeceğini savundu.\n\n— Açıklamaya göre karbon ticareti ve yeşil enerji politikaları sermayeye yeni kâr alanları açıyor.\n— Samsun'da taş ocakları, çimento fabrikaları ve sanayi yatırımlarının doğayı tehdit ettiği belirtildi.\n— Örgütler Tekkeköy'deki sanayi kirliliğine, Çarşamba Ovası'ndaki tarım alanlarına yönelik baskıya ve Eğercili'deki biyokütle santraline dikkat çekti.\n— Deniz dolgularının kıyıları tahrip ettiği vurgulandı ve halkın sahillere erişim hakkının korunması istendi.",
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/samsunlu-cevrecilerden-cop31-tepkisi-iklim-krizi-kapitalizmden-bagimsiz-ele-alinamaz-2556024"
+   ]
+  },
+  {
+   "id": "288e0083e9",
+   "post_id": "529346797199852_1468049885434719",
+   "title": "Bakan Tekin eğitim bütçesinde Özel’i hedef aldı: Yolsuzluk iddialarına ‘tezgah’ yanıtını verdi",
+   "at": "2026-11-14T02:08:33.496185+00:00",
+   "yazim": "claude",
+   "metin": "Bakan Yusuf Tekin, Plan ve Bütçe Komisyonu'nda Özgür Özel'i hedef aldı:\n\n“Benim liderim sizin gibi yolsuzların, hırsızların arkasından seçim meydanlarında miting yapmaz.”\n\n— Muhalefet, Milli Eğitim Bakanlığı'ndaki yolsuzluk iddialarını ve MESEM'de ölen çocukları sordu.\n— Tekin, yolsuzluk iddialarına \"tezgah\" dedi.\n— MESEM'lere ilişkin sorularda ise \"sürecek\" mesajı verdi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bakan-tekin-egitim-butcesinde-ozel-i-hedef-aldi-yolsuzluk-iddialarina-tezgah-yanitini-verdi-2555988"
    ]
   }
  ],
