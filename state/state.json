@@ -2,148 +2,6 @@
  "seen": [
   {
    "fp": [
-    "boğaz",
-    "gemis",
-    "hürmü",
-    "lng",
-    "mayın"
-   ],
-   "tok": [
-    "boğaz",
-    "deniz",
-    "devri",
-    "doğus",
-    "duyur",
-    "ettiğ",
-    "gemin",
-    "gemis",
-    "hürmü",
-    "infil",
-    "iran",
-    "lng",
-    "mayın",
-    "muhaf",
-    "nda",
-    "nın",
-    "ordus",
-    "patla",
-    "taşıy",
-    "çarpa",
-    "çarpt"
-   ],
-   "at": "2026-11-13T08:02:49.915750+00:00"
-  },
-  {
-   "fp": [
-    "15",
-    "alarm",
-    "anlar",
-    "harek",
-    "köprü",
-    "nde",
-    "otomo",
-    "polis",
-    "silah",
-    "temmu",
-    "çıktı",
-    "şehit"
-   ],
-   "tok": [
-    "alarm",
-    "anlar",
-    "bayra",
-    "bulun",
-    "diğer",
-    "durdu",
-    "ekibi",
-    "elind",
-    "görül",
-    "halin",
-    "harek",
-    "köprü",
-    "nde",
-    "olay",
-    "otomo",
-    "sevk",
-    "seyir",
-    "silah",
-    "temmu",
-    "yerin",
-    "çıktı",
-    "şehit"
-   ],
-   "at": "2026-11-13T08:06:12.927986+00:00"
-  },
-  {
-   "fp": [
-    "6",
-    "adliy",
-    "alına",
-    "cafer",
-    "gözal",
-    "kişi",
-    "mahir",
-    "soruş",
-    "şüphe"
-   ],
-   "tok": [
-    "adliy",
-    "alına",
-    "beled",
-    "büyük",
-    "cafer",
-    "daire",
-    "düzen",
-    "eski",
-    "geliş",
-    "genel",
-    "halk",
-    "haluk",
-    "harun",
-    "ikinc",
-    "ikmal",
-    "izmir",
-    "kapsa",
-    "kurul",
-    "mahir",
-    "makin",
-    "ramaz",
-    "sekre",
-    "sevk",
-    "tezca",
-    "tuzsu",
-    "yönel",
-    "yönet"
-   ],
-   "at": "2026-11-13T08:09:32.343346+00:00"
-  },
-  {
-   "fp": [
-    "11",
-    "düştü",
-    "hayat",
-    "kaybe",
-    "kişi",
-    "minib",
-    "nehre",
-    "pakis"
-   ],
-   "tok": [
-    "düştü",
-    "minib",
-    "neden",
-    "nehre",
-    "pakis",
-    "taşıy",
-    "yaşam",
-    "yitir",
-    "yolcu",
-    "yuvar"
-   ],
-   "at": "2026-11-13T08:09:34.437461+00:00"
-  },
-  {
-   "fp": [
     "4",
     "87",
     "darth",
@@ -14055,25 +13913,54 @@
     "şiirl"
    ],
    "at": "2026-11-14T20:00:24.679996+00:00"
+  },
+  {
+   "fp": [
+    "bizim",
+    "frans",
+    "halk",
+    "macro",
+    "polis",
+    "savaş",
+    "sokak"
+   ],
+   "tok": [
+    "alan",
+    "biber",
+    "bizim",
+    "dahil",
+    "döviz",
+    "frans",
+    "gazıy",
+    "göste",
+    "halk",
+    "halka",
+    "hedef",
+    "inen",
+    "inenl",
+    "kentt",
+    "lyon",
+    "macro",
+    "müdah",
+    "panka",
+    "paris",
+    "prote",
+    "rouen",
+    "sarı",
+    "savaş",
+    "sayıd",
+    "sendi",
+    "sokak",
+    "sokağ",
+    "taşıd",
+    "yapıl",
+    "yelek",
+    "çağrı"
+   ],
+   "at": "2026-11-14T20:13:00.105451+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1c7759c1fb",
-   "post_id": "529346797199852_1464129652493409",
-   "title": "Antalya'da yeni COP31 önlemi: İki gün idari izin verildi",
-   "at": "2026-11-10T13:56:11.726959+00:00",
-   "yazim": "claude",
-   "metin": "Antalya'da COP31 nedeniyle 7 ilçede kamu personeline 11-12 Kasım'da idari izin verildi.\n\n— Zirve nedeniyle kentte trafik yoğunluğu arttı, valilik bunu azaltmak için karar aldı.\n— İzin Aksu, Döşemealtı, Kepez, Konyaaltı, Manavgat, Muratpaşa ve Serik'te geçerli.\n— Aynı ilçelerde bu iki gün uzaktan eğitime geçilecek.\n— Kritik görevlerdeki personel ile nöbetçiler işinin başında olacak.\n— Özel sektör çalışanları kapsam dışında; valilik onlara esnek ya da uzaktan çalışmayı öneriyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/antalyada-cop31-nedeniyle-7-ilcedeki-kamu-personeline-2-gun-idari-izin-verilecek/4118941",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/antalya-valiligi-acikladi-7-ilcedeki-kamu-personeline-2-gun-idari-izin-verildi-43373091",
-    "Milliyet: https://www.milliyet.com.tr/gundem/antalyada-valiligi-acikladi-7-ilcedeki-kamu-personeline-2-gun-idari-izin-verilecek-7698259",
-    "NTV: https://www.ntv.com.tr/turkiye/galeri-antalyada-yeni-cop31-onlemi-iki-gun-idari-izin-verildi-1750297",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/yedi-ilcede-kamu-personeline-2-gun-idari-izin-verilecek-4871290",
-    "Evrensel: https://www.evrensel.net/haber/6008844/cop31-nedeniyle-antalyada-7-ilcede-karar-kamu-personeline-2-gun-idari-izin-verilecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "a5692424f9",
    "post_id": "529346797199852_1464140989158942",
@@ -16584,6 +16471,17 @@
    "sources": [
     "Karar: https://www.karar.com/kultur-sanat-haberleri/sezai-karakocun-efsane-siiri-ilk-kez-bestelendi-mona-rosayi-2084165"
    ]
+  },
+  {
+   "id": "39e42c6d08",
+   "post_id": "529346797199852_1468818562024518",
+   "title": "Fransa'da halk sokakta: \"Macron ve polisleri bizimle savaşıyor\"",
+   "at": "2026-11-14T20:13:00.105451+00:00",
+   "yazim": "claude",
+   "metin": "Fransa'da sendikalar ve Sarı Yelekliler'in çağrısıyla sokağa inenlere polis biber gazıyla müdahale etti.\n\n— Paris, Lyon ve Rouen dahil çok sayıda kentte protestolar yapıldı.\n— Göstericiler Cumhurbaşkanı Macron'u ve polisleri hedef alan pankart ve dövizler taşıdı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/fransa-da-halk-sokakta-macron-ve-polisleri-bizimle-savasiyor-746491"
+   ]
   }
  ],
  "fails": {
@@ -16868,10 +16766,10 @@
   "c8f8d7c6f3": 1,
   "0472f96463": 1,
   "997a70fd1a": 1,
-  "b2e27d0936": 1
+  "b2e27d0936": 1,
+  "934b1514f1": 1
  },
  "fail_log": [
-  "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
   "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
   "2026-11-14T05:44 Atilla Özsever: Kartal mitingi iş cinayetlerinin güçlü şekil -> ValueError: yanıt okunamadı",
   "2026-11-14T05:44 Ahmet Hakan: Liste olayının bir tartışma konusu olmaktan aci -> ValueError: yanıt okunamadı",
@@ -16910,12 +16808,13 @@
   "2026-11-14T19:10 Wanda Nara: (İcardi'nin sevgilisi China Suarez hk.) \"Benim g -> ValueError: yanıt okunamadı",
   "2026-11-14T19:10 Wanda Nara: (İcardi'nin sevgilisi China Suarez hk.) \"Benim g -> ValueError: yanıt okunamadı",
   "2026-11-14T19:10 Wanda Nara: (İcardi'nin sevgilisi China Suarez hk.) \"Benim g -> ValueError: yanıt okunamadı",
-  "2026-11-14T19:35 EMEP Dersim İl Kongresinde konuşan Sevda Karaca: “Süreç tıkı -> ValueError: cümle yarım kalmış: 'TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-14T19:35 EMEP Dersim İl Kongresinde konuşan Sevda Karaca: “Süreç tıkı -> ValueError: cümle yarım kalmış: 'TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-14T20:13 Cristiano Ronaldo için yapılan veda koreografisi: -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121694234373919162",
+   "since_id": "2121697156541141412",
    "started": true
   },
   "ajansmuhbir1923": {
