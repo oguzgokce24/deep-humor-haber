@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altın",
-    "ağacı",
-    "işçis",
-    "kalan",
-    "kesil",
-    "orman"
-   ],
-   "tok": [
-    "altın",
-    "ağacı",
-    "bozte",
-    "cinay",
-    "deniz",
-    "devri",
-    "ilçes",
-    "işlet",
-    "işçis",
-    "kalan",
-    "kesil",
-    "kesim",
-    "mente",
-    "muğla",
-    "nde",
-    "nın",
-    "olay",
-    "orman",
-    "serka",
-    "sıras",
-    "yerin",
-    "çalış",
-    "çam",
-    "şefli"
-   ],
-   "at": "2026-11-12T16:12:57.841718+00:00"
-  },
-  {
-   "fp": [
-    "altın",
-    "ağacı",
-    "işçis",
-    "kalan",
-    "kesil",
-    "orman"
-   ],
-   "tok": [
-    "altın",
-    "ağacı",
-    "bozte",
-    "cinay",
-    "deniz",
-    "devri",
-    "ilçes",
-    "işlet",
-    "işçis",
-    "kalan",
-    "kesil",
-    "kesim",
-    "mente",
-    "muğla",
-    "nde",
-    "nın",
-    "olay",
-    "orman",
-    "serka",
-    "sıras",
-    "yerin",
-    "çalış",
-    "çam",
-    "şefli"
-   ],
-   "at": "2026-11-12T16:22:51.268494+00:00"
-  },
-  {
-   "fp": [
     "düştü",
     "helik",
     "malat"
@@ -17318,6 +17244,55 @@
     "şikay"
    ],
    "at": "2026-11-14T04:12:10.507594+00:00"
+  },
+  {
+   "fp": [
+    "düzen",
+    "düşüy",
+    "işçin",
+    "payın",
+    "saray",
+    "ölüm"
+   ],
+   "tok": [
+    "abdul",
+    "ailel",
+    "alınm",
+    "ara",
+    "başar",
+    "ceza",
+    "düzen",
+    "düşüy",
+    "fazla",
+    "göste",
+    "gözle",
+    "habaş",
+    "hapsi",
+    "hesab",
+    "indir",
+    "insan",
+    "işçil",
+    "işçin",
+    "kez",
+    "kâr",
+    "kılıç",
+    "patro",
+    "payın",
+    "saray",
+    "serdi",
+    "serma",
+    "sömür",
+    "sözle",
+    "tepki",
+    "veril",
+    "verin",
+    "çarkı",
+    "ödül",
+    "ölüm",
+    "önüne",
+    "üreti"
+   ],
+   "at": "2026-11-14T04:24:47.170120+00:00"
   }
  ],
  "posted": [
@@ -20119,18 +20094,10 @@
   "486e7d7aa4": 2,
   "7482134257": 1,
   "0fe06ea34b": 2,
-  "ab2c12b8f7": 2
+  "9a18e86eac": 1,
+  "0c2f4b3691": 1
  },
  "fail_log": [
-  "2026-11-13T23:06 ABD'de yük gemisinin çarptığı kruz gemisi yan yattı -> ValueError: yanıt okunamadı",
-  "2026-11-14T00:19 Sermayenin ikiyüzlülüğü: Beş işçiyi öldüren şirket, HABAŞ ai -> ValueError: yanıt okunamadı",
-  "2026-11-14T00:32 Sağanak ve fırtına: İstanbul dahil 11 ile sarı kodlu uyarı -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
-  "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
-  "2026-11-14T00:44 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
-  "2026-11-14T00:57 Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar k -> ValueError: yanıt okunamadı",
-  "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
-  "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
   "2026-11-14T02:33 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
   "2026-11-14T02:52 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
   "2026-11-14T02:52 Trilyon MEB bütçesi bilindiği gibi: Öğrenciye de öğretmene d -> ValueError: yanıt okunamadı",
@@ -20161,7 +20128,16 @@
   "2026-11-14T03:55 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
   "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
   "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
-  "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı"
+  "2026-11-14T03:59 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
+  "2026-11-14T04:25 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
+  "2026-11-14T04:25 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
+  "2026-11-14T04:25 Saray'ın düzeninde işçinin payına ölüm düşüyor -> ValueError: yanıt okunamadı",
+  "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: cümle yarım kalmış: '— G'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-14T04:25 BirGün muhabiri İsmail Arı 24 gündür tutuklu! -> ValueError: yanıt okunamadı",
+  "2026-11-14T04:25 AKP kulisinde ‘yeni sayfa’ arayışı: Kabine değişikliği için  -> ValueError: yanıt okunamadı",
+  "2026-11-14T04:25 AKP kulisinde ‘yeni sayfa’ arayışı: Kabine değişikliği için  -> ValueError: yanıt okunamadı",
+  "2026-11-14T04:25 AKP kulisinde ‘yeni sayfa’ arayışı: Kabine değişikliği için  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
