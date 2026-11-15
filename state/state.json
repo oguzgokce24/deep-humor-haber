@@ -2,79 +2,6 @@
  "seen": [
   {
    "fp": [
-    "23",
-    "açtı",
-    "beyli",
-    "delik",
-    "işits",
-    "kapıl",
-    "milyo",
-    "miras",
-    "nün",
-    "sergi",
-    "taş",
-    "yıllı"
-   ],
-   "tok": [
-    "açtı",
-    "beyli",
-    "delik",
-    "işits",
-    "kapıl",
-    "miras",
-    "nün",
-    "sergi",
-    "taş",
-    "yıllı"
-   ],
-   "at": "2026-11-14T03:43:24.903656+00:00"
-  },
-  {
-   "fp": [
-    "adale",
-    "antal",
-    "buluş",
-    "iklim",
-    "savun",
-    "yaşam"
-   ],
-   "tok": [
-    "adale",
-    "akade",
-    "antal",
-    "arası",
-    "araya",
-    "başlı",
-    "buluş",
-    "doğan",
-    "düzen",
-    "ekolo",
-    "forum",
-    "gazet",
-    "gelec",
-    "hukuk",
-    "iklim",
-    "kasım",
-    "metal",
-    "nun",
-    "pek",
-    "progr",
-    "rolü",
-    "rolün",
-    "savun",
-    "tartı",
-    "ulusl",
-    "var",
-    "yaşam",
-    "yıkım",
-    "çevre",
-    "örgüt",
-    "şirke"
-   ],
-   "at": "2026-11-14T03:43:33.617578+00:00"
-  },
-  {
-   "fp": [
     "devam",
     "ediyo",
     "içi",
@@ -11260,25 +11187,88 @@
     "çıkan"
    ],
    "at": "2026-11-15T15:36:58.680683+00:00"
+  },
+  {
+   "fp": [
+    "ele",
+    "frans",
+    "geçir",
+    "iştir",
+    "milyo",
+    "opera",
+    "posta",
+    "saldı",
+    "siber",
+    "ulusa",
+    "veri"
+   ],
+   "tok": [
+    "alınd",
+    "arkea",
+    "avron",
+    "açıld",
+    "banka",
+    "başın",
+    "belge",
+    "bildi",
+    "buzdo",
+    "credi",
+    "derec",
+    "devri",
+    "dijit",
+    "diken",
+    "duyur",
+    "düzen",
+    "ekimd",
+    "eylül",
+    "frans",
+    "grubu",
+    "gönde",
+    "hedef",
+    "hizme",
+    "hüküm",
+    "iran",
+    "iştir",
+    "kişis",
+    "korum",
+    "kript",
+    "kulla",
+    "kurum",
+    "maile",
+    "mil",
+    "muhaf",
+    "mutue",
+    "ortas",
+    "para",
+    "platf",
+    "post",
+    "posta",
+    "poste",
+    "siber",
+    "siste",
+    "sorum",
+    "soğut",
+    "süper",
+    "the",
+    "tuttu",
+    "ulusa",
+    "veri",
+    "veril",
+    "veris",
+    "veriy",
+    "yapıl",
+    "yüzle",
+    "çalın",
+    "çevri",
+    "ülked",
+    "üzeri",
+    "ısıtı",
+    "şirke"
+   ],
+   "at": "2026-11-15T15:47:41.702838+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6556da620b",
-   "post_id": "529346797199852_1465025099070531",
-   "title": "Beşiktaş'ta eğlence mekanına silahlı saldırı: 1 ölü, 2 gözaltı",
-   "at": "2026-11-11T07:53:15.610130+00:00",
-   "yazim": "claude",
-   "metin": "Beşiktaş Kuruçeşme'de bir eğlence mekanının önünden motosikletle geçen iki kişiden biri silahla ateş açtı, kapıda bekleyen 24 yaşındaki genç hayatını kaybetti.\n\nOlay gece 03.50 sıralarında yaşandı. Genç, hastanede yapılan tüm müdahalelere rağmen kurtarılamadı.\n\n— Kaçan iki şüpheli, çaldıkları motosikleti Beşiktaş'ın Arnavutköy Mahallesi'nde bırakıp koruya girdi.\n— Polis, dron destekli arama yaparak iki şüpheliyi yaklaşık 3,5 saat sonra çalıların altında yakaladı.\n— İki şüphelinin de daha önce 3'er suç kaydı olduğu belirlendi, olayda kullanılan ruhsatsız tabanca ele geçirildi.\n\nSoruşturma sürüyor.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/besiktasta-eglence-mekanina-silahli-saldiri-1-kisi-hayatini-kaybetti-43373762",
-    "CNN Türk: https://www.cnnturk.com/turkiye/besiktasta-eglence-mekanina-silahli-saldiri-1-can-kaybi-calilarda-yakalandilar-3491812",
-    "Sözcü: https://www.sozcu.com.tr/besiktas-ta-gece-kulubu-onunde-kanli-pusu-24-yasindaki-genc-hayatini-kaybetti-p380177",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/besiktas-kurucesme-de-eglence-mekanina-silahli-saldiri-1-kisi-hayatini-kaybetti-2-supheli-gozaltina-alindi-2555268",
-    "Evrensel: https://www.evrensel.net/haber/6008916/besiktasta-eglence-mekanina-silahli-saldiri-24-yasindaki-genc-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/besiktas-ta-eglence-mekanina-silahli-saldiri-24-yasindaki-genc-hayatini-kaybetti-745767"
-   ]
-  },
   {
    "id": "7d9d85b6d7",
    "post_id": "529346797199852_1465034825736225",
@@ -13797,6 +13787,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/1-i-agir-11-kisi-yaralanmisti-silahli-kavga-sorusturmasinda-6-gozalti-2556384",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/mamakta-iki-aile-arasinda-kavga-11-yarali-ve-6-gozalti-var-7701369"
    ]
+  },
+  {
+   "id": "5f6e1abf99",
+   "post_id": "529346797199852_1469606711945703",
+   "title": "Fransa'da posta hizmetine siber saldırı: 22 milyon kişinin verisi çalındı",
+   "at": "2026-11-15T15:47:41.702838+00:00",
+   "yazim": "claude",
+   "metin": "Fransa'da posta hizmetine siber saldırı düzenlendi, 22 milyon kişinin verisi çalındı.\n\nSaldırı, ulusal posta operatörü La Poste'un dijital iştiraklerinden Maileva'ya eylül ortasında yapıldı. Maileva, kurumsal belge ve çevrimiçi posta gönderme platformu olarak hizmet veriyor.\n\n— Platformu kullanan 22 milyon kişinin kişisel verileri çalındı.\n— La Poste, saldırıyı Fransa Kişisel Verileri Koruma Kurumuna bildirdi ve soruşturma açıldığını duyurdu.\n— Ülkede ay başında Credit Mutuel Arkea bankasına da siber saldırı yapıldı ve 120 milyon avronun üzerinde kripto para çalındı.\n— Ekimde yüzlerce süpermarketin soğutma sistemleri hedef alındı, buzdolapları 50 dereceye kadar ısıtıldı. Fransa hükümeti bu saldırıdan İran Devrim Muhafızlarını sorumlu tuttu.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/fransada-ulusal-posta-operatoru-istirakine-siber-saldiri/4125783",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/fransada-ulusal-posta-operatoru-istirakine-siber-saldiri-963349.html",
+    "Milliyet: https://www.milliyet.com.tr/dunya/fransada-ulusal-posta-operatoru-istirakine-siber-saldiri-milyonlarca-veri-ele-gecirildi-7701320",
+    "Diken: https://www.diken.com.tr/fransada-posta-hizmetine-siber-saldiri-22-milyon-kisinin-verisi-calindi/?utm_source=rss&utm_medium=rss&utm_campaign=fransada-posta-hizmetine-siber-saldiri-22-milyon-kisinin-verisi-calindi",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/fransada-ulusal-posta-operatoru-istirakine-siber-saldiri-milyonlarca-veri-ele-gecirildi-7701320"
+   ]
   }
  ],
  "fails": {
@@ -14002,7 +14007,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121989629196796372",
+   "since_id": "2121991071408214367",
    "started": true
   },
   "ajansmuhbir1923": {
