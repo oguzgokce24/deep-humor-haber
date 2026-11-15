@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bilir",
-    "halit",
-    "karar",
-    "rapor",
-    "yukay",
-    "ölümü"
-   ],
-   "tok": [
-    "adamı",
-    "açıld",
-    "batık",
-    "bilir",
-    "bulun",
-    "dan",
-    "davad",
-    "davan",
-    "deniz",
-    "devam",
-    "değer",
-    "duruş",
-    "ertel",
-    "geliş",
-    "görül",
-    "halde",
-    "halit",
-    "heyet",
-    "ilişk",
-    "insan",
-    "parça",
-    "rapor",
-    "sanığ",
-    "tekne",
-    "uzman",
-    "yalov",
-    "yargı",
-    "yarı",
-    "yaşam",
-    "yitir",
-    "yukay",
-    "ölümü",
-    "şubat"
-   ],
-   "at": "2026-11-13T14:42:43.333687+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "den",
     "türki"
@@ -12385,20 +12339,72 @@
     "önemd"
    ],
    "at": "2026-11-15T02:33:33.172819+00:00"
+  },
+  {
+   "fp": [
+    "19",
+    "büyüy",
+    "emekç",
+    "habaş",
+    "hesap",
+    "işçin",
+    "soruy",
+    "öfke",
+    "ölümü"
+   ],
+   "tok": [
+    "aliağ",
+    "ardın",
+    "başar",
+    "birço",
+    "büyüy",
+    "daki",
+    "düzen",
+    "ederk",
+    "ediyo",
+    "emekç",
+    "eylem",
+    "fabri",
+    "habaş",
+    "hakkı",
+    "hapsi",
+    "hesap",
+    "ilçes",
+    "isten",
+    "izmir",
+    "işçi",
+    "işçil",
+    "işçin",
+    "kentt",
+    "mehme",
+    "parti",
+    "patro",
+    "prote",
+    "rüştü",
+    "sendi",
+    "siyas",
+    "sorum",
+    "soruy",
+    "talep",
+    "tepki",
+    "tutul",
+    "uzana",
+    "verme",
+    "yalıs",
+    "yas",
+    "yaşam",
+    "yitir",
+    "çekiy",
+    "çekti",
+    "öfke",
+    "ölümü",
+    "önünd",
+    "şirke"
+   ],
+   "at": "2026-11-15T02:46:21.027779+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3da80eeb77",
-   "post_id": "529346797199852_1464425762463798",
-   "title": "Türkiye'nin yeni nükleer santralleri için iki ülke öne çıktı: Rusya ve Çin saf dışı kaldı",
-   "at": "2026-11-10T19:18:43.042367+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'nin yeni nükleer santral projesinde Kanada ve Güney Kore öne çıktı, Rusya ile Çin rekabette geride kaldı.\n\n— Bakan Bayraktar, iki ülkenin sunduğu teknolojilerden büyük ölçüde ikna olduklarını söyledi.\n\n— Ortakların önümüzdeki aylarda netleşmesi bekleniyor.\n\n— Sinop Nükleer Güç Santrali için en güçlü aday görülen Rusya'nın bu tabloda geride kalması dikkat çekiyor.",
-   "sources": [
-    "Karar: https://www.karar.com/"
-   ]
-  },
   {
    "id": "6624f77b81",
    "post_id": "529346797199852_1464439125795795",
@@ -14875,6 +14881,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/ormanlari-sinir-disina-cikardilar-tmmob-den-iptal-davasi-746501"
    ]
+  },
+  {
+   "id": "6a507ac60a",
+   "post_id": "529346797199852_1469045202001854",
+   "title": "HABAŞ'ta 19 işçinin ölümüne öfke büyüyor: Emekçiler hesap soruyor",
+   "at": "2026-11-15T02:46:21.027779+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'in Aliağa ilçesindeki HABAŞ fabrikasında 19 işçi hayatını kaybetti, sendikalar ve siyasi partiler birçok kentte eylem yaptı.\n\n— İşçiler yas hakkı talep ediyor.\n— Şirketin patronunun yalısında ev hapsinde tutulması tepki çekiyor.\n— Fabrika önünden patronun yalısına uzanan protestolarda sorumluların hesap vermesi isteniyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/habas-ta-19-iscinin-olumune-ofke-buyuyor-emekciler-hesap-soruyor-746503"
+   ]
   }
  ],
  "fails": {
@@ -15172,16 +15189,10 @@
   "2def16c91d": 1,
   "158ac8a2b4": 1,
   "f177295d62": 1,
-  "b8c9754479": 1,
-  "4d6a345f76": 1
+  "b8c9754479": 2,
+  "4d6a345f76": 2
  },
  "fail_log": [
-  "2026-11-14T22:31 T.C. BAKIRKÖY GAYRİMENKUL SATIŞ İCRA DAİRESİ -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:31 Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’i -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:31 Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’i -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:31 Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’i -> ValueError: yanıt okunamadı",
-  "2026-11-14T23:05 T.C. BAKIRKÖY GAYRİMENKUL SATIŞ İCRA DAİRESİ -> ValueError: yanıt okunamadı",
-  "2026-11-14T23:05 T.C. BAKIRKÖY GAYRİMENKUL SATIŞ İCRA DAİRESİ -> ValueError: yanıt okunamadı",
   "2026-11-14T23:05 T.C. BAKIRKÖY GAYRİMENKUL SATIŞ İCRA DAİRESİ -> ValueError: yanıt okunamadı",
   "2026-11-14T23:05 Faciaya ramak kaldı: Yol çöktü, 6 metrelik çukur oluştu -> ValueError: yanıt okunamadı",
   "2026-11-14T23:54 Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’i -> ValueError: yanıt okunamadı",
@@ -15215,7 +15226,13 @@
   "2026-11-15T02:33 Alev alan araçta can pazarı: 2 ölü, 5 yaralı -> ValueError: yanıt okunamadı",
   "2026-11-15T02:33 İçeriden dışarıya mektuplar: Biz neden zindandayız? -> ValueError: yanıt okunamadı",
   "2026-11-15T02:33 İçeriden dışarıya mektuplar: Biz neden zindandayız? -> ValueError: yanıt okunamadı",
-  "2026-11-15T02:33 İçeriden dışarıya mektuplar: Biz neden zindandayız? -> ValueError: yanıt okunamadı"
+  "2026-11-15T02:33 İçeriden dışarıya mektuplar: Biz neden zindandayız? -> ValueError: yanıt okunamadı",
+  "2026-11-15T02:46 Alev alan araçta can pazarı: 2 ölü, 5 yaralı -> ValueError: yanıt okunamadı",
+  "2026-11-15T02:46 Alev alan araçta can pazarı: 2 ölü, 5 yaralı -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-15T02:46 Alev alan araçta can pazarı: 2 ölü, 5 yaralı -> ValueError: yanıt okunamadı",
+  "2026-11-15T02:46 İçeriden dışarıya mektuplar: Biz neden zindandayız? -> ValueError: yanıt okunamadı",
+  "2026-11-15T02:46 İçeriden dışarıya mektuplar: Biz neden zindandayız? -> ValueError: yanıt okunamadı",
+  "2026-11-15T02:46 İçeriden dışarıya mektuplar: Biz neden zindandayız? -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
