@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "8",
-    "dolan",
-    "ilde",
-    "izmir",
-    "merke",
-    "opera",
-    "siber",
-    "tutuk",
-    "şüphe"
-   ],
-   "tok": [
-    "adliy",
-    "alına",
-    "alınd",
-    "bartı",
-    "baskı",
-    "belge",
-    "belir",
-    "dolan",
-    "düzen",
-    "edile",
-    "ekipl",
-    "emniy",
-    "firma",
-    "iddia",
-    "izmir",
-    "işlem",
-    "karab",
-    "kom",
-    "nin",
-    "nitel",
-    "perso",
-    "resmî",
-    "sahte",
-    "sevk",
-    "siber",
-    "tamam",
-    "uğrat",
-    "yapıl",
-    "zaman",
-    "zarar",
-    "şebek"
-   ],
-   "at": "2026-11-14T06:59:29.350964+00:00"
-  },
-  {
-   "fp": [
     "ağıre",
     "murat",
     "sarıg",
@@ -11323,20 +11275,59 @@
     "ölümü"
    ],
    "at": "2026-11-15T18:59:04.881134+00:00"
+  },
+  {
+   "fp": [
+    "39",
+    "7",
+    "dalga",
+    "gözal",
+    "nci"
+   ],
+   "tok": [
+    "ailen",
+    "ali",
+    "alınd",
+    "avuka",
+    "ayrıc",
+    "başla",
+    "belir",
+    "bildi",
+    "biçim",
+    "den",
+    "doku",
+    "ekim",
+    "erzur",
+    "farkl",
+    "gerek",
+    "gider",
+    "görül",
+    "gülis",
+    "hâlâ",
+    "ilişk",
+    "istat",
+    "işlem",
+    "kamuo",
+    "kapsa",
+    "kaybo",
+    "munzu",
+    "nci",
+    "nun",
+    "sonuç",
+    "sürdü",
+    "sürüy",
+    "yana",
+    "yapıl",
+    "yürüt",
+    "çimen",
+    "öncek",
+    "öğren",
+    "ünive"
+   ],
+   "at": "2026-11-15T19:11:52.900424+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "978c735455",
-   "post_id": "529346797199852_1467838658789175",
-   "title": "Antonio Guterres: “Uyum finansmanını üç katına çıkarmak bile ihtiyacın yüzde 30’unu karşılamıyor”",
-   "at": "2026-11-13T20:24:05.656667+00:00",
-   "yazim": "claude",
-   "metin": "Antonio Guterres:\n\n“Uyum finansmanını üç katına çıkarmak bile ihtiyacın yüzde 30’unu karşılamıyor.”\n\nCOP31'de iklim uyumu için ayrılan finansmanın yetersiz kaldığını söyleyen Guterres, gelişmiş ülkelere daha fazla finansman çağrısı yaptı.",
-   "sources": [
-    "Medyascope: https://medyascope.tv/2026/11/13/antonio-guterres-mevcut-iklim-fonlari-yeterli-degil/"
-   ]
-  },
   {
    "id": "838d37d2ac",
    "post_id": "529346797199852_1467846022121772",
@@ -13832,6 +13823,18 @@
     "Karar: https://www.karar.com/guncel-haberler/17-yasindaki-cocugu-hayattan-koparan-arac-silah-sayildi-2084265",
     "BPT (X): https://x.com/bpthaber/status/2122039713330524163"
    ]
+  },
+  {
+   "id": "36fcfdb424",
+   "post_id": "529346797199852_1469761425263565",
+   "title": "Gülistan Doku soruşturmasında 7’nci dalga: En az 39 gözaltı",
+   "at": "2026-11-15T19:11:52.900424+00:00",
+   "yazim": "claude",
+   "metin": "Erzurum'da 2020'de kaybolan Munzur Üniversitesi öğrencisinin soruşturmasında 7'nci dalga operasyonda en az 39 kişi gözaltına alındı.\n\n— Operasyon 29 Ekim'de başladı ve hâlâ sürüyor. Önceki altı dalgadan farklı bir biçimde yürütüldüğü belirtiliyor.\n— Ailenin avukatı Ali Çimen, şüphelerin giderilmesi için gerek görüldükçe gözaltı yapıldığını söyledi.\n— Çimen, operasyonun istatistiki sonuçlarını kamuoyuna ayrıca açıklayacaklarını bildirdi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009637/gulistan-doku-sorusturmasinda-7-nci-dalga-en-az-39-gozalti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/avukat-cimen-den-7-nci-dalga-operasyon-aciklamasi-en-az-39-kisiye-gozalti-islemi-746607"
+   ]
   }
  ],
  "fails": {
@@ -13994,12 +13997,10 @@
   "ce1953d789": 1,
   "338e47bc52": 1,
   "8b6ca861c2": 1,
-  "03535959e6": 1
+  "03535959e6": 1,
+  "44025f59b3": 1
  },
  "fail_log": [
-  "2026-11-15T11:01 Kağıthane’de lodos sırasında içecek dolabı devrildi: Kadın s -> ValueError: yanıt okunamadı",
-  "2026-11-15T11:01 Kağıthane’de lodos sırasında içecek dolabı devrildi: Kadın s -> ValueError: yanıt okunamadı",
-  "2026-11-15T11:01 Kağıthane’de lodos sırasında içecek dolabı devrildi: Kadın s -> ValueError: yanıt okunamadı",
   "2026-11-15T11:42 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
   "2026-11-15T11:42 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
   "2026-11-15T11:42 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
@@ -14036,12 +14037,15 @@
   "2026-11-15T17:46 Oyuncular merakla bekliyordu: Nvidia, duyurduğu yeni ekran k -> ValueError: yanıt okunamadı",
   "2026-11-15T17:59 Ömer Üründül: \"Fenerbahçe'nin ilk 3'e girmesi zor. Beşiktaş  -> ValueError: yanıt okunamadı",
   "2026-11-15T17:59 Ömer Üründül: \"Fenerbahçe'nin ilk 3'e girmesi zor. Beşiktaş  -> ValueError: yanıt okunamadı",
-  "2026-11-15T17:59 Ömer Üründül: \"Fenerbahçe'nin ilk 3'e girmesi zor. Beşiktaş  -> ValueError: yanıt okunamadı"
+  "2026-11-15T17:59 Ömer Üründül: \"Fenerbahçe'nin ilk 3'e girmesi zor. Beşiktaş  -> ValueError: yanıt okunamadı",
+  "2026-11-15T19:11 Sergen Yalçın: \"Bugün biraz daha oyunu tutmaya çalışacağız.  -> ValueError: yanıt okunamadı",
+  "2026-11-15T19:11 Sergen Yalçın: \"Bugün biraz daha oyunu tutmaya çalışacağız.  -> ValueError: yanıt okunamadı",
+  "2026-11-15T19:11 Sergen Yalçın: \"Bugün biraz daha oyunu tutmaya çalışacağız.  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122039713330524163",
+   "since_id": "2122044186031452491",
    "started": true
   },
   "ajansmuhbir1923": {
