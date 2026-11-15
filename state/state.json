@@ -2,71 +2,6 @@
  "seen": [
   {
    "fp": [
-    "artır",
-    "değiş",
-    "iklim",
-    "kaktü",
-    "nesli",
-    "riski",
-    "tüken"
-   ],
-   "tok": [
-    "appea",
-    "artan",
-    "artır",
-    "değiş",
-    "diken",
-    "first",
-    "iklim",
-    "kaktü",
-    "kurak",
-    "linka",
-    "neden",
-    "nesli",
-    "ortay",
-    "post",
-    "riski",
-    "site",
-    "sıcak",
-    "tehli",
-    "tespi",
-    "the",
-    "tüken",
-    "çıktı",
-    "şidde"
-   ],
-   "at": "2026-11-13T13:45:12.990588+00:00"
-  },
-  {
-   "fp": [
-    "niğde",
-    "pence",
-    "öğren"
-   ],
-   "tok": [
-    "alınd",
-    "düşen",
-    "düştü",
-    "ekipl",
-    "hasta",
-    "ikinc",
-    "kaldı",
-    "katın",
-    "niğde",
-    "okul",
-    "okuld",
-    "ortao",
-    "pence",
-    "sağlı",
-    "sınıf",
-    "tedav",
-    "yaşın",
-    "öğren"
-   ],
-   "at": "2026-11-13T13:48:33.683765+00:00"
-  },
-  {
-   "fp": [
     "asker",
     "başın",
     "duyur",
@@ -15296,18 +15231,12 @@
   "d2e4a701db": 1,
   "de66ddf9f2": 1,
   "e2df515a59": 1,
-  "942da95524": 1
+  "942da95524": 1,
+  "2def16c91d": 1,
+  "158ac8a2b4": 1,
+  "f177295d62": 1
  },
  "fail_log": [
-  "2026-11-14T22:23 Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde,  -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:27 ABD'de mahkeme, iki yıl boyunca taramalarda kanseri gözden k -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:27 ABD'de mahkeme, iki yıl boyunca taramalarda kanseri gözden k -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:27 ABD'de mahkeme, iki yıl boyunca taramalarda kanseri gözden k -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:27 Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde,  -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:27 Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde,  -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:27 Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde,  -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:27 T.C. BAKIRKÖY GAYRİMENKUL SATIŞ İCRA DAİRESİ -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:27 T.C. BAKIRKÖY GAYRİMENKUL SATIŞ İCRA DAİRESİ -> ValueError: yanıt okunamadı",
   "2026-11-14T22:27 T.C. BAKIRKÖY GAYRİMENKUL SATIŞ İCRA DAİRESİ -> ValueError: yanıt okunamadı",
   "2026-11-14T22:31 Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde,  -> ValueError: yanıt okunamadı",
   "2026-11-14T22:31 Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde,  -> ValueError: yanıt okunamadı",
@@ -15338,7 +15267,16 @@
   "2026-11-15T00:19 Fonlar hala kazandırıyor! -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-15T00:23 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
   "2026-11-15T00:23 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
-  "2026-11-15T00:23 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı"
+  "2026-11-15T00:23 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Çan kulesinde bir sanat -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Çan kulesinde bir sanat -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Çan kulesinde bir sanat -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Gurbetin çocukları -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Gurbetin çocukları -> ValueError: yanıt okunamadı",
+  "2026-11-15T01:54 Gurbetin çocukları -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
