@@ -2,223 +2,6 @@
  "seen": [
   {
    "fp": [
-    "150",
-    "35",
-    "kivi",
-    "marke",
-    "tarla",
-    "tepki",
-    "üreti"
-   ],
-   "tok": [
-    "altın",
-    "alına",
-    "arada",
-    "den",
-    "diye",
-    "farkı",
-    "fiyat",
-    "fındı",
-    "hâlâ",
-    "kazan",
-    "kim",
-    "kivi",
-    "kivin",
-    "maliy",
-    "marke",
-    "satıl",
-    "sordu",
-    "söyle",
-    "tarla",
-    "tepki",
-    "üreti"
-   ],
-   "at": "2026-11-13T15:03:00.909526+00:00"
-  },
-  {
-   "fp": [
-    "2",
-    "alınd",
-    "darbe",
-    "fatih",
-    "gözal",
-    "kadın",
-    "kamer",
-    "ortas",
-    "sokak",
-    "yakal",
-    "şidde",
-    "şüphe"
-   ],
-   "tok": [
-    "alınd",
-    "anlar",
-    "darbe",
-    "fatih",
-    "gün",
-    "kadın",
-    "kamer",
-    "olayı",
-    "ortas",
-    "sokak",
-    "tekme",
-    "yaşan",
-    "yumru",
-    "şidde"
-   ],
-   "at": "2026-11-13T15:09:42.843640+00:00"
-  },
-  {
-   "fp": [
-    "hattı",
-    "isale",
-    "kapan",
-    "patla",
-    "rize",
-    "tek",
-    "ulaşı",
-    "yol",
-    "yönlü"
-   ],
-   "tok": [
-    "başla",
-    "bölge",
-    "dağıt",
-    "elekt",
-    "güney",
-    "hattı",
-    "isale",
-    "içme",
-    "kapan",
-    "kara",
-    "patla",
-    "rize",
-    "suyu",
-    "sıras",
-    "tek",
-    "ulaşı",
-    "yol",
-    "yolu",
-    "yönlü",
-    "çalış",
-    "şirke"
-   ],
-   "at": "2026-11-13T15:09:43.604844+00:00"
-  },
-  {
-   "fp": [
-    "44",
-    "asıl",
-    "habaş",
-    "işçi",
-    "kim",
-    "muhte",
-    "rivay",
-    "sorum",
-    "taki",
-    "ölüml"
-   ],
-   "tok": [
-    "aksu",
-    "asıl",
-    "başar",
-    "başlı",
-    "habaş",
-    "hacal",
-    "hilmi",
-    "işçi",
-    "kim",
-    "konuğ",
-    "medya",
-    "muhte",
-    "nun",
-    "rivay",
-    "sorum",
-    "taki",
-    "yayın",
-    "ölüml"
-   ],
-   "at": "2026-11-13T15:13:04.414092+00:00"
-  },
-  {
-   "fp": [
-    "6",
-    "bunu",
-    "cemal",
-    "dizil",
-    "hünal",
-    "istem",
-    "konuş",
-    "kuşak",
-    "medya",
-    "rekla",
-    "seyir",
-    "yayın"
-   ],
-   "tok": [
-    "anlat",
-    "bunu",
-    "cemal",
-    "dijit",
-    "dizi",
-    "dizil",
-    "etkis",
-    "hünal",
-    "istem",
-    "konuş",
-    "kuşak",
-    "medya",
-    "oyunc",
-    "platf",
-    "popül",
-    "rekla",
-    "seyir",
-    "sürel",
-    "uzun",
-    "yayın",
-    "yükse"
-   ],
-   "at": "2026-11-13T15:21:51.570782+00:00"
-  },
-  {
-   "fp": [
-    "devle",
-    "katkı",
-    "lerde",
-    "liler",
-    "mesem",
-    "tartı",
-    "tehli",
-    "ücret"
-   ],
-   "tok": [
-    "alama",
-    "alıp",
-    "belir",
-    "bilmi",
-    "devle",
-    "diyor",
-    "dolma",
-    "gelec",
-    "gençl",
-    "imes",
-    "katkı",
-    "konuş",
-    "lerde",
-    "liler",
-    "maaş",
-    "mesem",
-    "süres",
-    "sürük",
-    "tartı",
-    "tehli",
-    "öğren",
-    "ücret"
-   ],
-   "at": "2026-11-13T15:25:07.394018+00:00"
-  },
-  {
-   "fp": [
     "bana",
     "bin",
     "dokun",
@@ -12315,21 +12098,71 @@
     "ülkem"
    ],
    "at": "2026-11-15T02:59:07.090945+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "akp",
+    "bütçe",
+    "den",
+    "ihtiy",
+    "mhp",
+    "ret",
+    "tamam",
+    "yer",
+    "yok",
+    "çocuk",
+    "önerg"
+   ],
+   "tok": [
+    "akp",
+    "atama",
+    "ayrıl",
+    "besle",
+    "bin",
+    "bütçe",
+    "deki",
+    "den",
+    "edilm",
+    "eğiti",
+    "görüş",
+    "güven",
+    "hiçbi",
+    "ihtiy",
+    "isten",
+    "istih",
+    "kabul",
+    "kay",
+    "kayna",
+    "mhp",
+    "milli",
+    "okull",
+    "oylar",
+    "perso",
+    "redde",
+    "ret",
+    "sorun",
+    "sunul",
+    "talep",
+    "tamam",
+    "tbmm",
+    "temiz",
+    "veril",
+    "yemek",
+    "yer",
+    "yok",
+    "çocuk",
+    "çözüm",
+    "önerg",
+    "öğren",
+    "öğret",
+    "öğün",
+    "ücret"
+   ],
+   "at": "2026-11-15T03:25:49.048512+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6624f77b81",
-   "post_id": "529346797199852_1464439125795795",
-   "title": "'On yılda 11 işçi ölürken bakanlık neredeydi?': Şişli'de HABAŞ protestosu",
-   "at": "2026-11-10T19:32:07.441200+00:00",
-   "yazim": "claude",
-   "metin": "İzmir Aliağa'daki HABAŞ Demir Çelik Fabrikası'nda patlamada 18 işçi hayatını kaybetti, İstanbul'da bu ölümler protesto edildi.\n\n— Patlama 9 Kasım'da, kazan değişimi sırasında tavan vincinin düşmesiyle çıktı. 15 işçi de yaralandı.\n\n— İstanbul Emek, Barış ve Demokrasi Güçleri, Şişli'de yaptığı açıklamada fabrikada son on yılda en az 11 işçinin daha öldüğünü hatırlattı.\n\n— Açıklamada Çalışma ve Sosyal Güvenlik Bakanlığı'na “HABAŞ'ta son on yılda 11 işçi hayatını kaybederken Bakanlık neredeydi?” diye soruldu.\n\n— 10 Kasım'da HABAŞ Yönetim Kurulu Başkanı Mehmet Rüştü Başaran dahil 11 kişi hakkında gözaltı kararı verildi.\n\n— Aynı gün, işçi ölümlerinin araştırılmasına yönelik öneriler AKP ve MHP oylarıyla reddedildi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6008877/sislide-habas-katliami-protestosu-habasta-on-yilda-11-isci-hayatini-kaybederken-bakanlik-neredeydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Diken: https://www.diken.com.tr/on-yilda-11-isci-olurken-bakanlik-neredeydi-sislide-habas-protestosu/?utm_source=rss&utm_medium=rss&utm_campaign=on-yilda-11-isci-olurken-bakanlik-neredeydi-sislide-habas-protestosu"
-   ]
-  },
   {
    "id": "75c330718a",
    "post_id": "529346797199852_1464447165794991",
@@ -14805,6 +14638,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/habas-ta-19-iscinin-olumune-ofke-buyuyor-emekciler-hesap-soruyor-746503"
    ]
+  },
+  {
+   "id": "84aa122317",
+   "post_id": "529346797199852_1469070025332705",
+   "title": "Çocukların ihtiyaçlarına bütçede yer yok: AKP ve MHP'den 15 önergenin tamamına ret",
+   "at": "2026-11-15T03:25:49.048512+00:00",
+   "yazim": "claude",
+   "metin": "TBMM'de Milli Eğitim Bakanlığı bütçesine verilen 15 önergenin tamamı AKP ve MHP oylarıyla reddedildi.\n\n— Önergelerde okullarda bir öğün ücretsiz yemek, temizlik ve güvenlik personeli istihdamı ile 50 bin ek öğretmen ataması için kaynak ayrılması isteniyordu.\n— Bu taleplerin hiçbiri kabul edilmedi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/cocuklarin-ihtiyaclarina-butcede-yer-yok-akp-ve-mhp-den-15-onergenin-tamamina-ret-746512"
+   ]
   }
  ],
  "fails": {
@@ -15106,7 +14950,6 @@
  "fail_log": [
   "2026-11-15T00:19 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
   "2026-11-15T00:19 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
-  "2026-11-15T00:19 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
   "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: yanıt okunamadı",
   "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: cümle yarım kalmış: 'a göre işçinin vücudunun yüzde doksanı y'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -15143,7 +14986,8 @@
   "2026-11-15T02:59 İçeriden dışarıya mektuplar: Biz neden zindandayız? -> ValueError: yanıt okunamadı",
   "2026-11-15T02:59 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
   "2026-11-15T02:59 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
-  "2026-11-15T02:59 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı"
+  "2026-11-15T02:59 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
+  "2026-11-15T03:25 Çocukların ihtiyaçlarına bütçede yer yok: AKP ve MHP'den 15  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
