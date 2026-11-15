@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "30",
-    "anton",
-    "bile",
-    "finan",
-    "guter",
-    "ihtiy",
-    "karşı",
-    "katın",
-    "unu",
-    "uyum",
-    "yüzde",
-    "çıkar"
-   ],
-   "tok": [
-    "anton",
-    "ayrıl",
-    "belir",
-    "bile",
-    "cop31",
-    "fazla",
-    "finan",
-    "geliş",
-    "guter",
-    "ihtiy",
-    "iklim",
-    "kaldı",
-    "karşı",
-    "katın",
-    "medya",
-    "söyle",
-    "unu",
-    "uyum",
-    "uyumu",
-    "yeter",
-    "yüzde",
-    "çağrı",
-    "çıkar",
-    "ülkel"
-   ],
-   "at": "2026-11-13T20:24:05.656667+00:00"
-  },
-  {
-   "fp": [
     "besli",
     "deki",
     "enerj",
@@ -10958,20 +10914,84 @@
     "özdem"
    ],
    "at": "2026-11-15T08:20:49.403387+00:00"
+  },
+  {
+   "fp": [
+    "akom",
+    "fırtı",
+    "gök",
+    "gürül",
+    "istan",
+    "sağan",
+    "sıcak",
+    "tarih",
+    "uyarı",
+    "verdi"
+   ],
+   "tok": [
+    "afet",
+    "akom",
+    "anda",
+    "aralı",
+    "artac",
+    "artır",
+    "bekle",
+    "beled",
+    "birli",
+    "bulut",
+    "büyük",
+    "cumar",
+    "daire",
+    "derec",
+    "değiş",
+    "dönüş",
+    "fırtı",
+    "geliy",
+    "gök",
+    "göre",
+    "güney",
+    "günle",
+    "günü",
+    "gürül",
+    "hafta",
+    "hava",
+    "ibb",
+    "itiba",
+    "işler",
+    "kapsa",
+    "kasım",
+    "kenti",
+    "kilom",
+    "lodos",
+    "olaca",
+    "olmay",
+    "ortas",
+    "parça",
+    "pazar",
+    "rapor",
+    "risk",
+    "rüzga",
+    "saatt",
+    "salı",
+    "sağan",
+    "sıcak",
+    "tahmi",
+    "tarih",
+    "ulaşa",
+    "uyarı",
+    "verdi",
+    "yayım",
+    "yağış",
+    "yönet",
+    "yükse",
+    "çarşa",
+    "çıkac",
+    "şidde"
+   ],
+   "at": "2026-11-15T08:33:28.532399+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2c5b52838e",
-   "post_id": "529346797199852_1464637589109282",
-   "title": "Tesla'dan Türkiye atağı: Denetlenmiş ikinci el modeller ilave garantiyle satışta",
-   "at": "2026-11-11T00:00:44.118235+00:00",
-   "yazim": "claude",
-   "metin": "Tesla, Türkiye'de 150 bin kilometrenin altındaki denetlenmiş ikinci el elektrikli araçları garantiyle satışa sundu.\n\n— Satış doğrudan Tesla üzerinden yapılıyor, aracı kurumlar devreden çıkarılmış.\n— Araçlar Tesla teknisyenlerince denetleniyor, bakımları yapılıp yenileniyor ve hasar geçmişi kontrol ediliyor.\n— Yeni araç garantisinin üzerine 1 yıl ya da 20 bin kilometre ek garanti veriliyor.\n— \"Takas\" programıyla eski araç yeni bir Tesla siparişinde değerlendiriliyor ve eski araç teslim alındıktan sonra aynı gün yeni araçla yola çıkılabiliyor.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/ikinci-el-tesla-nereden-alinir-sertifikali-ikinci-el-tesla-nasil-2083477"
-   ]
-  },
   {
    "id": "9ab8978736",
    "post_id": "529346797199852_1464651329107908",
@@ -13446,6 +13466,20 @@
     "BirGün: https://www.birgun.net/haber/evde-bakim-yardimi-hesaplara-yatirilmaya-baslandi-746541",
     "Karar: https://www.karar.com/ekonomi-haberleri/bakan-goktas-duyurdu-kasim-ayi-evde-bakim-yardimi-odemeleri-basladi-2084197"
    ]
+  },
+  {
+   "id": "0eab638f86",
+   "post_id": "529346797199852_1469267678646273",
+   "title": "AKOM tarih verdi: İstanbul'da gök gürültülü sağanak yağış uyarısı",
+   "at": "2026-11-15T08:33:28.532399+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da çarşamba günü güneyli rüzgar (lodos) fırtınaya dönüşecek, sıcaklıklar 18-20 dereceye çıkacak.\n\n— Rüzgar aralıklarla saatte 40-75 kilometreye ulaşacak.\n\n— Salı ve cumartesi günleri gök gürültülü sağanak yağış bekleniyor.\n\n— Pazartesi günü yağış olmayacak, hava parçalı bulutlu ve 9-15 derece olacak.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-once-saganak-sonra-firtina-hava-bir-anda-degisecek-sicaklik-20-dereceye-yukselecek-1750930",
+    "Sözcü: https://www.sozcu.com.tr/istanbul-icin-lodos-ve-firtina-uyarisi-sicakliklar-artacak-saganak-geliyor-p381467",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akom-tarih-verdi-istanbul-da-gok-gurultulu-saganak-yagis-uyarisi-2556241",
+    "BirGün: https://www.birgun.net/haber/akom-tarih-verdi-istanbul-icin-gok-gurultulu-saganak-uyarisi-746542"
+   ]
   }
  ],
  "fails": {
@@ -13600,12 +13634,10 @@
   "1400a0f95c": 1,
   "274b2b83d8": 1,
   "d786d031d6": 1,
-  "12ad36e8ce": 1
+  "12ad36e8ce": 1,
+  "4a0474452e": 1
  },
  "fail_log": [
-  "2026-11-15T05:52 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:52 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:52 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
   "2026-11-15T05:52 Fenerbahçeli milli futbolcu için olay iddia: 'Sezon sonunda  -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
   "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
@@ -13642,12 +13674,15 @@
   "2026-11-15T08:08 Uzmanlardan uyarı: İnme riski sabah saatlerinde yüzde 72 art -> ValueError: yanıt okunamadı",
   "2026-11-15T08:08 Uzmanlardan uyarı: İnme riski sabah saatlerinde yüzde 72 art -> ValueError: yanıt okunamadı",
   "2026-11-15T08:20 Bakan Göktaş duyurdu: Kasım ayı Evde Bakım Yardımı ödemeleri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-15T08:20 Bakan Göktaş duyurdu: Kasım ayı Evde Bakım Yardımı ödemeleri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-15T08:20 Bakan Göktaş duyurdu: Kasım ayı Evde Bakım Yardımı ödemeleri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı",
+  "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı",
+  "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121879304329957521",
+   "since_id": "2121883247206674716",
    "started": true
   },
   "ajansmuhbir1923": {
