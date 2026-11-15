@@ -2,43 +2,6 @@
  "seen": [
   {
    "fp": [
-    "geldi",
-    "hale",
-    "kulla",
-    "malte",
-    "otomo"
-   ],
-   "tok": [
-    "aldı",
-    "alev",
-    "ardın",
-    "başla",
-    "duman",
-    "geldi",
-    "hale",
-    "halin",
-    "inere",
-    "itfai",
-    "kulla",
-    "kurtu",
-    "kısmı",
-    "malte",
-    "motor",
-    "müdah",
-    "otomo",
-    "saatl",
-    "seyir",
-    "söndü",
-    "sürüc",
-    "yanan",
-    "yangı",
-    "yarım",
-    "çıkan"
-   ],
-   "at": "2026-11-14T08:02:32.446332+00:00"
-  },
-  {
-   "fp": [
     "5",
     "düğün",
     "konvo",
@@ -11249,25 +11212,79 @@
     "şartı"
    ],
    "at": "2026-11-15T20:01:21.892968+00:00"
+  },
+  {
+   "fp": [
+    "350",
+    "99",
+    "bakım",
+    "demir",
+    "dev",
+    "eurol",
+    "filos",
+    "iniyo",
+    "makin",
+    "milyo",
+    "rayla",
+    "yatır"
+   ],
+   "tok": [
+    "abdul",
+    "altya",
+    "anlaş",
+    "aral",
+    "aralı",
+    "asya",
+    "bakım",
+    "banka",
+    "demir",
+    "dev",
+    "duyur",
+    "düşec",
+    "edilm",
+    "envan",
+    "eurol",
+    "filos",
+    "finan",
+    "girec",
+    "hatla",
+    "ihale",
+    "imzal",
+    "iniyo",
+    "içind",
+    "kapsa",
+    "katen",
+    "katıl",
+    "kısal",
+    "makas",
+    "makin",
+    "moder",
+    "nesil",
+    "nin",
+    "ortal",
+    "planl",
+    "proje",
+    "rayla",
+    "siste",
+    "stand",
+    "sözle",
+    "sürel",
+    "tamam",
+    "taşım",
+    "tcdd",
+    "tesli",
+    "ulaşt",
+    "uralo",
+    "yapac",
+    "yapıl",
+    "yatır",
+    "yaş",
+    "öngör"
+   ],
+   "at": "2026-11-15T20:14:01.528592+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "413b874022",
-   "post_id": "529346797199852_1467876738785367",
-   "title": "Mekke Anlaşması Resmi Gazete’de yayımlanarak yürürlüğe girdi",
-   "at": "2026-11-13T21:25:07.940857+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye, Pakistan ve Suudi Arabistan arasındaki Mekke Ortak Savunma Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi.\n\n— Anlaşmaya göre üç ülkeden birine yapılacak dış kaynaklı silahlı saldırı, üçüne birden yapılmış sayılacak.\n— Anlaşma 7 Ağustos'ta Mekke'de imzalanmıştı, TBMM Genel Kurulu da 5 Kasım'da onaylamıştı.\n— İlk 10 yıl anlaşmadan ayrılmak mümkün değil, sonrasında en az 3 ay önceden bildirimle çekilinebiliyor.\n— Muhalefet, olası bölgesel çatışmalarda Türkiye'yi savaşa dahil edebileceği gerekçesiyle anlaşmaya tepki gösteriyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/mekke-anlasmasi-yururluge-girdi-963230.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-mekke-anlasmasi-yururluge-girdi-43377693",
-    "Milliyet: https://www.milliyet.com.tr/gundem/resmi-gazetede-yayimlandi-mekke-anlasmasi-yururluge-girdi-7700423",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/13/son-dakika-mekke-anlasmasi-resmi-gazetede-yayimlandi",
-    "NTV: https://www.ntv.com.tr/turkiye/mekke-savunma-anlasmasi-yururluge-girdi-1750772",
-    "Sözcü: https://www.sozcu.com.tr/son-dakika-mekke-anlasmasi-resmi-gazete-de-yayimlandi-p381153"
-   ]
-  },
   {
    "id": "1d41d24bdf",
    "post_id": "529346797199852_1467884982117876",
@@ -13758,6 +13775,17 @@
     "TRT Haber: https://www.trthaber.com/haber/turkiye/eskisehirde-izinsiz-kazi-yapan-6-supheli-tutuklandi-963360.html",
     "BirGün: https://www.birgun.net/haber/eskisehir-de-izinsiz-kazi-yarken-yakalanan-tarihi-eser-hirsizi-6-supheli-tutuklandi-746604"
    ]
+  },
+  {
+   "id": "2574748d19",
+   "post_id": "529346797199852_1469799868593054",
+   "title": "Demiryolu bakım filosuna 350 milyon euroluk dev yatırım: 99 yeni bakım makinesi raylara iniyor",
+   "at": "2026-11-15T20:14:01.528592+00:00",
+   "yazim": "claude",
+   "metin": "TCDD, demiryolu bakımı için Asya Altyapı Yatırım Bankası ile 350 milyon euroluk finansman anlaşması imzaladı.\n\n— Anlaşmayla TCDD'nin envanterine 99 yeni nesil bakım makinesi girecek. Bu makineler raylarda, makaslarda ve katener sistemlerinde bakım yapacak.\n\n— Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, makinelerin yaş ortalamasının düşeceğini ve hatlardaki bakım sürelerinin kısalacağını söyledi.\n\n— İhalelerin Aralık 2026'da yapılması planlanıyor. Makinelerin tamamının sözleşmelerden sonra 48 ay içinde teslim edilmesi öngörülüyor.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/tcdd-yeni-bakim-makinelerini-ne-zaman-alacak-demiryolu-bakim-2084272"
+   ]
   }
  ],
  "fails": {
@@ -13922,13 +13950,9 @@
   "8b6ca861c2": 1,
   "03535959e6": 1,
   "44025f59b3": 1,
-  "5e6e28b096": 1
+  "5e6e28b096": 2
  },
  "fail_log": [
-  "2026-11-15T11:54 Güllü'nün ölümünde evdeki erkek sesinin izi sürülüyor -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-15T11:54 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
-  "2026-11-15T11:54 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
-  "2026-11-15T11:54 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
   "2026-11-15T12:20 Bakan Kurum: \"Antalya'da işler değişti\" diyebileceğimiz bir  -> ValueError: yanıt okunamadı",
   "2026-11-15T12:53 Bakan Şimşek açıkladı: Fon skandalında iade hesabına ne kada -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-15T13:43 Ömer Çelik'ten Filistin Devleti'nin ilanının 38. yıl dönümü  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -13964,12 +13988,16 @@
   "2026-11-15T19:11 Sergen Yalçın: \"Bugün biraz daha oyunu tutmaya çalışacağız.  -> ValueError: yanıt okunamadı",
   "2026-11-15T20:01 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı",
   "2026-11-15T20:01 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı",
-  "2026-11-15T20:01 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı"
+  "2026-11-15T20:01 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı",
+  "2026-11-15T20:14 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı",
+  "2026-11-15T20:14 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı",
+  "2026-11-15T20:14 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı",
+  "2026-11-15T20:14 Demiryolu bakım filosuna 350 milyon euroluk dev yatırım: 99  -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122056852938887203",
+   "since_id": "2122059414618149001",
    "started": true
   },
   "ajansmuhbir1923": {
