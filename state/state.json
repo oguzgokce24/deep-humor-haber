@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "bülte",
-    "fonun",
-    "hafta",
-    "izin",
-    "kurul",
-    "spk",
-    "veril",
-    "yayım"
-   ],
-   "tok": [
-    "biri",
-    "bülte",
-    "diğer",
-    "fonla",
-    "fonu",
-    "fonun",
-    "gayri",
-    "giriş",
-    "hafta",
-    "izin",
-    "kurul",
-    "nin",
-    "nun",
-    "piram",
-    "piyas",
-    "portf",
-    "serma",
-    "spk",
-    "verdi",
-    "veril",
-    "yayım",
-    "yönet",
-    "şemsi"
-   ],
-   "at": "2026-11-13T22:53:15.365975+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "gemis",
     "missi",
@@ -10949,20 +10910,83 @@
     "üzeri"
    ],
    "at": "2026-11-15T10:48:37.625703+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "düzen",
+    "edirn",
+    "gözal",
+    "göçme",
+    "organ",
+    "otomo",
+    "yakal"
+   ],
+   "tok": [
+    "adına",
+    "afgan",
+    "aldığ",
+    "alınd",
+    "alını",
+    "ağrı",
+    "belir",
+    "bin",
+    "bulun",
+    "cezas",
+    "dağı",
+    "durdu",
+    "düzen",
+    "edirn",
+    "ekipl",
+    "eritr",
+    "etekl",
+    "etiyo",
+    "farkl",
+    "gece",
+    "göre",
+    "göçme",
+    "idari",
+    "ilçes",
+    "istih",
+    "karşı",
+    "kasım",
+    "kayıt",
+    "kaçak",
+    "kesil",
+    "kirem",
+    "kontr",
+    "köy",
+    "köyü",
+    "nin",
+    "olay",
+    "onun",
+    "organ",
+    "otomo",
+    "pakis",
+    "para",
+    "sabah",
+    "suçla",
+    "sürüc",
+    "sıral",
+    "takib",
+    "tespi",
+    "uygul",
+    "uyruk",
+    "uzunk",
+    "yaptı",
+    "yaşan",
+    "yolun",
+    "yönel",
+    "çalış",
+    "özbek",
+    "ülke",
+    "ığdır",
+    "şekil"
+   ],
+   "at": "2026-11-15T11:01:18.971959+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fc95ddc68f",
-   "post_id": "529346797199852_1464760825763625",
-   "title": "Özelleştirmenin kaymağı: Tekel arazisi Torunlar'a yaradı",
-   "at": "2026-11-11T02:41:45.744839+00:00",
-   "yazim": "claude",
-   "metin": "Beykoz'daki eski Tekel Paşabahçe Fabrikası arazisinin değeri 8,5 milyar TL'yi aştı.\n\n— Arazi, özelleştirmede Cumhurbaşkanı Erdoğan'ın sınıf arkadaşı Aziz Torun tarafından 355 milyon TL'ye alınmıştı.\n\n— Torunlar GYO'nun bu arazide geliştirdiği Paşabahçe Projesi'nin ekspertiz değeri 8 milyar 755 milyon TL olarak aktarıldı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/ozellestirmenin-kaymagi-tekel-arazisi-torunlar-a-yaradi-745704"
-   ]
-  },
   {
    "id": "927bc65d8d",
    "post_id": "529346797199852_1464773352429039",
@@ -13454,6 +13478,20 @@
     "Karar: https://www.karar.com/ekonomi-haberleri/cevdet-yilmazdan-emekli-zammina-iliskin-aciklama-enflasyonun-uzerinde-2084219",
     "Diken: https://www.diken.com.tr/emekli-maasi-duzenlemesi-enflasyonun-uzerinde-artis-hedefleniyor/?utm_source=rss&utm_medium=rss&utm_campaign=emekli-maasi-duzenlemesi-enflasyonun-uzerinde-artis-hedefleniyor"
    ]
+  },
+  {
+   "id": "ff5253bb7a",
+   "post_id": "529346797199852_1469368628636178",
+   "title": "Edirne’de araçta 11 düzensiz göçmen yakalandı: Organizatör gözaltında",
+   "at": "2026-11-15T11:01:18.971959+00:00",
+   "yazim": "claude",
+   "metin": "Edirne'nin Uzunköprü ilçesinde jandarma, aracında 11 düzensiz göçmen bulunan bir sürücüyü durdurdu.\n\nOlay 15 Kasım 2026 gece 00.40 sıralarında Kiremitçisalih köyü yolunda yaşandı. Jandarma, istihbarat üzerine takibe aldığı aracı kontrollü şekilde durdurdu.\n\n— Göçmenlerin 4'ü Afganistan, 3'ü Eritre, 2'si Pakistan, 1'i Özbekistan ve 1'i Etiyopya uyruklu.\n— Jandarmanın tespitine göre sürücü göçmen kaçakçılığını organize etti ve araç onun adına kayıtlı.\n— Sürücüye 211 bin 629 lira idari para cezası kesildi ve göçmen kaçakçılığı suçlamasıyla gözaltına alındı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/sabaha-karsi-koy-yolunda-operasyon-11-kacak-gocmen-yakalandi-organizator-gozaltinda-43379107",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/edirnede-aracta-11-duzensiz-gocmen-yakalandi-organizator-gozaltina-alindi-4872663",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/igdirda-11-duzensiz-gocmen-yakalandi-1-supheli-gozaltinda-4872642",
+    "Karar: https://www.karar.com/sehir-haberleri/edirnede-aracta-11-duzensiz-gocmen-yakalandi-organizator-gozaltinda-2084223"
+   ]
   }
  ],
  "fails": {
@@ -13610,12 +13648,10 @@
   "d786d031d6": 1,
   "12ad36e8ce": 1,
   "4a0474452e": 1,
-  "e812333a2c": 1
+  "e812333a2c": 1,
+  "9e6b9b06a5": 1
  },
  "fail_log": [
-  "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
-  "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
-  "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
   "2026-11-15T06:04 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
   "2026-11-15T06:04 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
   "2026-11-15T06:04 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
@@ -13652,12 +13688,15 @@
   "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı",
   "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı",
   "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı",
-  "2026-11-15T10:22 Orban’ın bakanına operasyon: Ele geçirilen parayı saymak 8 s -> ValueError: yanıt okunamadı"
+  "2026-11-15T10:22 Orban’ın bakanına operasyon: Ele geçirilen parayı saymak 8 s -> ValueError: yanıt okunamadı",
+  "2026-11-15T11:01 Kağıthane’de lodos sırasında içecek dolabı devrildi: Kadın s -> ValueError: yanıt okunamadı",
+  "2026-11-15T11:01 Kağıthane’de lodos sırasında içecek dolabı devrildi: Kadın s -> ValueError: yanıt okunamadı",
+  "2026-11-15T11:01 Kağıthane’de lodos sırasında içecek dolabı devrildi: Kadın s -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121910723357929525",
+   "since_id": "2121919588073873898",
    "started": true
   },
   "ajansmuhbir1923": {
