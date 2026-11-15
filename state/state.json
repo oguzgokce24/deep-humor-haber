@@ -2,51 +2,6 @@
  "seen": [
   {
    "fp": [
-    "12",
-    "4",
-    "7",
-    "dolan",
-    "ilde",
-    "merke",
-    "opera",
-    "yakal",
-    "şüphe"
-   ],
-   "tok": [
-    "adliy",
-    "alına",
-    "alınd",
-    "anda",
-    "ardın",
-    "aynı",
-    "bartı",
-    "baskı",
-    "belge",
-    "belir",
-    "dev",
-    "dolan",
-    "duyur",
-    "düzen",
-    "edile",
-    "emniy",
-    "firma",
-    "iddia",
-    "izmir",
-    "içişl",
-    "işlem",
-    "karab",
-    "nitel",
-    "resmî",
-    "sahte",
-    "sevk",
-    "siber",
-    "uğrat",
-    "zarar"
-   ],
-   "at": "2026-11-14T09:05:19.298548+00:00"
-  },
-  {
-   "fp": [
     "19",
     "akış",
     "başka",
@@ -11267,22 +11222,89 @@
     "öne"
    ],
    "at": "2026-11-15T20:54:28.255454+00:00"
+  },
+  {
+   "fp": [
+    "can",
+    "genç",
+    "habaş",
+    "hapsi",
+    "karar",
+    "karde",
+    "mühen",
+    "patro",
+    "tahli",
+    "tepki",
+    "veren",
+    "ödüll"
+   ],
+   "tok": [
+    "alaca",
+    "aliağ",
+    "ardın",
+    "aynı",
+    "başar",
+    "bırak",
+    "can",
+    "cezay",
+    "daki",
+    "düzen",
+    "eylem",
+    "fabri",
+    "genç",
+    "gün",
+    "habaş",
+    "hapsi",
+    "hesap",
+    "ilçes",
+    "ise",
+    "izmir",
+    "işçi",
+    "işçil",
+    "işçin",
+    "işçiy",
+    "kaldı",
+    "kapat",
+    "karde",
+    "karşı",
+    "kasım",
+    "katle",
+    "keyif",
+    "kural",
+    "kurul",
+    "mehme",
+    "mühen",
+    "nın",
+    "parti",
+    "patla",
+    "patro",
+    "prote",
+    "rüştü",
+    "selah",
+    "serbe",
+    "sürec",
+    "tahli",
+    "telef",
+    "tepki",
+    "veren",
+    "yalıd",
+    "yalın",
+    "yalıs",
+    "yasak",
+    "yasağ",
+    "yaşan",
+    "yönet",
+    "ödül",
+    "ödüll",
+    "önünd",
+    "önünü",
+    "üstün",
+    "şartı"
+   ],
+   "at": "2026-11-15T21:07:04.715259+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b07c233788",
-   "post_id": "529346797199852_1467908598782181",
-   "title": "Orkun Kökçü'den Beşiktaş itirafı: 'Bana yapılan bir haksızlıkmış gibi algılıyorum'",
-   "at": "2026-11-13T22:15:20.445721+00:00",
-   "yazim": "claude",
-   "metin": "Orkun Kökçü, maçlardaki tepkileri için:\n\n“Başka bir kulüpte olsam bu kadar tepki göstermem ama bana karşı yapılan bir haksızlıkmış gibi algılıyorum.”\n\n— Beşiktaş kaptanı Orkun Kökçü, UEFA'ya yaptığı açıklamada maçlarda zaman zaman sinir krizi geçirdiğini söyledi.\n— Kökçü, Beşiktaş'a çok özel duygular beslediğini ve bu yüzden tepkilerinin büyüdüğünü anlattı.\n— 25 yaşındaki kaptan, Beşiktaş'ta kaptanlık yapmayı çocukluk hayali olarak tanımladı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/orkun-kokcu-den-besiktas-itirafi-bana-yapilan-bir-haksizlikmis-gibi-algiliyorum-2556012",
-    "Sözcü Spor: https://www.sozcu.com.tr/orkun-kokcu-hedeflerimin-hepsi-besiktasla-ilgili-p381154",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/orkun-kokcuden-besiktas-aciklamasi-haksizlikmis-gibi-algiliyorum-43377671"
-   ]
-  },
   {
    "id": "4491b09582",
    "post_id": "529346797199852_1467916012114773",
@@ -13768,6 +13790,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/gurcu-derneklerinden-tbmmye-ortak-cagri-abhazya-girisimine-tepki-2084282"
    ]
+  },
+  {
+   "id": "91501d9223",
+   "post_id": "529346797199852_1469832058589835",
+   "title": "Patron ev hapsiyle ödüllendirildi: HABAŞ’ta can veren genç mühendisin kardeşinden tahliye kararına tepki",
+   "at": "2026-11-15T21:07:04.715259+00:00",
+   "yazim": "claude",
+   "metin": "Selahattin Kural, HABAŞ Yönetim Kurulu Başkanı'nın ev hapsi kararına:\n\n“O kadar işçiyi katledeceksin, bir de üstüne ödül gibi bir cezayla ev hapsi alacaksın ve bu yalıda keyif sürecek.”\n\n— İzmir'in Aliağa ilçesindeki HABAŞ fabrikasında 9 Kasım'daki patlamada 19 işçi hayatını kaybetti, 14 işçi yaralandı.\n— Soruşturmada 9 kişi tutuklandı; HABAŞ Yönetim Kurulu Başkanı ev hapsiyle serbest bırakıldı.\n— Türkiye İşçi Partililer 14 Kasım'da yalının önünde eylem yaptı; polis yalının önünü kapattı.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/patron-ev-hapsiyle-odullendirildi-habasta-can-veren-genc-muhendisin-2084284"
+   ]
   }
  ],
  "fails": {
@@ -13980,7 +14013,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122070382865690851",
+   "since_id": "2122073344140775521",
    "started": true
   },
   "ajansmuhbir1923": {
