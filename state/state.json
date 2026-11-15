@@ -2,72 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "başka",
-    "beled",
-    "davet",
-    "isime",
-    "katıl",
-    "parti",
-    "yanıt",
-    "çarpı"
-   ],
-   "tok": [
-    "ahmet",
-    "akp",
-    "almak",
-    "aslın",
-    "balta",
-    "başvu",
-    "beled",
-    "bileğ",
-    "böyle",
-    "dan",
-    "davet",
-    "demek",
-    "deste",
-    "değiş",
-    "diyer",
-    "edece",
-    "etmiş",
-    "gelin",
-    "gru",
-    "grup",
-    "gücüm",
-    "hakkı",
-    "hasan",
-    "hibes",
-    "hizme",
-    "iklim",
-    "iktid",
-    "isime",
-    "isted",
-    "istey",
-    "kasta",
-    "katıl",
-    "kendi",
-    "makin",
-    "mecli",
-    "namlı",
-    "nimet",
-    "nin",
-    "nın",
-    "olanı",
-    "parti",
-    "söyle",
-    "verdi",
-    "yanıt",
-    "çarpı",
-    "çevre",
-    "özeti",
-    "üyele",
-    "şehir",
-    "şimdi"
-   ],
-   "at": "2026-11-14T00:44:51.842249+00:00"
-  },
-  {
-   "fp": [
     "000",
     "2",
     "alıyo",
@@ -10967,22 +10901,78 @@
     "şahıs"
    ],
    "at": "2026-11-15T12:32:29.775164+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "fon",
+    "yapıl",
+    "ödeme",
+    "şimşe"
+   ],
+   "tok": [
+    "aktar",
+    "alara",
+    "alına",
+    "bin",
+    "birik",
+    "bugün",
+    "bunun",
+    "büyük",
+    "cuma",
+    "durum",
+    "duruy",
+    "eylül",
+    "fon",
+    "fonda",
+    "fonla",
+    "geri",
+    "günü",
+    "hazin",
+    "hesab",
+    "iade",
+    "ilgil",
+    "itiba",
+    "kayna",
+    "kazan",
+    "kaç",
+    "kulla",
+    "kısmı",
+    "liral",
+    "liran",
+    "maliy",
+    "mehme",
+    "milya",
+    "nakit",
+    "net",
+    "olağa",
+    "olmuş",
+    "oluşt",
+    "payla",
+    "portf",
+    "rakam",
+    "siste",
+    "skand",
+    "tamam",
+    "tasfi",
+    "tek",
+    "tutar",
+    "yakla",
+    "yaptı",
+    "yapıl",
+    "yatır",
+    "yönet",
+    "çıktı",
+    "ödeme",
+    "ödend",
+    "şimdi",
+    "şimşe",
+    "şirke"
+   ],
+   "at": "2026-11-15T12:53:15.430557+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d66ba01ccd",
-   "post_id": "529346797199852_1464853605754347",
-   "title": "Meteoroloji açıkladı: 11 Kasım 2026 hava durumu raporu... Bugün hava nasıl olacak?",
-   "at": "2026-11-11T04:21:25.341774+00:00",
-   "yazim": "claude",
-   "metin": "Meteoroloji, Balıkesir'in Edremit ilçesinde akşam ve gece saatlerinde yağışların kuvvetleneceği uyarısını yaptı.\n\n— Yurdun birçok bölgesinde yerel sağanak bekleniyor. Marmara'da Kırklareli'den Sakarya'ya, Ege'de Manisa ve Denizli çevrelerinde yağmur görülecek.\n— Marmara ile iç ve doğu kesimlerde sabah ve gece saatlerinde pus, yer yer sis olacak.\n— Sıcaklıklar iç ve batı kesimlerde 3 ila 5 derece artacak, ama mevsim normallerinin altında kalmaya devam edecek.\n\nMeteoroloji, Edremit'te yaşanabilecek olumsuzluklara karşı vatandaşların dikkatli olmasını istedi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-11-11-2026-3491430",
-    "CNN Türk: https://www.cnnturk.com/hava-durumu/cnn-turk-hava-durumu/hava-durumu-11-11-2026-3491415",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-11-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2555237"
-   ]
-  },
   {
    "id": "fa6f22e613",
    "post_id": "529346797199852_1464864285753279",
@@ -13498,6 +13488,18 @@
     "Evrensel: https://www.evrensel.net/haber/6009595/kayseri-de-esini-ve-3-cocugunu-rehin-alan-sahis-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/kayseride-esini-ve-3-cocugunu-bicakla-rehin-alan-kisi-gozaltina-alindi-2084227"
    ]
+  },
+  {
+   "id": "daef7548ac",
+   "post_id": "529346797199852_1469459781960396",
+   "title": "Bakan Şimşek açıkladı: Fon skandalında iade hesabına ne kadar ödeme yapıldı?",
+   "at": "2026-11-15T12:53:15.430557+00:00",
+   "yazim": "claude",
+   "metin": "Fon tasfiyesinde 131 fonda yatırımcılara şimdiye kadar 161 milyar lira ödendi. Hazine ve Maliye Bakanı Mehmet Şimşek, 17 Eylül'de tasfiyeye alınan 7 portföy yönetim şirketinin fonlarındaki son durumu açıkladı.\n\n— Yaklaşık 456 bin yatırımcının 371 bin 21'i, net yatırım tutarının tamamını alarak sistemden çıktı.\n— Olağan tasfiyede 55 bin 821 kişiye 68 milyar lira, olağanüstü tasfiyede 415 bin 955 kişiye 93 milyar lira ödendi.\n— Şimşek, ödemelerde Hazine kaynaklarının kullanılmadığını söyledi.\n— İade hesabında biriken 35,6 milyar liranın büyük kısmı fonlara aktarılarak ödendi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/fon-tasfiyesinde-kac-kisiye-ne-kadar-odeme-yapildi-bakan-simsek-tek-tek-rakamlari-paylasti-2556326",
+    "BirGün: https://www.birgun.net/haber/bakan-simsek-acikladi-fon-skandalinda-iade-hesabina-ne-kadar-odeme-yapildi-746559"
+   ]
   }
  ],
  "fails": {
@@ -13658,7 +13660,6 @@
   "2250b9d3e3": 1
  },
  "fail_log": [
-  "2026-11-15T06:08 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
   "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
   "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
   "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
@@ -13697,12 +13698,13 @@
   "2026-11-15T11:54 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
   "2026-11-15T11:54 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
   "2026-11-15T11:54 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
-  "2026-11-15T12:20 Bakan Kurum: \"Antalya'da işler değişti\" diyebileceğimiz bir  -> ValueError: yanıt okunamadı"
+  "2026-11-15T12:20 Bakan Kurum: \"Antalya'da işler değişti\" diyebileceğimiz bir  -> ValueError: yanıt okunamadı",
+  "2026-11-15T12:53 Bakan Şimşek açıkladı: Fon skandalında iade hesabına ne kada -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121944125457006823",
+   "since_id": "2121948211581780097",
    "started": true
   },
   "ajansmuhbir1923": {
