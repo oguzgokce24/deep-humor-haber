@@ -2,53 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "8",
-    "dolan",
-    "ilde",
-    "izmir",
-    "merke",
-    "opera",
-    "siber",
-    "tutuk",
-    "şüphe"
-   ],
-   "tok": [
-    "adliy",
-    "aldı",
-    "alına",
-    "alınd",
-    "anda",
-    "ardın",
-    "aynı",
-    "bartı",
-    "baskı",
-    "belge",
-    "belir",
-    "dolan",
-    "düzen",
-    "edile",
-    "ekipl",
-    "emniy",
-    "firma",
-    "iddia",
-    "izmir",
-    "işlem",
-    "karab",
-    "nitel",
-    "perso",
-    "resmî",
-    "sahte",
-    "sevk",
-    "siber",
-    "uğrat",
-    "yer",
-    "zarar"
-   ],
-   "at": "2026-11-14T07:50:06.958399+00:00"
-  },
-  {
-   "fp": [
     "geldi",
     "hale",
     "kulla",
@@ -11258,23 +11211,47 @@
     "çıkar"
    ],
    "at": "2026-11-15T19:48:48.786671+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "eskiş",
+    "izins",
+    "kazı",
+    "tutuk",
+    "şüphe"
+   ],
+   "tok": [
+    "adli",
+    "alınd",
+    "alınm",
+    "biri",
+    "bırak",
+    "eser",
+    "eskiş",
+    "hırsı",
+    "izins",
+    "kanun",
+    "kazı",
+    "kontr",
+    "korum",
+    "kültü",
+    "muhal",
+    "serbe",
+    "suçla",
+    "suçüs",
+    "tabia",
+    "tarih",
+    "varlı",
+    "yapan",
+    "yapar",
+    "yarke",
+    "şartı"
+   ],
+   "at": "2026-11-15T20:01:21.892968+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5349dad0d5",
-   "post_id": "529346797199852_1467868928786148",
-   "title": "Kenti lodos vurdu: 3 tekne battı, bir tekne sürüklendi",
-   "at": "2026-11-13T21:13:19.049145+00:00",
-   "yazim": "claude",
-   "metin": "Balıkesir'in Ayvalık ilçesinde lodos fırtınası 3 teknenin batmasına yol açtı.\n\n— Şiddetli rüzgâr ve kabaran dalgalar, Gönül Köprüsü yakınlarında demirli teknelerin su alıp batmasına neden oldu. Bazı teknelerde de maddi hasar oluştu.\n— Bağlama halatı kopan direkli bir tekne, diğer teknelerin üzerine doğru sürüklendi.\n— Tekne sahipleri ve ekipler, kötü hava koşullarına rağmen sürüklenen tekneyi güvenli alana çekmek için çalışıyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/canli-yayin-redesing/lodos-istanbulu-vurdu-tekneler-batti-agaclar-devrildi-teleferik-ve-vapur-seferleri-iptal-edildi-3492999",
-    "Sözcü: https://www.sozcu.com.tr/kenti-lodos-vurdu-3-tekne-batti-bir-tekne-suruklendi-p381152",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/lodos-felaketi-3-tekne-batti-bir-tekne-suruklendi-2556028",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/kenti-lodos-vurdu-3-tekne-batti-bir-tekne-suruklendi-p381152"
-   ]
-  },
   {
    "id": "413b874022",
    "post_id": "529346797199852_1467876738785367",
@@ -13769,6 +13746,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/tff-acikladi-ugurcan-cakir-in-saglik-durumu-belli-oldu-2556421",
     "Sözcü Spor: https://www.sozcu.com.tr/galatasaray-a-ugurcan-cakir-dan-kotu-haber-son-durumu-belli-oldu-p381654"
    ]
+  },
+  {
+   "id": "81c672e961",
+   "post_id": "529346797199852_1469792771927097",
+   "title": "Eskişehir'de izinsiz kazı yarken yakalanan tarihi eser hırsızı 6 şüpheli tutuklandı",
+   "at": "2026-11-15T20:01:21.892968+00:00",
+   "yazim": "claude",
+   "metin": "Eskişehir'de izinsiz kazı yaparken suçüstü yakalanan 7 şüpheliden 6'sı tutuklandı.\n\n— Şüpheliler, \"Kültür ve Tabiat Varlıklarını Koruma Kanunu'na muhalefet\" suçlamasıyla gözaltına alınmıştı.\n\n— Şüphelilerden biri adli kontrol şartıyla serbest bırakıldı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/eskisehirde-izinsiz-kazi-yapan-6-supheli-tutuklandi-963360.html",
+    "BirGün: https://www.birgun.net/haber/eskisehir-de-izinsiz-kazi-yarken-yakalanan-tarihi-eser-hirsizi-6-supheli-tutuklandi-746604"
+   ]
   }
  ],
  "fails": {
@@ -13932,12 +13921,10 @@
   "338e47bc52": 1,
   "8b6ca861c2": 1,
   "03535959e6": 1,
-  "44025f59b3": 1
+  "44025f59b3": 1,
+  "5e6e28b096": 1
  },
  "fail_log": [
-  "2026-11-15T11:42 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
-  "2026-11-15T11:42 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
-  "2026-11-15T11:42 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
   "2026-11-15T11:54 Güllü'nün ölümünde evdeki erkek sesinin izi sürülüyor -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-15T11:54 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
   "2026-11-15T11:54 İstanbul'da şiddetli lodos: İçecek dolabı devrildi, kadın so -> ValueError: yanıt okunamadı",
@@ -13974,12 +13961,15 @@
   "2026-11-15T17:59 Ömer Üründül: \"Fenerbahçe'nin ilk 3'e girmesi zor. Beşiktaş  -> ValueError: yanıt okunamadı",
   "2026-11-15T19:11 Sergen Yalçın: \"Bugün biraz daha oyunu tutmaya çalışacağız.  -> ValueError: yanıt okunamadı",
   "2026-11-15T19:11 Sergen Yalçın: \"Bugün biraz daha oyunu tutmaya çalışacağız.  -> ValueError: yanıt okunamadı",
-  "2026-11-15T19:11 Sergen Yalçın: \"Bugün biraz daha oyunu tutmaya çalışacağız.  -> ValueError: yanıt okunamadı"
+  "2026-11-15T19:11 Sergen Yalçın: \"Bugün biraz daha oyunu tutmaya çalışacağız.  -> ValueError: yanıt okunamadı",
+  "2026-11-15T20:01 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı",
+  "2026-11-15T20:01 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı",
+  "2026-11-15T20:01 Dizi sektöründe büyük çöküş: Temiz ekran yaratacağız derken  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122052735793029432",
+   "since_id": "2122056852938887203",
    "started": true
   },
   "ajansmuhbir1923": {
