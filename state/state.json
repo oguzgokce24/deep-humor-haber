@@ -2,89 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bahçe",
-    "cadı",
-    "istan",
-    "kazan",
-    "oyunu",
-    "sahne",
-    "tiyat",
-    "şehir"
-   ],
-   "tok": [
-    "arthu",
-    "bahçe",
-    "beled",
-    "büyük",
-    "cadı",
-    "enver",
-    "gerçe",
-    "kasım",
-    "kazan",
-    "kültü",
-    "mille",
-    "nde",
-    "olayl",
-    "oyunu",
-    "sahne",
-    "tiyat",
-    "yazdı",
-    "yenib",
-    "yola",
-    "çıkar",
-    "ören",
-    "şehir"
-   ],
-   "at": "2026-11-13T12:17:40.577646+00:00"
-  },
-  {
-   "fp": [
-    "biraz",
-    "gerçe",
-    "geçti",
-    "içe",
-    "kurma",
-    "sahne",
-    "yalan",
-    "şey"
-   ],
-   "tok": [
-    "aldığ",
-    "alkış",
-    "ayakt",
-    "berk",
-    "biraz",
-    "dakik",
-    "damla",
-    "eğiti",
-    "gerçe",
-    "geçti",
-    "gişe",
-    "göste",
-    "hakma",
-    "içe",
-    "kadık",
-    "kapal",
-    "kurma",
-    "micha",
-    "nde",
-    "oyun",
-    "rol",
-    "sahne",
-    "sonun",
-    "sönme",
-    "yalan",
-    "yasin",
-    "yazıp",
-    "yönet",
-    "çam",
-    "önder",
-    "şey"
-   ],
-   "at": "2026-11-13T12:17:41.650308+00:00"
-  },
-  {
-   "fp": [
     "akp",
     "aydın",
     "emre",
@@ -15686,17 +15603,11 @@
   "97adf6ab5e": 1,
   "d2e4a701db": 1,
   "de66ddf9f2": 1,
-  "d15933a2e0": 1
+  "d15933a2e0": 2,
+  "e2df515a59": 1,
+  "942da95524": 1
  },
  "fail_log": [
-  "2026-11-14T22:20 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:20 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:20 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:23 Çin çeliği, gümrük duvarları ve HABAŞ: Aliağa’da işçiler ned -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:23 Çin çeliği, gümrük duvarları ve HABAŞ: Aliağa’da işçiler ned -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:23 Çin çeliği, gümrük duvarları ve HABAŞ: Aliağa’da işçiler ned -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:23 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
-  "2026-11-14T22:23 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
   "2026-11-14T22:23 Bir masalın madenlerde çalışan çocuklara uzanan izleri: Yedi -> ValueError: yanıt okunamadı",
   "2026-11-14T22:23 Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde,  -> ValueError: yanıt okunamadı",
   "2026-11-14T22:23 Bir Başkadır, 2. sezonuyla yayında: Kutuplaşmanın ötesinde,  -> ValueError: yanıt okunamadı",
@@ -15728,7 +15639,15 @@
   "2026-11-14T23:54 Özlem Yalım yazdı | Sahne liderlerin, fatura halkın: COP31’i -> ValueError: yanıt okunamadı",
   "2026-11-15T00:06 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
   "2026-11-15T00:06 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
-  "2026-11-15T00:06 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı"
+  "2026-11-15T00:06 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
+  "2026-11-15T00:19 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
+  "2026-11-15T00:19 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
+  "2026-11-15T00:19 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
+  "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: yanıt okunamadı",
+  "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: cümle yarım kalmış: 'a göre işçinin vücudunun yüzde doksanı y'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-15T00:19 Fonlar hala kazandırıyor! -> ValueError: yanıt okunamadı",
+  "2026-11-15T00:19 Fonlar hala kazandırıyor! -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
