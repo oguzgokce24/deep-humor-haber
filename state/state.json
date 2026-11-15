@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "algıl",
-    "beşik",
-    "den",
-    "haksı",
-    "kökçü",
-    "orkun"
-   ],
-   "tok": [
-    "algıl",
-    "anlat",
-    "bana",
-    "besle",
-    "beşik",
-    "bulun",
-    "büyüd",
-    "den",
-    "duygu",
-    "göste",
-    "haksı",
-    "hayal",
-    "hedef",
-    "hepsi",
-    "ilgil",
-    "itira",
-    "kapta",
-    "karşı",
-    "krizi",
-    "kulüp",
-    "kökçü",
-    "maçla",
-    "olsam",
-    "orkun",
-    "sinir",
-    "tanım",
-    "tepki",
-    "uefa",
-    "verdi",
-    "yapma",
-    "yaptı",
-    "yaşın",
-    "yüzde",
-    "zaman",
-    "çocuk",
-    "özel"
-   ],
-   "at": "2026-11-13T22:15:20.445721+00:00"
-  },
-  {
-   "fp": [
     "7",
     "800",
     "altın",
@@ -10974,20 +10925,59 @@
     "öneml"
    ],
    "at": "2026-11-15T10:10:02.992445+00:00"
+  },
+  {
+   "fp": [
+    "8",
+    "bakan",
+    "ele",
+    "geçir",
+    "opera",
+    "orban",
+    "paray",
+    "saat",
+    "sayma",
+    "sürdü"
+   ],
+   "tok": [
+    "bankn",
+    "başba",
+    "binal",
+    "bulun",
+    "cinsi",
+    "değer",
+    "dönem",
+    "eski",
+    "euro",
+    "geç",
+    "gizle",
+    "hakkı",
+    "halde",
+    "macar",
+    "makin",
+    "miklo",
+    "nakit",
+    "olay",
+    "orban",
+    "para",
+    "paray",
+    "parça",
+    "saat",
+    "sayma",
+    "sayıl",
+    "sayım",
+    "seszt",
+    "sürdü",
+    "vikto",
+    "yapan",
+    "yolsu",
+    "yönel",
+    "çeşit"
+   ],
+   "at": "2026-11-15T10:22:42.252968+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "edb8b88475",
-   "post_id": "529346797199852_1464737859099255",
-   "title": "Yenidoğan skandalı dahil 2 bin 200 dosya askıda: İTO'dan TBMM'ye 'düzenleme' çağrısı",
-   "at": "2026-11-11T02:04:19.186444+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Tabip Odası, Anayasa Mahkemesi'nin bir kararının ardından 2 binden fazla dosyanın durduğunu belirterek TBMM'den acil yasal düzenleme istedi.\n\n— AYM, Türk Tabipleri Birliği Kanunu'ndaki disiplin maddesini iptal etti ve bunun sonucunda yasal bir boşluk oluştu.\n\n— Bu boşluk yaklaşık 3 bin hekimi ilgilendiren 2 bin 200'den fazla dosyayı etkiliyor.\n\n— İTO'ya göre etik ihlaller cezasız kalmamalı; yenidoğan skandalı dahil binlerce dosya zamanaşımına uğramamalı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/yenidogan-skandali-dahil-2-bin-200-dosya-askida-ito-dan-tbmm-ye-duzenleme-cagrisi-745696"
-   ]
-  },
   {
    "id": "76aa29d310",
    "post_id": "529346797199852_1464745729098468",
@@ -13472,6 +13462,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/zonguldak-ta-cokme-riski-bulunan-2-katli-bos-bina-yikildi-2556304",
     "Yeni Şafak: https://www.yenisafak.com/gundem/zonguldakta-coken-binanin-bolgesinde-2-katli-bina-yikildi-4872653"
    ]
+  },
+  {
+   "id": "95a7a08404",
+   "post_id": "529346797199852_1469340891972285",
+   "title": "Orban’ın bakanına operasyon: Ele geçirilen parayı saymak 8 saat sürdü",
+   "at": "2026-11-15T10:22:42.252968+00:00",
+   "yazim": "claude",
+   "metin": "Macaristan'da eski Başbakan Viktor Orban döneminde bakanlık yapan Miklos Sesztak'a yönelik operasyonda 20 milyon dolar değerinde nakit para ele geçirildi.\n\n— Euro ve dolar cinsinden banknotların sayımı beş para makinesiyle sekiz saat sürdü.\n— Para, çeşitli binalara gizlenmiş halde bulundu.\n— Olay, Sesztak hakkındaki yolsuzluk soruşturmasının bir parçası.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/orbanin-bakanina-operasyon-ele-gecirilen-parayi-saymak-8-saat-surdu-746553"
+   ]
   }
  ],
  "fails": {
@@ -13631,7 +13632,6 @@
   "e812333a2c": 1
  },
  "fail_log": [
-  "2026-11-15T05:52 Fenerbahçeli milli futbolcu için olay iddia: 'Sezon sonunda  -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
   "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
   "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
@@ -13670,12 +13670,13 @@
   "2026-11-15T08:20 Bakan Göktaş duyurdu: Kasım ayı Evde Bakım Yardımı ödemeleri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı",
   "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı",
-  "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı"
+  "2026-11-15T08:33 Prof. Dr. İsmail Hakkı Aydın: \"Artık saçınızın telinden aldı -> ValueError: yanıt okunamadı",
+  "2026-11-15T10:22 Orban’ın bakanına operasyon: Ele geçirilen parayı saymak 8 s -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121905803145961660",
+   "since_id": "2121910723357929525",
    "started": true
   },
   "ajansmuhbir1923": {
