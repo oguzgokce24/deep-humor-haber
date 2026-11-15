@@ -10960,21 +10960,83 @@
     "üyeli"
    ],
    "at": "2026-11-15T13:05:43.588941+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "3",
+    "nda",
+    "otomo",
+    "siliv",
+    "tem",
+    "yaral",
+    "çarpı"
+   ],
+   "tok": [
+    "abd",
+    "aksak",
+    "ambul",
+    "ardın",
+    "aynı",
+    "açmas",
+    "bazı",
+    "belir",
+    "durdu",
+    "durum",
+    "döndü",
+    "ekipl",
+    "genel",
+    "giden",
+    "hafif",
+    "hafta",
+    "hasta",
+    "havaa",
+    "haval",
+    "henüz",
+    "hâlâ",
+    "ilçes",
+    "itfai",
+    "kaldı",
+    "kaosa",
+    "karşı",
+    "kazan",
+    "kişil",
+    "mevki",
+    "miami",
+    "nda",
+    "neden",
+    "norma",
+    "olmad",
+    "otomo",
+    "otoyo",
+    "saatl",
+    "selim",
+    "siliv",
+    "sonu",
+    "sıkış",
+    "sırad",
+    "tehli",
+    "tem",
+    "ulaşı",
+    "uçak",
+    "uçuş",
+    "var",
+    "yaşan",
+    "yol",
+    "yolcu",
+    "yolda",
+    "yönde",
+    "çapın",
+    "çarpı",
+    "çıkar",
+    "öğle",
+    "öğren",
+    "ülke"
+   ],
+   "at": "2026-11-15T13:18:10.401530+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c3efdb1c75",
-   "post_id": "529346797199852_1464879712418403",
-   "title": "Ajda Pekkan: Annelik çok güzel, keşke tatsaydım",
-   "at": "2026-11-11T05:00:49.925747+00:00",
-   "yazim": "claude",
-   "metin": "Ajda Pekkan, evlat edinme için:\n\n“Annelik hissi çok farklı ve özel bir duygu. Hayatın içerisinde evlat edinmekten açıkçası korktum. (...) Annelik duygusunu keşke tatsaydım.”\n\n— Pekkan, Başarım Sensin Derneği'nin düzenlediği bir etkinlikte konuşan 80 yaşındaki sanatçı. Çocuk sahibi olmama kararını da bu etkinlikte anlattı.\n\n— Yoğun tempo ve yaşam şartları yüzünden bir çocuğa iyi bakamayacağını düşündüğünü söyledi.\n\n— Gençlik yıllarında ev geçindirmek zorunda kaldığını, hem okula gittiğini hem şarkı söylediğini ve sabaha karşı sinema setlerine gittiğini anlattı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/magazin/foto/ajda-pekkan-annelik-cok-guzel-keske-tatsaydim-3926330",
-    "Karar: https://www.karar.com/guncel-haberler/ajda-pekkan-annelik-cok-guzel-keske-tatsaydim-2083492"
-   ]
-  },
   {
    "id": "fb31952535",
    "post_id": "529346797199852_1464891682417206",
@@ -13495,6 +13557,20 @@
     "Evrensel: https://www.evrensel.net/haber/6009576/yeni-parti-1-olagan-kurultayi-pm-uye-sayisi-150-den-160-a-cikarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Diken: https://www.diken.com.tr/yeni-parti-kurultayi-160-kisilik-pm-listesi/?utm_source=rss&utm_medium=rss&utm_campaign=yeni-parti-kurultayi-160-kisilik-pm-listesi"
    ]
+  },
+  {
+   "id": "6de06b50d0",
+   "post_id": "529346797199852_1469480925291615",
+   "title": "Miami Havalimanı'nda iki uçak çarpıştı: iki kişi hafif yaralı",
+   "at": "2026-11-15T13:18:10.401530+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Silivri ilçesinde TEM Otoyolu'nda aynı yönde giden iki otomobil çarpıştı, 3 kişi yaralandı.\n\n— Kaza öğle saatlerinde Selimpaşa mevkiinde yaşandı, kazanın nedeni henüz belirlenemedi.\n\n— Çarpışmanın ardından bazı kişiler araçlarda sıkıştı. İtfaiye ekipleri yaralıları çıkardı ve ambulanslarla hastaneye kaldırıldı.\n\n— Yaralıların hayati tehlikesinin olmadığı öğrenildi. Araçlar yoldan kaldırıldıktan sonra ulaşım normale döndü.",
+   "sources": [
+    "Euronews: https://tr.euronews.com/2026/11/15/miami-havalimaninda-iki-ucak-carpisti-iki-kisi-hafif-yarali",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/silivri/silivride-iki-otomobil-carpisti-3-yarali-3493545",
+    "Sözcü: https://www.sozcu.com.tr/silivri-temde-iki-otomobil-carpisti-3-yarali-p381583",
+    "Karar: https://www.karar.com/guncel-haberler/silivri-tem-otoyolunda-iki-otomobil-carpisti-yaralilar-var-2084245"
+   ]
   }
  ],
  "fails": {
@@ -13699,7 +13775,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121948211581780097",
+   "since_id": "2121953957371068422",
    "started": true
   },
   "ajansmuhbir1923": {
