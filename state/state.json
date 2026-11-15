@@ -2,125 +2,6 @@
  "seen": [
   {
    "fp": [
-    "fiyat",
-    "kivi",
-    "maliy",
-    "üreti"
-   ],
-   "tok": [
-    "acil",
-    "altın",
-    "alım",
-    "alını",
-    "başın",
-    "bin",
-    "dalda",
-    "dayat",
-    "den",
-    "durum",
-    "duyur",
-    "düştü",
-    "ediyo",
-    "etmes",
-    "fiyat",
-    "fındı",
-    "gelen",
-    "geçen",
-    "gram",
-    "hafta",
-    "ilçed",
-    "ise",
-    "isted",
-    "kaldı",
-    "karşı",
-    "kilog",
-    "kivi",
-    "kredi",
-    "maliy",
-    "mehme",
-    "müdah",
-    "nin",
-    "odası",
-    "olaca",
-    "periş",
-    "rize",
-    "seviy",
-    "söyle",
-    "tarım",
-    "tekli",
-    "telef",
-    "ton",
-    "tona",
-    "tonla",
-    "tücca",
-    "varke",
-    "verdi",
-    "yakla",
-    "yakın",
-    "yalnı",
-    "yapıl",
-    "yıl",
-    "ziraa",
-    "zor",
-    "özsoy",
-    "üreti",
-    "üzeri",
-    "şoku"
-   ],
-   "at": "2026-11-14T10:22:14.382497+00:00"
-  },
-  {
-   "fp": [
-    "3",
-    "hayat",
-    "kaybe",
-    "kişi",
-    "ordu",
-    "otomo",
-    "uçuru",
-    "yuvar",
-    "öldü"
-   ],
-   "tok": [
-    "acil",
-    "anduz",
-    "bitti",
-    "cenaz",
-    "devle",
-    "ekipl",
-    "feci",
-    "geldi",
-    "gölkö",
-    "gönde",
-    "hasta",
-    "ihbar",
-    "ilçes",
-    "incel",
-    "itfai",
-    "kaldı",
-    "kara",
-    "kulla",
-    "mesud",
-    "mevki",
-    "meyda",
-    "morgu",
-    "nin",
-    "nun",
-    "olay",
-    "ordu",
-    "otomo",
-    "sağlı",
-    "sürüc",
-    "uçuru",
-    "yanın",
-    "yerin",
-    "yolun",
-    "yuvar"
-   ],
-   "at": "2026-11-14T10:34:42.129226+00:00"
-  },
-  {
-   "fp": [
     "asgar",
     "açıkl",
     "ten",
@@ -11444,20 +11325,53 @@
     "ülke"
    ],
    "at": "2026-11-15T22:21:50.615146+00:00"
+  },
+  {
+   "fp": [
+    "bulun",
+    "bıçak",
+    "halde",
+    "kayıp",
+    "çocuk"
+   ],
+   "tok": [
+    "arama",
+    "arana",
+    "aranı",
+    "arazi",
+    "ardın",
+    "ağır",
+    "barış",
+    "başla",
+    "boş",
+    "bulun",
+    "bıçak",
+    "devle",
+    "ekipl",
+    "halde",
+    "hasta",
+    "ihbar",
+    "ilçes",
+    "incel",
+    "kaldı",
+    "kayıp",
+    "kurta",
+    "mardi",
+    "müdah",
+    "nusay",
+    "olay",
+    "rağme",
+    "vücud",
+    "yaşın",
+    "yerin",
+    "yerle",
+    "çeşit",
+    "çocuk"
+   ],
+   "at": "2026-11-15T22:42:32.903804+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "29653dbcc3",
-   "post_id": "529346797199852_1467958405443867",
-   "title": "SPK'dan borsada büyük operasyon: 65 kişi hakkında suç duyurusu",
-   "at": "2026-11-13T23:43:00.016737+00:00",
-   "yazim": "claude",
-   "metin": "SPK, Borsa İstanbul'da EDATA, KARCL ve GRTHO hisselerindeki işlemler nedeniyle 65 kişi hakkında suç duyurusu kararı aldı.\n\nKurul, bu işlemleri piyasa dolandırıcılığına ilişkin kuralla değerlendirdi.\n\n— EDATA hisselerinde 8 kişi hakkında suç duyurusu kararı çıktı.\n— En geniş liste KARCL hisselerinde: 44 kişi.\n— GRTHO hisselerinde 24 kişi hakkında suç duyurusu var.\n— Bazı isimler birden fazla dosyada yer aldığı için toplam 76 kayıt, farklı kişi sayısı 65 oldu.\n— Suç duyurusu yapılan kişilere iki yıl borsada işlem yasağı getirildi. Altı aracı kurum ve portföy şirketine de KARCL payında sınırlı işlem yasağı konuldu.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/spkdan-borsada-buyuk-operasyon-65-kisi-hakkinda-suc-duyurusu-2084040"
-   ]
-  },
   {
    "id": "59811a5528",
    "post_id": "529346797199852_1467966318776409",
@@ -13947,6 +13861,18 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/meteorolojiden-arka-arkaya-istanbul-uyarisi-17-kasima-dikkat-2084293"
    ]
+  },
+  {
+   "id": "c394dcad87",
+   "post_id": "529346797199852_1469883691918005",
+   "title": "Kayıp olarak aranıyordu: Çocuk, bıçaklanmış halde bulundu",
+   "at": "2026-11-15T22:42:32.903804+00:00",
+   "yazim": "claude",
+   "metin": "Mardin'in Nusaybin ilçesinde kayıp aranan 17 yaşındaki bir çocuk, boş arazide bıçaklanmış halde bulundu ve hayatını kaybetti.\n\n— Kayıp ihbarının ardından yapılan aramada çocuk, boş arazide vücudunun çeşitli yerlerinden yaralı halde bulundu.\n\n— Ağır yaralı olarak Nusaybin Devlet Hastanesine kaldırıldı, yapılan tüm müdahalelere rağmen kurtarılamadı.\n\n— Polis ekipleri olay yerinde inceleme başlattı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kayip-olarak-araniyordu-cocuk-bicaklanmis-halde-bulundu-2556451",
+    "Karar: https://www.karar.com/guncel-haberler/kayip-cocuk-bicaklanmis-halde-bulundu-2084295"
+   ]
   }
  ],
  "fails": {
@@ -14161,7 +14087,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122091936194380003",
+   "since_id": "2122096057060561342",
    "started": true
   },
   "ajansmuhbir1923": {
