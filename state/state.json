@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abu",
-    "bilme",
-    "bırak",
-    "dabi",
-    "deki",
-    "dvali",
-    "dönme",
-    "hazır",
-    "herke",
-    "ister",
-    "iyiyi",
-    "merab",
-    "sağlı",
-    "serbe",
-    "teşek",
-    "umarı"
-   ],
-   "tok": [
-    "abu",
-    "bilme",
-    "bırak",
-    "dabi",
-    "deki",
-    "diliy",
-    "diğer",
-    "duyur",
-    "dvali",
-    "dönme",
-    "dövüş",
-    "hazır",
-    "herke",
-    "https",
-    "ister",
-    "iyisi",
-    "iyiyi",
-    "lr5rg",
-    "merab",
-    "olmay",
-    "sağlı",
-    "serbe",
-    "teşek",
-    "ufc",
-    "umarı",
-    "usman",
-    "şikay"
-   ],
-   "at": "2026-11-14T10:09:20.905125+00:00"
-  },
-  {
-   "fp": [
     "fiyat",
     "kivi",
     "maliy",
@@ -11414,20 +11364,89 @@
     "ölümd"
    ],
    "at": "2026-11-15T22:09:12.526092+00:00"
+  },
+  {
+   "fp": [
+    "17",
+    "arka",
+    "arkay",
+    "den",
+    "dikka",
+    "istan",
+    "kasım",
+    "meteo",
+    "uyarı"
+   ],
+   "tok": [
+    "ait",
+    "arka",
+    "arkay",
+    "artar",
+    "batı",
+    "başla",
+    "bekle",
+    "boyun",
+    "cumar",
+    "dan",
+    "den",
+    "derec",
+    "dikka",
+    "doğu",
+    "doğus",
+    "durum",
+    "etkil",
+    "farla",
+    "gece",
+    "genel",
+    "göre",
+    "gün",
+    "günü",
+    "hafta",
+    "hakka",
+    "hava",
+    "ila",
+    "itiba",
+    "kar",
+    "karla",
+    "karış",
+    "kasım",
+    "kesim",
+    "kesin",
+    "kulla",
+    "kuzey",
+    "meteo",
+    "mevsi",
+    "mgm",
+    "müdür",
+    "norma",
+    "olaca",
+    "ortas",
+    "saatl",
+    "sabah",
+    "salı",
+    "sağan",
+    "sis",
+    "sürec",
+    "sürüc",
+    "sıcak",
+    "tahmi",
+    "uyarı",
+    "van",
+    "veril",
+    "yayım",
+    "yağmu",
+    "yağış",
+    "yoğun",
+    "çevre",
+    "çıkac",
+    "öneri",
+    "özell",
+    "ülke"
+   ],
+   "at": "2026-11-15T22:21:50.615146+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cd328b2c2e",
-   "post_id": "529346797199852_1467951262111248",
-   "title": "Bursa'da kadına şiddet: Darbedip zorla otomobile bindirmeye çalıştılar",
-   "at": "2026-11-13T23:30:31.885210+00:00",
-   "yazim": "claude",
-   "metin": "Bursa'nın Osmangazi ilçesinde bir kadın, iddiaya göre birkaç kişi tarafından darbedilip zorla otomobile bindirilmeye çalışıldı.\n\nOlayı, Uludağ yolu üzerinden geçen bir sürücü cep telefonuyla kaydetti.\n\n— Görüntülerde kadının yaka paça sürüklendiği ve yardım için çığlık attığı görülüyor.\n— Kayıt fark edilince kişilerden biri sürücünün aracına doğru yürüdü. Sürücü korkarak kaydı durdurup bölgeden uzaklaştı.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/bursada-kadina-siddet-darbedip-zorla-otomobile-bindirmeye-calistilar-2084046"
-   ]
-  },
   {
    "id": "29653dbcc3",
    "post_id": "529346797199852_1467958405443867",
@@ -13917,6 +13936,17 @@
    "sources": [
     "Karar: https://www.karar.com/karar-tv/kasa-kazandi-diyen-midyeci-kim-midye-yeme-yarismasi-odulu-nedir-odullu-2084290"
    ]
+  },
+  {
+   "id": "ca6a12d727",
+   "post_id": "529346797199852_1469873461919028",
+   "title": "Meteoroloji'den arka arkaya İstanbul uyarısı: 17 Kasım'a dikkat",
+   "at": "2026-11-15T22:21:50.615146+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da 17 Kasım Salı günü başlayacak sağanak yağışlar 5 gün boyunca sürecek.\n\n— Yağışlar 21 Kasım Cumartesi günü ülke genelinde etkili olacak.\n— Van'ın doğusu ve Hakkari çevrelerinde karla karışık yağmur ve kar bekleniyor.\n— Hafta ortasından itibaren kuzey, iç ve batı kesimlerde sıcaklıklar 2 ila 4 derece artarak mevsim normallerinin üzerine çıkacak.\n— İç ve doğu kesimlerde gece ve sabah saatlerinde yoğun sis bekleniyor, sürücülerin sis farlarını kullanması öneriliyor.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/meteorolojiden-arka-arkaya-istanbul-uyarisi-17-kasima-dikkat-2084293"
+   ]
   }
  ],
  "fails": {
@@ -14083,12 +14113,10 @@
   "44025f59b3": 1,
   "5e6e28b096": 2,
   "718255020e": 1,
-  "a297a6e239": 1
+  "a297a6e239": 1,
+  "8c5ce52590": 1
  },
  "fail_log": [
-  "2026-11-15T14:33 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
-  "2026-11-15T14:33 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
-  "2026-11-15T14:33 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
   "2026-11-15T14:46 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
   "2026-11-15T14:46 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
   "2026-11-15T14:46 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
@@ -14125,12 +14153,15 @@
   "2026-11-15T20:42 Zeki Demirkubuz: \"İnsanlar beni kendi hayallerindeki kişi ol -> ValueError: yanıt okunamadı",
   "2026-11-15T22:09 Sergen Yalçın: Berke'nin performansı çok iyiydi. Böyle değer -> ValueError: yanıt okunamadı",
   "2026-11-15T22:09 Sergen Yalçın: Berke'nin performansı çok iyiydi. Böyle değer -> ValueError: yanıt okunamadı",
-  "2026-11-15T22:09 Sergen Yalçın: Berke'nin performansı çok iyiydi. Böyle değer -> ValueError: yanıt okunamadı"
+  "2026-11-15T22:09 Sergen Yalçın: Berke'nin performansı çok iyiydi. Böyle değer -> ValueError: yanıt okunamadı",
+  "2026-11-15T22:21 Berke Özer: \"Düştüğünde kim seninle beraber o önemli.\" -> ValueError: yanıt okunamadı",
+  "2026-11-15T22:21 Berke Özer: \"Düştüğünde kim seninle beraber o önemli.\" -> ValueError: yanıt okunamadı",
+  "2026-11-15T22:21 Berke Özer: \"Düştüğünde kim seninle beraber o önemli.\" -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122087186963312817",
+   "since_id": "2122091936194380003",
    "started": true
   },
   "ajansmuhbir1923": {
