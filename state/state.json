@@ -2,65 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "dan",
-    "dönüş",
-    "erişm",
-    "hedef",
-    "imamo",
-    "kacır",
-    "kurul",
-    "mesaj",
-    "nin",
-    "türki",
-    "yeşil",
-    "çalış"
-   ],
-   "tok": [
-    "adayı",
-    "başlı",
-    "cop31",
-    "cumar",
-    "dan",
-    "den",
-    "dönem",
-    "dönüş",
-    "düzen",
-    "ekrem",
-    "erişm",
-    "günü",
-    "hamle",
-    "hedef",
-    "hesab",
-    "ibb",
-    "ifade",
-    "imamo",
-    "işare",
-    "kacır",
-    "kasım",
-    "kulla",
-    "kurul",
-    "medya",
-    "mesaj",
-    "ndan",
-    "nin",
-    "parti",
-    "payla",
-    "sanay",
-    "sosya",
-    "yaptı",
-    "yapıl",
-    "yarın",
-    "yenil",
-    "yeşil",
-    "çalış",
-    "çağrı",
-    "önces"
-   ],
-   "at": "2026-11-13T21:37:35.896451+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "durdu",
     "genel",
@@ -10984,20 +10925,50 @@
     "şartı"
    ],
    "at": "2026-11-15T09:31:58.746105+00:00"
+  },
+  {
+   "fp": [
+    "parti",
+    "seçim"
+   ],
+   "tok": [
+    "akp",
+    "aldı",
+    "alırk",
+    "anket",
+    "arası",
+    "araşt",
+    "butla",
+    "chp",
+    "danış",
+    "dem",
+    "fark",
+    "genel",
+    "gerid",
+    "ise",
+    "kaldı",
+    "mutla",
+    "nin",
+    "oranı",
+    "parti",
+    "puan",
+    "puand",
+    "seçim",
+    "sırad",
+    "yapıl",
+    "ydk",
+    "yer",
+    "yönet",
+    "yüzde",
+    "çıktı",
+    "ölçül",
+    "öne",
+    "üçünc"
+   ],
+   "at": "2026-11-15T09:44:25.186328+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4264697d11",
-   "post_id": "529346797199852_1464707209102320",
-   "title": "Evde günlerce GTA 6 oynayarak para biriktirebilirsiniz: Açık ara en ucuz vakit geçirme yöntemi",
-   "at": "2026-11-11T01:28:12.857039+00:00",
-   "yazim": "claude",
-   "metin": "YouTuber Mark Tilbury, GTA 6'nın maliyetini hesaplayınca:\n\n“İşte bu yüzden GTA 6 satın almak size fiilen 5 bin dolar tasarruf ettiriyor.”\n\nRockstar'ın 19 Kasım 2026'da çıkaracağı oyunun en pahalı paketi 99,99 dolar, Türkiye'de satış fiyatı 5 bin TL. 9,3 milyon aboneli Mark Tilbury, oyunun ana hikayesinin 80 saat sürdüğünü, yan görevlerle birlikte süreyi 200 saate kadar çıkabileceğini söylüyor.\n\nBu süreye göre saat başına maliyet 50 sente kadar iniyor. Günde 4 saat oynayan biri 50 gece eğlenmiş olur ve dışarıda bir gecede harcanan 100 dolar bu hesaba girmemiş olur.",
-   "sources": [
-    "Karar: https://www.karar.com/teknoloji-haberleri/gta-6-turkiye-fiyati-ne-kadar-gta-6-almaya-deger-mi-evde-gta-6-2083482"
-   ]
-  },
   {
    "id": "3bb2c57dce",
    "post_id": "529346797199852_1464714499101591",
@@ -13478,6 +13449,18 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tekirdag-da-evlilik-vaadiyle-dolandiricilik-724-milyon-tl-lik-para-trafigi-ortaya-cikti-2556292",
     "Karar: https://www.karar.com/guncel-haberler/bulgar-gelin-vaadiyle-dev-vurgun-hesaplardan-724-milyon-tllik-islem-2084202"
+   ]
+  },
+  {
+   "id": "4960cbd84b",
+   "post_id": "529346797199852_1469313821974992",
+   "title": "Son genel seçim anketi: Partilerin oy oranı ne oldu?",
+   "at": "2026-11-15T09:44:25.186328+00:00",
+   "yazim": "claude",
+   "metin": "Ankara Araştırma ve Danışmanlık'ın son seçim anketinde AKP yüzde 30, YENİ Parti yüzde 28,4 oy oranıyla öne çıktı.\n\n— İki parti arasındaki fark 1,6 puan oldu.\n— DEM Parti yüzde 9 ile üçüncü sırada yer aldı.\n— Mutlak butlan yönetimindeki CHP ise yüzde 2,6 ile geride kaldı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/yeni-parti-de-pm-ve-ydk-secimi-yapilacak-3927459",
+    "BirGün: https://www.birgun.net/haber/son-genel-secim-anketi-partilerin-oy-orani-ne-oldu-746540"
    ]
   }
  ],
