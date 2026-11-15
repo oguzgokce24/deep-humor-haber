@@ -11313,23 +11313,51 @@
     "ünive"
    ],
    "at": "2026-11-15T21:43:56.140845+00:00"
+  },
+  {
+   "fp": [
+    "arnav",
+    "değil",
+    "düzen",
+    "hangi",
+    "henüz",
+    "lider",
+    "nato",
+    "sonra",
+    "tarih",
+    "zirve",
+    "ülked"
+   ],
+   "tok": [
+    "ancak",
+    "araya",
+    "arnav",
+    "belir",
+    "bildi",
+    "bilgi",
+    "değil",
+    "duyur",
+    "düzen",
+    "geliy",
+    "hangi",
+    "henüz",
+    "ise",
+    "kendi",
+    "lider",
+    "nato",
+    "nun",
+    "sonra",
+    "tarih",
+    "yapıl",
+    "zirve",
+    "ülked",
+    "ülkel",
+    "üye"
+   ],
+   "at": "2026-11-15T21:56:25.730678+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "275d3c55d4",
-   "post_id": "529346797199852_1467936472112727",
-   "title": "ABD'de yük gemisinin çarptığı kruz gemisi yan yattı",
-   "at": "2026-11-13T23:06:00.182802+00:00",
-   "yazim": "claude",
-   "metin": "AK Parti'nin Meclis'e sunduğu kanun teklifiyle Cumhurbaşkanı Erdoğan'a istihdam teşviklerinin süresini uzatma yetkisi verilmek isteniyor.\n\n— Teklif, Mesleki Eğitim Kanunu ile İşsizlik Sigortası Kanunu'nda değişiklik öngörüyor.\n— Bu düzenlemeyle teşvik sürelerinin Cumhurbaşkanı tarafından uzatılabilmesi planlanıyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdnin-louisiana-eyaletindeki-mississippi-nehrinde-tanker-yolcu-gemisine-carpti/4124778",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/abdde-mississippi-nehrinde-tanker-yolcu-gemisine-carpti-963231.html",
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
-    "Evrensel: https://www.evrensel.net/haber/6009411/new-orleansta-mississippi-nehrinde-yolcu-gemisiyle-tanker-carpisti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "e58af4df61",
    "post_id": "529346797199852_1467942978778743",
@@ -13815,6 +13843,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/traktor-romorkuna-otomobil-carpti-kari-koca-hayatini-kaybetti-dort-yarali-4872790",
     "Yeni Şafak: https://www.yenisafak.com/gundem/cerkezkoy-yolunda-zincirleme-kaza-bes-arac-birbirine-girdi-11-yarali-4872763"
    ]
+  },
+  {
+   "id": "37024e6b32",
+   "post_id": "529346797199852_1469859761920398",
+   "title": "NATO: Bir sonraki zirve Arnavutluk'ta düzenlenecek, henüz tarihi belli değil",
+   "at": "2026-11-15T21:56:25.730678+00:00",
+   "yazim": "claude",
+   "metin": "NATO'nun bir sonraki liderler zirvesi Arnavutluk'ta yapılacak.\n\nZirvenin tarihi ise henüz belli değil.\n\n— NATO, bu bilgiyi kendi açıklamasıyla duyurdu.\n— Zirvede üye ülkelerin liderleri bir araya geliyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/nato-bir-sonraki-zirve-arnavutlukta-duzenlenecek-henuz-tarihi-belli-degil-/4126035",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/bir-sonraki-nato-zirvesi-arnavutlukta-tarihi-belli-degil-963365.html",
+    "Milliyet: https://www.milliyet.com.tr/dunya/nato-bir-sonraki-liderler-zirvesinin-hangi-ulkede-duzenlenecegini-acikladi-7701420",
+    "CNN Türk: https://www.cnnturk.com/dunya/nato-duyurdu-bir-sonraki-liderler-zirvesinin-hangi-ulkede-duzenlenecegi-belli-oldu-3493646",
+    "BirGün: https://www.birgun.net/haber/nato-bir-sonraki-zirve-arnavutluk-ta-duzenlenecek-henuz-tarihi-belli-degil-746620",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/nato-bir-sonraki-liderler-zirvesinin-hangi-ulkede-duzenlenecegini-acikladi-7701420"
+   ]
   }
  ],
  "fails": {
@@ -14027,7 +14071,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122082922631229790",
+   "since_id": "2122086061845410045",
    "started": true
   },
   "ajansmuhbir1923": {
