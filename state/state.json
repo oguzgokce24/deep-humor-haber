@@ -2,109 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akıla",
-    "bürok",
-    "dolan",
-    "dönem",
-    "isyan",
-    "yeğen"
-   ],
-   "tok": [
-    "akıla",
-    "aldığ",
-    "arazi",
-    "beyko",
-    "bürok",
-    "dolan",
-    "dönem",
-    "dönüm",
-    "eski",
-    "gerçe",
-    "göste",
-    "isyan",
-    "kamu",
-    "kendi",
-    "müste",
-    "sürül",
-    "tapul",
-    "yeğen",
-    "öne"
-   ],
-   "at": "2026-11-13T18:30:37.073902+00:00"
-  },
-  {
-   "fp": [
-    "200",
-    "antal",
-    "dan",
-    "dünya",
-    "göçe",
-    "insan",
-    "milyo",
-    "uyarı",
-    "zorla"
-   ],
-   "tok": [
-    "antal",
-    "bulun",
-    "cop31",
-    "dan",
-    "dünya",
-    "etmek",
-    "evler",
-    "göç",
-    "göçe",
-    "iklim",
-    "insan",
-    "kalmı",
-    "krizi",
-    "kurak",
-    "neden",
-    "orman",
-    "sürer",
-    "terk",
-    "ulusl",
-    "uyarı",
-    "yangı",
-    "zorla",
-    "zorun",
-    "örgüt"
-   ],
-   "at": "2026-11-13T18:33:56.274419+00:00"
-  },
-  {
-   "fp": [
-    "68",
-    "akden",
-    "alem",
-    "denge",
-    "doğu",
-    "dünya",
-    "kıbrı",
-    "müzak",
-    "çıkma"
-   ],
-   "tok": [
-    "akden",
-    "alem",
-    "denge",
-    "değer",
-    "doğu",
-    "dünya",
-    "enerj",
-    "geliş",
-    "kıbrı",
-    "libya",
-    "medya",
-    "mutab",
-    "müzak",
-    "rekab",
-    "çıkma"
-   ],
-   "at": "2026-11-13T18:37:12.116795+00:00"
-  },
-  {
-   "fp": [
     "721",
     "alana",
     "bin",
@@ -11400,21 +11297,83 @@
     "öğren"
    ],
    "at": "2026-11-15T06:28:27.689518+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "abd",
+    "bahre",
+    "iha",
+    "iran"
+   ],
+   "tok": [
+    "abd",
+    "ait",
+    "alarm",
+    "aldığ",
+    "alınd",
+    "ancak",
+    "ayrın",
+    "aşama",
+    "bahre",
+    "bulun",
+    "bölge",
+    "dan",
+    "deki",
+    "devri",
+    "duyul",
+    "duyur",
+    "dün",
+    "erken",
+    "ettik",
+    "farkl",
+    "gidin",
+    "gitme",
+    "göre",
+    "güven",
+    "halka",
+    "hava",
+    "hedef",
+    "helik",
+    "herha",
+    "iha",
+    "ikinc",
+    "imha",
+    "insan",
+    "iran",
+    "isabe",
+    "içişl",
+    "karşı",
+    "kayna",
+    "kenti",
+    "lar",
+    "misil",
+    "muhaf",
+    "nde",
+    "nin",
+    "ordus",
+    "otomo",
+    "payla",
+    "radar",
+    "rifaa",
+    "savun",
+    "sirik",
+    "siste",
+    "tam",
+    "tanım",
+    "tehdi",
+    "uyarı",
+    "vurdu",
+    "yakın",
+    "çağrı",
+    "ülked",
+    "üssü",
+    "üssün"
+   ],
+   "at": "2026-11-15T06:41:30.972338+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3800f5baee",
-   "post_id": "529346797199852_1464554159117625",
-   "title": "Eyüpsultan’da sokak ortasında silahla saldırıp kaçtılar: 3 kişi yaralandı, şüpheliler aranıyor",
-   "at": "2026-11-10T22:14:58.641903+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Eyüpsultan'da sokakta duran 3 kişiye silahla ateş açıldı, üçü yaralandı.\n\n— Olay gece saat 22.30 sıralarında Merkez Mahallesi Ağaçlı Sokak'ta yaşandı.\n— Kimliği belirsiz şüpheliler birden fazla kez ateş açtıktan sonra olay yerinden kaçtı.\n— Yaralanan 3 kişi ambulansla hastaneye kaldırıldı.\n— Polis sokakta güvenlik önlemi aldı, şüphelileri arama çalışmaları sürüyor.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/eyupsultan-da-silahli-saldiri-3-yarali-3926402",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/eyupsultan-da-sokak-ortasinda-silahla-saldirip-kactilar-3-kisi-yaralandi-supheliler-araniyor-2555233"
-   ]
-  },
   {
    "id": "215a38babd",
    "post_id": "529346797199852_1464561879116853",
@@ -13881,6 +13840,18 @@
     "Evrensel: https://www.evrensel.net/haber/6009557/izmir-de-silahli-saldiri-1-i-cocuk-4-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/izmirde-motosikletli-saldirganlar-dehset-sacti-4-yarali-7701034"
    ]
+  },
+  {
+   "id": "81b000f1e4",
+   "post_id": "529346797199852_1469196518653389",
+   "title": "İran duyurdu: Bahreyn'deki ABD hava savunma radarı 6 İHA ile hedef alındı",
+   "at": "2026-11-15T06:41:30.972338+00:00",
+   "yazim": "claude",
+   "metin": "İran Devrim Muhafızları, Bahreyn'deki Rifaa Helikopter Üssü'nde bulunan ABD hava savunma radarını 6 insansız hava aracıyla hedef aldığını açıkladı.\n\n— Açıklamaya göre İHA'lar hedeflerini tam isabetle vurdu ve saldırı Bahreyn'in farklı bölgelerinde duyuldu.\n\n— İran bu saldırıyı, ABD'nin saldırılarına karşılık misillemenin ikinci aşaması olarak tanımladı. Dün de Sirik kentine yapılan saldırıya karşılık Bahreyn'deki bir erken uyarı radarını imha ettiklerini duyurmuşlardı.\n\n— Bahreyn İçişleri Bakanlığı halka en yakın güvenli bölgeye gitme çağrısı yaptı. Ancak tehdidin ne olduğu ve kaynağı hakkında herhangi bir ayrıntı paylaşılmadı.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009553/iran-duyurdu-bahreyn-deki-abd-hava-savunma-radari-6-iha-ile-hedef-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/dunya-haberleri/irandan-ulkedeki-abd-ussune-6-ihali-saldiri-bahreynde-alarm-halka-2084176"
+   ]
   }
  ],
  "fails": {
@@ -14033,15 +14004,10 @@
   "c8bd939727": 1,
   "313927486d": 2,
   "1400a0f95c": 1,
-  "7993853bb5": 1
+  "7993853bb5": 2,
+  "274b2b83d8": 1
  },
  "fail_log": [
-  "2026-11-15T05:44 Taner Ay: Enis Batur'un Kırmızı Kedi'den çıkan 'Merak Cemiye -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:44 Taner Ay: Enis Batur'un Kırmızı Kedi'den çıkan 'Merak Cemiye -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:44 Taner Ay: Enis Batur'un Kırmızı Kedi'den çıkan 'Merak Cemiye -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:44 Zafer Yörük: 'Demokrat kasırga' Trump'ı 'topal ördek'e çevir -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:44 Zafer Yörük: 'Demokrat kasırga' Trump'ı 'topal ördek'e çevir -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:44 Zafer Yörük: 'Demokrat kasırga' Trump'ı 'topal ördek'e çevir -> ValueError: yanıt okunamadı",
   "2026-11-15T05:48 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
   "2026-11-15T05:48 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
   "2026-11-15T05:48 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
@@ -14075,12 +14041,18 @@
   "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
   "2026-11-15T06:11 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı",
   "2026-11-15T06:11 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı",
-  "2026-11-15T06:11 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı"
+  "2026-11-15T06:11 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:41 İran’da işçi servisi devrildi: Yaşamını yitirenlerin sayısı  -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:41 İran’da işçi servisi devrildi: Yaşamını yitirenlerin sayısı  -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:41 İran’da işçi servisi devrildi: Yaşamını yitirenlerin sayısı  -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:41 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:41 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:41 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121851712382111847",
+   "since_id": "2121855759050817674",
    "started": true
   },
   "ajansmuhbir1923": {
