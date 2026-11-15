@@ -2,110 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bana",
-    "bin",
-    "dokun",
-    "kafas",
-    "yaşas",
-    "yılan",
-    "çıkal"
-   ],
-   "tok": [
-    "aldığ",
-    "bana",
-    "bin",
-    "bulac",
-    "canım",
-    "değiş",
-    "dokun",
-    "düzen",
-    "insan",
-    "işçil",
-    "kafas",
-    "kapit",
-    "nasıl",
-    "sürem",
-    "vefat",
-    "yaşam",
-    "yaşas",
-    "yılan",
-    "zaman",
-    "çalış",
-    "çıkal",
-    "ölüml",
-    "ücret",
-    "şartl"
-   ],
-   "at": "2026-11-13T15:28:25.084265+00:00"
-  },
-  {
-   "fp": [
-    "abdul",
-    "galat",
-    "istif",
-    "kavuk",
-    "metin",
-    "öztür"
-   ],
-   "tok": [
-    "abdul",
-    "dan",
-    "depre",
-    "ettiğ",
-    "galat",
-    "istif",
-    "kavuk",
-    "metin",
-    "resmi",
-    "sited",
-    "yönet",
-    "öztür"
-   ],
-   "at": "2026-11-13T15:31:42.342737+00:00"
-  },
-  {
-   "fp": [
-    "başvu",
-    "close",
-    "kısa",
-    "liste",
-    "photo",
-    "rekor",
-    "seçil",
-    "the",
-    "year"
-   ],
-   "tok": [
-    "ayrın",
-    "başvu",
-    "böcek",
-    "close",
-    "dünya",
-    "dışı",
-    "gizli",
-    "gözle",
-    "kısa",
-    "liste",
-    "manta",
-    "minik",
-    "photo",
-    "plan",
-    "portr",
-    "rekor",
-    "seriy",
-    "seçil",
-    "the",
-    "yakın",
-    "year",
-    "yusuf",
-    "yılın",
-    "önüne",
-    "ürküt"
-   ],
-   "at": "2026-11-13T15:38:14.616562+00:00"
-  },
-  {
-   "fp": [
     "2",
     "davas",
     "eski",
@@ -14945,18 +14841,12 @@
   "942da95524": 1,
   "2def16c91d": 2,
   "158ac8a2b4": 1,
-  "f177295d62": 1
+  "f177295d62": 1,
+  "c5fb535d89": 1,
+  "8912657193": 1,
+  "7ff8ef7f7e": 1
  },
  "fail_log": [
-  "2026-11-15T00:19 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
-  "2026-11-15T00:19 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
-  "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: yanıt okunamadı",
-  "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-15T00:19 HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’ni -> ValueError: cümle yarım kalmış: 'a göre işçinin vücudunun yüzde doksanı y'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-15T00:19 Fonlar hala kazandırıyor! -> ValueError: yanıt okunamadı",
-  "2026-11-15T00:19 Fonlar hala kazandırıyor! -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-15T00:23 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
-  "2026-11-15T00:23 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
   "2026-11-15T00:23 Öksürük 101: Geçmek bilmiyorsa ne yapmalı? -> ValueError: yanıt okunamadı",
   "2026-11-15T01:54 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
   "2026-11-15T01:54 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
@@ -14987,7 +14877,16 @@
   "2026-11-15T02:59 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
   "2026-11-15T02:59 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
   "2026-11-15T02:59 Ardeşen Belediye Başkanı Enver Atagün Cumhuriyet’e konuştu:  -> ValueError: yanıt okunamadı",
-  "2026-11-15T03:25 Çocukların ihtiyaçlarına bütçede yer yok: AKP ve MHP'den 15  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-15T03:25 Çocukların ihtiyaçlarına bütçede yer yok: AKP ve MHP'den 15  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-15T03:39 Eğitim süresini düşürmek gerçeği gizlemiyor: Gençleri bekley -> ValueError: yanıt okunamadı",
+  "2026-11-15T03:39 Eğitim süresini düşürmek gerçeği gizlemiyor: Gençleri bekley -> ValueError: yanıt okunamadı",
+  "2026-11-15T03:39 Eğitim süresini düşürmek gerçeği gizlemiyor: Gençleri bekley -> ValueError: yanıt okunamadı",
+  "2026-11-15T03:39 Okumaya değer üç kitap eleştirisi -> ValueError: yanıt okunamadı",
+  "2026-11-15T03:39 Okumaya değer üç kitap eleştirisi -> ValueError: yanıt okunamadı",
+  "2026-11-15T03:39 Okumaya değer üç kitap eleştirisi -> ValueError: yanıt okunamadı",
+  "2026-11-15T03:39 BirGün muhabiri İsmail Arı 25 gündür tutuklu! -> ValueError: metinde kaynak/teyit yorumu var; bu cümleyi tamamen çıkar, sadece olayı anlat",
+  "2026-11-15T03:39 BirGün muhabiri İsmail Arı 25 gündür tutuklu! -> ValueError: yanıt okunamadı",
+  "2026-11-15T03:39 BirGün muhabiri İsmail Arı 25 gündür tutuklu! -> ValueError: cümle yarım kalmış: 'tehdit, zorlama ya da hakaret olmadığını'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
