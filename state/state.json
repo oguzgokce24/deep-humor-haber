@@ -11499,24 +11499,73 @@
     "umut"
    ],
    "at": "2026-11-15T06:08:06.358458+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "40",
+    "cezae",
+    "fare",
+    "fazla",
+    "gazet",
+    "günde",
+    "tan",
+    "yakal"
+   ],
+   "tok": [
+    "alana",
+    "ancak",
+    "anlat",
+    "belir",
+    "bulam",
+    "bunla",
+    "cezae",
+    "fare",
+    "fazla",
+    "gazet",
+    "gece",
+    "günda",
+    "günde",
+    "gündü",
+    "iyi",
+    "kapas",
+    "konul",
+    "kozin",
+    "koğuş",
+    "kurul",
+    "mesci",
+    "mevcu",
+    "nun",
+    "orada",
+    "parti",
+    "ranza",
+    "sayıs",
+    "selah",
+    "serdi",
+    "tahta",
+    "tan",
+    "teori",
+    "turha",
+    "tutul",
+    "vücud",
+    "yatak",
+    "yatıy",
+    "yemek",
+    "yenil",
+    "yer",
+    "yönel",
+    "yükse",
+    "zaman",
+    "çömez",
+    "çıkar",
+    "ölümü",
+    "ısırd",
+    "şeyle"
+   ],
+   "at": "2026-11-15T06:11:51.773691+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fa3c5a56c1",
-   "post_id": "529346797199852_1464533779119663",
-   "title": "Netanyahu'ya kötü haber: Eisenkot Netanyahu'nun partisi ile müzakereleri iptal etti",
-   "at": "2026-11-10T21:49:47.138673+00:00",
-   "yazim": "claude",
-   "metin": "İsrail'de Yashar Partisi lideri Gadi Eisenkot, Netanyahu'nun partisi Likud ile 11 Kasım'da yapılacak müzakereyi iptal etti.\n\n— Eisenkot, Netanyahu'nun Meclis açılışında yaptığı konuşmayı \"bölücü\" olarak niteledi.\n— Netanyahu, Filistinli İsrail vatandaşlarını temsil eden partiler hakkında sert ve ırkçı ifadeler kullandı.\n— Yashar'ın açıklamasında, \"Bir seçim yapması gerektiğinde, ne pahasına olursa olsun Netanyahu her zaman kendi çıkarını seçecektir\" denildi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/israilde-eisenkottan-netanyahunun-partisi-likud-ile-muzakereleri-iptal-etme-talimati/4119545",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/israilde-eisenkottan-netanyahunun-partisi-likud-ile-muzakereleri-iptal-etme-talimati-962863.html",
-    "Habertürk: https://www.haberturk.com/dunya/eisenkot-tan-netanyahu-nun-partisi-ile-muzakereleri-iptal-etme-talimati-3926399",
-    "Evrensel: https://www.evrensel.net/haber/6008890/israilde-eisenkottan-netanyahunun-partisi-likud-ile-muzakereleri-iptal-etme-talimati?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/netanyahu-ya-kotu-haber-eisenkot-netanyahu-nun-partisi-ile-muzakereleri-iptal-etti-745719"
-   ]
-  },
   {
    "id": "b713ac4cdf",
    "post_id": "529346797199852_1464541099118931",
@@ -13981,6 +14030,17 @@
    "sources": [
     "Sözcü Spor: https://www.sozcu.com.tr/fenerbahceli-milli-futbolcu-icin-olay-iddia-sezon-sonunda-yuzde-99-galatasaray-a-gider-p381434"
    ]
+  },
+  {
+   "id": "2b19f128c0",
+   "post_id": "529346797199852_1469178008655240",
+   "title": "Cezaevinde 3 günde 40'tan fazla fare yakalayan gazeteci",
+   "at": "2026-11-15T06:11:51.773691+00:00",
+   "yazim": "claude",
+   "metin": "Cezaevinde tutulan gazeteci Günday, 3 günde 40'tan fazla fare yakaladığını söyledi.\n\n— İYİ Partili Çömez, Günday'ın koğuşta tahta kuruları da olduğunu ve bunların vücudunu ısırdığını anlattığını belirtti.\n\n— Koğuşun teorik kapasitesi 42 kişi, ancak mescide ranza konularak yatak sayısı 48'e çıkarılmış. Koğuş mevcudu zaman zaman 68'e kadar yükseliyor.\n\n— Yer bulamayan tutuklular, gündüz yemek yenilen alana serdikleri şeylerle gece orada yatıyor.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/cezaevinde-3-gunde-40-tan-fazla-fare-yakalayan-gazeteci-p381445"
+   ]
   }
  ],
  "fails": {
@@ -14132,12 +14192,10 @@
   "bdf49f3a26": 1,
   "c8bd939727": 1,
   "313927486d": 2,
-  "1400a0f95c": 1
+  "1400a0f95c": 1,
+  "7993853bb5": 1
  },
  "fail_log": [
-  "2026-11-15T05:44 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:44 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
-  "2026-11-15T05:44 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
   "2026-11-15T05:44 Taner Ay: Enis Batur'un Kırmızı Kedi'den çıkan 'Merak Cemiye -> ValueError: yanıt okunamadı",
   "2026-11-15T05:44 Taner Ay: Enis Batur'un Kırmızı Kedi'den çıkan 'Merak Cemiye -> ValueError: yanıt okunamadı",
   "2026-11-15T05:44 Taner Ay: Enis Batur'un Kırmızı Kedi'den çıkan 'Merak Cemiye -> ValueError: yanıt okunamadı",
@@ -14174,12 +14232,15 @@
   "2026-11-15T06:08 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
   "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
   "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
-  "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı"
+  "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:11 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:11 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:11 Meteoroloji uyardı: Sağanak, kar ve kuvvetli rüzgar bu iller -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121846577132437741",
+   "since_id": "2121847777793597694",
    "started": true
   },
   "ajansmuhbir1923": {
