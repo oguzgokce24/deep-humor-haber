@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "düzen",
-    "düşüy",
-    "işçin",
-    "payın",
-    "saray",
-    "ölüm"
-   ],
-   "tok": [
-    "abdul",
-    "ailel",
-    "alınm",
-    "ara",
-    "başar",
-    "ceza",
-    "düzen",
-    "düşüy",
-    "fazla",
-    "göste",
-    "gözle",
-    "habaş",
-    "hapsi",
-    "hesab",
-    "indir",
-    "insan",
-    "işçil",
-    "işçin",
-    "kez",
-    "kâr",
-    "kılıç",
-    "patro",
-    "payın",
-    "saray",
-    "serdi",
-    "serma",
-    "sömür",
-    "sözle",
-    "tepki",
-    "veril",
-    "verin",
-    "çarkı",
-    "ödül",
-    "ölüm",
-    "önüne",
-    "üreti"
-   ],
-   "at": "2026-11-14T04:24:47.170120+00:00"
-  },
-  {
-   "fp": [
     "bıçak",
     "dedir",
     "eski",
@@ -11243,25 +11194,91 @@
     "ülkel"
    ],
    "at": "2026-11-15T16:13:41.714600+00:00"
+  },
+  {
+   "fp": [
+    "dönem",
+    "gener",
+    "hüsey",
+    "istan",
+    "oto",
+    "sadda",
+    "yapıy",
+    "yıkam"
+   ],
+   "tok": [
+    "ahmed",
+    "allah",
+    "ameri",
+    "anlat",
+    "ardın",
+    "asker",
+    "ağır",
+    "bana",
+    "bağda",
+    "ben",
+    "bomba",
+    "boyun",
+    "bugün",
+    "bulun",
+    "devri",
+    "doğum",
+    "dönem",
+    "dönüp",
+    "eski",
+    "evini",
+    "eşini",
+    "geldi",
+    "gelmi",
+    "gener",
+    "gördü",
+    "görev",
+    "göç",
+    "güven",
+    "hikây",
+    "hiç",
+    "hüsey",
+    "ihane",
+    "ismi",
+    "işgal",
+    "işi",
+    "işken",
+    "kaldı",
+    "kaçır",
+    "kerkü",
+    "kesil",
+    "khudh",
+    "memnu",
+    "neden",
+    "oto",
+    "parma",
+    "pilot",
+    "raoof",
+    "sadda",
+    "sakla",
+    "sivas",
+    "sorun",
+    "tercü",
+    "vatan",
+    "weli",
+    "yapan",
+    "yapma",
+    "yapıy",
+    "yaşın",
+    "yönet",
+    "yıkam",
+    "yıl",
+    "yılın",
+    "zorun",
+    "ımdan",
+    "ışid",
+    "şaşır",
+    "şimdi"
+   ],
+   "at": "2026-11-15T16:26:31.562316+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "03aa625256",
-   "post_id": "529346797199852_1465062415733466",
-   "title": "BDDK Başkanı Şahap Kavcıoğlu istifa etti: 'Kurumun daha fazla yıpranmaması için'",
-   "at": "2026-11-11T08:47:35.352284+00:00",
-   "yazim": "claude",
-   "metin": "BDDK Başkanı Şahap Kavcıoğlu, fon soruşturması sonrası görevden affını istediğini açıkladı:\n\n“Kurumumuzun daha fazla yıpranmaması için Sayın Cumhurbaşkanımız Recep Tayyip Erdoğan'dan affımı istedim.”\n\n— Kavcıoğlu, iddiaları reddederek kendisinin ve ailesinin fonlarda parası olmadığını söyledi.\n\n— Savcı Sayan, Kavcıoğlu'nun bir iş insanından 20 milyar lira istediği iddialarını gündeme getirmişti. BDDK bu iddiaları \"bütünüyle asılsız\" olarak nitelendirmişti.\n\n— Kavcıoğlu, 2021-2023 arasında Merkez Bankası Başkanlığı yapmıştı. 9 Haziran 2023'te BDDK Başkanlığı'na getirilmişti.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi/4119824",
-    "TRT Haber: https://www.trthaber.com/haber/ekonomi/bddk-baskani-kavcioglu-gorevinden-affini-istedi-962904.html",
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss",
-    "Euronews: https://tr.euronews.com/2026/11/11/bddk-baskani-sahap-kavcioglu-istifa-etti-kurumun-daha-fazla-yipranmamasi-icin",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-bddk-baskani-sahap-kavcioglu-gorevinden-ayrildigini-duyurdu-43373858",
-    "CNN Türk: https://www.cnnturk.com/finans-haberler/son-dakika-bddk-baskani-sahap-kavcioglu-gorevden-affini-istedi-3491820"
-   ]
-  },
   {
    "id": "474d7ec5c4",
    "post_id": "529346797199852_1465070882399286",
@@ -13773,6 +13790,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/basbakan-acikladi-romanya-aciklarinda-uc-ticari-gemiye-iha-saldirisi-2556379",
     "BirGün: https://www.birgun.net/haber/romanya-aciklarinda-uc-ticari-gemiye-iha-saldirisi-746575"
    ]
+  },
+  {
+   "id": "c5a3b58ed5",
+   "post_id": "529346797199852_1469638955275812",
+   "title": "Saddam Hüseyin döneminin pilot generali İstanbul’da oto yıkamacılık yapıyor",
+   "at": "2026-11-15T16:26:31.562316+00:00",
+   "yazim": "claude",
+   "metin": "Saddam Hüseyin döneminin generali, şimdi İstanbul'da oto yıkamacılığı yapıyor.\n\n— Kerkük doğumlu 60 yaşındaki eski general, 17 yıl boyunca görev yaptı ve pilot generaldi.\n— 2003'te Bağdat'ın işgalinin ardından saklanmak zorunda kaldı, sonra Amerikan askerleri tarafından bulundu.\n— IŞİD'in evini bombaladığını, eşini kaybettiğini ve kaçırılıp işkence gördüğünü, parmaklarının kesildiğini anlattı.\n— 2013'te Türkiye'ye geldi, Sivas'ta tercümanlık yaptı, 2017'de İstanbul'a dönüp vatandaş oldu.\n\nEski general, bugünkü hayatı için:\n\n“Şu an bu işi yapmak bana hiç ağır gelmiyor. (...) Ben memnunum Allah’ımdan.”",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/saddam-huseyin-in-generali-istanbul-da-oto-yikamaciligi-yapiyor-ihanet-eden-ismi-acikladi-2556388",
+    "Yeni Şafak: https://www.yenisafak.com/hayat/saddamin-eski-generali-istanbulda-oto-yikamaci-4872689",
+    "Karar: https://www.karar.com/guncel-haberler/saddam-huseyin-doneminin-pilot-generali-istanbulda-oto-yikamacilik-2084244"
+   ]
   }
  ],
  "fails": {
@@ -13933,7 +13963,8 @@
   "2250b9d3e3": 1,
   "bc7c488162": 1,
   "ce1953d789": 1,
-  "338e47bc52": 1
+  "338e47bc52": 1,
+  "8b6ca861c2": 1
  },
  "fail_log": [
   "2026-11-15T08:08 Uzmanlardan uyarı: İnme riski sabah saatlerinde yüzde 72 art -> ValueError: yanıt okunamadı",
@@ -13980,7 +14011,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121997731518726294",
+   "since_id": "2122001263000719546",
    "started": true
   },
   "ajansmuhbir1923": {
