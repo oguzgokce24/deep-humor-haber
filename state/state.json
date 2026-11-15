@@ -2,77 +2,6 @@
  "seen": [
   {
    "fp": [
-    "19",
-    "akış",
-    "başka",
-    "beled",
-    "cezas",
-    "hakka",
-    "hapis",
-    "istin",
-    "mehme",
-    "onand",
-    "sıddı",
-    "veril",
-    "yıl"
-   ],
-   "tok": [
-    "adliy",
-    "adres",
-    "akış",
-    "alınd",
-    "atana",
-    "atanm",
-    "aynı",
-    "beled",
-    "bölge",
-    "ceza",
-    "cezal",
-    "cezas",
-    "davad",
-    "devam",
-    "diğer",
-    "eşbaş",
-    "gerek",
-    "görev",
-    "hakka",
-    "hapis",
-    "hazir",
-    "ifade",
-    "istin",
-    "karşı",
-    "kayyı",
-    "kaçma",
-    "mehme",
-    "mikta",
-    "olmak",
-    "onadı",
-    "onand",
-    "sanık",
-    "serbe",
-    "suç",
-    "suçla",
-    "sıddı",
-    "uzakl",
-    "van",
-    "varlı",
-    "verdi",
-    "veril",
-    "yargı",
-    "yayın",
-    "yazıs",
-    "yer",
-    "yerin",
-    "yönet",
-    "yükle",
-    "yıl",
-    "öngör",
-    "örgüt"
-   ],
-   "at": "2026-11-14T09:18:01.280106+00:00"
-  },
-  {
-   "fp": [
     "boşan",
     "eski",
     "kusur",
@@ -11302,20 +11231,63 @@
     "şartı"
    ],
    "at": "2026-11-15T21:07:04.715259+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "ata",
+    "kişi",
+    "otobü",
+    "yaral",
+    "yolcu",
+    "çarpa",
+    "öldü"
+   ],
+   "tok": [
+    "anide",
+    "ata",
+    "bariy",
+    "den",
+    "diğer",
+    "dokto",
+    "döndü",
+    "gelen",
+    "giden",
+    "hasta",
+    "hurda",
+    "ilçes",
+    "izmir",
+    "kaldı",
+    "karış",
+    "kavşa",
+    "kayse",
+    "kazay",
+    "kurta",
+    "meyda",
+    "müdah",
+    "nevşe",
+    "otobü",
+    "rağme",
+    "sarıh",
+    "sonuc",
+    "sürüy",
+    "tedav",
+    "tofaş",
+    "yakın",
+    "yedek",
+    "yola",
+    "yolcu",
+    "çarpa",
+    "çarpm",
+    "çarpt",
+    "çıkan",
+    "ürgüp",
+    "şoför"
+   ],
+   "at": "2026-11-15T21:19:33.072502+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4491b09582",
-   "post_id": "529346797199852_1467916012114773",
-   "title": "Toprak altında 7 ay kalıyor, 800 TL’ye satılıyor: Van lezzeti büyük talep görüyor!",
-   "at": "2026-11-13T22:27:50.365964+00:00",
-   "yazim": "claude",
-   "metin": "Van'ın otlu küp peyniri bu kış da yoğun talep görüyor, kilosu 600 ile 800 lira arasında satılıyor.\n\n— Peynir, sirmo, mendi ve heliz gibi yöresel otlarla hazırlanıp toprak altında 7 ay dinlendiriliyor.\n\n— Geçen yıl en yüksek 650 liradan satılan küp peynirin fiyatı bu yıl 800 liraya ulaştı.\n\n— Esnaf Yunus Akçılgın, fiyatlar artmasına rağmen talebin düşmediğini söylüyor:\n\n“Farklı yiyecekler olsa bile insanın gözü sürekli küp peynirini arıyor.”",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/toprak-altinda-7-ay-kaliyor-800-tlye-satiliyor-van-lezzeti-buyuk-talep-2084044"
-   ]
-  },
   {
    "id": "69b9de4b94",
    "post_id": "529346797199852_1467922495447458",
@@ -13801,6 +13773,19 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/patron-ev-hapsiyle-odullendirildi-habasta-can-veren-genc-muhendisin-2084284"
    ]
+  },
+  {
+   "id": "22b4998950",
+   "post_id": "529346797199852_1469839298589111",
+   "title": "Yolcu otobüsü ata çarptı: 1 kişi öldü, 2 kişi yaralandı, at hayatını kaybetti",
+   "at": "2026-11-15T21:19:33.072502+00:00",
+   "yazim": "claude",
+   "metin": "Nevşehir'in Ürgüp ilçesinde yolcu otobüsü aniden yola çıkan ata çarptı; kazada yedek şoför hayatını kaybetti.\n\n— Kayseri'den İzmir'e giden yolcu otobüsü, Sarıhıdır kavşağı yakınlarında bu kazaya karıştı.\n— Çarpmada at da öldü. Otobüs şoförü ile bir yolcu yaralandı.\n— Yaralılar hastaneye kaldırıldı. Yedek şoför doktorların müdahalesine rağmen kurtarılamadı. Diğer yaralıların tedavisi sürüyor.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/nevsehirde-ata-carpan-yolcu-otobusunde-bir-kisi-oldu-2-kisi-yaralandi-963364.html",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/yolcu-otobusu-ata-carpti-1-kisi-oldu-2-kisi-yaralandi-at-hayatini-kaybetti-2556448",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/bariyerlere-carpan-tofas-hurdaya-dondu-bes-kisi-yaralandi-4872768"
+   ]
   }
  ],
  "fails": {
@@ -14013,7 +13998,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122073344140775521",
+   "since_id": "2122075900548444558",
    "started": true
   },
   "ajansmuhbir1923": {
