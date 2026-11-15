@@ -2,65 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "gemis",
-    "missi",
-    "nde",
-    "nehri",
-    "tanke",
-    "yolcu",
-    "çarpt"
-   ],
-   "tok": [
-    "abd",
-    "değiş",
-    "düzen",
-    "erdoğ",
-    "eyale",
-    "eğiti",
-    "gemis",
-    "isten",
-    "istih",
-    "işsiz",
-    "kanun",
-    "kruz",
-    "liman",
-    "louis",
-    "mecli",
-    "mesle",
-    "missi",
-    "nda",
-    "nde",
-    "nehri",
-    "new",
-    "nin",
-    "orlea",
-    "parti",
-    "planl",
-    "sigor",
-    "sundu",
-    "sürel",
-    "süres",
-    "tanke",
-    "tekli",
-    "teşvi",
-    "uzatm",
-    "uzatı",
-    "veril",
-    "yakın",
-    "yan",
-    "yattı",
-    "yetki",
-    "yolcu",
-    "yük",
-    "çarpt",
-    "çarpı",
-    "öngör"
-   ],
-   "at": "2026-11-13T23:06:00.182802+00:00"
-  },
-  {
-   "fp": [
     "13",
     "kasım",
     "kazan",
@@ -10984,20 +10925,88 @@
     "şekil"
    ],
    "at": "2026-11-15T11:01:18.971959+00:00"
+  },
+  {
+   "fp": [
+    "acil",
+    "durum",
+    "iha",
+    "kara",
+    "karay",
+    "olaca",
+    "pisti",
+    "siha",
+    "yolla"
+   ],
+   "tok": [
+    "abdul",
+    "acil",
+    "afet",
+    "akınc",
+    "alanı",
+    "altya",
+    "amacı",
+    "ağını",
+    "balık",
+    "bayra",
+    "bazı",
+    "belir",
+    "bildi",
+    "bin",
+    "denem",
+    "durum",
+    "dönüş",
+    "fizik",
+    "hava",
+    "iha",
+    "iniş",
+    "insan",
+    "kalkı",
+    "kara",
+    "karay",
+    "karşı",
+    "kenar",
+    "kesim",
+    "konuş",
+    "kulla",
+    "lara",
+    "lojis",
+    "manis",
+    "metre",
+    "mevcu",
+    "olaca",
+    "olağa",
+    "oluşt",
+    "otoko",
+    "otomo",
+    "park",
+    "pist",
+    "pisti",
+    "pistl",
+    "potan",
+    "siha",
+    "stand",
+    "sökül",
+    "tanes",
+    "tb2",
+    "topla",
+    "ulaşt",
+    "uralo",
+    "uygul",
+    "yapıl",
+    "yol",
+    "yolda",
+    "yolla",
+    "yolu",
+    "yolun",
+    "yönel",
+    "yürüt",
+    "çalış"
+   ],
+   "at": "2026-11-15T11:13:55.033734+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "927bc65d8d",
-   "post_id": "529346797199852_1464773352429039",
-   "title": "Halk TV'de işten çıkarmalar başladı: Kayyum yüzde 30 küçülmeye gidiyor",
-   "at": "2026-11-11T02:54:18.366385+00:00",
-   "yazim": "claude",
-   "metin": "Halk TV'de kayyum yönetimi işten çıkarmalara başladı. Gazeteci Dalar, 6 çalışanın kanala çağrıldığını yazdı.\n\n— Dalar'ın paylaşımına göre her departmandaki çalışan sayısı yüzde 30 azaltılmak isteniyor. Dalar, bunların \"daha ilk adımlar\" olduğunu belirtti.\n\n— Kanalın yayınları, 14 Ekim'deki operasyonun ardından TMSF'nin kayyum olarak atanmasıyla durdurulmuştu.\n\n— İstanbul Cumhuriyet Başsavcılığı, Halk TV Yönetim Kurulu Başkanı Cafer Mahiroğlu hakkında rüşvet, ihaleye fesat karıştırma ve aklama suçlamalarıyla soruşturma yürütüyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/halk-tv-de-isten-cikarmalar-basladi-kayyum-yuzde-30-kuculmeye-gidiyor-745731"
-   ]
-  },
   {
    "id": "7b0c789cae",
    "post_id": "529346797199852_1464782175761490",
@@ -13492,6 +13501,21 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/igdirda-11-duzensiz-gocmen-yakalandi-1-supheli-gozaltinda-4872642",
     "Karar: https://www.karar.com/sehir-haberleri/edirnede-aracta-11-duzensiz-gocmen-yakalandi-organizator-gozaltinda-2084223"
    ]
+  },
+  {
+   "id": "80afe3fe29",
+   "post_id": "529346797199852_1469377801968594",
+   "title": "Uraloğlu açıkladı: Acil durumlarda bazı kara yolları İHA-SİHA pisti olacak",
+   "at": "2026-11-15T11:13:55.033734+00:00",
+   "yazim": "claude",
+   "metin": "Ulaştırma Bakanı Abdulkadir Uraloğlu, acil durumlarda kara yollarının İHA ve SİHA pistine dönüştürülmesi için:\n\n“Afet, acil durum ve olağanüstü lojistik operasyonlarda, mevcut kara yolu ağının insansız hava araçlarının iniş, kalkış ve konuşlanması amacıyla kullanılabilmesine yönelik çalışmalar yürütüyoruz.”\n\n— Fiziki standartları karşılayan 9 bin 562 yol kesiminden 52 tanesi potansiyel pist olarak belirlendi.\n\n— İlk uygulama Balıkesir-Manisa yolunda yapıldı ve AKINCI ile Bayraktar TB2 bu yolda iniş-kalkış denemesi yaptı.\n\n— Yol kenarında toplam 3 bin 600 metrekarelik üç park alanı oluşturuldu ve 5 bin 200 metre otokorkuluk söküldü.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/kara-yollarinin-iha-siha-pistleri-olacak/4125675",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/kara-yollari-iha-ve-sihalara-pist-olacak-963338.html",
+    "Habertürk: https://www.haberturk.com/ekonomi/karayollari-iha-siha-pisti-olacak-3927486",
+    "BirGün: https://www.birgun.net/haber/uraloglu-acikladi-acil-durumlarda-bazi-kara-yollari-iha-siha-pisti-olacak-746557",
+    "Diken: https://www.diken.com.tr/acil-durumda-52-karayolu-iha-siha-pisti-olacakmis/?utm_source=rss&utm_medium=rss&utm_campaign=acil-durumda-52-karayolu-iha-siha-pisti-olacakmis"
+   ]
   }
  ],
  "fails": {
@@ -13696,7 +13720,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2121919588073873898",
+   "since_id": "2121922370361499810",
    "started": true
   },
   "ajansmuhbir1923": {
