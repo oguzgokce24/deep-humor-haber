@@ -2,78 +2,6 @@
  "seen": [
   {
    "fp": [
-    "asgar",
-    "açıkl",
-    "ten",
-    "türk",
-    "ücret"
-   ],
-   "tok": [
-    "alını",
-    "asgar",
-    "aynen",
-    "ağar",
-    "başla",
-    "bekle",
-    "belir",
-    "beşer",
-    "bizim",
-    "değiş",
-    "doğru",
-    "durum",
-    "eleşt",
-    "emekl",
-    "emekç",
-    "genel",
-    "geçen",
-    "geçer",
-    "göre",
-    "görüş",
-    "henüz",
-    "hüküm",
-    "ilgil",
-    "ilişk",
-    "itira",
-    "işver",
-    "işçi",
-    "kaldı",
-    "karşı",
-    "katıl",
-    "komis",
-    "masay",
-    "mehme",
-    "memur",
-    "netle",
-    "oturm",
-    "oyçok",
-    "ramaz",
-    "sonun",
-    "sürüy",
-    "takvi",
-    "ten",
-    "tespi",
-    "topla",
-    "var",
-    "veril",
-    "yakın",
-    "yapıl",
-    "yapıs",
-    "yardı",
-    "yönel",
-    "yüzde",
-    "yıl",
-    "yılki",
-    "zammı",
-    "çalış",
-    "önces",
-    "ücret",
-    "üye",
-    "şimşe"
-   ],
-   "at": "2026-11-14T10:47:21.376507+00:00"
-  },
-  {
-   "fp": [
     "8",
     "almas",
     "ağır",
@@ -11369,20 +11297,59 @@
     "çocuk"
    ],
    "at": "2026-11-15T22:42:32.903804+00:00"
+  },
+  {
+   "fp": [
+    "17",
+    "aralı",
+    "açıkl",
+    "iddia",
+    "ilişk",
+    "inanı",
+    "kadir",
+    "mal",
+    "varlı",
+    "vasiy"
+   ],
+   "tok": [
+    "aralı",
+    "arkad",
+    "ayınd",
+    "açıla",
+    "banka",
+    "belir",
+    "bulun",
+    "bırak",
+    "dalam",
+    "gayri",
+    "hazir",
+    "hesap",
+    "iddia",
+    "ilişk",
+    "inanı",
+    "jülid",
+    "kadir",
+    "karşı",
+    "kural",
+    "mal",
+    "masra",
+    "nakit",
+    "oyunc",
+    "resmi",
+    "sattı",
+    "sürül",
+    "taki",
+    "tedav",
+    "ulus",
+    "varlı",
+    "vasiy",
+    "önces",
+    "öne"
+   ],
+   "at": "2026-11-15T22:55:07.212049+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "59811a5528",
-   "post_id": "529346797199852_1467966318776409",
-   "title": "HABAŞ işçisi Türk Metal’i yazdı: Müdürün yanında el pençe divan duruyorlar",
-   "at": "2026-11-13T23:55:31.595996+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Valiliği, kentte 14 Kasım Cumartesi öğle saatlerinden itibaren kuvvetli sağanak ve gök gürültülü yağış beklendiğini duyurdu.\n\n— Yağışların pazar sabahına kadar sürmesi bekleniyor.\n\n— Hafta sonu planı yapanlar yağmura hazırlıklı çıksın.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009399/habas-iscisi-turk-metal-i-yazdi-mudurun-yaninda-el-pence-divan-duruyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "bdfd3e70a6",
    "post_id": "529346797199852_1467973508775690",
@@ -13872,6 +13839,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kayip-olarak-araniyordu-cocuk-bicaklanmis-halde-bulundu-2556451",
     "Karar: https://www.karar.com/guncel-haberler/kayip-cocuk-bicaklanmis-halde-bulundu-2084295"
+   ]
+  },
+  {
+   "id": "712c12607d",
+   "post_id": "529346797199852_1469891008583940",
+   "title": "Vasiyeti 17 Aralık'ta açıklanacak: Kadir İnanır'ın mal varlığına ilişkin yeni iddialar",
+   "at": "2026-11-15T22:55:07.212049+00:00",
+   "yazim": "claude",
+   "metin": "Haziran'da hayatını kaybeden oyuncu Kadir İnanır'ın vasiyeti 17 Aralık'ta açılacak.\n\nVasiyet öncesinde, İnanır'ın banka hesaplarında 60 milyon TL nakit bulunduğu iddia edildi.\n\n— Tüm mal varlığını hayat arkadaşı Jülide Kural'a bıraktığı belirtiliyor.\n— Tedavi masraflarını karşılamak için Dalaman ve Ulus'taki gayrimenkullerini sattığı öne sürüldü.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/vasiyeti-17-aralik-ta-aciklanacak-kadir-inanir-in-mal-varligina-iliskin-yeni-iddialar-746624"
    ]
   }
  ],
