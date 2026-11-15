@@ -11440,6 +11440,65 @@
     "öne"
    ],
    "at": "2026-11-15T05:51:59.428121+00:00"
+  },
+  {
+   "fp": [
+    "ayfer",
+    "dayan",
+    "dijit",
+    "ferih",
+    "karşı",
+    "nujen",
+    "popül",
+    "rejim",
+    "sürek",
+    "ölçüm"
+   ],
+   "tok": [
+    "appea",
+    "ayfer",
+    "dayan",
+    "dijit",
+    "diken",
+    "ferih",
+    "first",
+    "karşı",
+    "nujen",
+    "popül",
+    "post",
+    "rejim",
+    "sürek",
+    "the",
+    "ölçüm"
+   ],
+   "at": "2026-11-15T06:08:01.536245+00:00"
+  },
+  {
+   "fp": [
+    "gezeg",
+    "olaca",
+    "perkt",
+    "umut"
+   ],
+   "tok": [
+    "appea",
+    "belki",
+    "biraz",
+    "değiş",
+    "diken",
+    "first",
+    "gerek",
+    "gezeg",
+    "linka",
+    "olaca",
+    "perkt",
+    "post",
+    "site",
+    "soruy",
+    "the",
+    "umut"
+   ],
+   "at": "2026-11-15T06:08:06.358458+00:00"
   }
  ],
  "posted": [
@@ -14072,21 +14131,10 @@
   "daced7b1ce": 1,
   "bdf49f3a26": 1,
   "c8bd939727": 1,
-  "9067377209": 2,
-  "313927486d": 1,
-  "ff329221f2": 2,
+  "313927486d": 2,
   "1400a0f95c": 1
  },
  "fail_log": [
-  "2026-11-15T04:43 Erdoğan faturayı kime kesecek? Anket sonuçlarından sonra Ank -> ValueError: yanıt okunamadı",
-  "2026-11-15T04:43 Erdoğan faturayı kime kesecek? Anket sonuçlarından sonra Ank -> ValueError: yanıt okunamadı",
-  "2026-11-15T04:43 Erdoğan faturayı kime kesecek? Anket sonuçlarından sonra Ank -> ValueError: yanıt okunamadı",
-  "2026-11-15T04:43 Kalbimizde yaşayacaksınız -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-15T04:56 AKP'de güç merkezleri çatırdıyor: Erdoğan bile bunu beklemiy -> ValueError: yanıt okunamadı",
-  "2026-11-15T04:56 AKP'de güç merkezleri çatırdıyor: Erdoğan bile bunu beklemiy -> ValueError: yanıt okunamadı",
-  "2026-11-15T04:56 AKP'de güç merkezleri çatırdıyor: Erdoğan bile bunu beklemiy -> ValueError: yanıt okunamadı",
-  "2026-11-15T04:56 Avrupa ülkesinden Türklere vize adımı: Sistem tamamen değişi -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-15T05:08 Bahreyn’de ikinci kez tehlike uyarısı: Halka güvenli yerlere -> ValueError: yanıt okunamadı",
   "2026-11-15T05:44 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
   "2026-11-15T05:44 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
   "2026-11-15T05:44 Nevşin Mengü: Korkunç şeyler kendi başlarına ne zaman gelece -> ValueError: yanıt okunamadı",
@@ -14117,7 +14165,16 @@
   "2026-11-15T06:04 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
   "2026-11-15T06:04 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
   "2026-11-15T06:04 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
-  "2026-11-15T06:04 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı"
+  "2026-11-15T06:04 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Ayfer Feriha Nujen: Dijital popülerlik, sürekli bir ölçüm ve -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Umut Perktaş: Gezegene ne olacak? -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı",
+  "2026-11-15T06:08 Gökçen Erdoğan: Kadın için uyku -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
