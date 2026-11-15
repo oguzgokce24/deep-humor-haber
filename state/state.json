@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bekle",
-    "bölüm",
-    "büyük",
-    "gök",
-    "gürül",
-    "hafta",
-    "istan",
-    "sağan",
-    "sonu",
-    "yağış",
-    "yurdu"
-   ],
-   "tok": [
-    "arala",
-    "bazı",
-    "bekle",
-    "bölüm",
-    "büyük",
-    "dahil",
-    "etkil",
-    "gök",
-    "görül",
-    "günü",
-    "gürül",
-    "hafta",
-    "hava",
-    "iller",
-    "itiba",
-    "meteo",
-    "olaca",
-    "olmas",
-    "pazar",
-    "saatl",
-    "sabah",
-    "sağan",
-    "sonu",
-    "tarih",
-    "uyard",
-    "uyarı",
-    "valil",
-    "veril",
-    "yarın",
-    "yağış",
-    "yurdu",
-    "öğle"
-   ],
-   "at": "2026-11-13T13:14:13.387613+00:00"
-  },
-  {
-   "fp": [
     "boğaz",
     "engel",
     "gemi",
@@ -12737,21 +12687,50 @@
     "şubat"
    ],
    "at": "2026-11-15T01:04:13.187246+00:00"
+  },
+  {
+   "fp": [
+    "eğird",
+    "gerek",
+    "gölü",
+    "kaldı",
+    "korum",
+    "nün",
+    "uzman",
+    "çağrı"
+   ],
+   "tok": [
+    "akp",
+    "alan",
+    "bilim",
+    "dayan",
+    "erdoğ",
+    "eğird",
+    "gerek",
+    "gölü",
+    "gölün",
+    "hassa",
+    "imzas",
+    "isted",
+    "istiy",
+    "kaldı",
+    "kamuo",
+    "karşı",
+    "kesin",
+    "korum",
+    "korun",
+    "kurum",
+    "nün",
+    "statü",
+    "tehli",
+    "uzman",
+    "vurgu",
+    "çağrı"
+   ],
+   "at": "2026-11-15T01:16:39.533800+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4f612514c3",
-   "post_id": "529346797199852_1464355735804134",
-   "title": "Kamboçya'da okul servisi gölete düştü: 5 öğrenci hayatını kaybetti, 21 öğrenci yaralı",
-   "at": "2026-11-10T17:55:51.044733+00:00",
-   "yazim": "claude",
-   "metin": "Kamboçya'nın Kandal eyaletinde okul servisi gölete düştü, 5 kız öğrenci hayatını kaybetti.\n\n— Kaza sabah saatlerinde oldu. Servisteki 26 öğrenciden 21'i yaralandı.\n— Yaralı öğrencilerden 3'ünün durumu ağır.\n— Polise göre servis şoförü 31 yaşındaki bir erkek ve gözaltına alındı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tufegin-uzerine-dustu-eski-muhtar-hayatini-kaybetti-2555149",
-    "Evrensel: https://www.evrensel.net/haber/6008850/kambocyada-okul-servisi-golete-dustu-5-ogrenci-hayatini-kaybetti-21-ogrenci-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "675e9cbc3d",
    "post_id": "529346797199852_1464367852469589",
@@ -15232,6 +15211,17 @@
    "metin": "Kastamonu'da eski MHP Belediye Başkanı'nın 24 yaşındaki kızının kullandığı araç, 15 yaşındaki bir kıza çarpmıştı. Ölümle sonuçlanan kazanın davasında ilk duruşma görüldü.\n\n— Kazadan 16 saat sonra hazırlanan bilirkişi raporu sürücüyü kusursuz, yayayı tam kusurlu buldu. Aile avukatı Gökhan Işık Ulutaş bu rapora itiraz ediyor.\n\n— Avukat Ulutaş, delillerin karartıldığını öne sürdü ve dosyanın İstanbul Teknik Üniversitesi'ne gönderilmesini istedi.\n\n— Savcılık tutuklama talebinin reddini ve yurt dışı çıkış yasağının sürmesini istedi. Mahkeme dosyayı İstanbul Adli Tıp Kurumu Genişletilmiş Kurul'a gönderdi.\n\n— Sanık tutuksuz yargılanıyor ve duruşmaya SEGBİS ile bağlandı. Sonraki duruşma 4 Şubat 2027'de görülecek.",
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/belediye-baskaninin-kizi-carpmisti-yagmur-pehlivanli-davasinda-ilk-durusma-goruldu-2556214"
+   ]
+  },
+  {
+   "id": "c64ee76dac",
+   "post_id": "529346797199852_1468989168674124",
+   "title": "Eğirdir Gölü'nün koruması kaldırıldı: Uzmanlardan gerekçe çağrısı",
+   "at": "2026-11-15T01:16:39.533800+00:00",
+   "yazim": "claude",
+   "metin": "Eğirdir Gölü'nün \"Kesin Korunacak Hassas Alan\" statüsü, Cumhurbaşkanı Erdoğan'ın imzasıyla kaldırıldı.\n\n— Uzmanlar, gölün kuruma tehlikesiyle karşı karşıya olduğunu vurguluyor.\n\n— Uzmanlar, kararın bilimsel dayanağının kamuoyuna açıklanmasını istiyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/egirdir-golu-nun-korumasi-kaldirildi-uzmanlardan-gerekce-cagrisi-746498"
    ]
   }
  ],
