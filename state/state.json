@@ -9332,21 +9332,98 @@
     "ölümü"
    ],
    "at": "2026-11-16T20:39:09.566601+00:00"
+  },
+  {
+   "fp": [
+    "abdul",
+    "dan",
+    "dursu",
+    "iddia",
+    "istif",
+    "kavuk",
+    "kumpa",
+    "mektu",
+    "özbek"
+   ],
+   "tok": [
+    "abdul",
+    "anlay",
+    "ardın",
+    "ayrıl",
+    "bazı",
+    "belir",
+    "birço",
+    "bunda",
+    "dan",
+    "deki",
+    "değil",
+    "dursu",
+    "düşün",
+    "ekim",
+    "eleşt",
+    "etmek",
+    "galat",
+    "gerek",
+    "giden",
+    "görev",
+    "hizme",
+    "iddia",
+    "ifade",
+    "iftir",
+    "ikinc",
+    "istif",
+    "kavuk",
+    "kendi",
+    "kez",
+    "kimi",
+    "koltu",
+    "kulla",
+    "kulüb",
+    "kumpa",
+    "kurdu",
+    "kurul",
+    "küfür",
+    "mektu",
+    "metin",
+    "mutla",
+    "neden",
+    "nun",
+    "olaca",
+    "olay",
+    "olmak",
+    "olmuş",
+    "organ",
+    "oturm",
+    "pozis",
+    "sözle",
+    "sürdü",
+    "sürec",
+    "takım",
+    "taraf",
+    "tartı",
+    "topla",
+    "vazge",
+    "veda",
+    "yanın",
+    "yaydı",
+    "yayım",
+    "yaşad",
+    "yönel",
+    "yönet",
+    "çevre",
+    "çıkar",
+    "öncel",
+    "öne",
+    "özbek",
+    "öztür",
+    "üyeli",
+    "ımıza",
+    "şahsi"
+   ],
+   "at": "2026-11-16T20:51:53.925993+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "03d284432e",
-   "post_id": "529346797199852_1468566385383069",
-   "title": "Son dakika! Sultangazi'de 2 İETT otobüsü çarpıştı: Polis ve sağlık ekipleri sevk edildi",
-   "at": "2026-11-14T14:31:37.384750+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Sultangazi ilçesinde iki İETT otobüsü birbirine çarptı.\n\nEsentepe Mahallesi'ne ihbar üzerine polis ve sağlık ekipleri sevk edildi. Ekipler olay yerinde müdahale etmeye devam ediyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/sultangazide-2-iett-otobusu-carpisti-3493192",
-    "Karar: https://www.karar.com/guncel-haberler/son-dakika-sultangazide-2-iett-otobusu-carpisti-polis-ve-saglik-2084144"
-   ]
-  },
   {
    "id": "d6c268ea7a",
    "post_id": "529346797199852_1468576182048756",
@@ -11891,6 +11968,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mattia-ahmet-minguzzi-nin-olumune-iliskin-tehdit-paylasimlari-yapan-supheli-tutuklandi-2556711",
     "Yeni Şafak: https://www.yenisafak.com/gundem/minguzzi-cinayeti-tehdit-paylasan-supheli-tutuklandi-4873197"
    ]
+  },
+  {
+   "id": "8789c9b30f",
+   "post_id": "529346797199852_1470817608491280",
+   "title": "Abdullah Kavukcu'dan Dursun Özbek'e olay sözler! Kumpas ve iftira iddiası",
+   "at": "2026-11-16T20:51:53.925993+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray'da yönetim kurulu üyeliği ve başkanvekilliği görevlerinden istifa eden Abdullah Kavukcu, istifa mektubunu yayımladı.\n\n— Mektupta Başkan Dursun Özbek'in yönetim anlayışını eleştirdi. Birçok kez istifayı düşündüğünü ama kulübün çıkarları için vazgeçtiğini söyledi.\n— Bazı çevrelerin kendisine yönelik \"kumpas\" kurduğunu ve \"organize iftiralar\" yaydığını öne sürdü.\n— 27 Ekim'deki yönetim kurulu toplantısının ardından İkinci Başkan Metin Öztürk ile yaşadığı tartışmada kullandığı küfürlü ifadeler, istifa kararlarına giden sürece neden olmuştu.\n\nKavukcu, \"Bu bir ayrılık, bir veda değildir. Galatasaray'ımıza hizmet etmek için mutlaka yönetici olmak, bir koltukta oturmak gerekmez\" dedi. Bundan sonra bir taraftar olarak takımın yanında olacağını belirtti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/abdullah-kavukcu-nun-istifa-mektubu-yayimlandi-sahsi-pozisyonlarini-onceleyen-kimi-cevreler-2556724",
+    "Evrensel: https://www.evrensel.net/haber/6009804/abdullah-kavukcu-dan-istifa-mektubu-dursun-ozbek-e-elestiri-ve-kumpas-iddiasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Sözcü Spor: https://www.sozcu.com.tr/abdullah-kavukcu-dan-dursun-ozbek-e-olay-sozler-kumpas-ve-iftira-iddiasi-p382017"
+   ]
   }
  ],
  "fails": {
@@ -12115,7 +12205,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122425556968861822",
+   "since_id": "2122430001844727853",
    "started": true
   },
   "ajansmuhbir1923": {
