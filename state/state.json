@@ -9357,21 +9357,105 @@
     "üyeli"
    ],
    "at": "2026-11-16T23:28:05.117347+00:00"
+  },
+  {
+   "fp": [
+    "alıp",
+    "atmay",
+    "aynı",
+    "garan",
+    "mahal",
+    "paran",
+    "paray",
+    "parça",
+    "servi",
+    "takıy",
+    "telef",
+    "yetki",
+    "çöpe"
+   ],
+   "tok": [
+    "alını",
+    "alıp",
+    "anaka",
+    "apple",
+    "arası",
+    "arıza",
+    "atmay",
+    "aynı",
+    "açabi",
+    "ağır",
+    "batar",
+    "başla",
+    "başlı",
+    "bilem",
+    "bin",
+    "bütçe",
+    "cihaz",
+    "den",
+    "değiş",
+    "duo",
+    "düşük",
+    "dışın",
+    "ekran",
+    "farkı",
+    "firma",
+    "fiyat",
+    "garan",
+    "gerek",
+    "iphon",
+    "ise",
+    "istiy",
+    "işlem",
+    "kalit",
+    "kalkt",
+    "kapsa",
+    "kayna",
+    "kesin",
+    "kulla",
+    "kısa",
+    "mahal",
+    "maliy",
+    "model",
+    "nered",
+    "nokta",
+    "olmad",
+    "olup",
+    "onarı",
+    "oriji",
+    "ortad",
+    "paran",
+    "paray",
+    "parça",
+    "patla",
+    "pil",
+    "pille",
+    "sanay",
+    "servi",
+    "sunar",
+    "süred",
+    "takıl",
+    "takıy",
+    "tamir",
+    "telef",
+    "vereb",
+    "yan",
+    "yangı",
+    "yanığ",
+    "yenil",
+    "yetki",
+    "yol",
+    "zarar",
+    "çöpe",
+    "özel",
+    "ücret",
+    "şişen",
+    "şişip"
+   ],
+   "at": "2026-11-16T23:40:43.950948+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bd80c80af0",
-   "post_id": "529346797199852_1468701862036188",
-   "title": "Sergen Yalçın'dan zaman vurgusu: 'Kısa sürede işler ne kadar değişebilir?'",
-   "at": "2026-11-14T17:20:54.897093+00:00",
-   "yazim": "claude",
-   "metin": "Sergen Yalçın, Fransa maçı öncesi:\n\n“Biraz sabırlı olmak lazım. Beklemek lazım. (...) 6 günlük sürede 2 maç var. Bu kadar kısa sürede işler ne kadar değişebilir?”\n\n— Milli takım, UEFA Uluslar A Ligi'nde yarın Fransa'ya konuk olacak.\n— Yalçın, grupta sağlıklı bir durumda olmadıklarını kabul etti ama takımın toparlanacağına inandığını söyledi.\n— Göreve yeni geldiğini, grubun ilk maçlarında kendisinin olmadığını hatırlattı.\n— Maçta beş-altı oyuncu değişikliği yapacağını ve farklı bir formasyonla oynayacaklarını belirtti.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/sergen-yalcin-dan-zaman-vurgusu-kisa-surede-isler-ne-kadar-degisebilir-2556162",
-    "Sözcü Spor: https://www.sozcu.com.tr/sergen-yalcindan-radikal-kararlar-kadronun-cogu-degisiyor-p381359"
-   ]
-  },
   {
    "id": "60bbcf97b1",
    "post_id": "529346797199852_1468711308701910",
@@ -11914,6 +11998,17 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6009823/kadem-ozbay-sendikamizin-bagimsizligini-korumak-icin-memuriyetten-ve-egitim-is-genel-baskanligi-ndan-istifa-ettim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "85d2c64971",
+   "post_id": "529346797199852_1470921848480856",
+   "title": "Paranızı çöpe atmayın: Mahalle telefoncuları, yetkili servislerle aynı parayı alıp garantisiz parça takıyor",
+   "at": "2026-11-16T23:40:43.950948+00:00",
+   "yazim": "claude",
+   "metin": "Mahalle telefoncuları, telefon tamirinde yetkili servislerle neredeyse aynı ücreti istiyor.\n\nApple cihazlarda pil yenileme yetkili servislerde 3 bin 879 TL'den başlıyor. Aynı cihazların ekran değişimi ise en az 8 bin 399 TL.\n\n— En yeni model iPhone Duo'da pil değişimi 13 bin 29 TL, ekran onarımı için ise 21 bin TL bütçe gerekiyor.\n— Yetkili servis dışında takılan parçaların orijinal olup olmadığını kullanıcılar kesin olarak bilemiyor.\n— Düşük maliyetli yan sanayi piller kısa sürede şişip anakarta zarar verebiliyor. Şişen ve kalitesiz piller ağır yanığa ve yangına yol açabiliyor.\n— Yetkili servislerdeki her tamir ve parça değişimi firma tarafından 6 ay garanti kapsamına alınıyor.",
+   "sources": [
+    "Karar: https://www.karar.com/teknoloji-haberleri/telefon-pil-degisimi-ne-kadar-ekran-tamiri-kac-tl-tutuyor-ozel-2084510"
+   ]
   }
  ],
  "fails": {
@@ -12096,7 +12191,6 @@
   "0ff0902932": 1
  },
  "fail_log": [
-  "2026-11-16T04:47 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı",
   "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
   "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
   "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
@@ -12135,7 +12229,8 @@
   "2026-11-16T23:04 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
   "2026-11-16T23:17 Kadem Özbay: Sendikamızın bağımsızlığını korumak için memuri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-16T23:17 Kadem Özbay: Sendikamızın bağımsızlığını korumak için memuri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-16T23:17 Kadem Özbay: Sendikamızın bağımsızlığını korumak için memuri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-16T23:17 Kadem Özbay: Sendikamızın bağımsızlığını korumak için memuri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-16T23:40 Paranızı çöpe atmayın: Mahalle telefoncuları, yetkili servis -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
