@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "6",
-    "fonda",
-    "genel",
-    "kazan",
-    "lira",
-    "milya",
-    "müdür",
-    "sağla",
-    "sigor",
-    "tutuk",
-    "türki",
-    "yardı"
-   ],
-   "tok": [
-    "alım",
-    "ardın",
-    "belir",
-    "bin",
-    "bölüm",
-    "denk",
-    "düşül",
-    "edile",
-    "elde",
-    "enfla",
-    "etkis",
-    "ettiğ",
-    "fon",
-    "fonda",
-    "fonla",
-    "gelen",
-    "genel",
-    "geri",
-    "gönül",
-    "görüş",
-    "hesap",
-    "iade",
-    "kapsa",
-    "kazan",
-    "liral",
-    "liray",
-    "milya",
-    "müdür",
-    "paray",
-    "satım",
-    "sağla",
-    "sigor",
-    "spk",
-    "süres",
-    "tasfi",
-    "tmsf",
-    "tutar",
-    "verdi",
-    "yakla",
-    "yardı",
-    "yatır",
-    "çıkar",
-    "şirke"
-   ],
-   "at": "2026-11-14T16:55:23.391436+00:00"
-  },
-  {
-   "fp": [
     "12",
     "etkil",
     "güzer",
@@ -11033,24 +10970,84 @@
     "zined"
    ],
    "at": "2026-11-16T04:51:30.115071+00:00"
+  },
+  {
+   "fp": [
+    "güven",
+    "israi",
+    "kabin",
+    "saldı",
+    "topla"
+   ],
+   "tok": [
+    "ana",
+    "araya",
+    "arayı",
+    "ayınd",
+    "ayını",
+    "batı",
+    "başba",
+    "başın",
+    "binya",
+    "birim",
+    "bulun",
+    "böyle",
+    "dair",
+    "daki",
+    "dan",
+    "dikka",
+    "durum",
+    "dışı",
+    "edile",
+    "ekim",
+    "filis",
+    "gazet",
+    "geldi",
+    "geçic",
+    "gölge",
+    "göre",
+    "günde",
+    "güven",
+    "güçle",
+    "hazır",
+    "herha",
+    "iddia",
+    "ilişk",
+    "iran",
+    "ise",
+    "israi",
+    "istih",
+    "kabin",
+    "karşı",
+    "kez",
+    "maari",
+    "masad",
+    "netan",
+    "nun",
+    "ofisi",
+    "ordu",
+    "ordus",
+    "resmi",
+    "senar",
+    "silah",
+    "sonuç",
+    "süreç",
+    "topla",
+    "yana",
+    "yapma",
+    "yasa",
+    "yazdı",
+    "yerle",
+    "yetki",
+    "yönel",
+    "çekti",
+    "çevir",
+    "şeria"
+   ],
+   "at": "2026-11-16T05:04:14.614343+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d9dea17b07",
-   "post_id": "529346797199852_1468167845422923",
-   "title": "Marmara’da gece yarısı depremi: Bursa açıklarında 3,9’luk sarsıntı",
-   "at": "2026-11-14T05:07:54.600825+00:00",
-   "yazim": "claude",
-   "metin": "Bursa'nın Mudanya ilçesi açıklarında, Gemlik Körfezi'nde 3,9 büyüklüğünde deprem oldu.\n\nSarsıntı gece saat 03.43'te meydana geldi ve AFAD'a göre 13,65 kilometre derinlikte gerçekleşti.\n\n— Merkez üssü Mudanya ilçesine 6,42 kilometre uzaklıkta belirlendi.\n— Deprem Bursa ve çevresinde hissedildi.\n— İlk bilgilere göre can kaybı ya da hasar bildirilmedi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-afad-duyurdu-marmara-denizinde-deprem-3493030",
-    "Sözcü: https://www.sozcu.com.tr/son-dakika-afad-duyurdu-bursa-da-gece-yarisi-korkutan-deprem-p381182",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/marmara-da-gece-yarisi-depremi-bursa-aciklarinda-3-9-luk-sarsinti-2556037",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/marmarada-gece-yarisi-korkutan-deprem-4872332",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/son-dakika-afad-duyurdu-bursa-da-gece-yarisi-korkutan-deprem-p381182"
-   ]
-  },
   {
    "id": "fc2cca0262",
    "post_id": "529346797199852_1468176938755347",
@@ -13539,6 +13536,18 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6009650/fransa-teknik-direktoru-zidane-dan-oz-elestiri-daha-iyi-yerlere-gelmemiz-lazim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "d6b4442beb",
+   "post_id": "529346797199852_1470115265228181",
+   "title": "İsrail Güvenlik Kabinesi toplandı: Netanyahu'dan yeni saldırı hazırlığı mı?",
+   "at": "2026-11-16T05:04:14.614343+00:00",
+   "yazim": "claude",
+   "metin": "İsrail'de Güvenlik Kabinesi, ekim ayından bu yana ilk kez toplandı. Geçici Başbakan Binyamin Netanyahu'nun İran'a yeni bir saldırı arayışında olduğu iddiaları gündemdeyken yapılan toplantı dikkat çekti.\n\n— Maariv gazetesi, toplantının ana gündeminin Batı Şeria'daki güvenlik durumu olduğunu yazdı.\n— Gazeteye göre, Filistin güçlerinin İsrail ordusuna ve yasa dışı yerleşim birimlerine karşı silah çevirebileceği senaryo da masada.\n— Ordu yetkilileri ise böyle bir saldırıya dair herhangi bir istihbarat bulunmadığını söyledi.\n— Başbakanlık Ofisi, toplantının sonuçlarına ilişkin resmi bir açıklama yapmadı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/israil-guvenlik-kabinesi-toplandi-netanyahu-dan-yeni-saldiri-hazirligi-mi-2556458",
+    "Evrensel: https://www.evrensel.net/haber/6009647/israil-guvenlik-kabinesi-iran-a-yeni-saldiri-iddialarinin-golgesinde-toplandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13716,7 +13725,6 @@
  },
  "fail_log": [
   "2026-11-16T01:37 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
-  "2026-11-16T01:37 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
   "2026-11-16T01:49 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
   "2026-11-16T01:49 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
   "2026-11-16T01:49 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
@@ -13754,7 +13762,8 @@
   "2026-11-16T04:47 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı",
   "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
   "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
-  "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı"
+  "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
+  "2026-11-16T05:04 İsrail Güvenlik Kabinesi toplandı: Netanyahu'dan yeni saldır -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle"
  ],
  "x": {
   "bpthaber": {
