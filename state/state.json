@@ -2,85 +2,6 @@
  "seen": [
   {
    "fp": [
-    "acil",
-    "durum",
-    "iha",
-    "kara",
-    "karay",
-    "olaca",
-    "pisti",
-    "siha",
-    "yolla"
-   ],
-   "tok": [
-    "abdul",
-    "acil",
-    "afet",
-    "akınc",
-    "alanı",
-    "altya",
-    "amacı",
-    "ağını",
-    "balık",
-    "bayra",
-    "bazı",
-    "belir",
-    "bildi",
-    "bin",
-    "denem",
-    "durum",
-    "dönüş",
-    "fizik",
-    "hava",
-    "iha",
-    "iniş",
-    "insan",
-    "kalkı",
-    "kara",
-    "karay",
-    "karşı",
-    "kenar",
-    "kesim",
-    "konuş",
-    "kulla",
-    "lara",
-    "lojis",
-    "manis",
-    "metre",
-    "mevcu",
-    "olaca",
-    "olağa",
-    "oluşt",
-    "otoko",
-    "otomo",
-    "park",
-    "pist",
-    "pisti",
-    "pistl",
-    "potan",
-    "siha",
-    "stand",
-    "sökül",
-    "tanes",
-    "tb2",
-    "topla",
-    "ulaşt",
-    "uralo",
-    "uygul",
-    "yapıl",
-    "yol",
-    "yolda",
-    "yolla",
-    "yolu",
-    "yolun",
-    "yönel",
-    "yürüt",
-    "çalış"
-   ],
-   "at": "2026-11-15T11:13:55.033734+00:00"
-  },
-  {
-   "fp": [
     "2",
     "4",
     "altay",
@@ -9409,20 +9330,46 @@
     "öne"
    ],
    "at": "2026-11-16T23:04:29.226185+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "göçme",
+    "kaçak",
+    "opera",
+    "tutuk"
+   ],
+   "tok": [
+    "adli",
+    "alına",
+    "birli",
+    "bodru",
+    "bırak",
+    "diğer",
+    "düzen",
+    "ege",
+    "ekipl",
+    "emniy",
+    "grup",
+    "göçme",
+    "güney",
+    "güven",
+    "ilçes",
+    "kaçak",
+    "komut",
+    "kontr",
+    "muğla",
+    "müdür",
+    "nın",
+    "sahil",
+    "serbe",
+    "yürüt",
+    "şartı"
+   ],
+   "at": "2026-11-16T23:17:19.359036+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2a2b338c95",
-   "post_id": "529346797199852_1468683402038034",
-   "title": "Genel müdür ve yardımcısı tutuklanmıştı: Türkiye Sigorta fondan 1.6 milyar lira kazanç sağlamış",
-   "at": "2026-11-14T16:55:23.391436+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye Sigorta, tasfiye edilen yatırım fonlarından elde ettiği yaklaşık 1,6 milyar lirayı TMSF'ye iade etti.\n\n— Genel müdürü ve yardımcısı tutuklanmıştı. Şirketin açıkladığı iade tutarı 1 milyar 599 milyon 887 bin 908 lira.\n— Kazanç, fon alım-satım kazancından yatırım süresine denk gelen enflasyon etkisi çıkarılarak hesaplandı.\n— Şirket, TMSF ve SPK ile yapılan görüşmelerin ardından bu parayı \"gönüllü iade\" kapsamında geri verdiğini belirtti.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009534/genel-mudur-ve-yardimcisi-tutuklanmisti-turkiye-sigorta-fondan-16-milyar-lira-kazanc-saglamis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "5e59713558",
    "post_id": "529346797199852_1468692712037103",
@@ -11966,6 +11913,18 @@
    "sources": [
     "Diken: https://www.diken.com.tr/180-milyon-dolarlik-van-gogh-tablosuna-itiraz-nazi-baskisiyla-satildi/?utm_source=rss&utm_medium=rss&utm_campaign=180-milyon-dolarlik-van-gogh-tablosuna-itiraz-nazi-baskisiyla-satildi"
    ]
+  },
+  {
+   "id": "12a9b8e532",
+   "post_id": "529346797199852_1470908328482208",
+   "title": "Göçmen kaçaklığı operasyonu: 6 kişi tutuklandı",
+   "at": "2026-11-16T23:17:19.359036+00:00",
+   "yazim": "claude",
+   "metin": "Muğla'nın Bodrum ilçesinde göçmen kaçakçılığı operasyonunda gözaltına alınan 10 şüpheliden 6'sı tutuklandı.\n\n— Operasyonu İl Emniyet Müdürlüğü ekipleri ile Sahil Güvenlik Güney Ege Grup Komutanlığı birlikte yürüttü.\n\n— Diğer 4 şüpheli adli kontrol şartıyla serbest bırakıldı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/bodrum-da-gocmen-kacakciligi-operasyonu-6-tutuklama-3927827",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gocmen-kacakligi-operasyonu-6-kisi-tutuklandi-2556748"
+   ]
   }
  ],
  "fails": {
@@ -12144,12 +12103,10 @@
   "f542882f0f": 1,
   "ae12fc1cab": 1,
   "7f15e1e7d8": 1,
-  "2c600c012c": 1
+  "2c600c012c": 1,
+  "0ff0902932": 1
  },
  "fail_log": [
-  "2026-11-16T04:47 Fransa Teknik Direktörü Zidane'dan öz eleştiri: Daha iyi yer -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-16T04:47 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı",
-  "2026-11-16T04:47 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı",
   "2026-11-16T04:47 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı",
   "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
   "2026-11-16T04:51 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
@@ -12186,7 +12143,10 @@
   "2026-11-16T22:51 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
   "2026-11-16T23:04 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
   "2026-11-16T23:04 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
-  "2026-11-16T23:04 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı"
+  "2026-11-16T23:04 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
+  "2026-11-16T23:17 Kadem Özbay: Sendikamızın bağımsızlığını korumak için memuri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-16T23:17 Kadem Özbay: Sendikamızın bağımsızlığını korumak için memuri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-16T23:17 Kadem Özbay: Sendikamızın bağımsızlığını korumak için memuri -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
