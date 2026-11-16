@@ -2,83 +2,6 @@
  "seen": [
   {
    "fp": [
-    "acı",
-    "yaşlı",
-    "çifti"
-   ],
-   "tok": [
-    "acı",
-    "adam",
-    "alına",
-    "bağlı",
-    "başla",
-    "belir",
-    "birka",
-    "bulun",
-    "camı",
-    "cenaz",
-    "değer",
-    "durul",
-    "ekipl",
-    "etkil",
-    "etmek",
-    "evde",
-    "evler",
-    "eşini",
-    "gazın",
-    "girdi",
-    "gitti",
-    "gören",
-    "gözüb",
-    "gün",
-    "günle",
-    "harek",
-    "hitit",
-    "ilgil",
-    "ilçes",
-    "içeri",
-    "kaldı",
-    "karbo",
-    "karı",
-    "kesin",
-    "koca",
-    "komşu",
-    "kontr",
-    "köyde",
-    "köyün",
-    "kırar",
-    "laçin",
-    "morgu",
-    "neden",
-    "olabi",
-    "olayl",
-    "otops",
-    "pence",
-    "sobad",
-    "sonu",
-    "süred",
-    "sızan",
-    "verdi",
-    "yapıl",
-    "yattı",
-    "yaşlı",
-    "yaşın",
-    "zehir",
-    "çift",
-    "çifti",
-    "çorum",
-    "öldüğ",
-    "ölmüş",
-    "ölüm",
-    "ölümü",
-    "ünive",
-    "üzere",
-    "üzeri"
-   ],
-   "at": "2026-11-14T14:57:05.478275+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "donba",
     "karşı",
@@ -11230,20 +11153,66 @@
     "ölümü"
    ],
    "at": "2026-11-16T02:52:02.568899+00:00"
+  },
+  {
+   "fp": [
+    "70",
+    "bakım",
+    "doğum",
+    "güven",
+    "güçle",
+    "kadın",
+    "kuruş",
+    "teşvi",
+    "var",
+    "yok"
+   ],
+   "tok": [
+    "aile",
+    "aynı",
+    "ayrıl",
+    "ağırl",
+    "bakım",
+    "bütçe",
+    "doğum",
+    "duydu",
+    "görün",
+    "günde",
+    "güven",
+    "güçle",
+    "hedef",
+    "hizme",
+    "ihtiy",
+    "iktid",
+    "ise",
+    "istih",
+    "kadın",
+    "kaldı",
+    "kayna",
+    "kreşl",
+    "kuruş",
+    "milya",
+    "mücad",
+    "odakl",
+    "planl",
+    "polit",
+    "progr",
+    "sınır",
+    "teşvi",
+    "var",
+    "yardı",
+    "yaşlı",
+    "yok",
+    "çıktı",
+    "çıkıy",
+    "öne",
+    "öngör",
+    "şidde"
+   ],
+   "at": "2026-11-16T03:04:41.838542+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a14091e4f7",
-   "post_id": "529346797199852_1468113048761736",
-   "title": "İklim Adaleti için yaşam savunucuları Antalya’da buluşuyor",
-   "at": "2026-11-14T03:43:33.617578+00:00",
-   "yazim": "claude",
-   "metin": "Antalya'da 15-17 Kasım'da Uluslararası İklim Adaleti Forumu düzenlenecek.\n\nForumda akademisyenler, hukukçular, gazeteciler, çevre örgütleri ve yaşam savunucuları bir araya gelecek.\n\n— Tartışılacak başlıklar arasında doğanın metalaştırılması ve şirketlerin ekolojik yıkımdaki rolü var.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/iklim-adaleti-icin-yasam-savunuculari-antalyada-bulusuyor-746337"
-   ]
-  },
   {
    "id": "6b7a9f999e",
    "post_id": "529346797199852_1468123025427405",
@@ -13737,6 +13706,17 @@
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/gazetecilerin-kaderi-biri-donmamak-icin-kirk-kat-giyindi-biri-kirk-fare-yakaladi-p381699"
    ]
+  },
+  {
+   "id": "795a4e1116",
+   "post_id": "529346797199852_1470037155235992",
+   "title": "Doğum teşviki var, bakım güvencesi yok: Kadına 70 kuruşluk güçlenme",
+   "at": "2026-11-16T03:04:41.838542+00:00",
+   "yazim": "claude",
+   "metin": "2027 bütçesinde doğum yardımlarına 84 milyar TL ayrılırken Kadının Güçlenmesi Programı için 11,1 milyar TL öngörülüyor.\n\n— Kreşlerden istihdama, yaşlı bakımından şiddetle mücadeleye kadar kadınların gündelik ihtiyaç duyduğu hizmetlerdeki hedefler ise sınırlı kaldı.\n\n— Bütçede aile ve doğum odaklı politikalar öne çıkıyor, ama bakım hizmetleri için aynı ağırlık görünmüyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/dogum-tesviki-var-bakim-guvencesi-yok-kadina-70-kurusluk-guclenme-746603"
+   ]
   }
  ],
  "fails": {
@@ -13910,8 +13890,6 @@
   "23ca368048": 1
  },
  "fail_log": [
-  "2026-11-15T22:09 Sergen Yalçın: Berke'nin performansı çok iyiydi. Böyle değer -> ValueError: yanıt okunamadı",
-  "2026-11-15T22:09 Sergen Yalçın: Berke'nin performansı çok iyiydi. Böyle değer -> ValueError: yanıt okunamadı",
   "2026-11-15T22:21 Berke Özer: \"Düştüğünde kim seninle beraber o önemli.\" -> ValueError: yanıt okunamadı",
   "2026-11-15T22:21 Berke Özer: \"Düştüğünde kim seninle beraber o önemli.\" -> ValueError: yanıt okunamadı",
   "2026-11-15T22:21 Berke Özer: \"Düştüğünde kim seninle beraber o önemli.\" -> ValueError: yanıt okunamadı",
@@ -13949,7 +13927,9 @@
   "2026-11-16T01:49 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
   "2026-11-16T02:52 Doğum teşviki var, bakım güvencesi yok: Kadına 70 kuruşluk g -> ValueError: yanıt okunamadı",
   "2026-11-16T02:52 Doğum teşviki var, bakım güvencesi yok: Kadına 70 kuruşluk g -> ValueError: yanıt okunamadı",
-  "2026-11-16T02:52 Doğum teşviki var, bakım güvencesi yok: Kadına 70 kuruşluk g -> ValueError: yanıt okunamadı"
+  "2026-11-16T02:52 Doğum teşviki var, bakım güvencesi yok: Kadına 70 kuruşluk g -> ValueError: yanıt okunamadı",
+  "2026-11-16T03:04 Doğum teşviki var, bakım güvencesi yok: Kadına 70 kuruşluk g -> ValueError: yanıt okunamadı",
+  "2026-11-16T03:04 Doğum teşviki var, bakım güvencesi yok: Kadına 70 kuruşluk g -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
