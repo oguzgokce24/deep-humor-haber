@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "diled",
-    "hacı",
-    "kasım",
-    "payla",
-    "tepki",
-    "yakış",
-    "yağmı",
-    "özür"
-   ],
-   "tok": [
-    "adım",
-    "arkad",
-    "atatü",
-    "attı",
-    "bile",
-    "büyük",
-    "cebir",
-    "dayat",
-    "deki",
-    "diled",
-    "diliy",
-    "duruş",
-    "gelmi",
-    "geri",
-    "görül",
-    "hacı",
-    "hiçbi",
-    "içten",
-    "kastı",
-    "kasım",
-    "kemal",
-    "kovul",
-    "kuruc",
-    "maksa",
-    "mesel",
-    "musta",
-    "nitel",
-    "olmas",
-    "payla",
-    "progr",
-    "savun",
-    "saygı",
-    "sonra",
-    "söyle",
-    "sözle",
-    "ten",
-    "tepki",
-    "tv100",
-    "vatan",
-    "veril",
-    "video",
-    "yakış",
-    "yanda",
-    "yanlı",
-    "yapma",
-    "yaptı",
-    "yağmı",
-    "çağrı",
-    "çeken",
-    "özür",
-    "şeyi"
-   ],
-   "at": "2026-11-14T18:11:04.190613+00:00"
-  },
-  {
-   "fp": [
     "akp",
     "açık",
     "açıkl",
@@ -10876,21 +10809,59 @@
     "şimdi"
    ],
    "at": "2026-11-16T06:06:52.321999+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "5",
+    "edirn",
+    "fabri",
+    "kaza",
+    "kişi",
+    "otomo",
+    "servi",
+    "yaral",
+    "çarpı",
+    "öldü"
+   ],
+   "tok": [
+    "ambul",
+    "bağlı",
+    "bulun",
+    "can",
+    "devle",
+    "edirn",
+    "ekipl",
+    "fabri",
+    "feci",
+    "geldi",
+    "hasta",
+    "işçi",
+    "kaldı",
+    "kaybı",
+    "köyü",
+    "meyda",
+    "minib",
+    "murat",
+    "musab",
+    "olay",
+    "otomo",
+    "sağlı",
+    "servi",
+    "sevk",
+    "sulta",
+    "tehli",
+    "yakın",
+    "yaşam",
+    "yerin",
+    "yitir",
+    "çarpı",
+    "öğren"
+   ],
+   "at": "2026-11-16T06:19:26.485797+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "aeac61b5e3",
-   "post_id": "529346797199852_1468202675419440",
-   "title": "Karabük merkezli 4 ilde dolandırıcılık operasyonu: 11 şüpheli yakalandı",
-   "at": "2026-11-14T06:01:09.499503+00:00",
-   "yazim": "claude",
-   "metin": "Karabük merkezli dolandırıcılık operasyonunda 11 şüpheli yakalandı. Şüphelilerin firmaları 55 milyon lira zarara uğrattıkları belirlendi.\n\n— Emniyet ekipleri Karabük, Ankara, İstanbul ve Bartın'da aynı anda baskın yaptı.\n— Nitelikli dolandırıcılık ve resmi belgede sahtecilik soruşturmasında gözaltına alınan şüpheliler adliyeye sevk edildi.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/firmalari-55-milyon-lira-dolandirdilar-4-ilde-operasyon-p381201",
-    "BirGün: https://www.birgun.net/haber/karabuk-merkezli-4-ilde-dolandiricilik-operasyonu-11-supheli-yakalandi-746374"
-   ]
-  },
   {
    "id": "ad1f4e2ec2",
    "post_id": "529346797199852_1468210855418622",
@@ -13379,6 +13350,22 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/kenyada-tarikat-liderine-191-kisinin-olumunden-200-yil-hapis-cezasi-963372.html",
     "Karar: https://www.karar.com/dunya-haberleri/kenyada-tarikat-liderine-191-kisinin-olumunden-200-yil-hapis-cezasi-2084315"
    ]
+  },
+  {
+   "id": "8c5c8a3782",
+   "post_id": "529346797199852_1470161611890213",
+   "title": "Edirne'de fabrika servisi ile otomobil çarpıştı: 2 kişi hayatını kaybetti, 5 işçi yaralandı",
+   "at": "2026-11-16T06:19:26.485797+00:00",
+   "yazim": "claude",
+   "metin": "Edirne'de fabrika servisi ile otomobil çarpıştı, otomobildeki 2 kişi hayatını kaybetti.\n\nKaza, Edirne merkeze bağlı Musabeyli köyü yakınlarında meydana geldi.\n\n— Çarpışmada servis minibüsündeki 5 işçi yaralandı.\n— Olay yerine jandarma ve sağlık ekipleri sevk edildi.\n— Yaralılar ambulanslarla Sultan 1. Murat Devlet Hastanesi'ne kaldırıldı ve hayati tehlikelerinin bulunmadığı öğrenildi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/edirnede-fabrika-servisiyle-otomobil-carpisti-2-kisi-oldu-5-kisi-yaralandi-7701512",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-fabrika-servisi-kaza-yapti-2-can-kaybi-3927586",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/edirne-de-feci-kaza-2-olu-5-yarali-2556466",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/edirnede-servis-ile-otomobil-carpisti-2-olu-5-yarali-4872831",
+    "Evrensel: https://www.evrensel.net/haber/6009653/edirne-de-fabrika-servisi-ile-otomobil-carpisti-2-kisi-hayatini-kaybetti-5-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/edirnede-fabrika-servisiyle-otomobil-carpisti-2-kisi-oldu-5-kisi-yaralandi-7701512"
+   ]
   }
  ],
  "fails": {
@@ -13600,7 +13587,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122209331517219322",
+   "since_id": "2122212286118961540",
    "started": true
   },
   "ajansmuhbir1923": {
