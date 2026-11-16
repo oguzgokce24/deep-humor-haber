@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "baskı",
-    "başka",
-    "görüş",
-    "iddia",
-    "ilçe",
-    "istif",
-    "müdür",
-    "sağlı"
-   ],
-   "tok": [
-    "akp",
-    "alına",
-    "alınd",
-    "amirl",
-    "baskı",
-    "bırak",
-    "deniz",
-    "değil",
-    "dokto",
-    "edilm",
-    "etmed",
-    "gerek",
-    "görev",
-    "görüş",
-    "hizme",
-    "iade",
-    "iddia",
-    "isted",
-    "istif",
-    "kabul",
-    "kurum",
-    "müdür",
-    "nün",
-    "parti",
-    "pazar",
-    "rahat",
-    "redde",
-    "rize",
-    "saltu",
-    "sağlı",
-    "sizle",
-    "süre",
-    "taleb",
-    "ziyar",
-    "zorla",
-    "çalış"
-   ],
-   "at": "2026-11-15T07:07:27.465498+00:00"
-  },
-  {
-   "fp": [
     "kökte",
     "nefre",
     "parti",
@@ -9303,21 +9251,84 @@
     "çöktü"
    ],
    "at": "2026-11-16T19:05:51.860612+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "cop31",
+    "halk",
+    "ortak",
+    "sağlı",
+    "verin",
+    "çağrı",
+    "öncel"
+   ],
+   "tok": [
+    "avust",
+    "aynı",
+    "açıyo",
+    "bin",
+    "biri",
+    "büyük",
+    "cape",
+    "cop31",
+    "dan",
+    "diken",
+    "direk",
+    "ekono",
+    "elekt",
+    "erken",
+    "etkil",
+    "fosil",
+    "fırsa",
+    "gelme",
+    "görüş",
+    "günde",
+    "halk",
+    "hava",
+    "iklim",
+    "inci",
+    "ini",
+    "iyile",
+    "kayna",
+    "kirli",
+    "konuş",
+    "kömür",
+    "leah",
+    "müzak",
+    "ortak",
+    "polit",
+    "post",
+    "sahib",
+    "sağlı",
+    "tempe",
+    "the",
+    "topla",
+    "uzakl",
+    "uzman",
+    "verin",
+    "verme",
+    "yakla",
+    "yakıt",
+    "yol",
+    "yürüt",
+    "yüzde",
+    "yüzyı",
+    "yılda",
+    "zirve",
+    "çağrı",
+    "çağır",
+    "ölümd",
+    "ölümü",
+    "öncel",
+    "ülken",
+    "üreti",
+    "şimdi"
+   ],
+   "at": "2026-11-16T19:18:31.862090+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9673766fa9",
-   "post_id": "529346797199852_1468496218723419",
-   "title": "Trafik magandasından kuryeye korkunç tehdit: 'Boğazını keseceğim'",
-   "at": "2026-11-14T13:03:34.742915+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Pendik'te bir otomobil sürücüsü, trafikte tartıştığı motokuryeyi bıçakla tehdit etti.\n\nOlay sabah saat 09.30 sıralarında D-100 Karayolu'nun Kaynarca Mahallesi'ndeki yan yolunda yaşandı. Sürücüler araçlarını yol kenarına çekip tartışmayı orada sürdürdü.\n\n— Taraflar karşılıklı küfürleşirken otomobil sürücüsü bıçağını çıkardı.\n— \"Senin boğazını keseceğim\" diyen sürücü, bıçağı motokuryeye gösterdi.\n— Tartışma ve tehdit anları motokuryenin kask kamerasına yansıdı.\n— Tartışmanın nedeni henüz bilinmiyor. Taraflar olay yerinden ayrıldı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/trafik-magandasindan-kuryeye-korkunc-tehdit-bogazini-kesecegim-p381314",
-    "Karar: https://www.karar.com/guncel-haberler/pendikte-trafikte-tartistigi-motokuryeyi-bicakla-tehdit-etti-senin-2084131"
-   ]
-  },
   {
    "id": "c03436196f",
    "post_id": "529346797199852_1468506335389074",
@@ -11858,6 +11869,17 @@
    "sources": [
     "NTV: https://www.ntv.com.tr/turkiye/abdde-bankalara-erisim-sorunu-1751180",
     "BPT (X): https://x.com/bpthaber/status/2122402805046518209"
+   ]
+  },
+  {
+   "id": "d090ec525c",
+   "post_id": "529346797199852_1470749535164754",
+   "title": "COP31 başkanlıklarına ortak çağrı: Halk sağlığına öncelik verin",
+   "at": "2026-11-16T19:18:31.862090+00:00",
+   "yazim": "claude",
+   "metin": "Uzmanlar, COP31'i yürütecek Türkiye ve Avustralya'yı iklim kararlarında halk sağlığına öncelik vermeye çağırdı.\n\n— Fosil yakıt kaynaklı hava kirliliği yılda 2,73 milyon kişinin ölümüne yol açıyor.\n— Türkiye'de aynı kirlilik 2024'te yaklaşık 26 bin 500 erken ölümde etkili oldu.\n— Türkiye elektriğinin yaklaşık yüzde 35'ini kömürden üretiyor.\n\nToplantıda konuşan CAPE Sağlık ve Ekonomi Politikaları Direktörü Dr. Leah Temper, sağlığın fosil yakıttan uzaklaşma görüşmelerinde şimdiye kadar gündeme gelmediğini söyledi.\n\nTemper:\n“Fosil yakıtlardan uzaklaşmak, 21'inci yüzyılda halk sağlığını iyileştirmek için en büyük fırsatlardan biri.”",
+   "sources": [
+    "Diken: https://www.diken.com.tr/cop31-baskanliklarina-ortak-cagri-halk-sagligina-oncelik-verin/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-baskanliklarina-ortak-cagri-halk-sagligina-oncelik-verin"
    ]
   }
  ],
