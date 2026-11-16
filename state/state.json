@@ -2,98 +2,6 @@
  "seen": [
   {
    "fp": [
-    "antal",
-    "cop31",
-    "iklim",
-    "yürüy"
-   ],
-   "tok": [
-    "adale",
-    "antal",
-    "arası",
-    "aydın",
-    "başla",
-    "buluş",
-    "burad",
-    "cop31",
-    "demok",
-    "dünya",
-    "düzen",
-    "emek",
-    "fosil",
-    "güçle",
-    "halkl",
-    "iklim",
-    "indi",
-    "kadın",
-    "kanza",
-    "kapsa",
-    "karşı",
-    "katıl",
-    "meyda",
-    "mitin",
-    "ndan",
-    "paral",
-    "parkı",
-    "savun",
-    "sloga",
-    "sürec",
-    "süreç",
-    "talep",
-    "top",
-    "toplu",
-    "yakıt",
-    "yapıl",
-    "yaşam",
-    "yurtt",
-    "yürüd",
-    "yürüy",
-    "zaman",
-    "zirve",
-    "çevre",
-    "çıktı",
-    "çıkış",
-    "öne",
-    "örgüt"
-   ],
-   "at": "2026-11-14T14:19:02.707036+00:00"
-  },
-  {
-   "fp": [
-    "2",
-    "iett",
-    "otobü",
-    "sulta",
-    "çarpı"
-   ],
-   "tok": [
-    "birbi",
-    "devam",
-    "ediyo",
-    "ekipl",
-    "esent",
-    "etmey",
-    "iett",
-    "ihbar",
-    "ilçes",
-    "kazay",
-    "mahal",
-    "müdah",
-    "nde",
-    "olay",
-    "otobü",
-    "sağlı",
-    "sevk",
-    "sulta",
-    "sürüy",
-    "yerin",
-    "çarpt",
-    "çarpı"
-   ],
-   "at": "2026-11-14T14:31:37.384750+00:00"
-  },
-  {
-   "fp": [
     "mahke",
     "nin",
     "rakı",
@@ -11243,20 +11151,65 @@
     "çıktı"
    ],
    "at": "2026-11-16T02:14:35.187881+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "300",
+    "batta",
+    "hafta",
+    "hazır",
+    "sarıl",
+    "soğuk",
+    "sınav",
+    "öğren"
+   ],
+   "tok": [
+    "anlat",
+    "arhav",
+    "artvi",
+    "batta",
+    "bağlı",
+    "başa",
+    "belir",
+    "ders",
+    "elekt",
+    "erişe",
+    "günal",
+    "hafta",
+    "hazır",
+    "ilçes",
+    "izin",
+    "kalan",
+    "kalor",
+    "kalıy",
+    "kulla",
+    "kyk",
+    "lütfü",
+    "nda",
+    "nedim",
+    "sarıl",
+    "soğuk",
+    "suya",
+    "sıcak",
+    "sınav",
+    "ulaşa",
+    "veril",
+    "vize",
+    "yakla",
+    "yanma",
+    "yurdu",
+    "yurtt",
+    "çalış",
+    "çıkma",
+    "öğren",
+    "ünive",
+    "ısıtı"
+   ],
+   "at": "2026-11-16T02:39:16.446291+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a4fb366d3d",
-   "post_id": "529346797199852_1468097185429989",
-   "title": "Koca Dünya prömiyerini yaptı: ‘Anonim’in ardındaki kadınların sesi",
-   "at": "2026-11-14T03:18:04.438216+00:00",
-   "yazim": "claude",
-   "metin": "Trabzon'un Tonya ilçesinde tarlada ve ahırda türkü yakan kadınların izini süren \"Koca Dünya\" belgeseli dünya prömiyerini Ankara Film Festivali'nde yaptı.\n\n— Belgesel, \"anonim\" sayılan türkülerin ardındaki kadın emeğini perdeye taşıyor.\n\n— Yönetmen Burcu Yeşilbaş, bu eserlerin kuşaklar boyunca aktarılan hafızasını da anlatıyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/koca-dunya-promiyerini-yapti-anonimin-ardindaki-kadinlarin-sesi-746363"
-   ]
-  },
   {
    "id": "d56558b188",
    "post_id": "529346797199852_1468105125429195",
@@ -13749,6 +13702,17 @@
    "metin": "KYK yurtlarında 928 manevi rehber çalışıyor, psikolog sayısı ise 445'te kaldı.\n\n— Tepkilerin ardından Gençlik ve Spor Bakanlığı, \"Manevi rehber sayısının korunacağını\" açıkladı.\n\n— Bakanlık, yurtlara 150 psikolog daha alınacağını bildirdi.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/kyk-de-ruh-sagligi-az-bilim-cok-maneviyat-746606"
+   ]
+  },
+  {
+   "id": "71ecb1aeb5",
+   "post_id": "529346797199852_1470020028571038",
+   "title": "Battaniyeye sarılıp sınava hazırlanıyorlar: 300 öğrenci 3 haftadır soğukta",
+   "at": "2026-11-16T02:39:16.446291+00:00",
+   "yazim": "claude",
+   "metin": "Artvin'in Arhavi ilçesindeki KYK yurdunda kalan yaklaşık 300 öğrenci, üç haftadır kaloriferlerin yanmadığı ve sıcak suya ulaşamadığı bir yurtta kalıyor.\n\n— Öğrenciler, vize haftasında battaniyelere sarılarak ders çalıştıklarını anlattı.\n\n— Yurtta elektrikli ısıtıcı kullanmalarına izin verilmediği için öğrenciler soğukla başa çıkmaya çalışıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/battaniyeye-sarilip-sinava-hazirlaniyorlar-300-ogrenci-3-haftadir-sogukta-746605"
    ]
   }
  ],
