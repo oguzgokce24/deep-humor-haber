@@ -2,81 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akan",
-    "alibe",
-    "atık",
-    "baraj",
-    "mahal",
-    "mavi",
-    "renkl",
-    "tedir"
-   ],
-   "tok": [
-    "akan",
-    "akmas",
-    "alarm",
-    "alibe",
-    "anlat",
-    "arıtı",
-    "atöly",
-    "atık",
-    "balık",
-    "baraj",
-    "belir",
-    "bulun",
-    "burad",
-    "bölge",
-    "cebec",
-    "den",
-    "ettiğ",
-    "fabri",
-    "geldi",
-    "gelen",
-    "göste",
-    "habib",
-    "habip",
-    "iski",
-    "istem",
-    "istiy",
-    "karış",
-    "kayna",
-    "kot",
-    "köyü",
-    "mahal",
-    "mavi",
-    "müdah",
-    "ndaki",
-    "ndeki",
-    "nin",
-    "renkl",
-    "sakin",
-    "sesle",
-    "sudan",
-    "sulam",
-    "sulta",
-    "suya",
-    "suyun",
-    "söylü",
-    "sürül",
-    "tarım",
-    "tedir",
-    "tehdi",
-    "tekst",
-    "tepki",
-    "tutul",
-    "var",
-    "yarar",
-    "yaşay",
-    "yetki",
-    "yıkam",
-    "yılla",
-    "öne",
-    "önlen"
-   ],
-   "at": "2026-11-15T07:55:32.610625+00:00"
-  },
-  {
-   "fp": [
     "bırak",
     "hurda",
     "otomo",
@@ -9370,22 +9295,67 @@
     "şöyle"
    ],
    "at": "2026-11-16T19:48:03.923292+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "banka",
+    "bazı",
+    "hizme",
+    "içi",
+    "kesin",
+    "yaşan",
+    "çevri"
+   ],
+   "tok": [
+    "abd",
+    "aksak",
+    "aksam",
+    "ameri",
+    "bank",
+    "banka",
+    "batma",
+    "battı",
+    "bayra",
+    "bazı",
+    "belir",
+    "betul",
+    "bildi",
+    "birli",
+    "bulga",
+    "chase",
+    "duyur",
+    "dönem",
+    "eklen",
+    "fargo",
+    "gemin",
+    "gemis",
+    "henüz",
+    "hizme",
+    "inter",
+    "içi",
+    "jpmor",
+    "katıl",
+    "kesin",
+    "kez",
+    "kurta",
+    "müret",
+    "neden",
+    "nun",
+    "roman",
+    "siste",
+    "somal",
+    "tehli",
+    "tekni",
+    "wells",
+    "yaşan",
+    "yük",
+    "çevri"
+   ],
+   "at": "2026-11-16T20:00:38.483860+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ddc68c6a2b",
-   "post_id": "529346797199852_1468525838720457",
-   "title": "9,6 milyon tarama: 376 bin kişi diyabetli çıktı",
-   "at": "2026-11-14T13:41:32.110129+00:00",
-   "yazim": "claude",
-   "metin": "Aile hekimleri bu yıl 9,6 milyon kişiyi taradı, 376 bin kişiye diyabet tanısı kondu.\n\n— Diyabet kontrol altına alınmazsa göz ve böbrek gibi organlarda kalıcı hasara yol açabiliyor. Bu yüzden tedavi ve kontrollerin aksatılmaması gerekiyor.\n\n— Dünyada 589 milyon yetişkin diyabetle yaşıyor. Diyabetli her 10 kişiden dördü hastalığından habersiz.\n\n— Sağlık Bakanlığı, hastaların hastalığı yönetmesini öğretmek için 291 diyabet okulu işletiyor. Bu yıl okullarda 50 binden fazla kişi eğitim aldı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/turkiyede-2026-yilinda-9-6-milyon-diyabet-taramasi-yapildi/4125065",
-    "TRT Haber: https://www.trthaber.com/haber/saglik/turkiyede-bu-yil-96-milyon-diyabet-taramasi-yapildi-963282.html",
-    "Diken: https://www.diken.com.tr/96-milyon-tarama-376-bin-kisi-diyabetli-cikti/?utm_source=rss&utm_medium=rss&utm_campaign=96-milyon-tarama-376-bin-kisi-diyabetli-cikti"
-   ]
-  },
   {
    "id": "390546a317",
    "post_id": "529346797199852_1468535552052819",
@@ -11923,6 +11893,19 @@
     "Habertürk: https://www.haberturk.com/dunya/5-ab-ulkesi-iltica-basvurulari-reddedilenleri-ruanda-ya-gonderecek-3927811",
     "Evrensel: https://www.evrensel.net/haber/6009796/5-ab-ulkesi-ruanda-da-multeciler-icin-toplama-kampi-planinda-uzlasti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "d93bf283ba",
+   "post_id": "529346797199852_1470778641828510",
+   "title": "ABD’de bu kez bankacılık sistemlerinde aksama: Üç bankanın internet hizmetlerinde kesinti",
+   "at": "2026-11-16T20:00:38.483860+00:00",
+   "yazim": "claude",
+   "metin": "Bulgaristan açıklarında batma tehlikesi geçiren Somali bayraklı BETUL 8 yük gemisindeki 12 Türk mürettebat kurtarıldı.\n\n— Kurtarma operasyonuna Türkiye, Bulgaristan ve Romanya birlikte katıldı.\n\n— Geminin neden battığı henüz belirlenemedi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-bildirildi/4127070",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-duyuruldu-963458.html",
+    "Evrensel: https://www.evrensel.net/haber/6009795/abd-de-bu-kez-bankacilik-sistemlerinde-aksama-uc-bankanin-internet-hizmetlerinde-kesinti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -12102,7 +12085,6 @@
   "ae12fc1cab": 1
  },
  "fail_log": [
-  "2026-11-16T04:40 Yavuz Baydar: Kemal bey Saray'a arzu ettiği sinyalleri gönde -> ValueError: yanıt okunamadı",
   "2026-11-16T04:40 Fatma Çelik: Her yıl küçülen bir gölün en yüksek koruma stat -> ValueError: yanıt okunamadı",
   "2026-11-16T04:40 Fatma Çelik: Her yıl küçülen bir gölün en yüksek koruma stat -> ValueError: yanıt okunamadı",
   "2026-11-16T04:40 Fatma Çelik: Her yıl küçülen bir gölün en yüksek koruma stat -> ValueError: yanıt okunamadı",
@@ -12141,7 +12123,8 @@
   "2026-11-16T16:17 İsrail Başbakanı Benyamin Netanyahu'ya muhalefetten \"darbe g -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-16T17:39 Milyonluk biletler, sorunlu zemin: Galatasaray RAMS Park'ı y -> ValueError: yanıt okunamadı",
   "2026-11-16T19:06 ABD'de bankalara erişim sorunu -> ValueError: yanıt okunamadı",
-  "2026-11-16T19:06 ABD'de bankalara erişim sorunu -> ValueError: yanıt okunamadı"
+  "2026-11-16T19:06 ABD'de bankalara erişim sorunu -> ValueError: yanıt okunamadı",
+  "2026-11-16T20:00 ABD’de bu kez bankacılık sistemlerinde aksama: Üç bankanın i -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
