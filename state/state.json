@@ -2,133 +2,6 @@
  "seen": [
   {
    "fp": [
-    "den",
-    "iller",
-    "kar",
-    "kuvve",
-    "meteo",
-    "rüzga",
-    "sağan",
-    "uyarı"
-   ],
-   "tok": [
-    "bastı",
-    "bazı",
-    "bekle",
-    "birço",
-    "bulac",
-    "bölge",
-    "den",
-    "doğu",
-    "ege",
-    "etkil",
-    "etkis",
-    "genel",
-    "göre",
-    "göste",
-    "günün",
-    "hafta",
-    "hava",
-    "hızı",
-    "hızın",
-    "ilişk",
-    "iller",
-    "kar",
-    "karad",
-    "kasım",
-    "kilom",
-    "kuvve",
-    "kuzey",
-    "kıyıl",
-    "marma",
-    "meteo",
-    "müdür",
-    "nin",
-    "pazar",
-    "rapor",
-    "rüzga",
-    "saatt",
-    "sağan",
-    "tahmi",
-    "uyard",
-    "uyarı",
-    "yayım",
-    "yağış",
-    "çıkac"
-   ],
-   "at": "2026-11-15T06:54:07.337537+00:00"
-  },
-  {
-   "fp": [
-    "altya",
-    "demir",
-    "enerj",
-    "liman",
-    "nın",
-    "rusya",
-    "ukray",
-    "vurdu",
-    "yolu"
-   ],
-   "tok": [
-    "aldığ",
-    "altya",
-    "alınd",
-    "amaçl",
-    "asker",
-    "ayrıc",
-    "belir",
-    "boyun",
-    "bölge",
-    "demir",
-    "deste",
-    "dnipr",
-    "duyur",
-    "düşür",
-    "enerj",
-    "ferib",
-    "gece",
-    "gemi",
-    "gemin",
-    "hava",
-    "hedef",
-    "iha",
-    "insan",
-    "istas",
-    "karad",
-    "kenti",
-    "kulla",
-    "liman",
-    "lojis",
-    "lokom",
-    "nda",
-    "nın",
-    "odess",
-    "ordus",
-    "otomo",
-    "rivne",
-    "rusya",
-    "savun",
-    "sının",
-    "taşıd",
-    "taşıy",
-    "termi",
-    "tesis",
-    "trafo",
-    "tren",
-    "ukray",
-    "uğrad",
-    "vurdu",
-    "vurul",
-    "yakın",
-    "yolu",
-    "yük",
-    "çorno"
-   ],
-   "at": "2026-11-15T06:54:22.895217+00:00"
-  },
-  {
-   "fp": [
     "akp",
     "baskı",
     "başka",
@@ -9392,21 +9265,47 @@
     "öğren"
    ],
    "at": "2026-11-16T18:53:10.434448+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "banka"
+   ],
+   "tok": [
+    "abd",
+    "ait",
+    "aktar",
+    "ameri",
+    "bank",
+    "banka",
+    "belir",
+    "bildi",
+    "birço",
+    "büyük",
+    "chase",
+    "cnbc",
+    "erişe",
+    "erişi",
+    "hizme",
+    "kulla",
+    "kötü",
+    "morga",
+    "müdah",
+    "niyet",
+    "olmad",
+    "sayıd",
+    "siste",
+    "sorun",
+    "teki",
+    "tekni",
+    "yaşan",
+    "yaşıy",
+    "çöktü"
+   ],
+   "at": "2026-11-16T19:05:51.860612+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "39c072b731",
-   "post_id": "529346797199852_1468485132057861",
-   "title": "ABD, 26 yılın ardından \"kızamığı tamamen ortadan kaldırmış ülke\" statüsünü kaybetti",
-   "at": "2026-11-14T12:50:57.948461+00:00",
-   "yazim": "claude",
-   "metin": "ABD, 26 yıl sonra kızamığı tamamen ortadan kaldırmış ülke statüsünü kaybetti.\n\nAşı tereddütleri ve düşen aşılama oranları yüzünden ülke, 2000'den beri koruduğu bu statüyü yitirdi. Karar, PAHO'ya bağlı bağımsız bir uzmanlar komisyonunun değerlendirmeleri etkili olunca alındı.\n\n— Utah'ta aynı kızamık virüsü bir yılı aşkın süredir dolaşıyor ve yüzlerce vakaya yol açtı.\n\n— Son iki yılda vakalarda, hastaneye yatışlarda ve ölümlerde rekor artış yaşandı. Yılın 5 bin 400'den fazla vakası, 1991'den bu yana en yüksek rakam oldu.\n\n— Kızamık aşısının iki dozu yüzde 97 koruma sağlıyor. Ancak uzmanlara göre bebekler, bağışıklığı zayıf olanlar ve hamileler büyük risk altında.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/abd-26-yilin-ardindan-kizamigi-tamamen-ortadan-kaldirmis-ulke-statusunu-kaybetti-963271.html",
-    "Karar: https://www.karar.com/dunya-haberleri/abd-26-yilin-ardindan-kizamigi-tamamen-ortadan-kaldirmis-ulke-statusunu-2084133"
-   ]
-  },
   {
    "id": "9673766fa9",
    "post_id": "529346797199852_1468496218723419",
@@ -11948,6 +11847,18 @@
     "Sözcü: https://www.sozcu.com.tr/candan-yuceer-akp-ye-mi-geciyor-p382008",
     "Karar: https://www.karar.com/guncel-haberler/candan-yuceerin-yeni-partisi-belli-oldu-persembe-rozet-takacak-2084473"
    ]
+  },
+  {
+   "id": "22a426da01",
+   "post_id": "529346797199852_1470741041832270",
+   "title": "ABD'de bankalara erişim sorunu",
+   "at": "2026-11-16T19:05:51.860612+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de JP Morgan Chase, Bank of America ve US Bank gibi birçok büyük bankaya erişim sorunu yaşanıyor.\n\n— Kullanıcılar bu bankaların hizmetlerine erişemediklerini bildiriyor.\n— CNBC, JP Morgan Chase'teki teknik sorunda kötü niyetli bir müdahale belirtisi olmadığını aktardı.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/abdde-bankalara-erisim-sorunu-1751180",
+    "BPT (X): https://x.com/bpthaber/status/2122402805046518209"
+   ]
   }
  ],
  "fails": {
@@ -12127,8 +12038,6 @@
  },
  "fail_log": [
   "2026-11-16T04:40 Yavuz Baydar: Kemal bey Saray'a arzu ettiği sinyalleri gönde -> ValueError: yanıt okunamadı",
-  "2026-11-16T04:40 Yavuz Baydar: Kemal bey Saray'a arzu ettiği sinyalleri gönde -> ValueError: yanıt okunamadı",
-  "2026-11-16T04:40 Yavuz Baydar: Kemal bey Saray'a arzu ettiği sinyalleri gönde -> ValueError: yanıt okunamadı",
   "2026-11-16T04:40 Fatma Çelik: Her yıl küçülen bir gölün en yüksek koruma stat -> ValueError: yanıt okunamadı",
   "2026-11-16T04:40 Fatma Çelik: Her yıl küçülen bir gölün en yüksek koruma stat -> ValueError: yanıt okunamadı",
   "2026-11-16T04:40 Fatma Çelik: Her yıl küçülen bir gölün en yüksek koruma stat -> ValueError: yanıt okunamadı",
@@ -12165,12 +12074,14 @@
   "2026-11-16T12:37 Arnavutköy'de uyuşturucu operasyonu: Kilolarca pregabalin ve -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-16T16:17 İsrail Başbakanı Benyamin Netanyahu'ya muhalefetten \"darbe g -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-16T16:17 İsrail Başbakanı Benyamin Netanyahu'ya muhalefetten \"darbe g -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-16T17:39 Milyonluk biletler, sorunlu zemin: Galatasaray RAMS Park'ı y -> ValueError: yanıt okunamadı"
+  "2026-11-16T17:39 Milyonluk biletler, sorunlu zemin: Galatasaray RAMS Park'ı y -> ValueError: yanıt okunamadı",
+  "2026-11-16T19:06 ABD'de bankalara erişim sorunu -> ValueError: yanıt okunamadı",
+  "2026-11-16T19:06 ABD'de bankalara erişim sorunu -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122399457736044983",
+   "since_id": "2122404342552510561",
    "started": true
   },
   "ajansmuhbir1923": {
