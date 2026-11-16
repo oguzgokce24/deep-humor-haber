@@ -10813,20 +10813,103 @@
     "çıkıy"
    ],
    "at": "2026-11-16T06:31:58.575924+00:00"
+  },
+  {
+   "fp": [
+    "16",
+    "2026",
+    "altın",
+    "başla",
+    "cumhu",
+    "düşüş",
+    "fiyat",
+    "gram",
+    "günce",
+    "güne",
+    "hafta",
+    "kasım",
+    "nasıl",
+    "çeyre"
+   ],
+   "tok": [
+    "abd",
+    "akary",
+    "altın",
+    "alış",
+    "aralı",
+    "artır",
+    "avro",
+    "ayınd",
+    "baz",
+    "başla",
+    "başın",
+    "bekle",
+    "benzi",
+    "bin",
+    "birli",
+    "bugün",
+    "cazip",
+    "civar",
+    "den",
+    "değer",
+    "durum",
+    "düşüş",
+    "enfla",
+    "etkis",
+    "faiz",
+    "faizi",
+    "faizl",
+    "fed",
+    "fiyat",
+    "geliy",
+    "getir",
+    "geçen",
+    "gram",
+    "gördü",
+    "günce",
+    "güne",
+    "günü",
+    "günün",
+    "güçle",
+    "hafta",
+    "hale",
+    "ihtim",
+    "ilişk",
+    "indir",
+    "ise",
+    "içind",
+    "işlem",
+    "kapal",
+    "kasım",
+    "kaç",
+    "lirad",
+    "lpg",
+    "motor",
+    "nasıl",
+    "olmay",
+    "ons",
+    "pazar",
+    "piyas",
+    "polit",
+    "puan",
+    "rakam",
+    "sabah",
+    "satıl",
+    "satış",
+    "sunul",
+    "var",
+    "yurt",
+    "yükse",
+    "yüzde",
+    "zam",
+    "çeyre",
+    "çıkma",
+    "üzeri"
+   ],
+   "at": "2026-11-16T06:44:35.318695+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ecea3b307c",
-   "post_id": "529346797199852_1468219215417786",
-   "title": "Evde 13 ekmekle başladı kendi fırınını açtı: Bandırma’da kadınların istihdam kapısı oldu!",
-   "at": "2026-11-14T06:26:35.579053+00:00",
-   "yazim": "claude",
-   "metin": "Balıkesir'in Bandırma ilçesinde bir kadın, evinin mutfağında başladığı ekmek üretimini kendi fırınına taşıdı ve 6 kadına iş imkânı sağladı.\n\n— Oğlunu kaybettikten sonra ailesine destek olmak için köy ekmeği yapmaya başlayan kadın, ilk ekmeklerini pazarda sattı.\n— 2012'de KOSGEB ve TKDK desteğiyle üretimini büyüttü, Edincik'te kendi profesyonel fırınını kurdu.\n— Bugün günde 700-750 ekmek kapasitesi olan fırında siyez, çavdar ve tam buğday gibi köy ekmekleri geleneksel yöntemlerle, toprak fırında pişiriliyor.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/evde-13-ekmekle-basladi-kendi-firinini-acti-bandirmada-kadinlarin-2084057"
-   ]
-  },
   {
    "id": "e92376702c",
    "post_id": "529346797199852_1468226575417050",
@@ -13322,6 +13405,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/denizlide-jeotermal-kaynak-ruhsat-sahalari-ihale-edilecek-4872841",
     "BirGün: https://www.birgun.net/haber/resmi-gazete-de-yayimlandi-6-jeotermal-saha-icin-ihale-karari-746649"
    ]
+  },
+  {
+   "id": "32a96a76f2",
+   "post_id": "529346797199852_1470177888555252",
+   "title": "Altın haftaya düşüşle başladı: Gram ve çeyrek altında son durum",
+   "at": "2026-11-16T06:44:35.318695+00:00",
+   "yazim": "claude",
+   "metin": "Ons altın, ABD'de enflasyonun beklentilerin üzerinde çıkmasıyla haftaya düşüşle başladı.\n\n— Ons altın geçen hafta yüzde 4,5 değer kaybetti. Pazartesi sabahı ons başına 3.873 dolar civarında işlem gördü.\n\n— Piyasalar, Fed'in aralık ayında faizi 25 baz puan artırma ihtimalini yüzde 92 olarak fiyatlıyor. Faiz getirisi olmayan altın, yüksek faizle birlikte daha az cazip hale geliyor.\n\nYurt içinde gram altın 6.277,04 TL, çeyrek altın ise 10.373 TL'den satılıyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/ekonomi/guncel-altin-fiyatlari-16-kasim-gram-altin-ceyrek-altin-cumhuriyet-ne-kadar-kac-tl-kapalicarsi-canli-altin-alis-satis-rakamlari-3493752",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlari-haftaya-dususle-basladi-gram-ceyrek-ve-cumhuriyet-altini-bugun-ne-kadar-oldu-guncel-altin-fiyatlari-16-kasim-2026-pazartesi-2556477",
+    "BirGün: https://www.birgun.net/haber/16-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-746644",
+    "Karar: https://www.karar.com/ekonomi-haberleri/altin-haftaya-dususle-basladi-gram-ve-ceyrek-altinda-son-durum-2084320",
+    "Diken: https://www.diken.com.tr/gram-altin-gune-nasil-basladi-16-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=gram-altin-gune-nasil-basladi-16-kasim-2026",
+    "Diken: https://www.diken.com.tr/dolar-ve-avro-gune-nasil-basladi-16-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dolar-ve-avro-gune-nasil-basladi-16-kasim-2026"
+   ]
   }
  ],
  "fails": {
@@ -13543,7 +13642,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122212286118961540",
+   "since_id": "2122219092358922685",
    "started": true
   },
   "ajansmuhbir1923": {
