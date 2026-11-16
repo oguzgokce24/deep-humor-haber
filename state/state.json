@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bahçe",
-    "dan",
-    "dervi",
-    "erhan",
-    "giren",
-    "göste",
-    "kolun",
-    "nin",
-    "tepki",
-    "usta"
-   ],
-   "tok": [
-    "aktar",
-    "anıtk",
-    "arkas",
-    "ayrıl",
-    "ağust",
-    "bahçe",
-    "belir",
-    "bunun",
-    "dan",
-    "deki",
-    "den",
-    "dervi",
-    "devam",
-    "değer",
-    "dikka",
-    "düşün",
-    "edece",
-    "ekim",
-    "eleşt",
-    "erhan",
-    "ettiğ",
-    "geldi",
-    "giren",
-    "girme",
-    "gördü",
-    "görün",
-    "göste",
-    "hatır",
-    "itira",
-    "iyi",
-    "kolun",
-    "müsav",
-    "neden",
-    "nin",
-    "nun",
-    "parti",
-    "selam",
-    "siyas",
-    "taban",
-    "tepki",
-    "terci",
-    "tören",
-    "usta",
-    "çekti"
-   ],
-   "at": "2026-11-14T14:06:26.736308+00:00"
-  },
-  {
-   "fp": [
     "antal",
     "cop31",
     "iklim",
@@ -11263,20 +11202,50 @@
     "şengü"
    ],
    "at": "2026-11-16T02:02:09.773328+00:00"
+  },
+  {
+   "fp": [
+    "bilim",
+    "kyk",
+    "manev",
+    "ruh",
+    "sağlı"
+   ],
+   "tok": [
+    "alına",
+    "ancak",
+    "ardın",
+    "bildi",
+    "bilim",
+    "edild",
+    "edile",
+    "gençl",
+    "ise",
+    "istih",
+    "itiba",
+    "kaldı",
+    "karşı",
+    "kasım",
+    "korun",
+    "kyk",
+    "manev",
+    "ortay",
+    "psiko",
+    "rehbe",
+    "ruh",
+    "sayıs",
+    "sağlı",
+    "spor",
+    "tepki",
+    "yalnı",
+    "yurtl",
+    "çalış",
+    "çıktı"
+   ],
+   "at": "2026-11-16T02:14:35.187881+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b47a607c3e",
-   "post_id": "529346797199852_1468088135430894",
-   "title": "Ateşkes kağıt üzerinde kaldı: ''Dünya bir hastaneyi korumaktan aciz''",
-   "at": "2026-11-14T03:05:26.432628+00:00",
-   "yazim": "claude",
-   "metin": "İsrail'in ateşkese rağmen Gazze'deki Nasır Hastanesi ve çadır kentlere yönelik saldırıları sürüyor, son iki günde 10 kişi daha hayatını kaybetti.\n\n— Gazze Sağlık Bakanlığı, uluslararası kamuoyunun sessizliğine tepki gösterdi.\n\n— F1 pilotu Lewis Hamilton, Refah Sınır Kapısı'nı ziyaret etti ve Gazze'ye yardımların engellendiğini duyurdu.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/ateskes-kagit-uzerinde-kaldi-dunya-bir-hastaneyi-korumaktan-aciz-746359"
-   ]
-  },
   {
    "id": "a4fb366d3d",
    "post_id": "529346797199852_1468097185429989",
@@ -13769,6 +13738,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/yeni-parti-yeni-yonetim-kadrosuna-sendikalardan-isimler-ekledi-parti-yonetimine-yeni-isimler-2556428",
     "BirGün: https://www.birgun.net/haber/yeni-parti-den-yeni-kadro-alaninda-uzman-isimler-listede-746612"
+   ]
+  },
+  {
+   "id": "8c7b8758e9",
+   "post_id": "529346797199852_1470003101906064",
+   "title": "KYK'de ruh sağlığı: Az bilim, çok maneviyat",
+   "at": "2026-11-16T02:14:35.187881+00:00",
+   "yazim": "claude",
+   "metin": "KYK yurtlarında 928 manevi rehber çalışıyor, psikolog sayısı ise 445'te kaldı.\n\n— Tepkilerin ardından Gençlik ve Spor Bakanlığı, \"Manevi rehber sayısının korunacağını\" açıkladı.\n\n— Bakanlık, yurtlara 150 psikolog daha alınacağını bildirdi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/kyk-de-ruh-sagligi-az-bilim-cok-maneviyat-746606"
    ]
   }
  ],
