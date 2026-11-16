@@ -10881,6 +10881,48 @@
     "yaşan"
    ],
    "at": "2026-11-16T04:27:28.984155+00:00"
+  },
+  {
+   "fp": [
+    "alper",
+    "biraz",
+    "bugün",
+    "değil",
+    "duran",
+    "emin",
+    "hâlâ",
+    "ragıp",
+    "sevin",
+    "sinem",
+    "varsa"
+   ],
+   "tok": [
+    "alper",
+    "biraz",
+    "bugün",
+    "değil",
+    "diken",
+    "duran",
+    "duruş",
+    "emin",
+    "festi",
+    "film",
+    "filmi",
+    "gerçe",
+    "göste",
+    "hâlâ",
+    "içere",
+    "post",
+    "ragıp",
+    "saygı",
+    "selan",
+    "sevin",
+    "sinem",
+    "the",
+    "ulusl",
+    "varsa"
+   ],
+   "at": "2026-11-16T04:47:52.063985+00:00"
   }
  ],
  "posted": [
@@ -13560,21 +13602,12 @@
   "669505996a": 2,
   "6f45478b33": 1,
   "23ca368048": 1,
-  "35d6fd0a1a": 2,
   "b383351442": 2,
   "d6c97c5899": 1,
-  "e380d9187a": 1
+  "e380d9187a": 2,
+  "8c940808b8": 1
  },
  "fail_log": [
-  "2026-11-16T00:39 5 yaşından beri ağır hastalıklar ve kazalar geçirdi, 36'sınd -> ValueError: yanıt okunamadı",
-  "2026-11-16T00:39 Gece yarısı yol kenarındaki çadırlarda yapılan yayınların gi -> ValueError: yanıt okunamadı",
-  "2026-11-16T00:39 Gece yarısı yol kenarındaki çadırlarda yapılan yayınların gi -> ValueError: yanıt okunamadı",
-  "2026-11-16T00:39 Gece yarısı yol kenarındaki çadırlarda yapılan yayınların gi -> ValueError: yanıt okunamadı",
-  "2026-11-16T00:39 Eczaneye koşmadan önce mutfağa bakın: Yeşil yapraklı sebzele -> ValueError: yanıt okunamadı",
-  "2026-11-16T00:39 Eczaneye koşmadan önce mutfağa bakın: Yeşil yapraklı sebzele -> ValueError: yanıt okunamadı",
-  "2026-11-16T00:39 Eczaneye koşmadan önce mutfağa bakın: Yeşil yapraklı sebzele -> ValueError: yanıt okunamadı",
-  "2026-11-16T01:24 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
-  "2026-11-16T01:24 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
   "2026-11-16T01:24 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
   "2026-11-16T01:24 Fon skandalı, KOBİ’leri de vurdu: ‘Piyasadaki para birden yo -> ValueError: yanıt okunamadı",
   "2026-11-16T01:37 Emekli Büyükelçi Ceylan: 'Mekke Anlaşması’nın ikinci maddesi -> ValueError: yanıt okunamadı",
@@ -13605,7 +13638,16 @@
   "2026-11-16T04:43 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı",
   "2026-11-16T04:43 Yavuz Baydar: Kemal bey Saray'a arzu ettiği sinyalleri gönde -> ValueError: yanıt okunamadı",
   "2026-11-16T04:43 Yavuz Baydar: Kemal bey Saray'a arzu ettiği sinyalleri gönde -> ValueError: yanıt okunamadı",
-  "2026-11-16T04:43 Yavuz Baydar: Kemal bey Saray'a arzu ettiği sinyalleri gönde -> ValueError: yanıt okunamadı"
+  "2026-11-16T04:43 Yavuz Baydar: Kemal bey Saray'a arzu ettiği sinyalleri gönde -> ValueError: yanıt okunamadı",
+  "2026-11-16T04:47 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
+  "2026-11-16T04:47 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
+  "2026-11-16T04:47 Dizi sektöründe maliyet ve reklam krizi: Bölüm süreleri kısa -> ValueError: yanıt okunamadı",
+  "2026-11-16T04:47 Fransa Teknik Direktörü Zidane'dan öz eleştiri: Daha iyi yer -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-16T04:47 Fransa Teknik Direktörü Zidane'dan öz eleştiri: Daha iyi yer -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-16T04:47 Fransa Teknik Direktörü Zidane'dan öz eleştiri: Daha iyi yer -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-16T04:47 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı",
+  "2026-11-16T04:47 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı",
+  "2026-11-16T04:47 Ragıp Duran: Bugün hâlâ Emin Alper gibi sinemacılar varsa se -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
