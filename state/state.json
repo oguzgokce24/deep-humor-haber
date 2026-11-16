@@ -2,53 +2,6 @@
  "seen": [
   {
    "fp": [
-    "haval",
-    "istan",
-    "konse",
-    "kutul",
-    "nda",
-    "uyuşt",
-    "çıktı"
-   ],
-   "tok": [
-    "adliy",
-    "alınd",
-    "arama",
-    "ardın",
-    "başsa",
-    "bildi",
-    "bulun",
-    "düzen",
-    "edile",
-    "emniy",
-    "esrar",
-    "gazio",
-    "gizle",
-    "gram",
-    "haval",
-    "incel",
-    "içind",
-    "işlem",
-    "kilo",
-    "kilol",
-    "konse",
-    "konul",
-    "kutul",
-    "nda",
-    "nın",
-    "para",
-    "sevk",
-    "telef",
-    "tunus",
-    "uyruk",
-    "uyuşt",
-    "çıktı",
-    "üzeri"
-   ],
-   "at": "2026-11-14T23:29:58.491493+00:00"
-  },
-  {
-   "fp": [
     "frans",
     "kişi",
     "sokak"
@@ -10144,21 +10097,68 @@
     "şartı"
    ],
    "at": "2026-11-16T11:20:21.371973+00:00"
+  },
+  {
+   "fp": [
+    "agbad",
+    "beşik",
+    "dan",
+    "emman",
+    "kötü"
+   ],
+   "tok": [
+    "afrik",
+    "agbad",
+    "amacı",
+    "ayrıl",
+    "beşik",
+    "bulun",
+    "bölge",
+    "dan",
+    "diz",
+    "duyur",
+    "dönec",
+    "dönme",
+    "ekibi",
+    "eleme",
+    "emman",
+    "feder",
+    "fildi",
+    "forma",
+    "gambi",
+    "giyem",
+    "gözet",
+    "izin",
+    "kampt",
+    "kampı",
+    "kasım",
+    "kupas",
+    "kötü",
+    "maçın",
+    "milli",
+    "nda",
+    "neden",
+    "nun",
+    "oynan",
+    "oyunc",
+    "rahat",
+    "sahil",
+    "sakat",
+    "savun",
+    "sağlı",
+    "sürec",
+    "takım",
+    "tedav",
+    "tedbi",
+    "ulusl",
+    "uyluk",
+    "verdi",
+    "şoku"
+   ],
+   "at": "2026-11-16T11:32:55.191596+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "48fa4c859d",
-   "post_id": "529346797199852_1468307242075650",
-   "title": "Çankırı’da trafik kazası: Baba ile 9 yaşındaki kızı hayatını kaybetti",
-   "at": "2026-11-14T08:40:02.648176+00:00",
-   "yazim": "claude",
-   "metin": "Çankırı'da bariyere çarpan hafif ticari araçtaki baba ile 9 yaşındaki kızı hayatını kaybetti.\n\nKaza, D-100 kara yolunun Çavundur mevkisinde, sürücünün direksiyon hâkimiyetini kaybetmesi sonucu oldu.\n\nOlay yerine gelen ekipler, 39 yaşındaki sürücü ile kızının orada hayatını kaybettiğini belirledi.\n\nAraçta bulunan 37 yaşındaki anne ağır yaralandı. İtfaiye ekipleri onu sıkıştığı araçtan çıkardı ve ambulansla Çankırı Devlet Hastanesi'ne kaldırıldı. Kazayla ilgili inceleme başlatıldı.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009442/cankiri-da-trafik-kazasi-baba-ile-9-yasindaki-kizi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/guncel-haberler/ailece-yolculuk-faciayla-bitti-baba-ve-kizi-hayatini-kaybetti-anne-agir-2084078"
-   ]
-  },
   {
    "id": "dc6072ecf5",
    "post_id": "529346797199852_1468314735408234",
@@ -12674,6 +12674,22 @@
     "NTV: https://www.ntv.com.tr/turkiye/kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacinmasi-kabul-edilemez-1751116",
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-numan-kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacinmasi-kabul-edilemez-3927646"
    ]
+  },
+  {
+   "id": "b180cbaebc",
+   "post_id": "529346797199852_1470375295202178",
+   "title": "Federasyon resmen duyurdu... Emmanuel Agbadou'dan Beşiktaş'a kötü haber",
+   "at": "2026-11-16T11:32:55.191596+00:00",
+   "yazim": "claude",
+   "metin": "Beşiktaş'ın savunmacısı Emmanuel Agbadou, uyluk ve diz bölgesindeki rahatsızlık nedeniyle Fildişi Sahili milli takım kampından ayrıldı.\n\n— Federasyon, tedbir amacıyla Türkiye'ye dönmesine izin verdi. Tedavisi Beşiktaş sağlık ekibinin gözetiminde sürecek.\n— Oyuncu, 17 Kasım'da Gambiya ile oynanacak 2027 Afrika Uluslar Kupası eleme maçında forma giyemeyecek.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/besiktasa-afrikadan-sakatlik-soku-agbadou-milli-kamptan-ayrildi-3493937",
+    "Habertürk: https://www.haberturk.com/spor/besiktas-a-agbadou-dan-kotu-haber-3927661",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/federasyon-resmen-duyurdu-emmanuel-agbadou-dan-besiktas-a-kotu-haber-2556546",
+    "Evrensel: https://www.evrensel.net/haber/6009722/besiktas-a-agbadou-dan-kotu-haber-milli-takim-kampindan-ayrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/emmanuel-agbadou-dan-besiktasa-kotu-haber-746723",
+    "Karar: https://www.karar.com/spor-haberleri/besiktasa-emmanuel-agbadoudan-kotu-haber-2084375"
+   ]
   }
  ],
  "fails": {
@@ -12896,7 +12912,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122282367331029152",
+   "since_id": "2122290065107714209",
    "started": true
   },
   "ajansmuhbir1923": {
