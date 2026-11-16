@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "parti",
-    "seçim"
-   ],
-   "tok": [
-    "akp",
-    "aldı",
-    "alırk",
-    "anket",
-    "arası",
-    "araşt",
-    "butla",
-    "chp",
-    "danış",
-    "dem",
-    "fark",
-    "genel",
-    "gerid",
-    "ise",
-    "kaldı",
-    "mutla",
-    "nin",
-    "oranı",
-    "parti",
-    "puan",
-    "puand",
-    "seçim",
-    "sırad",
-    "yapıl",
-    "ydk",
-    "yer",
-    "yönet",
-    "yüzde",
-    "çıktı",
-    "ölçül",
-    "öne",
-    "üçünc"
-   ],
-   "at": "2026-11-15T09:44:25.186328+00:00"
-  },
-  {
-   "fp": [
     "abdul",
     "adaml",
     "den",
@@ -9341,21 +9300,77 @@
     "şahse"
    ],
    "at": "2026-11-16T21:41:33.497081+00:00"
+  },
+  {
+   "fp": [
+    "görüş",
+    "katıl",
+    "rusya",
+    "trump",
+    "ukray"
+   ],
+   "tok": [
+    "alaca",
+    "anlaş",
+    "arası",
+    "ardın",
+    "ateşk",
+    "barış",
+    "başla",
+    "belir",
+    "brüks",
+    "bölüm",
+    "davra",
+    "deki",
+    "donba",
+    "dışiş",
+    "fidan",
+    "garan",
+    "gerek",
+    "geçic",
+    "göre",
+    "görüş",
+    "güven",
+    "hakan",
+    "hattı",
+    "henüz",
+    "ise",
+    "istiy",
+    "kalan",
+    "kalıc",
+    "karad",
+    "katıl",
+    "kiev",
+    "kontr",
+    "konud",
+    "konuş",
+    "mosko",
+    "olmad",
+    "redde",
+    "rusya",
+    "sert",
+    "sevki",
+    "seyrü",
+    "statü",
+    "sürdü",
+    "tahıl",
+    "taraf",
+    "temas",
+    "temel",
+    "topla",
+    "topra",
+    "trump",
+    "ukray",
+    "uzlaş",
+    "vazge",
+    "yanaş",
+    "yenid",
+    "yönün"
+   ],
+   "at": "2026-11-16T21:54:04.949646+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "204f478dee",
-   "post_id": "529346797199852_1468620648710976",
-   "title": "Reuters duyurdu: Trump, Erdoğan'la görüşmesinin ardından iran'a saldırıları erteledi",
-   "at": "2026-11-14T15:34:51.178603+00:00",
-   "yazim": "claude",
-   "metin": "ABD Başkanı Donald Trump, Erdoğan'ın da çağrıda bulunduğu İran saldırılarını ertelemeyi değerlendiriyor.\n\n— Trump, son iki haftada Erdoğan ve Suudi Arabistan Veliaht Prensi Muhammed bin Selman ile telefonda görüştü. İki lider de saldırıların yeniden başlatılmamasını istedi.\n\n— Bin Selman'a göre İran'a uygulanan ekonomik yaptırımlar sonuç vermeye başladı, bu yüzden askeri müdahale yerine baskının sürdürülmesini önerdi.\n\n— Trump, iki liderin çağrılarına ilişkin kesin bir taahhütte bulunmadı.\n\n— Buna rağmen ABD ordusu olası bir operasyon için hazırlıklarını sürdürüyor ve üçüncü bir uçak gemisinin Orta Doğu'ya gönderilmesi planlanıyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/dunya/abd-basini-duyurdu-trumpin-iran-planinda-erdogan-ve-korfez-liderleri-etkisi-3493203",
-    "Karar: https://www.karar.com/dunya-haberleri/reuters-duyurdu-trump-erdoganla-gorusmesinin-ardindan-irana-saldirilari-2084138"
-   ]
-  },
   {
    "id": "cc76d7be7e",
    "post_id": "529346797199852_1468630768709964",
@@ -11901,6 +11916,19 @@
    "metin": "Donald Trump, İran dronlarının kendisini hedef almasından endişe edip etmediği sorulunca:\n\n“Ben senin için endişeleniyorum. Çünkü beni öldürürlerse sen de bittin demektir.”\n\n— Sözleri, İran'ın dronlarıyla kendisini hedef alma ihtimaline dair bir soruya verdiği yanıttı.",
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2122441906345193701"
+   ]
+  },
+  {
+   "id": "69645365fb",
+   "post_id": "529346797199852_1470859505153757",
+   "title": "Fidan: Rusya-Ukrayna barış görüşmelerinde temel anlaşmazlık Donbas",
+   "at": "2026-11-16T21:54:04.949646+00:00",
+   "yazim": "claude",
+   "metin": "Dışişleri Bakanı Hakan Fidan, Rusya ile Ukrayna arasındaki barış görüşmelerinde temel anlaşmazlığın Donbas'ın statüsü olduğunu söyledi.\n\n— Brüksel'deki toplantının ardından konuşan Fidan'a göre taraflar bu konuda henüz uzlaşamadı. Moskova, Donbas'ın Ukrayna kontrolünde kalan bölümünü istiyor; Kiev ise bu topraktan vazgeçmeyi reddediyor.\n— Fidan, ateşkesin, temas hattının ve tarafların alacağı güvenlik garantilerinin de belirlenmesi gerektiğini söyledi.\n— Türkiye, Karadeniz'de seyrüsefer güvenliği ve tahıl sevkiyatının yeniden başlaması için Moskova ve Kiev ile görüşmelerini sürdürüyor.\n— Fidan'a göre Rusya, kalıcı bir barış anlaşması olmadan Karadeniz'de geçici bir anlaşmaya yanaşmıyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/rusya-trumpin-ukraynada-daha-sert-davranabilecegimiz-yonundeki-gorusune-katiliyoruz/4127106",
+    "Habertürk: https://www.haberturk.com/dunya/rusya-trump-in-ukrayna-da-daha-sert-davranabilecegimiz-yonundeki-gorusune-katiliyoruz-3927818",
+    "Evrensel: https://www.evrensel.net/haber/6009812/fidan-rusya-ukrayna-baris-gorusmelerinde-temel-anlasmazlik-donbas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
