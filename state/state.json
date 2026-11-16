@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakım",
-    "başla",
-    "evde",
-    "hesap",
-    "yardı",
-    "yatır",
-    "ödeme"
-   ],
-   "tok": [
-    "aile",
-    "ailel",
-    "ailes",
-    "aylık",
-    "ayı",
-    "bakıl",
-    "bakım",
-    "bağım",
-    "başla",
-    "başın",
-    "beri",
-    "bildi",
-    "bin",
-    "birey",
-    "birli",
-    "dan",
-    "deste",
-    "duyur",
-    "engel",
-    "evde",
-    "evler",
-    "gökta",
-    "hak",
-    "hesap",
-    "hizme",
-    "kalab",
-    "kapsa",
-    "kasım",
-    "liral",
-    "mahin",
-    "milya",
-    "progr",
-    "sahib",
-    "sahip",
-    "sağla",
-    "sosya",
-    "tam",
-    "topla",
-    "ulaşm",
-    "uygul",
-    "yarar",
-    "yardı",
-    "yatır",
-    "yönel",
-    "ödeme",
-    "ödeni",
-    "özdem"
-   ],
-   "at": "2026-11-15T08:20:49.403387+00:00"
-  },
-  {
-   "fp": [
     "akom",
     "fırtı",
     "gök",
@@ -9332,21 +9271,79 @@
     "şirke"
    ],
    "at": "2026-11-16T20:13:48.676573+00:00"
+  },
+  {
+   "fp": [
+    "7",
+    "fon",
+    "soruş",
+    "taleb",
+    "tutuk",
+    "şüphe"
+   ],
+   "tok": [
+    "adli",
+    "adliy",
+    "aile",
+    "alına",
+    "ardın",
+    "ayınd",
+    "betül",
+    "büyüy",
+    "ceza",
+    "cezae",
+    "cinay",
+    "epste",
+    "eski",
+    "etme",
+    "eylül",
+    "fatma",
+    "fon",
+    "fonu",
+    "fotoğ",
+    "geliş",
+    "geri",
+    "getir",
+    "gönde",
+    "hakim",
+    "ilişk",
+    "isiml",
+    "istem",
+    "isten",
+    "itiba",
+    "işlem",
+    "kalan",
+    "kasım",
+    "kaya",
+    "kişid",
+    "kontr",
+    "konuş",
+    "krizi",
+    "nın",
+    "otops",
+    "piyas",
+    "polit",
+    "sayan",
+    "sayıs",
+    "serma",
+    "sevk",
+    "sosya",
+    "spk",
+    "sulh",
+    "taleb",
+    "talep",
+    "tasfi",
+    "ulaşt",
+    "vurgu",
+    "yürüt",
+    "yürüy",
+    "yıl",
+    "ölümü"
+   ],
+   "at": "2026-11-16T20:26:16.338613+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3605a2f3b0",
-   "post_id": "529346797199852_1468546258718415",
-   "title": "Bahçeli’nin koluna giren Dervişoğlu’na tepki göstermişti: Erhan Usta’dan yeni açıklama",
-   "at": "2026-11-14T14:06:26.736308+00:00",
-   "yazim": "claude",
-   "metin": "İYİ Partili Erhan Usta, Dervişoğlu'nun Bahçeli'nin koluna girmesini eleştirdiği açıklamalarının arkasında olduğunu söyledi.\n\n— Usta, Anıtkabir'deki 29 Ekim töreninde gördüğü bu görüntüyü \"siyasi bir tercih\" olarak değerlendirip itiraz ettiğini belirtti.\n\n— Dervişoğlu'nun 30 Ağustos'ta Bahçeli ile selamlaşmadığını da hatırlatan Usta, bunun partideki tabanın da dikkatini çektiğini söyledi.\n\n— Usta, İYİ Parti'den ayrılmayı düşünmediğini, partide siyasete devam edeceğini açıkladı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/bahceli-nin-koluna-giren-dervisoglu-na-tepki-gostermisti-iyi-partili-erhan-usta-dan-yeni-aciklama-geldi-2556127",
-    "BirGün: https://www.birgun.net/haber/bahcelinin-koluna-giren-dervisogluna-tepki-gostermisti-erhan-ustadan-yeni-aciklama-746462"
-   ]
-  },
   {
    "id": "3e5fc9988a",
    "post_id": "529346797199852_1468555888717452",
@@ -11883,6 +11880,22 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2122419917328707730"
    ]
+  },
+  {
+   "id": "785428c5b2",
+   "post_id": "529346797199852_1470797708493270",
+   "title": "Fon soruşturmasında yeni gelişme: 7 şüpheliye tutuklama talebi",
+   "at": "2026-11-16T20:26:16.338613+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da fon soruşturmasında gözaltına alınan 26 kişiden 7'si için tutuklama talep edildi.\n\n— Geri kalan 19 şüpheli için adli kontrol istendi. Tüm şüpheliler sulh ceza hakimliğine sevk edildi.\n\n— Soruşturmada 16 Kasım itibarıyla tutuklu sayısı 123'e ulaştı.\n\n— Soruşturma, Eylül ayında SPK'nın 131 fonu tasfiye etme kararının ardından büyüyen fon krizinden sonra yürüyor. En çok konuşulan isimlerden eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya, 6 Kasım'da cezaevine gönderilmişti.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-1751184",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-7-tutuklama-3927815",
+    "Sözcü: https://www.sozcu.com.tr/fon-sorusturmasinda-7-supheliye-tutuklama-talebi-p382027",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-7-supheliye-tutuklama-talebi-2556730",
+    "Evrensel: https://www.evrensel.net/haber/6009802/fon-vurgunu-sorusturmasi-7-kisi-icin-tutuklama-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/dunya-haberleri/epsteinin-olumunde-7-yil-sonra-yeni-gelisme-otopsi-fotograflarinda-2084489"
+   ]
   }
  ],
  "fails": {
@@ -12107,7 +12120,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122422332153307217",
+   "since_id": "2122425556968861822",
    "started": true
   },
   "ajansmuhbir1923": {
