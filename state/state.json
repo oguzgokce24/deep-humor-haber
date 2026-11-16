@@ -2,75 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bırak",
-    "hurda",
-    "otomo",
-    "sokağ"
-   ],
-   "tok": [
-    "alanl",
-    "açık",
-    "başta",
-    "belir",
-    "bin",
-    "birli",
-    "büyük",
-    "bırak",
-    "ceza",
-    "cezas",
-    "denet",
-    "durum",
-    "dönüş",
-    "edilm",
-    "ekipl",
-    "elver",
-    "geliy",
-    "geri",
-    "geçti",
-    "gizle",
-    "gönde",
-    "güven",
-    "harek",
-    "hurda",
-    "idari",
-    "isted",
-    "kaldı",
-    "kamuy",
-    "karşı",
-    "kesil",
-    "kollu",
-    "kulla",
-    "mülkl",
-    "olmak",
-    "oluşt",
-    "otomo",
-    "para",
-    "parça",
-    "patla",
-    "sokak",
-    "sokağ",
-    "sorun",
-    "sıkla",
-    "talim",
-    "terk",
-    "topla",
-    "uygul",
-    "uyuşt",
-    "valil",
-    "vatan",
-    "yangı",
-    "zabıt",
-    "çalış",
-    "çevre",
-    "çıkar",
-    "özel",
-    "üzere",
-    "şikây"
-   ],
-   "at": "2026-11-15T08:08:06.915403+00:00"
-  },
-  {
-   "fp": [
     "bakım",
     "başla",
     "evde",
@@ -9353,22 +9284,57 @@
     "çevri"
    ],
    "at": "2026-11-16T20:00:38.483860+00:00"
+  },
+  {
+   "fp": [
+    "aylar",
+    "ceo",
+    "devre",
+    "dolar",
+    "etmed",
+    "hisse",
+    "huang",
+    "istif",
+    "jense",
+    "kuruc",
+    "lukta",
+    "milya",
+    "miras",
+    "nvidi",
+    "nın",
+    "ortay",
+    "çıktı"
+   ],
+   "tok": [
+    "aylar",
+    "ayrıl",
+    "bırak",
+    "ceo",
+    "devre",
+    "devri",
+    "etmed",
+    "görev",
+    "hisse",
+    "https",
+    "huang",
+    "istif",
+    "jense",
+    "kuruc",
+    "lud1b",
+    "lukta",
+    "milya",
+    "miras",
+    "nvidi",
+    "nın",
+    "ortay",
+    "yapıl",
+    "çıktı",
+    "şirke"
+   ],
+   "at": "2026-11-16T20:13:48.676573+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "390546a317",
-   "post_id": "529346797199852_1468535552052819",
-   "title": "AB’den İsrail’e çağrı: Gazze’ye insani yardımın derhal önü açılsın",
-   "at": "2026-11-14T13:53:46.089461+00:00",
-   "yazim": "claude",
-   "metin": "AB, İsrail'i Gazze'nin sınır kapılarını açmaya ve yardımın engelsiz girmesine izin vermeye çağırdı.\n\n— Şiddetli sel ve kış koşulları Gazze'deki insani durumu daha da ağırlaştırıyor.\n— AB, Nasır Hastanesi'ne yönelik son hava saldırısını \"derinden kaygı verici\" olarak nitelendirdi.\n— Birlik, ateşkesin ilanının üzerinden bir yıl geçmesine rağmen askeri saldırıların sürdüğüne ve barınak, ilaç ve tıbbi ekipmanın eksik kaldığına dikkat çekti.\n— AB ayrıca Hamas'ın Gazze'nin gelecekteki yönetiminde rol almaması gerektiğini belirtti.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/ab-israile-gazzeye-insani-yardimlarin-ulastirilmasi-ve-sinir-kapilarinin-acilmasi-cagrisinda-bulundu/4125171",
-    "Euronews: https://tr.euronews.com/2026/11/14/abden-israile-cagri-gazzeye-insani-yardimin-derhal-onu-acilsin",
-    "Evrensel: https://www.evrensel.net/haber/6009502/ab-den-israil-e-gazze-de-sinir-kapilarini-acma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "3605a2f3b0",
    "post_id": "529346797199852_1468546258718415",
@@ -11906,6 +11872,17 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-duyuruldu-963458.html",
     "Evrensel: https://www.evrensel.net/haber/6009795/abd-de-bu-kez-bankacilik-sistemlerinde-aksama-uc-bankanin-internet-hizmetlerinde-kesinti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "03d0272e6c",
+   "post_id": "529346797199852_1470786521827722",
+   "title": "Nvidia'nın kurucusu Jensen Huang'ın, CEO'luktan istifa etmeden aylar önce milyarlarca dolarlık Nvidia hissesini mirasçılarına devrettiği ortaya çıktı.",
+   "at": "2026-11-16T20:13:48.676573+00:00",
+   "yazim": "claude",
+   "metin": "Nvidia'nın kurucusu Jensen Huang, milyarlarca dolarlık Nvidia hissesini CEO görevinden ayrılmadan aylar önce mirasçılarına devretmiş.\n\nHisse devri, Huang'ın şirketteki CEO görevini bırakmasından aylar önce yapıldı.",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2122419917328707730"
+   ]
   }
  ],
  "fails": {
@@ -12082,7 +12059,8 @@
   "8c940808b8": 1,
   "f3dd38ce17": 1,
   "f542882f0f": 1,
-  "ae12fc1cab": 1
+  "ae12fc1cab": 1,
+  "7f15e1e7d8": 1
  },
  "fail_log": [
   "2026-11-16T04:40 Fatma Çelik: Her yıl küçülen bir gölün en yüksek koruma stat -> ValueError: yanıt okunamadı",
@@ -12129,7 +12107,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122414999507222643",
+   "since_id": "2122422332153307217",
    "started": true
   },
   "ajansmuhbir1923": {
