@@ -2,62 +2,6 @@
  "seen": [
   {
    "fp": [
-    "trabz",
-    "zenit"
-   ],
-   "tok": [
-    "ahmet",
-    "alper",
-    "alıyo",
-    "ara",
-    "arada",
-    "arena",
-    "ağırl",
-    "bitir",
-    "cemil",
-    "direk",
-    "futbo",
-    "fırsa",
-    "fırtı",
-    "gazpr",
-    "genç",
-    "gitti",
-    "güren",
-    "hazır",
-    "isiml",
-    "kadro",
-    "kafil",
-    "kamp",
-    "karşı",
-    "kişil",
-    "lakot",
-    "maç",
-    "maça",
-    "maçta",
-    "mert",
-    "milli",
-    "murat",
-    "oynan",
-    "oynay",
-    "peter",
-    "reis",
-    "rusya",
-    "saat",
-    "tekni",
-    "temsi",
-    "thoma",
-    "trabz",
-    "verdi",
-    "yarın",
-    "yer",
-    "zenit",
-    "çakır",
-    "özel"
-   ],
-   "at": "2026-11-14T11:53:30.471882+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "cop31",
     "den",
@@ -11382,20 +11326,66 @@
     "şekil"
    ],
    "at": "2026-11-15T23:48:01.187636+00:00"
+  },
+  {
+   "fp": [
+    "aldık",
+    "arabi",
+    "finan",
+    "haval",
+    "hedef",
+    "husil",
+    "merke",
+    "petro",
+    "suudi",
+    "tesis"
+   ],
+   "tok": [
+    "aldık",
+    "arabi",
+    "asker",
+    "aynı",
+    "balis",
+    "batı",
+    "bilin",
+    "boru",
+    "daki",
+    "doğu",
+    "duyur",
+    "ekled",
+    "finan",
+    "füze",
+    "füzey",
+    "halid",
+    "hattı",
+    "hava",
+    "haval",
+    "hedef",
+    "husil",
+    "iha",
+    "insan",
+    "istas",
+    "kenti",
+    "kral",
+    "numar",
+    "otomo",
+    "petro",
+    "pompa",
+    "riyad",
+    "seri",
+    "suudi",
+    "sözcü",
+    "tesis",
+    "ulusl",
+    "vurdu",
+    "yahya",
+    "yani",
+    "üzeri"
+   ],
+   "at": "2026-11-16T00:00:35.136796+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "200caea2ef",
-   "post_id": "529346797199852_1468004085439299",
-   "title": "Tohumu yok serada yetişemiyor: Kilosu 2.000 TL’den Araplar kapış kapış alıyor!",
-   "at": "2026-11-14T00:57:27.155707+00:00",
-   "yazim": "claude",
-   "metin": "Bu sezon kilosu 2.000 TL'ye ulaşan domalan mantarını, iç piyasaya inmeden Arap alıcılar kapış kapış alıyor.\n\n— Domalan yapay olarak üretilemiyor. Yağmurla birleşen yıldırım azotu sayesinde doğada kendiliğinden yetişiyor.\n\n— Alıcılar mantarı kırmızı file çuvallarla alıyor. Gözenekli file torbalar mantarın hava alarak tazeliğini korumasına yardımcı oluyor.\n\n— Uzmanlar, yüksek fiyata uyarak mantar toplamaya çıkanları domalana benzeyen zehirli mantarlara karşı uyarıyor.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/tohumu-yok-serada-yetisemiyor-kilosu-2-000-tlden-araplar-kapis-kapis-2084039"
-   ]
-  },
   {
    "id": "f924b6bc71",
    "post_id": "529346797199852_1468033248769716",
@@ -13886,6 +13876,18 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/otomobil-camina-neden-200-tl-birakiliyor-yeni-arac-hirsizligi-tuzagi-2084294"
    ]
+  },
+  {
+   "id": "2095409ca9",
+   "post_id": "529346797199852_1469925645247143",
+   "title": "Husiler: Suudi Arabistan'da havalimanı, finans merkezi ve petrol tesislerini hedef aldık",
+   "at": "2026-11-16T00:00:35.136796+00:00",
+   "yazim": "claude",
+   "metin": "Husiler, Suudi Arabistan'ın Riyad kentindeki havalimanı ve finans merkezini füzeyle vurduklarını açıkladı.\n\nHusilerin askeri sözcüsü Yahya Seri, Kral Halid Uluslararası Havalimanı ile finans merkezine 2 balistik füzeyle saldırdıklarını söyledi.\n\nAynı saldırılarda Doğu-Batı boru hattı, yani \"Petroline\" üzerindeki 5 ve 6 numaralı petrol pompa istasyonlarını da 2 insansız hava aracıyla vurduklarını ekledi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/husiler-suudi-arabistan-da-havalimani-finans-merkezi-ve-petrol-tesislerini-hedef-aldik-746622",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/husiler-duyurdu-suudi-arabistanda-havalimani-finans-merkezi-ve-petrol-tesislerini-hedef-aldik-43379569"
+   ]
   }
  ],
  "fails": {
@@ -14056,7 +14058,6 @@
   "8c5ce52590": 1
  },
  "fail_log": [
-  "2026-11-15T14:46 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
   "2026-11-15T14:59 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
   "2026-11-15T14:59 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
   "2026-11-15T14:59 Fransa'da havai fişek satışları yasaklandı -> ValueError: yanıt okunamadı",
@@ -14095,7 +14096,8 @@
   "2026-11-15T22:21 Berke Özer: \"Düştüğünde kim seninle beraber o önemli.\" -> ValueError: yanıt okunamadı",
   "2026-11-15T22:21 Berke Özer: \"Düştüğünde kim seninle beraber o önemli.\" -> ValueError: yanıt okunamadı",
   "2026-11-15T23:07 Önceki sürümden 2,5 kat hızlı: Google Gemini 4 Hydrogen herk -> ValueError: yanıt okunamadı",
-  "2026-11-15T23:33 Apple TV 4K alanlara kötü haber: RAM kapasitesi iki katına ç -> ValueError: yanıt okunamadı"
+  "2026-11-15T23:33 Apple TV 4K alanlara kötü haber: RAM kapasitesi iki katına ç -> ValueError: yanıt okunamadı",
+  "2026-11-16T00:00 Husiler: Suudi Arabistan'da havalimanı, finans merkezi ve pe -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
