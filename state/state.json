@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "4",
-    "altay",
-    "bozul",
-    "cezas",
-    "fatih",
-    "hapis",
-    "veril",
-    "yıl"
-   ],
-   "tok": [
-    "adliy",
-    "altay",
-    "aralı",
-    "aylık",
-    "başsa",
-    "boyu",
-    "bozul",
-    "bulun",
-    "bölge",
-    "ceza",
-    "cezae",
-    "cezas",
-    "dair",
-    "daire",
-    "değer",
-    "dosya",
-    "edilm",
-    "erdoğ",
-    "etmey",
-    "fatih",
-    "gazet",
-    "geri",
-    "gönde",
-    "gün",
-    "hapis",
-    "ilgil",
-    "incel",
-    "itira",
-    "kaldı",
-    "kalma",
-    "kurul",
-    "muhat",
-    "neden",
-    "nın",
-    "olmad",
-    "recep",
-    "suçla",
-    "sözle",
-    "tahli",
-    "tayyi",
-    "tedir",
-    "tehdi",
-    "veril",
-    "yargı",
-    "yayın",
-    "yenid",
-    "yeter",
-    "youtu",
-    "yönel",
-    "yıl",
-    "ömür",
-    "üzere"
-   ],
-   "at": "2026-11-15T11:26:28.444898+00:00"
-  },
-  {
-   "fp": [
     "bırak",
     "polik",
     "rekor",
@@ -9367,21 +9299,67 @@
     "şartı"
    ],
    "at": "2026-11-16T23:17:19.359036+00:00"
+  },
+  {
+   "fp": [
+    "bağım",
+    "başka",
+    "ettim",
+    "eğiti",
+    "genel",
+    "istif",
+    "kadem",
+    "korum",
+    "memur",
+    "ndan",
+    "sendi",
+    "özbay"
+   ],
+   "tok": [
+    "amacı",
+    "arka",
+    "atama",
+    "bahçe",
+    "bağım",
+    "bekle",
+    "belir",
+    "değil",
+    "emekl",
+    "eski",
+    "ettim",
+    "ettiğ",
+    "eğiti",
+    "genel",
+    "geçti",
+    "görev",
+    "günde",
+    "hiçbi",
+    "istif",
+    "kadem",
+    "korum",
+    "mecli",
+    "memur",
+    "mücad",
+    "ndan",
+    "olmad",
+    "olmay",
+    "parti",
+    "sendi",
+    "seçil",
+    "siyas",
+    "sorun",
+    "taşıy",
+    "yaptı",
+    "yıl",
+    "zaman",
+    "özbay",
+    "öğret",
+    "üyeli"
+   ],
+   "at": "2026-11-16T23:28:05.117347+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5e59713558",
-   "post_id": "529346797199852_1468692712037103",
-   "title": "Kanal İstanbul güzergâhında yeni imar planı onaylandı: 12 mahalle etkilenecek",
-   "at": "2026-11-14T17:08:02.757396+00:00",
-   "yazim": "claude",
-   "metin": "Kanal İstanbul güzergâhında 12 mahalleyi etkileyecek yeni bir imar planı onaylandı.\n\n— Plan Arnavutköy ve Başakşehir'deki mahalleleri kapsıyor, 11 Kasım'da 15 gün süreyle askıya çıkarıldı.\n\n— Bakan Murat Kurum, geçen ay İstanbul'daki sel felaketinin ardından Kanal İstanbul'a yönelik eleştirilere “Kanal İstanbul projesi üzerinde sadece sosyal konut projeleri yapılmaktadır.” diyerek yanıt vermişti.\n\n— YENİ Parti Milletvekili Gökan Zeybek, Arnavutköy Belediyesi'nin güzergâhtaki taşınmazları satışa çıkarmasını Kurum'a sormuştu. Kurum bu sorulara yanıt vermemişti.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kanal-istanbul-guzergahinda-yeni-imar-plani-onaylandi-12-mahalle-etkilenecek-2556159",
-    "BirGün: https://www.birgun.net/haber/kanal-istanbul-guzergahinda-yeni-imar-plani-2-ilce-ve-12-mahalleyi-etkileyecek-746476"
-   ]
-  },
   {
    "id": "bd80c80af0",
    "post_id": "529346797199852_1468701862036188",
@@ -11924,6 +11902,17 @@
    "sources": [
     "Habertürk: https://www.haberturk.com/gundem/bodrum-da-gocmen-kacakciligi-operasyonu-6-tutuklama-3927827",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gocmen-kacakligi-operasyonu-6-kisi-tutuklandi-2556748"
+   ]
+  },
+  {
+   "id": "8c9848f499",
+   "post_id": "529346797199852_1470914771814897",
+   "title": "Kadem Özbay: Sendikamızın bağımsızlığını korumak için memuriyetten ve Eğitim-İş Genel Başkanlığı'ndan istifa ettim",
+   "at": "2026-11-16T23:28:05.117347+00:00",
+   "yazim": "claude",
+   "metin": "Eski Eğitim-İş Genel Başkanı Kadem Özbay, sendikanın bağımsızlığı için:\n\n“Eğitim-İş hiçbir siyasi partinin arka bahçesi olmadı, değildir ve hiçbir zaman olmayacaktır.”\n\nÖzbay, Yeni Parti Parti Meclisi üyeliğine seçildi. Sendikanın bağımsızlığını korumak için memuriyetten ve Eğitim-İş Genel Başkanlığından istifa etti.\n\n— Yirmi iki yıl öğretmenlik yaptığını ve sendikal mücadeleden siyasete geçtiğini söyledi.\n— Yeni görevinde öğretmenlerin, emeklilerin ve atama bekleyen öğretmenlerin sorunlarını gündeme taşıyacağını belirtti.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009823/kadem-ozbay-sendikamizin-bagimsizligini-korumak-icin-memuriyetten-ve-egitim-is-genel-baskanligi-ndan-istifa-ettim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
