@@ -2,42 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başla",
-    "besli",
-    "diye",
-    "gelec",
-    "kaygı",
-    "kendi",
-    "korku",
-    "mengü",
-    "nevşi",
-    "zaman",
-    "şeyle"
-   ],
-   "tok": [
-    "acaba",
-    "appea",
-    "başla",
-    "besli",
-    "böyle",
-    "diken",
-    "diye",
-    "gelec",
-    "kaygı",
-    "kendi",
-    "korku",
-    "mengü",
-    "muhte",
-    "nevşi",
-    "post",
-    "the",
-    "zaman",
-    "şeyle"
-   ],
-   "at": "2026-11-15T05:51:38.770781+00:00"
-  },
-  {
-   "fp": [
     "99",
     "fener",
     "futbo",
@@ -9415,23 +9379,67 @@
     "çıktı"
    ],
    "at": "2026-11-16T17:39:12.536869+00:00"
+  },
+  {
+   "fp": [
+    "cezae",
+    "gönde",
+    "ifade",
+    "sarıg",
+    "tutuk",
+    "verdi",
+    "ömer"
+   ],
+   "tok": [
+    "adale",
+    "aklam",
+    "alman",
+    "ardın",
+    "başla",
+    "başsa",
+    "başvu",
+    "bitti",
+    "bugün",
+    "bulun",
+    "cezae",
+    "değer",
+    "ekim",
+    "etkin",
+    "geliş",
+    "genç",
+    "geri",
+    "getir",
+    "gönde",
+    "götür",
+    "ifade",
+    "ilişk",
+    "işlem",
+    "kara",
+    "kayna",
+    "mal",
+    "mille",
+    "musta",
+    "oğlu",
+    "para",
+    "pişma",
+    "saray",
+    "sarıg",
+    "suçta",
+    "suçun",
+    "sürüy",
+    "varlı",
+    "vatan",
+    "verdi",
+    "verme",
+    "yapmı",
+    "yenid",
+    "ömer",
+    "şikay"
+   ],
+   "at": "2026-11-16T17:51:49.662038+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7272d641b3",
-   "post_id": "529346797199852_1468431862063188",
-   "title": "Ayran, kefir ve yoğurt üretiminde 5 yıllık rekor artış",
-   "at": "2026-11-14T11:40:56.714316+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'de ayran, kefir ve yoğurt üretimi son beş yılda kesintisiz arttı.\n\n— Ayran ve kefir üretimi beş yılda yüzde 45 arttı. 2022'nin ocak-eylül döneminde 574 bin 939 ton üretilmişti.\n— Yoğurt üretimi aynı sürede yaklaşık yüzde 27 arttı. 2022'nin ilk dokuz ayında 888 bin 676 ton olan üretim 1 milyon 126 bin 83 tona çıktı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/ekonomi/ayran-kefir-ve-yogurt-uretimi-9-ayda-rekor-seviyeye-ulasti-963266.html",
-    "TRT Haber: https://www.trthaber.com/haber/ekonomi/kuresel-tarim-destekleri-rekor-seviyeye-ulasti-963249.html",
-    "CNN Türk: https://www.cnnturk.com/ekonomi/turkiyede-ayran-kefir-ve-yogurt-uretiminde-rekor-3493165",
-    "Karar: https://www.karar.com/ekonomi-haberleri/ayran-kefir-ve-yogurt-uretiminde-5-yillik-rekor-artis-2084113"
-   ]
-  },
   {
    "id": "4890a04814",
    "post_id": "529346797199852_1468440722062302",
@@ -11966,6 +11974,22 @@
     "Sözcü Spor: https://www.sozcu.com.tr/galatasaray-in-stadi-rams-park-in-son-hali-ortaya-cikti-p381954",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/galatasarayin-stadyumu-rams-parkin-zemininin-son-durumu-goruntulendi-43380481"
    ]
+  },
+  {
+   "id": "d13d5b68cd",
+   "post_id": "529346797199852_1470689511837423",
+   "title": "Tutuklu Ömer Sarıgül ek ifadesinin ardından cezaevine gönderildi",
+   "at": "2026-11-16T17:51:49.662038+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da kara para aklama soruşturmasında tutuklu bulunan Milletvekili Mustafa Sarıgül'ün oğlu, ek ifade verdikten sonra yeniden cezaevine gönderildi.\n\n— Genç, 19 Ekim'de tutuklanmıştı. Bugün ek ifade vermek için İstanbul Adalet Sarayı'na getirildi.\n\n— İfade işlemleri bittikten sonra cezaevine geri götürüldü. Soruşturma sürüyor.\n\n— Soruşturmada 27 şüpheli tutuklu bulunuyor. Soruşturma, iki Alman vatandaşının şikayeti üzerine başlatıldı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/omer-sarigul-ek-ifade-verdi-7702001",
+    "Habertürk: https://www.haberturk.com/gundem/omer-sarigul-ek-ifade-verdi-3927782",
+    "Sözcü: https://www.sozcu.com.tr/tutuklu-omer-sarigul-ek-ifade-icin-adliyeye-getirildi-p381880",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/sarigul-sorusturmasinda-yeni-gelisme-omer-sarigul-ek-ifade-verdikten-sonra-cezaevine-gonderildi-2556692",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/omer-sarigul-ek-ifadesinin-ardindan-cezaevine-gonderildi-4873178",
+    "Evrensel: https://www.evrensel.net/haber/6009782/etkin-pismanlik-basvurusu-yapmisti-omer-sarigul-ek-ifade-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -12188,7 +12212,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122381368483004476",
+   "since_id": "2122384626098295013",
    "started": true
   },
   "ajansmuhbir1923": {
