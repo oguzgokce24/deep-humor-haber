@@ -2,91 +2,6 @@
  "seen": [
   {
    "fp": [
-    "daire",
-    "gayri",
-    "icra",
-    "müdür",
-    "satış",
-    "vergi"
-   ],
-   "tok": [
-    "bakır",
-    "daire",
-    "eseny",
-    "gayri",
-    "güneş",
-    "icra",
-    "kağıt",
-    "müdür",
-    "satış",
-    "vergi",
-    "şile"
-   ],
-   "at": "2026-11-14T23:05:01.495466+00:00"
-  },
-  {
-   "fp": [
-    "6",
-    "facia",
-    "kaldı",
-    "metre",
-    "oluşt",
-    "ramak",
-    "yol",
-    "çukur",
-    "çöktü"
-   ],
-   "tok": [
-    "adıya",
-    "akıtı",
-    "aland",
-    "alter",
-    "altın",
-    "artır",
-    "bölge",
-    "bölüm",
-    "derin",
-    "ekipl",
-    "facia",
-    "gelen",
-    "gönde",
-    "güven",
-    "güzer",
-    "incel",
-    "kaldı",
-    "kara",
-    "karay",
-    "kontr",
-    "mahal",
-    "metre",
-    "meyda",
-    "nde",
-    "neden",
-    "olayd",
-    "oluşt",
-    "oluşu",
-    "otomo",
-    "paniğ",
-    "ramak",
-    "sürüc",
-    "trafi",
-    "yaşan",
-    "yol",
-    "yolun",
-    "yoğun",
-    "yönle",
-    "zaman",
-    "çalış",
-    "çukur",
-    "çökme",
-    "çöktü",
-    "önlem",
-    "şekil"
-   ],
-   "at": "2026-11-14T23:05:11.394849+00:00"
-  },
-  {
-   "fp": [
     "ali",
     "böyle",
     "hassa",
@@ -10144,21 +10059,83 @@
     "şube"
    ],
    "at": "2026-11-16T10:54:59.379299+00:00"
+  },
+  {
+   "fp": [
+    "300",
+    "72",
+    "8",
+    "ailel",
+    "bin",
+    "fatur",
+    "günlü",
+    "hasta",
+    "lik",
+    "tedav",
+    "yenid",
+    "özel",
+    "ücret",
+    "şikay"
+   ],
+   "tok": [
+    "aile",
+    "ailel",
+    "alına",
+    "artıy",
+    "aylar",
+    "başvu",
+    "bebek",
+    "belir",
+    "bin",
+    "binle",
+    "boyun",
+    "dair",
+    "düzen",
+    "edild",
+    "edile",
+    "ediyo",
+    "ekim",
+    "fatur",
+    "geldi",
+    "gören",
+    "günlü",
+    "hasta",
+    "hatır",
+    "hizme",
+    "iades",
+    "ilave",
+    "incel",
+    "ise",
+    "isted",
+    "itira",
+    "kasım",
+    "lik",
+    "liral",
+    "muaye",
+    "paral",
+    "sarıl",
+    "sağlı",
+    "sürdü",
+    "sürüy",
+    "tahsi",
+    "taleb",
+    "talep",
+    "tedav",
+    "tepki",
+    "yenid",
+    "çekti",
+    "ödedi",
+    "ödeme",
+    "ödene",
+    "öne",
+    "özel",
+    "ücret",
+    "şikay"
+   ],
+   "at": "2026-11-16T11:07:38.062329+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ec80a6e1f8",
-   "post_id": "529346797199852_1468289575410750",
-   "title": "Şanlıurfa'da düğün konvoyuna silahlı saldırı: 5 şüpheli tutuklandı",
-   "at": "2026-11-14T08:15:00.656099+00:00",
-   "yazim": "claude",
-   "metin": "Şanlıurfa'da 8 Kasım'da düğün konvoyuna silahlı saldırı düzenleyen 5 şüpheli tutuklandı.\n\n— Saldırıyı motosikletli bir grup yapmıştı. Emniyet ekipleri yaklaşık 200 kameranın 72 saatlik görüntüsünü inceleyerek şüphelilere ulaştı.\n\n— Gözaltına alınan 5 şüpheli adliyeye sevk edildi ve hakimlik kararıyla tutuklandı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/sanliurfa/sanliurfada-dugun-konvoyuna-duzenlenen-silahli-saldiriya-iliskin-5-zanli-tutuklandi-3493087",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sanliurfa-da-dugun-konvoyuna-silahli-saldiri-5-supheli-tutuklandi-2556066"
-   ]
-  },
   {
    "id": "d97f54485a",
    "post_id": "529346797199852_1468298322076542",
@@ -12669,6 +12646,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meb-duyurdu-ortak-yazili-sinav-sistemi-nde-analiz-ve-raporlama-modulu-erisime-acildi-2556553",
     "Karar: https://www.karar.com/guncel-haberler/meb-ortak-yazili-sinav-sisteminin-analiz-ve-raporlama-modulunu-erisime-2084388"
    ]
+  },
+  {
+   "id": "b06a0a220f",
+   "post_id": "529346797199852_1470356351870739",
+   "title": "Özel hastanelerde yenidoğan ücreti şikayetleri: 8 günlük tedaviye 72 bin 300 TL",
+   "at": "2026-11-16T11:07:38.062329+00:00",
+   "yazim": "claude",
+   "metin": "Özel hastanelerde yenidoğan bebeklere alınan ücretlere şikayet artıyor: bir aile 8 günlük tedavi için 72 bin 300 TL ödediğini öne sürdü.\n\n— Şikayet başvuruları 2026 boyunca geldi ve ekim-kasım aylarında da sürdü.\n— Sarılık tedavisi gören bir bebek için 23 bin 180 TL tahsil edildiğini belirten bir aile de tahsilatların incelenmesini istedi.\n— Aileler, yenidoğan sağlık hizmetlerinde ilave ücret alınamayacağına dair düzenlemeleri hatırlatarak ödenen paraların iadesini talep ediyor.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/ailelerden-ozel-hastanelerdeki-yenidogan-ucretlerine-inceleme-talebi-8-gunluk-tedaviye-72-bin-300-tl-p381859",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ozel-hastanelerde-yenidogan-ucreti-sikayetleri-8-gunluk-tedaviye-72-bin-300-tl-2556564",
+    "Evrensel: https://www.evrensel.net/haber/6009704/yenidogan-bebeklerin-tedavisine-binlerce-liralik-fatura-8-gunluk-tedaviye-72-bin-300-tl?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/yenidogan-tedavisinde-72-bin-300-tl-lik-odeme-sikayeti-ailelerin-ucret-itirazlari-suruyor-746710"
+   ]
   }
  ],
  "fails": {
@@ -12890,7 +12881,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122276981005799905",
+   "since_id": "2122282367331029152",
    "started": true
   },
   "ajansmuhbir1923": {
