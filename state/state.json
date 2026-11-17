@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "49",
-    "günü",
-    "ulaşm",
-    "uzakl",
-    "voyag",
-    "yolcu",
-    "yıllı",
-    "üzere",
-    "ışık"
-   ],
-   "tok": [
-    "alfab",
-    "ancak",
-    "aynı",
-    "batım",
-    "dan",
-    "demek",
-    "derin",
-    "diken",
-    "dönüm",
-    "dünya",
-    "fener",
-    "flaşı",
-    "gökyü",
-    "gönde",
-    "gün",
-    "günü",
-    "harfl",
-    "ikizi",
-    "ilerl",
-    "insan",
-    "kalac",
-    "kasım",
-    "kilom",
-    "kutla",
-    "mesaf",
-    "milya",
-    "morse",
-    "nasa",
-    "nin",
-    "nokta",
-    "nın",
-    "olaca",
-    "otomo",
-    "post",
-    "radyo",
-    "saat",
-    "sinya",
-    "söyle",
-    "tam",
-    "telef",
-    "the",
-    "ulaşa",
-    "ulaşm",
-    "uzakl",
-    "uzay",
-    "uzaya",
-    "uzayı",
-    "varan",
-    "voyag",
-    "yakla",
-    "yakın",
-    "yapım",
-    "yazma",
-    "yolcu",
-    "yolda",
-    "yıldı",
-    "yıllı",
-    "zaman",
-    "çağır",
-    "üzere",
-    "ışık"
-   ],
-   "at": "2026-11-15T15:11:49.535209+00:00"
-  },
-  {
-   "fp": [
     "15",
     "açıkl",
     "bırak",
@@ -9059,20 +8981,50 @@
     "şimdi"
    ],
    "at": "2026-11-17T03:06:34.589958+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "154",
+    "6",
+    "ayda",
+    "bozul",
+    "diyan",
+    "gelen",
+    "milya"
+   ],
+   "tok": [
+    "alan",
+    "attı",
+    "ayda",
+    "ayrıl",
+    "ayınd",
+    "bozul",
+    "bütçe",
+    "büyük",
+    "diyan",
+    "dönem",
+    "ekim",
+    "fazla",
+    "gelen",
+    "harca",
+    "imza",
+    "kayna",
+    "kulla",
+    "lik",
+    "milya",
+    "nın",
+    "ocak",
+    "sayıd",
+    "topla",
+    "yakın",
+    "yıl",
+    "yılı"
+   ],
+   "at": "2026-11-17T03:19:05.433393+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "39e42c6d08",
-   "post_id": "529346797199852_1468818562024518",
-   "title": "Fransa'da halk sokakta: \"Macron ve polisleri bizimle savaşıyor\"",
-   "at": "2026-11-14T20:13:00.105451+00:00",
-   "yazim": "claude",
-   "metin": "Fransa'da sendikalar ve Sarı Yelekliler'in çağrısıyla sokağa inenlere polis biber gazıyla müdahale etti.\n\n— Paris, Lyon ve Rouen dahil çok sayıda kentte protestolar yapıldı.\n— Göstericiler Cumhurbaşkanı Macron'u ve polisleri hedef alan pankart ve dövizler taşıdı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/fransa-da-halk-sokakta-macron-ve-polisleri-bizimle-savasiyor-746491"
-   ]
-  },
   {
    "id": "dbe8258b32",
    "post_id": "529346797199852_1468826505357057",
@@ -11610,6 +11562,17 @@
     "Sözcü: https://www.sozcu.com.tr/son-dakika-sozcu-grubunda-mahkeme-polis-tarafindan-arama-yapiliyor-p382065",
     "Evrensel: https://www.evrensel.net/haber/6009827/sozcu-tv-ye-operasyon-yapildi-kanala-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/son-dakika-sozcu-grubunda-mahkeme-polis-tarafindan-arama-yapiliyor-p382065"
+   ]
+  },
+  {
+   "id": "0f831daf67",
+   "post_id": "529346797199852_1471063208466720",
+   "title": "Diyanet'te gelenek bozulmadı: 10 ayda 154,6 milyar TL",
+   "at": "2026-11-17T03:19:05.433393+00:00",
+   "yazim": "claude",
+   "metin": "Diyanet Başkanlığı, 2026'nın ilk 10 ayında 154,6 milyar TL harcadı.\n\n— Diyanet'in bu yıl için ayrılan bütçesi 173,4 milyar TL.\n— Bütçesi, çok sayıda bakanlığın bütçesinden daha büyük.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/diyanet-te-gelenek-bozulmadi-10-ayda-154-6-milyar-tl-746810"
    ]
   }
  ],
