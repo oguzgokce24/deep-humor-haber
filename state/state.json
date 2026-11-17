@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "ata",
-    "kişi",
-    "otobü",
-    "yaral",
-    "yolcu",
-    "çarpa",
-    "öldü"
-   ],
-   "tok": [
-    "anide",
-    "ata",
-    "bariy",
-    "den",
-    "diğer",
-    "dokto",
-    "döndü",
-    "gelen",
-    "giden",
-    "hasta",
-    "hurda",
-    "ilçes",
-    "izmir",
-    "kaldı",
-    "karış",
-    "kavşa",
-    "kayse",
-    "kazay",
-    "kurta",
-    "meyda",
-    "müdah",
-    "nevşe",
-    "otobü",
-    "rağme",
-    "sarıh",
-    "sonuc",
-    "sürüy",
-    "tedav",
-    "tofaş",
-    "yakın",
-    "yedek",
-    "yola",
-    "yolcu",
-    "çarpa",
-    "çarpm",
-    "çarpt",
-    "çıkan",
-    "ürgüp",
-    "şoför"
-   ],
-   "at": "2026-11-15T21:19:33.072502+00:00"
-  },
-  {
-   "fp": [
     "frans",
     "nın"
    ],
@@ -9046,20 +8992,58 @@
     "şeyi"
    ],
    "at": "2026-11-17T09:17:33.468210+00:00"
+  },
+  {
+   "fp": [
+    "669",
+    "bakan",
+    "düzen",
+    "opera",
+    "organ",
+    "suç",
+    "çiftç",
+    "örgüt"
+   ],
+   "tok": [
+    "aldık",
+    "ayınd",
+    "belir",
+    "bin",
+    "bütçe",
+    "değer",
+    "düzen",
+    "ekono",
+    "görüş",
+    "gücün",
+    "hedef",
+    "içişl",
+    "kaçak",
+    "komis",
+    "koydu",
+    "mal",
+    "malze",
+    "milya",
+    "musta",
+    "mücad",
+    "organ",
+    "piyas",
+    "plan",
+    "suç",
+    "sıras",
+    "tbmm",
+    "topla",
+    "varlı",
+    "yapıl",
+    "yönel",
+    "yıl",
+    "yılın",
+    "çiftç",
+    "örgüt"
+   ],
+   "at": "2026-11-17T09:30:20.847291+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2a1b56a65d",
-   "post_id": "529346797199852_1469036498669391",
-   "title": "Ormanları sınır dışına çıkardılar: TMMOB'den iptal davası",
-   "at": "2026-11-15T02:33:33.172819+00:00",
-   "yazim": "claude",
-   "metin": "TMMOB, Ankara'nın Kızılcahamam ilçesinde yaklaşık 3 bin hektarlık alanı orman sınırları dışına çıkaran Cumhurbaşkanı Kararı'nın iptali için Danıştay'a başvurdu.\n\n— Alan, Kurtboğazı Barajı'nın su toplama havzasında yer alıyor.\n\n— TMMOB, bölgenin orman ekosistemi ve doğal yaşam açısından kritik önemde olduğunu savunuyor. Kararın yürütmesinin durdurulmasını da istedi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/ormanlari-sinir-disina-cikardilar-tmmob-den-iptal-davasi-746501"
-   ]
-  },
   {
    "id": "6a507ac60a",
    "post_id": "529346797199852_1469045202001854",
@@ -11616,6 +11600,17 @@
     "BirGün: https://www.birgun.net/haber/bahceli-den-sozcu-ye-operasyon-aciklamasi-sozcu-tv-yoneticilerine-sormak-lazim-746856",
     "Karar: https://www.karar.com/guncel-haberler/bahceliden-sozcu-tv-operasyonu-aciklamasi-her-seyi-konusanlara-sormak-2084574"
    ]
+  },
+  {
+   "id": "4bb772672b",
+   "post_id": "529346797199852_1471301661776208",
+   "title": "Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik",
+   "at": "2026-11-17T09:30:20.847291+00:00",
+   "yazim": "claude",
+   "metin": "İçişleri Bakanı Mustafa Çiftçi, bu yılın ilk on ayında 669 organize suç örgütüne yönelik 1.951 operasyon düzenlendiğini açıkladı.\n\nBu operasyonlarda 9.447 şüpheli tutuklandı.\n\n— Bakan Çiftçi, örgütlerin ekonomik gücünü hedef aldıklarını ve 60,1 milyar lira değerinde mal varlığına el koyduklarını söyledi.\n— Kaçakçılıkla mücadelede 35.572 operasyon yapıldığını, piyasa değeri 15,4 milyar lira olan malzeme ele geçirildiğini belirtti.\n— Açıklamalar, TBMM Plan ve Bütçe Komisyonunda 2027 bütçesi görüşmeleri sırasında yapıldı.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/bakan-ciftci-669-organize-suc-orgutune-operasyon-duzenledik-1751257"
+   ]
   }
  ],
  "fails": {
@@ -11814,8 +11809,6 @@
   "3c12691c86": 1
  },
  "fail_log": [
-  "2026-11-17T05:29 İbrahim Kiras: Uluslararası mafya düzeni -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:29 İbrahim Kiras: Uluslararası mafya düzeni -> ValueError: yanıt okunamadı",
   "2026-11-17T05:29 Ulvi Saran: Türk güvenlik teşkilatı ve yargı sistemi adına c -> ValueError: yanıt okunamadı",
   "2026-11-17T05:29 Ulvi Saran: Türk güvenlik teşkilatı ve yargı sistemi adına c -> ValueError: yanıt okunamadı",
   "2026-11-17T05:29 Ulvi Saran: Türk güvenlik teşkilatı ve yargı sistemi adına c -> ValueError: yanıt okunamadı",
@@ -11853,12 +11846,14 @@
   "2026-11-17T08:52 Beyonce'den tarihi rekor: Grammy tarihindeki 100. adaylığını -> ValueError: yanıt okunamadı",
   "2026-11-17T09:05 Economist 2027 kapağını hazırladı: Dünyayı neler bekliyor? -> ValueError: yanıt okunamadı",
   "2026-11-17T09:05 Economist 2027 kapağını hazırladı: Dünyayı neler bekliyor? -> ValueError: yanıt okunamadı",
-  "2026-11-17T09:05 Economist 2027 kapağını hazırladı: Dünyayı neler bekliyor? -> ValueError: yanıt okunamadı"
+  "2026-11-17T09:05 Economist 2027 kapağını hazırladı: Dünyayı neler bekliyor? -> ValueError: yanıt okunamadı",
+  "2026-11-17T09:30 Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-17T09:30 Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122616197506027994",
+   "since_id": "2122620729455698332",
    "started": true
   },
   "ajansmuhbir1923": {
