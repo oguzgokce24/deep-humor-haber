@@ -8993,6 +8993,113 @@
     "şerit"
    ],
    "at": "2026-11-17T05:03:21.208317+00:00"
+  },
+  {
+   "fp": [
+    "alışk",
+    "alışv",
+    "etmed",
+    "fark",
+    "kaya",
+    "kağan",
+    "yönü"
+   ],
+   "tok": [
+    "alıyo",
+    "alışk",
+    "alışv",
+    "appea",
+    "aşama",
+    "diken",
+    "etmed",
+    "eve",
+    "fark",
+    "first",
+    "hafta",
+    "hazır",
+    "kaya",
+    "kağan",
+    "lin",
+    "marke",
+    "post",
+    "saati",
+    "site",
+    "the",
+    "yerle",
+    "yönü",
+    "yılda",
+    "ürünl"
+   ],
+   "at": "2026-11-17T05:19:12.935391+00:00"
+  },
+  {
+   "fp": [
+    "aktaş",
+    "alaat",
+    "bütçe",
+    "ondur",
+    "öldür"
+   ],
+   "tok": [
+    "aktaş",
+    "alaat",
+    "appea",
+    "benzi",
+    "bütçe",
+    "diken",
+    "durum",
+    "ebeve",
+    "evini",
+    "first",
+    "geçin",
+    "kanaa",
+    "kıt",
+    "linka",
+    "ondur",
+    "post",
+    "site",
+    "the",
+    "çalış",
+    "öldür"
+   ],
+   "at": "2026-11-17T05:19:16.552165+00:00"
+  },
+  {
+   "fp": [
+    "beled",
+    "birim",
+    "devle",
+    "diğer",
+    "kamil",
+    "sürek",
+    "tekin",
+    "yapıl",
+    "yolsu"
+   ],
+   "tok": [
+    "beled",
+    "birim",
+    "devle",
+    "diken",
+    "diğer",
+    "fon",
+    "geldi",
+    "işbaş",
+    "kamil",
+    "liral",
+    "milya",
+    "nedir",
+    "post",
+    "seçim",
+    "sürek",
+    "tekin",
+    "the",
+    "vurgu",
+    "yapan",
+    "yapıl",
+    "yolsu"
+   ],
+   "at": "2026-11-17T05:19:20.421928+00:00"
   }
  ],
  "posted": [
@@ -11727,21 +11834,9 @@
   "aa2d2b1834": 2,
   "6b89b26cc9": 1,
   "5459196204": 1,
-  "e07056fe9a": 1,
-  "71fcc18362": 2,
-  "2ab651210c": 2,
-  "ad898e8fd3": 2
+  "e07056fe9a": 1
  },
  "fail_log": [
-  "2026-11-17T02:53 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
-  "2026-11-17T02:53 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
-  "2026-11-17T03:06 SON DAKİKA... SÖZCÜ'ye kayyum atandı! Polis binada arama yap -> ValueError: yanıt okunamadı",
-  "2026-11-17T03:31 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
-  "2026-11-17T03:31 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
-  "2026-11-17T03:31 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
-  "2026-11-17T03:44 İddia: Apple'ın ocakta tanıtacağı iPhone 20 Pro serisi için  -> ValueError: yanıt okunamadı",
-  "2026-11-17T03:44 İddia: Apple'ın ocakta tanıtacağı iPhone 20 Pro serisi için  -> ValueError: yanıt okunamadı",
-  "2026-11-17T03:44 İddia: Apple'ın ocakta tanıtacağı iPhone 20 Pro serisi için  -> ValueError: yanıt okunamadı",
   "2026-11-17T03:44 Sağlıkta KÖİ salgını: Halka değil, müteahhide 'tedavi' -> ValueError: yanıt okunamadı",
   "2026-11-17T03:44 Sağlıkta KÖİ salgını: Halka değil, müteahhide 'tedavi' -> ValueError: yanıt okunamadı",
   "2026-11-17T03:44 Sağlıkta KÖİ salgını: Halka değil, müteahhide 'tedavi' -> ValueError: yanıt okunamadı",
@@ -11772,7 +11867,16 @@
   "2026-11-17T05:15 Alaattin Aktaş: Bütçe ne onduruyor ne öldürüyor -> ValueError: yanıt okunamadı",
   "2026-11-17T05:15 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı",
   "2026-11-17T05:15 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:15 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı"
+  "2026-11-17T05:15 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Kağan Kaya: Alışveriş alışkanlıklarımızın fark etmediğimiz y -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Kağan Kaya: Alışveriş alışkanlıklarımızın fark etmediğimiz y -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Kağan Kaya: Alışveriş alışkanlıklarımızın fark etmediğimiz y -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Alaattin Aktaş: Bütçe ne onduruyor ne öldürüyor -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Alaattin Aktaş: Bütçe ne onduruyor ne öldürüyor -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Alaattin Aktaş: Bütçe ne onduruyor ne öldürüyor -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:19 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
