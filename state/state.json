@@ -9066,21 +9066,46 @@
     "üsküd"
    ],
    "at": "2026-11-17T15:58:36.050604+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "4",
+    "afad",
+    "büyük",
+    "depre",
+    "duyur",
+    "gölü",
+    "nde",
+    "van"
+   ],
+   "tok": [
+    "afad",
+    "bildi",
+    "büyük",
+    "depre",
+    "derin",
+    "detay",
+    "duyur",
+    "geldi",
+    "gevaş",
+    "gölü",
+    "ilçes",
+    "kilom",
+    "meyda",
+    "nde",
+    "payla",
+    "saat",
+    "uzakl",
+    "van",
+    "yakın",
+    "ölçül",
+    "üssü"
+   ],
+   "at": "2026-11-17T16:11:14.301728+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "82b4d6fd2f",
-   "post_id": "529346797199852_1469304995309208",
-   "title": "Bulgar gelin vaadiyle dev vurgun: Hesaplardan 724 milyon TL'lik işlem çıktı",
-   "at": "2026-11-15T09:31:58.746105+00:00",
-   "yazim": "claude",
-   "metin": "Tekirdağ'da sosyal medyada tanıştığı Bulgaristan uyruklu bir kadınla evlenmek isteyen yaşlı bir yurttaş, sahte polisler tarafından 1 milyon 914 bin TL dolandırıldı.\n\n— Dolandırıcılar kendini polis olarak tanıttı. Kadının uluslararası kara para aklama ve terör suçlarına karıştığını söyleyerek yurttaşı gizli operasyon bahanesiyle para göndermeye ikna etti.\n\n— Soruşturmada şüphelilerin hesaplarında 724 milyon TL'lik işlem hacmi tespit edildi. Suçtan elde edilen paraların kripto varlıklar üzerinden yurt dışına aktarıldığı belirlendi.\n\n— 15 ilde düzenlenen operasyonda 23 şüpheli gözaltına alındı. 6 kişi nitelikli dolandırıcılık ve şantaj suçlarından tutuklandı, 17 kişi adli kontrol şartıyla serbest bırakıldı.\n\nYetkililer, evlilik ve yatırım vaadiyle yapılan dolandırıcılıklara karşı yurttaşları uyardı. Kendini polis ya da savcı olarak tanıtıp para isteyenlere itibar edilmemesi gerektiği belirtildi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tekirdag-da-evlilik-vaadiyle-dolandiricilik-724-milyon-tl-lik-para-trafigi-ortaya-cikti-2556292",
-    "Karar: https://www.karar.com/guncel-haberler/bulgar-gelin-vaadiyle-dev-vurgun-hesaplardan-724-milyon-tllik-islem-2084202"
-   ]
-  },
   {
    "id": "4960cbd84b",
    "post_id": "529346797199852_1469313821974992",
@@ -11681,6 +11706,22 @@
     "Diken: https://www.diken.com.tr/istanbulda-trafik-yogunlugu-yuzde-83-14/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-trafik-yogunlugu-yuzde-83-14",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/istanbulda-yogun-trafik-araclar-guclukle-ilerliyor-p382232"
    ]
+  },
+  {
+   "id": "552fe512f2",
+   "post_id": "529346797199852_1471638581742516",
+   "title": "Son dakika... AFAD duyurdu: Van Gölü'nde deprem",
+   "at": "2026-11-17T16:11:14.301728+00:00",
+   "yazim": "claude",
+   "metin": "Van Gölü'nde, Gevaş ilçesi yakınlarında 4,3 büyüklüğünde deprem oldu.\n\n— Deprem saat 18.57'de meydana geldi.\n— Merkez üssü, Gevaş'a 7,74 kilometre uzaklıktaki Van Gölü'nde.\n— Depremin derinliği 13,61 kilometre olarak ölçüldü.\n— AFAD, depremin büyüklüğünü 4,3 (Mw) olarak açıkladı.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/van-golu-deprem-17-kasim-2026-p382239",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-van-golu-nde-korkutan-deprem-2556992",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/son-dakika-vanda-deprem-mi-oldu-afad-son-depremler-listesi-2026-4873585",
+    "Diken: https://www.diken.com.tr/van-golunde-43-buyuklugunde-deprem-2/?utm_source=rss&utm_medium=rss&utm_campaign=van-golunde-43-buyuklugunde-deprem-2",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/van-golu-deprem-17-kasim-2026-p382239",
+    "BPT (X): https://x.com/bpthaber/status/2122723762676355488"
+   ]
   }
  ],
  "fails": {
@@ -11924,7 +11965,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122719752384544781",
+   "since_id": "2122723762676355488",
    "started": true
   },
   "ajansmuhbir1923": {
