@@ -76,6 +76,8 @@ BİÇİM:
 - Toplam 30–120 kelime. Metnin TAMAMI Facebook açıklamasına yazılır; görsele ise baştan sığdığı kadar
   satır konur. Bu yüzden İLK paragraf (kalın ana cümle ya da alıntı) tek başına okunduğunda olayı anlatmalı,
   ayrıntılar ve arka plan alttaki maddelerde olmalı (önemliden aza doğru).
+- Makam unvanlarının önüne parti adı EKLEME: "AKP'li Cumhurbaşkanı Erdoğan" değil "Cumhurbaşkanı Erdoğan",
+  "AKP'li Bakan X" değil "Bakan X" ya da "… Bakanı X". Kaynak böyle yazsa bile resmi unvanı kullan.
 - Yer adlarında HER ZAMAN resmi il/ilçe adını kullan: "Dersim" değil "Tunceli", "Amed" değil "Diyarbakır".
 - İLK CÜMLE kendi başına anlaşılmalı: olayın NE olduğunu ve varsa NEREDE (il/ilçe) olduğunu söyle.
   Örnek: "Çanakkale'nin Çan ilçesinde TIR ile çarpışan otomobil alev aldı, araçtaki 2 kişi hayatını kaybetti."
@@ -199,9 +201,14 @@ def parse_score(line: str, text: str = "") -> dict | None:
             "info": parts[4] if len(parts) > 4 else "", "goals": (parts[5] if len(parts) > 5 else "")[:70]}
 
 
+UNVAN = re.compile(r"\b(?:AKP|AK Parti|MHP|CHP)['’]?(?:li|lı|lu|lü)\s+(?=(?:Cumhurbaşkanı|Cumhurbaşkanı Yardımcısı|"
+                   r"Bakan|[A-ZÇĞİÖŞÜ]\w+ Bakanı|TBMM Başkanı|Meclis Başkanı)\b)")
+
+
 def _repair(t: str) -> str:
     """Küçük biçim hatalarını reddetmek yerine düzeltir."""
     t = t.replace('\\n', "\n").strip()
+    t = UNVAN.sub("", t)        # "AKP'li Cumhurbaşkanı Erdoğan" -> "Cumhurbaşkanı Erdoğan"
     # Eşleşmeyen kalın işaretleri: sondaki tek ** fazlalığını sil
     if t.count("**") % 2:
         i = t.rfind("**")
