@@ -9246,23 +9246,92 @@
     "şimdi"
    ],
    "at": "2026-11-17T17:30:10.375958+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "80",
+    "bakan",
+    "fırtı",
+    "hızla",
+    "ilde",
+    "içişl",
+    "kilom",
+    "kuvve",
+    "marma",
+    "ndan",
+    "peş",
+    "peşe",
+    "sağan",
+    "uyarı"
+   ],
+   "tok": [
+    "aksam",
+    "ağaç",
+    "baca",
+    "bazı",
+    "başla",
+    "bekle",
+    "belir",
+    "binal",
+    "devri",
+    "dikka",
+    "direk",
+    "doğal",
+    "doğru",
+    "doğus",
+    "elekt",
+    "etkil",
+    "fırtı",
+    "gaz",
+    "gazı",
+    "genel",
+    "günü",
+    "hatay",
+    "hızla",
+    "hızın",
+    "içişl",
+    "kahra",
+    "kasım",
+    "kesim",
+    "kilom",
+    "kulla",
+    "kuvve",
+    "kuzey",
+    "marma",
+    "meteo",
+    "müdür",
+    "ndan",
+    "nın",
+    "olabi",
+    "olums",
+    "osman",
+    "perşe",
+    "peş",
+    "peşe",
+    "rüzgâ",
+    "saat",
+    "saatt",
+    "salı",
+    "sağan",
+    "soba",
+    "tahmi",
+    "tehli",
+    "ulaşı",
+    "uyarı",
+    "uçmas",
+    "yayım",
+    "yağış",
+    "yaşan",
+    "zehir",
+    "çarşa",
+    "çatı",
+    "çekti"
+   ],
+   "at": "2026-11-17T17:42:49.728118+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ff5253bb7a",
-   "post_id": "529346797199852_1469368628636178",
-   "title": "Edirne’de araçta 11 düzensiz göçmen yakalandı: Organizatör gözaltında",
-   "at": "2026-11-15T11:01:18.971959+00:00",
-   "yazim": "claude",
-   "metin": "Edirne'nin Uzunköprü ilçesinde jandarma, aracında 11 düzensiz göçmen bulunan bir sürücüyü durdurdu.\n\nOlay 15 Kasım 2026 gece 00.40 sıralarında Kiremitçisalih köyü yolunda yaşandı. Jandarma, istihbarat üzerine takibe aldığı aracı kontrollü şekilde durdurdu.\n\n— Göçmenlerin 4'ü Afganistan, 3'ü Eritre, 2'si Pakistan, 1'i Özbekistan ve 1'i Etiyopya uyruklu.\n— Jandarmanın tespitine göre sürücü göçmen kaçakçılığını organize etti ve araç onun adına kayıtlı.\n— Sürücüye 211 bin 629 lira idari para cezası kesildi ve göçmen kaçakçılığı suçlamasıyla gözaltına alındı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/sabaha-karsi-koy-yolunda-operasyon-11-kacak-gocmen-yakalandi-organizator-gozaltinda-43379107",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/edirnede-aracta-11-duzensiz-gocmen-yakalandi-organizator-gozaltina-alindi-4872663",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/igdirda-11-duzensiz-gocmen-yakalandi-1-supheli-gozaltinda-4872642",
-    "Karar: https://www.karar.com/sehir-haberleri/edirnede-aracta-11-duzensiz-gocmen-yakalandi-organizator-gozaltinda-2084223"
-   ]
-  },
   {
    "id": "80afe3fe29",
    "post_id": "529346797199852_1469377801968594",
@@ -11865,6 +11934,17 @@
    "sources": [
     "Serbestiyet: https://serbestiyet.com/dis-haber/abdnin-yapay-zekayla-imtihani-simdi-de-nsanin-gizli-haberlesme-agi-devre-disi-kaldi-253757/"
    ]
+  },
+  {
+   "id": "aba70b62d6",
+   "post_id": "529346797199852_1471714335068274",
+   "title": "İçişleri Bakanlığı'ndan peş peşe uyarı: 3 ilde kuvvetli sağanak, Marmara'da 80 kilometre hızla fırtına",
+   "at": "2026-11-17T17:42:49.728118+00:00",
+   "yazim": "claude",
+   "metin": "17 Kasım'da Osmaniye, Hatay ve Kahramanmaraş'ta kuvvetli sağanak, 18 Kasım'da Marmara'nın kuzey ve doğusunda saatte 60-80 kilometre hızla fırtına bekleniyor.\n\n— Fırtına 18 Kasım saat 00.00'da başlayıp 19 Kasım Perşembe saat 13.00'e kadar etkili olabilir.\n\n— Çatı uçması, ağaç ve elektrik direklerinin devrilmesi gibi olumsuzluklar yaşanabileceği belirtiliyor. Ulaşımda da aksamalar bekleniyor.\n\n— İçişleri Bakanlığı, soba ve doğal gaz kullanan binalarda baca gazı zehirlenmesi tehlikesine dikkat çekti.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/icisleri-bakanligindan-pes-pese-uyari-3-ilde-kuvvetli-saganak-marmarada-2084711"
+   ]
   }
  ],
  "fails": {
@@ -12064,12 +12144,10 @@
   "ba2c038745": 1,
   "691ad53a3d": 1,
   "c583a63879": 1,
-  "ef3253747f": 1
+  "ef3253747f": 1,
+  "22d3301305": 1
  },
  "fail_log": [
-  "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
   "2026-11-17T05:52 Sözcü TV ve gazetesine 'FETÖ soruşturması': Dört gözaltı kar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T06:41 10 yıl sonra yeniden yollarda: Toyota’nın efsane modeli yeni -> ValueError: yanıt okunamadı",
   "2026-11-17T06:41 10 yıl sonra yeniden yollarda: Toyota’nın efsane modeli yeni -> ValueError: yanıt okunamadı",
@@ -12106,12 +12184,15 @@
   "2026-11-17T16:50 ABD senatosunda bütçe planı: B94 nükleer bomba -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı",
   "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı",
-  "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı"
+  "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı",
+  "2026-11-17T17:42 Transatlantik: Ukrayna-Rusya savaşı bitmiyor | Doğu Akdeniz’ -> ValueError: yanıt okunamadı",
+  "2026-11-17T17:42 Transatlantik: Ukrayna-Rusya savaşı bitmiyor | Doğu Akdeniz’ -> ValueError: yanıt okunamadı",
+  "2026-11-17T17:42 Transatlantik: Ukrayna-Rusya savaşı bitmiyor | Doğu Akdeniz’ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122742957656711601",
+   "since_id": "2122744305643339785",
    "started": true
   },
   "ajansmuhbir1923": {
