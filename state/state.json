@@ -8986,23 +8986,89 @@
     "öldüğ"
    ],
    "at": "2026-11-17T15:46:59.048069+00:00"
+  },
+  {
+   "fp": [
+    "76",
+    "akşam",
+    "güçlü",
+    "ilerl",
+    "istan",
+    "otomo",
+    "saatl",
+    "trafi",
+    "ulaşt",
+    "yoğun",
+    "yüzde"
+   ],
+   "tok": [
+    "aksat",
+    "aktar",
+    "akşam",
+    "ana",
+    "anado",
+    "arter",
+    "artır",
+    "ataşe",
+    "avcıl",
+    "avrup",
+    "ağır",
+    "bahçe",
+    "bakır",
+    "bağla",
+    "bekli",
+    "buldu",
+    "den",
+    "durak",
+    "etkis",
+    "genel",
+    "göre",
+    "güzer",
+    "güçlü",
+    "harit",
+    "ibb",
+    "ilerl",
+    "kadık",
+    "karta",
+    "kent",
+    "kentt",
+    "kesim",
+    "köprü",
+    "küçük",
+    "malte",
+    "nda",
+    "nin",
+    "otomo",
+    "otoyo",
+    "pendi",
+    "saat",
+    "saatl",
+    "sanca",
+    "sürüy",
+    "sıra",
+    "taşım",
+    "tem",
+    "toplu",
+    "trafi",
+    "ulaşt",
+    "ulaşı",
+    "var",
+    "vatan",
+    "yakas",
+    "yavaş",
+    "yolcu",
+    "yolla",
+    "yoğun",
+    "yükse",
+    "yüzde",
+    "zeyti",
+    "çıktı",
+    "üsküd"
+   ],
+   "at": "2026-11-17T15:58:36.050604+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5a212d2a74",
-   "post_id": "529346797199852_1469296658643375",
-   "title": "ABD istihbaratı: İran’ın elinde 2 bin 500’e yakın füze var",
-   "at": "2026-11-15T09:19:20.640168+00:00",
-   "yazim": "claude",
-   "metin": "ABD istihbaratına göre İran'ın elinde 1500 ile 2 bin 500 arasında füze olabilir.\n\n— ABD'li yetkililer bu tahminin \"düşük güvenilirlikte\" olduğunu, İran'ın tam stokunu belirlemenin zor olduğunu söylüyor.\n— Yetkililere göre İran, saldırılara rağmen silah üretimine yavaş da olsa devam ediyor.\n— Aynı yetkililer, İran'ın çok sayıda insansız hava aracı ve kısa menzilli füzesi olduğunu da öne sürüyor.\n— Bu tabloyla birlikte Trump yönetiminin İran'a yeniden saldırmayı değerlendirdiği iddia ediliyor.\n— Trump daha önce İran'ın silahlarını ortadan kaldırdıklarını söylemişti. Yeni değerlendirmeler bu açıklamayla çelişiyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/dunya/abdden-iran-iddiasi-hala-2-binden-fazla-fuzeleri-var-7701057",
-    "Habertürk: https://www.haberturk.com/dunya/wsj-iran-2-bini-askin-fuzesi-var-3927457",
-    "Karar: https://www.karar.com/dunya-haberleri/abd-istihbarati-iranin-elinde-2-bin-500e-yakin-fuze-var-2084187",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/abdden-iran-iddiasi-hala-2-binden-fazla-fuzeleri-var-7701057"
-   ]
-  },
   {
    "id": "82b4d6fd2f",
    "post_id": "529346797199852_1469304995309208",
@@ -11599,6 +11665,22 @@
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
     "BPT (X): https://x.com/bpthaber/status/2122715975997133168"
    ]
+  },
+  {
+   "id": "8ea045cffb",
+   "post_id": "529346797199852_1471628041743570",
+   "title": "İstanbul'da akşam saatlerinde trafik yoğunluğu yüzde 76'ya ulaştı",
+   "at": "2026-11-17T15:58:36.050604+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da akşam saatlerinde trafik yoğunluğu yüzde 83'e çıktı. Ana arterler ve bağlantı yolları ağır ilerliyor.\n\n— İBB'nin trafik yoğunluk haritasına göre, saat 18.27'de kentteki yoğunluk yüzde 83'e kadar yükseldi.\n— Avrupa Yakası'nda D-100'ün Avcılar, Küçükçekmece, Bahçelievler, Bakırköy ve Zeytinburnu kesimlerinde yoğunluk var.\n— Anadolu Yakası'nda D-100'ün Üsküdar, Kadıköy, Ataşehir, Maltepe, Kartal ve Pendik kesimlerinde araçlar güçlükle ilerliyor.\n— TEM Otoyolu'nda Sancaktepe'den Ataşehir'e kadar yoğunluk sürüyor, köprü bağlantı yollarında da araçlar yavaş ilerliyor.\n— Toplu taşımayla yolculuk eden vatandaşlar duraklarda ve aktarma merkezlerinde sıra bekliyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-yogun-trafik-yuzde-76ya-ulasti-7702605",
+    "Habertürk: https://www.haberturk.com/gundem/istanbul-da-trafik-yuzde-76-yi-buldu-3928034",
+    "Sözcü: https://www.sozcu.com.tr/istanbulda-yogun-trafik-araclar-guclukle-ilerliyor-p382232",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-aksam-saatlerinde-trafik-yogunlugu-yuzde-76-ya-ulasti-2556983",
+    "Diken: https://www.diken.com.tr/istanbulda-trafik-yogunlugu-yuzde-83-14/?utm_source=rss&utm_medium=rss&utm_campaign=istanbulda-trafik-yogunlugu-yuzde-83-14",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/istanbulda-yogun-trafik-araclar-guclukle-ilerliyor-p382232"
+   ]
   }
  ],
  "fails": {
@@ -11842,7 +11924,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122715975997133168",
+   "since_id": "2122719752384544781",
    "started": true
   },
   "ajansmuhbir1923": {
