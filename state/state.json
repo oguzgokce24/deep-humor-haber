@@ -8826,20 +8826,58 @@
     "şırna"
    ],
    "at": "2026-11-17T12:40:12.776266+00:00"
+  },
+  {
+   "fp": [
+    "beled",
+    "işçis",
+    "opera",
+    "temiz",
+    "tutuk",
+    "uyuşt",
+    "çatal"
+   ],
+   "tok": [
+    "alına",
+    "aseto",
+    "baskı",
+    "başsa",
+    "beled",
+    "bulun",
+    "cezae",
+    "daki",
+    "depod",
+    "depoy",
+    "düzen",
+    "gram",
+    "gönde",
+    "işçis",
+    "kapsa",
+    "kasım",
+    "kilo",
+    "kimya",
+    "kulla",
+    "litre",
+    "madde",
+    "metam",
+    "milil",
+    "nın",
+    "sıvı",
+    "temiz",
+    "uyuşt",
+    "uşak",
+    "yapıl",
+    "yapım",
+    "yürüt",
+    "çalış",
+    "çatal",
+    "çıkar",
+    "öğren"
+   ],
+   "at": "2026-11-17T12:53:11.562465+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2b19f128c0",
-   "post_id": "529346797199852_1469178008655240",
-   "title": "Cezaevinde 3 günde 40'tan fazla fare yakalayan gazeteci",
-   "at": "2026-11-15T06:11:51.773691+00:00",
-   "yazim": "claude",
-   "metin": "Cezaevinde tutulan gazeteci Günday, 3 günde 40'tan fazla fare yakaladığını söyledi.\n\n— İYİ Partili Çömez, Günday'ın koğuşta tahta kuruları da olduğunu ve bunların vücudunu ısırdığını anlattığını belirtti.\n\n— Koğuşun teorik kapasitesi 42 kişi, ancak mescide ranza konularak yatak sayısı 48'e çıkarılmış. Koğuş mevcudu zaman zaman 68'e kadar yükseliyor.\n\n— Yer bulamayan tutuklular, gündüz yemek yenilen alana serdikleri şeylerle gece orada yatıyor.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/cezaevinde-3-gunde-40-tan-fazla-fare-yakalayan-gazeteci-p381445"
-   ]
-  },
   {
    "id": "d755b40fea",
    "post_id": "529346797199852_1469188541987520",
@@ -11427,6 +11465,19 @@
     "Evrensel: https://www.evrensel.net/haber/6009925/sirnak-ta-is-cinayeti-tirdan-dusen-is-makinesinin-altinda-kalarak-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/ehliyetini-1-ay-once-almisti-ailesinin-hediye-ettigi-otomobilde-can-verdi-7702469"
    ]
+  },
+  {
+   "id": "a4d69d1cb7",
+   "post_id": "529346797199852_1471473838425657",
+   "title": "Çatalca'da 'uyuşturucu' operasyonu: Belediye temizlik işçisi tutuklandı",
+   "at": "2026-11-17T12:53:11.562465+00:00",
+   "yazim": "claude",
+   "metin": "Çatalca'daki bir depoda 18 kilo 900 gram sıvı metamfetamin ele geçirildi.\n\n— Operasyon 12 Kasım'da, İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında yapıldı.\n— Depoda uyuşturucu yapımında kullanılan 25 litre 150 mililitre aseton da bulundu.\n— Operasyonda gözaltına alınan ve belediyede temizlik işçisi olarak çalıştığı öğrenilen bir kişi tutuklanarak cezaevine gönderildi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/catalca-da-uyusturucu-operasyonu-belediye-temizlik-iscisi-tutuklandi-2556867",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/usakta-uyusturucu-operasyonu-20-supheli-tutuklandi-4873524",
+    "Karar: https://www.karar.com/guncel-haberler/catalcada-depoya-uyusturucu-baskini-belediye-temizlik-iscisi-tutuklandi-2084635"
+   ]
   }
  ],
  "fails": {
@@ -11622,13 +11673,10 @@
   "35539eee59": 1,
   "c0a42681d6": 1,
   "6febac9790": 1,
-  "3c12691c86": 1
+  "3c12691c86": 1,
+  "ba2c038745": 1
  },
  "fail_log": [
-  "2026-11-17T05:29 Ulvi Saran: Türk güvenlik teşkilatı ve yargı sistemi adına c -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:33 Aykut Gül: Karbonu tutan ve yutan orman ekosistemleri­ni kor -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:33 Aykut Gül: Karbonu tutan ve yutan orman ekosistemleri­ni kor -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:33 Aykut Gül: Karbonu tutan ve yutan orman ekosistemleri­ni kor -> ValueError: yanıt okunamadı",
   "2026-11-17T05:33 Mehmet Şakir Örs: YENİ Parti kökleştirilmelidir -> ValueError: yanıt okunamadı",
   "2026-11-17T05:33 Mehmet Şakir Örs: YENİ Parti kökleştirilmelidir -> ValueError: yanıt okunamadı",
   "2026-11-17T05:33 Mehmet Şakir Örs: YENİ Parti kökleştirilmelidir -> ValueError: yanıt okunamadı",
@@ -11664,12 +11712,16 @@
   "2026-11-17T09:30 Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T09:30 Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T10:07 AİHM’den Can Atalay kararı: Derhal tahliye edilsin ve millet -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T10:07 AİHM’den Can Atalay kararı: Derhal tahliye edilsin ve millet -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-17T10:07 AİHM’den Can Atalay kararı: Derhal tahliye edilsin ve millet -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-17T12:53 Çatalca'da 'uyuşturucu' operasyonu: Belediye temizlik işçisi -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122667868102004905",
+   "since_id": "2122673410581147837",
    "started": true
   },
   "ajansmuhbir1923": {
