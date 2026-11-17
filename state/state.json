@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "38",
-    "5",
-    "cemiy",
-    "esirl",
-    "filis",
-    "gazet",
-    "hapis",
-    "israi",
-    "kadın",
-    "tutul"
-   ],
-   "tok": [
-    "bunla",
-    "cemiy",
-    "cezae",
-    "dosya",
-    "esirl",
-    "filis",
-    "gazet",
-    "gizli",
-    "göre",
-    "hapis",
-    "iddia",
-    "israi",
-    "kadın",
-    "kışkı",
-    "makam",
-    "olmak",
-    "sayıs",
-    "topla",
-    "tuttu",
-    "tutul",
-    "tutuy",
-    "üzere"
-   ],
-   "at": "2026-11-15T18:24:05.878016+00:00"
-  },
-  {
-   "fp": [
     "10",
     "5",
     "alevl",
@@ -9129,21 +9090,81 @@
     "öne"
    ],
    "at": "2026-11-17T06:16:39.145588+00:00"
+  },
+  {
+   "fp": [
+    "akom",
+    "dan",
+    "fırtı",
+    "istan",
+    "uyarı"
+   ],
+   "tok": [
+    "afet",
+    "akom",
+    "akşam",
+    "aralı",
+    "bağlı",
+    "başla",
+    "bekle",
+    "beled",
+    "bulun",
+    "büyük",
+    "cuma",
+    "daire",
+    "dan",
+    "derec",
+    "edece",
+    "etkil",
+    "eşlik",
+    "fırtı",
+    "gelen",
+    "gök",
+    "güney",
+    "gürül",
+    "hafta",
+    "hamle",
+    "hava",
+    "hızı",
+    "ibb",
+    "ise",
+    "işler",
+    "karşı",
+    "kentt",
+    "kilom",
+    "koşul",
+    "kuvve",
+    "kısa",
+    "lodos",
+    "megak",
+    "olaca",
+    "olmas",
+    "olums",
+    "risk",
+    "rüzga",
+    "saat",
+    "saatl",
+    "saatt",
+    "sağan",
+    "sonu",
+    "sürel",
+    "sıcak",
+    "tarih",
+    "uyarı",
+    "veril",
+    "yarın",
+    "yağış",
+    "yönet",
+    "çarşa",
+    "çıkab",
+    "çıkar",
+    "öğle",
+    "ılık"
+   ],
+   "at": "2026-11-17T06:29:08.337076+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9959c35a9d",
-   "post_id": "529346797199852_1468930102013364",
-   "title": "İstanbul Havalimanı'nda konserve kutularından 13 kilo uyuşturucu çıktı",
-   "at": "2026-11-14T23:29:58.491493+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Havalimanı'nda konserve kutularından 13 kilo esrar çıktı.\n\n— Gaziosmanpaşa Cumhuriyet Başsavcılığı'nın arama kararıyla yapılan incelemede kutuların içindeki esrar bulundu.\n— Tunus uyruklu iki kişi yakalanarak gözaltına alındı.\n— Şüphelilerin üzerindeki para ve telefonlara el konuldu; emniyetteki işlemlerinin ardından adliyeye sevk edilecekleri bildirildi.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/istanbul-havalimaninda-konserve-kutularindan-13-kilo-uyusturucu-cikti-p381402",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/istanbul-havalimaninda-konserve-kutularindan-kilolarca-uyusturucu-cikti-iki-gozalti-4872507"
-   ]
-  },
   {
    "id": "f1dbc653c6",
    "post_id": "529346797199852_1468936228679418",
@@ -11676,6 +11697,18 @@
    "sources": [
     "TRT Haber: https://www.trthaber.com/haber/dunya/adli-tip-uzmanindan-epstein-iddiasi-new-yorktaki-hucresinde-oldurulmus-olabilir-963496.html",
     "Evrensel: https://www.evrensel.net/haber/6009834/iddia-epstein-oldurulmus-olabilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "a04535074d",
+   "post_id": "529346797199852_1471191271787247",
+   "title": "AKOM'dan İstanbul için fırtına ve sağanak uyarısı: Tarih ve saat verildi",
+   "at": "2026-11-17T06:29:08.337076+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da çarşamba öğle saatlerinde başlayacak kuvvetli lodos fırtınası cuma akşamına kadar etkili olacak.\n\n— Rüzgarın hızı kısa süreli hamlelerle saatte 85 kilometreye kadar çıkabilir.\n— Fırtınaya aralıklarla sağanak yağış eşlik edecek, hafta sonu gök gürültülü sağanak bekleniyor.\n— Güneyden gelen ılık hava sıcaklıkları 19-22 dereceye çıkaracak. İBB'ye bağlı AKOM, kentteki olumsuz hava koşullarına karşı uyarıda bulundu.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akom-dan-istanbul-icin-firtina-ve-saganak-uyarisi-tarih-ve-saat-verildi-2556764",
+    "Karar: https://www.karar.com/guncel-haberler/akomdan-istanbul-icin-firtina-uyarisi-3-2084535"
    ]
   }
  ],
