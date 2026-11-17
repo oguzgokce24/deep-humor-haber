@@ -8851,22 +8851,86 @@
     "şırna"
    ],
    "at": "2026-11-17T14:15:55.218755+00:00"
+  },
+  {
+   "fp": [
+    "adil",
+    "atand",
+    "fon",
+    "hayat",
+    "kayyı",
+    "musta",
+    "nın",
+    "oğlu",
+    "varlı",
+    "yazıc",
+    "yönet",
+    "şirke"
+   ],
+   "tok": [
+    "adil",
+    "aktar",
+    "arası",
+    "ardın",
+    "atadı",
+    "atana",
+    "atand",
+    "ayağı",
+    "ayınd",
+    "banka",
+    "başla",
+    "başsa",
+    "binle",
+    "biri",
+    "büyüd",
+    "dayan",
+    "edile",
+    "elde",
+    "etkil",
+    "eylül",
+    "faali",
+    "fon",
+    "fonla",
+    "genel",
+    "gerçe",
+    "göre",
+    "kapsa",
+    "katıl",
+    "kayna",
+    "kayyu",
+    "kayyı",
+    "konu",
+    "kredi",
+    "kurul",
+    "manip",
+    "medya",
+    "musta",
+    "nın",
+    "oğlu",
+    "oğlun",
+    "parti",
+    "pay",
+    "sahib",
+    "serma",
+    "siste",
+    "skand",
+    "tek",
+    "ticar",
+    "tmsf",
+    "uzana",
+    "uzand",
+    "var",
+    "varlı",
+    "yardı",
+    "yatır",
+    "yazıc",
+    "yönet",
+    "şirke"
+   ],
+   "at": "2026-11-17T14:28:42.552570+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "eb21033826",
-   "post_id": "529346797199852_1469233041983070",
-   "title": "İran’da işçi servisi devrildi: Yaşamını yitirenlerin sayısı 12’ye yükseldi",
-   "at": "2026-11-15T07:43:00.722883+00:00",
-   "yazim": "claude",
-   "metin": "İran'ın İlam eyaletinde işçileri taşıyan servis otobüsü devrildi, can kaybı 12'ye yükseldi.\n\n— Fars Haber Ajansı'na göre yaralı sayısı 15 olarak bildirildi.\n— Otobüs, NGL Dehloran Şirketi çalışanlarını Deşt-i Abbas'tan Murmuri'ye taşıyordu ve petrol kuyularının yakınında devrildi.\n— İlk belirlemelerde 5 kişinin öldüğü, 17 kişinin yaralandığı duyurulmuştu.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/dunya/iranda-isci-servisi-kazasi-cok-sayida-olu-ve-yarali-var-3493357",
-    "Evrensel: https://www.evrensel.net/haber/6009558/iran-da-isci-servisi-devrilmesi-sonucu-can-kaybi-12-ye-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/iranda-isci-servisi-devrildi-yasamini-yitirenlerin-sayisi-12ye-yukseldi-746531"
-   ]
-  },
   {
    "id": "71887e564e",
    "post_id": "529346797199852_1469241871982187",
@@ -11461,6 +11525,19 @@
     "Evrensel: https://www.evrensel.net/haber/6009948/silopi-de-is-cinayeti-20-metreden-yuvarlanan-hafriyat-kamyonunun-soforu-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/sirnak-ta-hafriyat-kamyonu-sarampole-devrildi-1-isci-hayatini-kaybetti-746943"
    ]
+  },
+  {
+   "id": "3d95460024",
+   "post_id": "529346797199852_1471554665084241",
+   "title": "Fon soruşturması: Hayati Yazıcı’nın oğlu Mustafa Yazıcı’nın şirketine kayyım atandı",
+   "at": "2026-11-17T14:28:42.552570+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturması kapsamında dört şirkete TMSF'yi kayyum olarak atadı.\n\n— Şirketlerden biri, AK Parti Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlunun tek pay sahibi olduğu Adil Varlık Yönetim.\n— Kayyum atanan şirketler arasında Adil Katılım Bankası da var.\n— Başsavcılığa göre, gerçek bir ticari faaliyete dayanmayan kredilerle elde edilen kaynaklar bankanın kuruluş sermayesine aktarıldı, ardından fonlara yatırılarak fon manipülasyonuna konu edildi.\n— Eylül ayında başlayan ve yüz binlerce yatırımcıyı etkileyen fon skandalının bankacılık sistemine uzanan ayağı bu kararla büyüdü.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009952/hayati-yazici-nin-oglu-mustafa-yazici-nin-sirketi-adil-varlik-yonetim-e-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/17/fon-sorusturmasi-hayati-yazicinin-oglu-mustafa-yazicinin-sirketine-kayyim-atandi/",
+    "Karar: https://www.karar.com/guncel-haberler/fon-skandali-ak-parti-genel-baskan-yardimcisi-hayati-yazicinin-ogluna-2084678"
+   ]
   }
  ],
  "fails": {
@@ -11704,7 +11781,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122693950981251313",
+   "since_id": "2122698100858827127",
    "started": true
   },
   "ajansmuhbir1923": {
