@@ -9623,23 +9623,70 @@
     "özgür"
    ],
    "at": "2026-11-17T19:45:09.260677+00:00"
+  },
+  {
+   "fp": [
+    "alman",
+    "anket",
+    "güven",
+    "hüküm",
+    "kötü",
+    "merz",
+    "yayım"
+   ],
+   "tok": [
+    "alman",
+    "anket",
+    "araşt",
+    "arttı",
+    "ayına",
+    "başba",
+    "bin",
+    "birli",
+    "demok",
+    "den",
+    "düşer",
+    "forsa",
+    "fried",
+    "geril",
+    "göre",
+    "güven",
+    "hrist",
+    "hüküm",
+    "ise",
+    "kanal",
+    "kasım",
+    "katıl",
+    "koali",
+    "kötü",
+    "lider",
+    "memnu",
+    "merz",
+    "ntv",
+    "nın",
+    "olanl",
+    "olmay",
+    "oluşa",
+    "oranı",
+    "parti",
+    "puan",
+    "rtl",
+    "sosya",
+    "tarih",
+    "telev",
+    "temmu",
+    "yaptı",
+    "yayım",
+    "yükse",
+    "yüzde",
+    "çalış",
+    "ölçüy",
+    "şirke"
+   ],
+   "at": "2026-11-17T20:08:47.364511+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6de06b50d0",
-   "post_id": "529346797199852_1469480925291615",
-   "title": "Miami Havalimanı'nda iki uçak çarpıştı: iki kişi hafif yaralı",
-   "at": "2026-11-15T13:18:10.401530+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Silivri ilçesinde TEM Otoyolu'nda aynı yönde giden iki otomobil çarpıştı, 3 kişi yaralandı.\n\n— Kaza öğle saatlerinde Selimpaşa mevkiinde yaşandı, kazanın nedeni henüz belirlenemedi.\n\n— Çarpışmanın ardından bazı kişiler araçlarda sıkıştı. İtfaiye ekipleri yaralıları çıkardı ve ambulanslarla hastaneye kaldırıldı.\n\n— Yaralıların hayati tehlikesinin olmadığı öğrenildi. Araçlar yoldan kaldırıldıktan sonra ulaşım normale döndü.",
-   "sources": [
-    "Euronews: https://tr.euronews.com/2026/11/15/miami-havalimaninda-iki-ucak-carpisti-iki-kisi-hafif-yarali",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/silivri/silivride-iki-otomobil-carpisti-3-yarali-3493545",
-    "Sözcü: https://www.sozcu.com.tr/silivri-temde-iki-otomobil-carpisti-3-yarali-p381583",
-    "Karar: https://www.karar.com/guncel-haberler/silivri-tem-otoyolunda-iki-otomobil-carpisti-yaralilar-var-2084245"
-   ]
-  },
   {
    "id": "5512289859",
    "post_id": "529346797199852_1469491121957262",
@@ -12222,6 +12269,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-zeydan-karalar-a-sitem-geldigimizde-karsilamadi-ugurlamadi-baska-isler-yapti-2557031",
     "BirGün: https://www.birgun.net/haber/ozgur-ozel-den-zeydan-karalar-aciklamasi-biz-vefanin-bir-semt-olduguna-inanmiyoruz-746987"
    ]
+  },
+  {
+   "id": "d9d43f32c7",
+   "post_id": "529346797199852_1471816445058063",
+   "title": "Almanya'da güven anketi yayımlandı: Merz hükümetine kötü haber",
+   "at": "2026-11-17T20:08:47.364511+00:00",
+   "yazim": "claude",
+   "metin": "Almanya'da Merz hükümetinden memnun olmayanların oranı yüzde 86'ya yükseldi.\n\n— Forsa'nın RTL/NTV için 10-16 Kasım tarihlerinde 2 bin 501 kişiyle yaptığı ankete göre, memnuniyetsizlik temmuza göre 4 puan arttı.\n\n— Hükümetten memnun olanların oranı ise 6 puan düşerek yüzde 12'ye geriledi.\n\n— Anket, Başbakan Friedrich Merz'in liderliğindeki Hristiyan Birlik partileri ile Sosyal Demokrat Parti koalisyonunun çalışmalarını ölçüyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/almanya-da-guven-anketi-yayimlandi-merz-hukumetine-kotu-haber-746990"
+   ]
   }
  ],
  "fails": {
@@ -12429,16 +12487,11 @@
   "e828a99aee": 2,
   "f464e1dab6": 1,
   "785e4e3c5e": 1,
-  "590f7bf7df": 1
+  "590f7bf7df": 1,
+  "8c77d28fd6": 1,
+  "5f55ba1e2b": 1
  },
  "fail_log": [
-  "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-17T12:53 Çatalca'da 'uyuşturucu' operasyonu: Belediye temizlik işçisi -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T13:06 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T13:06 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T14:03 AJet’ten yurt içi uçuşlarda dev kış kampanyası: Biletler ve  -> ValueError: yanıt okunamadı",
   "2026-11-17T15:21 Mustafa Sandal’ın eşi Melis Sandal’dan 4,3 milyar TL’lik \"gö -> ValueError: cümle yarım kalmış: '— Baba ve kızın avuk'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: cümle yarım kalmış: 'sanıkların tutukluluğunun devamına karar'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: yanıt okunamadı",
@@ -12471,12 +12524,19 @@
   "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
   "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
   "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
-  "2026-11-17T19:45 Özgür Özel'den Zeydan Karalar açıklaması: \"Biz vefanın bir s -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-17T19:45 Özgür Özel'den Zeydan Karalar açıklaması: \"Biz vefanın bir s -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-17T20:08 OpenAI, GPT 6.2 Astra ve Sol modellerini duyurdu. -> ValueError: yanıt okunamadı",
+  "2026-11-17T20:08 OpenAI, GPT 6.2 Astra ve Sol modellerini duyurdu. -> ValueError: yanıt okunamadı",
+  "2026-11-17T20:08 OpenAI, GPT 6.2 Astra ve Sol modellerini duyurdu. -> ValueError: yanıt okunamadı",
+  "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
+  "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
+  "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
+  "2026-11-17T20:08 Almanya'da güven anketi yayımlandı: Merz hükümetine kötü hab -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122774534764023973",
+   "since_id": "2122781049503523057",
    "started": true
   },
   "ajansmuhbir1923": {
