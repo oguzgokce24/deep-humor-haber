@@ -9841,20 +9841,70 @@
     "çoğun"
    ],
    "at": "2026-11-17T22:04:32.971328+00:00"
+  },
+  {
+   "fp": [
+    "17",
+    "adayı",
+    "dokun",
+    "eleme",
+    "kasım",
+    "kazan",
+    "kim",
+    "maste",
+    "oyunu"
+   ],
+   "tok": [
+    "adayı",
+    "akşam",
+    "başın",
+    "belir",
+    "birey",
+    "bölüm",
+    "dokun",
+    "eleme",
+    "gecen",
+    "geçec",
+    "girec",
+    "gözle",
+    "hafta",
+    "hazır",
+    "heyec",
+    "içind",
+    "karşı",
+    "kasım",
+    "kazan",
+    "kendi",
+    "kim",
+    "kiş",
+    "konse",
+    "kırmı",
+    "maste",
+    "mavi",
+    "olurk",
+    "oylam",
+    "oyunu",
+    "peki",
+    "potas",
+    "salı",
+    "sonun",
+    "tabak",
+    "takım",
+    "tezgâ",
+    "turta",
+    "tv8",
+    "yapac",
+    "yarış",
+    "yayın",
+    "yaşan",
+    "çevri",
+    "çıktı",
+    "şefle"
+   ],
+   "at": "2026-11-17T22:17:09.667692+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "58602dbe87",
-   "post_id": "529346797199852_1469577518615289",
-   "title": "49 yıllık yolculuk: Voyager 1, bir ışık günü uzaklığa ulaşmak üzere",
-   "at": "2026-11-15T15:11:49.535209+00:00",
-   "yazim": "claude",
-   "metin": "NASA'nın 1977'de uzaya gönderdiği Voyager 1, 18 Kasım'da Dünya'dan bir ışık günü uzaklığa ulaşacak ve bu mesafeye varan ilk insan yapımı araç olacak.\n\n— Aracın gönderdiği radyo sinyali Dünya'ya ulaşmak için tam 24 saat yolda kalacak.\n— Bu mesafe yaklaşık 26 milyar kilometre demek.\n— İkizi Voyager 2'nin aynı noktaya ancak 2035'te ulaşabileceği söyleniyor.\n\nNASA, bu dönüm noktasını kutlamak için insanları 17 Kasım gün batımından sonra telefonlarının flaşı ya da el fenerleriyle gökyüzüne V-G-R harflerini Morse alfabesiyle yazmaya çağırdı.",
-   "sources": [
-    "Diken: https://www.diken.com.tr/49-yillik-yolculuk-voyager-1-bir-isik-gunu-uzakliga-ulasmak-uzere/?utm_source=rss&utm_medium=rss&utm_campaign=49-yillik-yolculuk-voyager-1-bir-isik-gunu-uzakliga-ulasmak-uzere"
-   ]
-  },
   {
    "id": "c2a8cd3d20",
    "post_id": "529346797199852_1469587098614331",
@@ -12428,6 +12478,18 @@
     "Evrensel: https://www.evrensel.net/haber/6009984/israil-de-muhalefet-blokunun-adayi-matan-kahana-meclis-baskani-secildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/israilde-muhalefet-blokunun-ortak-adayi-matan-kahana-meclis-baskani-secildi-7702690"
    ]
+  },
+  {
+   "id": "6b8e9231c6",
+   "post_id": "529346797199852_1471886955051012",
+   "title": "MasterChef dokunulmazlık oyunu kim kazandı? 17 Kasım Salı MasterChef Türkiye eleme adayı kim oldu?",
+   "at": "2026-11-17T22:17:09.667692+00:00",
+   "yazim": "claude",
+   "metin": "MasterChef'te haftanın ilk dokunulmazlık oyununu mavi takım kazandı.\n\n— 17 Kasım Salı akşamı TV8'de yayınlanan bölümde mavi ve kırmızı takım kiş ve turta konseptinde tabaklar hazırladı.\n— Takım oyununu kaybeden kırmızı takım, bireysel dokunulmazlık için tezgâh başına geçecek.\n— Eleme adayı, kaybeden takımın kendi içinde yapacağı oylamayla belirlenecek.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/magazin/masterchef-eleme-adayi-17-kasim-masterchefte-dokunulmazlik-oyununu-kim-kazandi-3494561",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-dokunulmazlik-oyunu-kim-kazandi-17-kasim-sali-masterchef-turkiye-eleme-adayi-kim-oldu-2557081"
+   ]
   }
  ],
  "fails": {
@@ -12640,7 +12702,6 @@
   "5f55ba1e2b": 1
  },
  "fail_log": [
-  "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: cümle yarım kalmış: 'sanıkların tutukluluğunun devamına karar'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: yanıt okunamadı",
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: yanıt okunamadı",
   "2026-11-17T16:24 Apple'a Paris'te dava: iPhone'larda planlı eskitme iddiası -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -12679,7 +12740,8 @@
   "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 Almanya'da güven anketi yayımlandı: Merz hükümetine kötü hab -> ValueError: yanıt okunamadı",
-  "2026-11-17T21:52 Gıdada yangın sönmüyor: Vatandaş sofrasına koyamadığı Erzuru -> ValueError: yanıt okunamadı"
+  "2026-11-17T21:52 Gıdada yangın sönmüyor: Vatandaş sofrasına koyamadığı Erzuru -> ValueError: yanıt okunamadı",
+  "2026-11-17T22:17 MasterChef dokunulmazlık oyunu kim kazandı? 17 Kasım Salı Ma -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
