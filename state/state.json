@@ -9094,25 +9094,66 @@
     "öngör"
    ],
    "at": "2026-11-17T17:04:55.487092+00:00"
+  },
+  {
+   "fp": [
+    "halkı",
+    "sesin",
+    "sustu",
+    "sözcü",
+    "tan",
+    "tepki",
+    "özçağ"
+   ],
+   "tok": [
+    "adres",
+    "anaya",
+    "atana",
+    "atanm",
+    "basın",
+    "bağım",
+    "bunu",
+    "den",
+    "devam",
+    "duyma",
+    "edece",
+    "edere",
+    "geldi",
+    "göste",
+    "hak",
+    "halk",
+    "halkı",
+    "hamle",
+    "ifade",
+    "kanal",
+    "kayyı",
+    "kazan",
+    "mille",
+    "müdah",
+    "olmuş",
+    "parti",
+    "sesin",
+    "suat",
+    "sustu",
+    "sözcü",
+    "sürec",
+    "t24",
+    "tan",
+    "tele1",
+    "telev",
+    "tepki",
+    "vurgu",
+    "yapan",
+    "yönel",
+    "ziyar",
+    "özgür",
+    "özçağ",
+    "şimdi"
+   ],
+   "at": "2026-11-17T17:17:29.246514+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6e49250c4f",
-   "post_id": "529346797199852_1469349175304790",
-   "title": "DMM’den \"Almanya’dan 500 kişi Türkiye’ye gönderilecek\" iddiasına yalanlama",
-   "at": "2026-11-15T10:35:15.048405+00:00",
-   "yazim": "claude",
-   "metin": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM), Almanya'da yasal ikamet hakkı olmayan 500 kişinin özel uçaklarla Türkiye'ye gönderileceği iddialarını yalanladı.\n\n— DMM'ye göre bu paylaşımlar gerçeği yansıtmıyor.\n\n— Aynı iddialar daha önce de gündeme gelmiş ve DMM tarafından açıkça yalanlanmıştı.\n\n— Kurum, kamuoyunu yanıltmayı amaçlayan bu içeriklere itibar edilmemesi çağrısında bulundu.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/dmm-almanyada-ikamet-hakki-olmayanlarin-turkiyeye-gonderilecegi-iddiasini-yalanladi/4125650",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/dmmden-almanyadan-500-kisi-turkiyeye-gonderilecek-iddiasina-aciklama-963332.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/dmmden-turkiyeye-gonderilecekler-iddiasina-yalanlama-43379004",
-    "Milliyet: https://www.milliyet.com.tr/gundem/almanyadan-turkiyeye-her-hafta-500-kisi-gonderilecek-iddiasi-dmmden-aciklama-7701135",
-    "Karar: https://www.karar.com/guncel-haberler/dmmden-almanyadan-500-kisi-turkiyeye-gonderilecek-iddiasina-yalanlama-2084218",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/almanyadan-turkiyeye-her-hafta-500-kisi-gonderilecek-iddiasi-dmmden-aciklama-7701135"
-   ]
-  },
   {
    "id": "3112d6fe9f",
    "post_id": "529346797199852_1469359635303744",
@@ -11719,6 +11760,18 @@
     "CNN Türk: https://www.cnnturk.com/dunya/irandan-abdye-nukleer-resti-3494510",
     "Diken: https://www.diken.com.tr/abd-senatosunda-butce-plani-b94-nukleer-bomba/?utm_source=rss&utm_medium=rss&utm_campaign=abd-senatosunda-butce-plani-b94-nukleer-bomba"
    ]
+  },
+  {
+   "id": "b32e2fc45f",
+   "post_id": "529346797199852_1471692408403800",
+   "title": "Özçağdaş'tan Sözcü TV tepkisi: 'Halkın sesini susturamayacaklar'",
+   "at": "2026-11-17T17:17:29.246514+00:00",
+   "yazim": "claude",
+   "metin": "Milletvekili Suat Özçağdaş, Sözcü TV'ye kayyım atanmasına tepki:\n\n“Bu televizyona hamle yapanlar, Sözcü TV gibi bağımsız televizyonculuğun adresi olmuş bir başka kanalı susturanlar kazanamayacaklar. (...) Bunu duymaya devam edeceksiniz.”\n\n— Sözcü TV'ye kayyım atanmıştı, Özçağdaş kanalı ziyaret ederek müdahaleye tepki gösterdi.\n— Özçağdaş, Tele1, T24 ve Halk TV'den sonra sürecin şimdi Sözcü TV'ye geldiğini söyledi.\n— Basın ve ifade özgürlüğünün anayasal hak olduğunu vurguladı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ozcagdas-tan-sozcu-tv-tepkisi-halkin-sesini-susturamayacaklar-2556981",
+    "BirGün: https://www.birgun.net/haber/yeni-partili-ozcagdas-tan-tepki-sozcu-tv-yi-susturanlar-kazanamayacak-bu-halkin-sesini-duymaya-devam-edeceksiniz-746977"
+   ]
   }
  ],
  "fails": {
@@ -11964,7 +12017,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122737535780524121",
+   "since_id": "2122740637355454747",
    "started": true
   },
   "ajansmuhbir1923": {
