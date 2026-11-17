@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "adale",
-    "arka",
-    "gergi",
-    "hisse",
-    "kadro",
-    "milli",
-    "sol",
-    "sıras",
-    "takım",
-    "uyluk",
-    "zeki",
-    "çelik",
-    "çıkar",
-    "ısınm"
-   ],
-   "tok": [
-    "adale",
-    "alper",
-    "arka",
-    "arkas",
-    "barış",
-    "başla",
-    "dışı",
-    "gergi",
-    "hisse",
-    "https",
-    "kadro",
-    "kaldı",
-    "milli",
-    "neden",
-    "re5ef",
-    "sol",
-    "sıras",
-    "takım",
-    "uyluk",
-    "x0cv0",
-    "yılma",
-    "zeki",
-    "çelik",
-    "çıkar",
-    "ısınm"
-   ],
-   "at": "2026-11-15T19:37:04.114401+00:00"
-  },
-  {
-   "fp": [
     "durum",
     "uğurc",
     "çakır"
@@ -9071,20 +9025,58 @@
     "ömerl"
    ],
    "at": "2026-11-17T07:32:07.906274+00:00"
+  },
+  {
+   "fp": [
+    "düşüş",
+    "konut",
+    "satış"
+   ],
+   "tok": [
+    "artış",
+    "aynı",
+    "ayına",
+    "ayınd",
+    "azala",
+    "bazda",
+    "belir",
+    "bin",
+    "devam",
+    "dönem",
+    "düşer",
+    "düştü",
+    "düşüş",
+    "ekim",
+    "ekimd",
+    "genel",
+    "geril",
+    "geçen",
+    "göre",
+    "ikinc",
+    "ilişk",
+    "indi",
+    "kayde",
+    "konut",
+    "ocak",
+    "reel",
+    "satıl",
+    "satış",
+    "sert",
+    "sınır",
+    "topla",
+    "tüik",
+    "veril",
+    "yaban",
+    "yaşan",
+    "yeri",
+    "yüzde",
+    "yıllı",
+    "yılın"
+   ],
+   "at": "2026-11-17T07:44:46.730727+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "72adbc4e12",
-   "post_id": "529346797199852_1468959542010420",
-   "title": "HABAŞ’taki iş cinayetinde yaşamını yitiren İşçi Özcan Efe’nin yakınları: Kardeşimi kendi işi olmayan bir yerde çalıştırıyorlardı",
-   "at": "2026-11-15T00:23:31.260917+00:00",
-   "yazim": "claude",
-   "metin": "Manisa'da HABAŞ'taki iş cinayetinde hayatını kaybeden işçinin ağabeyi:\n\n“Zaten kardeşimi kendi işi olmayan bir yerde çalıştırıyorlardı. Diğer işçilerin ailelerinden de böyle şeyler duydum. Bu da böyle bir düzen.”\n\n— Ağabeye göre vincin bakımı yapılmamıştı ve operatör bu vinçle çalışmayı kabul etmemişti.\n— Başka bir kişinin vinci çalıştırmasının ardından vinç yan yatmış ve patlama olmuştu.\n— HABAŞ'ta 21 Ekim ve 5 Kasım'da da iş cinayetleri yaşanmıştı.\n— Ölen işçinin yeğeni, taziye evinde hiçbir kaymakam, vali ya da bakan görmediğini söyledi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009530/habas-taki-is-cinayetinde-yasamini-yitiren-isci-ozcan-efe-nin-yakinlari-kardesimi-kendi-isi-olmayan-bir-yerde-calistiriyorlardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "691f677131",
    "post_id": "529346797199852_1468981635341544",
@@ -11618,6 +11610,19 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/istanbulda-baraj-doluluk-orani-yuzde-61e-ulasti-4873312",
     "Karar: https://www.karar.com/guncel-haberler/istanbulda-barajlarin-doluluk-orani-yuzde-61i-asti-2084545"
    ]
+  },
+  {
+   "id": "26bbf5816b",
+   "post_id": "529346797199852_1471235495116158",
+   "title": "Konut satışlarında sert düşüş: Ekim ayında yüzde 23,3 geriledi",
+   "at": "2026-11-17T07:44:46.730727+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye genelinde ekimde konut satışları yıllık bazda yüzde 23,3 düşerek 131 bin 72 oldu.\n\n— Geçen yılın aynı ayında 170 bin 955 konut satılmıştı.\n— İkinci el konut satışları yüzde 28,5 azalarak 80 bin 967'ye indi.\n— Ocak-ekim döneminde toplam konut satışları yüzde 9,2 geriledi.\n— İş yeri satışları da ekimde yüzde 12,6 düşerek 16 bin 489 oldu.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/ekonomi/konutta-reel-dususe-devam-3927882",
+    "Habertürk: https://www.haberturk.com/ekonomi/son-dakika-konut-satislarinda-dusus-3927870",
+    "Karar: https://www.karar.com/ekonomi-haberleri/konut-satislarinda-sert-dusus-ekim-ayinda-yuzde-233-geriledi-2084551"
+   ]
   }
  ],
  "fails": {
@@ -11858,7 +11863,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122592477395779902",
+   "since_id": "2122595161976783003",
    "started": true
   },
   "ajansmuhbir1923": {
