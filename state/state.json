@@ -9432,22 +9432,74 @@
     "şeyba"
    ],
    "at": "2026-11-17T19:06:37.429598+00:00"
+  },
+  {
+   "fp": [
+    "bakıc",
+    "genel",
+    "işler",
+    "karar",
+    "mahke",
+    "temiz",
+    "yaptı",
+    "yaşlı"
+   ],
+   "tok": [
+    "aile",
+    "appea",
+    "açmış",
+    "açtı",
+    "açtık",
+    "bakıc",
+    "banyo",
+    "bağlı",
+    "belir",
+    "bölge",
+    "böyle",
+    "daki",
+    "davay",
+    "diken",
+    "durdu",
+    "duyur",
+    "genel",
+    "hizme",
+    "huzur",
+    "hürri",
+    "idare",
+    "ilişk",
+    "itira",
+    "izmir",
+    "işler",
+    "karşı",
+    "kasım",
+    "kazan",
+    "kesin",
+    "korid",
+    "lavab",
+    "manis",
+    "oybir",
+    "perde",
+    "perso",
+    "post",
+    "redde",
+    "sağlı",
+    "sen",
+    "sorum",
+    "sosya",
+    "temiz",
+    "the",
+    "tuval",
+    "yaptı",
+    "yaşlı",
+    "yönet",
+    "yürüt",
+    "çalış",
+    "üyele"
+   ],
+   "at": "2026-11-17T19:19:22.389008+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b0cd07ce72",
-   "post_id": "529346797199852_1469439708629070",
-   "title": "Kayseri'de eşini ve 3 çocuğunu bıçakla rehin alan kişi gözaltına alındı",
-   "at": "2026-11-15T12:32:29.775164+00:00",
-   "yazim": "claude",
-   "metin": "Kayseri'nin Kocasinan ilçesinde eşini ve 3 çocuğunu bıçakla rehin alan 35 yaşındaki Ö.K., polis müdahalesiyle gözaltına alındı.\n\n— Olay dün akşam Yenimahalle'deki evde başladı, nedeni henüz bilinmiyor.\n\n— Ö.K.'nin psikolojik sorunları olduğu iddia edildi. Sabah saatlerinde 3 çocuğunu evden çıkardı.\n\n— Polis ekipleri psikolog eşliğinde uzun süre ikna etmeye çalıştı. Sonuç alınamayınca özel harekat polisleri kapıyı kırarak eve girdi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/kayseri/kayseride-karisini-ve-3-cocugunu-rehin-alan-kisi-gozaltina-alindi-3493496",
-    "Evrensel: https://www.evrensel.net/haber/6009595/kayseri-de-esini-ve-3-cocugunu-rehin-alan-sahis-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/guncel-haberler/kayseride-esini-ve-3-cocugunu-bicakla-rehin-alan-kisi-gozaltina-alindi-2084227"
-   ]
-  },
   {
    "id": "daef7548ac",
    "post_id": "529346797199852_1469459781960396",
@@ -12038,6 +12090,17 @@
     "Karar: https://www.karar.com/guncel-haberler/bakan-fidandan-mekke-anlasmasi-icin-genisleme-sinyali-2084709",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/disisleri-bakani-hakan-fidan-suriyede-entegrasyonu-destekliyoruz-7702586"
    ]
+  },
+  {
+   "id": "f3126006d8",
+   "post_id": "529346797199852_1471783968394644",
+   "title": "Mahkeme kararı: Yaşlı bakıcılarına genel temizlik işleri yaptırılamaz",
+   "at": "2026-11-17T19:19:22.389008+00:00",
+   "yazim": "claude",
+   "metin": "Yaşlı bakıcılarına genel temizlik işleri yaptırılamayacak; Manisa'daki bir huzurevine ilişkin mahkeme kararı kesinleşti.\n\n— Davayı Hürriyet Sağlık-Sen açtı. Manisa'da Aile ve Sosyal Hizmetler Bakanlığına bağlı bir huzurevinde çalışan üyelerinin genel temizlik işlerinde çalıştırılmasına karşı dava açmıştı.\n\n— Manisa 2. İdare Mahkemesi, tuvalet, banyo, koridor, lavabo ve perde temizliğinin temizlik personelinin sorumluluğunda olduğunu belirtti ve yürütmeyi durdurdu.\n\n— Huzurevi yönetiminin itirazı 6 Kasım'da İzmir Bölge İdare Mahkemesi tarafından oybirliğiyle reddedildi. Böylece karar kesinleşti.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/mahkeme-karari-yasli-bakicilarina-genel-temizlik-isleri-yaptirilamaz/?utm_source=rss&utm_medium=rss&utm_campaign=mahkeme-karari-yasli-bakicilarina-genel-temizlik-isleri-yaptirilamaz"
+   ]
   }
  ],
  "fails": {
@@ -12291,7 +12354,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122765650229968916",
+   "since_id": "2122770359208525876",
    "started": true
   },
   "ajansmuhbir1923": {
