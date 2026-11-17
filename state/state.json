@@ -12167,15 +12167,11 @@
   "a3f51677a9": 1,
   "1ab94d38f1": 1,
   "2627266d03": 1,
-  "e828a99aee": 1
+  "e828a99aee": 2,
+  "f464e1dab6": 1,
+  "785e4e3c5e": 1
  },
  "fail_log": [
-  "2026-11-17T07:58 Kremlin'den Trump'ın Ukrayna açıklamasına yanıt: Çok daha se -> ValueError: yanıt okunamadı",
-  "2026-11-17T08:11 Eylem Tok'un başvurusuna Oğuz Murat Aci'nin ailesinden tepki -> ValueError: cümle yarım kalmış: ' 2024'te yaşanan kazada 29 yaşındaki bir'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T08:11 Eylem Tok'un başvurusuna Oğuz Murat Aci'nin ailesinden tepki -> ValueError: metin çok kısa, bağlam yok",
-  "2026-11-17T08:52 Beyonce'den tarihi rekor: Grammy tarihindeki 100. adaylığını -> ValueError: yanıt okunamadı",
-  "2026-11-17T09:05 Economist 2027 kapağını hazırladı: Dünyayı neler bekliyor? -> ValueError: yanıt okunamadı",
-  "2026-11-17T09:05 Economist 2027 kapağını hazırladı: Dünyayı neler bekliyor? -> ValueError: yanıt okunamadı",
   "2026-11-17T09:05 Economist 2027 kapağını hazırladı: Dünyayı neler bekliyor? -> ValueError: yanıt okunamadı",
   "2026-11-17T09:30 Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T09:30 Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -12209,12 +12205,18 @@
   "2026-11-17T18:20 Üsküdar Belediyesi soruşturmasında tutuklanmıştı: Serdar Ayh -> ValueError: cümle yarım kalmış: '— Aile ve avukatları karara iti'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T18:45 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
   "2026-11-17T18:45 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
-  "2026-11-17T18:45 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı"
+  "2026-11-17T18:45 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:02 Counter-Strike'ın efsanevi haritası Cobblestone, kış temalı  -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:02 Counter-Strike'ın efsanevi haritası Cobblestone, kış temalı  -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:02 Counter-Strike'ın efsanevi haritası Cobblestone, kış temalı  -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122761776076886231",
+   "since_id": "2122765650229968916",
    "started": true
   },
   "ajansmuhbir1923": {
