@@ -2,90 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ailey",
-    "bilgi",
-    "doku",
-    "gülis",
-    "ifade",
-    "polis",
-    "soruş",
-    "verme"
-   ],
-   "tok": [
-    "ailen",
-    "ailey",
-    "anlat",
-    "anorm",
-    "arama",
-    "asayi",
-    "baraj",
-    "belir",
-    "bildi",
-    "bilgi",
-    "buldu",
-    "bulun",
-    "denil",
-    "dikka",
-    "doku",
-    "dosya",
-    "edece",
-    "ediyo",
-    "erzen",
-    "ettiğ",
-    "göre",
-    "görev",
-    "görün",
-    "gülis",
-    "gün",
-    "hafta",
-    "hatır",
-    "hiçbi",
-    "iddia",
-    "ifade",
-    "ilgil",
-    "ilişk",
-    "ise",
-    "ismai",
-    "itira",
-    "kamer",
-    "kaybo",
-    "kendi",
-    "kim",
-    "kimin",
-    "konuy",
-    "koord",
-    "kısa",
-    "malze",
-    "medya",
-    "memur",
-    "müdür",
-    "nun",
-    "ona",
-    "otomo",
-    "siz",
-    "söyle",
-    "sürec",
-    "süred",
-    "talim",
-    "tunce",
-    "valil",
-    "verdi",
-    "veril",
-    "verme",
-    "yansı",
-    "yürüt",
-    "çalış",
-    "çarpı",
-    "çeken",
-    "öğren",
-    "ünive",
-    "şekil",
-    "şube"
-   ],
-   "at": "2026-11-16T08:57:59.632463+00:00"
-  },
-  {
-   "fp": [
     "balko",
     "eleba",
     "otopa",
@@ -9830,22 +9746,50 @@
     "ürünü"
    ],
    "at": "2026-11-17T20:46:42.658783+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "artık",
+    "hasta",
+    "kalkm",
+    "kızam",
+    "ortad"
+   ],
+   "tok": [
+    "abd",
+    "ameri",
+    "artık",
+    "arınm",
+    "belir",
+    "değer",
+    "değil",
+    "dönem",
+    "göre",
+    "hasta",
+    "kalkm",
+    "kızam",
+    "meksi",
+    "neden",
+    "nin",
+    "olmad",
+    "orand",
+    "ortad",
+    "pan",
+    "sağlı",
+    "statü",
+    "virüs",
+    "yayıl",
+    "yetki",
+    "yükse",
+    "zaman",
+    "örgüt",
+    "ülke"
+   ],
+   "at": "2026-11-17T20:59:20.132775+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e66f6bc093",
-   "post_id": "529346797199852_1469522018620839",
-   "title": "Fenerbahçeli eski futbolcudan Talisca itirafı: 'Bana çok sinirleniyordu'",
-   "at": "2026-11-15T14:07:54.685441+00:00",
-   "yazim": "claude",
-   "metin": "Gençlerbirliği kalecisi İrfan Can Eğribayat, Talisca hakkında konuştu:\n\n“Antrenmanlardan sonra çok fazla şut çalışması yapıyorduk beraber. Orada da bana gol atamıyordu, çok sinirleniyordu bana.”\n\n— Eğribayat, sezon başında Fenerbahçe'den Gençlerbirliği'ne transfer olmuştu.\n— Sezonun ilk haftasında Gençlerbirliği, Fenerbahçe'yi 2-1 yendi.\n— Maçtan sonra Talisca'nın kendisine “Yine benden gol yemedin” dediğini anlattı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/irfan-can-egribayat-tan-talisca-itirafi-bana-cok-sinirleniyordu-2556348",
-    "Sözcü Spor: https://www.sozcu.com.tr/fenerbahceli-eski-futbolcudan-talisca-itirafi-bana-cok-sinirleniyordu-p381585",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/irfan-can-egribayattan-talisca-aciklamasi-cok-sinirleniyordu-bana-43379068"
-   ]
-  },
   {
    "id": "52d3432a80",
    "post_id": "529346797199852_1469533915286316",
@@ -12418,6 +12362,18 @@
    "sources": [
     "Hürriyet: https://www.hurriyet.com.tr/gundem/ticaret-bakanligi-2-cocuk-mayosu-icin-toplatma-karari-aldi-43381714",
     "Sözcü: https://www.sozcu.com.tr/anne-babalar-dikkat-iki-urun-icin-toplatma-karari-p382288"
+   ]
+  },
+  {
+   "id": "fe099be9c8",
+   "post_id": "529346797199852_1471844921721882",
+   "title": "ABD'de sağlık yetkililerinden kızamık açıklaması: \"Artık ortadan kalkmış bir hastalık değil\"",
+   "at": "2026-11-17T20:59:20.132775+00:00",
+   "yazim": "claude",
+   "metin": "ABD, kızamığın son dönemde yüksek oranda yayılması nedeniyle kızamıktan arınmış ülke statüsünü kaybetti.\n\n— Bu değerlendirmeyi Pan Amerikan Sağlık Örgütü açıkladı.\n\n— Örgüte göre kızamık artık ortadan kalkmış bir hastalık değil.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/kizamigin-artik-abd-ve-meksikada-ortadan-kalkmis-bir-hastalik-olmadigi-belirtildi/4128299",
+    "BirGün: https://www.birgun.net/haber/abd-de-saglik-yetkililerinden-kizamik-aciklamasi-artik-ortadan-kalkmis-bir-hastalik-degil-746995"
    ]
   }
  ],
