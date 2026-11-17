@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "roose",
-    "theod",
-    "uss"
-   ],
-   "tok": [
-    "abd",
-    "ameri",
-    "asker",
-    "başla",
-    "başlı",
-    "bilgi",
-    "bölge",
-    "daki",
-    "dayan",
-    "doğu",
-    "ekley",
-    "gazet",
-    "gemi",
-    "gemis",
-    "görev",
-    "haber",
-    "içind",
-    "kısa",
-    "new",
-    "nin",
-    "nyt",
-    "orta",
-    "ortad",
-    "roose",
-    "süre",
-    "theod",
-    "times",
-    "ulaşa",
-    "ulaşm",
-    "uss",
-    "uçak",
-    "varlı",
-    "verdi",
-    "yazdı",
-    "yetki",
-    "york",
-    "üzere",
-    "üçünc"
-   ],
-   "at": "2026-11-15T19:24:27.110601+00:00"
-  },
-  {
-   "fp": [
     "adale",
     "arka",
     "gergi",
@@ -9071,23 +9023,57 @@
     "şirke"
    ],
    "at": "2026-11-17T07:19:20.980599+00:00"
+  },
+  {
+   "fp": [
+    "61",
+    "baraj",
+    "dolul",
+    "istan",
+    "oranı",
+    "yüzde"
+   ],
+   "tok": [
+    "artır",
+    "aştı",
+    "baraj",
+    "daki",
+    "darlı",
+    "dolul",
+    "düşük",
+    "etkil",
+    "göre",
+    "günle",
+    "ise",
+    "iski",
+    "itiba",
+    "izliy",
+    "kasım",
+    "kayde",
+    "nda",
+    "onu",
+    "oran",
+    "oranl",
+    "oranı",
+    "ortal",
+    "pabuç",
+    "sağan",
+    "seviy",
+    "ulaşt",
+    "veril",
+    "yarad",
+    "yağmu",
+    "yağış",
+    "yükse",
+    "yüzde",
+    "çıktı",
+    "ölçül",
+    "ömerl"
+   ],
+   "at": "2026-11-17T07:32:07.906274+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bd021e0fc5",
-   "post_id": "529346797199852_1468950358678005",
-   "title": "Kış lastiği uygulaması başladı. Değiştirmeyen 6 bin lira ceza ödeyecek",
-   "at": "2026-11-15T00:06:45.377939+00:00",
-   "yazim": "claude",
-   "metin": "Zorunlu kış lastiği uygulaması bugün başladı. Kış lastiği olmayan ticari araçlara 6 bin lira ceza kesilecek.\n\n— Uygulama 15 Kasım'dan 15 Nisan'a kadar sürecek.\n— Kamyon, çekici, tanker ve otobüslerde tahrikli dingiller üzerindeki tüm lastikler kış lastiği olmalı. Kamyonet, minibüs ve ticari taksilerde dört lastiğin de kış lastiği olması gerekiyor.\n— Özel otomobiller için genel bir zorunluluk yok, ama hava 7 derecenin altına düştüğünde kış lastiği kullanılması öneriliyor. Valiliklerin bazı illerde bu zorunluluğu getirme yetkisi var.\n— Lastik sökme-takma ücretleri jant ölçüsüne göre 1.500 ile 3.000 lira arasında değişiyor.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/galeri-kis-lastigi-uygulamasi-basladi-degistirmeyen-6-bin-lira-ceza-odeyecek-1750901",
-    "Habertürk: https://www.haberturk.com/bilgi/foto/kis-lasti-gi-uygulamasi-tari-hleri-2026-2027-kis-lastigi-uygulamasi-ne-zaman-kis-lastigi-takmamanin-cezasi-ne-kadar-ve-hangi-araclara-zorunlu-3927433",
-    "Sözcü: https://www.sozcu.com.tr/yarindan-itibaren-zorunlu-aracina-taktirmayan-6-bin-lira-ceza-odeyecek-p381253",
-    "Karar: https://www.karar.com/guncel-haberler/direksiyon-basina-milyonlarca-arac-sahibi-acele-etsin-bugun-resmen-2084170"
-   ]
-  },
   {
    "id": "72adbc4e12",
    "post_id": "529346797199852_1468959542010420",
@@ -11618,6 +11604,20 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sozcu-tv-ye-operasyonda-akin-gurlek-ayrintisi-mahkumiyet-karari-veren-mahkemenin-baskaniydi-2556783"
    ]
+  },
+  {
+   "id": "657497d3cc",
+   "post_id": "529346797199852_1471227598450281",
+   "title": "İstanbul'da barajların doluluk oranı yüzde 61'i aştı",
+   "at": "2026-11-17T07:32:07.906274+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'daki barajların ortalama doluluk oranı yüzde 61'i aştı.\n\n— Son günlerdeki sağanak yağışlar barajlardaki su seviyesini yükseltti.\n— İSKİ verilerine göre ortalama oran 4 Kasım'da yüzde 54,75'ti, 17 Kasım'da yüzde 61,06'ya çıktı.\n— En yüksek doluluk yüzde 90,45 ile Darlık Barajı'nda ölçüldü. Onu yüzde 80,36 ile Ömerli izliyor.\n— En düşük oran yüzde 7,06 ile Pabuçdere Barajı'nda kaydedildi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/istanbulda-baraj-doluluk-orani-yuzde-61e-ulasti-3494214",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haber-istanbul-da-baraj-doluluk-orani-belli-oldu-istanbul-baraj-doluluk-orani-ne-kadar-3927863",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/istanbulda-baraj-doluluk-orani-yuzde-61e-ulasti-4873312",
+    "Karar: https://www.karar.com/guncel-haberler/istanbulda-barajlarin-doluluk-orani-yuzde-61i-asti-2084545"
+   ]
   }
  ],
  "fails": {
@@ -11810,12 +11810,10 @@
   "d4d7f51b25": 2,
   "aae9ec6ebd": 2,
   "09a1ddd1d4": 1,
-  "35539eee59": 1
+  "35539eee59": 1,
+  "c0a42681d6": 1
  },
  "fail_log": [
-  "2026-11-17T05:26 Hayri Hazargöl: AKP yetkililerinin süreç iyi gidiyor sözleri -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:26 Hayri Hazargöl: AKP yetkililerinin süreç iyi gidiyor sözleri -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:26 İbrahim Kiras: Uluslararası mafya düzeni -> ValueError: yanıt okunamadı",
   "2026-11-17T05:26 İbrahim Kiras: Uluslararası mafya düzeni -> ValueError: yanıt okunamadı",
   "2026-11-17T05:26 İbrahim Kiras: Uluslararası mafya düzeni -> ValueError: yanıt okunamadı",
   "2026-11-17T05:26 Ulvi Saran: Türk güvenlik teşkilatı ve yargı sistemi adına c -> ValueError: yanıt okunamadı",
@@ -11852,12 +11850,15 @@
   "2026-11-17T06:41 10 yıl sonra yeniden yollarda: Toyota’nın efsane modeli yeni -> ValueError: yanıt okunamadı",
   "2026-11-17T06:41 10 yıl sonra yeniden yollarda: Toyota’nın efsane modeli yeni -> ValueError: yanıt okunamadı",
   "2026-11-17T06:41 10 yıl sonra yeniden yollarda: Toyota’nın efsane modeli yeni -> ValueError: yanıt okunamadı",
-  "2026-11-17T07:19 Sözcü TV’ye operasyonda 'Akın Gürlek' ayrıntısı: Mahkûmiyet  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-17T07:19 Sözcü TV’ye operasyonda 'Akın Gürlek' ayrıntısı: Mahkûmiyet  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-17T07:32 Beyoncé, 100 Grammy adaylığına ulaşan ilk sanatçı oldu -> ValueError: yanıt okunamadı",
+  "2026-11-17T07:32 Beyoncé, 100 Grammy adaylığına ulaşan ilk sanatçı oldu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-17T07:32 Beyoncé, 100 Grammy adaylığına ulaşan ilk sanatçı oldu -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122587999288394022",
+   "since_id": "2122592477395779902",
    "started": true
   },
   "ajansmuhbir1923": {
