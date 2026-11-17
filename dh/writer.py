@@ -202,7 +202,7 @@ def parse_score(line: str, text: str = "") -> dict | None:
 
 
 UNVAN = re.compile(r"\b(?:AKP|AK Parti|MHP|CHP)['’]?(?:li|lı|lu|lü)\s+(?=(?:Cumhurbaşkanı|Cumhurbaşkanı Yardımcısı|"
-                   r"Bakan|[A-ZÇĞİÖŞÜ]\w+ Bakanı|TBMM Başkanı|Meclis Başkanı)\b)")
+                   r"Bakan|[A-ZÇĞİÖŞÜ]\w+(?:\s+(?:ve\s+)?[A-ZÇĞİÖŞÜ]\w+){0,3}\s+Bakanı|TBMM Başkanı|Meclis Başkanı)\b)")
 
 
 def _repair(t: str) -> str:
