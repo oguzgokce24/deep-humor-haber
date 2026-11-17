@@ -9690,20 +9690,92 @@
     "üzeri"
    ],
    "at": "2026-11-17T21:39:25.707528+00:00"
+  },
+  {
+   "fp": [
+    "anıyo",
+    "erzur",
+    "gıdad",
+    "koyam",
+    "sofra",
+    "sönmü",
+    "tulum",
+    "vatan",
+    "yangı"
+   ],
+   "tok": [
+    "alım",
+    "alıyo",
+    "anlat",
+    "anıyo",
+    "arası",
+    "artan",
+    "artık",
+    "azald",
+    "batık",
+    "burha",
+    "değiş",
+    "dikka",
+    "domat",
+    "düştü",
+    "düşür",
+    "emekl",
+    "erzur",
+    "esnaf",
+    "fiyat",
+    "gelen",
+    "getir",
+    "gezdi",
+    "gider",
+    "gücü",
+    "gıda",
+    "gıdad",
+    "hal",
+    "halde",
+    "ise",
+    "işçi",
+    "kasa",
+    "kiloy",
+    "koyam",
+    "kâr",
+    "lirad",
+    "marjı",
+    "mazot",
+    "müşte",
+    "nakli",
+    "olmay",
+    "oluşu",
+    "pahal",
+    "param",
+    "pazar",
+    "rekab",
+    "satar",
+    "satıy",
+    "satış",
+    "sofra",
+    "sönmü",
+    "söylü",
+    "tane",
+    "tulum",
+    "usulü",
+    "vatan",
+    "yangı",
+    "yarım",
+    "yaşlı",
+    "yetme",
+    "yoksu",
+    "yurtt",
+    "çalış",
+    "çekti",
+    "çeyil",
+    "çoğun",
+    "çıkar",
+    "ürün"
+   ],
+   "at": "2026-11-17T21:52:00.718865+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1a1f5c2892",
-   "post_id": "529346797199852_1469556358617405",
-   "title": "Uzmanlardan uyarı: Elektronik sigara ses tellerine zarar veriyor mu?",
-   "at": "2026-11-15T14:46:08.064567+00:00",
-   "yazim": "claude",
-   "metin": "Selena Gomez, elektronik sigara için:\n\n“Eğer siz de bu süreci geçiriyorsanız ya da elektronik sigara denemeyi düşünüyorsanız asla buna değmez. Bu çok aptalca, sesimi değiştirdi.”\n\n— Uzmanlar, elektronik sigaranın ses tellerini ve üst solunum yollarını etkileyebildiğini söylüyor.\n\n— Bir araştırmada, elektronik sigara kullanımının ses tellerinin koruyucu tabakasında iltihaplanma ve şişmeyle ilişkili olduğu görüldü.\n\n— Prof. Dr. Peter Wark'a göre ABD ve Çin'deki araştırmalarda elektronik sigara kullananların üçte birine kadarı kronik öksürük yaşadı. Benzer oranda kişi de ses kısıklığı ya da ses bozukluğu yaşadı.\n\nWark, nikotin içermemesinin elektronik sigaranın zararlarını ortadan kaldırmadığını belirtiyor. Uzun süreli kullanımın ses ve solunum sistemi üzerindeki etkileri ise henüz tam olarak bilinmiyor. Öksürük ya da ses kısıklığı görülürse elektronik sigaranın bırakılması gerektiğini söylüyor.",
-   "sources": [
-    "Karar: https://www.karar.com/saglik-haberleri/uzmanlardan-uyari-elektronik-sigara-ses-tellerine-zarar-veriyor-mu-2084258"
-   ]
-  },
   {
    "id": "e6d86e91e0",
    "post_id": "529346797199852_1469567741949600",
@@ -12274,6 +12346,17 @@
     "BirGün: https://www.birgun.net/haber/polsan-in-fonlara-yatirim-yaptigi-iddiasi-vardi-bakan-ciftci-polsan-in-fon-yatirimlarindan-114-milyon-lira-kar-elde-edildi-dedi-746999",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/bakan-ciftciden-polsan-iddialarina-yanit-herhangi-bir-zarar-yok-7702684"
    ]
+  },
+  {
+   "id": "cb3e8f0fd7",
+   "post_id": "529346797199852_1471873721719002",
+   "title": "Gıdada yangın sönmüyor: Vatandaş sofrasına koyamadığı Erzurum tulumunu anıyor",
+   "at": "2026-11-17T21:52:00.718865+00:00",
+   "yazim": "claude",
+   "metin": "Ankara Batıkent'te pazarcı Burhan Çeyil, müşteri azaldığı için satışın düştüğünü anlatıyor:\n\n“Müşterinin alım gücü olmayınca 30 kasa getirdiğim domatesi artık 10 kasa getiriyorum.”\n\n— Pazara gelen müşterilerin çoğunluğu yoksul, emekli ve yaşlılardan oluşuyor.\n— Domatesi haldeki fiyatı 40-70 lira arasında değişirken 60 liradan satıyor.\n— Rekabet için kâr marjını düşürdüklerini, işçi, mazot ve nakliye giderlerini ise daha az ürün satarak çıkarmaya çalıştıklarını söylüyor.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009924/gidada-yangin-sonmuyor-vatandas-sofrasina-koyamadigi-erzurum-tulumunu-aniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -12486,7 +12569,6 @@
   "5f55ba1e2b": 1
  },
  "fail_log": [
-  "2026-11-17T15:21 Mustafa Sandal’ın eşi Melis Sandal’dan 4,3 milyar TL’lik \"gö -> ValueError: cümle yarım kalmış: '— Baba ve kızın avuk'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: cümle yarım kalmış: 'sanıkların tutukluluğunun devamına karar'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: yanıt okunamadı",
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: yanıt okunamadı",
@@ -12525,7 +12607,8 @@
   "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
-  "2026-11-17T20:08 Almanya'da güven anketi yayımlandı: Merz hükümetine kötü hab -> ValueError: yanıt okunamadı"
+  "2026-11-17T20:08 Almanya'da güven anketi yayımlandı: Merz hükümetine kötü hab -> ValueError: yanıt okunamadı",
+  "2026-11-17T21:52 Gıdada yangın sönmüyor: Vatandaş sofrasına koyamadığı Erzuru -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
