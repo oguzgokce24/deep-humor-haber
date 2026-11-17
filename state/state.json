@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "den",
-    "fon",
-    "hafta",
-    "liste",
-    "özel",
-    "özgür"
-   ],
-   "tok": [
-    "abdul",
-    "akp",
-    "ana",
-    "arkad",
-    "başla",
-    "belir",
-    "bilgi",
-    "bunla",
-    "den",
-    "dosya",
-    "duyur",
-    "edilm",
-    "fon",
-    "genel",
-    "gerek",
-    "gizle",
-    "grup",
-    "göste",
-    "güler",
-    "hafta",
-    "hakkı",
-    "harek",
-    "herke",
-    "huzur",
-    "ilişk",
-    "isiml",
-    "itiba",
-    "işi",
-    "karin",
-    "kendi",
-    "kulis",
-    "lekel",
-    "liste",
-    "masum",
-    "mesaj",
-    "nin",
-    "ortay",
-    "parti",
-    "savun",
-    "siyas",
-    "sözle",
-    "tamam",
-    "tepki",
-    "teyit",
-    "uyku",
-    "vurgu",
-    "yapmı",
-    "yayar",
-    "yok",
-    "çalış",
-    "çıkar",
-    "özel",
-    "özgür"
-   ],
-   "at": "2026-11-15T14:33:23.323773+00:00"
-  },
-  {
-   "fp": [
     "elekt",
     "ses",
     "sigar",
@@ -9121,20 +9054,66 @@
     "zorun"
    ],
    "at": "2026-11-17T02:22:08.729378+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "2",
+    "değil",
+    "engel",
+    "kent",
+    "kâr",
+    "kâra",
+    "milya",
+    "pasif",
+    "suçu"
+   ],
+   "tok": [
+    "ait",
+    "akp",
+    "anıla",
+    "asuma",
+    "attı",
+    "ayda",
+    "aylık",
+    "davas",
+    "değil",
+    "dönem",
+    "elde",
+    "eleşt",
+    "engel",
+    "erdoğ",
+    "eylül",
+    "eşi",
+    "eşine",
+    "fahiş",
+    "fatih",
+    "gayri",
+    "ibb",
+    "imza",
+    "kamuo",
+    "kent",
+    "kâr",
+    "kâra",
+    "kârı",
+    "mağdu",
+    "mille",
+    "milya",
+    "nin",
+    "nitel",
+    "nın",
+    "ocak",
+    "pasif",
+    "proje",
+    "rağme",
+    "sahib",
+    "suçu",
+    "şirke"
+   ],
+   "at": "2026-11-17T02:34:49.117660+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3e311bc09a",
-   "post_id": "529346797199852_1468795598693481",
-   "title": "EMEP Dersim İl Kongresinde konuşan Sevda Karaca: “Süreç tıkır tıkır işliyorsa Dersim’de neden hâlâ kayyum sopası sallanıyor?”",
-   "at": "2026-11-14T19:35:24.750665+00:00",
-   "yazim": "claude",
-   "metin": "Sevda Karaca, EMEP Dersim İl Kongresi'nde:\n\n“Süreç tıkır tıkır işliyorsa Dersim halkının başında neden hâlâ kayyum sopası sallanıyor? Seyit Rıza ve yoldaşlarının mezarlarının nerede olduğu neden hâlâ bulunamıyor?”\n\nEMEP Genel Başkan Yardımcısı ve Gaziantep Milletvekili Karaca, iktidarın “Terörsüz Türkiye” söylemiyle Kürt sorununu sınırlandırmaya çalıştığını savundu. Kürt sorununun demokratik çözümünün emekçilerin kendi talepleriyle birlikte ele alınması gerektiğini söyledi.\n\n— Kongrede kayyum uygulamaları, Dersim'deki madencilik projeleri ve kadın cinayetleri de gündeme geldi.\n— Kongrede Ergin Tekin, il başkanlığına yeniden seçildi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009539/emep-dersim-il-kongresinde-konusan-sevda-karaca-surec-tikir-tikir-isliyorsa-dersim-de-neden-hl-kayyum-sopasi-sallaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "e49a9d165c",
    "post_id": "529346797199852_1468802968692744",
@@ -11670,6 +11649,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/kozanli-emeklilerden-zam-tepkisi-ocak-zammini-fonculara-versinler-746809"
    ]
+  },
+  {
+   "id": "bdc7dc151e",
+   "post_id": "529346797199852_1471034098469631",
+   "title": "\"Kent suçu\" kâra engel değil: Pasifikten 2,1 milyar TL kâr",
+   "at": "2026-11-17T02:34:49.117660+00:00",
+   "yazim": "claude",
+   "metin": "Milletvekili Asuman Erdoğan'ın eşine ait Pasifik Gayrimenkul, 2026'nın ocak-eylül döneminde 2,1 milyar TL kâr etti.\n\n— Şirketin sahibi, İBB davasında \"mağdur\" olarak anılan kişi.\n\n— Kamuoyunda \"kent suçu\" olarak nitelendirilen Merkez Ankara Projesi'nin sahibi de bu şirket.\n\n— Eleştirilen projeye rağmen şirket dokuz ayda bu kârı elde etti.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/kent-sucu-kara-engel-degil-pasifikten-2-1-milyar-tl-kar-746818"
+   ]
   }
  ],
  "fails": {
@@ -11853,12 +11843,10 @@
   "e9bf7539b9": 2,
   "3eedfd9218": 2,
   "f94b05b274": 1,
-  "b0381286c6": 1
+  "b0381286c6": 1,
+  "cc7ee1e87c": 1
  },
  "fail_log": [
-  "2026-11-16T21:28 2025’te 7.000 TL’ydi bu yıl fiyatı sert düştü: Gaziantep’te  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-16T21:41 Soru: \"İran dronlarının şahsen sizi hedef almasından endişe  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-16T21:41 Soru: \"İran dronlarının şahsen sizi hedef almasından endişe  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-16T22:26 Uçuşların durdurulmasının ardından yeni kriz: Dev bankaların -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-16T22:26 Uçuşların durdurulmasının ardından yeni kriz: Dev bankaların -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-16T22:39 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
@@ -11895,7 +11883,10 @@
   "2026-11-17T01:53 Yazarımız Mesci, İsmet Küntay Ödülü’nü cezaevindeki gazeteci -> ValueError: yanıt okunamadı",
   "2026-11-17T01:53 Jeofizik Mühendisleri’nden deprem uyarısı: ‘Yapılarımızı dep -> ValueError: yanıt okunamadı",
   "2026-11-17T01:53 Jeofizik Mühendisleri’nden deprem uyarısı: ‘Yapılarımızı dep -> ValueError: yanıt okunamadı",
-  "2026-11-17T01:53 Jeofizik Mühendisleri’nden deprem uyarısı: ‘Yapılarımızı dep -> ValueError: yanıt okunamadı"
+  "2026-11-17T01:53 Jeofizik Mühendisleri’nden deprem uyarısı: ‘Yapılarımızı dep -> ValueError: yanıt okunamadı",
+  "2026-11-17T02:34 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
+  "2026-11-17T02:34 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
+  "2026-11-17T02:34 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
