@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "17",
-    "aralı",
-    "açıkl",
-    "iddia",
-    "ilişk",
-    "inanı",
-    "kadir",
-    "mal",
-    "varlı",
-    "vasiy"
-   ],
-   "tok": [
-    "aralı",
-    "arkad",
-    "ayınd",
-    "açıla",
-    "banka",
-    "belir",
-    "bulun",
-    "bırak",
-    "dalam",
-    "gayri",
-    "hazir",
-    "hesap",
-    "iddia",
-    "ilişk",
-    "inanı",
-    "jülid",
-    "kadir",
-    "karşı",
-    "kural",
-    "mal",
-    "masra",
-    "nakit",
-    "oyunc",
-    "resmi",
-    "sattı",
-    "sürül",
-    "taki",
-    "tedav",
-    "ulus",
-    "varlı",
-    "vasiy",
-    "önces",
-    "öne"
-   ],
-   "at": "2026-11-15T22:55:07.212049+00:00"
-  },
-  {
-   "fp": [
     "2",
     "4",
     "5",
@@ -8945,20 +8895,72 @@
     "üyeli"
    ],
    "at": "2026-11-17T10:45:13.964785+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "akp",
+    "beled",
+    "danış",
+    "deniz",
+    "eski",
+    "gözal",
+    "kişi",
+    "opera",
+    "zolan"
+   ],
+   "tok": [
+    "akp",
+    "alına",
+    "alınd",
+    "arala",
+    "arası",
+    "başsa",
+    "beled",
+    "bulun",
+    "bülen",
+    "büyük",
+    "dahil",
+    "danış",
+    "deniz",
+    "duyur",
+    "eski",
+    "geldi",
+    "görev",
+    "ilgil",
+    "işlem",
+    "kamu",
+    "kapsa",
+    "kulla",
+    "kötüy",
+    "malın",
+    "mevcu",
+    "neden",
+    "nuri",
+    "osman",
+    "perso",
+    "sekiz",
+    "sorgu",
+    "suç",
+    "suçla",
+    "söyle",
+    "usuls",
+    "var",
+    "verme",
+    "yaptı",
+    "yönel",
+    "yönet",
+    "yürüt",
+    "yıl",
+    "zarar",
+    "zolan",
+    "çavuş",
+    "öncek"
+   ],
+   "at": "2026-11-17T10:57:56.945529+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5de87548bc",
-   "post_id": "529346797199852_1469100021996372",
-   "title": "Diyanet Ata’nın mirasına göz dikti",
-   "at": "2026-11-15T04:11:18.957990+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Adalar'daki 224 dönümlük ormanlık alanda bulunan sanatoryum, mahkeme kararına rağmen Diyanet'e devredilip \"İslami Eğitim Merkezi\" yapılacak.\n\n— 14. İdare Mahkemesi, Adalar Belediyesi, Mimarlar Odası, İstanbul Barosu ve İstanbul Tabip Odası'nın açtığı davalar sonucu bu işlemi durdurmuştu.\n\n— Hazine'ye ait 660 yataklı sanatoryum 2005'te \"deniz yoluyla ulaşım zorluğu ve hasta sayısı yetersiz\" gerekçesiyle kapatılmış, 2010'daki yangında da hasar görmüştü.\n\n— Milli Şef İsmet İnönü, 1924'te geçirdiği verem hastalığının tedavisini bu sanatoryumda tamamlamıştı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/diyanet-ata-nin-mirasina-goz-dikti-p381409"
-   ]
-  },
   {
    "id": "ef03da04e4",
    "post_id": "529346797199852_1469112281995146",
@@ -11526,6 +11528,19 @@
     "NTV: https://www.ntv.com.tr/turkiye/bakan-gurlek-devlet-bahceli-ile-gorusuyor-1751283",
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-bahceli-gurlek-ile-gorusuyor-3927942",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-zamanlamasi-dikkat-cekti-devlet-bahceli-ve-akin-gurlek-ten-surpriz-gorusme-2556862"
+   ]
+  },
+  {
+   "id": "01c1e88701",
+   "post_id": "529346797199852_1471363485103359",
+   "title": "Denizli'de belediye personeline operasyon: 11 kişi gözaltında",
+   "at": "2026-11-17T10:57:56.945529+00:00",
+   "yazim": "claude",
+   "metin": "Denizli'de belediyeye yönelik soruşturmada 11 kişi gözaltına alındı.\n\n— Gözaltına alınanlar arasında eski AKP'li Büyükşehir Belediye Başkanı Osman Zolan'ın eski danışmanı da var.\n— Sekizi Denizli Büyükşehir Belediyesi personeli olan şüpheliler \"kamu malına zarar verme\" ve \"görevi kötüye kullanma\" suçlamasıyla sorgulanıyor.\n— Belediye, işlemlerin göreve geldiği ilk yıl yaptığı suç duyurularıyla ilgili olduğunu açıkladı. Mevcut başkan Bülent Nuri Çavuşoğlu, usulsüzlükler nedeniyle Başsavcılığa suç duyurusunda bulunduklarını daha önce söylemişti.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009875/denizli-de-akp-li-zolan-in-eski-danismaninin-da-aralarinda-bulundugu-11-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/denizli-de-operasyon-eski-akp-li-belediye-baskani-zolanin-onceki-danismani-dahil-11-gozalti-746904",
+    "Karar: https://www.karar.com/guncel-haberler/denizlide-belediye-personeline-operasyon-11-kisi-gozaltinda-2084622"
    ]
   }
  ],
