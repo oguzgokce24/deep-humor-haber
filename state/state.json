@@ -9497,21 +9497,75 @@
     "üyele"
    ],
    "at": "2026-11-17T19:19:22.389008+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "abd",
+    "binle",
+    "elçil",
+    "emper",
+    "polit",
+    "topra",
+    "yürüd",
+    "yıldö"
+   ],
+   "tok": [
+    "abd",
+    "aksam",
+    "atina",
+    "ağaç",
+    "başla",
+    "bekle",
+    "binle",
+    "boyun",
+    "cunta",
+    "devri",
+    "değer",
+    "diren",
+    "dönüm",
+    "elçil",
+    "emper",
+    "etkil",
+    "fırtı",
+    "gece",
+    "geces",
+    "genel",
+    "göre",
+    "isted",
+    "karşı",
+    "kilom",
+    "meteo",
+    "müdür",
+    "nün",
+    "olaca",
+    "olmas",
+    "polit",
+    "rüzga",
+    "saatt",
+    "sokak",
+    "tedbi",
+    "tekni",
+    "topra",
+    "ulaşı",
+    "uçmas",
+    "valil",
+    "vatan",
+    "yürüd",
+    "yıl",
+    "yıldö",
+    "çarşa",
+    "çatı",
+    "çıkma",
+    "çıktı",
+    "öngör",
+    "öğren",
+    "ünive"
+   ],
+   "at": "2026-11-17T19:32:10.981773+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "daef7548ac",
-   "post_id": "529346797199852_1469459781960396",
-   "title": "Bakan Şimşek açıkladı: Fon skandalında iade hesabına ne kadar ödeme yapıldı?",
-   "at": "2026-11-15T12:53:15.430557+00:00",
-   "yazim": "claude",
-   "metin": "Fon tasfiyesinde 131 fonda yatırımcılara şimdiye kadar 161 milyar lira ödendi. Hazine ve Maliye Bakanı Mehmet Şimşek, 17 Eylül'de tasfiyeye alınan 7 portföy yönetim şirketinin fonlarındaki son durumu açıkladı.\n\n— Yaklaşık 456 bin yatırımcının 371 bin 21'i, net yatırım tutarının tamamını alarak sistemden çıktı.\n— Olağan tasfiyede 55 bin 821 kişiye 68 milyar lira, olağanüstü tasfiyede 415 bin 955 kişiye 93 milyar lira ödendi.\n— Şimşek, ödemelerde Hazine kaynaklarının kullanılmadığını söyledi.\n— İade hesabında biriken 35,6 milyar liranın büyük kısmı fonlara aktarılarak ödendi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/fon-tasfiyesinde-kac-kisiye-ne-kadar-odeme-yapildi-bakan-simsek-tek-tek-rakamlari-paylasti-2556326",
-    "BirGün: https://www.birgun.net/haber/bakan-simsek-acikladi-fon-skandalinda-iade-hesabina-ne-kadar-odeme-yapildi-746559"
-   ]
-  },
   {
    "id": "9090c1acab",
    "post_id": "529346797199852_1469471085292599",
@@ -12101,6 +12155,17 @@
    "sources": [
     "Diken: https://www.diken.com.tr/mahkeme-karari-yasli-bakicilarina-genel-temizlik-isleri-yaptirilamaz/?utm_source=rss&utm_medium=rss&utm_campaign=mahkeme-karari-yasli-bakicilarina-genel-temizlik-isleri-yaptirilamaz"
    ]
+  },
+  {
+   "id": "11144c85b8",
+   "post_id": "529346797199852_1471792221727152",
+   "title": "Politeknik yıldönümünde on binler ABD Elçiliğine yürüdü: “Emperyalizme ne toprak ne su”",
+   "at": "2026-11-17T19:32:10.981773+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da çarşamba gecesi fırtına bekleniyor, rüzgarın saatte 60-80 kilometreye kadar çıkması öngörülüyor.\n\n— Meteoroloji Genel Müdürlüğü'nün değerlendirmesine göre fırtına gece boyunca etkili olacak.\n— Valilik, çatı uçması, ağaç devrilmesi ve ulaşımda aksamalara karşı vatandaşların tedbirli olmasını istedi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009974/politeknik-yildonumunde-on-binler-abd-elciligine-yurudu-emperyalizme-ne-toprak-ne-su?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -12307,12 +12372,10 @@
   "2627266d03": 1,
   "e828a99aee": 2,
   "f464e1dab6": 1,
-  "785e4e3c5e": 1
+  "785e4e3c5e": 1,
+  "590f7bf7df": 1
  },
  "fail_log": [
-  "2026-11-17T09:30 Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T09:30 Bakan Çiftçi: 669 organize suç örgütüne operasyon düzenledik -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T10:07 AİHM’den Can Atalay kararı: Derhal tahliye edilsin ve millet -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T10:07 AİHM’den Can Atalay kararı: Derhal tahliye edilsin ve millet -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
@@ -12349,12 +12412,15 @@
   "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
   "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
   "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
-  "2026-11-17T19:06 Dışişleri Bakanı Fidan'dan Mekke İttifakı'na yeni ülkelerin  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-17T19:06 Dışişleri Bakanı Fidan'dan Mekke İttifakı'na yeni ülkelerin  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122770359208525876",
+   "since_id": "2122774534764023973",
    "started": true
   },
   "ajansmuhbir1923": {
