@@ -8935,22 +8935,45 @@
     "öğle"
    ],
    "at": "2026-11-17T11:33:32.086675+00:00"
+  },
+  {
+   "fp": [
+    "dan",
+    "erdoğ",
+    "fon",
+    "talim"
+   ],
+   "tok": [
+    "akp",
+    "dan",
+    "düzen",
+    "erdoğ",
+    "fon",
+    "geldi",
+    "gerçe",
+    "günde",
+    "ilişk",
+    "isted",
+    "kurma",
+    "kurul",
+    "myk",
+    "sonu",
+    "sonuç",
+    "spk",
+    "süre",
+    "sürec",
+    "talim",
+    "tamam",
+    "topla",
+    "verdi",
+    "yürüt",
+    "yıl",
+    "yılba"
+   ],
+   "at": "2026-11-17T11:46:01.037594+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b781f38ad4",
-   "post_id": "529346797199852_1469136178659423",
-   "title": "Bahreyn’de ikinci kez tehlike uyarısı: Halka güvenli yerlere gitme çağrısı yapıldı",
-   "at": "2026-11-15T05:08:30.291679+00:00",
-   "yazim": "claude",
-   "metin": "Bahreyn'de yetkililer, halkı en yakın güvenli yerlere gitmeye çağırdı.\n\nBahreyn İçişleri Bakanlığı, ülkede yaşayanlardan sakin kalmalarını ve resmi açıklamaları takip etmelerini istedi. Bakanlık bu uyarıyı kısa aralıklarla ikinci kez yaptı, ancak tehlikenin ne olduğunu açıklamadı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/bahreyn-icisleri-bakanligindan-ikinci-kez-halka-en-yakin-guvenli-yere-gidin-cagrisi/4125473",
-    "Habertürk: https://www.haberturk.com/dunya/bahreyn-icisleri-bakanligindan-vatandaslara-en-yakin-guvenli-yere-gidin-cagrisi-3927440",
-    "BirGün: https://www.birgun.net/haber/bahreynde-ikinci-kez-tehlike-uyarisi-halka-guvenli-yerlere-gitme-cagrisi-yapildi-746525"
-   ]
-  },
   {
    "id": "999ec1131e",
    "post_id": "529346797199852_1469144218658619",
@@ -11533,6 +11556,18 @@
     "BirGün: https://www.birgun.net/haber/meteoroloji-den-marmara-denizi-uyarisi-746890",
     "Karar: https://www.karar.com/guncel-haberler/marmara-ve-bati-karadeniz-icin-firtina-uyarisi-2084633"
    ]
+  },
+  {
+   "id": "13b9c867ba",
+   "post_id": "529346797199852_1471419715097736",
+   "title": "Erdoğan'dan kurmaylarına fon talimatı: Süre verdi",
+   "at": "2026-11-17T11:46:01.037594+00:00",
+   "yazim": "claude",
+   "metin": "AKP'li Cumhurbaşkanı Erdoğan, fon soruşturmalarının yılbaşına kadar tamamlanmasını istedi.\n\n— AKP Merkez Yürütme Kurulu toplantısında fon soruşturmaları ve yeni SPK düzenlemesi gündeme geldi.",
+   "sources": [
+    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-fon-sorusturmalari-icin-yil-sonu-talimati-sonuclandirin-4873410",
+    "BirGün: https://www.birgun.net/haber/erdogan-dan-kurmaylarina-fon-talimati-sure-verdi-746892"
+   ]
   }
  ],
  "fails": {
@@ -11775,7 +11810,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122651873672892793",
+   "since_id": "2122656536203829324",
    "started": true
   },
   "ajansmuhbir1923": {
