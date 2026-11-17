@@ -8919,21 +8919,76 @@
     "şansı"
    ],
    "at": "2026-11-17T15:34:25.944223+00:00"
+  },
+  {
+   "fp": [
+    "17",
+    "asker",
+    "düştü",
+    "kişi",
+    "nakli",
+    "rus",
+    "rusya",
+    "sibir",
+    "uçak",
+    "uçağı",
+    "öldü",
+    "ölü"
+   ],
+   "tok": [
+    "acil",
+    "aldığ",
+    "alev",
+    "asker",
+    "basın",
+    "belir",
+    "bildi",
+    "bulun",
+    "bölge",
+    "can",
+    "civar",
+    "düştü",
+    "ekipl",
+    "göre",
+    "haber",
+    "havad",
+    "haval",
+    "hesab",
+    "içind",
+    "kargo",
+    "kaybı",
+    "kemer",
+    "köyü",
+    "medya",
+    "nakli",
+    "nın",
+    "olay",
+    "payla",
+    "rus",
+    "rusya",
+    "sayıd",
+    "sered",
+    "servi",
+    "sibir",
+    "sosya",
+    "taşıy",
+    "tipin",
+    "uçak",
+    "uçakt",
+    "uçağı",
+    "var",
+    "vardı",
+    "yagun",
+    "yakın",
+    "yaşan",
+    "yerin",
+    "çalış",
+    "öldüğ"
+   ],
+   "at": "2026-11-17T15:46:59.048069+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e49c3a447c",
-   "post_id": "529346797199852_1469288155310892",
-   "title": "Kazada hava yastıkları açılmadı: 1 milyon liralık tazminat davası açtı",
-   "at": "2026-11-15T09:06:50.781654+00:00",
-   "yazim": "claude",
-   "metin": "Bursa'da kaza yapan otomobilin hava yastıkları açılmadı. Sürücü, firmadan aldığı yanıt üzerine 1 milyon liralık manevi tazminat davası açtı.\n\nKazada sürücünün aktardığı firma yanıtı:\n\n“Aracımız akıllı. Yaşanan olayda, sürücü ve yolcunun korunmaya ihtiyacı olmadığı için hava yastığı açılmadı.”\n\n— 30 Kasım 2025'te Bursa Çevre Yolu Yıldırım çıkışı yakınlarında yağış nedeniyle kontrolünü kaybeden araç, bariyerlere çarparak durdu.\n— Sürücü yara almadı, yanındaki arkadaşı hafif yaralanarak hastaneye kaldırıldı.\n— Araç Ağustos 2025'te alınmıştı. Sürücü, hava yastıklarının açılmadığını fark edince ertesi gün firmanın müşteri hizmetlerini aradı.\n— Avukatın aktardığına göre mahkemenin istediği incelemede darbe emiciler koptu, şasiler büküldü ve bilirkişi raporu hava yastıklarının açılmamasının normal olmadığını değerlendirdi.\n— Avukat, durumu gizli ayıp olarak ele aldıklarını ve Asliye Hukuk Mahkemesi'nde firma aleyhine dava açtıklarını söyledi.\n— Araç perte ayrıldı, sürücü başka marka bir araç kullanmaya başladı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/kazada-hava-yastiklari-acilmadi-1-milyon-liralik-tazminat-davasi-acti-p381512",
-    "Karar: https://www.karar.com/guncel-haberler/hava-yastiklari-acilmayan-arac-icin-dava-acti-firmadan-korunmaya-2084198"
-   ]
-  },
   {
    "id": "5a212d2a74",
    "post_id": "529346797199852_1469296658643375",
@@ -11528,6 +11583,22 @@
     "Karar: https://www.karar.com/spor-haberleri/edersondan-sampiyonluk-yarisi-icin-iddiali-aciklama-ben-daha-once-10-2084668",
     "Sözcü Spor: https://www.sozcu.com.tr/edersondan-iddiali-sozler-10-puan-gondermesi-p382216"
    ]
+  },
+  {
+   "id": "2dbd211358",
+   "post_id": "529346797199852_1471618358411205",
+   "title": "Son dakika! Rusya'da askeri uçak düştü: 17 can kaybı",
+   "at": "2026-11-17T15:46:59.048069+00:00",
+   "yazim": "claude",
+   "metin": "Rusya'nın Kemerovo bölgesinde askeri kargo uçağı düştü, uçakta bulunan 17 kişinin öldüğü bildirildi.\n\n— Uçağın havada alev aldığı belirtildi.\n— Kaza, Kemerovo Havalimanı yakınlarındaki Yagunovo köyü civarında yaşandı.\n— Rus basınındaki haberlere göre uçak \"An-12\" tipinde ve içinde 17 kişi vardı.\n— Seredyuk, sosyal medya hesabından olay yerinde acil servis ekiplerinin çalıştığını paylaştı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
+    "Habertürk: https://www.haberturk.com/dunya/son-dakika-rusya-da-askeri-ucak-dustu-17-olu-3928037",
+    "Karar: https://www.karar.com/guncel-haberler/son-dakika-rusyada-askeri-ucak-dustu-17-can-kaybi-2084699",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/rusya-da-askeri-ucak-dustu-p382234",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
+    "BPT (X): https://x.com/bpthaber/status/2122715975997133168"
+   ]
   }
  ],
  "fails": {
@@ -11771,7 +11842,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122713339822219759",
+   "since_id": "2122715975997133168",
    "started": true
   },
   "ajansmuhbir1923": {
