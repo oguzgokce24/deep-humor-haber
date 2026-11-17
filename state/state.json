@@ -9151,22 +9151,104 @@
     "şimdi"
    ],
    "at": "2026-11-17T17:17:29.246514+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "ağı",
+    "devre",
+    "dışı",
+    "gizli",
+    "haber",
+    "imtih",
+    "kaldı",
+    "nin",
+    "nsa",
+    "nın",
+    "yapay",
+    "zekay",
+    "şimdi"
+   ],
+   "tok": [
+    "abd",
+    "adres",
+    "aksad",
+    "aktar",
+    "arası",
+    "ardın",
+    "arıza",
+    "ağı",
+    "banka",
+    "bildi",
+    "buldu",
+    "bulgu",
+    "büyük",
+    "cnn",
+    "dair",
+    "devre",
+    "dinle",
+    "durdu",
+    "dönem",
+    "dışı",
+    "elekt",
+    "faa",
+    "genel",
+    "geçic",
+    "gizli",
+    "göre",
+    "günlü",
+    "güven",
+    "haber",
+    "hava",
+    "havay",
+    "hizme",
+    "ileti",
+    "imtih",
+    "kaldı",
+    "kalkı",
+    "kasım",
+    "kayna",
+    "kesil",
+    "kesin",
+    "kontr",
+    "kurum",
+    "mantı",
+    "markw",
+    "micro",
+    "mulli",
+    "müdah",
+    "nin",
+    "nsa",
+    "nın",
+    "otoma",
+    "progr",
+    "serbe",
+    "siber",
+    "siste",
+    "sorun",
+    "suçla",
+    "söyle",
+    "tekno",
+    "trafi",
+    "uzman",
+    "uçakl",
+    "uçuşl",
+    "yapay",
+    "yayın",
+    "yazıl",
+    "yazıs",
+    "yok",
+    "zeka",
+    "zekay",
+    "zekây",
+    "ölçüd",
+    "ülke",
+    "şimdi"
+   ],
+   "at": "2026-11-17T17:30:10.375958+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3112d6fe9f",
-   "post_id": "529346797199852_1469359635303744",
-   "title": "Emekli maaşı düzenlemesi: Enflasyonun üzerinde artış hedefleniyor",
-   "at": "2026-11-15T10:48:37.625703+00:00",
-   "yazim": "claude",
-   "metin": "Cevdet Yılmaz, emekli zammı için:\n\n“Bu sadece asgari emeklilerle ilgili değil, sistemin ve emeklilerin geneline ilişkin bir çalışma. Prim ödeme gün sayısı gibi, yaş gibi faktörler de bu çalışmada tartışılan konular.”\n\n— Yılmaz, emekli maaşlarına enflasyonun üzerinde bir artış hedeflendiğini söyledi.\n— Düzenlemenin yıl sonundan önce TBMM'ye sunulması planlanıyor.\n— TÜİK'e göre yıllık enflasyon yüzde 29,77 oldu.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/cevdet-yilmaz-acikladi-emekli-zamminda-yeni-hedef-belli-oldu-746535",
-    "Karar: https://www.karar.com/ekonomi-haberleri/cevdet-yilmazdan-emekli-zammina-iliskin-aciklama-enflasyonun-uzerinde-2084219",
-    "Diken: https://www.diken.com.tr/emekli-maasi-duzenlemesi-enflasyonun-uzerinde-artis-hedefleniyor/?utm_source=rss&utm_medium=rss&utm_campaign=emekli-maasi-duzenlemesi-enflasyonun-uzerinde-artis-hedefleniyor"
-   ]
-  },
   {
    "id": "ff5253bb7a",
    "post_id": "529346797199852_1469368628636178",
@@ -11772,6 +11854,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ozcagdas-tan-sozcu-tv-tepkisi-halkin-sesini-susturamayacaklar-2556981",
     "BirGün: https://www.birgun.net/haber/yeni-partili-ozcagdas-tan-tepki-sozcu-tv-yi-susturanlar-kazanamayacak-bu-halkin-sesini-duymaya-devam-edeceksiniz-746977"
    ]
+  },
+  {
+   "id": "3c084888d4",
+   "post_id": "529346797199852_1471702005069507",
+   "title": "ABD’nin yapay zekayla imtihanı: Şimdi de NSA’nın gizli haberleşme ağı devre dışı kaldı",
+   "at": "2026-11-17T17:30:10.375958+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de NSA'nın çok gizli iletişim ağı devre dışı kaldı. Altı günlük dönemde bankalar, havayolları ve Microsoft hizmetleri de aksadı.\n\n— 12–17 Kasım arasında beş büyük kesinti bildirildi. 13 Kasım'da FAA'nın hava trafik kontrol sistemindeki arıza, ülke genelinde uçakların kalkışlarını geçici olarak durdurdu.\n\n— CNN'e göre kesintinin siber saldırıdan kaynaklandığına dair bir bulgu yok.\n\n— İç Güvenlik Bakanı Markwayne Mullin, bir teknoloji uzmanının sorunun yazılımlara otomatik müdahale eden yapay zeka programlarından kaynaklanabileceğini söylediğini aktardı. Mullin bu açıklamayı \"bir ölçüde mantıklı\" buldu.",
+   "sources": [
+    "Serbestiyet: https://serbestiyet.com/dis-haber/abdnin-yapay-zekayla-imtihani-simdi-de-nsanin-gizli-haberlesme-agi-devre-disi-kaldi-253757/"
+   ]
   }
  ],
  "fails": {
@@ -11970,12 +12063,10 @@
   "3c12691c86": 1,
   "ba2c038745": 1,
   "691ad53a3d": 1,
-  "c583a63879": 1
+  "c583a63879": 1,
+  "ef3253747f": 1
  },
  "fail_log": [
-  "2026-11-17T05:36 Mehmet Şakir Örs: YENİ Parti kökleştirilmelidir -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:36 Mehmet Şakir Örs: YENİ Parti kökleştirilmelidir -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:36 Mehmet Şakir Örs: YENİ Parti kökleştirilmelidir -> ValueError: yanıt okunamadı",
   "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
   "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
   "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
@@ -12012,12 +12103,15 @@
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: yanıt okunamadı",
   "2026-11-17T16:24 18 yıllık cinayet dosyasında kan donduran ifade: “Baraja ada -> ValueError: yanıt okunamadı",
   "2026-11-17T16:24 Apple'a Paris'te dava: iPhone'larda planlı eskitme iddiası -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T16:50 ABD senatosunda bütçe planı: B94 nükleer bomba -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-17T16:50 ABD senatosunda bütçe planı: B94 nükleer bomba -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı",
+  "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı",
+  "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122740637355454747",
+   "since_id": "2122742957656711601",
    "started": true
   },
   "ajansmuhbir1923": {
