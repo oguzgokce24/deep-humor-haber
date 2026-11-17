@@ -8980,21 +8980,83 @@
     "çıkar"
    ],
    "at": "2026-11-17T04:33:12.785766+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "20",
+    "atan",
+    "devri",
+    "makas",
+    "minib",
+    "neden",
+    "otomo",
+    "yaral",
+    "ölü"
+   ],
+   "tok": [
+    "adli",
+    "ani",
+    "ardın",
+    "atan",
+    "attı",
+    "aynı",
+    "biriy",
+    "devri",
+    "direk",
+    "gebze",
+    "geçiş",
+    "giden",
+    "göre",
+    "görün",
+    "hakim",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "incel",
+    "içi",
+    "kamer",
+    "kayde",
+    "kayıt",
+    "kazan",
+    "kazay",
+    "kocae",
+    "kontr",
+    "makas",
+    "manev",
+    "minib",
+    "neden",
+    "nin",
+    "ortay",
+    "otomo",
+    "refüj",
+    "sağ",
+    "sol",
+    "sonuc",
+    "sürüc",
+    "sürüy",
+    "takla",
+    "tedav",
+    "tekni",
+    "yapan",
+    "yaşam",
+    "yitir",
+    "yolcu",
+    "yönde",
+    "yürüt",
+    "çarpm",
+    "çarpt",
+    "çarpı",
+    "çıkar",
+    "çıktı",
+    "ölen",
+    "şerid",
+    "şerit"
+   ],
+   "at": "2026-11-17T05:03:21.208317+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "60c4ce93ce",
-   "post_id": "529346797199852_1468880668684974",
-   "title": "Netanyahu’nun birlik hükümeti çağrısına Eisenkot’tan “siyasi manevra” yanıtı",
-   "at": "2026-11-14T21:56:36.425230+00:00",
-   "yazim": "claude",
-   "metin": "Eisenkot'tan Netanyahu'nun birlik hükümeti çağrısına yanıt:\n\n“Güzel deneme, ama bu numaralar bende sökmez. Ve İsrail vatandaşlarında da sökmez.”\n\n— Netanyahu, hükümeti kurmakla görevlendirilen Eisenkot'a ön koşulsuz görüşme ve ulusal birlik hükümeti çağrısı yaptı.\n— Eisenkot bu çağrıyı siyasi manevra olarak nitelendirdi ve Netanyahu'yu yeni hükümetin kurulmasını engellemekle suçladı.\n— İsrail'de 27 Ekim seçimlerinin ardından hükümet kurma görüşmeleri sürüyor.\n— Yashar ile Likud arasındaki görüşme 15 Kasım Pazar günü yapılacak.\n— Knesset Başkanlığı seçimi ise 17 Kasım Salı günü yapılacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/eisenkot-netanyahunun-ulusal-birlik-hukumeti-teklifini-yeni-bir-algi-operasyonu-olarak-niteledi/4125442",
-    "Evrensel: https://www.evrensel.net/haber/6009543/netanyahu-nun-birlik-hukumeti-cagrisina-eisenkot-tan-siyasi-manevra-yaniti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "502621185a",
    "post_id": "529346797199852_1468904275349280",
@@ -11527,6 +11589,18 @@
    "sources": [
     "Karar: https://www.karar.com/dunya-haberleri/dunya-devlerine-siber-saldiri-hsbc-bank-bbc-cnn-ve-zoom-dahil-178-2084522"
    ]
+  },
+  {
+   "id": "679d8b166e",
+   "post_id": "529346797199852_1471130621793312",
+   "title": "Makas atan araç minibüsün devrilmesine neden oldu: 1 ölü, 20 yaralı",
+   "at": "2026-11-17T05:03:21.208317+00:00",
+   "yazim": "claude",
+   "metin": "Kocaeli'nin Gebze ilçesinde makas atan bir otomobil yolcu minibüsüne çarptı, minibüs devrildi: 1 kişi hayatını kaybetti, 20 kişi yaralandı.\n\n— Araç içi kameranın kaydettiği görüntülere göre otomobil sol şeritten sağ şeride ani bir geçiş yaptı.\n— Sürücü direksiyon hakimiyetini kaybetti, önce refüje, ardından aynı yönde giden minibüse çarptı.\n— Çarpmanın ardından minibüs takla attı ve ölen kişi minibüsün yolcularından biriydi.\n— Yaralıların tedavisi hastanelerde sürüyor, polis kazayla ilgili teknik ve adli inceleme yürütüyor.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/makas-atan-otomobil-minibusun-devrilmesine-neden-oldu-1-olu-20-yarali-963478.html",
+    "Karar: https://www.karar.com/guncel-haberler/makas-atan-arac-minibusun-devrilmesine-neden-oldu-1-olu-20-yarali-2084527"
+   ]
   }
  ],
  "fails": {
@@ -11722,7 +11796,6 @@
  "fail_log": [
   "2026-11-17T01:53 Yazarımız Mesci, İsmet Küntay Ödülü’nü cezaevindeki gazeteci -> ValueError: yanıt okunamadı",
   "2026-11-17T01:53 Yazarımız Mesci, İsmet Küntay Ödülü’nü cezaevindeki gazeteci -> ValueError: yanıt okunamadı",
-  "2026-11-17T01:53 Yazarımız Mesci, İsmet Küntay Ödülü’nü cezaevindeki gazeteci -> ValueError: yanıt okunamadı",
   "2026-11-17T01:53 Jeofizik Mühendisleri’nden deprem uyarısı: ‘Yapılarımızı dep -> ValueError: yanıt okunamadı",
   "2026-11-17T01:53 Jeofizik Mühendisleri’nden deprem uyarısı: ‘Yapılarımızı dep -> ValueError: yanıt okunamadı",
   "2026-11-17T01:53 Jeofizik Mühendisleri’nden deprem uyarısı: ‘Yapılarımızı dep -> ValueError: yanıt okunamadı",
@@ -11759,12 +11832,13 @@
   "2026-11-17T04:59 Alaattin Aktaş: Bütçe ne onduruyor ne öldürüyor -> ValueError: yanıt okunamadı",
   "2026-11-17T04:59 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı",
   "2026-11-17T04:59 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı",
-  "2026-11-17T04:59 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı"
+  "2026-11-17T04:59 Kamil Tekin Sürek: Belediyelerde yolsuzluk yapılıyor da devl -> ValueError: yanıt okunamadı",
+  "2026-11-17T05:03 Makas atan araç minibüsün devrilmesine neden oldu: 1 ölü, 20 -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122550232265490810",
+   "since_id": "2122556012301275524",
    "started": true
   },
   "ajansmuhbir1923": {
