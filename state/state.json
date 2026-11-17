@@ -9563,25 +9563,69 @@
     "ünive"
    ],
    "at": "2026-11-17T19:32:10.981773+00:00"
+  },
+  {
+   "fp": [
+    "den",
+    "karal",
+    "zeyda",
+    "özel",
+    "özgür"
+   ],
+   "tok": [
+    "adana",
+    "alınd",
+    "ancak",
+    "beled",
+    "biz",
+    "bizi",
+    "büyük",
+    "cezae",
+    "den",
+    "deyim",
+    "diyer",
+    "duygu",
+    "ettik",
+    "geldi",
+    "gelmi",
+    "genel",
+    "görev",
+    "hafta",
+    "inand",
+    "inanm",
+    "inanı",
+    "insan",
+    "işler",
+    "kaldı",
+    "karal",
+    "karşı",
+    "kendi",
+    "koşar",
+    "kıyme",
+    "nde",
+    "olduğ",
+    "parti",
+    "semt",
+    "serbe",
+    "seçti",
+    "siliv",
+    "sitem",
+    "sözle",
+    "sürdü",
+    "uzakl",
+    "uğurl",
+    "vefan",
+    "yol",
+    "zeyda",
+    "ziyar",
+    "çalış",
+    "özel",
+    "özgür"
+   ],
+   "at": "2026-11-17T19:45:09.260677+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9090c1acab",
-   "post_id": "529346797199852_1469471085292599",
-   "title": "Yeni Parti'nin ilk kurultayı: 160 kişiye çıkarılan PM'de kimler var?",
-   "at": "2026-11-15T13:05:43.588941+00:00",
-   "yazim": "claude",
-   "metin": "Yeni Parti'nin ilk kurultayında Parti Meclisi üye sayısı 160'a çıkarıldı, delegeler bugün listeyi oylayacak.\n\n— Tüzük değişikliğiyle 80'den 150'ye çıkarılan PM, Genel Başkan Özgür Özel'in yetkisiyle 160'a yükseltildi.\n— Politika Geliştirme Grubu'nun üye sayısı da 30'dan 40'a çıkarıldı.\n— Listede, mutlak butlan kararıyla CHP'den ayrılıp Yeni Parti'ye katılan isimler de yer alıyor.\n— Kayıtlı 1202 delege, PM ve 15 üyeli Yüksek Disiplin Kurulu için oy kullanacak.",
-   "sources": [
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss",
-    "NTV: https://www.ntv.com.tr/turkiye/yeni-parti-kurultayinda-ikinci-gun-160-kisilik-parti-meclis-listesi-belli-oldu-1751004",
-    "Sözcü: https://www.sozcu.com.tr/yeni-parti-de-160-kisilik-pm-listesi-aciklandi-p381540",
-    "Evrensel: https://www.evrensel.net/haber/6009585/yeni-partinin-160-kisilik-pm-ve-15-kisilik-ydk-aday-listesi-aciklandi-kimler-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Evrensel: https://www.evrensel.net/haber/6009576/yeni-parti-1-olagan-kurultayi-pm-uye-sayisi-150-den-160-a-cikarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Diken: https://www.diken.com.tr/yeni-parti-kurultayi-160-kisilik-pm-listesi/?utm_source=rss&utm_medium=rss&utm_campaign=yeni-parti-kurultayi-160-kisilik-pm-listesi"
-   ]
-  },
   {
    "id": "6de06b50d0",
    "post_id": "529346797199852_1469480925291615",
@@ -12166,6 +12210,18 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6009974/politeknik-yildonumunde-on-binler-abd-elciligine-yurudu-emperyalizme-ne-toprak-ne-su?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "b0da54ab3d",
+   "post_id": "529346797199852_1471802195059488",
+   "title": "Özgür Özel'den Zeydan Karalar açıklaması: \"Biz vefanın bir semt olduğuna inanmıyoruz\"",
+   "at": "2026-11-17T19:45:09.260677+00:00",
+   "yazim": "claude",
+   "metin": "Özgür Özel'den Zeydan Karalar'a sitem:\n\n“Zeydan Başkan biz geldiğimizde karşılamadı, uğurlamadı, başka işler yaptı. Kendince bir yol seçti.”\n\n— Görevden uzaklaştırılan Adana Büyükşehir Belediye Başkanı Karalar, gözaltına alındığında Özel'in deyimiyle koşarak gelmişti.\n— Özel, iki haftada bir Silivri Cezaevi'nde Karalar'ı ziyaret ettiklerini ve serbest kaldığında Adana'da karşıladıklarını söyledi.\n— Özel, \"Ama biz vefanın bir semt olduğuna inanmıyoruz.\" diyerek sözlerini sürdürdü.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-zeydan-karalar-a-sitem-geldigimizde-karsilamadi-ugurlamadi-baska-isler-yapti-2557031",
+    "BirGün: https://www.birgun.net/haber/ozgur-ozel-den-zeydan-karalar-aciklamasi-biz-vefanin-bir-semt-olduguna-inanmiyoruz-746987"
+   ]
   }
  ],
  "fails": {
@@ -12376,7 +12432,6 @@
   "590f7bf7df": 1
  },
  "fail_log": [
-  "2026-11-17T10:07 AİHM’den Can Atalay kararı: Derhal tahliye edilsin ve millet -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-17T12:53 Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
@@ -12415,7 +12470,8 @@
   "2026-11-17T19:06 Dışişleri Bakanı Fidan'dan Mekke İttifakı'na yeni ülkelerin  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
   "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
-  "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı"
+  "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
+  "2026-11-17T19:45 Özgür Özel'den Zeydan Karalar açıklaması: \"Biz vefanın bir s -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
