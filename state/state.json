@@ -2,90 +2,6 @@
  "seen": [
   {
    "fp": [
-    "40",
-    "biri",
-    "donma",
-    "fare",
-    "gazet",
-    "giyin",
-    "kader",
-    "kat",
-    "yakal"
-   ],
-   "tok": [
-    "aktar",
-    "aland",
-    "alanı",
-    "belir",
-    "beton",
-    "biri",
-    "boyun",
-    "bulam",
-    "burad",
-    "cezae",
-    "dediğ",
-    "donma",
-    "eski",
-    "fare",
-    "fazla",
-    "gazet",
-    "geçeb",
-    "girdi",
-    "giyin",
-    "grup",
-    "görev",
-    "göste",
-    "gün",
-    "günda",
-    "günde",
-    "gündü",
-    "ibade",
-    "ilgil",
-    "iyi",
-    "kader",
-    "kalıy",
-    "kat",
-    "kaşif",
-    "kişil",
-    "kocae",
-    "kolla",
-    "konul",
-    "kozin",
-    "koğuş",
-    "mit",
-    "nde",
-    "nun",
-    "parti",
-    "ranza",
-    "sayıs",
-    "selah",
-    "siliv",
-    "suçsu",
-    "tahta",
-    "tan",
-    "turha",
-    "tutul",
-    "uyudu",
-    "yata",
-    "yatak",
-    "yatan",
-    "yattı",
-    "yatıy",
-    "yemek",
-    "yenil",
-    "yer",
-    "yerde",
-    "yere",
-    "ziyar",
-    "çömez",
-    "çıkar",
-    "ölen",
-    "ölümü"
-   ],
-   "at": "2026-11-16T02:52:02.568899+00:00"
-  },
-  {
-   "fp": [
     "70",
     "bakım",
     "doğum",
@@ -8948,21 +8864,66 @@
     "şikay"
    ],
    "at": "2026-11-17T14:41:26.980085+00:00"
+  },
+  {
+   "fp": [
+    "bazı",
+    "bozca",
+    "ferib",
+    "gökçe",
+    "hatla",
+    "iptal",
+    "sefer",
+    "yarın"
+   ],
+   "tok": [
+    "bazı",
+    "bekli",
+    "boyun",
+    "bozca",
+    "bölge",
+    "dan",
+    "deki",
+    "den",
+    "deniz",
+    "diğer",
+    "duyur",
+    "ege",
+    "ferib",
+    "gesta",
+    "geyik",
+    "gökçe",
+    "güney",
+    "hatla",
+    "hattı",
+    "hava",
+    "iptal",
+    "kabat",
+    "kasım",
+    "koşul",
+    "kuvve",
+    "kuzey",
+    "kötü",
+    "meteo",
+    "metre",
+    "neden",
+    "nin",
+    "olums",
+    "planl",
+    "rüzga",
+    "sefer",
+    "söylü",
+    "yapıl",
+    "yarın",
+    "yer",
+    "yüzün",
+    "çıkab",
+    "şartl"
+   ],
+   "at": "2026-11-17T14:56:19.363796+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cc3b272065",
-   "post_id": "529346797199852_1469251171981257",
-   "title": "Hurda araçlar için yeni talimat: Sokağa bırakanlara ceza geliyor",
-   "at": "2026-11-15T08:08:06.915403+00:00",
-   "yazim": "claude",
-   "metin": "Kullanılmayan hurda araçları ya da araç parçalarını sokağa bırakana 9 bin 441 lira idari para cezası kesilecek.\n\n— Valilikler, vatandaşların şikâyetleri üzerine terk edilmiş araçların bir an önce kaldırılmasını istedi.\n\n— Büyükşehirler başta olmak üzere kamuya açık alanlardaki ve özel mülklerdeki bu araçlar toplanıp geri dönüşüme gönderilecek.\n\n— Hurda araçların yangın çıkarabileceği, uyuşturucu kullanımına elverişli alanlar oluşturabileceği ve patlayıcı gizlemek için kullanılabileceği belirtildi.\n\n— Kolluk ve zabıta ekipleri birlikte çalışacak, denetimler de sıklaştırılacak.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/hurda-arac-ve-parcalarini-sokaga-birakana-para-cezasi-p381481",
-    "Karar: https://www.karar.com/guncel-haberler/valiliklerden-hurda-arac-talimati-arac-sahiplerine-yeni-ceza-geliyor-2084183"
-   ]
-  },
   {
    "id": "9517007c29",
    "post_id": "529346797199852_1469259555313752",
@@ -11556,6 +11517,21 @@
     "NTV: https://www.ntv.com.tr/turkiye/bakan-uraloglundan-hgs-aciklamasi-yarin-toplanti-yapilacak-1751314",
     "Evrensel: https://www.evrensel.net/haber/6009957/hgs-de-4-kat-ceza-icin-duzenleme-sinyali-bakan-uraloglu-ndan-aciklama-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "ece6c36840",
+   "post_id": "529346797199852_1471576768415364",
+   "title": "Gökçeada ve Bozcaada hatlarındaki bazı feribot seferleri iptal edildi",
+   "at": "2026-11-17T14:56:19.363796+00:00",
+   "yazim": "claude",
+   "metin": "Kuzey Ege'deki kötü hava nedeniyle Gökçeada ve Bozcaada'ya yarın (18 Kasım) yapılacak bazı feribot seferleri iptal edildi.\n\n— Meteoroloji, bölgede güney ve güneybatıdan kuvvetli rüzgar bekliyor, dalga boyunun yer yer 3 metreye çıkabileceğini söylüyor.\n\n— GESTAŞ, planlı diğer seferlerin hava şartları yüzünden yapılamayacağını duyurdu.\n\n— Kabatepe-Gökçeada hattında Kabatepe'den 09.00 ve 21.00, Gökçeada'dan 07.00 ve 19.00 seferleri yapılacak.\n\n— Geyikli-Bozcaada hattında Geyikli'den 08.00 ve 11.00, Bozcaada'dan 07.00 ve 10.00 seferleri yapılacak.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/kuzey-egede-bazi-feribot-seferleri-iptal-edildi-963577.html",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/canakkale/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-yarin-iptal-edildi-3494470",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-yarin-iptal-edildi-2556941",
+    "BirGün: https://www.birgun.net/haber/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-iptal-edildi-746963",
+    "Diken: https://www.diken.com.tr/bazi-gokceada-ve-bozcaada-seferleri-iptal/?utm_source=rss&utm_medium=rss&utm_campaign=bazi-gokceada-ve-bozcaada-seferleri-iptal"
+   ]
   }
  ],
  "fails": {
@@ -11799,7 +11775,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122700415099933156",
+   "since_id": "2122705153597866235",
    "started": true
   },
   "ajansmuhbir1923": {
