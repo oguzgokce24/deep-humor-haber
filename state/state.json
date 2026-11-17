@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "15",
-    "açıkl",
-    "bırak",
-    "den",
-    "gazet",
-    "hapis",
-    "kasım",
-    "pen",
-    "serbe",
-    "türki",
-    "yazar"
-   ],
-   "tok": [
-    "arttı",
-    "baskı",
-    "bırak",
-    "den",
-    "dikka",
-    "dolay",
-    "düşün",
-    "faali",
-    "gazet",
-    "gider",
-    "göste",
-    "günü",
-    "hapis",
-    "ifade",
-    "kasım",
-    "pen",
-    "serbe",
-    "suç",
-    "suçsu",
-    "tepki",
-    "tutul",
-    "yaptı",
-    "yazar",
-    "yere",
-    "yönel",
-    "çekti",
-    "örgüt",
-    "özgür"
-   ],
-   "at": "2026-11-15T15:24:23.745030+00:00"
-  },
-  {
-   "fp": [
     "11",
     "2",
     "6",
@@ -9022,21 +8976,100 @@
     "yılı"
    ],
    "at": "2026-11-17T03:19:05.433393+00:00"
+  },
+  {
+   "fp": [
+    "birgü",
+    "bozdu",
+    "doğar",
+    "rushd",
+    "salma",
+    "sessi",
+    "umutt",
+    "yazma"
+   ],
+   "tok": [
+    "birgü",
+    "bozdu",
+    "cerva",
+    "dağıl",
+    "don",
+    "doğar",
+    "dünya",
+    "gerek",
+    "gerçe",
+    "gönde",
+    "hepim",
+    "iyili",
+    "kişot",
+    "roman",
+    "rushd",
+    "salma",
+    "selam",
+    "sessi",
+    "sorul",
+    "telev",
+    "tutun",
+    "umutt",
+    "unu",
+    "usta",
+    "vurgu",
+    "yanıt",
+    "yarat",
+    "yazar",
+    "yazma",
+    "çağın",
+    "şeyin"
+   ],
+   "at": "2026-11-17T03:31:39.098829+00:00"
+  },
+  {
+   "fp": [
+    "binle",
+    "daral",
+    "giyim",
+    "hazır",
+    "işsiz",
+    "kaldı",
+    "kişi",
+    "sürüy",
+    "tekst"
+   ],
+   "tok": [
+    "ayınd",
+    "ağırl",
+    "bin",
+    "binle",
+    "büyüm",
+    "büyüy",
+    "daral",
+    "devam",
+    "durum",
+    "ediyo",
+    "geliy",
+    "giyim",
+    "göre",
+    "göste",
+    "hazır",
+    "istih",
+    "işsiz",
+    "kaldı",
+    "kapan",
+    "nın",
+    "rakam",
+    "sektö",
+    "sgk",
+    "sürüy",
+    "tekst",
+    "topla",
+    "veril",
+    "üreti",
+    "şirke"
+   ],
+   "at": "2026-11-17T03:31:43.398854+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "dbe8258b32",
-   "post_id": "529346797199852_1468826505357057",
-   "title": "ABD'de uçuş krizi: Hava ulaşımındaki aksamalar sürüyor",
-   "at": "2026-11-14T20:25:50.136979+00:00",
-   "yazim": "claude",
-   "metin": "ABD'de hava trafik kontrol sistemindeki iletişim sorunu nedeniyle uçuşlar 4 saatten fazla durduruldu. Operasyonlar normale dönüyor ama gecikme ve iptaller sürüyor.\n\n— Federal Havacılık İdaresi (FAA), 13 Kasım'da ülke genelinde uçuşları durdurdu. Havada olan 3 bin 500 uçak güvenli şekilde yere indi.\n\n— Ulaştırma Bakanı Sean Duffy, sorunun yalnızca eski ekipmanlardan kaynaklanmadığını, iletişim sisteminin de çok eski olduğunu söyledi.\n\n— Duffy, bir siber saldırı olduğuna inanmadığını belirtti ve Kongre'yi kontrol sistemlerini modernize etmek için harekete geçmeye çağırdı.\n\n— Duffy'nin sözleri: “Eğer sistemlerimizi değiştirmeye başlamayacaksak, daha ne kadar bekleyeceğiz?”",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/dunya/abd-de-hava-trafigindeki-iletisim-arizasi-binlerce-ucusu-olumsuz-etkiledi-3927423",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/abd-de-ucus-krizi-hava-ulasimindaki-aksamalar-suruyor-2556180"
-   ]
-  },
   {
    "id": "55ac0b3224",
    "post_id": "529346797199852_1468836798689361",
@@ -11574,6 +11607,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/diyanet-te-gelenek-bozulmadi-10-ayda-154-6-milyar-tl-746810"
    ]
+  },
+  {
+   "id": "4c7076b99f",
+   "post_id": "529346797199852_1471071025132605",
+   "title": "Tekstil ve hazır giyimde daralma sürüyor: Binlerce kişi işsiz kaldı",
+   "at": "2026-11-17T03:31:43.398854+00:00",
+   "yazim": "claude",
+   "metin": "Tekstil ve hazır giyim sektöründe 2026'nın ilk sekiz ayında 2 bin 818 şirket kapandı, 25 bin 520 kişi işsiz kaldı.\n\n— Üretim ve istihdamdaki daralma büyümeye devam ediyor.\n\n— Bu rakamlar SGK verilerinden geliyor ve iki sektördeki durumun ağırlaştığını gösteriyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/tekstil-ve-hazir-giyimde-daralma-suruyor-binlerce-kisi-issiz-kaldi-746808"
+   ]
   }
  ],
  "fails": {
@@ -11757,13 +11801,9 @@
   "e9bf7539b9": 2,
   "3eedfd9218": 2,
   "f94b05b274": 1,
-  "b0381286c6": 1,
-  "cc7ee1e87c": 2
+  "b0381286c6": 1
  },
  "fail_log": [
-  "2026-11-16T22:39 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
-  "2026-11-16T22:51 ABD'de bir öğretmen, GTA 6'nın çıkış haftasında öğrencilerin -> ValueError: yanıt okunamadı",
-  "2026-11-16T22:51 ABD'de bir öğretmen, GTA 6'nın çıkış haftasında öğrencilerin -> ValueError: yanıt okunamadı",
   "2026-11-16T22:51 ABD'de bir öğretmen, GTA 6'nın çıkış haftasında öğrencilerin -> ValueError: yanıt okunamadı",
   "2026-11-16T22:51 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
   "2026-11-16T22:51 'Rize'de çay olmaz' diyen İlber Ortaylı haklı çıktı: Karaden -> ValueError: yanıt okunamadı",
@@ -11800,7 +11840,10 @@
   "2026-11-17T02:53 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
   "2026-11-17T02:53 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
   "2026-11-17T02:53 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
-  "2026-11-17T03:06 SON DAKİKA... SÖZCÜ'ye kayyum atandı! Polis binada arama yap -> ValueError: yanıt okunamadı"
+  "2026-11-17T03:06 SON DAKİKA... SÖZCÜ'ye kayyum atandı! Polis binada arama yap -> ValueError: yanıt okunamadı",
+  "2026-11-17T03:31 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
+  "2026-11-17T03:31 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı",
+  "2026-11-17T03:31 Salman Rushdie, sessizliğini BirGün için bozdu: \"Yazmak umut -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
