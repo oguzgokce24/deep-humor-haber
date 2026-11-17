@@ -9162,21 +9162,87 @@
     "ılık"
    ],
    "at": "2026-11-17T06:29:08.337076+00:00"
+  },
+  {
+   "fp": [
+    "abdul",
+    "bozdu",
+    "büyük",
+    "galat",
+    "hırsl",
+    "kavuk",
+    "kişil",
+    "sessi"
+   ],
+   "tok": [
+    "abdul",
+    "alan",
+    "ardın",
+    "ağır",
+    "baskı",
+    "bedel",
+    "belir",
+    "bozdu",
+    "bunu",
+    "bütçe",
+    "büyük",
+    "davra",
+    "dile",
+    "dönem",
+    "ekim",
+    "etme",
+    "etmes",
+    "galat",
+    "geldi",
+    "gelir",
+    "getir",
+    "görev",
+    "hatal",
+    "hatas",
+    "hırsl",
+    "istif",
+    "kabul",
+    "kaldı",
+    "katla",
+    "kavuk",
+    "kendi",
+    "kişil",
+    "kulüb",
+    "kurul",
+    "mazer",
+    "metin",
+    "olayd",
+    "olayı",
+    "ortad",
+    "sessi",
+    "sonra",
+    "sorum",
+    "süred",
+    "sürme",
+    "tahri",
+    "tartı",
+    "topla",
+    "uzun",
+    "vekil",
+    "vurgu",
+    "yakla",
+    "yapan",
+    "yaşad",
+    "yaşan",
+    "yönet",
+    "yıllı",
+    "ödeme",
+    "öne",
+    "öztür",
+    "üstle",
+    "üyeli",
+    "üyesi",
+    "şampi"
+   ],
+   "at": "2026-11-17T06:41:53.208432+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f1dbc653c6",
-   "post_id": "529346797199852_1468936228679418",
-   "title": "Fransa'da 100 binden fazla kişi sokakta",
-   "at": "2026-11-14T23:41:12.388594+00:00",
-   "yazim": "claude",
-   "metin": "Fransa'da sendikalar ve Sarı Yelekliler'in çağrısıyla 100 binden fazla kişi sokağa çıktı.\n\nParis, Lyon, Rouen ve Marsilya başta olmak üzere birçok kentte gösteriler yapıldı. Protestolar hayat pahalılığına, eğitim bütçesine ve Cumhurbaşkanı Emmanuel Macron yönetiminin kamu harcaması kesintilerine karşı büyüyor.\n\n— İçişleri Bakanlığı katılımcı sayısını yaklaşık 106 bin olarak açıkladı, sendikalar ise 200 bin dedi.\n— Göstericiler eğitime daha fazla bütçe ayrılmasını ve güvenlik güçlerine silah kullanımında \"meşru müdafaa zırhı\" tanıyan yasa tasarısından vazgeçilmesini istiyor.\n— Lyon'da yaklaşık 8 bin kişi yürüdü. Nantes, Bordeaux ve Rouen'da polis biber gazı ve copla müdahale etti; AA'ya göre 121 kişi gözaltında.\n— Bu dalganın en kalabalık günü 5 Kasım'dı. O gün yaklaşık 700 bin kişi sokağa inmişti.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/dunya/fransada-sokaklar-karisti-106-bin-kisi-meydanlara-indi-121-gozalti-3493249",
-    "Diken: https://www.diken.com.tr/fransada-100-binden-fazla-kisi-sokakta/?utm_source=rss&utm_medium=rss&utm_campaign=fransada-100-binden-fazla-kisi-sokakta"
-   ]
-  },
   {
    "id": "bf71e3b3df",
    "post_id": "529346797199852_1468942758678765",
@@ -11710,6 +11776,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akom-dan-istanbul-icin-firtina-ve-saganak-uyarisi-tarih-ve-saat-verildi-2556764",
     "Karar: https://www.karar.com/guncel-haberler/akomdan-istanbul-icin-firtina-uyarisi-3-2084535"
    ]
+  },
+  {
+   "id": "bc5b99bf9d",
+   "post_id": "529346797199852_1471198601786514",
+   "title": "Abdullah Kavukçu sessizliğini bozdu: Galatasaray, kişilerin hırslarından çok daha büyüktür",
+   "at": "2026-11-17T06:41:53.208432+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray'da başkan vekilliği yapan Abdullah Kavukçu, yönetim kurulu üyeliğinden istifa etti.\n\nKavukçu, açıklamasında:\n\n“Bir kişinin hatasını kabul etmesi ve bedelini ödemesi, başkalarının sorumluluklarını ortadan kaldırmaz.”\n\n— İstifası, 27 Ekim'de yönetim kurulu toplantısının ardından bir yönetim kurulu üyesiyle yaşanan olayın ardından geldi.\n— Kavukçu, yaşanan olayda kendi hatalı davranışının sorumluluğunu üstlendiğini söyledi.\n— Uzun süredir baskı ve ağır tahrik yaşadığını da dile getirdi ama bunu mazeret olarak öne sürmediğini belirtti.\n— Görevdeki yaklaşık 2,5 yıllık dönemde iki şampiyonluk yaşandığını ve kulübün gelirleri ile bütçesinin katlandığını vurguladı.",
+   "sources": [
+    "Karar: https://www.karar.com/spor-haberleri/abdullah-kavukcu-sessizligini-bozdu-galatasaray-kisilerin-hirslarindan-2084538"
+   ]
   }
  ],
  "fails": {
@@ -11900,12 +11977,11 @@
   "e07056fe9a": 1,
   "45944142dd": 2,
   "d4d7f51b25": 2,
-  "aae9ec6ebd": 2
+  "aae9ec6ebd": 2,
+  "09a1ddd1d4": 1,
+  "35539eee59": 1
  },
  "fail_log": [
-  "2026-11-17T05:22 Ulvi Saran: Türk güvenlik teşkilatı ve yargı sistemi adına c -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:22 Ulvi Saran: Türk güvenlik teşkilatı ve yargı sistemi adına c -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:22 Ulvi Saran: Türk güvenlik teşkilatı ve yargı sistemi adına c -> ValueError: yanıt okunamadı",
   "2026-11-17T05:26 Hayri Hazargöl: AKP yetkililerinin süreç iyi gidiyor sözleri -> ValueError: yanıt okunamadı",
   "2026-11-17T05:26 Hayri Hazargöl: AKP yetkililerinin süreç iyi gidiyor sözleri -> ValueError: yanıt okunamadı",
   "2026-11-17T05:26 Hayri Hazargöl: AKP yetkililerinin süreç iyi gidiyor sözleri -> ValueError: yanıt okunamadı",
@@ -11942,12 +12018,15 @@
   "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
   "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
   "2026-11-17T05:36 Abdulkadir Selvi: İmamoğlu taşınması zor bir bagaja dönüyor -> ValueError: yanıt okunamadı",
-  "2026-11-17T05:52 Sözcü TV ve gazetesine 'FETÖ soruşturması': Dört gözaltı kar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-17T05:52 Sözcü TV ve gazetesine 'FETÖ soruşturması': Dört gözaltı kar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-17T06:41 10 yıl sonra yeniden yollarda: Toyota’nın efsane modeli yeni -> ValueError: yanıt okunamadı",
+  "2026-11-17T06:41 10 yıl sonra yeniden yollarda: Toyota’nın efsane modeli yeni -> ValueError: yanıt okunamadı",
+  "2026-11-17T06:41 10 yıl sonra yeniden yollarda: Toyota’nın efsane modeli yeni -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122572450525286695",
+   "since_id": "2122579998112436422",
    "started": true
   },
   "ajansmuhbir1923": {
