@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "5",
-    "edirn",
-    "fabri",
-    "kaza",
-    "kişi",
-    "otomo",
-    "servi",
-    "yaral",
-    "çarpı",
-    "öldü"
-   ],
-   "tok": [
-    "ambul",
-    "bağlı",
-    "bulun",
-    "can",
-    "devle",
-    "edirn",
-    "ekipl",
-    "fabri",
-    "feci",
-    "geldi",
-    "hasta",
-    "işçi",
-    "kaldı",
-    "kaybı",
-    "köyü",
-    "meyda",
-    "minib",
-    "murat",
-    "musab",
-    "olay",
-    "otomo",
-    "sağlı",
-    "servi",
-    "sevk",
-    "sulta",
-    "tehli",
-    "yakın",
-    "yaşam",
-    "yerin",
-    "yitir",
-    "çarpı",
-    "öğren"
-   ],
-   "at": "2026-11-16T06:19:26.485797+00:00"
-  },
-  {
-   "fp": [
     "6",
     "deniz",
     "ihale",
@@ -9334,22 +9284,73 @@
     "şikay"
    ],
    "at": "2026-11-17T18:07:23.548124+00:00"
+  },
+  {
+   "fp": [
+    "beled",
+    "beyin",
+    "geçir",
+    "işten",
+    "kanam",
+    "soruş",
+    "tutuk",
+    "çıkar",
+    "üsküd"
+   ],
+   "tok": [
+    "ailes",
+    "akdi",
+    "akp",
+    "ancak",
+    "ara",
+    "avuka",
+    "ayhan",
+    "beled",
+    "beyin",
+    "buluc",
+    "cezae",
+    "düşme",
+    "ekim",
+    "feshe",
+    "gerek",
+    "görüş",
+    "güven",
+    "itira",
+    "işten",
+    "iştir",
+    "kaldı",
+    "kalp",
+    "kanam",
+    "kenta",
+    "krizi",
+    "maaş",
+    "neden",
+    "rüşve",
+    "sağlı",
+    "serda",
+    "sonuc",
+    "sorun",
+    "suçla",
+    "söylü",
+    "sürec",
+    "sürer",
+    "sırad",
+    "taraf",
+    "tedav",
+    "uzlaş",
+    "yaşad",
+    "yaşan",
+    "yaşın",
+    "yönet",
+    "çalış",
+    "çıkar",
+    "ödenm",
+    "üsküd"
+   ],
+   "at": "2026-11-17T18:20:10.951401+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d0a401a92a",
-   "post_id": "529346797199852_1469398881966486",
-   "title": "Sağlık Bakanlığı açıkladı: Sigara bırakma polikliniklerinde tüm zamanların rekoru kırıldı",
-   "at": "2026-11-15T11:42:03.682569+00:00",
-   "yazim": "claude",
-   "metin": "Sağlık Bakanlığı: 2026'da sigara bırakma polikliniklerinden 356 bin kişi hizmet aldı. Bu, bir yılda ulaşılan en yüksek sayı.\n\nTürkiye'de her yıl yaklaşık 34 bin kişiye akciğer kanseri tanısı konuluyor. Bakanlık, bu hastalığın en önemli önlenebilir nedeninin tütün olduğunu hatırlattı.\n\n— Tütün ürünleri, akciğer kanseri vakalarının yaklaşık yüzde 80-90'ına yol açıyor.\n— Ülke genelinde 1910'dan fazla sigara bırakma polikliniği hizmet veriyor.\n— 380'den fazla çevrim içi poliklinik de aktif olarak hizmet sunuyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/sigara-birakma-polikliniklerinden-bu-yil-356-bin-kisi-yararlandi/4125697",
-    "TRT Haber: https://www.trthaber.com/haber/saglik/sigara-birakma-polikliniklerine-basvuruda-tum-zamanlarin-rekoru-963339.html",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/saglik-bakanligi-acikladi-sigara-birakma-polikliniklerinde-tum-zamanlarin-rekoru-kirildi-2556324"
-   ]
-  },
   {
    "id": "36de61d833",
    "post_id": "529346797199852_1469408508632190",
@@ -11948,6 +11949,18 @@
     "Karar: https://www.karar.com/guncel-haberler/sana-bakacagim-diyerek-annesini-kandirdi-otomobil-alip-ortadan-kayboldu-2084681",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/kanser-hastasi-anneye-vicdanlari-sizlatan-tuzak-tum-birikimleriyle-otomobil-alip-ortadan-kayboldu-43381607"
    ]
+  },
+  {
+   "id": "ff5d68d980",
+   "post_id": "529346797199852_1471741025065605",
+   "title": "Üsküdar Belediyesi soruşturmasında tutuklanmıştı: Serdar Ayhan beyin kanaması geçirdi, tedavisi sürerken işten çıkarıldı",
+   "at": "2026-11-17T18:20:10.951401+00:00",
+   "yazim": "claude",
+   "metin": "Üsküdar Belediyesi iştiraki KENTAŞ'ta çalışan 45 yaşındaki bir kişi, tutuklu olduğu sırada işten çıkarıldı.\n\n— Rüşvet suçlamasıyla tutuklanan kişi cezaevinde kalp krizi geçirdi, düşmesi sonucu beyin kanaması yaşadı.\n\n— Tutukluluğu sağlık sorunları nedeniyle kaldırıldı, ancak iş akdi 23 Ekim'de \"tutuklu olduğu gerekçesiyle\" feshedildi.\n\n— Ailesi, tedavi sürecinde maaş ödenmediğini ve sağlık güvencesinde sorun yaşandığını söylüyor.\n\n— Ailesi ve avukatları karara itiraz etti. Ara buluculuk görüşmelerinde taraflar uzlaşamadı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/uskudar-belediyesi-sorusturmasinda-tutuklanmisti-cezaevinde-kalp-krizi-ve-beyin-kanamasi-gecirdi-akp-li-yonetim-tarafindan-isten-cikarildi-2557015",
+    "Evrensel: https://www.evrensel.net/haber/6009958/uskudar-belediyesi-sorusturmasinda-tutuklanmisti-serdar-ayhan-beyin-kanamasi-gecirdi-tedavisi-surerken-isten-cikarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -12153,7 +12166,6 @@
   "1ab94d38f1": 1
  },
  "fail_log": [
-  "2026-11-17T07:32 Beyoncé, 100 Grammy adaylığına ulaşan ilk sanatçı oldu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T07:32 Beyoncé, 100 Grammy adaylığına ulaşan ilk sanatçı oldu -> ValueError: yanıt okunamadı",
   "2026-11-17T07:58 Kremlin'den Trump'ın Ukrayna açıklamasına yanıt: Çok daha se -> ValueError: cümle yarım kalmış: '— Kahveci, Yalçın'ın yorumcul'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-17T07:58 Kremlin'den Trump'ın Ukrayna açıklamasına yanıt: Çok daha se -> ValueError: cümle yarım kalmış: 'n**, sosyal medya hesabından yaptığı açı'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -12192,7 +12204,8 @@
   "2026-11-17T17:55 Eski UFC şampiyonu Ilia Topuria'nın eski eşi Giorgina Uzcate -> ValueError: yanıt okunamadı",
   "2026-11-17T17:55 Apple, Siri'ye günlük limit getiriyor. -> ValueError: yanıt okunamadı",
   "2026-11-17T17:55 Apple, Siri'ye günlük limit getiriyor. -> ValueError: yanıt okunamadı",
-  "2026-11-17T17:55 Apple, Siri'ye günlük limit getiriyor. -> ValueError: yanıt okunamadı"
+  "2026-11-17T17:55 Apple, Siri'ye günlük limit getiriyor. -> ValueError: yanıt okunamadı",
+  "2026-11-17T18:20 Üsküdar Belediyesi soruşturmasında tutuklanmıştı: Serdar Ayh -> ValueError: cümle yarım kalmış: '— Aile ve avukatları karara iti'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
