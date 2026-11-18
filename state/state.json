@@ -10608,6 +10608,27 @@
     "şubat"
    ],
    "at": "2026-11-18T03:35:21.047694+00:00"
+  },
+  {
+   "fp": [
+    "daire",
+    "icra",
+    "küçük",
+    "müdür"
+   ],
+   "tok": [
+    "bursa",
+    "daire",
+    "gayri",
+    "icra",
+    "ivrin",
+    "küçük",
+    "müdür",
+    "satış",
+    "sinca",
+    "vergi"
+   ],
+   "at": "2026-11-18T04:01:15.491359+00:00"
   }
  ],
  "posted": [
@@ -13383,20 +13404,10 @@
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
   "5f55ba1e2b": 1,
-  "05a9237a35": 2,
-  "21722613ea": 1,
-  "372353580f": 1
+  "21722613ea": 2,
+  "372353580f": 2
  },
  "fail_log": [
-  "2026-11-18T00:38 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:38 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:38 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:38 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:42 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:42 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:42 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:42 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:42 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
   "2026-11-18T00:42 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
   "2026-11-18T00:54 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
   "2026-11-18T00:54 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
@@ -13427,7 +13438,16 @@
   "2026-11-18T03:57 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-18T03:57 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
   "2026-11-18T03:57 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
-  "2026-11-18T03:57 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı"
+  "2026-11-18T03:57 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
