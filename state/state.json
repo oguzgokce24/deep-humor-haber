@@ -10565,20 +10565,67 @@
     "çorlu"
    ],
    "at": "2026-11-18T04:05:01.339750+00:00"
+  },
+  {
+   "fp": [
+    "alarm",
+    "bahre",
+    "bina",
+    "güven",
+    "katlı",
+    "neden",
+    "tahli",
+    "yangı"
+   ],
+   "tok": [
+    "alarm",
+    "altın",
+    "alınd",
+    "alını",
+    "amaçl",
+    "bahre",
+    "başke",
+    "başla",
+    "belir",
+    "bina",
+    "bulun",
+    "dizi",
+    "duyur",
+    "düzen",
+    "gitme",
+    "güven",
+    "halka",
+    "hava",
+    "ilişk",
+    "iran",
+    "içişl",
+    "karşı",
+    "katlı",
+    "kez",
+    "kontr",
+    "koydu",
+    "kısa",
+    "manam",
+    "nda",
+    "neden",
+    "ordus",
+    "süre",
+    "sürüy",
+    "tahli",
+    "tedbi",
+    "vakıf",
+    "yakın",
+    "yangı",
+    "yere",
+    "çarşı",
+    "çağrı",
+    "çıkan",
+    "çıkış"
+   ],
+   "at": "2026-11-18T04:08:44.485600+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2574748d19",
-   "post_id": "529346797199852_1469799868593054",
-   "title": "Demiryolu bakım filosuna 350 milyon euroluk dev yatırım: 99 yeni bakım makinesi raylara iniyor",
-   "at": "2026-11-15T20:14:01.528592+00:00",
-   "yazim": "claude",
-   "metin": "TCDD, demiryolu bakımı için Asya Altyapı Yatırım Bankası ile 350 milyon euroluk finansman anlaşması imzaladı.\n\n— Anlaşmayla TCDD'nin envanterine 99 yeni nesil bakım makinesi girecek. Bu makineler raylarda, makaslarda ve katener sistemlerinde bakım yapacak.\n\n— Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, makinelerin yaş ortalamasının düşeceğini ve hatlardaki bakım sürelerinin kısalacağını söyledi.\n\n— İhalelerin Aralık 2026'da yapılması planlanıyor. Makinelerin tamamının sözleşmelerden sonra 48 ay içinde teslim edilmesi öngörülüyor.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/tcdd-yeni-bakim-makinelerini-ne-zaman-alacak-demiryolu-bakim-2084272"
-   ]
-  },
   {
    "id": "2ab1389c99",
    "post_id": "529346797199852_1469807118592329",
@@ -13130,6 +13177,17 @@
     "CNN Türk: https://www.cnnturk.com/resmi-ilanlar/t-c-bakirkoy-4-sulh-hukuk-mahkemesinden-3494460",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-sile-sulh-hukuk-mahkemesi-satis-memurlugu-2557079"
    ]
+  },
+  {
+   "id": "6ffa333816",
+   "post_id": "529346797199852_1472111305028577",
+   "title": "Bahreyn'de güvenlik alarmı: Çok katlı bina yangın nedeniyle tahliye edildi",
+   "at": "2026-11-18T04:08:44.485600+00:00",
+   "yazim": "claude",
+   "metin": "Bahreyn'in başkenti Manama yakınlarındaki Vakıf Çarşısı'nda çok katlı bir bina yangın nedeniyle tahliye edildi.\n\n— Yangın kontrol altına alındı, çıkış nedeni için soruşturma sürüyor.\n— Bahreyn ordusu, kısa süre önce İran tarafından düzenlendiği belirtilen \"bir dizi hava saldırısına\" karşı koyduğunu duyurmuştu.\n— İçişleri Bakanlığı da iki kez halka en yakın güvenli yere gitme çağrısında bulunmuştu.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6009990/bahreyn-de-guvenlik-alarmi-cok-katli-bina-yangin-nedeniyle-tahliye-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13340,13 +13398,9 @@
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
   "5f55ba1e2b": 1,
-  "f7a5e42110": 1
+  "f7a5e42110": 2
  },
  "fail_log": [
-  "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-18T02:20 İşçiler ve emekliler Kartal'da buluşuyor: 'Sadakaya razı olm -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: yanıt okunamadı",
   "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T02:46 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T02:46 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: yanıt okunamadı",
@@ -13382,7 +13436,11 @@
   "2026-11-18T04:05 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:05 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:05 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-18T04:05 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
+  "2026-11-18T04:05 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:08 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:08 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:08 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:08 Bahreyn'de güvenlik alarmı: Çok katlı bina yangın nedeniyle  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
