@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "banka",
-    "bazı",
-    "hizme",
-    "içi",
-    "kesin",
-    "yaşan",
-    "çevri"
-   ],
-   "tok": [
-    "abd",
-    "aksak",
-    "aksam",
-    "ameri",
-    "bank",
-    "banka",
-    "batma",
-    "battı",
-    "bayra",
-    "bazı",
-    "belir",
-    "betul",
-    "bildi",
-    "birli",
-    "bulga",
-    "chase",
-    "duyur",
-    "dönem",
-    "eklen",
-    "fargo",
-    "gemin",
-    "gemis",
-    "henüz",
-    "hizme",
-    "inter",
-    "içi",
-    "jpmor",
-    "katıl",
-    "kesin",
-    "kez",
-    "kurta",
-    "müret",
-    "neden",
-    "nun",
-    "roman",
-    "siste",
-    "somal",
-    "tehli",
-    "tekni",
-    "wells",
-    "yaşan",
-    "yük",
-    "çevri"
-   ],
-   "at": "2026-11-16T20:00:38.483860+00:00"
-  },
-  {
-   "fp": [
     "aylar",
     "ceo",
     "devre",
@@ -10763,21 +10705,79 @@
     "üyesi"
    ],
    "at": "2026-11-18T08:00:08.746167+00:00"
+  },
+  {
+   "fp": [
+    "26",
+    "5",
+    "akınt",
+    "felak",
+    "hayat",
+    "kapıl",
+    "kaybe",
+    "kayıp",
+    "kişi",
+    "madag",
+    "otomo",
+    "sel",
+    "sele"
+   ],
+   "tok": [
+    "akınt",
+    "anlat",
+    "arala",
+    "arama",
+    "arası",
+    "bekit",
+    "betro",
+    "bulma",
+    "bulun",
+    "bölge",
+    "dan",
+    "devam",
+    "düşük",
+    "düşün",
+    "ettiğ",
+    "facia",
+    "felak",
+    "geçit",
+    "geçiş",
+    "geçme",
+    "gördü",
+    "güney",
+    "ilerl",
+    "kaplı",
+    "kapıl",
+    "kasım",
+    "kaybo",
+    "kayıp",
+    "kurtu",
+    "madag",
+    "mille",
+    "nicol",
+    "otobü",
+    "otomo",
+    "randr",
+    "sel",
+    "sele",
+    "seviy",
+    "sonuc",
+    "sular",
+    "suyla",
+    "sürüc",
+    "sürük",
+    "sürüy",
+    "taşıy",
+    "var",
+    "yola",
+    "yolcu",
+    "çalış",
+    "çıktı"
+   ],
+   "at": "2026-11-18T08:12:38.721848+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2095409ca9",
-   "post_id": "529346797199852_1469925645247143",
-   "title": "Husiler: Suudi Arabistan'da havalimanı, finans merkezi ve petrol tesislerini hedef aldık",
-   "at": "2026-11-16T00:00:35.136796+00:00",
-   "yazim": "claude",
-   "metin": "Husiler, Suudi Arabistan'ın Riyad kentindeki havalimanı ve finans merkezini füzeyle vurduklarını açıkladı.\n\nHusilerin askeri sözcüsü Yahya Seri, Kral Halid Uluslararası Havalimanı ile finans merkezine 2 balistik füzeyle saldırdıklarını söyledi.\n\nAynı saldırılarda Doğu-Batı boru hattı, yani \"Petroline\" üzerindeki 5 ve 6 numaralı petrol pompa istasyonlarını da 2 insansız hava aracıyla vurduklarını ekledi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/husiler-suudi-arabistan-da-havalimani-finans-merkezi-ve-petrol-tesislerini-hedef-aldik-746622",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/husiler-duyurdu-suudi-arabistanda-havalimani-finans-merkezi-ve-petrol-tesislerini-hedef-aldik-43379569"
-   ]
-  },
   {
    "id": "e183c974b2",
    "post_id": "529346797199852_1469932881913086",
@@ -13348,6 +13348,21 @@
     "Evrensel: https://www.evrensel.net/haber/6010019/gulsah-deniz-atalar-chp-den-istifa-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/gulsah-deniz-atalar-chpden-istifa-etti-2084791"
    ]
+  },
+  {
+   "id": "1aa68b4d2e",
+   "post_id": "529346797199852_1472257638347277",
+   "title": "Madagaskar'da sel faciası: 26 kişi hayatını kaybetti, 5 kişi kayıp",
+   "at": "2026-11-18T08:12:38.721848+00:00",
+   "yazim": "claude",
+   "metin": "Madagaskar'ın güneyinde sele kapılan yolcu aracında 26 kişi hayatını kaybetti, 5 kişi kayıp.\n\nBetroka bölgesinde 17 Kasım'da yolcu taşıyan araç, suyla kaplı bir geçitten geçmeye çalışırken akıntıya kapılarak sürüklendi.\n\n— Araçtaki 9 kişi kurtuldu, kurtulanlar arasında sürücü de var.\n— Kayıp 5 kişiyi bulmak için arama çalışmaları sürüyor.\n— Betroka Milletvekili Nicolas Randrianasolo, aracın 16 Kasım'da Bekitro'dan yola çıktığını ve sürücünün su seviyesini düşük gördüğü için geçişe devam ettiğini anlattı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/madagaskarda-sele-kapilan-aractaki-26-kisi-hayatini-kaybetti-963656.html",
+    "Milliyet: https://www.milliyet.com.tr/dunya/madagaskarda-sel-felaketi-arac-akintiya-kapildi-26-kisi-hayatini-kaybetti-7702806",
+    "Evrensel: https://www.evrensel.net/haber/6010011/madagaskar-da-yolcu-otobusu-sele-kapildi-26-kisi-hayatini-kaybetti-5-kisi-kayip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/dunya-haberleri/madagaskarda-sel-faciasi-26-kisi-hayatini-kaybetti-5-kisi-kayip-2084773",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/madagaskarda-sel-felaketi-arac-akintiya-kapildi-26-kisi-hayatini-kaybetti-7702806"
+   ]
   }
  ],
  "fails": {
@@ -13609,7 +13624,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122959278931644562",
+   "since_id": "2122966094788886797",
    "started": true
   },
   "ajansmuhbir1923": {
