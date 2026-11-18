@@ -10482,22 +10482,72 @@
     "üyesi"
    ],
    "at": "2026-11-18T13:09:34.079658+00:00"
+  },
+  {
+   "fp": [
+    "alınd",
+    "arı",
+    "gün",
+    "ifade",
+    "ismai",
+    "soruş"
+   ],
+   "tok": [
+    "adliy",
+    "alene",
+    "alınd",
+    "ardın",
+    "arı",
+    "asliy",
+    "açıla",
+    "başla",
+    "beri",
+    "bilgi",
+    "birgü",
+    "bulun",
+    "ceza",
+    "cezae",
+    "dan",
+    "den",
+    "dosya",
+    "duruş",
+    "ekim",
+    "gazet",
+    "getir",
+    "gönde",
+    "görül",
+    "gün",
+    "gündü",
+    "günü",
+    "hakar",
+    "halkı",
+    "hapis",
+    "ifade",
+    "ismai",
+    "isten",
+    "kapsa",
+    "kasım",
+    "muhab",
+    "nde",
+    "neden",
+    "nın",
+    "perşe",
+    "saat",
+    "savcı",
+    "sinca",
+    "suçla",
+    "verdi",
+    "yanıl",
+    "yayma",
+    "yenid",
+    "yetki",
+    "yıla",
+    "çıkma"
+   ],
+   "at": "2026-11-18T13:22:07.851266+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "675cafc5f4",
-   "post_id": "529346797199852_1470169795222728",
-   "title": "Resmi Gazete'de yayımlandı: 6 jeotermal saha için ihale kararı",
-   "at": "2026-11-16T06:31:58.575924+00:00",
-   "yazim": "claude",
-   "metin": "Denizli'de 6 jeotermal kaynak ruhsat sahası ihaleye çıkıyor.\n\n— Sahalar Sarayköy, Çivril, Honaz, Buldan ve Pamukkale ilçelerinde yer alıyor.\n\n— İhaleler açık teklif usulüyle yapılacak ve 2 Aralık'ta Denizli Valiliğinde yapılacak.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/denizlide-6-jeotermal-kaynak-ruhsat-sahasi-icin-ihale-yapilacak-3493751",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/denizlide-jeotermal-kaynak-ruhsat-sahalari-ihale-edilecek-4872841",
-    "BirGün: https://www.birgun.net/haber/resmi-gazete-de-yayimlandi-6-jeotermal-saha-icin-ihale-karari-746649"
-   ]
-  },
   {
    "id": "32a96a76f2",
    "post_id": "529346797199852_1470177888555252",
@@ -13126,6 +13176,19 @@
     "Habertürk: https://www.haberturk.com/gundem/prof-dr-guruz-universitedeki-mudurluk-gorevinden-alindi-3928270",
     "Evrensel: https://www.evrensel.net/haber/6010081/ptt-de-kesk-li-mudur-gorevden-alindi-haber-sen-den-sendikal-ayrimcilik-tepkisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "26f371c2a3",
+   "post_id": "529346797199852_1472499321656442",
+   "title": "İsmail Arı’ya yeni soruşturma: Duruşmadan bir gün önce ifadesi alındı",
+   "at": "2026-11-18T13:22:07.851266+00:00",
+   "yazim": "claude",
+   "metin": "Tutuklu gazeteci İsmail Arı, hakkında açılan yeni bir soruşturma için Ankara Adliyesi'nde ifade verdi.\n\n— Cumhurbaşkanına hakaret ve halkı yanıltıcı bilgiyi alenen yayma suçlamalarıyla başlatılan soruşturmanın dosyası yetkisizlik nedeniyle İstanbul'dan Ankara'ya gönderildi.\n— Arı, ifadesinin ardından yeniden Sincan Cezaevi'ne gönderildi. 21 Ekim'den beri tutuklu.\n— Halkı yanıltıcı bilgiyi alenen yayma suçlamasıyla beş yıla kadar hapis istenen Arı'nın duruşması 19 Kasım Perşembe günü saat 11.45'te Ankara 32. Asliye Ceza Mahkemesi'nde görülecek.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010077/ismail-ari-hakkinda-yeni-sorusturma-adliyeye-getirilerek-ifadesi-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/18/gazeteci-ismail-ari-mahkemeye-cikmadan-bir-gun-once-yeni-bir-sorusturma-icin-ifade-verdi/",
+    "BirGün: https://www.birgun.net/haber/ismail-ariya-yeni-sorusturma-durusmadan-bir-gun-once-ifadesi-alindi-747116"
+   ]
   }
  ],
  "fails": {
@@ -13389,7 +13452,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123039955244982366",
+   "since_id": "2123042006708650488",
    "started": true
   },
   "ajansmuhbir1923": {
