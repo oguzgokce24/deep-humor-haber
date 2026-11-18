@@ -10493,21 +10493,61 @@
     "şahik"
    ],
    "at": "2026-11-18T02:46:06.353712+00:00"
+  },
+  {
+   "fp": [
+    "adres",
+    "belir",
+    "bütçe",
+    "diğer",
+    "kalem",
+    "katla",
+    "milya",
+    "üçe"
+   ],
+   "tok": [
+    "adres",
+    "aktar",
+    "alıcı",
+    "amacı",
+    "artar",
+    "arttı",
+    "aynı",
+    "ayınd",
+    "belir",
+    "bütçe",
+    "diğer",
+    "dönem",
+    "emre",
+    "gitti",
+    "gütme",
+    "hangi",
+    "harca",
+    "kalem",
+    "kat",
+    "katla",
+    "katın",
+    "kurul",
+    "kâr",
+    "maari",
+    "milya",
+    "tek",
+    "topla",
+    "trans",
+    "ulaşt",
+    "vakfı",
+    "yakla",
+    "yeşil",
+    "yunus",
+    "yüzde",
+    "yılın",
+    "çıktı",
+    "üçe"
+   ],
+   "at": "2026-11-18T02:57:19.691515+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "dc1f52a6cf",
-   "post_id": "529346797199852_1469769795262728",
-   "title": "NYT: USS Theodore Roosevelt uçak gemisi, Ortadoğu’daki görevine başlıyor",
-   "at": "2026-11-15T19:24:27.110601+00:00",
-   "yazim": "claude",
-   "metin": "ABD'nin üçüncü uçak gemisi USS Theodore Roosevelt, Ortadoğu'daki görevine başlamak üzere.\n\nNew York Times, ABD'li bir askeri yetkiliye dayanarak bu bilgiyi verdi.\n\n— Gemi kısa süre içinde bölgeye ulaşacak.\n— Bu, ABD'nin bölgedeki askeri varlığına bir uçak gemisi daha ekleyecek.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/dunya/uss-theodore-roosevelt-orta-dogu-ya-ulasmak-uzere-3927543",
-    "BirGün: https://www.birgun.net/haber/nyt-uss-theodore-roosevelt-ucak-gemisi-ortadogudaki-gorevine-basliyor-746600"
-   ]
-  },
   {
    "id": "13c5e8f931",
    "post_id": "529346797199852_1469777511928623",
@@ -13059,6 +13099,17 @@
    "metin": "Şahika Ercümen, 2 metrelik bir akvaryumda 4 dakika 36 saniye nefesini tuttu.\n\nErcümen, bu performansla iklim değişikliğinin denizler ve okyanuslar üzerindeki etkilerine dikkat çekmek istedi.\n\n— Amaç, deniz ekosistemlerinin korunması ve iklim değişikliğiyle mücadelede farkındalık oluşturmak.",
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/sahika-ercumen-nefesini-tuttu-4-dakika-36-saniye-p382301"
+   ]
+  },
+  {
+   "id": "401f93a17c",
+   "post_id": "529346797199852_1472067561699618",
+   "title": "Bütçede adresi belirsiz milyarlar: ‘Diğer’ kalemi üçe katlandı",
+   "at": "2026-11-18T02:57:19.691515+00:00",
+   "yazim": "claude",
+   "metin": "Merkezi bütçede alıcısı açıklanmayan \"diğer\" kuruluşlara yapılan harcama, yılın ilk 10 ayında yüzde 188,9 artarak 3,2 milyar TL'ye ulaştı.\n\n— Bu kalemde harcamanın hangi kuruluşlara gittiği tek tek belirtilmiyor.\n— Aynı dönemde Maarif Vakfı ile Yunus Emre Vakfı'na toplam 6,1 milyar TL aktarıldı.\n— Yeşilay'a yapılan transfer yaklaşık 86 kat arttı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/butcede-adresi-belirsiz-milyarlar-diger-kalemi-uce-katlandi-747022"
    ]
   }
  ],
