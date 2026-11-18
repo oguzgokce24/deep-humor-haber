@@ -2,129 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "anlam",
-    "başka",
-    "gelmi",
-    "gidiy",
-    "hayri",
-    "hazar",
-    "iyi",
-    "oyala",
-    "sözle",
-    "süreç",
-    "yetki"
-   ],
-   "tok": [
-    "akp",
-    "anlam",
-    "appea",
-    "bekle",
-    "diken",
-    "düzey",
-    "düşen",
-    "first",
-    "gelmi",
-    "getir",
-    "gidiy",
-    "hayri",
-    "hazar",
-    "iyi",
-    "kürt",
-    "oyala",
-    "post",
-    "sit",
-    "sözle",
-    "süreç",
-    "taraf",
-    "the",
-    "yerin",
-    "yetki",
-    "üstün"
-   ],
-   "at": "2026-11-17T05:29:29.365169+00:00"
-  },
-  {
-   "fp": [
-    "düzen",
-    "ibrah",
-    "kiras",
-    "mafya",
-    "ulusl"
-   ],
-   "tok": [
-    "appea",
-    "açtı",
-    "buluş",
-    "defa",
-    "diken",
-    "düzen",
-    "first",
-    "ibrah",
-    "kiras",
-    "linka",
-    "mafya",
-    "nin",
-    "post",
-    "potsd",
-    "putin",
-    "site",
-    "sorus",
-    "the",
-    "trump",
-    "ulusl",
-    "yalta",
-    "yol",
-    "zirve",
-    "üçlü"
-   ],
-   "at": "2026-11-17T05:29:33.330841+00:00"
-  },
-  {
-   "fp": [
-    "adına",
-    "ciddi",
-    "güven",
-    "saran",
-    "siste",
-    "teşki",
-    "türk",
-    "ulvi",
-    "yargı",
-    "zafiy",
-    "örneğ"
-   ],
-   "tok": [
-    "adına",
-    "aranı",
-    "ayrı",
-    "ciddi",
-    "diken",
-    "glock",
-    "güven",
-    "iade",
-    "izmir",
-    "lakap",
-    "lider",
-    "post",
-    "saran",
-    "sayal",
-    "serca",
-    "siste",
-    "suçta",
-    "teşki",
-    "the",
-    "ulvi",
-    "yargı",
-    "yunan",
-    "zafiy",
-    "çete",
-    "örneğ"
-   ],
-   "at": "2026-11-17T05:29:37.019623+00:00"
-  },
-  {
-   "fp": [
     "1",
     "boğaz",
     "düşür",
@@ -10626,25 +10503,65 @@
     "çiftç"
    ],
    "at": "2026-11-18T17:20:51.556213+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "günü",
+    "voyag",
+    "ışık"
+   ],
+   "tok": [
+    "abd",
+    "ajans",
+    "anlam",
+    "appea",
+    "dan",
+    "diken",
+    "dünya",
+    "first",
+    "fotoğ",
+    "fırla",
+    "geliy",
+    "gönde",
+    "günü",
+    "havac",
+    "insan",
+    "kilom",
+    "linka",
+    "mavi",
+    "milya",
+    "nasa",
+    "nesne",
+    "nokta",
+    "nın",
+    "otomo",
+    "post",
+    "radyo",
+    "saat",
+    "sinya",
+    "site",
+    "soluk",
+    "sürüy",
+    "the",
+    "ulaşa",
+    "ulaşm",
+    "ulaşt",
+    "uzakl",
+    "uzakt",
+    "uzay",
+    "uzaya",
+    "voyag",
+    "yakla",
+    "yapım",
+    "yıldı",
+    "çekmi",
+    "ışık"
+   ],
+   "at": "2026-11-18T17:33:20.300460+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e9c8f6d049",
-   "post_id": "529346797199852_1470582225181485",
-   "title": "Beyoğlu Belediye Başkanvekili Sefer Karaahmetoğlu CHP'den istifa etti",
-   "at": "2026-11-16T15:39:04.878362+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Beyoğlu ilçesinde belediye başkanvekili Sefer Karaahmetoğlu, CHP'den istifa etti.\n\nKaraahmetoğlu, parti içindeki tartışmaların yerel yönetim işlerini olumsuz etkilediğini söyledi.\n\n“Parti içi tartışmaların bedelini Beyoğlulu komşularımızın ödemesine asla razı olamam.”\n\n— Kulis bilgilerine göre Karaahmetoğlu ile birlikte 4 meclis üyesi daha AKP'ye geçecek.\n— Bu gerçekleşirse belediye meclisinde çoğunluk AKP ve MHP'ye geçecek.\n— Karaahmetoğlu'na istifasının ardından en yakınındaki isimler bile ulaşamadı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/beyoglu-belediyesi-baskanvekili-chpden-istifa-etti-963442.html",
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/crpdwn4de92vo?at_medium=RSS&at_campaign=rss",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-beyoglu-belediye-baskanvekili-karaahmetoglu-chpden-istifa-etti-3494030",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/16/beyoglu-belediye-baskanvekili-chpden-istifa-etti",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-karaahmetoglu-chp-den-istifa-etti-3927735",
-    "Sözcü: https://www.sozcu.com.tr/beyoglu-belediye-baskan-vekili-chp-den-istifa-etti-p381938"
-   ]
-  },
   {
    "id": "a2d75a056b",
    "post_id": "529346797199852_1470594118513629",
@@ -13264,6 +13181,18 @@
     "Evrensel: https://www.evrensel.net/haber/6010119/icisleri-bakanligi-eski-akp-li-bursa-buyuksehir-belediye-baskani-aktas-hakkinda-sorusturma-izni-vermedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/zimmet-sorusturmasinda-tutuklama-karar-eski-belediye-baskaninin-2084931"
    ]
+  },
+  {
+   "id": "f3d7304548",
+   "post_id": "529346797199852_1472704464969261",
+   "title": "Voyager 1, bir ışık günü uzakta",
+   "at": "2026-11-18T17:33:20.300460+00:00",
+   "yazim": "claude",
+   "metin": "NASA'nın 1977'de uzaya gönderdiği Voyager 1, Dünya'dan bir ışık günü uzaklığa ulaşan ilk insan yapımı nesne oldu.\n\n— Bir ışık günü, aracın Dünya'dan yaklaşık 26 milyar kilometre uzakta olduğu anlamına geliyor.\n\n— Aracın gönderdiği radyo sinyallerinin Dünya'ya ulaşması 24 saat sürüyor.\n\n— Voyager 1, 2012'de yıldızlararası uzaya ulaşmıştı ve 1990'da Dünya'nın \"Soluk Mavi Nokta\" fotoğrafını çekmişti.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/voyager-1-bir-isik-gunu-uzakta/?utm_source=rss&utm_medium=rss&utm_campaign=voyager-1-bir-isik-gunu-uzakta",
+    "BPT (X): https://x.com/bpthaber/status/2123106942528676270"
+   ]
   }
  ],
  "fails": {
@@ -13530,7 +13459,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123103086839529834",
+   "since_id": "2123106942528676270",
    "started": true
   },
   "ajansmuhbir1923": {
