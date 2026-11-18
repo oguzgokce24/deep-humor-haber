@@ -2,86 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "akade",
-    "hukuk",
-    "karar",
-    "mücad",
-    "rağme",
-    "soruş",
-    "sürüy",
-    "yargı",
-    "yıllı"
-   ],
-   "tok": [
-    "adı",
-    "akade",
-    "alınd",
-    "arama",
-    "açıld",
-    "belir",
-    "bunla",
-    "bölüm",
-    "dini",
-    "disip",
-    "dokuz",
-    "doç",
-    "doçen",
-    "duydu",
-    "dönme",
-    "elekt",
-    "erişi",
-    "etkis",
-    "gazia",
-    "getir",
-    "geçen",
-    "giriş",
-    "görev",
-    "görüy",
-    "hak",
-    "halil",
-    "hazır",
-    "hukuk",
-    "ibrah",
-    "ihtiy",
-    "ilgil",
-    "itira",
-    "kadro",
-    "kaldı",
-    "karak",
-    "karşı",
-    "kayıt",
-    "mayıs",
-    "misil",
-    "mücad",
-    "nde",
-    "rağme",
-    "savun",
-    "staj",
-    "söylü",
-    "süren",
-    "sürüy",
-    "temmu",
-    "usuls",
-    "uzakl",
-    "veriy",
-    "yapıl",
-    "yargı",
-    "yerin",
-    "yönel",
-    "yıldı",
-    "yıllı",
-    "çalış",
-    "çıktı",
-    "öğren",
-    "ücret",
-    "ünive",
-    "şikay"
-   ],
-   "at": "2026-11-16T23:53:22.706155+00:00"
-  },
-  {
-   "fp": [
     "altın",
     "dava",
     "eksik",
@@ -10611,20 +10531,59 @@
     "ışıkt"
    ],
    "at": "2026-11-18T11:45:55.420667+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "fon",
+    "hayat",
+    "ifade",
+    "musta",
+    "nın",
+    "oğlu",
+    "soruş",
+    "yazıc",
+    "çağrı"
+   ],
+   "tok": [
+    "adil",
+    "akp",
+    "aktar",
+    "arala",
+    "atana",
+    "atanm",
+    "bugün",
+    "demir",
+    "dün",
+    "fon",
+    "gazet",
+    "genel",
+    "grup",
+    "ifade",
+    "kapsa",
+    "katıl",
+    "kayyı",
+    "musta",
+    "nergi",
+    "nın",
+    "oğlu",
+    "oğlun",
+    "parti",
+    "topla",
+    "varlı",
+    "vurgu",
+    "yardı",
+    "yazıc",
+    "yönel",
+    "yönet",
+    "çağrı",
+    "çağır",
+    "şirke"
+   ],
+   "at": "2026-11-18T11:58:44.624399+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "50a161f65f",
-   "post_id": "529346797199852_1470106565229051",
-   "title": "Fransa Teknik Direktörü Zidane'dan öz eleştiri: Daha iyi yerlere gelmemiz lazım",
-   "at": "2026-11-16T04:51:30.115071+00:00",
-   "yazim": "claude",
-   "metin": "Fransa Teknik Direktörü Zinedine Zidane, Türkiye maçının ardından:\n\n“Ancak daha iyi yerlere gelmemiz lazım. Bana göre iyi altı maç oynadık.”\n\n— Fransa, UEFA Uluslar A Ligi 1. Grup'taki son maçını sahasında Türkiye'ye 2-1 kazandı.\n— Zidane, ilk yarıdaki oyundan memnun olmadığını, ikinci yarıdaki reaksiyonu ise olumlu bulduğunu söyledi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009650/fransa-teknik-direktoru-zidane-dan-oz-elestiri-daha-iyi-yerlere-gelmemiz-lazim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "d6b4442beb",
    "post_id": "529346797199852_1470115265228181",
@@ -13241,6 +13200,21 @@
     "Karar: https://www.karar.com/guncel-haberler/eyupsultanda-otomobile-19-kursunlu-saldirida-yeni-detaylar-kulup-2084873",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/kirmizi-isikta-kursun-yagdirdi-is-insanini-olduren-saldirgan-kulup-baskani-cikti-7703088"
    ]
+  },
+  {
+   "id": "9a0bc7cb7f",
+   "post_id": "529346797199852_1472433134996394",
+   "title": "AKP'li Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıldı",
+   "at": "2026-11-18T11:58:44.624399+00:00",
+   "yazim": "claude",
+   "metin": "Fon soruşturmasında Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu ifadeye çağrıldı.\n\n— Soruşturma kapsamında, oğlunun şirketi Adil Varlık Yönetim'in de aralarında olduğu 4 şirkete dün kayyım atanmıştı.\n\n— Gazeteci Nergis Demirkaya, Hayati Yazıcı'nın bugünkü grup toplantısına katılmadığını aktarmıştı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-fon-sorusturmasi-akp-li-hayati-yazici-nin-oglu-mustafa-yazici-ifadeye-cagrildi-2557225",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/hayati-yazicinin-oglu-ifadeye-cagirildi-4873969",
+    "Evrensel: https://www.evrensel.net/haber/6010088/akp-li-hayati-yazici-nin-oglu-mustafa-yazici-ifadeye-cagrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/fon-sorusturmasi-akp-li-hayati-yazici-nin-oglu-mustafa-yazici-ifadeye-cagrildi-747128",
+    "Karar: https://www.karar.com/guncel-haberler/son-dakika-ak-parti-genel-baskan-yardimcisi-hayati-yazicinin-oglu-2084878"
+   ]
   }
  ],
  "fails": {
@@ -13461,8 +13435,6 @@
  },
  "fail_log": [
   "2026-11-18T05:15 Yavuz Baydar: Her şey TELE1'e operasyonla başlamadı -> ValueError: yanıt okunamadı",
-  "2026-11-18T05:15 Yavuz Baydar: Her şey TELE1'e operasyonla başlamadı -> ValueError: yanıt okunamadı",
-  "2026-11-18T05:15 Yavuz Baydar: Her şey TELE1'e operasyonla başlamadı -> ValueError: yanıt okunamadı",
   "2026-11-18T05:18 Mustafa Balbay: Sert açıklamalar yaparak alınacak bir yol yo -> ValueError: yanıt okunamadı",
   "2026-11-18T05:18 Mustafa Balbay: Sert açıklamalar yaparak alınacak bir yol yo -> ValueError: yanıt okunamadı",
   "2026-11-18T05:18 Mustafa Balbay: Sert açıklamalar yaparak alınacak bir yol yo -> ValueError: yanıt okunamadı",
@@ -13499,12 +13471,14 @@
   "2026-11-18T11:20 Kış aylarında artan yorgunluk ve isteksizliğe dikkat: \"İki h -> ValueError: yanıt okunamadı",
   "2026-11-18T11:20 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
   "2026-11-18T11:20 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
-  "2026-11-18T11:20 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı"
+  "2026-11-18T11:20 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
+  "2026-11-18T11:58 AKP'li Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıld -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-18T11:58 AKP'li Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıld -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123019610471723317",
+   "since_id": "2123022228040126961",
    "started": true
   },
   "ajansmuhbir1923": {
