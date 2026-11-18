@@ -10472,22 +10472,60 @@
     "yol"
    ],
    "at": "2026-11-18T19:03:17.974023+00:00"
+  },
+  {
+   "fp": [
+    "azerb",
+    "bakan",
+    "bayra",
+    "dışiş",
+    "fidan",
+    "görüş",
+    "hakan",
+    "mevki",
+    "telef"
+   ],
+   "tok": [
+    "alınd",
+    "arası",
+    "araya",
+    "azerb",
+    "bae",
+    "bayra",
+    "bölge",
+    "ceyhu",
+    "daki",
+    "dan",
+    "devle",
+    "diplo",
+    "dışiş",
+    "ekim",
+    "etkin",
+    "fidan",
+    "gelmi",
+    "gerçe",
+    "görüş",
+    "günü",
+    "hakan",
+    "ikili",
+    "ilişk",
+    "kasım",
+    "kenti",
+    "konul",
+    "kriti",
+    "mevki",
+    "nahya",
+    "nde",
+    "telef",
+    "teşki",
+    "zafer",
+    "zirve",
+    "şuşa"
+   ],
+   "at": "2026-11-18T19:15:52.320139+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c270c2471d",
-   "post_id": "529346797199852_1470669501839424",
-   "title": "Büyükçekmece davasında iş insanı Adem Çukur'a tahliye kararı",
-   "at": "2026-11-16T17:26:28.983730+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul 27. Ağır Ceza Mahkemesi, Büyükçekmece Belediyesi davasında iş insanı Adem Çukur'un tahliyesine karar verdi.\n\n— Görevden uzaklaştırılan Belediye Başkanı Hasan Akgün dahil 4 kişinin tutukluluk hali devam edecek.\n— Dava, ruhsat işlemleri ve rüşvet iddiaları etrafında yürüyor. Akgün, iddialara destek veren somut delil bulunmadığını savundu.\n— Mahkeme bir sonraki duruşmayı 14 Aralık'a erteledi.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/buyukcekmece-belediyesi-davasi-adem-cukur-tahliye-karari-p381971",
-    "Evrensel: https://www.evrensel.net/haber/6009779/buyukcekmece-belediyesi-davasi-tutuklu-adem-cukur-un-tahliyesine-karar-verilen-durusma-ertelendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/buyukcekmece-belediyesi-davasinda-1-tahliye-hasan-akgun-dahil-4-isim-icin-tutukluluga-devam-karari-746788"
-   ]
-  },
   {
    "id": "0a4ba86f5d",
    "post_id": "529346797199852_1470679995171708",
@@ -13092,6 +13130,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/bir-milletvekili-daha-yeni-yol-partisinden-istifa-etti-grup-dustu-mu-2557349",
     "Karar: https://www.karar.com/guncel-haberler/yeni-yolda-kriz-gaziantep-milletvekili-ertugrul-kaya-istifa-etti-2084948"
    ]
+  },
+  {
+   "id": "16a5a909f1",
+   "post_id": "529346797199852_1472774741628900",
+   "title": "Bakan Fidan, Azerbaycanlı mevkidaşı Bayramov ile telefonda görüştü",
+   "at": "2026-11-18T19:15:52.320139+00:00",
+   "yazim": "claude",
+   "metin": "Dışişleri Bakanı Hakan Fidan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile telefonda görüştü.\n\nGörüşmede Türkiye ile Azerbaycan arasındaki ikili ilişkiler ve bölgesel konular ele alındı.\n\n— İki bakan, 29 Ekim'de Ankara'daki Türk Devletleri Teşkilatı 13. Zirvesi'nde bir araya gelmişti.\n— 8 Kasım'da Azerbaycan'ın Şuşa kentindeki Zafer Günü etkinliklerinde de görüşmüşlerdi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-azerbaycan-disisleri-bakani-bayramov-ile-telefonda-gorustu/4129702",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/bakan-fidan-baeli-ve-azerbaycanli-mevkidaslariyla-gorustu-963726.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-azerbaycanli-mevkidasi-bayramov-gorustu-43383043",
+    "Milliyet: https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-azerbaycan-disisleri-bakani-bayramov-ile-gorustu-7703314",
+    "CNN Türk: https://www.cnnturk.com/turkiye/disisleri-bakani-hakan-fidan-azerbaycan-disisleri-bakani-bayramov-ile-gorustu-3495013",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/18/bakan-fidan-bae-disisleri-bakani-al-nahyan-ile-telefonda-gorustu"
+   ]
   }
  ],
  "fails": {
@@ -13361,7 +13415,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123121403545186374",
+   "since_id": "2123131442129768812",
    "started": true
   },
   "ajansmuhbir1923": {
