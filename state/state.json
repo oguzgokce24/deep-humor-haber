@@ -2,91 +2,6 @@
  "seen": [
   {
    "fp": [
-    "durum",
-    "galat",
-    "görün",
-    "park",
-    "rams",
-    "zemin"
-   ],
-   "tok": [
-    "almas",
-    "ardın",
-    "aston",
-    "açısı",
-    "başak",
-    "bekle",
-    "bilet",
-    "bozul",
-    "daki",
-    "dikim",
-    "dinda",
-    "durum",
-    "düştü",
-    "ekibi",
-    "fatih",
-    "galat",
-    "gece",
-    "gelec",
-    "göre",
-    "görün",
-    "gübre",
-    "günde",
-    "gündü",
-    "güneş",
-    "hali",
-    "hata",
-    "henüz",
-    "iddia",
-    "içind",
-    "kasım",
-    "konuş",
-    "kulüp",
-    "maçın",
-    "medya",
-    "mimar",
-    "nda",
-    "neden",
-    "nered",
-    "nevza",
-    "ortay",
-    "oynan",
-    "oynay",
-    "park",
-    "progr",
-    "rams",
-    "rapor",
-    "saha",
-    "samsu",
-    "sorun",
-    "sosya",
-    "spor",
-    "stady",
-    "stadı",
-    "tartı",
-    "tekni",
-    "terim",
-    "topar",
-    "veril",
-    "villa",
-    "yapac",
-    "yapıl",
-    "yapıy",
-    "yenid",
-    "yok",
-    "yorum",
-    "yönde",
-    "yıkıl",
-    "yıkıp",
-    "zemin",
-    "çalış",
-    "çim",
-    "çıktı"
-   ],
-   "at": "2026-11-16T17:39:12.536869+00:00"
-  },
-  {
-   "fp": [
     "cezae",
     "gönde",
     "ifade",
@@ -10756,25 +10671,65 @@
     "şekli"
    ],
    "at": "2026-11-18T05:31:21.001979+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "cambr",
+    "kelim",
+    "sözlü",
+    "yılın"
+   ],
+   "tok": [
+    "aksin",
+    "anlam",
+    "anlat",
+    "aura",
+    "belir",
+    "bilim",
+    "biçim",
+    "büyüt",
+    "cambr",
+    "colin",
+    "değiş",
+    "duygu",
+    "eklen",
+    "farmi",
+    "geldi",
+    "gerek",
+    "göste",
+    "hayva",
+    "human",
+    "insan",
+    "kelim",
+    "konus",
+    "konuş",
+    "kusur",
+    "looks",
+    "makin",
+    "mcınt",
+    "medya",
+    "nitel",
+    "nın",
+    "olmak",
+    "olman",
+    "sahip",
+    "seçim",
+    "seçti",
+    "sosya",
+    "sözlü",
+    "tanrı",
+    "tartı",
+    "terim",
+    "yapay",
+    "yılın",
+    "zekan",
+    "zekân"
+   ],
+   "at": "2026-11-18T05:43:58.721705+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "020d85910f",
-   "post_id": "529346797199852_1469852418587799",
-   "title": "Otomobil traktöre çarptı: 2 kişi öldü, 4 kişi yaralandı",
-   "at": "2026-11-15T21:43:56.140845+00:00",
-   "yazim": "claude",
-   "metin": "Denizli'nin Honaz ilçesinde otomobil, önündeki traktörün römorkuna çarptı: 2 kişi hayatını kaybetti, 4 kişi yaralandı.\n\nKaza saat 15.00 sıralarında Karakurt Mahallesi'ndeki Denizli-Honaz kara yolunda yaşandı.\n\n— Çarpmanın etkisiyle traktör takla attı, otomobil de yoldan çıktı.\n\n— Hayatını kaybedenler traktör sürücüsü (48) ile eşi (45) oldu.\n\n— Yaralılar Pamukkale Üniversitesi Hastanesi ve Denizli Devlet Hastanesi'nde tedavi ediliyor.\n\n— Kazayla ilgili soruşturma sürüyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/osmaniyede-4-arac-birbirine-girdi-7-kisi-yarali-7701411",
-    "Sözcü: https://www.sozcu.com.tr/5-arac-birbirine-girdi-cok-sayida-yarali-var-p381657",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/otomobil-traktore-carpti-2-kisi-oldu-4-kisi-yaralandi-2556450",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/feci-kaza-5-arac-birbirine-girdi-11-yarali-2556432",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/traktor-romorkuna-otomobil-carpti-kari-koca-hayatini-kaybetti-dort-yarali-4872790",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/cerkezkoy-yolunda-zincirleme-kaza-bes-arac-birbirine-girdi-11-yarali-4872763"
-   ]
-  },
   {
    "id": "37024e6b32",
    "post_id": "529346797199852_1469859761920398",
@@ -13322,6 +13277,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-18-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2557096",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-istanbulda-firtina-doguda-kar-meteorolojiden-3-gunluk-tahmin-7702758"
    ]
+  },
+  {
+   "id": "ea7decb16b",
+   "post_id": "529346797199852_1472167795022928",
+   "title": "Cambridge Sözlüğü 2026 yılının kelimesini açıkladı",
+   "at": "2026-11-18T05:43:58.721705+00:00",
+   "yazim": "claude",
+   "metin": "Cambridge Sözlüğü, 2026'nın kelimesi olarak \"human\" (insan) kelimesini seçti.\n\nSözlük, yapay zekânın insan olmanın ne anlama geldiği konusundaki tartışmayı büyüttüğünü seçimin gerekçesi olarak gösterdi.\n\n— Sözlükte \"human\", tanrıların, hayvanların ya da makinelerin aksine insanların sahip olduğu nitelik, kusur ve duyguları anlatıyor.\n— Sözlükbilimci Colin McIntosh, yapay zekânın insan olmak hakkında konuşma biçimimizi değiştirdiğini söyledi.\n— Sözlüğe \"aura farming\" ve \"looksmaxxing\" gibi sosyal medya terimleri de eklendi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/cambridge-sozlugu-2026-yilinin-kelimesini-acikladi-963625.html",
+    "Habertürk: https://www.haberturk.com/yasam/belli-oldu-son-dakika-haber-cambridge-sozlugu-2026-yilinin-kelimesini-acikladi-3928114",
+    "Sözcü: https://www.sozcu.com.tr/cambridge-sozlugu-2026-yilinin-kelimesini-acikladi-p382337",
+    "Karar: https://www.karar.com/guncel-haberler/cambridge-sozlugu-2026-yilinin-kelimesini-acikladi-2084747",
+    "BPT (X): https://x.com/bpthaber/status/2122925987541250241"
+   ]
   }
  ],
  "fails": {
@@ -13537,7 +13507,6 @@
   "0650087b03": 1
  },
  "fail_log": [
-  "2026-11-18T03:57 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:01 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:01 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:01 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
@@ -13576,12 +13545,13 @@
   "2026-11-18T05:15 Yavuz Baydar: Her şey TELE1'e operasyonla başlamadı -> ValueError: yanıt okunamadı",
   "2026-11-18T05:18 Mustafa Balbay: Sert açıklamalar yaparak alınacak bir yol yo -> ValueError: yanıt okunamadı",
   "2026-11-18T05:18 Mustafa Balbay: Sert açıklamalar yaparak alınacak bir yol yo -> ValueError: yanıt okunamadı",
-  "2026-11-18T05:18 Mustafa Balbay: Sert açıklamalar yaparak alınacak bir yol yo -> ValueError: yanıt okunamadı"
+  "2026-11-18T05:18 Mustafa Balbay: Sert açıklamalar yaparak alınacak bir yol yo -> ValueError: yanıt okunamadı",
+  "2026-11-18T05:44 Cambridge Sözlüğü 2026 yılının kelimesini açıkladı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122924501352526289",
+   "since_id": "2122925987541250241",
    "started": true
   },
   "ajansmuhbir1923": {
