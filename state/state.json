@@ -2,82 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aihm",
-    "atala",
-    "can",
-    "den",
-    "derha",
-    "karar"
-   ],
-   "tok": [
-    "aihm",
-    "aldı",
-    "anaya",
-    "ancak",
-    "ardın",
-    "atala",
-    "avrup",
-    "aym",
-    "ayrı",
-    "ayrıc",
-    "baş",
-    "beri",
-    "bin",
-    "bırak",
-    "can",
-    "cezas",
-    "davas",
-    "den",
-    "derha",
-    "dönme",
-    "dönsü",
-    "düşür",
-    "edilm",
-    "edils",
-    "edip",
-    "erkan",
-    "euro",
-    "genel",
-    "gezi",
-    "görev",
-    "hakla",
-    "hapis",
-    "hatay",
-    "hükme",
-    "ihlal",
-    "insan",
-    "isted",
-    "kaydı",
-    "kez",
-    "kurtu",
-    "kütüğ",
-    "madde",
-    "manev",
-    "mecli",
-    "mille",
-    "numan",
-    "rağme",
-    "sağla",
-    "serbe",
-    "sesle",
-    "tahli",
-    "tazmi",
-    "tbmm",
-    "tip",
-    "uygul",
-    "verdi",
-    "verer",
-    "yapma",
-    "yapıl",
-    "yargı",
-    "yemin",
-    "yıl",
-    "ödenm"
-   ],
-   "at": "2026-11-17T10:07:01.405622+00:00"
-  },
-  {
-   "fp": [
     "delil",
     "dosya",
     "güllü",
@@ -10674,25 +10598,55 @@
     "tefec"
    ],
    "at": "2026-11-18T21:55:35.740175+00:00"
+  },
+  {
+   "fp": [
+    "açıkl",
+    "iran",
+    "kaybe",
+    "nyt",
+    "rahat",
+    "savaş",
+    "seçim",
+    "trump",
+    "vance",
+    "yüzün"
+   ],
+   "tok": [
+    "abd",
+    "adayl",
+    "aktar",
+    "ardın",
+    "bakma",
+    "baktı",
+    "başla",
+    "dair",
+    "daki",
+    "donal",
+    "iddia",
+    "iran",
+    "kasım",
+    "medya",
+    "mesaf",
+    "nyt",
+    "rahat",
+    "savaş",
+    "seçim",
+    "söyle",
+    "sözle",
+    "sürül",
+    "trump",
+    "vance",
+    "yardı",
+    "yenil",
+    "yönün",
+    "yüzün",
+    "öne"
+   ],
+   "at": "2026-11-18T22:08:16.526554+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "785428c5b2",
-   "post_id": "529346797199852_1470797708493270",
-   "title": "Fon soruşturmasında yeni gelişme: 7 şüpheliye tutuklama talebi",
-   "at": "2026-11-16T20:26:16.338613+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da fon soruşturmasında gözaltına alınan 26 kişiden 7'si için tutuklama talep edildi.\n\n— Geri kalan 19 şüpheli için adli kontrol istendi. Tüm şüpheliler sulh ceza hakimliğine sevk edildi.\n\n— Soruşturmada 16 Kasım itibarıyla tutuklu sayısı 123'e ulaştı.\n\n— Soruşturma, Eylül ayında SPK'nın 131 fonu tasfiye etme kararının ardından büyüyen fon krizinden sonra yürüyor. En çok konuşulan isimlerden eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya, 6 Kasım'da cezaevine gönderilmişti.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-1751184",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-fon-sorusturmasinda-7-tutuklama-3927815",
-    "Sözcü: https://www.sozcu.com.tr/fon-sorusturmasinda-7-supheliye-tutuklama-talebi-p382027",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-7-supheliye-tutuklama-talebi-2556730",
-    "Evrensel: https://www.evrensel.net/haber/6009802/fon-vurgunu-sorusturmasi-7-kisi-icin-tutuklama-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/dunya-haberleri/epsteinin-olumunde-7-yil-sonra-yeni-gelisme-otopsi-fotograflarinda-2084489"
-   ]
-  },
   {
    "id": "dc5555183e",
    "post_id": "529346797199852_1470810105158697",
@@ -13291,6 +13245,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/adiyaman-da-tefeci-operasyonu-3-tutuklama-2557403",
     "Yeni Şafak: https://www.yenisafak.com/gundem/adiyamanda-tefeci-operasyonu-uc-kisi-tutuklandi-4874117"
    ]
+  },
+  {
+   "id": "b464ab354e",
+   "post_id": "529346797199852_1472881998284841",
+   "title": "NYT: Trump, Vance'in \"seçimleri İran savaşı yüzünden kaybettikleri\" açıklamasından rahatsız",
+   "at": "2026-11-18T22:08:16.526554+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de Başkan Trump'ın, Başkan Yardımcısı JD Vance'in seçim yenilgisine dair sözlerinden rahatsız olduğu iddia edildi.\n\n— Vance'in, 3 Kasım'daki seçimleri İran'la savaş yüzünden kaybettiklerini söylediği aktarıldı.\n\n— Bu sözlerin ardından Trump'ın Vance'e 2028 başkan adaylığı için daha mesafeli baktığı öne sürüldü.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/nyt-trump-vancein-secimleri-iran-savasi-yuzunden-kaybettikleri-aciklamasindan-rahatsiz/4129810",
+    "BirGün: https://www.birgun.net/haber/nyt-trump-vance-in-secimleri-iran-savasi-yuzunden-kaybettikleri-aciklamasindan-rahatsiz-747203"
+   ]
   }
  ],
  "fails": {
@@ -13516,12 +13482,10 @@
   "62e7bad878": 1,
   "7d8810b8be": 1,
   "fdcb3377e2": 1,
-  "b85ca1a229": 1
+  "b85ca1a229": 1,
+  "48ced4f78e": 1
  },
  "fail_log": [
-  "2026-11-18T11:20 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
-  "2026-11-18T11:20 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
-  "2026-11-18T11:58 AKP'li Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıld -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T11:58 AKP'li Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıld -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T14:05 Aralarında suç örgütü elebaşları da var. 6 firari Türkiye'ye -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T16:01 Dosyası ayrılan 8 kişi yargılanıyor: Sinan Ateş davasında ar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
@@ -13558,12 +13522,15 @@
   "2026-11-18T20:53 CENTCOM: İran saldırılarında yaralanan askerimiz yok -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T21:06 Polonya'da görevinden uzaklaştırılan Anayasa Mahkemesi Başka -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T21:06 Polonya'da görevinden uzaklaştırılan Anayasa Mahkemesi Başka -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-18T21:19 Devlet Bahçeli 'Yağmur Stratejisi'ni açıklığa kavuşturdu: 'Y -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-18T21:19 Devlet Bahçeli 'Yağmur Stratejisi'ni açıklığa kavuşturdu: 'Y -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-18T22:08 Premier Lig, kış aylarında kullanılacak topunu tanıttı. -> ValueError: yanıt okunamadı",
+  "2026-11-18T22:08 Premier Lig, kış aylarında kullanılacak topunu tanıttı. -> ValueError: yanıt okunamadı",
+  "2026-11-18T22:08 Premier Lig, kış aylarında kullanılacak topunu tanıttı. -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123171007641125004",
+   "since_id": "2123174499281682439",
    "started": true
   },
   "ajansmuhbir1923": {
