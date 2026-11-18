@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "000",
-    "2025",
-    "7",
-    "düştü",
-    "fiyat",
-    "gazia",
-    "hasat",
-    "rekol",
-    "sert",
-    "ydi",
-    "yükse",
-    "yıl"
-   ],
-   "tok": [
-    "asit",
-    "bandı",
-    "bekle",
-    "düştü",
-    "düşük",
-    "düşüş",
-    "fiyat",
-    "gazia",
-    "gecik",
-    "geçen",
-    "gönde",
-    "göre",
-    "hasad",
-    "hasat",
-    "henüz",
-    "ila",
-    "karac",
-    "konuş",
-    "nde",
-    "oranı",
-    "oturm",
-    "oğuze",
-    "piyas",
-    "rağme",
-    "rekol",
-    "sert",
-    "sürer",
-    "sıkım",
-    "tam",
-    "tamer",
-    "tanel",
-    "tenek",
-    "tesis",
-    "verim",
-    "yağ",
-    "ydi",
-    "yükse",
-    "yıl",
-    "yıla",
-    "zeyti",
-    "çünkü",
-    "çıkmı",
-    "üreti",
-    "şikay"
-   ],
-   "at": "2026-11-16T21:28:50.177777+00:00"
-  },
-  {
-   "fp": [
     "almas",
     "ben",
     "beni",
@@ -10627,20 +10564,61 @@
     "üzere"
    ],
    "at": "2026-11-18T09:19:06.178020+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "başsa",
+    "bddk",
+    "eski",
+    "izni",
+    "kavcı",
+    "soruş",
+    "taleb",
+    "şahap"
+   ],
+   "tok": [
+    "aylar",
+    "başsa",
+    "bddk",
+    "dan",
+    "erdoğ",
+    "eski",
+    "etmiş",
+    "fazla",
+    "fon",
+    "geçen",
+    "görev",
+    "günde",
+    "hafta",
+    "hazin",
+    "ilett",
+    "isted",
+    "istif",
+    "izni",
+    "kavcı",
+    "kurum",
+    "maliy",
+    "nin",
+    "nın",
+    "parça",
+    "söyle",
+    "sürdü",
+    "taleb",
+    "talep",
+    "tartı",
+    "vurgu",
+    "yakla",
+    "yazdı",
+    "yazıy",
+    "yıldı",
+    "yıpra",
+    "şahap"
+   ],
+   "at": "2026-11-18T09:31:39.587306+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ae22d0b605",
-   "post_id": "529346797199852_1469987338574307",
-   "title": "Atakum Belediyesi’nde işten çıkarılan işçilerden bildiri: 'Zafer direnen emekçilerin olacak'",
-   "at": "2026-11-16T01:49:42.867039+00:00",
-   "yazim": "claude",
-   "metin": "Samsun Atakum Belediyesi'nde işten çıkarılan işçiler, bildirilerinde:\n\n“Aylarca tek kuruş almadan, evimize ekmek götüremediğimiz için belediye binasının önünde açlık grevi yaparak direnen, ardından bu haklı mücadelenin intikamı olarak kapı önüne konulan işçiler (...) Zafer direnen emekçilerin olacak.”\n\n— Yaklaşık 35 işçinin iş akdi geçtiğimiz haftalarda sonlandırıldı.\n— İşçiler, cadde, sokak ve pazar yerlerinde bildiri dağıtarak yaşadıklarını halka anlatıyor.\n— İşçilerin büyük kısmı, maaş sorunu nedeniyle eyleme katılan DİSK/Genel-İş Sendikası üyesi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/atakum-belediyesi-nde-isten-cikarilan-iscilerden-bildiri-zafer-direnen-emekcilerin-olacak-2556438"
-   ]
-  },
   {
    "id": "60a0558227",
    "post_id": "529346797199852_1469995138573527",
@@ -13227,6 +13205,22 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-aramasi-bulunan-746-kisi-yakalandi-3928167",
     "Karar: https://www.karar.com/guncel-haberler/turkiye-genelinde-es-zamanli-operasyon-haklarinda-arama-karari-bulunan-2084817"
    ]
+  },
+  {
+   "id": "793548efe8",
+   "post_id": "529346797199852_1472322868340754",
+   "title": "İstanbul Cumhuriyet Başsavcılığı, Şahap Kavcıoğlu hakkında soruşturma izni istedi",
+   "at": "2026-11-18T09:31:39.587306+00:00",
+   "yazim": "claude",
+   "metin": "Başsavcılık, istifa eden BDDK Başkanı Şahap Kavcıoğlu hakkında soruşturma izni istedi.\n\nİstanbul Cumhuriyet Başsavcılığı bu talebini Hazine ve Maliye Bakanlığı'na yazdığı bir yazıyla iletti.\n\n— Kavcıoğlu, geçen hafta yaklaşık 3,5 yıldır sürdürdüğü BDDK Başkanlığı görevinden istifa etmişti.\n— Talep, Türkiye'nin aylardır gündemde olan \"fon\" vurgunu tartışmasının bir parçası.\n— Kavcıoğlu istifasını, kurumun daha fazla yıpranmaması için Cumhurbaşkanı Erdoğan'dan af istediğini söyleyerek açıklamıştı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/sahap-kavcioglu-hakkinda-sorusturma-izni-talebi-963672.html",
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-eski-bddk-baskani-sahap-kavciogluna-sorusturma-izni-talebi-7702989",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/son-dakika-eski-bddk-baskani-kavciogluna-sorusturma-izni-talebi-3494677",
+    "Habertürk: https://www.haberturk.com/ekonomi/son-dakika-sahap-kavcioglu-na-sorusturma-izni-3928200",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-bassavcilik-bddk-baskanligindan-istifa-eden-sahap-kavcioglu-hakkinda-sorusturma-izni-istedi-2557187",
+    "BirGün: https://www.birgun.net/haber/istanbul-cumhuriyet-bassavciligi-sahap-kavcioglu-hakkinda-sorusturma-izni-istedi-747095"
+   ]
   }
  ],
  "fails": {
@@ -13489,7 +13483,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122979939716657508",
+   "since_id": "2122985357989842980",
    "started": true
   },
   "ajansmuhbir1923": {
