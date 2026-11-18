@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "düşüş",
-    "konut",
-    "satış"
-   ],
-   "tok": [
-    "artış",
-    "aynı",
-    "ayına",
-    "ayınd",
-    "azala",
-    "bazda",
-    "belir",
-    "bin",
-    "devam",
-    "dönem",
-    "düşer",
-    "düştü",
-    "düşüş",
-    "ekim",
-    "ekimd",
-    "genel",
-    "geril",
-    "geçen",
-    "göre",
-    "ikinc",
-    "ilişk",
-    "indi",
-    "kayde",
-    "konut",
-    "ocak",
-    "reel",
-    "satıl",
-    "satış",
-    "sert",
-    "sınır",
-    "topla",
-    "tüik",
-    "veril",
-    "yaban",
-    "yaşan",
-    "yeri",
-    "yüzde",
-    "yıllı",
-    "yılın"
-   ],
-   "at": "2026-11-17T07:44:46.730727+00:00"
-  },
-  {
-   "fp": [
     "amazo",
     "etmek",
     "filis",
@@ -10500,25 +10451,70 @@
     "ısrar"
    ],
    "at": "2026-11-18T19:36:51.853371+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "ağır",
+    "durağ",
+    "malte",
+    "saldı",
+    "silah",
+    "taksi",
+    "yaral"
+   ],
+   "tok": [
+    "adam",
+    "akşam",
+    "ateş",
+    "açtı",
+    "ağır",
+    "başla",
+    "belir",
+    "boş",
+    "bulun",
+    "durağ",
+    "düzen",
+    "gelip",
+    "geniş",
+    "gülsu",
+    "hasta",
+    "hyund",
+    "ikiz",
+    "ilçes",
+    "isabe",
+    "kaldı",
+    "kaçtı",
+    "kimli",
+    "kişil",
+    "kovan",
+    "kurşu",
+    "mahal",
+    "malte",
+    "marka",
+    "ndeki",
+    "olay",
+    "otomo",
+    "plaka",
+    "saat",
+    "sahib",
+    "silah",
+    "sürül",
+    "sıral",
+    "taksi",
+    "tehli",
+    "vücud",
+    "yağdı",
+    "yerin",
+    "çalış",
+    "çaplı",
+    "öne",
+    "öğren"
+   ],
+   "at": "2026-11-18T19:49:31.474955+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d13d5b68cd",
-   "post_id": "529346797199852_1470689511837423",
-   "title": "Tutuklu Ömer Sarıgül ek ifadesinin ardından cezaevine gönderildi",
-   "at": "2026-11-16T17:51:49.662038+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da kara para aklama soruşturmasında tutuklu bulunan Milletvekili Mustafa Sarıgül'ün oğlu, ek ifade verdikten sonra yeniden cezaevine gönderildi.\n\n— Genç, 19 Ekim'de tutuklanmıştı. Bugün ek ifade vermek için İstanbul Adalet Sarayı'na getirildi.\n\n— İfade işlemleri bittikten sonra cezaevine geri götürüldü. Soruşturma sürüyor.\n\n— Soruşturmada 27 şüpheli tutuklu bulunuyor. Soruşturma, iki Alman vatandaşının şikayeti üzerine başlatıldı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/omer-sarigul-ek-ifade-verdi-7702001",
-    "Habertürk: https://www.haberturk.com/gundem/omer-sarigul-ek-ifade-verdi-3927782",
-    "Sözcü: https://www.sozcu.com.tr/tutuklu-omer-sarigul-ek-ifade-icin-adliyeye-getirildi-p381880",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/sarigul-sorusturmasinda-yeni-gelisme-omer-sarigul-ek-ifade-verdikten-sonra-cezaevine-gonderildi-2556692",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/omer-sarigul-ek-ifadesinin-ardindan-cezaevine-gonderildi-4873178",
-    "Evrensel: https://www.evrensel.net/haber/6009782/etkin-pismanlik-basvurusu-yapmisti-omer-sarigul-ek-ifade-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "df85dd6921",
    "post_id": "529346797199852_1470699305169777",
@@ -13120,6 +13116,19 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6010150/ekrem-imamoglu-na-verilen-cezanin-ardindan-ilk-aciklama-zalim-israrla-zulme-devam-ediyorsa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/imamoglu-eger-zalim-israrla-zulme-devam-ediyorsa-bil-ki-sonu-yakindir-747178"
+   ]
+  },
+  {
+   "id": "2671c83bf8",
+   "post_id": "529346797199852_1472796031626771",
+   "title": "Maltepe'de taksi durağına kurşun yağdırdılar: 1 ağır yaralı",
+   "at": "2026-11-18T19:49:31.474955+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Maltepe ilçesinde taksi durağına silahlı saldırı düzenlendi, bir kişi ağır yaralandı.\n\nSaldırı akşam saat 19.00 sıralarında Gülsuyu Mahallesi'ndeki bir taksi durağında oldu.\n\n— Kimliği belirsiz kişiler, ikiz plakalı Hyundai marka bir otomobille gelip durağa ateş açtı.\n\n— Durağın sahibi olduğu öne sürülen bir adam vücuduna isabet eden kurşunlarla ağır yaralandı. Hastaneye kaldırıldı ve hayati tehlikesinin bulunduğu öğrenildi.\n\n— Olay yerinde 9 boş kovan bulundu. Polis, saldırganların yakalanması için geniş çaplı çalışma başlattı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/maltepede-taksi-duragina-silahli-saldiri-1-agir-yarali-7703386",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/maltepe-de-taksi-duragina-kursun-yagdirdilar-1-agir-yarali-2557375",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/maltepede-taksi-duragina-silahli-saldiri-1-agir-yarali-7703386"
    ]
   }
  ],
