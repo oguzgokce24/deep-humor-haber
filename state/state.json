@@ -10670,22 +10670,89 @@
     "şirke"
    ],
    "at": "2026-11-18T07:22:12.865511+00:00"
+  },
+  {
+   "fp": [
+    "18",
+    "altın",
+    "cumhu",
+    "düşüş",
+    "fiyat",
+    "gram",
+    "kasım",
+    "çeyre"
+   ],
+   "tok": [
+    "abd",
+    "alan",
+    "altın",
+    "ana",
+    "aralı",
+    "ardın",
+    "artır",
+    "ayınd",
+    "başla",
+    "bekle",
+    "bin",
+    "birim",
+    "bugün",
+    "daki",
+    "değer",
+    "doğu",
+    "dün",
+    "dünkü",
+    "düştü",
+    "düşük",
+    "düşüy",
+    "düşüş",
+    "dışın",
+    "ettiğ",
+    "eylül",
+    "faiz",
+    "fed",
+    "fiyat",
+    "geril",
+    "gram",
+    "görül",
+    "günce",
+    "güne",
+    "güçle",
+    "hızla",
+    "ihtim",
+    "indi",
+    "ise",
+    "islam",
+    "kapal",
+    "kapan",
+    "kasım",
+    "konu",
+    "kriti",
+    "lirad",
+    "liray",
+    "memiş",
+    "neden",
+    "ons",
+    "orta",
+    "pahal",
+    "para",
+    "piyas",
+    "satıl",
+    "sert",
+    "seviy",
+    "spot",
+    "takip",
+    "ten",
+    "yana",
+    "yatır",
+    "yönel",
+    "yüzde",
+    "çarşa",
+    "çeyre"
+   ],
+   "at": "2026-11-18T07:35:01.617984+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5176d8dd95",
-   "post_id": "529346797199852_1469904558582585",
-   "title": "Bolu’da korkutan yangın: 1 ev, 2 ahır ve prefabrik yapı küle döndü",
-   "at": "2026-11-15T23:20:20.139267+00:00",
-   "yazim": "claude",
-   "metin": "Bolu'nun Merkez ilçesine bağlı Kındıra Yaylası'nda çıkan yangında 2 katlı bir ev, 2 ahır ve prefabrik bir yapı kullanılamaz hale geldi.\n\nYangın, bilinmeyen bir nedenle 2 katlı evin içinde başladı. Alevler kısa sürede alt kattaki ahıra, bitişiğindeki prefabrik yapıya ve başka bir ahıra sıçradı.\n\n— Çevredekilerin ihbarı üzerine Bolu Belediyesi itfaiye ekipleri olay yerine gitti ve yangın kontrol altına alınarak söndürüldü.\n— Yangının çıkış nedenini belirlemek için inceleme başlatıldı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/boluda-feci-yangin-ev-ahir-ve-prefabrik-yapi-alev-alev-yandi-7701484",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bolu-da-korkutan-yangin-1-ev-2-ahir-ve-prefabrik-yapi-kule-dondu-2556452",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/boluda-feci-yangin-ev-ahir-ve-prefabrik-yapi-alev-alev-yandi-7701484"
-   ]
-  },
   {
    "id": "fd34774d29",
    "post_id": "529346797199852_1469911271915247",
@@ -13245,6 +13312,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/50-milyon-liralik-ziynet-esyasina-el-konuldu-sirinler-suc-orgutune-operasyon-33-tutuklama-2557133",
     "Karar: https://www.karar.com/guncel-haberler/sirinler-operasyonunda-33-tutuklama-50-milyon-tllik-ziynet-esyasina-el-2084772"
    ]
+  },
+  {
+   "id": "c2fc8b5b4f",
+   "post_id": "529346797199852_1472234165016291",
+   "title": "Altında düşüş hızlandı: Gram, çeyrek ve Cumhuriyet altını ne kadar oldu?",
+   "at": "2026-11-18T07:35:01.617984+00:00",
+   "yazim": "claude",
+   "metin": "Altın fiyatları sert düştü: Türkiye'de gram altın 6 bin 126 liraya geriledi.\n\n— Gram altın dünkü kapanışın ardından yüzde 1,7 değer kaybetti. Dün 6 bin 236 liradan kapanmıştı.\n\n— Çeyrek altın 10 bin 230 liradan, Cumhuriyet altını 41 bin 780 liradan satılıyor.\n\n— Spot altının ons fiyatı 3 bin 776 dolara indi. Bu, Eylül 2025'ten bu yana görülen en düşük seviye.\n\n— Düşüşün ana nedeni ABD'de faiz artırımı beklentisi. Piyasalar Aralık ayında faiz artırımını yüzde 95,7 ihtimalle fiyatlıyor.\n\n— Dolar güçlendikçe altın, dolar dışındaki para birimleriyle alan yatırımcılar için pahalılaşıyor. Orta Doğu'daki gerilim de yatırımcıların takip ettiği bir başka konu.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/ekonomi/altin-neden-dusuyor-18-kasim-ons-altin-gram-ceyrek-cumhuriyet-ne-kadar-islam-memis-kritik-seviyeyi-acikladi-kapalicarsi-altin-3494624",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlarinda-sert-dusus-gram-ceyrek-ve-cumhuriyet-altini-bugun-ne-kadar-oldu-guncel-altin-fiyatlari-18-kasim-2026-carsamba-2557120",
+    "Karar: https://www.karar.com/ekonomi-haberleri/altinda-dusus-hizlandi-gram-ceyrek-ve-cumhuriyet-altini-ne-kadar-oldu-2084765"
+   ]
   }
  ],
  "fails": {
@@ -13462,8 +13542,6 @@
   "1dafd0d39d": 1
  },
  "fail_log": [
-  "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
-  "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:05 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:05 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:05 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
@@ -13501,12 +13579,14 @@
   "2026-11-18T07:22 18 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Z -> ValueError: yanıt okunamadı",
   "2026-11-18T07:22 18 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Z -> ValueError: yanıt okunamadı",
   "2026-11-18T07:22 18 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Z -> ValueError: yanıt okunamadı",
-  "2026-11-18T07:22 'Şirinler' operasyonunda 33 tutuklama: 50 milyon TL'lik ziyn -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-18T07:22 'Şirinler' operasyonunda 33 tutuklama: 50 milyon TL'lik ziyn -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-18T07:35 Altında düşüş hızlandı: Gram, çeyrek ve Cumhuriyet altını ne -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-18T07:35 Altında düşüş hızlandı: Gram, çeyrek ve Cumhuriyet altını ne -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122950027718840796",
+   "since_id": "2122956264548299155",
    "started": true
   },
   "ajansmuhbir1923": {
