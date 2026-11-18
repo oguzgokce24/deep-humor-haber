@@ -2,42 +2,6 @@
  "seen": [
   {
    "fp": [
-    "dan",
-    "erdoğ",
-    "fon",
-    "talim"
-   ],
-   "tok": [
-    "akp",
-    "dan",
-    "düzen",
-    "erdoğ",
-    "fon",
-    "geldi",
-    "gerçe",
-    "günde",
-    "ilişk",
-    "isted",
-    "kurma",
-    "kurul",
-    "myk",
-    "sonu",
-    "sonuç",
-    "spk",
-    "süre",
-    "sürec",
-    "talim",
-    "tamam",
-    "topla",
-    "verdi",
-    "yürüt",
-    "yıl",
-    "yılba"
-   ],
-   "at": "2026-11-17T11:46:01.037594+00:00"
-  },
-  {
-   "fp": [
     "14",
     "42",
     "ele",
@@ -10714,23 +10678,69 @@
     "üzere"
    ],
    "at": "2026-11-18T23:39:01.829776+00:00"
+  },
+  {
+   "fp": [
+    "acı",
+    "bilec",
+    "kişi",
+    "olay",
+    "sıkış",
+    "trakt",
+    "çamur",
+    "öldü"
+   ],
+   "tok": [
+    "acı",
+    "adam",
+    "adamı",
+    "adli",
+    "apara",
+    "ardın",
+    "başla",
+    "belir",
+    "bilec",
+    "bilin",
+    "durum",
+    "edip",
+    "ekipl",
+    "etmey",
+    "fark",
+    "geldi",
+    "hemen",
+    "henüz",
+    "kepçe",
+    "kesin",
+    "koyun",
+    "köyün",
+    "kısmı",
+    "monte",
+    "neden",
+    "olaca",
+    "olay",
+    "otomo",
+    "otops",
+    "savcı",
+    "sıkış",
+    "takma",
+    "takıl",
+    "talim",
+    "tespi",
+    "trakt",
+    "verdi",
+    "yaşar",
+    "yetki",
+    "çalış",
+    "çamur",
+    "çevre",
+    "öldüğ",
+    "ölüm",
+    "öztür"
+   ],
+   "at": "2026-11-18T23:51:36.103639+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d83cbbf6ab",
-   "post_id": "529346797199852_1470867098486331",
-   "title": "New York'ta silahlı saldırıda 3 kişiyi yaralayan saldırgan intihar etti",
-   "at": "2026-11-16T22:06:42.109526+00:00",
-   "yazim": "claude",
-   "metin": "Gaziantep'in Şehitkamil ilçesinde sokak ortasında düzenlenen silahlı saldırıda 1 kişi öldü, 1 kişi yaralandı.\n\nSaldırgan olay sonrası kaçtı. Polis, saldırganı yakalamak için çalışma başlattı.\n\n— Olay Karşıyaka Mahallesi'nde, 5. Sokak'ta yaşandı.\n— Ağır yaralanan kişi Şehitkamil Devlet Hastanesi'ne kaldırıldı, yapılan müdahaleye rağmen hayatını kaybetti.\n— Diğer yaralının tedavisinin sürdüğü öğrenildi.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/gaziantep-te-silahli-saldiri-1-olu-1-yarali-3927824",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sokak-ortasinda-silahli-saldiri-1-kisi-oldu-1-kisi-yaralandi-2556740",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/gaziantepte-silahli-saldiri-1-kisi-hayatini-kaybetti-4873209",
-    "Evrensel: https://www.evrensel.net/haber/6009815/new-york-ta-silahli-saldirida-3-kisiyi-yaralayan-saldirgan-intihar-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "74a64656a4",
    "post_id": "529346797199852_1470879058485135",
@@ -13317,6 +13327,20 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/bursa/inegol/bursada-otomobilin-carptigi-yaya-oldu-3495116",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/karsiya-gecmeye-calisan-yayaya-otomobil-carpti-hayatini-kaybetti-2557395",
     "Yeni Şafak: https://www.yenisafak.com/gundem/bursada-otomobilin-carptigi-yaya-oldu-4874106"
+   ]
+  },
+  {
+   "id": "76bf1c7946",
+   "post_id": "529346797199852_1472938511612523",
+   "title": "Bilecik’te traktörün çamurluğuna takılan kişi hayatını kaybetti",
+   "at": "2026-11-18T23:51:36.103639+00:00",
+   "yazim": "claude",
+   "metin": "Bilecik'te traktörüne kepçe takmaya çalışan bir adam, aracın çamurluk kısmına sıkışarak hayatını kaybetti.\n\n— Çevredekiler durumu fark edip hemen yetkililere haber verdi. Ekipler geldiğinde adamın öldüğü tespit edildi.\n— Sıkışmasının nedeni henüz bilinmiyor.\n— Cumhuriyet Savcısının talimatıyla adli soruşturma başlatıldı. Kesin ölüm nedeni otopsinin ardından belli olacak.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/bilecikte-aci-olay-traktor-camurluguna-sikisan-kisi-oldu-7703403",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/bilecik/bilecikte-traktor-camurluguna-sikisan-kisi-oldu-3495121",
+    "Sözcü: https://www.sozcu.com.tr/bilecik-te-traktorun-camurluguna-takilan-kisi-hayatini-kaybetti-p382571",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/bilecikte-aci-olay-traktor-camurluguna-sikisan-kisi-oldu-7703403"
    ]
   }
  ],
