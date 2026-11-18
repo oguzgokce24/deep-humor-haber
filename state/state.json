@@ -10083,22 +10083,99 @@
     "şartl"
    ],
    "at": "2026-11-17T23:55:09.450833+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "bastı",
+    "devle",
+    "fatur",
+    "kabus",
+    "kış",
+    "uygul",
+    "verim",
+    "verin",
+    "çıktı"
+   ],
+   "tok": [
+    "adım",
+    "aile",
+    "alpar",
+    "alışk",
+    "andro",
+    "ataca",
+    "aydın",
+    "aylık",
+    "açtı",
+    "bastı",
+    "bayra",
+    "beyaz",
+    "bilgi",
+    "bütçe",
+    "cihaz",
+    "devle",
+    "doğal",
+    "düşür",
+    "ekliy",
+    "elekt",
+    "enerj",
+    "enteg",
+    "erişi",
+    "etkis",
+    "evdek",
+    "evler",
+    "eşya",
+    "fatur",
+    "getir",
+    "giriy",
+    "giriş",
+    "grafi",
+    "göste",
+    "gücü",
+    "günlü",
+    "hedef",
+    "indir",
+    "ios",
+    "kabus",
+    "katkı",
+    "kayna",
+    "kaç",
+    "kendi",
+    "klima",
+    "kombi",
+    "kulla",
+    "kış",
+    "maliy",
+    "marke",
+    "mobil",
+    "pasta",
+    "posta",
+    "sayes",
+    "sağla",
+    "sunuy",
+    "süres",
+    "sınıf",
+    "tabii",
+    "tasar",
+    "tek",
+    "tüket",
+    "uygul",
+    "vatan",
+    "verim",
+    "verin",
+    "yapıl",
+    "yük",
+    "çalış",
+    "çıkar",
+    "çıktı",
+    "öneri",
+    "ücret",
+    "ısınm"
+   ],
+   "at": "2026-11-18T00:07:46.872492+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ba86037189",
-   "post_id": "529346797199852_1469675061938868",
-   "title": "Trabzonspor'da Ernest Muçi endişesi: Eyüpspor maçında oynayacak mı?",
-   "at": "2026-11-15T17:09:17.323679+00:00",
-   "yazim": "claude",
-   "metin": "Trabzonspor'un Arnavut futbolcusu Ernest Muçi, Belarus maçının kadrosuna alınmadı.\n\n— Muçi, Finlandiya maçının son dakikalarında ayağına darbe almıştı.\n— Arnavutluk Futbol Federasyonu, sakatlığının kötüleşmemesi için dinlendirileceğini açıkladı.\n— Muçi salonda bireysel çalışmalarına devam ediyor.\n— Eyüpspor maçında forma giyip giyemeyeceği, Trabzon'da yapılacak kontrollerden sonra belli olacak.\n— 25 yaşındaki yıldız futbolcu, bu sezon Trabzonspor formasıyla 14 maçta 3 gol, 7 asist kaydetti.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/ernest-muci-den-trabzonspor-a-kotu-haber-2556361",
-    "Evrensel: https://www.evrensel.net/haber/6009622/trabzonspor-da-ernest-muci-endisesi-eyupspor-macinda-oynayacak-mi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Sözcü Spor: https://www.sozcu.com.tr/trabzonspora-muci-soku-kadrodan-cikarildi-p381631"
-   ]
-  },
   {
    "id": "6380a82545",
    "post_id": "529346797199852_1469683871937987",
@@ -12662,6 +12739,17 @@
     "Sözcü: https://www.sozcu.com.tr/yabancilara-150-bin-dolarlik-yatirimla-3-yillik-ikamet-izni-verilebilecek-p382298",
     "Karar: https://www.karar.com/ekonomi-haberleri/yabanci-yatirimcilara-yeni-ikamet-izni-duzenlemesi-150-bin-dolara-3-2084738"
    ]
+  },
+  {
+   "id": "6d6865c3eb",
+   "post_id": "529346797199852_1471951511711223",
+   "title": "Kış bastırırken fatura kabusuna son verin: Bakanlığın yeni e-Devlet uygulaması 'Verimli Ev' çıktı",
+   "at": "2026-11-18T00:07:46.872492+00:00",
+   "yazim": "claude",
+   "metin": "Enerji Bakanlığı, evdeki cihazların faturaya etkisini gösteren ücretsiz “Verimli Ev” uygulamasını çıkardı.\n\n— Uygulama iOS ve Android marketlerinden indiriliyor. Giriş e-Devlet ya da e-posta ile yapılıyor.\n\n— Kullanıcılar son elektrik ve doğalgaz faturalarındaki tüketim bilgilerini giriyor. Cihazların enerji sınıfı, gücü ve günlük çalışma süresini de kendileri tek tek ekliyor.\n\n— Uygulama her cihazın aylık kaç TL yük getirdiğini pasta grafikle gösteriyor ve tasarruf önerileri sunuyor.\n\n— Bakan Alparslan Bayraktar, uygulamanın aile bütçesine katkı sağlayacağını söyledi: “Aydınlatmadan ısınmaya, elektrikli cihazların kullanımından günlük alışkanlıklarımıza kadar atacağımız her adım aile bütçesine katkı sağlayacak.”",
+   "sources": [
+    "Karar: https://www.karar.com/ekonomi-haberleri/kis-bastirirken-fatura-kabusuna-son-verin-bakanligin-yeni-e-devlet-2084733"
+   ]
   }
  ],
  "fails": {
@@ -12872,12 +12960,9 @@
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
   "5f55ba1e2b": 1,
-  "a639d88041": 1
+  "a639d88041": 2
  },
  "fail_log": [
-  "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı",
-  "2026-11-17T17:30 İngiltere'de bir okul, GTA 6'nın çıkış gününde derslere katı -> ValueError: yanıt okunamadı",
-  "2026-11-17T17:42 Transatlantik: Ukrayna-Rusya savaşı bitmiyor | Doğu Akdeniz’ -> ValueError: yanıt okunamadı",
   "2026-11-17T17:42 Transatlantik: Ukrayna-Rusya savaşı bitmiyor | Doğu Akdeniz’ -> ValueError: yanıt okunamadı",
   "2026-11-17T17:42 Transatlantik: Ukrayna-Rusya savaşı bitmiyor | Doğu Akdeniz’ -> ValueError: yanıt okunamadı",
   "2026-11-17T17:55 Eski UFC şampiyonu Ilia Topuria'nın eski eşi Giorgina Uzcate -> ValueError: yanıt okunamadı",
@@ -12914,7 +12999,10 @@
   "2026-11-17T22:41 Kışa girerken Avrupa diken üstünde: Doğalgaz devine siber sa -> ValueError: yanıt okunamadı",
   "2026-11-17T22:54 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
   "2026-11-17T22:54 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
-  "2026-11-17T22:54 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı"
+  "2026-11-17T22:54 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:07 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:07 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:07 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
