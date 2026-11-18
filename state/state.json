@@ -2,97 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "açıkl",
-    "dan",
-    "den",
-    "fon",
-    "iddia",
-    "karaa",
-    "nin",
-    "parti",
-    "yanıt",
-    "çiğde",
-    "özlal",
-    "ümit"
-   ],
-   "tok": [
-    "ailes",
-    "akp",
-    "ardın",
-    "açık",
-    "basın",
-    "bazı",
-    "bağla",
-    "başvu",
-    "bekli",
-    "borsa",
-    "bulun",
-    "cevap",
-    "dair",
-    "dan",
-    "den",
-    "dolan",
-    "duyur",
-    "düzen",
-    "emre",
-    "enind",
-    "eylül",
-    "eşi",
-    "faili",
-    "fon",
-    "hesap",
-    "hiçbi",
-    "holdi",
-    "hukuk",
-    "iddia",
-    "ilgil",
-    "itiba",
-    "izmir",
-    "işlem",
-    "kalma",
-    "kapsa",
-    "karaa",
-    "karde",
-    "krizi",
-    "kurul",
-    "mesel",
-    "meçhu",
-    "mille",
-    "nin",
-    "nitel",
-    "ortak",
-    "parti",
-    "safha",
-    "samsu",
-    "sonun",
-    "sorac",
-    "soruy",
-    "suika",
-    "sözcü",
-    "tbmm",
-    "tera",
-    "tezme",
-    "topla",
-    "verec",
-    "vurgu",
-    "yalan",
-    "yanıt",
-    "yatır",
-    "yolla",
-    "yönet",
-    "çelik",
-    "çiğde",
-    "ömer",
-    "önünd",
-    "özlal",
-    "ümit",
-    "şirke"
-   ],
-   "at": "2026-11-16T16:04:10.137722+00:00"
-  },
-  {
-   "fp": [
     "başba",
     "benya",
     "darbe",
@@ -10629,6 +10538,33 @@
     "vergi"
    ],
    "at": "2026-11-18T04:01:15.491359+00:00"
+  },
+  {
+   "fp": [
+    "aile",
+    "hakim",
+    "mahke"
+   ],
+   "tok": [
+    "aile",
+    "hakim",
+    "hatay",
+    "küçük"
+   ],
+   "at": "2026-11-18T04:04:55.049229+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "aile",
+    "mahke",
+    "çorlu"
+   ],
+   "tok": [
+    "aile",
+    "çorlu"
+   ],
+   "at": "2026-11-18T04:05:01.339750+00:00"
   }
  ],
  "posted": [
@@ -13404,19 +13340,9 @@
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
   "5f55ba1e2b": 1,
-  "21722613ea": 2,
-  "372353580f": 2
+  "f7a5e42110": 1
  },
  "fail_log": [
-  "2026-11-18T00:42 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:54 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:54 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:54 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:54 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:54 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:54 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T02:20 İşçiler ve emekliler Kartal'da buluşuyor: 'Sadakaya razı olm -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
@@ -13447,7 +13373,16 @@
   "2026-11-18T04:01 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
   "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
-  "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı"
+  "2026-11-18T04:01 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 T.C. KÜÇÜKÇEKMECE 7. AİLE MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-18T04:05 KAHRAMANMARAŞ 11. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
