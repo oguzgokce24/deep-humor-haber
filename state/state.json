@@ -2,83 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aslan",
-    "basın",
-    "başka",
-    "büyük",
-    "emep",
-    "gazet",
-    "genel",
-    "ifade",
-    "korku",
-    "opera",
-    "seyit",
-    "tutuk"
-   ],
-   "tok": [
-    "arama",
-    "artık",
-    "artır",
-    "aslan",
-    "atadı",
-    "atana",
-    "atand",
-    "atanm",
-    "aşaca",
-    "baskı",
-    "basın",
-    "binas",
-    "birli",
-    "böyle",
-    "büyük",
-    "com",
-    "dair",
-    "doğru",
-    "duyur",
-    "emep",
-    "gazet",
-    "genel",
-    "grubu",
-    "göste",
-    "halk",
-    "hatır",
-    "hep",
-    "ifade",
-    "iktid",
-    "istiy",
-    "kalma",
-    "kanal",
-    "karan",
-    "kayyı",
-    "kollu",
-    "korku",
-    "kuvve",
-    "medya",
-    "muhal",
-    "olmay",
-    "olmuş",
-    "saatl",
-    "sabah",
-    "sayıs",
-    "seyit",
-    "susku",
-    "sözcü",
-    "sürük",
-    "tele1",
-    "tepki",
-    "tesli",
-    "tmsf",
-    "toplu",
-    "yarat",
-    "yönel",
-    "yükse",
-    "ülke",
-    "üçe"
-   ],
-   "at": "2026-11-17T08:39:37.619943+00:00"
-  },
-  {
-   "fp": [
     "100",
     "aday",
     "beyon",
@@ -10558,21 +10481,84 @@
     "şirke"
    ],
    "at": "2026-11-18T20:27:34.029502+00:00"
+  },
+  {
+   "fp": [
+    "den",
+    "emep",
+    "kayse",
+    "kayyı",
+    "olmay",
+    "parti",
+    "sol",
+    "sözcü",
+    "tepki",
+    "tesli",
+    "yasak"
+   ],
+   "tok": [
+    "adım",
+    "ardın",
+    "asla",
+    "atand",
+    "atanm",
+    "atmay",
+    "barış",
+    "baskı",
+    "basın",
+    "bulan",
+    "cezal",
+    "den",
+    "eleşt",
+    "emep",
+    "engel",
+    "erişi",
+    "fon",
+    "gazet",
+    "geri",
+    "göre",
+    "göste",
+    "halk",
+    "hatır",
+    "iddia",
+    "isten",
+    "kanal",
+    "karşı",
+    "kayse",
+    "kayyu",
+    "kayyı",
+    "keyfi",
+    "liray",
+    "milya",
+    "muhal",
+    "olmay",
+    "ortak",
+    "parti",
+    "prote",
+    "sansü",
+    "sol",
+    "sözcü",
+    "sürül",
+    "tele1",
+    "tepki",
+    "tesli",
+    "timur",
+    "uygul",
+    "veril",
+    "vurgu",
+    "yaptı",
+    "yasak",
+    "yönel",
+    "yönet",
+    "öne",
+    "örgüt",
+    "örtül",
+    "üzeri"
+   ],
+   "at": "2026-11-18T20:40:29.175837+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6d7db9d26d",
-   "post_id": "529346797199852_1470732401833134",
-   "title": "Candan Yüceer'in yeni partisi belli oldu: Perşembe rozet takacak",
-   "at": "2026-11-16T18:53:10.434448+00:00",
-   "yazim": "claude",
-   "metin": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer'in 19 Kasım Perşembe günü AK Parti'ye katılacağı öne sürüldü.\n\n— Gazeteci Sinan Burhan, katılımın saat 14.00'te AK Parti Genel Merkezi'ndeki il başkanları toplantısında olacağını ve rozetin Erdoğan tarafından takılacağını paylaştı.\n\n— Yüceer, 7 Kasım'da Yeni Parti'den istifa ederek bağımsız kalmıştı. Kongre tartışmalarını ve kurultay delegeliğinde yaşananları gerekçe göstermişti.\n\n— İstifasında \"Benim mücadelem hiçbir zaman kişisel ikbal mücadelesi olmadı\" demişti.\n\n— Parti yönetiminden katılımla ilgili henüz resmi bir açıklama yapılmadı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/candan-yuceer-akp-ye-mi-geciyor-p382008",
-    "Karar: https://www.karar.com/guncel-haberler/candan-yuceerin-yeni-partisi-belli-oldu-persembe-rozet-takacak-2084473"
-   ]
-  },
   {
    "id": "22a426da01",
    "post_id": "529346797199852_1470741041832270",
@@ -13172,6 +13158,17 @@
    "sources": [
     "Karar: https://www.karar.com/teknoloji-haberleri/casusluk-sorusturmasi-temsilciler-meclisinden-nvidiaya-iki-hafta-2084961"
    ]
+  },
+  {
+   "id": "17a50a3c4c",
+   "post_id": "529346797199852_1472825168290524",
+   "title": "EMEP ve Sol Parti Kayseri'den Sözcü TV kayyımına tepki: Yasaklara teslim olmayacağız",
+   "at": "2026-11-18T20:40:29.175837+00:00",
+   "yazim": "claude",
+   "metin": "EMEP Kayseri İl Yöneticisi Barış Timur, Sözcü TV'ye kayyım atanmasına tepki gösterdi:\n\n“Bu keyfiliklere, yasaklara ve kayyımlara asla teslim olmayacağız, geri adım atmayacağız.”\n\nEMEP ve Sol Parti Kayseri il örgütleri, Sözcü TV'ye kayyım atanmasının ardından ortak basın açıklaması yaptı. Açıklamada muhalif kanallara yönelik kayyım uygulamaları, erişim engelleri ve gazetelere verilen cezalar eleştirildi.\n\n— Timur, daha önce Tele1 ve Halk TV'ye de kayyım atandığını hatırlattı.\n— Açıklamada, iddialara göre 700 milyar lirayı bulan fon vurgunu iddialarının üzerinin örtülmek istendiği öne sürüldü.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010156/emep-ve-sol-parti-kayseri-den-sozcu-tv-kayyimina-tepki-yasaklara-teslim-olmayacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13394,13 +13391,10 @@
   "c780325b56": 1,
   "bec6ec85b8": 1,
   "8ed6d1d16d": 1,
-  "62e7bad878": 1
+  "62e7bad878": 1,
+  "7d8810b8be": 1
  },
  "fail_log": [
-  "2026-11-18T10:56 Kış aylarında artan yorgunluk ve isteksizliğe dikkat: \"İki h -> ValueError: yanıt okunamadı",
-  "2026-11-18T10:56 Kış aylarında artan yorgunluk ve isteksizliğe dikkat: \"İki h -> ValueError: yanıt okunamadı",
-  "2026-11-18T10:56 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
-  "2026-11-18T10:56 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
   "2026-11-18T10:56 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
   "2026-11-18T10:56 Sözcü TV'ye kayyum kararı dünya basınında: ''Seçimler öncesi -> ValueError: cümle yarım kalmış: '— Halk TV'ye de bir ay önce kay'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T11:20 Kış aylarında artan yorgunluk ve isteksizliğe dikkat: \"İki h -> ValueError: yanıt okunamadı",
@@ -13436,12 +13430,16 @@
   "2026-11-18T18:37 ABD Ulusal İstihbarat Direktörü: Son dönemdeki kesintiler \"k -> ValueError: yanıt okunamadı",
   "2026-11-18T18:50 COP31'de astım oturumu: 'İklim değişikliği aynı zamanda sağl -> ValueError: yanıt okunamadı",
   "2026-11-18T18:50 COP31'de astım oturumu: 'İklim değişikliği aynı zamanda sağl -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-18T19:36 İmamoğlu: Eğer zalim ısrarla zulme devam ediyorsa bil ki son -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-18T19:36 İmamoğlu: Eğer zalim ısrarla zulme devam ediyorsa bil ki son -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-18T20:40 Rockstar Games, GTA 6’da oyuncuların seks işçisi kiralayamay -> ValueError: yanıt okunamadı",
+  "2026-11-18T20:40 Rockstar Games, GTA 6’da oyuncuların seks işçisi kiralayamay -> ValueError: yanıt okunamadı",
+  "2026-11-18T20:40 Rockstar Games, GTA 6’da oyuncuların seks işçisi kiralayamay -> ValueError: yanıt okunamadı",
+  "2026-11-18T20:40 EMEP ve Sol Parti Kayseri'den Sözcü TV kayyımına tepki: Yasa -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123150203960115210",
+   "since_id": "2123153882704416900",
    "started": true
   },
   "ajansmuhbir1923": {
