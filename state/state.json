@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "gazia",
-    "ortas",
-    "saldı",
-    "silah",
-    "sokak",
-    "yaral",
-    "ölü"
-   ],
-   "tok": [
-    "ardın",
-    "ağır",
-    "başla",
-    "bildi",
-    "bronx",
-    "devle",
-    "diğer",
-    "düzen",
-    "ettiğ",
-    "gazia",
-    "görev",
-    "güven",
-    "hasta",
-    "ilçes",
-    "intih",
-    "ise",
-    "kaldı",
-    "karşı",
-    "kaçtı",
-    "kompl",
-    "konut",
-    "mahal",
-    "müdah",
-    "nde",
-    "new",
-    "olay",
-    "olayı",
-    "ortas",
-    "rağme",
-    "silah",
-    "sokak",
-    "sonra",
-    "sürdü",
-    "tedav",
-    "vurul",
-    "yaşan",
-    "york",
-    "çalış",
-    "öğren",
-    "şehit"
-   ],
-   "at": "2026-11-16T22:06:42.109526+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "ardın",
     "banka",
@@ -10578,20 +10523,68 @@
     "şube"
    ],
    "at": "2026-11-18T10:04:26.758762+00:00"
+  },
+  {
+   "fp": [
+    "başın",
+    "cumhu",
+    "düzen",
+    "emekl",
+    "erdoğ",
+    "geçir",
+    "hayat",
+    "iyile",
+    "maaşl",
+    "sene",
+    "tarih",
+    "verdi"
+   ],
+   "tok": [
+    "adale",
+    "akp",
+    "alınd",
+    "aylığ",
+    "aşkın",
+    "başın",
+    "belir",
+    "bulun",
+    "dan",
+    "deste",
+    "düzen",
+    "ekled",
+    "emekl",
+    "erdoğ",
+    "esas",
+    "grup",
+    "göre",
+    "irade",
+    "iyile",
+    "kabin",
+    "kapsa",
+    "kondu",
+    "konud",
+    "maaşl",
+    "mecli",
+    "nda",
+    "olaca",
+    "ortay",
+    "parti",
+    "prim",
+    "sayıs",
+    "sene",
+    "tamam",
+    "tarih",
+    "topla",
+    "verdi",
+    "yapıl",
+    "yaş",
+    "yönel",
+    "öncek"
+   ],
+   "at": "2026-11-18T10:17:14.313445+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8c7b8758e9",
-   "post_id": "529346797199852_1470003101906064",
-   "title": "KYK'de ruh sağlığı: Az bilim, çok maneviyat",
-   "at": "2026-11-16T02:14:35.187881+00:00",
-   "yazim": "claude",
-   "metin": "KYK yurtlarında 928 manevi rehber çalışıyor, psikolog sayısı ise 445'te kaldı.\n\n— Tepkilerin ardından Gençlik ve Spor Bakanlığı, \"Manevi rehber sayısının korunacağını\" açıkladı.\n\n— Bakanlık, yurtlara 150 psikolog daha alınacağını bildirdi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/kyk-de-ruh-sagligi-az-bilim-cok-maneviyat-746606"
-   ]
-  },
   {
    "id": "71ecb1aeb5",
    "post_id": "529346797199852_1470020028571038",
@@ -13184,6 +13177,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/kasim-2026-emekli-promosyonlarinda-guncel-rakamlar-belli-oldu-bankalarin-yeni-odeme-tablosu-2557167",
     "Evrensel: https://www.evrensel.net/haber/6010043/emekli-promosyonlari-degisti-hangi-banka-ne-kadar-oduyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "2a8809ce55",
+   "post_id": "529346797199852_1472355738337467",
+   "title": "Son dakika... Erdoğan emekli aylığı düzenlemesi için tarih verdi",
+   "at": "2026-11-18T10:17:14.313445+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı Erdoğan, emekli iyileştirmesi için tarih verdi:\n\n“Emekliye iyileştirmeyi sene başından önce hayata geçireceğiz.”\n\n— İyileştirme 17 milyonu aşkın emeklinin tamamını kapsayacak.\n— Erdoğan, düzenlemenin Meclis'in desteğiyle yapılacağını söyledi.\n— Erdoğan, bir önceki Kabine Toplantısı'nda bu konuda irade ortaya konduğunu belirtti. Yaş ve prim sayısına göre adaletin esas alındığını ekledi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-emeklilerin-maaslarinda-iyilestirme-erdogan-duzenlemeyi-sene-basindan-once-hayata-gecirecegiz-7702899",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/son-dakika-cumhurbaskani-erdogan-emekliye-iyilestirme-sene-basindan-once-hayata-gecirecegiz-3494685",
+    "NTV: https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-gazzede-katliam-devam-ediyor-1751435",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdogan-emekli-ayligi-duzenlemesi-icin-tarih-verdi-2557196",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-emeklilere-yonelik-duzenleme-aciklamasi-tarih-verdi-4873891",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-emeklilerin-maaslarinda-iyilestirme-erdogan-duzenlemeyi-sene-basindan-once-hayata-gecirecegiz-7702899"
+   ]
   }
  ],
  "fails": {
@@ -13399,7 +13408,8 @@
   "0650087b03": 1,
   "fb4315c9f0": 1,
   "1dafd0d39d": 2,
-  "6dcaa1c8a0": 1
+  "6dcaa1c8a0": 1,
+  "f9b62dcb35": 1
  },
  "fail_log": [
   "2026-11-18T04:05 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
@@ -13446,7 +13456,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122992217946276307",
+   "since_id": "2122996951788474769",
    "started": true
   },
   "ajansmuhbir1923": {
