@@ -10645,20 +10645,38 @@
     "çıkış"
    ],
    "at": "2026-11-18T21:42:55.846904+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "adıya",
+    "opera",
+    "tefec",
+    "tutuk"
+   ],
+   "tok": [
+    "adli",
+    "adliy",
+    "adres",
+    "adıya",
+    "alına",
+    "ardın",
+    "cezae",
+    "düzen",
+    "edild",
+    "ekipl",
+    "farkl",
+    "gönde",
+    "işlem",
+    "komut",
+    "makam",
+    "sevk",
+    "tefec"
+   ],
+   "at": "2026-11-18T21:55:35.740175+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "03d0272e6c",
-   "post_id": "529346797199852_1470786521827722",
-   "title": "Nvidia'nın kurucusu Jensen Huang'ın, CEO'luktan istifa etmeden aylar önce milyarlarca dolarlık Nvidia hissesini mirasçılarına devrettiği ortaya çıktı.",
-   "at": "2026-11-16T20:13:48.676573+00:00",
-   "yazim": "claude",
-   "metin": "Nvidia'nın kurucusu Jensen Huang, milyarlarca dolarlık Nvidia hissesini CEO görevinden ayrılmadan aylar önce mirasçılarına devretmiş.\n\nHisse devri, Huang'ın şirketteki CEO görevini bırakmasından aylar önce yapıldı.",
-   "sources": [
-    "BPT (X): https://x.com/bpthaber/status/2122419917328707730"
-   ]
-  },
   {
    "id": "785428c5b2",
    "post_id": "529346797199852_1470797708493270",
@@ -13261,6 +13279,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/bilim-teknoloji/grand-theft-auto-vi-icin-gelen-ilk-inceleme-puanlari-nasil-2557367",
     "Karar: https://www.karar.com/hayat-haberleri/playstation-networkte-grand-theft-auto-vi-yogunlugu-ps5e-guncelleme-2084970"
    ]
+  },
+  {
+   "id": "3275484d8a",
+   "post_id": "529346797199852_1472874781618896",
+   "title": "Adıyaman’da tefeci operasyonu: 3 tutuklama",
+   "at": "2026-11-18T21:55:35.740175+00:00",
+   "yazim": "claude",
+   "metin": "Adıyaman'da tefecilik operasyonunda 3 kişi tutuklandı.\n\n— Adıyaman İl Jandarma Komutanlığı ekipleri, 3 farklı adrese operasyon düzenledi.\n— Operasyonda gözaltına alınan 3 şüpheli, jandarmadaki işlemlerin ardından adliyeye sevk edildi.\n— Adli makam şüphelileri tutuklayarak cezaevine gönderdi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/adiyaman-da-tefeci-operasyonu-3-tutuklama-2557403",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/adiyamanda-tefeci-operasyonu-uc-kisi-tutuklandi-4874117"
+   ]
   }
  ],
  "fails": {
@@ -13485,7 +13515,8 @@
   "8ed6d1d16d": 1,
   "62e7bad878": 1,
   "7d8810b8be": 1,
-  "fdcb3377e2": 1
+  "fdcb3377e2": 1,
+  "b85ca1a229": 1
  },
  "fail_log": [
   "2026-11-18T11:20 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
@@ -13532,7 +13563,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123165772402872734",
+   "since_id": "2123171007641125004",
    "started": true
   },
   "ajansmuhbir1923": {
