@@ -10300,24 +10300,65 @@
     "çocuk"
    ],
    "at": "2026-11-18T02:07:20.188182+00:00"
+  },
+  {
+   "fp": [
+    "buluş",
+    "emekl",
+    "işçil",
+    "karta",
+    "olmay",
+    "razı",
+    "sadak"
+   ],
+   "tok": [
+    "araya",
+    "aylığ",
+    "buluş",
+    "emek",
+    "emekl",
+    "gelec",
+    "geçim",
+    "hak",
+    "haram",
+    "hazır",
+    "hepim",
+    "hız",
+    "insan",
+    "ise",
+    "işçil",
+    "karta",
+    "karşı",
+    "kasım",
+    "kayıp",
+    "kazan",
+    "meyda",
+    "mitin",
+    "mücad",
+    "nda",
+    "olmay",
+    "ortak",
+    "parti",
+    "razı",
+    "sadak",
+    "salta",
+    "sendi",
+    "sol",
+    "sıkın",
+    "taleb",
+    "topla",
+    "yaşam",
+    "yetec",
+    "çağrı",
+    "çıkar",
+    "öne",
+    "örgüt",
+    "ücret"
+   ],
+   "at": "2026-11-18T02:20:21.211521+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "42c2d07379",
-   "post_id": "529346797199852_1469744051931969",
-   "title": "Bursa’da korkutan yangın: Alevler 5 evi sardı, 10 kişi dumandan etkilendi",
-   "at": "2026-11-15T18:46:24.614215+00:00",
-   "yazim": "claude",
-   "metin": "Bursa'nın İnegöl ilçesinde bir evde çıkan yangın 4 eve daha sıçradı, toplam 5 ev alevlere teslim oldu.\n\nYangın akşam saat 19.30 sıralarında İnegöl'ün kırsal Turgutalp Mahallesi'nde başladı. Çıkış nedeni henüz belli değil.\n\n— Dumandan etkilenen 10 kişi için ambulanslar olay yerine gönderildi ve sağlık ekipleri müdahale etti.\n— Yangın büyüyünce İnegöl'ün yanı sıra çevre ilçelerden çok sayıda itfaiye ekibi sevk edildi.\n— İtfaiye ekipleri yangını söndürmek ve alevlerin başka evlere geçmesini önlemek için çalışmaya devam ediyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/facianin-esiginden-donuldu-inegolde-yan-yana-5-ev-alevlere-teslim-oldu-7701397",
-    "NTV: https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
-    "Sözcü: https://www.sozcu.com.tr/bursa-da-korkutan-yangin-alevler-5-evi-sardi-10-kisi-dumandan-etkilendi-p381646",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/yangin-4-eve-daha-sicradi-10-kisi-dumandan-etkilendi-2556411",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/facianin-esiginden-donuldu-inegolde-yan-yana-5-ev-alevlere-teslim-oldu-7701397"
-   ]
-  },
   {
    "id": "d10aa29c5e",
    "post_id": "529346797199852_1469753018597739",
@@ -12875,6 +12916,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/yoksullukla-mucadele-harcamasinda-rekor-10-ayda-470-milyar-lira-747014"
    ]
+  },
+  {
+   "id": "d2e77d09dc",
+   "post_id": "529346797199852_1472044665035241",
+   "title": "İşçiler ve emekliler Kartal'da buluşuyor: 'Sadakaya razı olmayacağız'",
+   "at": "2026-11-18T02:20:21.211521+00:00",
+   "yazim": "claude",
+   "metin": "İşçiler, emekliler ve emek örgütleri 29 Kasım'da İstanbul Kartal Meydanı'nda bir araya gelecek.\n\n— Geçim sıkıntısına ve hak kayıplarına karşı toplanıyorlar.\n— Sendikalar, insanca yaşamaya yetecek ücret ve emekli aylığı talebini öne çıkarıyor.\n\nSOL Parti, ortak mücadele çağrısı için:\n\n“Haramilerin saltanatına karşı hepimiziz.”",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/isciler-ve-emekliler-kartal-da-bulusuyor-sadakaya-razi-olmayacagiz-747011"
+   ]
   }
  ],
  "fails": {
@@ -13084,13 +13136,10 @@
   "785e4e3c5e": 1,
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
-  "5f55ba1e2b": 1
+  "5f55ba1e2b": 1,
+  "98ed452de2": 1
  },
  "fail_log": [
-  "2026-11-17T19:32 Sabri Ciğerli yazdı: Selahattin Demirtaş Kürtlerin Mandela’s -> ValueError: yanıt okunamadı",
-  "2026-11-17T19:45 Özgür Özel'den Zeydan Karalar açıklaması: \"Biz vefanın bir s -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-17T20:08 OpenAI, GPT 6.2 Astra ve Sol modellerini duyurdu. -> ValueError: yanıt okunamadı",
-  "2026-11-17T20:08 OpenAI, GPT 6.2 Astra ve Sol modellerini duyurdu. -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 OpenAI, GPT 6.2 Astra ve Sol modellerini duyurdu. -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
@@ -13126,7 +13175,11 @@
   "2026-11-18T00:54 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
   "2026-11-18T00:54 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
   "2026-11-18T00:54 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:54 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı"
+  "2026-11-18T00:54 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
+  "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-18T02:20 İşçiler ve emekliler Kartal'da buluşuyor: 'Sadakaya razı olm -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
