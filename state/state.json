@@ -2,78 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akom",
-    "dan",
-    "fırtı",
-    "istan",
-    "uyarı"
-   ],
-   "tok": [
-    "afet",
-    "akom",
-    "akşam",
-    "aralı",
-    "bağlı",
-    "başla",
-    "bekle",
-    "beled",
-    "bulun",
-    "büyük",
-    "cuma",
-    "daire",
-    "dan",
-    "derec",
-    "edece",
-    "etkil",
-    "eşlik",
-    "fırtı",
-    "gelen",
-    "gök",
-    "güney",
-    "gürül",
-    "hafta",
-    "hamle",
-    "hava",
-    "hızı",
-    "ibb",
-    "ise",
-    "işler",
-    "karşı",
-    "kentt",
-    "kilom",
-    "koşul",
-    "kuvve",
-    "kısa",
-    "lodos",
-    "megak",
-    "olaca",
-    "olmas",
-    "olums",
-    "risk",
-    "rüzga",
-    "saat",
-    "saatl",
-    "saatt",
-    "sağan",
-    "sonu",
-    "sürel",
-    "sıcak",
-    "tarih",
-    "uyarı",
-    "veril",
-    "yarın",
-    "yağış",
-    "yönet",
-    "çarşa",
-    "çıkab",
-    "çıkar",
-    "öğle",
-    "ılık"
-   ],
-   "at": "2026-11-17T06:29:08.337076+00:00"
-  },
-  {
-   "fp": [
     "abdul",
     "bozdu",
     "büyük",
@@ -10440,21 +10368,62 @@
     "özgür"
    ],
    "at": "2026-11-18T18:25:03.241409+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "deste",
+    "devle",
+    "değil",
+    "dnı",
+    "dönem",
+    "hizme",
+    "kesin",
+    "koord",
+    "saldı"
+   ],
+   "tok": [
+    "abd",
+    "arası",
+    "beled",
+    "belir",
+    "bulun",
+    "büyük",
+    "clayt",
+    "danış",
+    "deniz",
+    "deste",
+    "devle",
+    "değil",
+    "direk",
+    "dnı",
+    "dönem",
+    "eski",
+    "günle",
+    "hizme",
+    "incel",
+    "istih",
+    "jay",
+    "kesin",
+    "koord",
+    "olmad",
+    "osman",
+    "parça",
+    "peş",
+    "peşe",
+    "sürüy",
+    "tekno",
+    "ulusa",
+    "yaşan",
+    "yönel",
+    "yürüt",
+    "zolan",
+    "şirke"
+   ],
+   "at": "2026-11-18T18:37:53.499836+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "02960e975c",
-   "post_id": "529346797199852_1470615535178154",
-   "title": "Çelik'ten 'İkinci Haluk Levent' benzetmelerine tepki: 'Ben emek veriyorum, benim kazandığım para var'",
-   "at": "2026-11-16T16:17:07.204475+00:00",
-   "yazim": "claude",
-   "metin": "Şarkıcı Çelik, kendisini Haluk Levent'e benzeten yorumlara tepki gösterdi:\n\n“Ya şimdi toplum Haluk Levent'e öfkeli, acısını benden çıkartıyor. Bu sıkıntılı bir şey.”\n\n— Çelik, konser verdiği şehirlerde ihtiyaç sahiplerinin bakkal ve eczane borçlarını ödediği için \"İkinci Haluk Levent\" diye anılıyor.\n— Yardımların kendi kazancıyla yapıldığını söyleyen Çelik, kimseden para toplamadığını belirtti.\n— Haluk Levent hakkındaki yargı sürecine karışmak istemediğini, ama onun üzerinden kendisine vurulmasının haksızlık olduğunu ifade etti.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/yasam/celik-ten-ikinci-haluk-levent-benzetmelerine-tepki-ben-emek-veriyorum-benim-kazandigim-para-var-2556661",
-    "Karar: https://www.karar.com/hayat-haberleri/sarkici-celikten-ikinci-haluk-levent-yorumlarina-sert-tepki-onun-2084463"
-   ]
-  },
   {
    "id": "e30614d482",
    "post_id": "529346797199852_1470624995177208",
@@ -13067,6 +13036,19 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/yeni-parti-istanbul-il-baskani-celik-ten-kurultay-davasi-kararina-tepki-mahkemelerce-aklanabilmek-icin-akp-ye-transfer-olmak-mi-gerek-747181"
    ]
+  },
+  {
+   "id": "638196bde7",
+   "post_id": "529346797199852_1472749188298122",
+   "title": "ABD Ulusal İstihbarat Direktörü: Son dönemdeki kesintiler \"koordineli\" veya \"devlet destekli\" saldırılar değil",
+   "at": "2026-11-18T18:37:53.499836+00:00",
+   "yazim": "claude",
+   "metin": "Denizli Büyükşehir Belediyesi'ne yönelik soruşturmada 4 kişi tutuklandı.\n\n— Tutuklananlar arasında eski Belediye Başkanı Osman Zolan'ın danışmanı da bulunuyor.\n\n— Soruşturma, belediyeye yönelik yürütülen incelemelerin bir parçası olarak sürüyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abd-dni-son-donemdeki-hizmet-kesintileri-koordineli-veya-devlet-destekli-saldirilar-degil/4129688",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/abd-dni-son-donemdeki-hizmet-kesintileri-koordineli-veya-devlet-destekli-saldirilar-degil-963725.html",
+    "Evrensel: https://www.evrensel.net/haber/6010145/abd-ulusal-istihbarat-direktoru-son-donemdeki-kesintiler-koordineli-veya-devlet-destekli-saldirilar-degil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13294,7 +13276,6 @@
  "fail_log": [
   "2026-11-18T10:43 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
   "2026-11-18T10:43 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
-  "2026-11-18T10:43 Bebek’teki dairesi gündem olmuştu: Pınar Altuğ rekor fiyata  -> ValueError: yanıt okunamadı",
   "2026-11-18T10:56 Kış aylarında artan yorgunluk ve isteksizliğe dikkat: \"İki h -> ValueError: yanıt okunamadı",
   "2026-11-18T10:56 Kış aylarında artan yorgunluk ve isteksizliğe dikkat: \"İki h -> ValueError: yanıt okunamadı",
   "2026-11-18T10:56 Kış aylarında artan yorgunluk ve isteksizliğe dikkat: \"İki h -> ValueError: yanıt okunamadı",
@@ -13331,12 +13312,13 @@
   "2026-11-18T17:58 GTA 6'da köpekler jetski kullanabiliyor: -> ValueError: yanıt okunamadı",
   "2026-11-18T17:58 Mars'ta patates cipsi benzeri şekiller keşfedildi. -> ValueError: yanıt okunamadı",
   "2026-11-18T17:58 Mars'ta patates cipsi benzeri şekiller keşfedildi. -> ValueError: yanıt okunamadı",
-  "2026-11-18T17:58 Mars'ta patates cipsi benzeri şekiller keşfedildi. -> ValueError: yanıt okunamadı"
+  "2026-11-18T17:58 Mars'ta patates cipsi benzeri şekiller keşfedildi. -> ValueError: yanıt okunamadı",
+  "2026-11-18T18:37 ABD Ulusal İstihbarat Direktörü: Son dönemdeki kesintiler \"k -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123119308708483086",
+   "since_id": "2123121403545186374",
    "started": true
   },
   "ajansmuhbir1923": {
