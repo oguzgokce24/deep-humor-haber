@@ -10707,21 +10707,62 @@
     "şubes"
    ],
    "at": "2026-11-18T03:22:34.846615+00:00"
+  },
+  {
+   "fp": [
+    "hukuk",
+    "mahke",
+    "memur",
+    "satış",
+    "sulh"
+   ],
+   "tok": [
+    "ada",
+    "alanı",
+    "alıyo",
+    "arsa",
+    "arsan",
+    "artır",
+    "ayrıl",
+    "bakır",
+    "başla",
+    "bina",
+    "büyük",
+    "gires",
+    "görün",
+    "hafta",
+    "hukuk",
+    "ikinc",
+    "ilçes",
+    "imar",
+    "kurfa",
+    "kısmı",
+    "lirad",
+    "mahal",
+    "mart",
+    "memur",
+    "metre",
+    "nde",
+    "parse",
+    "planı",
+    "satış",
+    "sulh",
+    "sürec",
+    "tamam",
+    "taşkı",
+    "tesis",
+    "turiz",
+    "yer",
+    "yok",
+    "çıkar",
+    "üzeri",
+    "şile",
+    "şubat"
+   ],
+   "at": "2026-11-18T03:35:21.047694+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "81c672e961",
-   "post_id": "529346797199852_1469792771927097",
-   "title": "Eskişehir'de izinsiz kazı yarken yakalanan tarihi eser hırsızı 6 şüpheli tutuklandı",
-   "at": "2026-11-15T20:01:21.892968+00:00",
-   "yazim": "claude",
-   "metin": "Eskişehir'de izinsiz kazı yaparken suçüstü yakalanan 7 şüpheliden 6'sı tutuklandı.\n\n— Şüpheliler, \"Kültür ve Tabiat Varlıklarını Koruma Kanunu'na muhalefet\" suçlamasıyla gözaltına alınmıştı.\n\n— Şüphelilerden biri adli kontrol şartıyla serbest bırakıldı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/eskisehirde-izinsiz-kazi-yapan-6-supheli-tutuklandi-963360.html",
-    "BirGün: https://www.birgun.net/haber/eskisehir-de-izinsiz-kazi-yarken-yakalanan-tarihi-eser-hirsizi-6-supheli-tutuklandi-746604"
-   ]
-  },
   {
    "id": "2574748d19",
    "post_id": "529346797199852_1469799868593054",
@@ -13271,6 +13312,19 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ilkadim-aniti-nda-genclik-heykelleri-yeniden-tartisma-konusu-heykellere-ikinci-surgun-2557086"
    ]
+  },
+  {
+   "id": "798ccbb3bd",
+   "post_id": "529346797199852_1472091288363912",
+   "title": "T.C. ŞİLE SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU",
+   "at": "2026-11-18T03:35:21.047694+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Şile ilçesinde 857 metrekarelik bir arsa, mahkeme kararıyla 6,5 milyon liradan satışa çıkarıldı.\n\n— Arsa Kurfallı Mahallesi'nde, 2112 ada 9 parselde yer alıyor ve üzerinde bina yok.\n\n— İmar planında arsanın tamamı taşkın alanında görünüyor. Büyük kısmı turizm tesis alanı olarak ayrılmış.\n\n— İlk artırma 17 Şubat 2027'de, ikinci artırma 17 Mart 2027'de başlayacak. Her artırma bir hafta sürecek.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/resmi-ilanlar/giresun-2-sulh-hukuk-mahkemesi-satis-memurlugu-3494492",
+    "CNN Türk: https://www.cnnturk.com/resmi-ilanlar/t-c-bakirkoy-4-sulh-hukuk-mahkemesinden-3494460",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-sile-sulh-hukuk-mahkemesi-satis-memurlugu-2557079"
+   ]
   }
  ],
  "fails": {
@@ -13480,13 +13534,10 @@
   "785e4e3c5e": 1,
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
-  "5f55ba1e2b": 1
+  "5f55ba1e2b": 1,
+  "05a9237a35": 1
  },
  "fail_log": [
-  "2026-11-17T22:41 Kışa girerken Avrupa diken üstünde: Doğalgaz devine siber sa -> ValueError: yanıt okunamadı",
-  "2026-11-17T22:41 Kışa girerken Avrupa diken üstünde: Doğalgaz devine siber sa -> ValueError: yanıt okunamadı",
-  "2026-11-17T22:54 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
-  "2026-11-17T22:54 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
   "2026-11-17T22:54 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
   "2026-11-18T00:07 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
   "2026-11-18T00:07 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
@@ -13522,7 +13573,11 @@
   "2026-11-18T02:46 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T02:46 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: yanıt okunamadı",
   "2026-11-18T02:46 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-18T02:46 Şahika Ercümen nefesini tuttu: 4 dakika 36 saniye -> ValueError: yanıt okunamadı"
+  "2026-11-18T02:46 Şahika Ercümen nefesini tuttu: 4 dakika 36 saniye -> ValueError: yanıt okunamadı",
+  "2026-11-18T03:35 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-18T03:35 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-18T03:35 SİNCAN VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-18T03:35 T.C. ŞİLE SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
