@@ -10414,21 +10414,88 @@
     "yıkıl"
    ],
    "at": "2026-11-18T02:33:11.956976+00:00"
+  },
+  {
+   "fp": [
+    "ayhan",
+    "beraa",
+    "istin",
+    "kaldı",
+    "karar",
+    "taleb",
+    "taşın",
+    "şengü"
+   ],
+   "tok": [
+    "ayhan",
+    "beraa",
+    "cezal",
+    "cinse",
+    "derne",
+    "hifa",
+    "ikra",
+    "isted",
+    "istin",
+    "istis",
+    "itira",
+    "kadın",
+    "kaldı",
+    "sanığ",
+    "suçun",
+    "taleb",
+    "taşın",
+    "veril",
+    "yargı",
+    "yönel",
+    "çocuk",
+    "şengü"
+   ],
+   "at": "2026-11-18T02:45:56.164630+00:00"
+  },
+  {
+   "fp": [
+    "36",
+    "4",
+    "ercüm",
+    "nefes",
+    "saniy",
+    "tuttu",
+    "şahik"
+   ],
+   "tok": [
+    "akvar",
+    "amaç",
+    "cop31",
+    "dalan",
+    "deniz",
+    "değiş",
+    "dikka",
+    "ekosi",
+    "ercüm",
+    "etkil",
+    "farkı",
+    "iklim",
+    "isted",
+    "kapsa",
+    "kirli",
+    "korun",
+    "metre",
+    "mücad",
+    "nefes",
+    "okyan",
+    "oluşt",
+    "perfo",
+    "saniy",
+    "tutar",
+    "tuttu",
+    "çekme",
+    "üzeri",
+    "şahik"
+   ],
+   "at": "2026-11-18T02:46:06.353712+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "36fcfdb424",
-   "post_id": "529346797199852_1469761425263565",
-   "title": "Gülistan Doku soruşturmasında 7’nci dalga: En az 39 gözaltı",
-   "at": "2026-11-15T19:11:52.900424+00:00",
-   "yazim": "claude",
-   "metin": "Erzurum'da 2020'de kaybolan Munzur Üniversitesi öğrencisinin soruşturmasında 7'nci dalga operasyonda en az 39 kişi gözaltına alındı.\n\n— Operasyon 29 Ekim'de başladı ve hâlâ sürüyor. Önceki altı dalgadan farklı bir biçimde yürütüldüğü belirtiliyor.\n— Ailenin avukatı Ali Çimen, şüphelerin giderilmesi için gerek görüldükçe gözaltı yapıldığını söyledi.\n— Çimen, operasyonun istatistiki sonuçlarını kamuoyuna ayrıca açıklayacaklarını bildirdi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009637/gulistan-doku-sorusturmasinda-7-nci-dalga-en-az-39-gozalti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/avukat-cimen-den-7-nci-dalga-operasyon-aciklamasi-en-az-39-kisiye-gozalti-islemi-746607"
-   ]
-  },
   {
    "id": "dc1f52a6cf",
    "post_id": "529346797199852_1469769795262728",
@@ -12982,6 +13049,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/kentsel-donusumun-yurttasa-faturasi-evleri-yikildi-sulari-kesildi-747008"
    ]
+  },
+  {
+   "id": "6ed53b774a",
+   "post_id": "529346797199852_1472060641700310",
+   "title": "Şahika Ercümen nefesini tuttu: 4 dakika 36 saniye",
+   "at": "2026-11-18T02:46:06.353712+00:00",
+   "yazim": "claude",
+   "metin": "Şahika Ercümen, 2 metrelik bir akvaryumda 4 dakika 36 saniye nefesini tuttu.\n\nErcümen, bu performansla iklim değişikliğinin denizler ve okyanuslar üzerindeki etkilerine dikkat çekmek istedi.\n\n— Amaç, deniz ekosistemlerinin korunması ve iklim değişikliğiyle mücadelede farkındalık oluşturmak.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/sahika-ercumen-nefesini-tuttu-4-dakika-36-saniye-p382301"
+   ]
   }
  ],
  "fails": {
@@ -13191,14 +13269,9 @@
   "785e4e3c5e": 1,
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
-  "5f55ba1e2b": 1,
-  "98ed452de2": 2
+  "5f55ba1e2b": 1
  },
  "fail_log": [
-  "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
-  "2026-11-17T20:08 Almanya'da güven anketi yayımlandı: Merz hükümetine kötü hab -> ValueError: yanıt okunamadı",
-  "2026-11-17T21:52 Gıdada yangın sönmüyor: Vatandaş sofrasına koyamadığı Erzuru -> ValueError: yanıt okunamadı",
-  "2026-11-17T22:17 MasterChef dokunulmazlık oyunu kim kazandı? 17 Kasım Salı Ma -> ValueError: yanıt okunamadı",
   "2026-11-17T22:41 Kışa girerken Avrupa diken üstünde: Doğalgaz devine siber sa -> ValueError: yanıt okunamadı",
   "2026-11-17T22:41 Kışa girerken Avrupa diken üstünde: Doğalgaz devine siber sa -> ValueError: yanıt okunamadı",
   "2026-11-17T22:54 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
@@ -13234,7 +13307,11 @@
   "2026-11-18T02:20 İşçiler ve emekliler Kartal'da buluşuyor: 'Sadakaya razı olm -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: yanıt okunamadı",
-  "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle"
+  "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-18T02:46 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-18T02:46 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: yanıt okunamadı",
+  "2026-11-18T02:46 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-18T02:46 Şahika Ercümen nefesini tuttu: 4 dakika 36 saniye -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
