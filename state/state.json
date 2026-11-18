@@ -10045,23 +10045,79 @@
     "ötesi"
    ],
    "at": "2026-11-18T00:38:36.376202+00:00"
+  },
+  {
+   "fp": [
+    "alarm",
+    "ani",
+    "geçir",
+    "kayıt",
+    "otomo",
+    "piyas",
+    "sektö",
+    "çakıl"
+   ],
+   "tok": [
+    "adede",
+    "alarm",
+    "ani",
+    "aya",
+    "aynı",
+    "ayına",
+    "ayınd",
+    "azala",
+    "azald",
+    "aştı",
+    "bazda",
+    "bin",
+    "buna",
+    "büyüm",
+    "devam",
+    "düşüş",
+    "ediyo",
+    "ekim",
+    "elekt",
+    "genel",
+    "geril",
+    "geçen",
+    "göre",
+    "hibri",
+    "indi",
+    "ise",
+    "istat",
+    "kaldı",
+    "kamyo",
+    "kaydı",
+    "kayıt",
+    "kurum",
+    "otomo",
+    "piyas",
+    "rağme",
+    "satış",
+    "sayıs",
+    "sektö",
+    "sert",
+    "seviy",
+    "sonun",
+    "taşıt",
+    "topla",
+    "trafi",
+    "ulaşt",
+    "veril",
+    "yakla",
+    "yarıs",
+    "yaşan",
+    "yolla",
+    "yüzde",
+    "yıllı",
+    "yılın",
+    "çakıl",
+    "öncek"
+   ],
+   "at": "2026-11-18T00:42:11.306860+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3111d0f343",
-   "post_id": "529346797199852_1469693281937046",
-   "title": "Elon Musk ve teknoloji liderleri Huang'ın göreve iadesi için imza topladı",
-   "at": "2026-11-15T17:34:54.179652+00:00",
-   "yazim": "claude",
-   "metin": "Elon Musk ve birçok teknoloji yöneticisi, Nvidia'nın kurucu ortağı Jensen Huang'ın CEO görevine iadesi için imza verdi.\n\nHuang, soruşturma sürerken 12 Kasım'da istifa etmişti. Kampanyaya bugün itibarıyla 130 binden fazla imza toplandı.\n\n— Nvidia yönetim kuruluna yazılan açık mektupta, Huang'ın yeterli hukuki süreç işletilmeden görevden uzaklaştırılmış olabileceği belirtildi.\n— Mektupta bağımsız bir soruşturma ve Huang'a savunma hakkı tanıyan adil bir yargılama isteniyor.\n— Musk, X hesabından kampanyaya katıldığını yazdı.\n— Arka planda, New York Times'ın Huang'a yakın bir Çinli iş insanının Nvidia çiplerini Çin'e yönlendirmiş olabileceği yönündeki iddiası ve Huang'ın evlilik dışı ilişkileri var.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/elon-musk-ve-teknoloji-liderleri-jensen-huang-in-gorevine-iade-edilmesi-icin-imza-topladi/4125929",
-    "CNN Türk: https://www.cnnturk.com/dunya/teknoloji-dunyasinda-jensen-huang-krizi-elon-musktan-imza-kampanyasi-3493627",
-    "Habertürk: https://www.haberturk.com/dunya/elon-musk-tan-jensen-huang-a-destek-3927533",
-    "Diken: https://www.diken.com.tr/elon-musk-ve-teknoloji-liderleri-huangin-goreve-iadesi-icin-imza-topladi/?utm_source=rss&utm_medium=rss&utm_campaign=elon-musk-ve-teknoloji-liderleri-huangin-goreve-iadesi-icin-imza-topladi"
-   ]
-  },
   {
    "id": "bd2887f6d0",
    "post_id": "529346797199852_1469701208602920",
@@ -12622,6 +12678,17 @@
    "sources": [
     "BBC Türkçe: https://www.bbc.com/turkce/articles/cw23jv30jejlo?at_medium=RSS&at_campaign=rss"
    ]
+  },
+  {
+   "id": "846ff660c8",
+   "post_id": "529346797199852_1471982408374800",
+   "title": "Otomotiv piyasasında şok: Yeni araç kayıtlarındaki ani çakılma sektörü alarma geçirdi",
+   "at": "2026-11-18T00:42:11.306860+00:00",
+   "yazim": "claude",
+   "metin": "Ekim ayında trafiğe kaydı yapılan yeni araç sayısı geçen yılın aynı ayına göre yüzde 26,8 azalarak 130 bin 697 adede indi.\n\n— Yılın ilk 10 ayında trafiğe kaydı yapılan toplam taşıt sayısı 1,6 milyon seviyesinde kaldı.\n— Yeni araç kayıtları bir önceki aya göre de yüzde 18,8 geriledi.\n— Yıllık bazda en sert düşüş yüzde 33,2 ile kamyonetlerde yaşandı, otomobil kayıtları ise yüzde 29,1 azaldı.\n\nBuna rağmen Türkiye yollarındaki toplam taşıt sayısı büyümeye devam ediyor. Ekim sonunda trafikteki araç sayısı 35 milyon 189 bin 866 adede ulaştı.",
+   "sources": [
+    "Karar: https://www.karar.com/ekonomi-haberleri/en-cok-hangi-otomobil-markasi-satildi-turkiyede-trafige-kayitli-arac-2084729"
+   ]
   }
  ],
  "fails": {
@@ -12832,16 +12899,10 @@
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
   "5f55ba1e2b": 1,
-  "b36ab28038": 1,
-  "ec01188012": 1
+  "b36ab28038": 2,
+  "ec01188012": 2
  },
  "fail_log": [
-  "2026-11-17T18:45 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
-  "2026-11-17T18:45 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
-  "2026-11-17T18:45 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
-  "2026-11-17T19:02 Counter-Strike'ın efsanevi haritası Cobblestone, kış temalı  -> ValueError: yanıt okunamadı",
-  "2026-11-17T19:02 Counter-Strike'ın efsanevi haritası Cobblestone, kış temalı  -> ValueError: yanıt okunamadı",
-  "2026-11-17T19:02 Counter-Strike'ın efsanevi haritası Cobblestone, kış temalı  -> ValueError: yanıt okunamadı",
   "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
   "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
   "2026-11-17T19:02 Türkiye’nin Gidişatı (26): Sözcü TV’ye kayyım | YENİ Parti’d -> ValueError: yanıt okunamadı",
@@ -12875,7 +12936,13 @@
   "2026-11-18T00:38 Kot pantolonlardaki metal zımbalar süs değil: 150 yıl önceki -> ValueError: yanıt okunamadı",
   "2026-11-18T00:38 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
   "2026-11-18T00:38 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
-  "2026-11-18T00:38 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı"
+  "2026-11-18T00:38 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:42 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:42 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:42 Bizans'tan Osmanlı'ya: İstanbul'un 1.600 yıllık hikâyesi Lon -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:42 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:42 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı",
+  "2026-11-18T00:42 İkinci el araç alacaklar dikkat: Kilometre oyunları elektron -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
