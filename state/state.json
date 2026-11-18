@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "21",
-    "ali",
-    "atand",
-    "ballı",
-    "emre",
-    "fon",
-    "geliş",
-    "ilkay",
-    "kayyu",
-    "konul",
-    "mal",
-    "malva",
-    "nın",
-    "soruş",
-    "tmsf",
-    "varlı",
-    "şirke"
-   ],
-   "tok": [
-    "aklan",
-    "ali",
-    "atand",
-    "ballı",
-    "banka",
-    "birli",
-    "bulun",
-    "devre",
-    "değer",
-    "dondu",
-    "edile",
-    "ekim",
-    "elde",
-    "emre",
-    "fon",
-    "geliş",
-    "göre",
-    "hesap",
-    "ilkay",
-    "kaldı",
-    "kapsa",
-    "kasal",
-    "kayna",
-    "kayyu",
-    "kayyı",
-    "kiral",
-    "konul",
-    "koyma",
-    "kredi",
-    "mal",
-    "malva",
-    "nın",
-    "ortak",
-    "otomo",
-    "payla",
-    "savcı",
-    "suçta",
-    "taşın",
-    "tedbi",
-    "tmsf",
-    "tüket",
-    "usuls",
-    "varlı",
-    "veril",
-    "yönet",
-    "çekme",
-    "üzeri",
-    "şahsi",
-    "şekil",
-    "şirke"
-   ],
-   "at": "2026-11-16T21:17:14.326468+00:00"
-  },
-  {
-   "fp": [
     "000",
     "2025",
     "7",
@@ -10651,20 +10577,59 @@
     "şahin"
    ],
    "at": "2026-11-18T09:06:24.940029+00:00"
+  },
+  {
+   "fp": [
+    "746",
+    "arama",
+    "bulun",
+    "kişi",
+    "yakal"
+   ],
+   "tok": [
+    "arama",
+    "arana",
+    "asayi",
+    "azim",
+    "başta",
+    "belir",
+    "bulun",
+    "duyur",
+    "düzen",
+    "ekipl",
+    "genel",
+    "gerçe",
+    "göçme",
+    "hakla",
+    "içişl",
+    "kaydı",
+    "kaçak",
+    "kişil",
+    "kom",
+    "kontr",
+    "mücad",
+    "narko",
+    "olmak",
+    "siber",
+    "suç",
+    "suçla",
+    "suçlu",
+    "sürdü",
+    "tem",
+    "terör",
+    "uyuşt",
+    "yapıl",
+    "yerle",
+    "yol",
+    "yönel",
+    "zaman",
+    "çeşit",
+    "üzere"
+   ],
+   "at": "2026-11-18T09:19:06.178020+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "64b06d6744",
-   "post_id": "529346797199852_1469979511908423",
-   "title": "Öğrencilerin okul yolu çamur ve su birikintileriyle dolu: Eğitim yolunda çamur mesaisi",
-   "at": "2026-11-16T01:37:09.319467+00:00",
-   "yazim": "claude",
-   "metin": "Tekirdağ'ın Çerkezköy ilçesindeki Osmanlı Ortaokulu'nun çevresindeki yollar yağışlı havalarda çamur ve su birikintisine dönüşüyor, öğrenciler okula zorlukla ulaşıyor.\n\n— Okulun dere yatağına yakın olduğu ve çevredeki kanalizasyonun yetersiz kaldığı belirtiliyor. Yağmurla birlikte okul yolunda sel akıntısı oluşuyor.\n— Tarım arazilerinden gelen çamurlu sular yolu iyice zorlaştırıyor. Okul önündeki kaldırımlar da yetersiz.\n— Öğrenciler için \"change.org\" üzerinden bir imza kampanyası başlatıldı. Kampanyada yolların asfaltlanması ve kalıcı bir altyapı çalışması isteniyor.\n\nEğitim-İş Tekirdağ 2 No'lu Şube Başkanı Halil Mahmut Er, yerel yönetimlerin daha önce verdiği sözlere rağmen sorunun çözülmediğini söyledi. Er, belediyenin bölgede kaldırım yapmasını ve yağmur sularını kanallara aktaracak mazgallar yerleştirmesini istiyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ogrencilerin-okul-yolu-camur-ve-su-birikintileriyle-dolu-egitim-yolunda-camur-mesaisi-2556436"
-   ]
-  },
   {
    "id": "ae22d0b605",
    "post_id": "529346797199852_1469987338574307",
@@ -13250,6 +13215,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sariyer-de-sir-olay-metruk-binada-ceset-bulundu-2557171",
     "Karar: https://www.karar.com/guncel-haberler/sariyerde-supheli-olum-metruk-binada-curumus-erkek-cesedi-bulundu-2084804"
    ]
+  },
+  {
+   "id": "120d03f285",
+   "post_id": "529346797199852_1472314608341580",
+   "title": "Türkiye genelinde eş zamanlı operasyon: Haklarında arama kararı bulunan 746 kişi yakalandı",
+   "at": "2026-11-18T09:19:06.178020+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye genelinde 81 ilde yapılan operasyonda, haklarında arama kararı bulunan 746 kişi yakalandı.\n\n— 474 kişi asayiş, 155 kişi siber suçlardan yakalandı.\n— Narkotik suçlardan 73, KOM suçlarından 37, göçmen kaçakçılığından 5, TEM suçlarından 2 kişi yakalandı.\n— Operasyonda yol kontrolleri ile ev ve iş yerlerinde arama yapıldı.\n\nAçıklamada, suç ve suçlularla mücadelenin azim ve kararlılıkla sürdürüleceği belirtildi.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-aramasi-bulunan-746-kisi-yakalandi-3928167",
+    "Karar: https://www.karar.com/guncel-haberler/turkiye-genelinde-es-zamanli-operasyon-haklarinda-arama-karari-bulunan-2084817"
+   ]
   }
  ],
  "fails": {
@@ -13464,7 +13441,8 @@
   "132605a21d": 1,
   "0650087b03": 1,
   "fb4315c9f0": 1,
-  "1dafd0d39d": 2
+  "1dafd0d39d": 2,
+  "6dcaa1c8a0": 1
  },
  "fail_log": [
   "2026-11-18T04:05 T.C. ÇORLU 1. AİLE MAHKEMESİ -> ValueError: yanıt okunamadı",
@@ -13511,7 +13489,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2122976171675508997",
+   "since_id": "2122979939716657508",
    "started": true
   },
   "ajansmuhbir1923": {
