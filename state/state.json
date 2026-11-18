@@ -2,113 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alışk",
-    "alışv",
-    "etmed",
-    "fark",
-    "kaya",
-    "kağan",
-    "yönü"
-   ],
-   "tok": [
-    "alıyo",
-    "alışk",
-    "alışv",
-    "appea",
-    "aşama",
-    "diken",
-    "etmed",
-    "eve",
-    "fark",
-    "first",
-    "hafta",
-    "hazır",
-    "kaya",
-    "kağan",
-    "lin",
-    "marke",
-    "post",
-    "saati",
-    "site",
-    "the",
-    "yerle",
-    "yönü",
-    "yılda",
-    "ürünl"
-   ],
-   "at": "2026-11-17T05:19:12.935391+00:00"
-  },
-  {
-   "fp": [
-    "aktaş",
-    "alaat",
-    "bütçe",
-    "ondur",
-    "öldür"
-   ],
-   "tok": [
-    "aktaş",
-    "alaat",
-    "appea",
-    "benzi",
-    "bütçe",
-    "diken",
-    "durum",
-    "ebeve",
-    "evini",
-    "first",
-    "geçin",
-    "kanaa",
-    "kıt",
-    "linka",
-    "ondur",
-    "post",
-    "site",
-    "the",
-    "çalış",
-    "öldür"
-   ],
-   "at": "2026-11-17T05:19:16.552165+00:00"
-  },
-  {
-   "fp": [
-    "beled",
-    "birim",
-    "devle",
-    "diğer",
-    "kamil",
-    "sürek",
-    "tekin",
-    "yapıl",
-    "yolsu"
-   ],
-   "tok": [
-    "beled",
-    "birim",
-    "devle",
-    "diken",
-    "diğer",
-    "fon",
-    "geldi",
-    "işbaş",
-    "kamil",
-    "liral",
-    "milya",
-    "nedir",
-    "post",
-    "seçim",
-    "sürek",
-    "tekin",
-    "the",
-    "vurgu",
-    "yapan",
-    "yapıl",
-    "yolsu"
-   ],
-   "at": "2026-11-17T05:19:20.421928+00:00"
-  },
-  {
-   "fp": [
     "akp",
     "anlam",
     "başka",
@@ -10665,23 +10558,77 @@
     "çerçe"
    ],
    "at": "2026-11-18T17:07:56.021331+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "beled",
+    "eski",
+    "soruş"
+   ],
+   "tok": [
+    "akp",
+    "aktaş",
+    "alinu",
+    "alınd",
+    "arala",
+    "açtığ",
+    "ağırl",
+    "beled",
+    "bin",
+    "bulun",
+    "bursa",
+    "büyük",
+    "dahil",
+    "danış",
+    "deniz",
+    "devam",
+    "duyur",
+    "dönem",
+    "düzen",
+    "eski",
+    "ettiğ",
+    "gerek",
+    "görev",
+    "göste",
+    "harca",
+    "idare",
+    "iddia",
+    "iyip",
+    "izni",
+    "içişl",
+    "kamu",
+    "kapsa",
+    "kapsı",
+    "liral",
+    "mehme",
+    "mille",
+    "musta",
+    "nin",
+    "olmad",
+    "osman",
+    "sayış",
+    "sebze",
+    "selçu",
+    "suç",
+    "süreç",
+    "temsi",
+    "türko",
+    "verdi",
+    "veril",
+    "verme",
+    "yol",
+    "yükse",
+    "zarar",
+    "zimme",
+    "zolan",
+    "çağrı",
+    "çiftç"
+   ],
+   "at": "2026-11-18T17:20:51.556213+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9af26dc20a",
-   "post_id": "529346797199852_1470451875194520",
-   "title": "Osmaniye'de iş cinayeti: Fabrikada helezon makinesine düşen işçi öldü",
-   "at": "2026-11-16T13:02:45.437468+00:00",
-   "yazim": "claude",
-   "metin": "Osmaniye'nin Kadirli ilçesinde bir yem fabrikasında çalışan 28 yaşındaki işçi, dengesini kaybedip helezon makinesine düştü ve hayatını kaybetti.\n\nOlay dün akşam Yukarıbozkuyu köyünde yaşandı. İş arkadaşları durumu ihbar etti, sağlık ve itfaiye ekipleri olay yerine gitti.\n\n— Ağır yaralanan işçi ambulansla hastaneye kaldırıldı, ancak kurtarılamadı.\n— Cansız bedeni otopsi için morga gönderildi. Olayla ilgili soruşturma başlatıldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/osmaniye/osmaniyede-yem-karma-makinesine-dusen-isci-hayatini-kaybetti-3493958",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/osmaniye-de-is-cinayeti-fabrikada-helezon-makinesine-dusen-isci-oldu-2556563",
-    "Evrensel: https://www.evrensel.net/haber/6009705/osmaniye-de-is-cinayeti-yem-fabrikasinda-helezon-makinesine-dusen-isci-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/sehir-haberleri/osmaniyede-is-cinayeti-28-yasindaki-isci-helezon-makinesine-duserek-2084409"
-   ]
-  },
   {
    "id": "e9c8f6d049",
    "post_id": "529346797199852_1470582225181485",
@@ -13305,6 +13252,18 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-turk-kizilayi-kanunu-teklifi-meclis-ten-gecti-3928323",
     "Sözcü: https://www.sozcu.com.tr/turk-kizilayi-kanunu-teklifi-tbmm-de-kabul-edildi-p382538"
    ]
+  },
+  {
+   "id": "85f3b25f5e",
+   "post_id": "529346797199852_1472695951636779",
+   "title": "Zimmet soruşturmasında tutuklama karar: Eski belediye başkanının danışmanı dahil 4 tutuklama",
+   "at": "2026-11-18T17:20:51.556213+00:00",
+   "yazim": "claude",
+   "metin": "İçişleri Bakanı Mustafa Çiftçi, eski Bursa Büyükşehir Belediye Başkanı Alinur Aktaş hakkında soruşturma izni verilmesine gerek olmadığına karar verdi.\n\n— İYİP Bursa Milletvekili Yüksel Selçuk Türkoğlu, Aktaş dönemindeki 5 milyon 279 bin 156 liralık temsil ve ağırlama harcamasının kamu zararına yol açtığı iddiasıyla suç duyurusunda bulunmuştu.\n\n— Karar, Aktaş ve dönemin altı belediye görevlisini kapsıyor.\n\n— Gerekçe olarak Sayıştay ve idare mahkemesindeki süreçlerin devam ettiği gösterildi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010119/icisleri-bakanligi-eski-akp-li-bursa-buyuksehir-belediye-baskani-aktas-hakkinda-sorusturma-izni-vermedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/guncel-haberler/zimmet-sorusturmasinda-tutuklama-karar-eski-belediye-baskaninin-2084931"
+   ]
   }
  ],
  "fails": {
@@ -13527,8 +13486,6 @@
   "c780325b56": 1
  },
  "fail_log": [
-  "2026-11-18T07:22 'Şirinler' operasyonunda 33 tutuklama: 50 milyon TL'lik ziyn -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-18T07:35 Altında düşüş hızlandı: Gram, çeyrek ve Cumhuriyet altını ne -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T07:35 Altında düşüş hızlandı: Gram, çeyrek ve Cumhuriyet altını ne -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T07:47 18 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Z -> ValueError: yanıt okunamadı",
   "2026-11-18T07:47 18 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Z -> ValueError: yanıt okunamadı",
@@ -13566,12 +13523,14 @@
   "2026-11-18T16:26 İngiltere'de 200 yıllık tarihi olan Caroline Cottage kalesi  -> ValueError: yanıt okunamadı",
   "2026-11-18T16:30 Ahmet Şık açıkladı: Erlik'in Akın Gürlek hakkındaki videosun -> ValueError: yanıt okunamadı",
   "2026-11-18T16:30 Ahmet Şık açıkladı: Erlik'in Akın Gürlek hakkındaki videosun -> ValueError: yanıt okunamadı",
-  "2026-11-18T16:30 Ahmet Şık açıkladı: Erlik'in Akın Gürlek hakkındaki videosun -> ValueError: yanıt okunamadı"
+  "2026-11-18T16:30 Ahmet Şık açıkladı: Erlik'in Akın Gürlek hakkındaki videosun -> ValueError: yanıt okunamadı",
+  "2026-11-18T17:20 Zimmet soruşturmasında tutuklama karar: Eski belediye başkan -> ValueError: yanıt okunamadı",
+  "2026-11-18T17:20 Zimmet soruşturmasında tutuklama karar: Eski belediye başkan -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123095394041397327",
+   "since_id": "2123103086839529834",
    "started": true
   },
   "ajansmuhbir1923": {
