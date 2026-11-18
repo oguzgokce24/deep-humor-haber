@@ -10356,23 +10356,67 @@
     "ücret"
    ],
    "at": "2026-11-18T02:20:21.211521+00:00"
+  },
+  {
+   "fp": [
+    "dönüş",
+    "evler",
+    "fatur",
+    "kents",
+    "kesil",
+    "sular",
+    "yurtt",
+    "yıkıl"
+   ],
+   "tok": [
+    "adapa",
+    "adı",
+    "barın",
+    "belir",
+    "bunu",
+    "bunun",
+    "deki",
+    "devam",
+    "dolma",
+    "doğal",
+    "dönüş",
+    "ederk",
+    "edild",
+    "elekt",
+    "evler",
+    "fatur",
+    "göste",
+    "hakla",
+    "hukuk",
+    "ihlal",
+    "ilçes",
+    "ise",
+    "kents",
+    "kesil",
+    "mücad",
+    "mülks",
+    "nda",
+    "nitel",
+    "nın",
+    "sakar",
+    "savun",
+    "siliv",
+    "sular",
+    "söyle",
+    "söylü",
+    "sürdü",
+    "sürer",
+    "süres",
+    "süreç",
+    "tahli",
+    "tepki",
+    "yurtt",
+    "yıkıl"
+   ],
+   "at": "2026-11-18T02:33:11.956976+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d10aa29c5e",
-   "post_id": "529346797199852_1469753018597739",
-   "title": "17 yaşındaki çocuğu hayattan koparan araç 'silah' sayıldı",
-   "at": "2026-11-15T18:59:04.881134+00:00",
-   "yazim": "claude",
-   "metin": "Diyarbakır'ın Ergani ilçesinde drift yapan alkollü ve ehliyetsiz sürücüye, 17 yaşındaki bir çocuğun ölümüne yol açtığı için 28 yıl 4 ay 25 gün hapis cezası verildi.\n\nMahkeme, sanığı \"olası kast\" suçlarından cezalandırdı ve kazaya karışan otomobili \"silah\" olarak değerlendirdi.\n\n— Kaza 14 Nisan'da Dicle Mahallesi'nde, kaldırımda yürüyen iki çocuğa çarpmasıyla yaşandı. 11 yaşındaki bir çocuk da yaralandı.\n\n— Bilirkişi raporuna göre sanık en az 1,03 promil alkollüydü. Güvenlik kamerası kayıtlarında da süratli ve zikzaklı ilerlediği görüldü.\n\n— Mahkeme, sanığın \"Sonucu göze alıp kabullenmek suretiyle\" hareket ettiğini belirtti. Karara Diyarbakır Bölge Adliye Mahkemesi'ne istinaf başvurusu yapılabilecek.",
-   "sources": [
-    "Yeni Şafak: https://www.yenisafak.com/gundem/drift-yaparken-17-yasindaki-gencin-olumune-neden-olmustu-otomobili-silah-sayildi-4872746",
-    "BirGün: https://www.birgun.net/haber/17-yasindaki-cocugun-olumune-neden-olan-alkollu-ve-ehliyetsiz-surucuye-olasi-kast-cezasi-otomobil-silah-sayildi-746585",
-    "Karar: https://www.karar.com/guncel-haberler/17-yasindaki-cocugu-hayattan-koparan-arac-silah-sayildi-2084265",
-    "BPT (X): https://x.com/bpthaber/status/2122039713330524163"
-   ]
-  },
   {
    "id": "36fcfdb424",
    "post_id": "529346797199852_1469761425263565",
@@ -12927,6 +12971,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/isciler-ve-emekliler-kartal-da-bulusuyor-sadakaya-razi-olmayacagiz-747011"
    ]
+  },
+  {
+   "id": "68129992cd",
+   "post_id": "529346797199852_1472053295034378",
+   "title": "Kentsel dönüşümün yurttaşa faturası: Evleri yıkıldı, suları kesildi",
+   "at": "2026-11-18T02:33:11.956976+00:00",
+   "yazim": "claude",
+   "metin": "Sakarya'nın Adapazarı ilçesinde dava sürerken evleri yıkılan yurttaşlar tepki gösterdi.\n\nİstanbul'un Silivri ilçesinde ise tahliye süresi dolmadan elektrik, su ve doğalgaz kesildi.\n\n— Adapazarı'nda yurttaşlar, hukuki süreç devam ederken evlerinin yıkıldığını söylüyor.\n— Silivri'deki yurttaşlar, barınma haklarının ihlal edildiğini savunuyor.\n\nYurttaşlar bunu \"mülksüzleştirme\" olarak niteliyor ve hukuki mücadeleyi sürdüreceklerini söylüyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/kentsel-donusumun-yurttasa-faturasi-evleri-yikildi-sulari-kesildi-747008"
+   ]
   }
  ],
  "fails": {
@@ -13137,12 +13192,9 @@
   "590f7bf7df": 1,
   "8c77d28fd6": 1,
   "5f55ba1e2b": 1,
-  "98ed452de2": 1
+  "98ed452de2": 2
  },
  "fail_log": [
-  "2026-11-17T20:08 OpenAI, GPT 6.2 Astra ve Sol modellerini duyurdu. -> ValueError: yanıt okunamadı",
-  "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
-  "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 Sabahat Tuncel: “Savaş doğayı da öldürüyor” -> ValueError: yanıt okunamadı",
   "2026-11-17T20:08 Almanya'da güven anketi yayımlandı: Merz hükümetine kötü hab -> ValueError: yanıt okunamadı",
   "2026-11-17T21:52 Gıdada yangın sönmüyor: Vatandaş sofrasına koyamadığı Erzuru -> ValueError: yanıt okunamadı",
@@ -13179,7 +13231,10 @@
   "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T02:20 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-18T02:20 İşçiler ve emekliler Kartal'da buluşuyor: 'Sadakaya razı olm -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-18T02:20 İşçiler ve emekliler Kartal'da buluşuyor: 'Sadakaya razı olm -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: yanıt okunamadı",
+  "2026-11-18T02:33 Ayhan Şengüler'e beraat kararı İstinaf'a taşındı: Beraat kar -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle"
  ],
  "x": {
   "bpthaber": {
