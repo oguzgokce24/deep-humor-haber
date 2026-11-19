@@ -2,93 +2,6 @@
  "seen": [
   {
    "fp": [
-    "asliy",
-    "hakim",
-    "hukuk",
-    "mahke"
-   ],
-   "tok": [
-    "asliy",
-    "ceza",
-    "cizre",
-    "hakim",
-    "hukuk",
-    "izmir",
-    "kahra"
-   ],
-   "at": "2026-11-18T04:21:16.928994+00:00"
-  },
-  {
-   "fp": [
-    "1000",
-    "95",
-    "bilec",
-    "geçim",
-    "kayna",
-    "köyün",
-    "tohum",
-    "ton",
-    "ulaşt",
-    "yıllı",
-    "üreti"
-   ],
-   "tok": [
-    "aktar",
-    "arası",
-    "ağaçl",
-    "başkö",
-    "başla",
-    "bilec",
-    "bin",
-    "biraz",
-    "bol",
-    "bugün",
-    "deded",
-    "devam",
-    "değiş",
-    "diyar",
-    "döner",
-    "düştü",
-    "düşük",
-    "ediyo",
-    "ekild",
-    "fiyat",
-    "geçim",
-    "göre",
-    "hasat",
-    "hurma",
-    "isa",
-    "iyi",
-    "kayna",
-    "köyde",
-    "köyün",
-    "mahsu",
-    "nüfus",
-    "nın",
-    "sami",
-    "sağla",
-    "tarla",
-    "tek",
-    "tohum",
-    "ton",
-    "tona",
-    "torun",
-    "trabz",
-    "ulaşt",
-    "verdi",
-    "verim",
-    "yakın",
-    "yükse",
-    "yıl",
-    "yılki",
-    "yıllı",
-    "üreti",
-    "ürün"
-   ],
-   "at": "2026-11-18T04:21:39.364059+00:00"
-  },
-  {
-   "fp": [
     "12",
     "2",
     "4",
@@ -10804,25 +10717,82 @@
     "şirke"
    ],
    "at": "2026-11-19T16:13:40.245439+00:00"
+  },
+  {
+   "fp": [
+    "chp",
+    "eleşt",
+    "görüş",
+    "isiml",
+    "kurul"
+   ],
+   "tok": [
+    "akif",
+    "aktar",
+    "aldı",
+    "alınd",
+    "bekle",
+    "beled",
+    "bitec",
+    "butla",
+    "chp",
+    "dikka",
+    "dinle",
+    "eleşt",
+    "ertel",
+    "fikir",
+    "finan",
+    "gerek",
+    "getir",
+    "geçer",
+    "geçiş",
+    "görüş",
+    "günde",
+    "hamza",
+    "henüz",
+    "isiml",
+    "ismin",
+    "kaan",
+    "kirle",
+    "krizi",
+    "kurma",
+    "kurul",
+    "kılıç",
+    "mayıs",
+    "mecli",
+    "myk",
+    "neden",
+    "nun",
+    "olduğ",
+    "oğuz",
+    "parti",
+    "salıc",
+    "savun",
+    "sayıl",
+    "sinde",
+    "siyas",
+    "söyle",
+    "sürec",
+    "takvi",
+    "taleb",
+    "tartı",
+    "topla",
+    "uzatı",
+    "verme",
+    "yapıl",
+    "yargı",
+    "yönet",
+    "çekti",
+    "örgüt",
+    "öğren",
+    "üyele",
+    "üyesi",
+    "şubat"
+   ],
+   "at": "2026-11-19T16:26:31.565469+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2dbd211358",
-   "post_id": "529346797199852_1471618358411205",
-   "title": "Son dakika! Rusya'da askeri uçak düştü: 17 can kaybı",
-   "at": "2026-11-17T15:46:59.048069+00:00",
-   "yazim": "claude",
-   "metin": "Rusya'nın Kemerovo bölgesinde askeri kargo uçağı düştü, uçakta bulunan 17 kişinin öldüğü bildirildi.\n\n— Uçağın havada alev aldığı belirtildi.\n— Kaza, Kemerovo Havalimanı yakınlarındaki Yagunovo köyü civarında yaşandı.\n— Rus basınındaki haberlere göre uçak \"An-12\" tipinde ve içinde 17 kişi vardı.\n— Seredyuk, sosyal medya hesabından olay yerinde acil servis ekiplerinin çalıştığını paylaştı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
-    "Habertürk: https://www.haberturk.com/dunya/son-dakika-rusya-da-askeri-ucak-dustu-17-olu-3928037",
-    "Karar: https://www.karar.com/guncel-haberler/son-dakika-rusyada-askeri-ucak-dustu-17-can-kaybi-2084699",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/rusya-da-askeri-ucak-dustu-p382234",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
-    "BPT (X): https://x.com/bpthaber/status/2122715975997133168"
-   ]
-  },
   {
    "id": "8ea045cffb",
    "post_id": "529346797199852_1471628041743570",
@@ -13430,6 +13400,18 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/jpmorgan-chase-ucuncu-taraf-hizmet-saglayicilarinin-siber-saldiriya-ugradigini-acikladi/4131220",
     "Diken: https://www.diken.com.tr/jpmorgan-chase-hizmet-saglayicilarimiz-siber-saldiriya-ugradi/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-chase-hizmet-saglayicilarimiz-siber-saldiriya-ugradi"
    ]
+  },
+  {
+   "id": "3e02d802fe",
+   "post_id": "529346797199852_1473669241539450",
+   "title": "CHP'de kurultay takvimi tartışması: Eleştiren isimlerle görüşülecek",
+   "at": "2026-11-19T16:26:31.565469+00:00",
+   "yazim": "claude",
+   "metin": "CHP Merkez Yönetim Kurulu, kurultay ertelemesini eleştiren Oğuz Kaan Salıcı ve Akif Hamzaçebi ile görüşme kararı aldı.\n\n— Kurultay süreci, 14 Şubat'ta bitecekken il ve ilçe örgütlerinin talebiyle 2 Mayıs'a uzatılmıştı.\n\n— Parti kurmayları, Yargıtay'ın henüz karar vermediğini ve bu karar beklenmeden yapılacak kurultayın geçersiz sayılabileceğini savundu.\n\n— Kurmaylar, eleştiren iki ismin de Parti Meclisi üyesi olduğuna dikkat çekti: \"ilk önce PM'de fikirlerini gündeme getirmeleri gerekirdi.\"\n\n— Toplantıda belediye başkanlarının AK Parti'ye geçişi de ele alındı ve Kılıçdaroğlu'nun siyasetin finansmanının siyaseti kirlettiğini söylediği öğrenildi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/butlan-chp-sinde-kurultay-krizi-ertelemeyi-elestiren-isimler-ile-gorusme-karari-2557663",
+    "Karar: https://www.karar.com/guncel-haberler/chpde-kurultay-takvimi-tartismasi-elestiren-isimlerle-gorusulecek-2085153"
+   ]
   }
  ],
  "fails": {
@@ -13674,7 +13656,6 @@
  "fail_log": [
   "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
   "2026-11-19T05:18 Abdulkadir Selvi: Erdoğan fon olayının adını koydu -> ValueError: yanıt okunamadı",
   "2026-11-19T05:18 Abdulkadir Selvi: Erdoğan fon olayının adını koydu -> ValueError: yanıt okunamadı",
   "2026-11-19T05:18 Abdulkadir Selvi: Erdoğan fon olayının adını koydu -> ValueError: yanıt okunamadı",
@@ -13711,12 +13692,13 @@
   "2026-11-19T15:10 Başsavcılık’tan SPK’ya yeni müzekkere: “Tahliye vaadiyle 8 m -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-19T15:49 İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-19T15:49 İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-19T16:01 DEM Parti’den Özgür Özel’e “İzleme Komisyonu kararını gözden -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-19T16:01 DEM Parti’den Özgür Özel’e “İzleme Komisyonu kararını gözden -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-19T16:26 CHP'de kurultay takvimi tartışması: Eleştiren isimlerle görü -> ValueError: cümle yarım kalmış: 'ayları, Yargıtay'ın henüz karar vermediğ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123447930153800057",
+   "since_id": "2123451608801722372",
    "started": true
   },
   "ajansmuhbir1923": {
