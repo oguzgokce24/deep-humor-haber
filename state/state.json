@@ -10839,21 +10839,83 @@
     "şidde"
    ],
    "at": "2026-11-19T21:34:14.713237+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "beled",
+    "dönem",
+    "seçim"
+   ],
+   "tok": [
+    "adayl",
+    "alfab",
+    "amaç",
+    "artık",
+    "basac",
+    "basıl",
+    "beled",
+    "birle",
+    "boşal",
+    "buna",
+    "değiş",
+    "dönem",
+    "düzen",
+    "elle",
+    "ettik",
+    "gazet",
+    "geldi",
+    "gerçe",
+    "geçer",
+    "geçme",
+    "girdi",
+    "göre",
+    "gün",
+    "ilişk",
+    "isim",
+    "isiml",
+    "ismin",
+    "içind",
+    "kaldı",
+    "karşı",
+    "kasım",
+    "koltu",
+    "kulla",
+    "mecli",
+    "mührü",
+    "mühür",
+    "olaca",
+    "oylar",
+    "pusul",
+    "resmi",
+    "resmî",
+    "sayıl",
+    "seçim",
+    "sıray",
+    "tarih",
+    "tek",
+    "terci",
+    "topla",
+    "uygul",
+    "vali",
+    "vekil",
+    "verme",
+    "yanlı",
+    "yayım",
+    "yazma",
+    "yazıl",
+    "yerin",
+    "yönet",
+    "yönte",
+    "yürür",
+    "yüzün",
+    "önüne",
+    "üyele"
+   ],
+   "at": "2026-11-19T21:46:52.596384+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2e5b336d7a",
-   "post_id": "529346797199852_1471837151722659",
-   "title": "Anne babalar dikkat: İki ürün için toplatma kararı",
-   "at": "2026-11-17T20:46:42.658783+00:00",
-   "yazim": "claude",
-   "metin": "Çocuk giysilerinde kullanılan iki ürünün satışı yasaklandı, ürünler piyasadan toplanacak.\n\n— Ürünlerdeki kordon ve büzme iplerinin, çocuk giysileri için geçerli TS EN 14682 standardına uymadığı belirlendi.\n— Bu durum çocuklar için boğulma ve yaralanma riski oluşturabiliyor.\n— Ticaret Bakanlığı müşaviri Bekir Kaplan, çocukları tehdit eden ürünlere karşı denetimlerin süreceğini ve güvensiz ürünlerin piyasadan uzaklaştırılacağını bildirdi.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/ticaret-bakanligi-2-cocuk-mayosu-icin-toplatma-karari-aldi-43381714",
-    "Sözcü: https://www.sozcu.com.tr/anne-babalar-dikkat-iki-urun-icin-toplatma-karari-p382288"
-   ]
-  },
   {
    "id": "fe099be9c8",
    "post_id": "529346797199852_1471844921721882",
@@ -13482,6 +13544,18 @@
     "Karar: https://www.karar.com/guncel-haberler/otizmli-cocuklara-siddete-2-tutuklama-2085185",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/izmirde-otizmli-cocuklara-siddet-iddiasina-2-tutuklama-7704133"
    ]
+  },
+  {
+   "id": "3b162766f9",
+   "post_id": "529346797199852_1473893048183736",
+   "title": "Belediye başkanı ve başkanvekili seçimlerinde yeni dönem: İsim yazma uygulaması kaldırıldı, tercih mührü geldi",
+   "at": "2026-11-19T21:46:52.596384+00:00",
+   "yazim": "claude",
+   "metin": "Belediye başkanlığı ve başkanvekilliği seçimlerinde oy verme yöntemi değişti, isim yazmak yerine tercih mührü basılacak.\n\n— Yeni yönetmelik 20 Kasım 2026 tarihli Resmî Gazete'de yayımlandı.\n— Meclis üyeleri artık adayların isimlerinin alfabetik sırayla yazıldığı tek bir pusulada, tercih ettikleri ismin karşısına mühür basacak.\n— Amaç, isimlerin yanlış yazılması yüzünden oyların geçersiz sayılmasının önüne geçmek.\n— Belediye başkanlığı boşalırsa vali 10 gün içinde seçim toplantısı kararlaştıracak.",
+   "sources": [
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/19/son-dakika-i-belediye-baskani-ve-vekil-secimlerinde-yeni-donem-resmi-gazetede-yayimlandi-baskanlik-koltugu-bosalirsa-ne-olacak",
+    "Karar: https://www.karar.com/guncel-haberler/belediye-baskani-ve-baskanvekili-secimlerinde-yeni-donem-isim-yazma-2085187"
+   ]
   }
  ],
  "fails": {
@@ -13770,7 +13844,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123527009800245248",
+   "since_id": "2123532538358677953",
    "started": true
   },
   "ajansmuhbir1923": {
