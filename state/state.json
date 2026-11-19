@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "470",
-    "ayda",
-    "harca",
-    "lira",
-    "milya",
-    "mücad",
-    "rekor",
-    "yoksu"
-   ],
-   "tok": [
-    "akp",
-    "ayda",
-    "ayrıl",
-    "ayınd",
-    "bin",
-    "böyle",
-    "bütçe",
-    "büyür",
-    "bırak",
-    "deste",
-    "dönem",
-    "gerid",
-    "harca",
-    "hazir",
-    "hızla",
-    "iktid",
-    "itiba",
-    "kayna",
-    "kırdı",
-    "lik",
-    "liral",
-    "liray",
-    "milya",
-    "mücad",
-    "nın",
-    "rekor",
-    "sayıs",
-    "sosya",
-    "tamam",
-    "tutar",
-    "ulaşa",
-    "ulaşt",
-    "yardı",
-    "yoksu",
-    "yılın",
-    "çocuk"
-   ],
-   "at": "2026-11-18T02:07:20.188182+00:00"
-  },
-  {
-   "fp": [
     "buluş",
     "emekl",
     "işçil",
@@ -10679,25 +10627,94 @@
     "öğren"
    ],
    "at": "2026-11-19T13:55:36.616446+00:00"
+  },
+  {
+   "fp": [
+    "adale",
+    "araka",
+    "divan",
+    "işled",
+    "karar",
+    "karşı",
+    "myanm",
+    "müslü",
+    "ndan",
+    "soykı",
+    "ulusl"
+   ],
+   "tok": [
+    "adale",
+    "ancak",
+    "araka",
+    "asker",
+    "bangl",
+    "belir",
+    "binde",
+    "binle",
+    "dan",
+    "deki",
+    "devle",
+    "divan",
+    "dönme",
+    "emsal",
+    "fazla",
+    "geri",
+    "gider",
+    "giydi",
+    "güven",
+    "henüz",
+    "hükme",
+    "hüküm",
+    "isten",
+    "işled",
+    "kaldı",
+    "kapal",
+    "karşı",
+    "kaçma",
+    "kesin",
+    "kez",
+    "konse",
+    "konu",
+    "mağdu",
+    "mekan",
+    "mikta",
+    "myanm",
+    "müslü",
+    "ndan",
+    "nin",
+    "organ",
+    "oyla",
+    "rohin",
+    "sağla",
+    "sorum",
+    "soykı",
+    "suçu",
+    "suçun",
+    "tarih",
+    "tazmi",
+    "taşın",
+    "temyi",
+    "toplu",
+    "tuttu",
+    "tutul",
+    "uad",
+    "ulusl",
+    "uygul",
+    "uymaz",
+    "yargı",
+    "yok",
+    "yönel",
+    "yükse",
+    "zarar",
+    "zorla",
+    "zorun",
+    "öldür",
+    "ıcj"
+   ],
+   "at": "2026-11-19T14:08:05.868868+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "741d45c454",
-   "post_id": "529346797199852_1471484988424542",
-   "title": "Ukrayna, Putin'in prestij projesi olan Kerç Köprüsü'nü vurdu",
-   "at": "2026-11-17T13:05:59.603706+00:00",
-   "yazim": "claude",
-   "metin": "Ukrayna, Rusya'yı Kırım'a bağlayan Kerç Köprüsü'nün bir kemerini ve yol bölümünü vurdu.\n\n— Zelenskiy saldırıyı \"emsalsiz bir operasyon\" diye nitelendirdi.\n— Rusya'nın Kırım'a atadığı Sergey Aksyonov, saldırıda iki kişinin öldüğünü duyurdu.\n— Kremlin, köprünün onarıldıktan sonra eskisinden daha iyi hale geleceğini söyledi.\n— Saldırı, Putin'in Donald Trump ve Şi Cinping ile 19 Kasım'da yapacağı görüşmeden önce geldi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/rusya-ukrayna-yeniden-kirim-koprusune-saldiri-duzenledi-963542.html",
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/cq99exdx2d5lo?at_medium=RSS&at_campaign=rss",
-    "DW Türkçe: https://www.dw.com/tr/ukrayna-putin-in-prestij-projesi-olan-kerç-köprüsü-nü-vurdu/a-79969665?maca=tur-rss-tur-all-1495-xml-mrss",
-    "Euronews: https://tr.euronews.com/video/2026/11/17/ukrayna-kerc-koprusune-yeni-saldiri-goruntulerini-yayimladi",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/ukrayna-dan-rusya-ya-rekor-iha-saldirisi-kirim-koprusu-iki-gunde-ikinci-kez-hedef-alindi-2556850",
-    "Evrensel: https://www.evrensel.net/haber/6009883/kirim-koprusu-nde-trafik-yeniden-durduruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "e05e832c1d",
    "post_id": "529346797199852_1471494998423541",
@@ -13307,6 +13324,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/eskisehir-seyitgazi-kara-yolunda-tanker-kazasi-1-olu-4874471",
     "BirGün: https://www.birgun.net/haber/eskisehir-de-tirla-otomobil-carpisti-1-kisi-oldu-1-i-agir-2-kisi-yaralandi-747300"
    ]
+  },
+  {
+   "id": "95359fce80",
+   "post_id": "529346797199852_1473548651551509",
+   "title": "Uluslararası Adalet Divanı: Myanmar Rohingyalılara karşı soykırım suçu işledi",
+   "at": "2026-11-19T14:08:05.868868+00:00",
+   "yazim": "claude",
+   "metin": "Uluslararası Adalet Divanı, Myanmar'ın Arakanlı Müslüman Rohingyalara karşı soykırım işlediğine hükmetti.\n\n— Mahkeme, BM'nin en yüksek yargı organı. Tarihinde ilk kez bir devleti soykırımdan sorumlu tuttu.\n\n— 2017'deki askeri operasyonlarda binlerce Rohingya öldürüldü, 700 binden fazla kişi Bangladeş'e kaçmak zorunda kaldı.\n\n— Karar kesin ve temyize kapalı. Ancak mahkemenin kararı zorla uygulatacak bir mekanizması yok. Myanmar uymazsa konu BM Güvenlik Konseyi'ne taşınabilir.\n\n— Myanmar'dan mağdurların güvenle geri dönmesini sağlaması ve zararları gidermesi istendi. Tazminat miktarı henüz belirlenmedi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/uad-myanmarin-arakanli-muslumanlara-karsi-soykirim-isledigine-hukmetti-963808.html",
+    "BBC Türkçe: https://www.bbc.com/turkce/articles/cj20q4p1g3p7o?at_medium=RSS&at_campaign=rss",
+    "DW Türkçe: https://www.dw.com/tr/uluslararası-adalet-divanından-emsal-karar-i̇lk-kez-bir-devlet-soykırımdan-sorumlu-tutuldu/a-79992218?maca=tur-rss-tur-all-1495-xml-mrss",
+    "Euronews: https://tr.euronews.com/2026/11/19/uluslararasi-adalet-divani-myanmar-rohingyalilara-karsi-soykirim-sucu-isledi",
+    "Milliyet: https://www.milliyet.com.tr/dunya/son-dakika-uluslararasi-adalet-divanindan-flas-karar-myanmar-arakanli-muslumanlara-karsi-soykirim-isledi-7703880",
+    "Evrensel: https://www.evrensel.net/haber/6010265/uluslararasi-adalet-divani-myanmar-rohingyalara-soykirim-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13593,7 +13626,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123412211292946712",
+   "since_id": "2123416813627203828",
    "started": true
   },
   "ajansmuhbir1923": {
