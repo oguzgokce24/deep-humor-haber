@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "12",
-    "budo",
-    "iptal",
-    "nun",
-    "sefer"
-   ],
-   "tok": [
-    "adala",
-    "akşam",
-    "arası",
-    "armut",
-    "bazı",
-    "belir",
-    "bilgi",
-    "bozca",
-    "budo",
-    "bursa",
-    "deniz",
-    "edild",
-    "engel",
-    "ferib",
-    "fırtı",
-    "gesta",
-    "gökçe",
-    "hatla",
-    "hattı",
-    "hava",
-    "iptal",
-    "işlet",
-    "kabat",
-    "kapsı",
-    "koşul",
-    "marma",
-    "mudan",
-    "neden",
-    "nun",
-    "olums",
-    "otobü",
-    "sabah",
-    "sebeb",
-    "sefer",
-    "var",
-    "yapıl",
-    "yüzün",
-    "çanak"
-   ],
-   "at": "2026-11-18T01:54:48.184239+00:00"
-  },
-  {
-   "fp": [
     "10",
     "470",
     "ayda",
@@ -10699,22 +10649,39 @@
     "öğren"
    ],
    "at": "2026-11-19T13:26:17.948875+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "2",
+    "eskiş",
+    "hafif",
+    "kişi",
+    "otomo",
+    "ticar",
+    "tırla",
+    "yaral",
+    "çarpı",
+    "öldü"
+   ],
+   "tok": [
+    "ağır",
+    "birin",
+    "durum",
+    "eskiş",
+    "feci",
+    "hafif",
+    "otomo",
+    "tanke",
+    "ticar",
+    "tırla",
+    "çarpı",
+    "öğren"
+   ],
+   "at": "2026-11-19T13:55:36.616446+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a4d69d1cb7",
-   "post_id": "529346797199852_1471473838425657",
-   "title": "Çatalca'da 'uyuşturucu' operasyonu: Belediye temizlik işçisi tutuklandı",
-   "at": "2026-11-17T12:53:11.562465+00:00",
-   "yazim": "claude",
-   "metin": "Çatalca'daki bir depoda 18 kilo 900 gram sıvı metamfetamin ele geçirildi.\n\n— Operasyon 12 Kasım'da, İstanbul Cumhuriyet Başsavcılığı'nın yürüttüğü soruşturma kapsamında yapıldı.\n— Depoda uyuşturucu yapımında kullanılan 25 litre 150 mililitre aseton da bulundu.\n— Operasyonda gözaltına alınan ve belediyede temizlik işçisi olarak çalıştığı öğrenilen bir kişi tutuklanarak cezaevine gönderildi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/catalca-da-uyusturucu-operasyonu-belediye-temizlik-iscisi-tutuklandi-2556867",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/usakta-uyusturucu-operasyonu-20-supheli-tutuklandi-4873524",
-    "Karar: https://www.karar.com/guncel-haberler/catalcada-depoya-uyusturucu-baskini-belediye-temizlik-iscisi-tutuklandi-2084635"
-   ]
-  },
   {
    "id": "741d45c454",
    "post_id": "529346797199852_1471484988424542",
@@ -13327,6 +13294,19 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/ankara/hatayda-kayip-olarak-aranan-kisinin-olduruldugu-belirlendi-3495440",
     "Sözcü: https://www.sozcu.com.tr/kayip-olarak-aranan-kisinin-olduruldugu-ortaya-cikti-7-gozalti-p382802"
    ]
+  },
+  {
+   "id": "4859786c43",
+   "post_id": "529346797199852_1473537194885988",
+   "title": "Eskişehir'de tırla otomobil çarpıştı: 1 kişi öldü, 1'i ağır 2 kişi yaralandı",
+   "at": "2026-11-19T13:55:36.616446+00:00",
+   "yazim": "claude",
+   "metin": "Eskişehir'de bir tırla hafif ticari araç çarpıştı, hafif ticari araçtaki 1 kişi hayatını kaybetti.\n\n— Kazada 2 kişi daha yaralandı.\n— Yaralılardan birinin durumunun ağır olduğu öğrenildi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/eskisehir/eskisehirde-tirla-carpisan-hafif-ticari-aractaki-1-kisi-oldu-2-kisi-yaralandi-3495436",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/eskisehir-seyitgazi-kara-yolunda-tanker-kazasi-1-olu-4874471",
+    "BirGün: https://www.birgun.net/haber/eskisehir-de-tirla-otomobil-carpisti-1-kisi-oldu-1-i-agir-2-kisi-yaralandi-747300"
+   ]
   }
  ],
  "fails": {
@@ -13613,7 +13593,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123405053251727610",
+   "since_id": "2123412211292946712",
    "started": true
   },
   "ajansmuhbir1923": {
