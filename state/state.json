@@ -2,63 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "cumhu",
-    "dan",
-    "erdoğ",
-    "fon",
-    "kötül",
-    "organ",
-    "sorul",
-    "tek",
-    "yapan"
-   ],
-   "tok": [
-    "akp",
-    "artır",
-    "aşkın",
-    "başın",
-    "bildi",
-    "bugün",
-    "cezal",
-    "dan",
-    "denet",
-    "değin",
-    "düzen",
-    "emekl",
-    "erdoğ",
-    "fon",
-    "grup",
-    "hazır",
-    "hesab",
-    "hesap",
-    "ilgil",
-    "iyile",
-    "kapsa",
-    "konuş",
-    "kötül",
-    "liral",
-    "milya",
-    "organ",
-    "parti",
-    "sene",
-    "skand",
-    "sorul",
-    "tamam",
-    "tek",
-    "topla",
-    "yakla",
-    "yapan",
-    "yapıl",
-    "yasa",
-    "yatır",
-    "ödeme",
-    "öneml"
-   ],
-   "at": "2026-11-18T11:07:54.714191+00:00"
-  },
-  {
-   "fp": [
     "depre",
     "dikka",
     "mevsi"
@@ -10904,21 +10847,74 @@
     "önünd"
    ],
    "at": "2026-11-19T23:04:41.544614+00:00"
+  },
+  {
+   "fp": [
+    "16",
+    "2",
+    "aralı",
+    "azalt",
+    "dinle",
+    "gün",
+    "hafta",
+    "hakkı",
+    "imzal",
+    "lula",
+    "saatl",
+    "silva",
+    "yasal",
+    "çalış"
+   ],
+   "tok": [
+    "6x1",
+    "adale",
+    "aralı",
+    "asker",
+    "azalt",
+    "başla",
+    "brezi",
+    "böyle",
+    "dayan",
+    "devle",
+    "dinle",
+    "divan",
+    "erdir",
+    "esası",
+    "gün",
+    "hafta",
+    "hakkı",
+    "hükme",
+    "hükmü",
+    "ilişk",
+    "imzal",
+    "ise",
+    "işled",
+    "lula",
+    "myanm",
+    "müslü",
+    "nin",
+    "nitel",
+    "organ",
+    "rohin",
+    "saatl",
+    "silva",
+    "siste",
+    "sona",
+    "soykı",
+    "suçu",
+    "ulusl",
+    "uygul",
+    "verdi",
+    "yargı",
+    "yasal",
+    "yönel",
+    "yükse",
+    "çalış"
+   ],
+   "at": "2026-11-19T23:17:24.344814+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "787772b069",
-   "post_id": "529346797199852_1471893431717031",
-   "title": "\"İsrail'i eleştirenleri susturma yasası\": İtalya'da tartışmalı antisemitizm düzenlemesi yasalaştı",
-   "at": "2026-11-17T22:29:03.725356+00:00",
-   "yazim": "claude",
-   "metin": "İtalya'da antisemitizmle mücadele adıyla hazırlanan bir düzenleme Temsilciler Meclisi'nde kabul edilerek yasalaştı; muhalefet ve insan hakları örgütleri bunu İsrail'e yönelik eleştirileri susturmak için bir araç olarak görüyor.\n\n— Tartışmalı \"DDL 1004\" sayılı düzenleme Meclis'te kabul edildi.\n— Muhalefet ve insan hakları örgütleri, yasanın İsrail'e yönelik eleştirileri sansürleyebileceğini savunuyor.\n— Milano'da yapılan protestoya çok sayıda İtalyan Yahudi ve sivil toplum kuruluşu da tepki gösterdi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/italyada-tartismali-antisemitizm-duzenlemesi-parlamentoda-onaylanarak-yasalasti/4128386",
-    "BirGün: https://www.birgun.net/haber/israil-i-elestirenleri-susturma-yasasi-italya-da-tartismali-antisemitizm-duzenlemesi-yasalasti-747001"
-   ]
-  },
   {
    "id": "4f7f444c91",
    "post_id": "529346797199852_1471899625049745",
@@ -13547,6 +13543,17 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/fransada-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasari-protesto-edildi/4131590",
     "Evrensel: https://www.evrensel.net/haber/6010329/fransa-da-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasari-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "73e647a5a3",
+   "post_id": "529346797199852_1473949941511380",
+   "title": "Lula da Silva imzaladı: Haftada 2 gün dinlenme hakkı yasallaştı, çalışma saatleri de 16 Aralık'ta azaltılacak",
+   "at": "2026-11-19T23:17:24.344814+00:00",
+   "yazim": "claude",
+   "metin": "Uluslararası Adalet Divanı, Myanmar'ın 2017'de Rohingya Müslümanlarına yönelik askeri operasyonlarda soykırım suçu işlediğine hükmetti.\n\n— BM'nin en yüksek yargı organı olan mahkeme bu kararı verdi.\n\n— Böylece Rohingyalara yönelik askeri operasyonlar, uluslararası mahkemenin hükmüyle soykırım olarak nitelendirildi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010332/lula-da-silva-imzaladi-haftada-2-gun-dinlenme-hakki-yasallasti-calisma-saatleri-de-16-aralik-ta-azaltilacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13789,12 +13796,10 @@
   "1db3358e3a": 1,
   "3c7845ced1": 1,
   "ee20df3dfe": 1,
-  "f8f419615c": 1
+  "f8f419615c": 1,
+  "69169146da": 1
  },
  "fail_log": [
-  "2026-11-19T05:18 Hicri İzgören: Sorgulamak, en başta kendini sorgulamaktır -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:18 Hicri İzgören: Sorgulamak, en başta kendini sorgulamaktır -> ValueError: yanıt okunamadı",
-  "2026-11-19T07:11 19 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Z -> ValueError: yanıt okunamadı",
   "2026-11-19T07:11 19 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Z -> ValueError: yanıt okunamadı",
   "2026-11-19T07:23 Sean Strickland: “Genç erkekleri anlıyorum. 18 yaşından 20’l -> ValueError: yanıt okunamadı",
   "2026-11-19T07:23 Sean Strickland: “Genç erkekleri anlıyorum. 18 yaşından 20’l -> ValueError: yanıt okunamadı",
@@ -13831,7 +13836,10 @@
   "2026-11-19T21:59 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
   "2026-11-19T21:59 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
   "2026-11-19T21:59 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
-  "2026-11-19T23:04 Fransa'da kolluk kuvvetlerine meşru müdafaa \"zırhı\" sağlayan -> ValueError: yanıt okunamadı"
+  "2026-11-19T23:04 Fransa'da kolluk kuvvetlerine meşru müdafaa \"zırhı\" sağlayan -> ValueError: yanıt okunamadı",
+  "2026-11-19T23:17 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı",
+  "2026-11-19T23:17 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı",
+  "2026-11-19T23:17 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
