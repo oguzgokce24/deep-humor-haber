@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "7",
-    "ambul",
-    "işçil",
-    "kişi",
-    "minib",
-    "otomo",
-    "tarım",
-    "taşıy",
-    "tokat",
-    "yaral",
-    "çarpı"
-   ],
-   "tok": [
-    "acil",
-    "ambul",
-    "baraj",
-    "beled",
-    "berke",
-    "bilin",
-    "devle",
-    "dönen",
-    "düziç",
-    "ekipl",
-    "giriş",
-    "gitti",
-    "gökça",
-    "hasad",
-    "hasta",
-    "henüz",
-    "ihbar",
-    "ilçes",
-    "itfai",
-    "işçil",
-    "kaldı",
-    "keşan",
-    "köyü",
-    "mevki",
-    "minib",
-    "müdah",
-    "neden",
-    "nin",
-    "olay",
-    "osman",
-    "otomo",
-    "sağlı",
-    "tabak",
-    "tarım",
-    "taşıy",
-    "tokat",
-    "vatan",
-    "yerin",
-    "yolun",
-    "zeyti",
-    "çarpı",
-    "çevre"
-   ],
-   "at": "2026-11-17T16:50:07.862166+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "nükle"
    ],
@@ -10826,20 +10765,70 @@
     "şidde"
    ],
    "at": "2026-11-19T04:37:20.602703+00:00"
+  },
+  {
+   "fp": [
+    "cadde",
+    "kaldı",
+    "osman",
+    "otomo",
+    "sağan",
+    "sokak",
+    "yolda"
+   ],
+   "tok": [
+    "akp",
+    "alt",
+    "antal",
+    "beled",
+    "birik",
+    "büyük",
+    "büşra",
+    "cadde",
+    "chp",
+    "dair",
+    "den",
+    "değiş",
+    "doldu",
+    "döndü",
+    "etkis",
+    "gelmi",
+    "geniş",
+    "geçec",
+    "geçit",
+    "göle",
+    "günde",
+    "güçlü",
+    "iddia",
+    "istif",
+    "kaldı",
+    "kalır",
+    "kasım",
+    "katıl",
+    "oluşt",
+    "osman",
+    "otomo",
+    "parti",
+    "rögar",
+    "sağan",
+    "sağla",
+    "sokak",
+    "sürül",
+    "taştı",
+    "topla",
+    "ulaşı",
+    "vekil",
+    "vurdu",
+    "yapıl",
+    "yağış",
+    "yolda",
+    "öne",
+    "özdem"
+   ],
+   "at": "2026-11-19T04:50:04.332344+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4c7076b99f",
-   "post_id": "529346797199852_1471071025132605",
-   "title": "Tekstil ve hazır giyimde daralma sürüyor: Binlerce kişi işsiz kaldı",
-   "at": "2026-11-17T03:31:43.398854+00:00",
-   "yazim": "claude",
-   "metin": "Tekstil ve hazır giyim sektöründe 2026'nın ilk sekiz ayında 2 bin 818 şirket kapandı, 25 bin 520 kişi işsiz kaldı.\n\n— Üretim ve istihdamdaki daralma büyümeye devam ediyor.\n\n— Bu rakamlar SGK verilerinden geliyor ve iki sektördeki durumun ağırlaştığını gösteriyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tekstil-ve-hazir-giyimde-daralma-suruyor-binlerce-kisi-issiz-kaldi-746808"
-   ]
-  },
   {
    "id": "bb347f34d7",
    "post_id": "529346797199852_1471079231798451",
@@ -13425,6 +13414,19 @@
     "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-lodos-denizi-kabartti-dev-dalgalar-olustu-963744.html",
     "Yeni Şafak: https://www.yenisafak.com/gundem/uskudar-sahilinde-dev-dalgalar-yuruyus-yollarini-asti-4874163",
     "Evrensel: https://www.evrensel.net/haber/6010167/istanbul-da-lodos-sahili-vurdu-uskudar-da-dev-dalgalar-havadan-goruntulendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "dc9bebc3f2",
+   "post_id": "529346797199852_1473133904926317",
+   "title": "Osmaniye'de cadde ve sokaklarda su birikintileri: Alt geçitler doldu, araçlar yolda kaldı",
+   "at": "2026-11-19T04:50:04.332344+00:00",
+   "yazim": "claude",
+   "metin": "Antalya Büyükşehir Belediye Başkan Vekili Büşra Özdemir CHP'den istifa etti.\n\n— Özdemir'in 19 Kasım'da yapılacak AKP Genişletilmiş İl Başkanları Toplantısı'na katılarak AKP'ye geçeceği öne sürülmüştü.\n\n— Parti değişikliğine dair iddialar, istifadan önce gündeme gelmişti.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/osmaniyeyi-saganak-vurdu-rogarlar-tasti-araclar-yolda-kaldi-963749.html",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/osmaniyede-saganak-cadde-ve-sokaklari-gole-cevirdi-4874162",
+    "Evrensel: https://www.evrensel.net/haber/6010170/osmaniye-de-cadde-ve-sokaklarda-su-birikintileri-alt-gecitler-doldu-araclar-yolda-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
