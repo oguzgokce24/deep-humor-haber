@@ -10786,22 +10786,65 @@
     "üzeri"
    ],
    "at": "2026-11-19T15:49:06.300643+00:00"
+  },
+  {
+   "fp": [
+    "dem",
+    "den",
+    "izlem",
+    "karar",
+    "komis",
+    "parti",
+    "çağrı"
+   ],
+   "tok": [
+    "almas",
+    "ayşeg",
+    "barış",
+    "bulun",
+    "dem",
+    "demok",
+    "den",
+    "değer",
+    "doğan",
+    "düşün",
+    "eleşt",
+    "gelec",
+    "genel",
+    "gerek",
+    "grubu",
+    "gözde",
+    "isted",
+    "isten",
+    "izlem",
+    "katkı",
+    "komis",
+    "mecli",
+    "medya",
+    "nin",
+    "parti",
+    "riski",
+    "sağla",
+    "sözcü",
+    "sürec",
+    "taşıd",
+    "taşıy",
+    "verme",
+    "vurgu",
+    "yanıt",
+    "yenid",
+    "yer",
+    "zayıf",
+    "zemin",
+    "çağrı",
+    "özel",
+    "özgür",
+    "üye"
+   ],
+   "at": "2026-11-19T16:01:05.352420+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4e8a3ac009",
-   "post_id": "529346797199852_1471596805080027",
-   "title": "Mustafa Sandal’ın eşi Melis Sandal’dan 4,3 milyar TL’lik \"gönüllü iade\"",
-   "at": "2026-11-17T15:21:50.130707+00:00",
-   "yazim": "claude",
-   "metin": "Mustafa Sandal'ın eşine ait 4 milyar 316 milyon lira, fon soruşturması kapsamında geri kazanım hesaplarına aktarıldı.\n\n— Para, A1 Capital Yatırım Menkul Değerler'deki hesaplardaydı ve işlemleri daha önce ertelenmişti.\n— Soruşturmada, tasfiye kararı verilen yatırım fonlarından 11 milyar liradan fazla para çekildiği öne sürülüyor.\n— Eşi ve babası hakkında 29 Eylül'de yakalama kararı çıkarıldı, mal varlıklarına el konuldu.\n— Ekim ayında avukatları aracılığıyla fon kazançlarını iade etmek için başvurmuşlardı.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/melis-sandala-ait-43-milyar-tl-geri-kazanim-hesaplarina-aktarildi-1751329",
-    "Evrensel: https://www.evrensel.net/haber/6009959/mustafa-sandal-in-esi-melis-sandal-dan-43-milyar-tl-lik-gonullu-iade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/guncel-haberler/fon-vurgununda-melis-sandaldan-43-milyar-liralik-geri-odeme-2084683"
-   ]
-  },
   {
    "id": "0abf9966b3",
    "post_id": "529346797199852_1471608201745554",
@@ -13413,6 +13456,19 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/iran-nukleer-denetimlerin-durma-nedenini-abd-ve-israil-saldirilarina-bagladi-963853.html",
     "BirGün: https://www.birgun.net/haber/iran-dan-uaea-ya-tepki-abd-ve-israil-saldirilari-gormezden-geliniyor-747317"
    ]
+  },
+  {
+   "id": "75c9677e8a",
+   "post_id": "529346797199852_1473646734875034",
+   "title": "DEM Parti’den Özgür Özel’e “İzleme Komisyonu kararını gözden geçirme” çağrısı",
+   "at": "2026-11-19T16:01:05.352420+00:00",
+   "yazim": "claude",
+   "metin": "DEM Parti Sözcüsü Ayşegül Doğan, YENİ Parti'nin İzleme Komisyonu'na üye vermeme kararının yeniden değerlendirilmesini istedi.\n\n— Doğan, Özgür Özel'in eleştirilerinin sürecin demokratik zeminini zayıflatma riski taşıdığını söyledi.\n— Komisyonda Meclis'te grubu bulunan tüm partilerin yer alması gerektiğini vurguladı.\n\nAyşegül Doğan:\n\n“Yeni Parti'nin kararını yeniden değerlendirmesinin Türkiye'nin barışına ve demokratik geleceğine katkı sağlayacağını düşünüyoruz.”",
+   "sources": [
+    "Medyascope: https://medyascope.tv/2026/11/19/dem-partiden-ozgur-ozele-izleme-komisyonu-kararini-gozden-gecirme-cagrisi/",
+    "BirGün: https://www.birgun.net/haber/dem-parti-den-yeni-parti-nin-komisyon-kararina-yanit-surecin-demokratik-zeminini-zayiflatma-riski-tasiyor-747299",
+    "Karar: https://www.karar.com/guncel-haberler/dem-partiden-yeni-partiye-izleme-komisyonu-cagrisi-kararinizi-yeniden-2085129"
+   ]
   }
  ],
  "fails": {
@@ -13655,7 +13711,6 @@
   "1db3358e3a": 1
  },
  "fail_log": [
-  "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
@@ -13694,12 +13749,13 @@
   "2026-11-19T13:01 Güllü dosyasında ek karar: Sultan Nur Ulu'ya yurt dışına çık -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-19T15:10 Başsavcılık’tan SPK’ya yeni müzekkere: “Tahliye vaadiyle 8 m -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-19T15:49 İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-19T15:49 İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-19T15:49 İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-19T16:01 DEM Parti’den Özgür Özel’e “İzleme Komisyonu kararını gözden -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123442420549616050",
+   "since_id": "2123445793482743888",
    "started": true
   },
   "ajansmuhbir1923": {
