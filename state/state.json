@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "anlaş",
-    "gazet",
-    "resmi",
-    "tarih",
-    "yürür"
-   ],
-   "tok": [
-    "ait",
-    "alanl",
-    "anlaş",
-    "asker",
-    "avrup",
-    "belir",
-    "birle",
-    "birli",
-    "deste",
-    "diğer",
-    "düzen",
-    "ekim",
-    "eylül",
-    "farkl",
-    "gazet",
-    "geçic",
-    "girdi",
-    "girec",
-    "hava",
-    "ilişk",
-    "imzal",
-    "kapsı",
-    "katar",
-    "komis",
-    "konuş",
-    "mille",
-    "nin",
-    "nın",
-    "otomo",
-    "perso",
-    "resmi",
-    "serbe",
-    "tarih",
-    "ticar",
-    "ukray",
-    "ulusl",
-    "yapıl",
-    "yayım",
-    "yürür"
-   ],
-   "at": "2026-11-18T06:44:44.415040+00:00"
-  },
-  {
-   "fp": [
     "altın",
     "cenne",
     "dökül",
@@ -10784,20 +10732,88 @@
     "çıktı"
    ],
    "at": "2026-11-19T18:42:14.948867+00:00"
+  },
+  {
+   "fp": [
+    "diye",
+    "dışın",
+    "emir",
+    "fon",
+    "kaçır",
+    "parti",
+    "soygu",
+    "yurt"
+   ],
+   "tok": [
+    "adil",
+    "aktar",
+    "arınc",
+    "bin",
+    "birik",
+    "den",
+    "devre",
+    "devri",
+    "diye",
+    "dönem",
+    "dışın",
+    "ebube",
+    "emir",
+    "engel",
+    "erişi",
+    "eylül",
+    "fon",
+    "fonla",
+    "genel",
+    "grup",
+    "göre",
+    "gürka",
+    "hisse",
+    "iddia",
+    "ifade",
+    "işçis",
+    "kaçır",
+    "kulla",
+    "kurul",
+    "liray",
+    "murat",
+    "müdür",
+    "nın",
+    "olmad",
+    "ortay",
+    "paray",
+    "parti",
+    "payla",
+    "satıp",
+    "sağlı",
+    "skand",
+    "sokul",
+    "sonra",
+    "sorum",
+    "soygu",
+    "spekü",
+    "sürdü",
+    "telek",
+    "tera",
+    "vakfı",
+    "vakıf",
+    "yalnı",
+    "yardı",
+    "yatır",
+    "yazdı",
+    "yunus",
+    "yurt",
+    "yönet",
+    "çarpı",
+    "çıkar",
+    "öne",
+    "üyesi",
+    "şahin",
+    "şişir"
+   ],
+   "at": "2026-11-19T18:54:49.992267+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ca35d1bddf",
-   "post_id": "529346797199852_1471723618400679",
-   "title": "RSF, Türkiye'de dört eleştirel kanal saymıştı: Geriye kaldı bir",
-   "at": "2026-11-17T17:55:38.607861+00:00",
-   "yazim": "claude",
-   "metin": "Sınır Tanımayan Gazeteciler'in (RSF) eleştirel kanal olarak saydığı dört yayın kuruluşunun üçüne kayyım atandı.\n\n— Sözcü TV ve sozcu.com.tr'ye bugün (17 Kasım) mahkeme kararıyla TMSF kayyım olarak atandı. Halk TV'ye 14 Ekim'de, Tele1'e 24 Ekim 2025'te kayyım atanmıştı.\n\n— RSF, Türkiye'yi 2026 Dünya Basın Özgürlüğü Endeksi'nde 180 ülke arasında 163'üncü sıraya yerleştirmişti.\n\n— Türkiye Gazeteciler Sendikası'na göre 13 Kasım itibarıyla Türkiye'de 17 gazeteci ve medya çalışanı tutuklu.",
-   "sources": [
-    "Diken: https://www.diken.com.tr/rsf-turkiyede-dort-elestirel-kanal-saymisti-geriye-kaldi-bir/?utm_source=rss&utm_medium=rss&utm_campaign=rsf-turkiyede-dort-elestirel-kanal-saymisti-geriye-kaldi-bir"
-   ]
-  },
   {
    "id": "aad2a35547",
    "post_id": "529346797199852_1471732025066505",
@@ -13405,6 +13421,18 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/fatihte-kavga-sirasinda-bicaklanan-motokurye-agir-yaralandi-3495571",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-cadde-ortasinda-bicakli-kavga-1-kurye-agir-yaralandi-2557667"
    ]
+  },
+  {
+   "id": "6c25312533",
+   "post_id": "529346797199852_1473784771527897",
+   "title": "YENİ Partili Emir'den çarpıcı 'fon' iddiası: 'Fon soyguncuları yurt dışına kaçırabilsin diye...'",
+   "at": "2026-11-19T18:54:49.992267+00:00",
+   "yazim": "claude",
+   "metin": "YENİ Parti Grup Başkanvekili Murat Emir, Türk Telekom vakfındaki fon iddiası için:\n\n“Fon soyguncuları şişirdikleri hisseleri satıp parayı yurt dışına kaçırabilsin diye 50 bin Türk Telekom işçisinin birikimi devreye sokulmuş.”\n\n— Emir'in iddiasına göre Türk Telekom Yardımlaşma ve Sağlık Vakfı, 8 Eylül'de 212 milyon lirayı Tera Fon ve Adil Yatırım gibi spekülatif fonlara aktardı.\n\n— Emir, sorumluluğun yalnızca vakıf yönetiminde olmadığını; Türk Telekom Genel Müdürü Ebubekir Şahin ile sonradan tutuklanan dönemin yönetim kurulu üyesi Yunus Arıncı'nın da olduğunu yazdı.\n\n— Paylaşımında, skandalı ortaya çıkaran Devrim Gürkan'ın X erişiminin engellendiğini de öne sürdü.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/yeni-partili-emir-den-carpici-fon-iddiasi-fon-soygunculari-yurt-disina-kacirabilsin-diye-2557687",
+    "Evrensel: https://www.evrensel.net/haber/6010305/yeni-partili-murat-emir-fon-soygunculari-yurt-disina-kacirabilsin-diye-50-bin-turk-telekom-iscisinin-birikimi-devreye-sokulmus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13693,7 +13721,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123477912070565913",
+   "since_id": "2123489510545821737",
    "started": true
   },
   "ajansmuhbir1923": {
