@@ -10737,20 +10737,89 @@
     "şunu"
    ],
    "at": "2026-11-19T00:30:12.339662+00:00"
+  },
+  {
+   "fp": [
+    "altan",
+    "aytaç",
+    "duyur",
+    "fastb",
+    "fıat",
+    "satış",
+    "türki",
+    "çıkac"
+   ],
+   "tok": [
+    "adedi",
+    "altan",
+    "aralı",
+    "aytaç",
+    "ayına",
+    "ayınd",
+    "aşan",
+    "başlı",
+    "benzi",
+    "beygi",
+    "bin",
+    "binde",
+    "bitir",
+    "den",
+    "direk",
+    "doblo",
+    "duyur",
+    "dönem",
+    "egea",
+    "eklen",
+    "elekt",
+    "fastb",
+    "fazla",
+    "fuarı",
+    "fıat",
+    "geliy",
+    "grizz",
+    "harit",
+    "hedef",
+    "hibri",
+    "ilerl",
+    "itiba",
+    "lokom",
+    "manue",
+    "marka",
+    "model",
+    "motor",
+    "nda",
+    "netle",
+    "nun",
+    "nın",
+    "olaca",
+    "otoma",
+    "otomo",
+    "paris",
+    "pazar",
+    "rakam",
+    "satıl",
+    "satış",
+    "scudo",
+    "seçen",
+    "showr",
+    "sonla",
+    "sunul",
+    "suv",
+    "tam",
+    "tanıt",
+    "ulaşt",
+    "yanın",
+    "yerin",
+    "yerli",
+    "yetiş",
+    "yol",
+    "çıkac",
+    "üreti"
+   ],
+   "at": "2026-11-19T00:46:51.230126+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "802f35a7df",
-   "post_id": "529346797199852_1470900261816348",
-   "title": "180 milyon dolarlık van Gogh tablosuna itiraz: 'Nazi baskısıyla satıldı'",
-   "at": "2026-11-16T23:04:29.226185+00:00",
-   "yazim": "claude",
-   "metin": "New York'taki Sotheby's müzayedesine çıkacak Van Gogh'un 180 milyon dolarlık \"Çiçek Açmış Kestane Ağaçları\" tablosuna, Yahudi eski sahibinin mirasçıları itiraz etti.\n\n— Mirasçılar, tablonun 1936'da \"Nazi baskısıyla\" satıldığını öne sürüyor.\n\n— Sotheby's, baskıyla satıldığına dair bir bulguya rastlamadığını, ama mirasçılarla \"karşılıklı tatmin edici bir çözüm\" aradığını söylüyor.\n\n— Uzlaşma sağlanamazsa tablo çarşamba günkü satıştan çekilebilir.",
-   "sources": [
-    "Diken: https://www.diken.com.tr/180-milyon-dolarlik-van-gogh-tablosuna-itiraz-nazi-baskisiyla-satildi/?utm_source=rss&utm_medium=rss&utm_campaign=180-milyon-dolarlik-van-gogh-tablosuna-itiraz-nazi-baskisiyla-satildi"
-   ]
-  },
   {
    "id": "12a9b8e532",
    "post_id": "529346797199852_1470908328482208",
@@ -13340,6 +13409,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/spk-hukuk-isleri-daire-baskani-toremis-ten-13-uncu-madde-aciklamasi-suc-olan-fiiller-icin-dokunulmazlik-taninmiyor-747220"
    ]
+  },
+  {
+   "id": "88c69ae797",
+   "post_id": "529346797199852_1472970664942641",
+   "title": "Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'de satışa çıkacak",
+   "at": "2026-11-19T00:46:51.230126+00:00",
+   "yazim": "claude",
+   "metin": "FIAT, Egea'nın üretimini 2026 itibarıyla bitiriyor; yerine aralık ayında Türkiye'de satışa çıkacak Fastback geliyor.\n\n— FIAT Türkiye Marka Direktörü Altan Aytaç, Türkiye'de 750 binden fazla satılan Egea'nın son araçlarının showroomlara ulaştığını söyledi.\n\n— Fastback'in yanında SUV modeli Grizzly de satışa sunulacak. Hedef, Fastback'i aralık ayına yetiştirmek.\n\n— Fastback'te 100 beygirlik 1.2 benzinli manuel, 145 beygirlik otomatik hibrit motor ve ilerleyen dönemde eklenecek tam elektrikli seçenek olacak.\n\n— Doblo'nun yerli üretimi 2026'da başlıyor. 2027'den itibaren Doblo ve Scudo Türkiye'de üretilecek.",
+   "sources": [
+    "Karar: https://www.karar.com/ekonomi-haberleri/fiat-fastback-turkiyeye-ne-zaman-gelecek-fiat-fastback-fiyati-ve-2084981"
+   ]
   }
  ],
  "fails": {
@@ -13574,8 +13654,6 @@
   "43b02bf46b": 1
  },
  "fail_log": [
-  "2026-11-18T18:37 ABD Ulusal İstihbarat Direktörü: Son dönemdeki kesintiler \"k -> ValueError: yanıt okunamadı",
-  "2026-11-18T18:50 COP31'de astım oturumu: 'İklim değişikliği aynı zamanda sağl -> ValueError: yanıt okunamadı",
   "2026-11-18T18:50 COP31'de astım oturumu: 'İklim değişikliği aynı zamanda sağl -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T19:36 İmamoğlu: Eğer zalim ısrarla zulme devam ediyorsa bil ki son -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T20:40 Rockstar Games, GTA 6’da oyuncuların seks işçisi kiralayamay -> ValueError: yanıt okunamadı",
@@ -13613,7 +13691,9 @@
   "2026-11-19T00:43 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
   "2026-11-19T00:43 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
   "2026-11-19T00:43 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
-  "2026-11-19T00:43 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı"
+  "2026-11-19T00:43 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:46 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-19T00:46 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
