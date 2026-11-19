@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "hukuk",
-    "mahke",
-    "memur",
-    "satış",
-    "sulh"
-   ],
-   "tok": [
-    "ada",
-    "alanı",
-    "alıyo",
-    "arsa",
-    "arsan",
-    "artır",
-    "ayrıl",
-    "bakır",
-    "başla",
-    "bina",
-    "büyük",
-    "gires",
-    "görün",
-    "hafta",
-    "hukuk",
-    "ikinc",
-    "ilçes",
-    "imar",
-    "kurfa",
-    "kısmı",
-    "lirad",
-    "mahal",
-    "mart",
-    "memur",
-    "metre",
-    "nde",
-    "parse",
-    "planı",
-    "satış",
-    "sulh",
-    "sürec",
-    "tamam",
-    "taşkı",
-    "tesis",
-    "turiz",
-    "yer",
-    "yok",
-    "çıkar",
-    "üzeri",
-    "şile",
-    "şubat"
-   ],
-   "at": "2026-11-18T03:35:21.047694+00:00"
-  },
-  {
-   "fp": [
     "daire",
     "icra",
     "küçük",
@@ -10687,24 +10634,104 @@
     "şekil"
    ],
    "at": "2026-11-19T15:23:25.943736+00:00"
+  },
+  {
+   "fp": [
+    "8",
+    "başsa",
+    "davas",
+    "diyen",
+    "dolan",
+    "dolar",
+    "fon",
+    "ibb",
+    "itira",
+    "milyo",
+    "müzek",
+    "soygu",
+    "spk",
+    "tahli",
+    "tan",
+    "vaadi",
+    "çıktı"
+   ],
+   "tok": [
+    "başsa",
+    "davas",
+    "diyen",
+    "dolan",
+    "fon",
+    "ibb",
+    "itira",
+    "medya",
+    "müzek",
+    "soygu",
+    "spk",
+    "tahli",
+    "tan",
+    "vaadi",
+    "çıktı"
+   ],
+   "at": "2026-11-19T15:36:06.044259+00:00"
+  },
+  {
+   "fp": [
+    "bazı",
+    "bozca",
+    "ferib",
+    "gökçe",
+    "hattı",
+    "iptal",
+    "sefer"
+   ],
+   "tok": [
+    "adala",
+    "bazı",
+    "bozca",
+    "dan",
+    "den",
+    "deniz",
+    "değiş",
+    "duyur",
+    "ege",
+    "engel",
+    "etmes",
+    "ferib",
+    "fırtı",
+    "gesta",
+    "geyik",
+    "gidec",
+    "gitti",
+    "gökçe",
+    "günce",
+    "günü",
+    "hattı",
+    "hava",
+    "ilçel",
+    "iptal",
+    "kabat",
+    "kasım",
+    "kuzey",
+    "ndeki",
+    "neden",
+    "nin",
+    "olums",
+    "planl",
+    "saat",
+    "sefer",
+    "takip",
+    "ulaşı",
+    "yapıl",
+    "yarın",
+    "yolcu",
+    "çanak",
+    "öneml",
+    "şartl"
+   ],
+   "at": "2026-11-19T15:36:12.373988+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ece6c36840",
-   "post_id": "529346797199852_1471576768415364",
-   "title": "Gökçeada ve Bozcaada hatlarındaki bazı feribot seferleri iptal edildi",
-   "at": "2026-11-17T14:56:19.363796+00:00",
-   "yazim": "claude",
-   "metin": "Kuzey Ege'deki kötü hava nedeniyle Gökçeada ve Bozcaada'ya yarın (18 Kasım) yapılacak bazı feribot seferleri iptal edildi.\n\n— Meteoroloji, bölgede güney ve güneybatıdan kuvvetli rüzgar bekliyor, dalga boyunun yer yer 3 metreye çıkabileceğini söylüyor.\n\n— GESTAŞ, planlı diğer seferlerin hava şartları yüzünden yapılamayacağını duyurdu.\n\n— Kabatepe-Gökçeada hattında Kabatepe'den 09.00 ve 21.00, Gökçeada'dan 07.00 ve 19.00 seferleri yapılacak.\n\n— Geyikli-Bozcaada hattında Geyikli'den 08.00 ve 11.00, Bozcaada'dan 07.00 ve 10.00 seferleri yapılacak.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/kuzey-egede-bazi-feribot-seferleri-iptal-edildi-963577.html",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/canakkale/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-yarin-iptal-edildi-3494470",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-yarin-iptal-edildi-2556941",
-    "BirGün: https://www.birgun.net/haber/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-iptal-edildi-746963",
-    "Diken: https://www.diken.com.tr/bazi-gokceada-ve-bozcaada-seferleri-iptal/?utm_source=rss&utm_medium=rss&utm_campaign=bazi-gokceada-ve-bozcaada-seferleri-iptal"
-   ]
-  },
   {
    "id": "35dc511ed9",
    "post_id": "529346797199852_1471587395080968",
@@ -13317,6 +13344,21 @@
     "BirGün: https://www.birgun.net/haber/murat-agirel-in-tutukluluguna-iliskin-yeni-gelisme-747312",
     "Karar: https://www.karar.com/guncel-haberler/murat-agirelin-avukati-aymye-basvurduklarini-acikladi-2085145"
    ]
+  },
+  {
+   "id": "236fb32265",
+   "post_id": "529346797199852_1473625558210485",
+   "title": "Bozcaada ve Gökçeada hattındaki bazı feribot seferleri iptal edildi",
+   "at": "2026-11-19T15:36:12.373988+00:00",
+   "yazim": "claude",
+   "metin": "Çanakkale'nin Bozcaada ve Gökçeada ilçelerine 20 Kasım günü planlanan bazı feribot seferleri, olumsuz hava şartları nedeniyle iptal edildi.\n\n— Gestaş Deniz Ulaşım AŞ, Kuzey Ege Denizi'ndeki fırtına nedeniyle seferlerde değişikliğe gittiğini duyurdu.\n— Geyikli-Bozcaada hattında Geyikli'den saat 15.00, Bozcaada'dan saat 14.00 seferleri iptal edildi.\n— Kabatepe-Gökçeada hattında Kabatepe'den saat 13.00, Gökçeada'dan saat 11.00 seferleri iptal edildi.\n— Adalara gidecek yolcuların güncel sefer duyurularını takip etmesi önemli.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/kabatepe-gokceada-hattindaki-iki-feribot-seferi-yarin-yapilamayacak/4131071",
+    "Sözcü: https://www.sozcu.com.tr/gokceada-ve-bozcaada-da-feribot-seferlerine-firtina-engeli-p382833",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bozcaada-ve-gokceada-hattindaki-bazi-feribot-seferleri-iptal-edildi-2557650",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/bozcaada-ve-gokceada-feribot-seferleri-iptal-mi-4874521",
+    "Karar: https://www.karar.com/sehir-haberleri/bozcaada-ve-gokceadaya-bazi-feribot-seferleri-iptal-edildi-2085140"
+   ]
   }
  ],
  "fails": {
@@ -13556,8 +13598,7 @@
   "e52072f896": 2,
   "9644c4a6ee": 1,
   "51b0043ff3": 1,
-  "1db3358e3a": 1,
-  "47a2800cb1": 3
+  "1db3358e3a": 1
  },
  "fail_log": [
   "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
@@ -13604,7 +13645,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123435149404553310",
+   "since_id": "2123439053349478907",
    "started": true
   },
   "ajansmuhbir1923": {
