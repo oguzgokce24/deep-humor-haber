@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "5",
-    "9",
-    "bulga",
-    "büyük",
-    "depre",
-    "filib",
-    "hisse",
-    "isran",
-    "roman"
-   ],
-   "tok": [
-    "aland",
-    "algıl",
-    "bazı",
-    "belir",
-    "bilin",
-    "bulga",
-    "bölge",
-    "bükre",
-    "büyük",
-    "den",
-    "depre",
-    "derin",
-    "doğus",
-    "fazla",
-    "filib",
-    "geces",
-    "geldi",
-    "geniş",
-    "gerçe",
-    "hafif",
-    "hisse",
-    "ila",
-    "isran",
-    "kasım",
-    "kayde",
-    "kesim",
-    "kilom",
-    "meyda",
-    "moldo",
-    "nın",
-    "roman",
-    "saatl",
-    "sarsı",
-    "sıra",
-    "sırbi",
-    "ukray",
-    "vranc",
-    "yakla",
-    "yanı",
-    "yerel",
-    "yerin",
-    "çarşa",
-    "ülken",
-    "üssü",
-    "şekil"
-   ],
-   "at": "2026-11-18T05:02:30.531812+00:00"
-  },
-  {
-   "fp": [
     "14",
     "baskı",
     "bitmi",
@@ -10808,23 +10746,77 @@
     "şekil"
    ],
    "at": "2026-11-19T16:51:55.144689+00:00"
+  },
+  {
+   "fp": [
+    "ayrıl",
+    "bırak",
+    "düzey",
+    "genel",
+    "görev",
+    "kayyu",
+    "sonra",
+    "sözcü",
+    "yayın",
+    "yönet",
+    "üst"
+   ],
+   "tok": [
+    "ardın",
+    "atana",
+    "atanm",
+    "ayrıl",
+    "ayı",
+    "belir",
+    "bırak",
+    "ceza",
+    "com",
+    "deste",
+    "devre",
+    "düzen",
+    "düzey",
+    "ercüm",
+    "eylül",
+    "gelen",
+    "genel",
+    "grubu",
+    "görev",
+    "görüş",
+    "hakan",
+    "hakim",
+    "halk",
+    "hasta",
+    "inter",
+    "isiml",
+    "istif",
+    "işley",
+    "kasım",
+    "katıl",
+    "kayyu",
+    "kayyı",
+    "kurum",
+    "medya",
+    "nden",
+    "nin",
+    "nün",
+    "olaca",
+    "sites",
+    "sonra",
+    "sonun",
+    "sulh",
+    "sözcü",
+    "tmsf",
+    "verdi",
+    "yayın",
+    "yaşan",
+    "yönet",
+    "çıktı",
+    "üst"
+   ],
+   "at": "2026-11-19T17:08:57.240355+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7977f35b6c",
-   "post_id": "529346797199852_1471648925074815",
-   "title": "Apple'a Paris'te dava: iPhone'larda planlı eskitme iddiası",
-   "at": "2026-11-17T16:24:37.209544+00:00",
-   "yazim": "claude",
-   "metin": "Apple, bazı iPhone modelleriyle ilgili \"planlı eskitme\" iddiasıyla Paris'te yargılanacak.\n\n— Şirkete, yetkili servis dışındaki onarımları engelleyerek bazı telefonların ömrünü kısalttığı iddia ediliyor.\n— Davadaki modeller arasında iPhone XS, iPhone 12, 13, 14 ve 15 serileri ile iPhone SE var.\n— Duruşma 17 Haziran'da başlayacak. Apple suçlamaları \"temelsiz\" bulduğunu açıklayıp şiddetle itiraz ediyor.\n— Suçlu bulunursa 300 bin euroya kadar para cezası ve yıllık cironun yüzde 5'ine kadar ek ceza verilebilecek.\n— Apple, 2021'de eski iPhone'ların yavaşlaması konusunda kullanıcıları yeterince bilgilendirmediği için Fransa'da 25 milyon euro ceza ödemişti.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/apple-iphonelarda-planli-eskitme-uyguladigi-iddiasiyla-fransada-yargilanacak-963565.html",
-    "Euronews: https://tr.euronews.com/2026/11/17/applea-pariste-dava-iphonelarda-planli-eskitme-iddiasi",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-a-fransa-da-planli-eskitme-davasi-iphone-modelleri-mercek-altinda-2556971",
-    "BirGün: https://www.birgun.net/haber/apple-bazi-iphone-modellerinde-planli-eskitme-iddiasiyla-yargilanacak-746947"
-   ]
-  },
   {
    "id": "62a0f7d254",
    "post_id": "529346797199852_1471661515073556",
@@ -13424,6 +13416,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/matteo-guendouzi-den-emre-belozoglu-aciklamasi-oyun-felsefesini-anlamak-izin-zaman-gerekebilir-ama-2557665",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/matteo-guendouziden-emre-belozoglu-itirafi-cok-net-ve-keskin-planlari-var-43384221"
    ]
+  },
+  {
+   "id": "da787ffdb0",
+   "post_id": "529346797199852_1473704611535913",
+   "title": "Kayyum sonrası Sözcü'de ilk üst düzey istifa: Ercüment İşleyen görevinden ayrıldı",
+   "at": "2026-11-19T17:08:57.240355+00:00",
+   "yazim": "claude",
+   "metin": "Kayyım atanan Sözcü'de ilk üst düzey ayrılık: Genel Yayın Yönetmeni Ercüment İşleyen görevinden ayrıldı.\n\nSözcü TV ve Sözcü.com.tr'ye kayyım atanmasının ardından medya grubunda gelen ilk üst düzey ayrılık bu oldu.\n\n— İşleyen, kayyım olarak görevlendirilen Hakan Hastaoğlu ile görüşmesinin ardından ayrılmaya karar verdi.\n\n— Kasım ayı sonuna kadar kurumdaki yeni düzenlemelere destek olacağı belirtildi.\n\n— Kayyım kararı İstanbul 4. Sulh Ceza Hakimliği'nden çıktı ve grubun yönetimi TMSF'nin görevlendirdiği isimlere devredildi.\n\n— İşleyen, daha önce Halk TV'nin internet sitesini yönetmiş, Eylül 2024'te Sözcü'ye katılmıştı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/kayyim-sonrasi-ilk-ust-duzey-ayrilik-sozcu-nun-genel-yayin-yonetmeni-gorevini-birakti-2557664",
+    "BirGün: https://www.birgun.net/haber/kayyum-atanan-sozcu-de-ilk-ust-duzey-ayrilik-genel-yayin-yonetmeni-gorevini-birakiyor-747326",
+    "Karar: https://www.karar.com/guncel-haberler/kayyum-sonrasi-sozcude-ilk-ust-duzey-istifa-ercument-isleyen-gorevinden-2085157"
+   ]
   }
  ],
  "fails": {
@@ -13710,7 +13715,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123457475076932072",
+   "since_id": "2123462947594711509",
    "started": true
   },
   "ajansmuhbir1923": {
