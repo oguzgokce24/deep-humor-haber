@@ -2,99 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ani",
-    "başın",
-    "böyle",
-    "fren",
-    "nın",
-    "otomo",
-    "papa",
-    "peru",
-    "peş",
-    "peşe",
-    "turun",
-    "yapın",
-    "çarpt"
-   ],
-   "tok": [
-    "aksil",
-    "aktar",
-    "ameri",
-    "ani",
-    "ardın",
-    "arka",
-    "ayini",
-    "başke",
-    "başın",
-    "bilin",
-    "birli",
-    "böyle",
-    "cisim",
-    "daki",
-    "devam",
-    "doğru",
-    "durağ",
-    "durum",
-    "dün",
-    "fren",
-    "freni",
-    "frenl",
-    "fırla",
-    "görül",
-    "görün",
-    "gözün",
-    "güney",
-    "günlü",
-    "hava",
-    "ikinc",
-    "ilişk",
-    "isabe",
-    "ise",
-    "kalab",
-    "kendi",
-    "koltu",
-    "konvo",
-    "las",
-    "leo",
-    "lima",
-    "ndeki",
-    "neden",
-    "nun",
-    "nın",
-    "olayd",
-    "olayı",
-    "otomo",
-    "otura",
-    "palma",
-    "papa",
-    "papam",
-    "peru",
-    "peş",
-    "peşe",
-    "savru",
-    "sağlı",
-    "selam",
-    "sonuc",
-    "sıras",
-    "taşıy",
-    "turun",
-    "veda",
-    "yapma",
-    "yaptı",
-    "yapıl",
-    "yapın",
-    "yaşad",
-    "yolun",
-    "ziyar",
-    "çarpt",
-    "öne",
-    "üncü",
-    "üssü"
-   ],
-   "at": "2026-11-17T20:34:06.554351+00:00"
-  },
-  {
-   "fp": [
     "2",
     "karar",
     "topla"
@@ -10823,23 +10730,55 @@
     "öne"
    ],
    "at": "2026-11-19T08:32:52.691407+00:00"
+  },
+  {
+   "fp": [
+    "77",
+    "artış",
+    "ayın",
+    "düşüğ",
+    "fiyat",
+    "konut"
+   ],
+   "tok": [
+    "alım",
+    "artar",
+    "arttı",
+    "artış",
+    "arınd",
+    "ayın",
+    "banka",
+    "dikka",
+    "düşük",
+    "düşüğ",
+    "düşüş",
+    "ekimd",
+    "enfla",
+    "faizl",
+    "fiyat",
+    "geril",
+    "göre",
+    "gücün",
+    "hızı",
+    "ise",
+    "kayde",
+    "konut",
+    "kredi",
+    "oranı",
+    "seviy",
+    "sınır",
+    "taleb",
+    "uzman",
+    "veril",
+    "yükse",
+    "yüzde",
+    "yıllı",
+    "çekti"
+   ],
+   "at": "2026-11-19T08:45:20.634428+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "657497d3cc",
-   "post_id": "529346797199852_1471227598450281",
-   "title": "İstanbul'da barajların doluluk oranı yüzde 61'i aştı",
-   "at": "2026-11-17T07:32:07.906274+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'daki barajların ortalama doluluk oranı yüzde 61'i aştı.\n\n— Son günlerdeki sağanak yağışlar barajlardaki su seviyesini yükseltti.\n— İSKİ verilerine göre ortalama oran 4 Kasım'da yüzde 54,75'ti, 17 Kasım'da yüzde 61,06'ya çıktı.\n— En yüksek doluluk yüzde 90,45 ile Darlık Barajı'nda ölçüldü. Onu yüzde 80,36 ile Ömerli izliyor.\n— En düşük oran yüzde 7,06 ile Pabuçdere Barajı'nda kaydedildi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/istanbulda-baraj-doluluk-orani-yuzde-61e-ulasti-3494214",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haber-istanbul-da-baraj-doluluk-orani-belli-oldu-istanbul-baraj-doluluk-orani-ne-kadar-3927863",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/istanbulda-baraj-doluluk-orani-yuzde-61e-ulasti-4873312",
-    "Karar: https://www.karar.com/guncel-haberler/istanbulda-barajlarin-doluluk-orani-yuzde-61i-asti-2084545"
-   ]
-  },
   {
    "id": "26bbf5816b",
    "post_id": "529346797199852_1471235495116158",
@@ -13453,6 +13392,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/fenerbahce-de-lukaku-gelismesi-3-talip-birden-2557450",
     "Karar: https://www.karar.com/spor-haberleri/fenerbahcede-lukakunun-gelecegi-belirsiz-3-takim-talip-oldu-2085018"
    ]
+  },
+  {
+   "id": "0015364772",
+   "post_id": "529346797199852_1473287531577621",
+   "title": "Merkez Bankası açıkladı: Konut fiyatlarında artış hızı son 77 ayın en düşük seviyesinde",
+   "at": "2026-11-19T08:45:20.634428+00:00",
+   "yazim": "claude",
+   "metin": "Konut fiyatlarındaki yıllık artış hızı, son 77 ayın en düşük seviyesine geriledi.\n\nMerkez Bankası verilerine göre konut fiyatları ekimde yıllık yüzde 21,1 arttı.\n\n— Enflasyondan arındırıldığında ise fiyatlar yüzde 6,6 geriledi.\n— Uzmanlara göre yüksek kredi faizleri ve alım gücündeki düşüş konut talebini sınırlıyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/konut-fiyatlarindaki-yillik-artis-77-ayin-en-dusugunde/4130105",
+    "Habertürk: https://www.haberturk.com/ekonomi/konut-fiyatlarindaki-yillik-artis-77-ayin-en-dusugunde-3928456",
+    "BirGün: https://www.birgun.net/haber/merkez-bankasi-acikladi-konut-fiyatlarinda-artis-hizi-son-77-ayin-en-dusuk-seviyesinde-747263"
+   ]
   }
  ],
  "fails": {
@@ -13693,7 +13645,6 @@
  },
  "fail_log": [
   "2026-11-19T05:11 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:11 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
   "2026-11-19T05:11 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
   "2026-11-19T05:11 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
   "2026-11-19T05:11 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
@@ -13731,12 +13682,13 @@
   "2026-11-19T08:20 KPSS P94 puanı nedir? 2026 KPSS P94 ile personel alan kuruml -> ValueError: yanıt okunamadı",
   "2026-11-19T08:32 KPSS P94 puanı nedir? 2026 KPSS P94 ile personel alan kuruml -> ValueError: yanıt okunamadı",
   "2026-11-19T08:32 KPSS P94 puanı nedir? 2026 KPSS P94 ile personel alan kuruml -> ValueError: yanıt okunamadı",
-  "2026-11-19T08:32 KPSS P94 puanı nedir? 2026 KPSS P94 ile personel alan kuruml -> ValueError: yanıt okunamadı"
+  "2026-11-19T08:32 KPSS P94 puanı nedir? 2026 KPSS P94 ile personel alan kuruml -> ValueError: yanıt okunamadı",
+  "2026-11-19T08:45 Merkez Bankası açıkladı: Konut fiyatlarında artış hızı son 7 -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123330114188611705",
+   "since_id": "2123334693374328920",
    "started": true
   },
   "ajansmuhbir1923": {
