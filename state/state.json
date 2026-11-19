@@ -10913,21 +10913,45 @@
     "üyele"
    ],
    "at": "2026-11-19T21:46:52.596384+00:00"
+  },
+  {
+   "fp": [
+    "beled",
+    "karar",
+    "soruş",
+    "tahli",
+    "çanka"
+   ],
+   "tok": [
+    "ahmet",
+    "ağırm",
+    "başsa",
+    "beled",
+    "biri",
+    "büros",
+    "iddia",
+    "ihale",
+    "incel",
+    "isiml",
+    "kapsa",
+    "mecli",
+    "ndeki",
+    "olmak",
+    "rüşve",
+    "suçla",
+    "tahli",
+    "veril",
+    "yönel",
+    "yürüt",
+    "çanka",
+    "çıktı",
+    "örgüt",
+    "üyesi"
+   ],
+   "at": "2026-11-19T21:59:50.649523+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fe099be9c8",
-   "post_id": "529346797199852_1471844921721882",
-   "title": "ABD'de sağlık yetkililerinden kızamık açıklaması: \"Artık ortadan kalkmış bir hastalık değil\"",
-   "at": "2026-11-17T20:59:20.132775+00:00",
-   "yazim": "claude",
-   "metin": "ABD, kızamığın son dönemde yüksek oranda yayılması nedeniyle kızamıktan arınmış ülke statüsünü kaybetti.\n\n— Bu değerlendirmeyi Pan Amerikan Sağlık Örgütü açıkladı.\n\n— Örgüte göre kızamık artık ortadan kalkmış bir hastalık değil.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/kizamigin-artik-abd-ve-meksikada-ortadan-kalkmis-bir-hastalik-olmadigi-belirtildi/4128299",
-    "BirGün: https://www.birgun.net/haber/abd-de-saglik-yetkililerinden-kizamik-aciklamasi-artik-ortadan-kalkmis-bir-hastalik-degil-746995"
-   ]
-  },
   {
    "id": "e4bd470d3e",
    "post_id": "529346797199852_1471860245053683",
@@ -13556,6 +13580,20 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/19/son-dakika-i-belediye-baskani-ve-vekil-secimlerinde-yeni-donem-resmi-gazetede-yayimlandi-baskanlik-koltugu-bosalirsa-ne-olacak",
     "Karar: https://www.karar.com/guncel-haberler/belediye-baskani-ve-baskanvekili-secimlerinde-yeni-donem-isim-yazma-2085187"
    ]
+  },
+  {
+   "id": "633f33c1b8",
+   "post_id": "529346797199852_1473900654849642",
+   "title": "Çankaya Belediyesi soruşturmasında Ahmet Ağırman'a tahliye kararı",
+   "at": "2026-11-19T21:59:50.649523+00:00",
+   "yazim": "claude",
+   "metin": "Çankaya Belediyesi'ne yönelik soruşturmada tutuklanan Belediye Meclis Üyesi Ahmet Ağırman hakkında tahliye kararı verildi.\n\nAnkara Cumhuriyet Başsavcılığı Örgütlü Suçlar Soruşturma Bürosu, Çankaya Belediyesi'ndeki ihale ve rüşvet iddialarını inceliyor.\n\n— Soruşturma kapsamında daha önce 24 kişi tutuklanmıştı.\n— Tahliye kararıyla Ağırman, soruşturmanın tutuklu isimlerinden biri olmaktan çıktı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/cankaya-belediyesi-sorusturmasinda-tahliye-karari-2557694",
+    "Evrensel: https://www.evrensel.net/haber/6010314/cankaya-belediyesi-sorusturmasinda-tahliye-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/cankaya-belediyesi-sorusturmasinda-ahmet-agirman-a-tahliye-karari-747358",
+    "Karar: https://www.karar.com/guncel-haberler/cankaya-belediyesi-sorusturmasinda-tahliye-2085182"
+   ]
   }
  ],
  "fails": {
@@ -13797,12 +13835,10 @@
   "51b0043ff3": 1,
   "1db3358e3a": 1,
   "3c7845ced1": 1,
-  "ee20df3dfe": 1
+  "ee20df3dfe": 1,
+  "f8f419615c": 1
  },
  "fail_log": [
-  "2026-11-19T05:18 Atilla Özsever: Küresel Emeklilik Endeksi'nde Türkiye son sı -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:18 Atilla Özsever: Küresel Emeklilik Endeksi'nde Türkiye son sı -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:18 Atilla Özsever: Küresel Emeklilik Endeksi'nde Türkiye son sı -> ValueError: yanıt okunamadı",
   "2026-11-19T05:18 Hicri İzgören: Sorgulamak, en başta kendini sorgulamaktır -> ValueError: yanıt okunamadı",
   "2026-11-19T05:18 Hicri İzgören: Sorgulamak, en başta kendini sorgulamaktır -> ValueError: yanıt okunamadı",
   "2026-11-19T05:18 Hicri İzgören: Sorgulamak, en başta kendini sorgulamaktır -> ValueError: yanıt okunamadı",
@@ -13839,7 +13875,10 @@
   "2026-11-19T17:34 Üç çocuk annesi bir dahi olay yerinde: Cevher ne zaman başlı -> ValueError: yanıt okunamadı",
   "2026-11-19T17:34 Üç çocuk annesi bir dahi olay yerinde: Cevher ne zaman başlı -> ValueError: yanıt okunamadı",
   "2026-11-19T17:34 Üç çocuk annesi bir dahi olay yerinde: Cevher ne zaman başlı -> ValueError: yanıt okunamadı",
-  "2026-11-19T20:04 Trump, \"İran'la ilgili acele karar almayacağım\" dedi, 2027'y -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-19T20:04 Trump, \"İran'la ilgili acele karar almayacağım\" dedi, 2027'y -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-19T21:59 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
+  "2026-11-19T21:59 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
+  "2026-11-19T21:59 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
