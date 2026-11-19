@@ -10734,23 +10734,83 @@
     "şikay"
    ],
    "at": "2026-11-19T14:20:31.150260+00:00"
+  },
+  {
+   "fp": [
+    "28",
+    "alınd",
+    "dolan",
+    "gözal",
+    "istan",
+    "merke",
+    "opera",
+    "sahte",
+    "çağrı",
+    "şüphe"
+   ],
+   "tok": [
+    "adres",
+    "ait",
+    "almad",
+    "alına",
+    "alınd",
+    "alınm",
+    "baskı",
+    "belir",
+    "binle",
+    "bitki",
+    "cemaa",
+    "cezai",
+    "cinse",
+    "deki",
+    "devle",
+    "diyer",
+    "dolan",
+    "durum",
+    "düzen",
+    "edile",
+    "ettik",
+    "firar",
+    "görül",
+    "ilaçl",
+    "inter",
+    "işlem",
+    "kargo",
+    "kağıt",
+    "kişil",
+    "kişis",
+    "korku",
+    "kuran",
+    "küçük",
+    "para",
+    "sahte",
+    "sipar",
+    "sulta",
+    "söyle",
+    "süley",
+    "sürer",
+    "sürüy",
+    "talep",
+    "tesli",
+    "uygul",
+    "vata",
+    "veri",
+    "yapıl",
+    "yaşın",
+    "yurtt",
+    "yönel",
+    "yönet",
+    "zaman",
+    "çalış",
+    "çağrı",
+    "öne",
+    "üzeri",
+    "şebek"
+   ],
+   "at": "2026-11-19T14:33:00.160736+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1c396aba8c",
-   "post_id": "529346797199852_1471522015087506",
-   "title": "Avcılar'da korkutan yangın! 2 ev kül oldu: 4 aile son anda kurtuldu",
-   "at": "2026-11-17T13:50:32.141140+00:00",
-   "yazim": "claude",
-   "metin": "Avcılar'da 3 katlı binada çıkan yangın yandaki 2 katlı binaya sıçradı, 2 ev tamamen yandı.\n\n— Yangın saat 03.00 sıralarında Yeşilkent Mahallesi'nde başladı. Can kaybı yaşanmadı.\n\n— Uykudaki 4 aile, komşuların ve bir taksicinin kapıları çalarak haber vermesi üzerine evlerinden çıkıp kurtuldu.\n\n— Yangın bahçedeki kerestelere de sıçradı. Dumandan etkilenenlere ambulansta müdahale edildi.\n\n— Belediye Başkan Vekili Yüksel Can, zarar gören ailelere gerekli yardımların yapılacağını söyledi. Yangının çıkış nedeni için inceleme başlatıldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/avcilar/avcilarda-yanginda-2-ev-kul-oldu-4-aile-son-anda-kurtuldu-3494439",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/avcilar-da-korkutan-yangin-2-ev-kul-oldu-4-aile-son-anda-kurtuldu-2556925",
-    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/avcilarda-2-ev-alevlere-teslim-oldu-4-aile-canini-zor-kurtardi-o-taksici-olmasaydi-4873532",
-    "Evrensel: https://www.evrensel.net/haber/6009935/avcilar-da-yanginda-2-ev-kul-oldu-4-aile-son-anda-kurtuldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "abaf012f9f",
    "post_id": "529346797199852_1471532588419782",
@@ -13358,6 +13418,22 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/gazeteci-ismail-ari-cezaevi-cikisinda-konustu-hayatimdan-31-gun-calindi-2085128"
    ]
+  },
+  {
+   "id": "4922dc3484",
+   "post_id": "529346797199852_1473570904882617",
+   "title": "Sahte çağrı merkezlerine operasyon! 'Kargonuzu almadınız' diyerek...",
+   "at": "2026-11-19T14:33:00.160736+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da sahte çağrı merkezleri kuran bir şebekeye operasyon düzenlendi, 28 şüpheli gözaltına alındı.\n\n— Şüpheliler, internetten sipariş edilen cinsel ve bitkisel ilaçların kargodan teslim alınmadığını söyleyip kişileri cezai işlem uygulanacağıyla korkutuyordu.\n\n— Cezai işlemlerin e-Devlet üzerinden görülebileceğini söyleyerek para talep ettikleri belirlendi.\n\n— Sultangazi'deki iki sahte çağrı merkezi ile şebeke yöneticilerinin Küçükçekmece ve Kağıthane'deki adreslerine eş zamanlı baskın yapıldı.\n\n— Gözaltına alınanların 6'sı 18 yaşından küçük.\n\n— Baskınlarda binlerce yurttaşa ait kişisel veri ele geçirildi.\n\n— Firari durumdaki 2 şüphelinin yakalanması için çalışmalar sürüyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbulda-cagri-merkezi-dolandiriciligi-operasyonu-28-supheli-gozaltina-alindi-43384098",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/istanbulda-cagri-merkezi-dolandiriciligi-operasyonu-28-gozalti-3495470",
+    "Sözcü: https://www.sozcu.com.tr/sahte-cagri-merkezlerine-operasyon-kargonuzu-almadiniz-diyerek-p382813",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-sahte-cagri-merkezlerine-operasyon-28-supheli-gozaltina-alindi-2557630",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/cagri-merkezi-dolandiriciligi-operasyonunda-28-gozalti-4874493",
+    "Evrensel: https://www.evrensel.net/haber/6010262/suleymancilar-cemaatine-yonelik-sorusturmasinda-yeni-operasyon-4-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13644,7 +13720,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123416813627203828",
+   "since_id": "2123422549753426097",
    "started": true
   },
   "ajansmuhbir1923": {
