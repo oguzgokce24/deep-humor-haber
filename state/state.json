@@ -10738,6 +10738,121 @@
     "özdem"
    ],
    "at": "2026-11-19T04:50:04.332344+00:00"
+  },
+  {
+   "fp": [
+    "dijit",
+    "siber"
+   ],
+   "tok": [
+    "anlam",
+    "appea",
+    "büyüğ",
+    "dijit",
+    "diken",
+    "dünya",
+    "first",
+    "gelir",
+    "kaçır",
+    "kibri",
+    "kuşat",
+    "link",
+    "mahir",
+    "post",
+    "resmi",
+    "siber",
+    "site",
+    "tekni",
+    "the",
+    "tırma",
+    "uluta",
+    "yalnı",
+    "yeter",
+    "çatla",
+    "önlem"
+   ],
+   "at": "2026-11-19T05:14:47.001569+00:00"
+  },
+  {
+   "fp": [
+    "büyük",
+    "deniz",
+    "didem",
+    "durum",
+    "dönüş",
+    "ekolo",
+    "ekono",
+    "eryar",
+    "kayıp",
+    "riske",
+    "ünlü"
+   ],
+   "tok": [
+    "appea",
+    "ağırl",
+    "büyük",
+    "deniz",
+    "didem",
+    "diken",
+    "durum",
+    "dönüş",
+    "ekolo",
+    "ekono",
+    "eryar",
+    "first",
+    "gider",
+    "kayıp",
+    "linka",
+    "post",
+    "riske",
+    "site",
+    "the",
+    "yaşan",
+    "ünlü"
+   ],
+   "at": "2026-11-19T05:14:51.738659+00:00"
+  },
+  {
+   "fp": [
+    "etmen",
+    "feda",
+    "isiml",
+    "içeri",
+    "kesti",
+    "maliy",
+    "osman",
+    "sert"
+   ],
+   "tok": [
+    "appea",
+    "değil",
+    "diken",
+    "etmen",
+    "eğer",
+    "feda",
+    "first",
+    "geçil",
+    "harek",
+    "isiml",
+    "itira",
+    "içeri",
+    "karşı",
+    "kesti",
+    "linka",
+    "mahal",
+    "maliy",
+    "muhal",
+    "mümkü",
+    "osman",
+    "post",
+    "sadec",
+    "sert",
+    "ses",
+    "site",
+    "the",
+    "çıkma"
+   ],
+   "at": "2026-11-19T05:14:56.119137+00:00"
   }
  ],
  "posted": [
@@ -13570,21 +13685,9 @@
   "0ab7da661d": 1,
   "e1ff08edbe": 1,
   "7d3e4114b0": 1,
-  "43b02bf46b": 2,
-  "8d61fe3914": 2,
-  "bf1e4f56d2": 2,
-  "49c1d744ec": 2
+  "43b02bf46b": 2
  },
  "fail_log": [
-  "2026-11-19T02:44 İstanbul'un üçte birinde aynı ilin kütüğü var: İşte 39 ilçen -> ValueError: yanıt okunamadı",
-  "2026-11-19T02:44 İstanbul'un üçte birinde aynı ilin kütüğü var: İşte 39 ilçen -> ValueError: yanıt okunamadı",
-  "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
-  "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
-  "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
-  "2026-11-19T03:07 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
-  "2026-11-19T03:07 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
-  "2026-11-19T03:07 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
-  "2026-11-19T03:20 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
   "2026-11-19T03:20 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
   "2026-11-19T03:20 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
   "2026-11-19T03:20 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
@@ -13615,12 +13718,21 @@
   "2026-11-19T05:11 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
   "2026-11-19T05:11 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
   "2026-11-19T05:11 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:11 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı"
+  "2026-11-19T05:11 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
+  "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123185045473001501",
+   "since_id": "2123283520483107229",
    "started": true
   },
   "ajansmuhbir1923": {
