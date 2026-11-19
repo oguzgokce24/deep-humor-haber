@@ -10706,20 +10706,105 @@
     "şişli"
    ],
    "at": "2026-11-19T02:44:16.678172+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "ailec",
+    "bırak",
+    "kadın",
+    "korum",
+    "polit",
+    "tutar",
+    "veril",
+    "yanda",
+    "şidde"
+   ],
+   "tok": [
+    "ailec",
+    "arttı",
+    "aynı",
+    "ayınd",
+    "azalı",
+    "binin",
+    "bırak",
+    "cinay",
+    "derin",
+    "durdu",
+    "dönem",
+    "göre",
+    "ihbar",
+    "içişl",
+    "kades",
+    "kadın",
+    "karşı",
+    "korum",
+    "nın",
+    "platf",
+    "polit",
+    "tutar",
+    "veril",
+    "yalnı",
+    "yanda",
+    "yapıl",
+    "yüzde",
+    "üzeri",
+    "şidde"
+   ],
+   "at": "2026-11-19T02:54:52.855868+00:00"
+  },
+  {
+   "fp": [
+    "davad",
+    "soyer",
+    "sürec",
+    "tahli",
+    "tunç",
+    "tutuk"
+   ],
+   "tok": [
+    "adli",
+    "ancak",
+    "aslan",
+    "aynı",
+    "bakır",
+    "burak",
+    "davad",
+    "davas",
+    "devam",
+    "ertel",
+    "halle",
+    "heval",
+    "hâlâ",
+    "hükme",
+    "izmir",
+    "kap",
+    "kapsa",
+    "kaya",
+    "kontr",
+    "koope",
+    "kuruo",
+    "neden",
+    "nın",
+    "ocak",
+    "sanığ",
+    "savaş",
+    "soyer",
+    "sürec",
+    "tahli",
+    "tunç",
+    "verdi",
+    "yönel",
+    "yıldı",
+    "zimme",
+    "örnek",
+    "şartı",
+    "şenol"
+   ],
+   "at": "2026-11-19T02:54:59.841121+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "885e5f434e",
-   "post_id": "529346797199852_1470960471810327",
-   "title": "Emeklilik dilekçesini birkaç gün geç verenler, ömür boyu sürecek maaş farkıyla karşı karşıya kalabilir",
-   "at": "2026-11-17T00:44:51.502512+00:00",
-   "yazim": "claude",
-   "metin": "SGK ve BAĞ-KUR'lu çalışanlardan emeklilik dilekçesini 31 Aralık 2026'ya kadar verenler, 2026'daki yüzde 32,1'lik zamdan yararlanacak.\n\n1 Ocak 2027 ve sonrasında dilekçe verenler bu zammın tamamından yararlanamayacak. Aylıkları, enflasyon ve büyümeye bağlı güncelleme katsayısıyla hesaplanacak.\n\n— Katsayı 1,32 olursa iki grubun aylıkları eşitlenecek. Katsayı bu seviyenin altında kalırsa 2027'ye bırakanlar dezavantajlı duruma düşecek.\n\n— IMF'nin 1,3201'lik tahmini gerçekleşirse iki grup arasında fark oluşmayacak. OVP ve Merkez Bankası tahminleri tutarsa 2026'da başvuranlar yaklaşık yüzde 2 daha avantajlı olacak.\n\nEmekli Sandığı'na tabi memurlar için dilekçe tarihine bağlı bir maaş farkı oluşmuyor.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/emeklilik-dilekcesi-ne-zaman-verilmeli-2026-mi-2027-mi-daha-avantajli-2084516"
-   ]
-  },
   {
    "id": "dbaefef260",
    "post_id": "529346797199852_1470971071809267",
@@ -13305,6 +13390,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/istanbulda-en-cok-hangi-memleketli-var-istanbulun-ilcelerinde-en-cok-2084983"
    ]
+  },
+  {
+   "id": "d0a02f4bb8",
+   "post_id": "529346797199852_1473054221600952",
+   "title": "Tunç Soyer'e bir davadan tahliye: Tutukluluğu sürecek",
+   "at": "2026-11-19T02:54:59.841121+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'de Örnekköy Kooperatifi zimmet davasında mahkeme, Tunç Soyer'i adli kontrol şartıyla tahliye etti.\n\n— Ancak Soyer, başka bir kooperatif davası kapsamındaki tutukluluğu nedeniyle hâlâ tutuklu.\n— Aynı davadaki iki sanığın tutukluluğu da sürecek.\n— Dava 13 Ocak 2028'e ertelendi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/tunc-soyer-e-bir-davadan-tahliye-tutuklulugu-surecek-747223"
+   ]
   }
  ],
  "fails": {
@@ -13536,13 +13632,9 @@
   "e1ff08edbe": 1,
   "7d3e4114b0": 1,
   "43b02bf46b": 2,
-  "8199885d23": 1,
-  "73245cc869": 2
+  "8199885d23": 1
  },
  "fail_log": [
-  "2026-11-19T00:30 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
-  "2026-11-19T00:30 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
-  "2026-11-19T00:30 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
   "2026-11-19T00:43 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-19T00:43 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-19T00:43 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -13579,7 +13671,10 @@
   "2026-11-19T02:44 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
   "2026-11-19T02:44 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
   "2026-11-19T02:44 İstanbul'un üçte birinde aynı ilin kütüğü var: İşte 39 ilçen -> ValueError: yanıt okunamadı",
-  "2026-11-19T02:44 İstanbul'un üçte birinde aynı ilin kütüğü var: İşte 39 ilçen -> ValueError: yanıt okunamadı"
+  "2026-11-19T02:44 İstanbul'un üçte birinde aynı ilin kütüğü var: İşte 39 ilçen -> ValueError: yanıt okunamadı",
+  "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
+  "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
+  "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
