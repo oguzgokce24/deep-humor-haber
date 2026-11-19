@@ -2,112 +2,6 @@
  "seen": [
   {
    "fp": [
-    "daire",
-    "icra",
-    "küçük",
-    "müdür"
-   ],
-   "tok": [
-    "bursa",
-    "daire",
-    "gayri",
-    "icra",
-    "ivrin",
-    "küçük",
-    "müdür",
-    "satış",
-    "sinca",
-    "vergi"
-   ],
-   "at": "2026-11-18T04:01:15.491359+00:00"
-  },
-  {
-   "fp": [
-    "aile",
-    "hakim",
-    "mahke"
-   ],
-   "tok": [
-    "aile",
-    "hakim",
-    "hatay",
-    "küçük"
-   ],
-   "at": "2026-11-18T04:04:55.049229+00:00"
-  },
-  {
-   "fp": [
-    "1",
-    "aile",
-    "mahke",
-    "çorlu"
-   ],
-   "tok": [
-    "aile",
-    "çorlu"
-   ],
-   "at": "2026-11-18T04:05:01.339750+00:00"
-  },
-  {
-   "fp": [
-    "alarm",
-    "bahre",
-    "bina",
-    "güven",
-    "katlı",
-    "neden",
-    "tahli",
-    "yangı"
-   ],
-   "tok": [
-    "alarm",
-    "altın",
-    "alınd",
-    "alını",
-    "amaçl",
-    "bahre",
-    "başke",
-    "başla",
-    "belir",
-    "bina",
-    "bulun",
-    "dizi",
-    "duyur",
-    "düzen",
-    "gitme",
-    "güven",
-    "halka",
-    "hava",
-    "ilişk",
-    "iran",
-    "içişl",
-    "karşı",
-    "katlı",
-    "kez",
-    "kontr",
-    "koydu",
-    "kısa",
-    "manam",
-    "nda",
-    "neden",
-    "ordus",
-    "süre",
-    "sürüy",
-    "tahli",
-    "tedbi",
-    "vakıf",
-    "yakın",
-    "yangı",
-    "yere",
-    "çarşı",
-    "çağrı",
-    "çıkan",
-    "çıkış"
-   ],
-   "at": "2026-11-18T04:08:44.485600+00:00"
-  },
-  {
-   "fp": [
     "asliy",
     "hakim",
     "hukuk",
@@ -10842,22 +10736,77 @@
     "üye"
    ],
    "at": "2026-11-19T16:01:05.352420+00:00"
+  },
+  {
+   "fp": [
+    "chase",
+    "hizme",
+    "jpmor",
+    "saldı",
+    "sağla",
+    "siber",
+    "uğrad"
+   ],
+   "tok": [
+    "abd",
+    "adlar",
+    "adres",
+    "aksam",
+    "appea",
+    "arası",
+    "ardın",
+    "banka",
+    "bazı",
+    "bağla",
+    "belir",
+    "birbi",
+    "büyük",
+    "chase",
+    "dahil",
+    "deste",
+    "diken",
+    "duyur",
+    "düzen",
+    "elind",
+    "erişi",
+    "etkil",
+    "first",
+    "geldi",
+    "gerek",
+    "günle",
+    "hedef",
+    "hizme",
+    "izlem",
+    "jpmor",
+    "kasım",
+    "kendi",
+    "kredi",
+    "müşte",
+    "nin",
+    "olay",
+    "olayı",
+    "olmad",
+    "pazar",
+    "post",
+    "posta",
+    "sağla",
+    "siber",
+    "site",
+    "sorun",
+    "taraf",
+    "the",
+    "uğrad",
+    "veril",
+    "yaşad",
+    "yaşan",
+    "ücret",
+    "üçünc",
+    "şirke"
+   ],
+   "at": "2026-11-19T16:13:40.245439+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0abf9966b3",
-   "post_id": "529346797199852_1471608201745554",
-   "title": "Fenerbahçeli Ederson'dan şampiyonluk iddiası: 'Liderle aramızda biraz puan farkı var ancak...'",
-   "at": "2026-11-17T15:34:25.944223+00:00",
-   "yazim": "claude",
-   "metin": "Fenerbahçeli Ederson, şampiyonluk için:\n\n“Liderle aramızda biraz puan farkı var ancak daha önce 10 puan geriden gelip şampiyonluk kazandığım sezonlar oldu.”\n\n— Brezilyalı kaleci, Totem YouTube kanalına verdiği röportajda bunu söyledi.\n— Fenerbahçe, ligde lider Galatasaray'ın gerisinde bulunuyor.\n— Ederson, zor dönemlerde takım arkadaşlarını sakin tutmaya çalıştığını da anlattı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/fenerbahceli-ederson-dan-sampiyonluk-iddiasi-liderle-aramizda-biraz-puan-farki-var-ancak-2556963",
-    "Karar: https://www.karar.com/spor-haberleri/edersondan-sampiyonluk-yarisi-icin-iddiali-aciklama-ben-daha-once-10-2084668",
-    "Sözcü Spor: https://www.sozcu.com.tr/edersondan-iddiali-sozler-10-puan-gondermesi-p382216"
-   ]
-  },
   {
    "id": "2dbd211358",
    "post_id": "529346797199852_1471618358411205",
@@ -13469,6 +13418,18 @@
     "BirGün: https://www.birgun.net/haber/dem-parti-den-yeni-parti-nin-komisyon-kararina-yanit-surecin-demokratik-zeminini-zayiflatma-riski-tasiyor-747299",
     "Karar: https://www.karar.com/guncel-haberler/dem-partiden-yeni-partiye-izleme-komisyonu-cagrisi-kararinizi-yeniden-2085129"
    ]
+  },
+  {
+   "id": "8494a8245f",
+   "post_id": "529346797199852_1473658171540557",
+   "title": "JPMorgan Chase: Hizmet sağlayıcılarımız siber saldırıya uğradı",
+   "at": "2026-11-19T16:13:40.245439+00:00",
+   "yazim": "claude",
+   "metin": "ABD'nin en büyük bankası JPMorgan Chase'in hizmet sağlayıcılarına siber saldırı düzenlendi.\n\n— Saldırganlar bu şirketlerin elindeki pazarlama verilerini ele geçirdi. Bazı müşterilerin adları ve e-posta adresleri de bu veriler arasında.\n— Banka, kendi hizmetlerinde bir aksama olmadığını söyledi. Etkilenen müşterilere gerekirse ücretsiz kredi izleme hizmeti dahil destek verilecek.\n— Olayın, 16 Kasım'da bazı müşterilerin yaşadığı erişim sorunuyla bağlantısı olmadığı belirtildi. Olay, ABD'de son günlerde birbiri ardına yaşanan aksamaların ardından geldi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/jpmorgan-chase-ucuncu-taraf-hizmet-saglayicilarinin-siber-saldiriya-ugradigini-acikladi/4131220",
+    "Diken: https://www.diken.com.tr/jpmorgan-chase-hizmet-saglayicilarimiz-siber-saldiriya-ugradi/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-chase-hizmet-saglayicilarimiz-siber-saldiriya-ugradi"
+   ]
   }
  ],
  "fails": {
@@ -13755,7 +13716,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123445793482743888",
+   "since_id": "2123447930153800057",
    "started": true
   },
   "ajansmuhbir1923": {
