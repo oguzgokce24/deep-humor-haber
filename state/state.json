@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "746",
-    "arama",
-    "bulun",
-    "kişi",
-    "yakal"
-   ],
-   "tok": [
-    "arama",
-    "arana",
-    "asayi",
-    "azim",
-    "başta",
-    "belir",
-    "bulun",
-    "duyur",
-    "düzen",
-    "ekipl",
-    "genel",
-    "gerçe",
-    "göçme",
-    "hakla",
-    "içişl",
-    "kaydı",
-    "kaçak",
-    "kişil",
-    "kom",
-    "kontr",
-    "mücad",
-    "narko",
-    "olmak",
-    "siber",
-    "suç",
-    "suçla",
-    "suçlu",
-    "sürdü",
-    "tem",
-    "terör",
-    "uyuşt",
-    "yapıl",
-    "yerle",
-    "yol",
-    "yönel",
-    "zaman",
-    "çeşit",
-    "üzere"
-   ],
-   "at": "2026-11-18T09:19:06.178020+00:00"
-  },
-  {
-   "fp": [
     "başka",
     "başsa",
     "bddk",
@@ -10817,20 +10767,82 @@
     "çatış"
    ],
    "at": "2026-11-19T21:09:00.099987+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "anthr",
+    "aştı",
+    "değer",
+    "dolar",
+    "piyas",
+    "trily"
+   ],
+   "tok": [
+    "anthr",
+    "arz",
+    "arzla",
+    "arzı",
+    "arzın",
+    "aylık",
+    "açıld",
+    "aştı",
+    "başla",
+    "biri",
+    "böyle",
+    "büyük",
+    "bırak",
+    "claud",
+    "değer",
+    "dönem",
+    "dünya",
+    "düştü",
+    "fiyat",
+    "geldi",
+    "gelir",
+    "gerid",
+    "geril",
+    "görme",
+    "günde",
+    "günün",
+    "halin",
+    "halka",
+    "hisse",
+    "ilerl",
+    "işlem",
+    "kayna",
+    "kurul",
+    "kırdı",
+    "milya",
+    "nasda",
+    "net",
+    "piyas",
+    "popül",
+    "rakam",
+    "rekor",
+    "robot",
+    "saatl",
+    "sohbe",
+    "space",
+    "topla",
+    "trily",
+    "ulaşı",
+    "yakla",
+    "yapay",
+    "yapım",
+    "yatır",
+    "yükse",
+    "zaman",
+    "zarar",
+    "zeka",
+    "üreti",
+    "üzeri",
+    "şirke"
+   ],
+   "at": "2026-11-19T21:21:37.214275+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "57f35c3fbc",
-   "post_id": "529346797199852_1471823275057380",
-   "title": "Eskişehir’de kamu emekçilerinden bütçe tepkisi: “Sermayeye değil, emekçiye ve halka bütçe”",
-   "at": "2026-11-17T20:21:31.002590+00:00",
-   "yazim": "claude",
-   "metin": "Eskişehir'de kamu emekçileri bütçeye tepki için Taşbaşı'na yürüdü.\n\nKESK Eskişehir Şubeler Platformu:\n\n“Vergide ve gelirde adalet, insanca yaşamaya yetecek ücret ve barış içinde demokratik bir ülke istiyoruz.”\n\n— Emekçiler önce Köprübaşı'nda toplandı, ardından Taşbaşı'na yürüdü. KESK Genel Sekreteri Sevgi Yılmaz da yürüyüşe ve açıklamaya katıldı.\n— Açıklamada, Sözcü TV'ye kayyım atanmasına tepki gösterildi.\n— \"Refah bütçesi\" adıyla sunulan yeni bütçenin, sömürü düzenini sürdürmeyi hedeflediği savunuldu.\n— İzmir'in Aliağa ilçesindeki HABAŞ tesislerinde 19 işçinin yaşamını yitirmesi de açıklamanın gündeminde yer aldı.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009976/eskisehir-de-kamu-emekcilerinden-butce-tepkisi-sermayeye-degil-emekciye-ve-halka-butce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "c108e08ed0",
    "post_id": "529346797199852_1471830325056675",
@@ -13456,6 +13468,19 @@
     "Euronews: https://tr.euronews.com/2026/11/19/ieaden-uyari-orta-dogudaki-catisma-tarihin-en-buyuk-enerji-guvenligi-tehdidi",
     "BirGün: https://www.birgun.net/haber/abd-den-ortadogu-daki-vatandaslarina-yuksek-teyakkuz-uyarisi-747367"
    ]
+  },
+  {
+   "id": "8902343ad9",
+   "post_id": "529346797199852_1473877724851935",
+   "title": "Anthropic'in halka arzında piyasa değeri 2 trilyon dolara yaklaştı",
+   "at": "2026-11-19T21:21:37.214275+00:00",
+   "yazim": "claude",
+   "metin": "Claude'un yapımcısı Anthropic, Nasdaq'ta işlem görmeye başladı ve ilk günde piyasa değeri 2 trilyon doları aştı.\n\n— Hisse, 83 dolarlık halka arz fiyatının üzerinde, 111,5 dolardan açıldı.\n\n— Şirket halka arzla 81,3 milyar dolar kaynak topladı. Bu rakam, SpaceX'in 75 milyar dolarlık halka arzını geride bırakarak tüm zamanların en büyük halka arzı oldu.\n\n— Anthropic şu an zarar eden bir şirket. Dokuz aylık dönemde geliri 33 milyar dolara ulaşırken net zararı 104 milyar dolara yükseldi.\n\n— Fiyat işlemin ilerleyen saatlerinde geriledi ve hisse 97,15 dolara kadar düştü.",
+   "sources": [
+    "BBC Türkçe: https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
+    "Diken: https://www.diken.com.tr/anthropicin-piyasa-degeri-ilk-islem-gununde-2-trilyon-dolari-asti/?utm_source=rss&utm_medium=rss&utm_campaign=anthropicin-piyasa-degeri-ilk-islem-gununde-2-trilyon-dolari-asti",
+    "BPT (X): https://x.com/bpthaber/status/2123527009800245248"
+   ]
   }
  ],
  "fails": {
@@ -13744,7 +13769,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123522876267508097",
+   "since_id": "2123527009800245248",
    "started": true
   },
   "ajansmuhbir1923": {
