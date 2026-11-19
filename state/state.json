@@ -10673,24 +10673,70 @@
     "üye"
    ],
    "at": "2026-11-19T12:07:41.508994+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "beled",
+    "diyar",
+    "duvar",
+    "kişi",
+    "otobü",
+    "yaral",
+    "çarpt"
+   ],
+   "tok": [
+    "ait",
+    "ambul",
+    "bağlı",
+    "başla",
+    "beled",
+    "bildi",
+    "bismi",
+    "büyük",
+    "dan",
+    "direk",
+    "diyar",
+    "durum",
+    "duvar",
+    "giden",
+    "gitme",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "incel",
+    "iyi",
+    "kaldı",
+    "kazay",
+    "kağıt",
+    "kenar",
+    "kent",
+    "kentt",
+    "kontr",
+    "mahal",
+    "nde",
+    "olay",
+    "otobü",
+    "saatl",
+    "sabah",
+    "sağlı",
+    "silva",
+    "sürüc",
+    "var",
+    "yazıh",
+    "yaşan",
+    "yol",
+    "yola",
+    "yolcu",
+    "çarpa",
+    "çarpt",
+    "çıkan",
+    "şoför"
+   ],
+   "at": "2026-11-19T12:20:38.263101+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3ead839de8",
-   "post_id": "529346797199852_1471392251767149",
-   "title": "Prag'da tren kazası: İki yolcu treni çarpıştı, onlarca yaralı var",
-   "at": "2026-11-17T11:21:01.739738+00:00",
-   "yazim": "claude",
-   "metin": "Prag'da iki yolcu treni kafa kafaya çarpıştı, 46 kişi yaralandı.\n\n— Kaza sabah saat 07.00 sıralarında, Prag Merkez Tren İstasyonu yakınlarındaki demiryolu köprüsünde oldu.\n\n— Yaralılar arasında 4 kişi ağır yaralı. Her iki trenin makinisti de yaralananlar arasında.\n\n— Çekya Ulaştırma Bakanı Ivan Bednarik'e göre trenlerden biri kırmızı ışık ihlali yaptı. Kazanın teknik bir arıza mı yoksa insan hatası mı olduğu soruşturuluyor.\n\n— Merkezi güvenlik sistemi bölgedeki tüm trenleri durdurdu. Seferler yaklaşık 2 saat durdu, saat 09.00'dan itibaren yeniden başladı ama gecikmeler sürüyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/dunya/son-dakika-cekyada-iki-yolcu-treni-kafa-kafaya-carpisti-46-yarali-bolgeden-sicak-goruntu-7702378",
-    "CNN Türk: https://www.cnnturk.com/dunya/pragda-iki-yolcu-treni-carpisti-46-yarali-3494362",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/prag-da-tren-kazasi-iki-yolcu-treni-carpisti-onlarca-yarali-var-2556833",
-    "Karar: https://www.karar.com/dunya-haberleri/pragda-iki-yolcu-treni-carpisti-4u-agir-46-yarali-2084625",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/son-dakika-cekyada-iki-yolcu-treni-kafa-kafaya-carpisti-46-yarali-bolgeden-sicak-goruntu-7702378"
-   ]
-  },
   {
    "id": "d3e16d1b7e",
    "post_id": "529346797199852_1471406091765765",
@@ -13298,6 +13344,20 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/salicidan-chp-yonetimine-kurultay-resti-orgutun-iradesini-sandiktan-kacirmayin-4874420",
     "Karar: https://www.karar.com/guncel-haberler/kilicdaroglu-yonetimine-chpli-salicidan-sert-tepki-kurultay-orgutten-2085058"
    ]
+  },
+  {
+   "id": "5f60f74c44",
+   "post_id": "529346797199852_1473455431560831",
+   "title": "Diyarbakır'da belediye otobüsü duvara çarptı: 9 kişi yaralandı",
+   "at": "2026-11-19T12:20:38.263101+00:00",
+   "yazim": "claude",
+   "metin": "Diyarbakır'ın Bismil ilçesinde Büyükşehir Belediyesi'ne ait yolcu otobüsü yol kenarındaki duvara çarptı, 9 kişi yaralandı.\n\n— Olay sabah saatlerinde Bismil'e bağlı Kağıtlı Mahallesi'nde yaşandı.\n— Silvan'dan kent merkezine giden otobüsün sürücüsü direksiyon kontrolünü kaybetti.\n— Yaralılar ambulanslarla kentteki hastanelere kaldırıldı. Sağlık durumlarının iyi olduğu bildirildi.\n— Kazayla ilgili inceleme başlatıldı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/diyarbakirda-belediye-otobusu-duvara-carpti-9-kisi-yaralandi-43383572",
+    "Sözcü: https://www.sozcu.com.tr/yazihane-duvarina-carpan-otobusun-soforu-yaralandi-p382782",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-belediye-otobusu-kaza-yapti-yaralilar-var-2557528",
+    "Evrensel: https://www.evrensel.net/haber/6010217/diyarbakir-da-belediye-otobusu-duvara-carpti-9-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13536,12 +13596,10 @@
   "d7256fedb1": 1,
   "e52072f896": 2,
   "9644c4a6ee": 1,
-  "51b0043ff3": 1
+  "51b0043ff3": 1,
+  "1db3358e3a": 1
  },
  "fail_log": [
-  "2026-11-19T05:11 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:11 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:11 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
@@ -13578,7 +13636,10 @@
   "2026-11-19T11:29 25 milyon sterlin teklif etti, eski eşi 2,2 milyar istedi: R -> ValueError: yanıt okunamadı",
   "2026-11-19T11:29 25 milyon sterlin teklif etti, eski eşi 2,2 milyar istedi: R -> ValueError: yanıt okunamadı",
   "2026-11-19T11:29 25 milyon sterlin teklif etti, eski eşi 2,2 milyar istedi: R -> ValueError: yanıt okunamadı",
-  "2026-11-19T11:29 Güney Kore'de eski Başbakan Han'ın sıkıyönetim davasındaki c -> ValueError: yanıt okunamadı"
+  "2026-11-19T11:29 Güney Kore'de eski Başbakan Han'ın sıkıyönetim davasındaki c -> ValueError: yanıt okunamadı",
+  "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: yanıt okunamadı",
+  "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: yanıt okunamadı",
+  "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle"
  ],
  "x": {
   "bpthaber": {
