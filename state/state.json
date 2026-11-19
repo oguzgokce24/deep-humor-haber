@@ -2,78 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "4",
-    "dan",
-    "geri",
-    "melis",
-    "milya",
-    "sanda"
-   ],
-   "tok": [
-    "ait",
-    "aktar",
-    "atik",
-    "avuka",
-    "ayınd",
-    "babas",
-    "başvu",
-    "belir",
-    "bulun",
-    "capit",
-    "dan",
-    "deki",
-    "değer",
-    "ekim",
-    "ertel",
-    "etmek",
-    "eylül",
-    "eşi",
-    "eşine",
-    "fatih",
-    "fazla",
-    "fon",
-    "fonla",
-    "gazet",
-    "geri",
-    "gönül",
-    "göre",
-    "hesap",
-    "iade",
-    "işlem",
-    "kapsa",
-    "kazan",
-    "konul",
-    "lik",
-    "lirad",
-    "liral",
-    "mal",
-    "medya",
-    "melis",
-    "menku",
-    "milya",
-    "musta",
-    "nezdi",
-    "otomo",
-    "para",
-    "payla",
-    "sanda",
-    "sosya",
-    "sürül",
-    "tasfi",
-    "varlı",
-    "veril",
-    "vurgu",
-    "yatır",
-    "çekil",
-    "çıkar",
-    "ödeme",
-    "öne"
-   ],
-   "at": "2026-11-17T15:21:50.130707+00:00"
-  },
-  {
-   "fp": [
     "10",
     "dan",
     "eders",
@@ -10848,20 +10776,50 @@
     "şeker"
    ],
    "at": "2026-11-19T03:20:27.078451+00:00"
+  },
+  {
+   "fp": [
+    "diyan",
+    "krizi",
+    "mülak"
+   ],
+   "tok": [
+    "adale",
+    "aday",
+    "alan",
+    "anıms",
+    "başar",
+    "diyan",
+    "diye",
+    "düşük",
+    "elend",
+    "erdoğ",
+    "giren",
+    "hatır",
+    "ilanı",
+    "kaldı",
+    "kapsa",
+    "kimse",
+    "konuş",
+    "krizi",
+    "murak",
+    "mülak",
+    "puan",
+    "puanl",
+    "puanı",
+    "sayıd",
+    "sözün",
+    "sıfır",
+    "sınav",
+    "unutm",
+    "yazıl",
+    "yükse",
+    "çalış"
+   ],
+   "at": "2026-11-19T03:33:11.144507+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5b0db8df7d",
-   "post_id": "529346797199852_1471017595137948",
-   "title": "Tutuklu muhabirimiz İsmail Arı perşembe günü hakim karşısında: \"Gazeteciliği savunacağım\"",
-   "at": "2026-11-17T02:09:38.027779+00:00",
-   "yazim": "claude",
-   "metin": "Sincan Cezaevi'nde 27 gündür tutuklu bulunan muhabir İsmail Arı, 19 Kasım Perşembe günü Ankara'daki duruşmasında gazeteciliği savunacağını söyledi.\n\nİsmail Arı:\n\n“Ankara Adliyesi’nde olacağım, gazeteciliği savunacağım. Bu ülke daha iyi olsun diye halka gerçekleri anlatmaya devam edeceğiz.”\n\n— Sözleri, Türkiye Gazeteciler Cemiyeti'nin (TGC) Sincan Cezaevi'nde yaptığı ziyarette ortaya çıktı.\n— Duruşma perşembe günü, 19 Kasım'da Ankara Adliyesi'nde görülecek.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tutuklu-muhabirimiz-ismail-ari-persembe-gunu-hakim-karsisinda-gazeteciligi-savunacagim-746816"
-   ]
-  },
   {
    "id": "247d1284ee",
    "post_id": "529346797199852_1471026171803757",
@@ -13447,6 +13405,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/konya-seker-mali-krizin-faturasini-emekciye-kesti-747213"
    ]
+  },
+  {
+   "id": "74ab7d1b68",
+   "post_id": "529346797199852_1473079338265107",
+   "title": "Diyanet’te mülakat krizi",
+   "at": "2026-11-19T03:33:11.144507+00:00",
+   "yazim": "claude",
+   "metin": "Diyanet'in murakıplık ilanında yazılı sınavda yüksek puan alan çok sayıda aday, düşük mülakat puanıyla elendi.\n\n— Mülakat puanları, yazılıdaki başarıyı sıfırladı.\n— Başkanlık çalışanları, Cumhurbaşkanı Erdoğan'ın \"Mülakat kaldırılacak\" sözünü hatırlattı.\n\nBaşkanlık çalışanları:\n\n“Bu adaletsizliği kimse unutmaz.”",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/diyanette-mulakat-krizi-747215"
+   ]
   }
  ],
  "fails": {
@@ -13678,12 +13647,9 @@
   "e1ff08edbe": 1,
   "7d3e4114b0": 1,
   "43b02bf46b": 2,
-  "1601da4580": 1
+  "1601da4580": 2
  },
  "fail_log": [
-  "2026-11-19T00:46 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-19T00:46 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-19T00:59 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
   "2026-11-19T00:59 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
   "2026-11-19T00:59 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
   "2026-11-19T00:59 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
@@ -13720,7 +13686,10 @@
   "2026-11-19T03:20 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
   "2026-11-19T03:20 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
   "2026-11-19T03:20 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
-  "2026-11-19T03:20 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı"
+  "2026-11-19T03:20 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
+  "2026-11-19T03:33 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
+  "2026-11-19T03:33 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
+  "2026-11-19T03:33 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
