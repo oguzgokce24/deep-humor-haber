@@ -2,90 +2,6 @@
  "seen": [
   {
    "fp": [
-    "adam",
-    "ahmet",
-    "bulam",
-    "cinay",
-    "diyor",
-    "dondu",
-    "eski",
-    "eşide",
-    "ifade",
-    "kan",
-    "kirpi",
-    "külle",
-    "sanığ",
-    "yaktı"
-   ],
-   "tok": [
-    "adam",
-    "ahmet",
-    "anlat",
-    "attık",
-    "açmış",
-    "ağır",
-    "baraj",
-    "beni",
-    "biri",
-    "boşan",
-    "bulam",
-    "bulun",
-    "ceza",
-    "cinay",
-    "davas",
-    "dinle",
-    "diye",
-    "diyor",
-    "dondu",
-    "dosya",
-    "duruş",
-    "ediyo",
-    "ertel",
-    "eski",
-    "eşi",
-    "eşide",
-    "görül",
-    "halin",
-    "halle",
-    "ifade",
-    "ileri",
-    "iliş",
-    "iştir",
-    "kan",
-    "kaste",
-    "kaybo",
-    "kemik",
-    "kendi",
-    "kirpi",
-    "külle",
-    "mevcu",
-    "nda",
-    "nde",
-    "sanık",
-    "sanığ",
-    "savcı",
-    "suçla",
-    "sürme",
-    "tanık",
-    "tarih",
-    "tehdi",
-    "uluta",
-    "verdi",
-    "yaktı",
-    "yıl",
-    "yıllı",
-    "yılma",
-    "yılın",
-    "zongu",
-    "öldür",
-    "ölen",
-    "öncek",
-    "şunla"
-   ],
-   "at": "2026-11-17T16:37:23.291351+00:00"
-  },
-  {
-   "fp": [
     "2",
     "7",
     "ambul",
@@ -10845,20 +10761,74 @@
     "üzeri"
    ],
    "at": "2026-11-19T04:24:33.973813+00:00"
+  },
+  {
+   "fp": [
+    "dalga",
+    "dev",
+    "istan",
+    "lodos",
+    "oluşt",
+    "sahil",
+    "üsküd"
+   ],
+   "tok": [
+    "alınm",
+    "bazı",
+    "başla",
+    "bile",
+    "can",
+    "deniz",
+    "dev",
+    "durdu",
+    "eller",
+    "ertes",
+    "etkis",
+    "fabri",
+    "fotoğ",
+    "fırtı",
+    "gelse",
+    "getir",
+    "görün",
+    "göste",
+    "günü",
+    "habaş",
+    "havad",
+    "işçil",
+    "işçin",
+    "kabar",
+    "karşı",
+    "kules",
+    "kıyıy",
+    "kız",
+    "lodos",
+    "metre",
+    "neden",
+    "oluşt",
+    "patla",
+    "patro",
+    "sahil",
+    "sürdü",
+    "verdi",
+    "vuran",
+    "vurdu",
+    "yenid",
+    "yurtt",
+    "yükse",
+    "yürüy",
+    "zorla",
+    "çekil",
+    "önlem",
+    "önünd",
+    "üreti",
+    "üsküd",
+    "ıslat",
+    "şidde"
+   ],
+   "at": "2026-11-19T04:37:20.602703+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0f831daf67",
-   "post_id": "529346797199852_1471063208466720",
-   "title": "Diyanet'te gelenek bozulmadı: 10 ayda 154,6 milyar TL",
-   "at": "2026-11-17T03:19:05.433393+00:00",
-   "yazim": "claude",
-   "metin": "Diyanet Başkanlığı, 2026'nın ilk 10 ayında 154,6 milyar TL harcadı.\n\n— Diyanet'in bu yıl için ayrılan bütçesi 173,4 milyar TL.\n— Bütçesi, çok sayıda bakanlığın bütçesinden daha büyük.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/diyanet-te-gelenek-bozulmadi-10-ayda-154-6-milyar-tl-746810"
-   ]
-  },
   {
    "id": "4c7076b99f",
    "post_id": "529346797199852_1471071025132605",
@@ -13443,6 +13413,19 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/suudi-arabistanin-baskenti-riyadda-erken-uyari-sistemi-devreye-alindi-963740.html",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/suudi-arabistan-in-baskenti-riyad-da-tehlike-alarmi-pes-pese-aciklamalar-geldi-2557433"
    ]
+  },
+  {
+   "id": "f7249fd1f1",
+   "post_id": "529346797199852_1473126444927063",
+   "title": "İstanbul'da lodos sahili vurdu: Üsküdar'da dev dalgalar havadan görüntülendi",
+   "at": "2026-11-19T04:37:20.602703+00:00",
+   "yazim": "claude",
+   "metin": "HABAŞ'ta 19 işçinin can verdiği patlamanın ertesi günü üretim yeniden başladı.\n\n— Patron, işçileri zorla fabrikaya getirdi.\n\n— İşçiler, “Ellerinden gelse patlama günü üretimi durdurmazlardı. Göstermelik bile önlem alınmadı.” dedi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-lodos-denizi-kabartti-dev-dalgalar-olustu-963744.html",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/uskudar-sahilinde-dev-dalgalar-yuruyus-yollarini-asti-4874163",
+    "Evrensel: https://www.evrensel.net/haber/6010167/istanbul-da-lodos-sahili-vurdu-uskudar-da-dev-dalgalar-havadan-goruntulendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13676,7 +13659,6 @@
   "43b02bf46b": 2
  },
  "fail_log": [
-  "2026-11-19T00:59 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
   "2026-11-19T01:12 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
   "2026-11-19T01:12 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
   "2026-11-19T01:12 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
@@ -13715,7 +13697,8 @@
   "2026-11-19T03:59 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
   "2026-11-19T03:59 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
   "2026-11-19T03:59 Depeche Mode şarkıları Zorlu PSM’de -> ValueError: yanıt okunamadı",
-  "2026-11-19T04:12 Tutuklu BirGün muhabiri İsmail Arı bugün hâkim karşısına çık -> ValueError: yanıt okunamadı"
+  "2026-11-19T04:12 Tutuklu BirGün muhabiri İsmail Arı bugün hâkim karşısına çık -> ValueError: yanıt okunamadı",
+  "2026-11-19T04:37 İstanbul'da lodos sahili vurdu: Üsküdar'da dev dalgalar hava -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
