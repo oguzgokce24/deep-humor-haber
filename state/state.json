@@ -10737,21 +10737,61 @@
     "çıkış"
    ],
    "at": "2026-11-19T07:55:22.674002+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "5",
+    "7",
+    "büyük",
+    "depre",
+    "japon",
+    "kişi",
+    "yaral"
+   ],
+   "tok": [
+    "alınd",
+    "alını",
+    "ardın",
+    "askıy",
+    "aynı",
+    "bazı",
+    "bölge",
+    "büyük",
+    "daki",
+    "depre",
+    "derin",
+    "durdu",
+    "emri",
+    "eyale",
+    "gelen",
+    "gerçe",
+    "hızlı",
+    "japon",
+    "kasab",
+    "kayde",
+    "kenti",
+    "kilom",
+    "kuma",
+    "kumam",
+    "kuzey",
+    "meyda",
+    "minam",
+    "nın",
+    "sarsı",
+    "sefer",
+    "tahli",
+    "temmu",
+    "tren",
+    "tsuna",
+    "var",
+    "yakla",
+    "yerin"
+   ],
+   "at": "2026-11-19T08:07:45.376934+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a04535074d",
-   "post_id": "529346797199852_1471191271787247",
-   "title": "AKOM'dan İstanbul için fırtına ve sağanak uyarısı: Tarih ve saat verildi",
-   "at": "2026-11-17T06:29:08.337076+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da çarşamba öğle saatlerinde başlayacak kuvvetli lodos fırtınası cuma akşamına kadar etkili olacak.\n\n— Rüzgarın hızı kısa süreli hamlelerle saatte 85 kilometreye kadar çıkabilir.\n— Fırtınaya aralıklarla sağanak yağış eşlik edecek, hafta sonu gök gürültülü sağanak bekleniyor.\n— Güneyden gelen ılık hava sıcaklıkları 19-22 dereceye çıkaracak. İBB'ye bağlı AKOM, kentteki olumsuz hava koşullarına karşı uyarıda bulundu.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akom-dan-istanbul-icin-firtina-ve-saganak-uyarisi-tarih-ve-saat-verildi-2556764",
-    "Karar: https://www.karar.com/guncel-haberler/akomdan-istanbul-icin-firtina-uyarisi-3-2084535"
-   ]
-  },
   {
    "id": "bc5b99bf9d",
    "post_id": "529346797199852_1471198601786514",
@@ -13361,6 +13401,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-fon-sorusturmasinda-yeni-gelisme-akp-li-hayati-yazici-nin-oglu-mustafa-yazici-adli-kontrolle-serbest-birakildi-2557440",
     "Yeni Şafak: https://www.yenisafak.com/gundem/mustafa-yazici-yurt-disi-cikis-yasagi-ve-imza-seklinde-adli-kontrol-ile-serbest-birakildi-4874185"
    ]
+  },
+  {
+   "id": "fc95df2b23",
+   "post_id": "529346797199852_1473261521580222",
+   "title": "Japonya'da 5,7 büyüklüğünde deprem: 2 yaralı",
+   "at": "2026-11-19T08:07:45.376934+00:00",
+   "yazim": "claude",
+   "metin": "Japonya'nın Kumamoto eyaletinde 5,7 büyüklüğünde deprem oldu, 2 kişi yaralandı.\n\n— Depremin merkezi Tsunagi kasabasının 4 kilometre kuzeybatısındaydı ve 10 kilometre derinlikte gerçekleşti.\n— Minamata kenti ile Kuma kasabasında tahliye kararı alındı.\n— Bazı hızlı tren seferleri durduruldu.\n— Aynı eyalette 28 Temmuz'daki 7,1 büyüklüğündeki depremde yaklaşık 40 kişi hayatını kaybetmişti.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/japonyada-5-7-buyuklugundeki-depremde-2-kisi-yaralandi/4130070",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/japonyada-57-buyuklugundeki-depremde-2-kisi-yaralandi-963777.html",
+    "Karar: https://www.karar.com/dunya-haberleri/japonyada-57-buyuklugunde-deprem-2-yarali-2085011",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/japonyada-5-7-buyuklugunde-deprem-yaralilar-var-iki-bolgede-tahliye-emri-43383373"
+   ]
   }
  ],
  "fails": {
@@ -13643,7 +13697,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123321706185945205",
+   "since_id": "2123327104834019557",
    "started": true
   },
   "ajansmuhbir1923": {
