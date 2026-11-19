@@ -2,97 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "karar",
-    "topla"
-   ],
-   "tok": [
-    "aldı",
-    "anne",
-    "babal",
-    "bekir",
-    "belir",
-    "bildi",
-    "boğul",
-    "büzme",
-    "denet",
-    "dikka",
-    "durum",
-    "edebi",
-    "farkl",
-    "geçer",
-    "giysi",
-    "güven",
-    "ipler",
-    "kapla",
-    "karşı",
-    "kordo",
-    "kulla",
-    "mayos",
-    "müşav",
-    "oluşt",
-    "piyas",
-    "riski",
-    "satış",
-    "stand",
-    "sürec",
-    "tehdi",
-    "ticar",
-    "topla",
-    "uymad",
-    "uzakl",
-    "yasak",
-    "yönel",
-    "çocuk",
-    "ürün",
-    "ürünl",
-    "ürünü"
-   ],
-   "at": "2026-11-17T20:46:42.658783+00:00"
-  },
-  {
-   "fp": [
-    "abd",
-    "artık",
-    "hasta",
-    "kalkm",
-    "kızam",
-    "ortad"
-   ],
-   "tok": [
-    "abd",
-    "ameri",
-    "artık",
-    "arınm",
-    "belir",
-    "değer",
-    "değil",
-    "dönem",
-    "göre",
-    "hasta",
-    "kalkm",
-    "kızam",
-    "meksi",
-    "neden",
-    "nin",
-    "olmad",
-    "orand",
-    "ortad",
-    "pan",
-    "sağlı",
-    "statü",
-    "virüs",
-    "yayıl",
-    "yetki",
-    "yükse",
-    "zaman",
-    "örgüt",
-    "ülke"
-   ],
-   "at": "2026-11-17T20:59:20.132775+00:00"
-  },
-  {
-   "fp": [
     "deste",
     "fbı",
     "hızla",
@@ -10776,22 +10685,70 @@
     "çekti"
    ],
    "at": "2026-11-19T08:45:20.634428+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "173",
+    "borç",
+    "dolar",
+    "dış",
+    "kısa",
+    "milya",
+    "stoku",
+    "vadel",
+    "yükse"
+   ],
+   "tok": [
+    "artar",
+    "artış",
+    "banka",
+    "borcu",
+    "borç",
+    "borçl",
+    "borçt",
+    "cinsi",
+    "dönem",
+    "dış",
+    "dışın",
+    "eylül",
+    "gerek",
+    "göre",
+    "ilişk",
+    "ise",
+    "içind",
+    "kalan",
+    "kısa",
+    "milya",
+    "nin",
+    "sektö",
+    "stoku",
+    "süre",
+    "sırad",
+    "tcmb",
+    "temmu",
+    "topla",
+    "ulaşt",
+    "vadel",
+    "vades",
+    "vadey",
+    "veril",
+    "yayım",
+    "yükse",
+    "yüzde",
+    "yıl",
+    "yılın",
+    "çeyre",
+    "çıktı",
+    "ödenm",
+    "öncek",
+    "önümü",
+    "üçünc"
+   ],
+   "at": "2026-11-19T09:05:57.642104+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "26bbf5816b",
-   "post_id": "529346797199852_1471235495116158",
-   "title": "Konut satışlarında sert düşüş: Ekim ayında yüzde 23,3 geriledi",
-   "at": "2026-11-17T07:44:46.730727+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye genelinde ekimde konut satışları yıllık bazda yüzde 23,3 düşerek 131 bin 72 oldu.\n\n— Geçen yılın aynı ayında 170 bin 955 konut satılmıştı.\n— İkinci el konut satışları yüzde 28,5 azalarak 80 bin 967'ye indi.\n— Ocak-ekim döneminde toplam konut satışları yüzde 9,2 geriledi.\n— İş yeri satışları da ekimde yüzde 12,6 düşerek 16 bin 489 oldu.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/ekonomi/konutta-reel-dususe-devam-3927882",
-    "Habertürk: https://www.haberturk.com/ekonomi/son-dakika-konut-satislarinda-dusus-3927870",
-    "Karar: https://www.karar.com/ekonomi-haberleri/konut-satislarinda-sert-dusus-ekim-ayinda-yuzde-233-geriledi-2084551"
-   ]
-  },
   {
    "id": "0563df9719",
    "post_id": "529346797199852_1471243058448735",
@@ -13405,6 +13362,19 @@
     "Habertürk: https://www.haberturk.com/ekonomi/konut-fiyatlarindaki-yillik-artis-77-ayin-en-dusugunde-3928456",
     "BirGün: https://www.birgun.net/haber/merkez-bankasi-acikladi-konut-fiyatlarinda-artis-hizi-son-77-ayin-en-dusuk-seviyesinde-747263"
    ]
+  },
+  {
+   "id": "64cedb58e6",
+   "post_id": "529346797199852_1473301301576244",
+   "title": "Kısa vadeli dış borç stoku 173,1 milyar dolara yükseldi",
+   "at": "2026-11-19T09:05:57.642104+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'nin kısa vadeli dış borç stoku üçüncü çeyrekte yüzde 1,5 artarak 173,1 milyar dolara çıktı.\n\n— Bankaların kısa vadeli dış borcu yüzde 0,6 artışla 75,1 milyar dolara yükseldi.\n— Bankacılık dışındaki sektörlerin borcu yüzde 2,3 artarak 73,6 milyar dolara ulaştı.\n— Önümüzdeki bir yıl içinde ödenmesi gereken borç, kalan vadeye göre 240,2 milyar dolar.\n— Dış borçta dolar ilk sırada; toplam borcun yüzde 33,7'si dolar cinsinden.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/ekonomi/turkiyenin-kisa-vadeli-dis-borcu-173-1-milyar-dolara-yukseldi-3495195",
+    "BirGün: https://www.birgun.net/haber/kisa-vadeli-dis-borc-stoku-yukseldi-747255",
+    "Karar: https://www.karar.com/ekonomi-haberleri/kisa-vadeli-dis-borc-stoku-1731-milyar-dolara-yukseldi-2085019"
+   ]
   }
  ],
  "fails": {
@@ -13688,7 +13658,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123334693374328920",
+   "since_id": "2123339348602962217",
    "started": true
   },
   "ajansmuhbir1923": {
