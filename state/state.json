@@ -2,77 +2,6 @@
  "seen": [
   {
    "fp": [
-    "20",
-    "hafri",
-    "hayat",
-    "kamyo",
-    "kaybe",
-    "metre",
-    "yuvar",
-    "şoför"
-   ],
-   "tok": [
-    "ait",
-    "aksu",
-    "alan",
-    "ancak",
-    "cenaz",
-    "cinay",
-    "cudi",
-    "dağı",
-    "devle",
-    "devri",
-    "ekipl",
-    "etekl",
-    "gönde",
-    "hafri",
-    "hasta",
-    "ihbar",
-    "ilçes",
-    "içind",
-    "işlet",
-    "işçi",
-    "kaldı",
-    "kamyo",
-    "kontr",
-    "kurta",
-    "kömür",
-    "köyü",
-    "mehme",
-    "metre",
-    "mevki",
-    "morgu",
-    "müdah",
-    "nda",
-    "ocağı",
-    "olay",
-    "otops",
-    "rağme",
-    "sağlı",
-    "silop",
-    "sonuc",
-    "sürüc",
-    "sıkış",
-    "yakla",
-    "yaşam",
-    "yer",
-    "yerde",
-    "yerin",
-    "yitir",
-    "yolda",
-    "yuvar",
-    "çevre",
-    "çıkar",
-    "çıkıp",
-    "öğled",
-    "şaram",
-    "şoför",
-    "şırna"
-   ],
-   "at": "2026-11-17T14:15:55.218755+00:00"
-  },
-  {
-   "fp": [
     "adil",
     "atand",
     "fon",
@@ -10716,20 +10645,59 @@
     "önüne"
    ],
    "at": "2026-11-19T02:06:03.129640+00:00"
+  },
+  {
+   "fp": [
+    "7",
+    "aşkın",
+    "dışın",
+    "genç",
+    "hayat",
+    "milyo",
+    "rapor",
+    "tüik",
+    "çalış",
+    "çeyre",
+    "üçünc"
+   ],
+   "tok": [
+    "alan",
+    "almıy",
+    "alıyo",
+    "arttı",
+    "artış",
+    "aşkın",
+    "bin",
+    "dışın",
+    "eğiti",
+    "genç",
+    "gençl",
+    "gençt",
+    "grubu",
+    "göre",
+    "ilişk",
+    "istih",
+    "işgüc",
+    "kişil",
+    "okuya",
+    "rapor",
+    "sayı",
+    "sayıs",
+    "tüik",
+    "ulaşt",
+    "veril",
+    "yaş",
+    "yer",
+    "yükse",
+    "yılın",
+    "çalış",
+    "çeyre",
+    "üçünc"
+   ],
+   "at": "2026-11-19T02:18:40.953281+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "42a1368942",
-   "post_id": "529346797199852_1470936801812694",
-   "title": "OpenAI'ye güvenlik eksiklikleri nedeniyle dava: Yapay zeka modelleri mercek altında",
-   "at": "2026-11-17T00:06:00.413120+00:00",
-   "yazim": "claude",
-   "metin": "California Başsavcısı Rob Bonta, ABD merkezli OpenAI'yi yapay zeka modellerinde yeterli güvenlik önlemi almamakla suçlayarak dava açtı.\n\n— Başsavcılığa göre şirket, gelişmiş modellerini yeterli denetim olmadan test etti ve bu süreçte kamuoyunu yanılttığı iddia edildi.\n— Dava kapsamında, OpenAI'nin temmuz ayındaki dahili bir testte kullanılan modellerin Hugging Face altyapısında güvenlik ihlaline yol açtığı da gündeme geldi.\n— Başsavcılık, uygulamaların California Haksız Rekabet Yasası'na aykırı olduğunu ve toplumun güvenliğini tehdit ettiğini öne sürüyor.\n— Suçlamalar henüz mahkemede karara bağlanmadı, şirketin sorumluluğu şimdilik kesinleşmiş değil.",
-   "sources": [
-    "Karar: https://www.karar.com/teknoloji-haberleri/openaiye-guvenlik-eksiklikleri-nedeniyle-dava-yapay-zeka-modelleri-2084511"
-   ]
-  },
   {
    "id": "be1d17d9d0",
    "post_id": "529346797199852_1470945228478518",
@@ -13320,6 +13288,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/agir-hak-ihlali-faturasi-630-6-milyon-tllik-tazminat-747214"
    ]
+  },
+  {
+   "id": "0d60941153",
+   "post_id": "529346797199852_1473030358270005",
+   "title": "TÜİK'in üçüncü çeyrek raporu: 7 milyonu aşkın genç çalışma hayatının dışında",
+   "at": "2026-11-19T02:18:40.953281+00:00",
+   "yazim": "claude",
+   "metin": "15-34 yaş grubunda ne okuyan ne çalışan gençlerin sayısı arttı, TÜİK'in üçüncü çeyrek verilerine göre 7 milyon 155 bin kişiye ulaştı.\n\n— Bu sayı 617 bin kişilik bir artışla yükseldi.\n\n— 100 gençten 30'u ne eğitimde ne de çalışma hayatında yer alıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/tuik-in-ucuncu-ceyrek-raporu-7-milyonu-askin-genc-calisma-hayatinin-disinda-747208"
+   ]
   }
  ],
  "fails": {
@@ -13552,12 +13531,9 @@
   "7d3e4114b0": 1,
   "43b02bf46b": 2,
   "8199885d23": 1,
-  "94011d32e5": 1
+  "94011d32e5": 2
  },
  "fail_log": [
-  "2026-11-18T22:08 Premier Lig, kış aylarında kullanılacak topunu tanıttı. -> ValueError: yanıt okunamadı",
-  "2026-11-18T22:08 Premier Lig, kış aylarında kullanılacak topunu tanıttı. -> ValueError: yanıt okunamadı",
-  "2026-11-18T22:08 Premier Lig, kış aylarında kullanılacak topunu tanıttı. -> ValueError: yanıt okunamadı",
   "2026-11-18T22:33 Yılın doğa fotoğrafı: Nilüfer yaprağı ve buzdan ikizi -> ValueError: yanıt okunamadı",
   "2026-11-18T22:33 Yılın doğa fotoğrafı: Nilüfer yaprağı ve buzdan ikizi -> ValueError: yanıt okunamadı",
   "2026-11-18T22:33 Yılın doğa fotoğrafı: Nilüfer yaprağı ve buzdan ikizi -> ValueError: yanıt okunamadı",
@@ -13594,7 +13570,10 @@
   "2026-11-19T01:12 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
   "2026-11-19T02:06 Mahir Günşiray: \"Türkiye’de her zaman sansür vardı\" -> ValueError: yanıt okunamadı",
   "2026-11-19T02:06 Mahir Günşiray: \"Türkiye’de her zaman sansür vardı\" -> ValueError: yanıt okunamadı",
-  "2026-11-19T02:06 Mahir Günşiray: \"Türkiye’de her zaman sansür vardı\" -> ValueError: yanıt okunamadı"
+  "2026-11-19T02:06 Mahir Günşiray: \"Türkiye’de her zaman sansür vardı\" -> ValueError: yanıt okunamadı",
+  "2026-11-19T02:18 Mahir Günşiray: \"Türkiye’de her zaman sansür vardı\" -> ValueError: yanıt okunamadı",
+  "2026-11-19T02:18 Mahir Günşiray: \"Türkiye’de her zaman sansür vardı\" -> ValueError: yanıt okunamadı",
+  "2026-11-19T02:18 Mahir Günşiray: \"Türkiye’de her zaman sansür vardı\" -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
