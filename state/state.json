@@ -10746,22 +10746,41 @@
     "üçünc"
    ],
    "at": "2026-11-19T09:05:57.642104+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "6",
+    "büyük",
+    "depre",
+    "malat"
+   ],
+   "tok": [
+    "afad",
+    "aktar",
+    "büyük",
+    "daire",
+    "depre",
+    "derin",
+    "doğan",
+    "duyur",
+    "geldi",
+    "ilçes",
+    "kayde",
+    "kilom",
+    "malat",
+    "meyda",
+    "nın",
+    "odağı",
+    "saat",
+    "sıral",
+    "yaşan",
+    "yerin"
+   ],
+   "at": "2026-11-19T09:18:25.239196+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0563df9719",
-   "post_id": "529346797199852_1471243058448735",
-   "title": "The Guardian: İsrail ordusu, Filistinlileri takip etmek için milyonlarca fotoğrafı Amazon'a yükledi",
-   "at": "2026-11-17T07:57:59.581049+00:00",
-   "yazim": "claude",
-   "metin": "İsrail ordusu, Filistinlilere ait 3,5 milyon fotoğrafı yüz tanıma amacıyla Amazon'un bulut sistemine yükledi.\n\nFotoğrafların, Gazze'den kontrol noktalarından geçen Filistinlilerin sistematik olarak çekilmiş görüntüleri olduğu belirtiliyor. Ancak hepsinin bu kontrol noktalarında çekilip çekilmediği kesin olarak bilinmiyor.\n\n— Yüklemeler, Gazze'ye yönelik saldırıların ilk aylarında yapıldı.\n— Ordunun bir biriminin, Amazon'un yapay zeka destekli \"Rekognition\" platformunu yüz tanıma için kullanmak istediği bildirildi.\n— Bir grup İsrail askerinin, Gazze'deki yüz tanıma faaliyetlerini güçlendirmek için Amazon'un altyapısından nasıl yararlanılabileceğini araştırdığı iddia edildi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/the-guardian-israil-ordusu-filistinlileri-takip-etmek-icin-milyonlarca-fotografi-amazona-yukledi/4127312",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/the-guardian-israil-ordusu-filistinlileri-takip-etmek-icin-milyonlarca-fotografi-amazona-yukledi-963521.html",
-    "Evrensel: https://www.evrensel.net/haber/6009850/the-guardian-israil-ordusu-filistinlileri-takip-etmek-icin-milyonlarca-fotografi-amazon-a-yukledi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "7a93e434b9",
    "post_id": "529346797199852_1471250775114630",
@@ -13375,6 +13394,19 @@
     "BirGün: https://www.birgun.net/haber/kisa-vadeli-dis-borc-stoku-yukseldi-747255",
     "Karar: https://www.karar.com/ekonomi-haberleri/kisa-vadeli-dis-borc-stoku-1731-milyar-dolara-yukseldi-2085019"
    ]
+  },
+  {
+   "id": "61a9032fc3",
+   "post_id": "529346797199852_1473310294908678",
+   "title": "AFAD duyurdu: Malatya'da 3.6 büyüklüğünde deprem",
+   "at": "2026-11-19T09:18:25.239196+00:00",
+   "yazim": "claude",
+   "metin": "Malatya'nın Doğanşehir ilçesinde 3.6 büyüklüğünde deprem meydana geldi.\n\n— AFAD, depremin saat 11.45 sıralarında yaşandığını duyurdu.\n— Depremin odağı yerin 19.52 kilometre derinliğinde kaydedildi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/malatyada-3-6-buyuklugunde-deprem-43383571",
+    "CNN Türk: https://www.cnnturk.com/turkiye/malatyada-3-6-buyuklugunde-deprem-3495277",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-malatya-da-3-6-buyuklugunde-deprem-2557523"
+   ]
   }
  ],
  "fails": {
@@ -13658,7 +13690,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123339348602962217",
+   "since_id": "2123343966053495189",
    "started": true
   },
   "ajansmuhbir1923": {
