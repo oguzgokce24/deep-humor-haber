@@ -2,63 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bazı",
-    "bozca",
-    "ferib",
-    "gökçe",
-    "hatla",
-    "iptal",
-    "sefer",
-    "yarın"
-   ],
-   "tok": [
-    "bazı",
-    "bekli",
-    "boyun",
-    "bozca",
-    "bölge",
-    "dan",
-    "deki",
-    "den",
-    "deniz",
-    "diğer",
-    "duyur",
-    "ege",
-    "ferib",
-    "gesta",
-    "geyik",
-    "gökçe",
-    "güney",
-    "hatla",
-    "hattı",
-    "hava",
-    "iptal",
-    "kabat",
-    "kasım",
-    "koşul",
-    "kuvve",
-    "kuzey",
-    "kötü",
-    "meteo",
-    "metre",
-    "neden",
-    "nin",
-    "olums",
-    "planl",
-    "rüzga",
-    "sefer",
-    "söylü",
-    "yapıl",
-    "yarın",
-    "yer",
-    "yüzün",
-    "çıkab",
-    "şartl"
-   ],
-   "at": "2026-11-17T14:56:19.363796+00:00"
-  },
-  {
-   "fp": [
     "1",
     "16",
     "ateş",
@@ -10802,20 +10745,64 @@
     "şenol"
    ],
    "at": "2026-11-19T02:54:59.841121+00:00"
+  },
+  {
+   "fp": [
+    "amaç",
+    "basın",
+    "gerçe",
+    "sansü",
+    "örtme",
+    "üstün"
+   ],
+   "tok": [
+    "aktar",
+    "akışı",
+    "amaç",
+    "ardın",
+    "atana",
+    "balmu",
+    "barba",
+    "basın",
+    "beşik",
+    "dan",
+    "duyur",
+    "düzen",
+    "engel",
+    "eylem",
+    "gazet",
+    "geldi",
+    "gerçe",
+    "günü",
+    "hale",
+    "herke",
+    "inter",
+    "kasım",
+    "katıl",
+    "kayyu",
+    "meyda",
+    "müdah",
+    "parti",
+    "pazar",
+    "sansü",
+    "sites",
+    "sözcü",
+    "yapac",
+    "yayın",
+    "yazar",
+    "yazıl",
+    "yurtt",
+    "yürüy",
+    "çağır",
+    "çelik",
+    "örtme",
+    "özgür",
+    "üstün"
+   ],
+   "at": "2026-11-19T03:07:40.410191+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "dbaefef260",
-   "post_id": "529346797199852_1470971071809267",
-   "title": "İhracat rakamları rekor kırarken Türkiye'nin dünya ticaretindeki payı yüzde 1'in altına düştü",
-   "at": "2026-11-17T00:57:28.987321+00:00",
-   "yazim": "claude",
-   "metin": "Ticaret Bakanı Ömer Bolat, ekim ayı ihracatının rekor seviyede olduğunu açıkladı:\n\n“Mal ihracatında son 42 ayın 31'inde artış, 24'ünde rekor kırdık.”\n\nEkim ayında 25,9 milyar dolarlık ihracat yapıldı. Bu, 103 yıllık Cumhuriyet tarihinin en yüksek üçüncü aylık ihracatı.\n\nAma dünya ticaretindeki payımız düşüyor. Türkiye'nin dünya ihracatındaki payı yüzde 1'in altına geriledi. TİM ve PwC raporuna göre bu pay 2026'da yüzde 0,98 oldu. 2023'te yüzde 1,08 ile zirveye çıkmıştı.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/ihracatcilar-neden-zarar-ediyor-kuresel-ticarette-turkiyenin-payi-2084513"
-   ]
-  },
   {
    "id": "5f2c65a932",
    "post_id": "529346797199852_1471007261805648",
@@ -13401,6 +13388,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/tunc-soyer-e-bir-davadan-tahliye-tutuklulugu-surecek-747223"
    ]
+  },
+  {
+   "id": "d64adc921e",
+   "post_id": "529346797199852_1473062518266789",
+   "title": "Basına sansürde amaç gerçeğin üstünü örtmek",
+   "at": "2026-11-19T03:07:40.410191+00:00",
+   "yazim": "claude",
+   "metin": "Kayyum atanan Sözcü TV'de yayın akışına müdahale edildi.\n\n— Ardından Sözcü gazetesi yazarlarının yazıları internet sitesine aktarılamaz hale geldi.\n\n— YENİ Parti İstanbul İl Başkanı Özgür Çelik, 22 Kasım Pazar günü Beşiktaş Balmumcu'dan Barbaros Meydanı'na yürüyüş yapacaklarını duyurdu ve herkesi eyleme katılmaya çağırdı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/basina-sansurde-amac-gercegin-ustunu-ortmek-747209"
+   ]
   }
  ],
  "fails": {
@@ -13632,12 +13630,9 @@
   "e1ff08edbe": 1,
   "7d3e4114b0": 1,
   "43b02bf46b": 2,
-  "8199885d23": 1
+  "8199885d23": 2
  },
  "fail_log": [
-  "2026-11-19T00:43 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-19T00:43 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-19T00:43 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-19T00:43 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
   "2026-11-19T00:43 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
   "2026-11-19T00:43 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
@@ -13674,7 +13669,10 @@
   "2026-11-19T02:44 İstanbul'un üçte birinde aynı ilin kütüğü var: İşte 39 ilçen -> ValueError: yanıt okunamadı",
   "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
   "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
-  "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı"
+  "2026-11-19T02:55 Aileci politikalar kadını korumasız bırakıyor: Şiddet dört b -> ValueError: yanıt okunamadı",
+  "2026-11-19T03:07 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
+  "2026-11-19T03:07 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı",
+  "2026-11-19T03:07 Evinden çıkamayan yaşlılar için tek telefon yetiyor: 60 ve 6 -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
