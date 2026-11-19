@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "izmir",
-    "otobü",
-    "rayda",
-    "tramv",
-    "çarpa",
-    "çıktı"
-   ],
-   "tok": [
-    "akden",
-    "aksam",
-    "alma",
-    "altay",
-    "başla",
-    "beled",
-    "bulva",
-    "can",
-    "dönme",
-    "dönüş",
-    "ekipl",
-    "fahre",
-    "gazi",
-    "giden",
-    "güven",
-    "halka",
-    "ilgil",
-    "ilçes",
-    "izmir",
-    "kamer",
-    "kaybı",
-    "kazay",
-    "konak",
-    "kısa",
-    "mahal",
-    "manev",
-    "nda",
-    "nde",
-    "olayd",
-    "olmad",
-    "otobü",
-    "raya",
-    "rayda",
-    "saat",
-    "sefer",
-    "sola",
-    "sürdü",
-    "sürel",
-    "sıral",
-    "tramv",
-    "yapan",
-    "yaşan",
-    "yönün",
-    "çalış",
-    "çarpa",
-    "çarpt",
-    "çarpı",
-    "çıktı"
-   ],
-   "at": "2026-11-17T12:27:40.765501+00:00"
-  },
-  {
-   "fp": [
     "1",
     "ailes",
     "almış",
@@ -10833,20 +10772,72 @@
     "çifti"
    ],
    "at": "2026-11-19T00:16:47.632035+00:00"
+  },
+  {
+   "fp": [
+    "13",
+    "açıkl",
+    "başka",
+    "daire",
+    "dokun",
+    "fiill",
+    "hukuk",
+    "işler",
+    "madde",
+    "spk",
+    "suç",
+    "tanın",
+    "ten",
+    "törem",
+    "üncü"
+   ],
+   "tok": [
+    "bağış",
+    "daire",
+    "daki",
+    "dokun",
+    "dolay",
+    "dışın",
+    "ebru",
+    "fiil",
+    "fiild",
+    "fiill",
+    "gerek",
+    "göre",
+    "görev",
+    "hatic",
+    "hukuk",
+    "ikinc",
+    "işler",
+    "kanun",
+    "kimse",
+    "korum",
+    "kurul",
+    "kısmı",
+    "madde",
+    "neden",
+    "ona",
+    "piyas",
+    "sayıl",
+    "serma",
+    "spk",
+    "suç",
+    "tanın",
+    "ten",
+    "törem",
+    "usulü",
+    "uygul",
+    "vurgu",
+    "yani",
+    "yaptı",
+    "öneml",
+    "üncü",
+    "şunu"
+   ],
+   "at": "2026-11-19T00:30:12.339662+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b1450fd40d",
-   "post_id": "529346797199852_1470892521817122",
-   "title": "Verilen sözler tutulmadı: Medical Hospital işçileri ikinci hastane önünde eylem yaptı",
-   "at": "2026-11-16T22:51:46.407263+00:00",
-   "yazim": "claude",
-   "metin": "Elazığ'da maaşlarını alamayan sağlık çalışanları, hastane yönetiminin ikinci hastanesi önünde eylem yaptı.\n\nÖzel Medikal Hospital'de çalışan doktor ve sağlık emekçileri, ödemeler yapılmadığı için işverene tepki gösteriyor.\n\n— Doktorların dört aylık, diğer sağlık çalışanlarının 69 günlük maaşı ödenmedi.\n— İş akitleri 9 Kasım'da feshedilen çalışanların tazminat ve izin hakları da verilmedi.\n— Yönetim 16 Kasım'a kadar süre istemişti, ama süre dolunca ödeme yapılmadı.\n— Anadolu Hastanesi önünde toplanan çalışanlar, \"Alın terimiz olan hakkımızı istiyoruz, sadaka değil\" diyerek tepki gösterdi.\n— Yönetim 17 Kasım Salı günü saat 12.00'ye kadar yeni bir süre istedi. Çalışanlar haklarını tam alana kadar eyleme devam edeceklerini söyledi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009819/verilen-sozler-tutulmadi-medical-hospital-iscileri-ikinci-hastane-onunde-eylem-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "802f35a7df",
    "post_id": "529346797199852_1470900261816348",
@@ -13436,6 +13427,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/eski-sevgili-mesajlari-hukuken-bosanmada-sebebi-mi-eski-sevgiliyle-2084980"
    ]
+  },
+  {
+   "id": "17335cc30b",
+   "post_id": "529346797199852_1472960944943613",
+   "title": "SPK Hukuk İşleri Daire Başkanı Töremiş'ten 13'üncü madde açıklaması: \"Suç olan fiiller için dokunulmazlık tanınmıyor\"",
+   "at": "2026-11-19T00:30:12.339662+00:00",
+   "yazim": "claude",
+   "metin": "SPK Hukuk İşleri Daire Başkanı Hatice Ebru Töremiş, 13'üncü madde için:\n\n“Yani kimseye suç olan bir fiilden dolayı bir dokunulmazlık, bağışıklık tanınmıyor.”\n\n— Töremiş, görevi dışında yapılan fiiller için de dokunulmazlık tanınmadığını söyledi.\n— Ona göre 6362 sayılı Kanun'daki soruşturma usulü korumaları 7596 sayılı Kanun için uygulanamaz.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/spk-hukuk-isleri-daire-baskani-toremis-ten-13-uncu-madde-aciklamasi-suc-olan-fiiller-icin-dokunulmazlik-taninmiyor-747220"
+   ]
   }
  ],
  "fails": {
@@ -13664,12 +13666,10 @@
   "b85ca1a229": 1,
   "48ced4f78e": 1,
   "0ab7da661d": 1,
-  "e1ff08edbe": 1
+  "e1ff08edbe": 1,
+  "7a93cfed5c": 1
  },
  "fail_log": [
-  "2026-11-18T16:30 Ahmet Şık açıkladı: Erlik'in Akın Gürlek hakkındaki videosun -> ValueError: yanıt okunamadı",
-  "2026-11-18T17:20 Zimmet soruşturmasında tutuklama karar: Eski belediye başkan -> ValueError: yanıt okunamadı",
-  "2026-11-18T17:20 Zimmet soruşturmasında tutuklama karar: Eski belediye başkan -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-18T17:58 Manchester United: Yasa dışı transfer girişimi kanıtlanırsa  -> ValueError: yanıt okunamadı",
   "2026-11-18T17:58 Manchester United: Yasa dışı transfer girişimi kanıtlanırsa  -> ValueError: yanıt okunamadı",
   "2026-11-18T17:58 Manchester United: Yasa dışı transfer girişimi kanıtlanırsa  -> ValueError: yanıt okunamadı",
@@ -13706,7 +13706,10 @@
   "2026-11-18T22:59 Yılın doğa fotoğrafı: Nilüfer yaprağı ve buzdan ikizi -> ValueError: yanıt okunamadı",
   "2026-11-18T22:59 Yılın doğa fotoğrafı: Nilüfer yaprağı ve buzdan ikizi -> ValueError: yanıt okunamadı",
   "2026-11-18T22:59 Yılın doğa fotoğrafı: Nilüfer yaprağı ve buzdan ikizi -> ValueError: yanıt okunamadı",
-  "2026-11-18T22:59 Nükleer tıpta maliyet hesabı: Bedeli işçi ve hasta ödüyor -> ValueError: yanıt okunamadı"
+  "2026-11-18T22:59 Nükleer tıpta maliyet hesabı: Bedeli işçi ve hasta ödüyor -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:30 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:30 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:30 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
