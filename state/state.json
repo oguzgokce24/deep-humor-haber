@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "2",
-    "4",
-    "ağır",
-    "eskiş",
-    "kamyo",
-    "kazas",
-    "kişi",
-    "motos",
-    "otomo",
-    "trafi",
-    "yaral",
-    "çarpt",
-    "çarpı",
-    "öldü",
-    "ölü",
-    "ığdır"
-   ],
-   "tok": [
-    "anar",
-    "ardın",
-    "arkad",
-    "ağır",
-    "biri",
-    "deki",
-    "devri",
-    "diyar",
-    "diğer",
-    "emre",
-    "ensar",
-    "eskiş",
-    "halin",
-    "hasta",
-    "kaldı",
-    "kamyo",
-    "karış",
-    "kasta",
-    "kazas",
-    "kazay",
-    "motos",
-    "otomo",
-    "park",
-    "sürdü",
-    "sürüy",
-    "sıras",
-    "tedav",
-    "tehli",
-    "trafi",
-    "yerin",
-    "yusuf",
-    "zinci",
-    "çarpa",
-    "çarpt",
-    "çarpı",
-    "çekic",
-    "öğren",
-    "ürtek",
-    "ığdır"
-   ],
-   "at": "2026-11-17T23:30:06.999416+00:00"
-  },
-  {
-   "fp": [
     "3",
     "brüks",
     "enfla",
@@ -10743,25 +10680,83 @@
     "üzere"
    ],
    "at": "2026-11-19T11:29:36.298426+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "göçük",
+    "hayat",
+    "inşaa",
+    "işçi",
+    "kalan",
+    "kaybe",
+    "kayma",
+    "sulta",
+    "topra"
+   ],
+   "tok": [
+    "afad",
+    "alanı",
+    "altın",
+    "arama",
+    "ardın",
+    "başla",
+    "bulun",
+    "bölge",
+    "cesed",
+    "cinay",
+    "deki",
+    "ekipl",
+    "geldi",
+    "gelen",
+    "göçük",
+    "ilgil",
+    "ilçes",
+    "incel",
+    "inşaa",
+    "itfai",
+    "işçi",
+    "işçin",
+    "kahre",
+    "kalan",
+    "kaldı",
+    "katıl",
+    "kayma",
+    "kurta",
+    "köpek",
+    "mahal",
+    "meyda",
+    "ndeki",
+    "olay",
+    "olayl",
+    "reis",
+    "saat",
+    "saatl",
+    "sefa",
+    "sevk",
+    "sokak",
+    "sonuc",
+    "sonun",
+    "sulta",
+    "süren",
+    "sıral",
+    "sıras",
+    "topra",
+    "turgu",
+    "ulaşı",
+    "yakla",
+    "yapım",
+    "yaşam",
+    "yaşan",
+    "yaşın",
+    "yitir",
+    "çalış",
+    "ölüm"
+   ],
+   "at": "2026-11-19T11:42:22.522496+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "449279c1f5",
-   "post_id": "529346797199852_1471352868437754",
-   "title": "Son dakika... Zamanlaması dikkat çekti: Devlet Bahçeli ve Akın Gürlek'ten sürpriz görüşme",
-   "at": "2026-11-17T10:45:13.964785+00:00",
-   "yazim": "claude",
-   "metin": "Adalet Bakanı Akın Gürlek, MHP Genel Başkanı Devlet Bahçeli ile Meclis'te bir araya geldi.\n\nGörüşme, Sözcü TV ve Sözcü internet sitesine yapılan operasyonun aynı gün gelmesi nedeniyle dikkat çekti.\n\n— Gürlek'in, 2 Kasım'da hayatını kaybeden Bahçeli'nin kız kardeşi Serpil Bahçeli için taziyelerini ilettiği öne sürüldü.\n\n— Muhabirler, görüşmede Terörsüz Türkiye süreci ile Meclis İzleme Komisyonu'nun da gündeme gelmiş olabileceğini belirtti.\n\n— Sözcü TV'ye yapılan operasyonda 4 kişi gözaltına alındı. Suçlama \"FETÖ/PDY üyeliği ve terörizmin finansmanı\" olarak açıklandı. Kanal ve internet sitesine kayyım atandı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/mhp-lideri-bahceli-ile-bakan-gurlek-bir-araya-geldi-43381226",
-    "Milliyet: https://www.milliyet.com.tr/gundem/mhp-lideri-bahceli-ile-bakan-gurlek-bir-araya-geldi-7702394",
-    "CNN Türk: https://www.cnnturk.com/video/turkiye/bahceli-bakan-gurlek-ile-bir-araya-geldi-3494323",
-    "NTV: https://www.ntv.com.tr/turkiye/bakan-gurlek-devlet-bahceli-ile-gorusuyor-1751283",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-bahceli-gurlek-ile-gorusuyor-3927942",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-zamanlamasi-dikkat-cekti-devlet-bahceli-ve-akin-gurlek-ten-surpriz-gorusme-2556862"
-   ]
-  },
   {
    "id": "01c1e88701",
    "post_id": "529346797199852_1471363485103359",
@@ -13371,6 +13366,22 @@
     "Evrensel: https://www.evrensel.net/haber/6010231/guney-kore-de-eski-basbakan-han-in-15-yillik-cezasi-bozuldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/dunya-haberleri/guney-korede-eski-basbakan-hanin-sikiyonetim-davasindaki-cezasi-bozuldu-2085067"
    ]
+  },
+  {
+   "id": "df0fe5218e",
+   "post_id": "529346797199852_1473421121564262",
+   "title": "Sultanbeyli'deki inşaatta toprak kayması! Bir işçi göçük altında",
+   "at": "2026-11-19T11:42:22.522496+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Sultanbeyli ilçesinde bir inşaat alanında toprak kayması yaşandı, göçük altında kalan 45 yaşındaki işçi hayatını kaybetti.\n\n— Olay saat 10.30 sıralarında Turgut Reis Mahallesi'ndeki Sefa Sokak'ta, yapımı süren bir inşaatta meydana geldi.\n— Çalışma sırasında yaşanan toprak kaymasının ardından bölgeye itfaiye, AFAD ve arama kurtarma ekipleri sevk edildi.\n— Arama kurtarma köpeklerinin de katıldığı yaklaşık 1 saatlik çalışmanın sonunda işçinin cansız bedenine ulaşıldı.\n— Olayla ilgili inceleme başlatıldı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-toprak-altinda-kalan-isci-hayatini-kaybetti-963797.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/sultanbeylide-insaatta-toprak-kaymasi-toprak-altinda-kalan-isciyi-kurtarma-calismasi-baslatildi-43383475",
+    "Sözcü: https://www.sozcu.com.tr/istanbul-da-kahreden-olum-isci-toprak-altinda-kaldi-p382732",
+    "Sözcü: https://www.sozcu.com.tr/sultanbeyli-deki-insaatta-toprak-kaymasi-bir-isci-gocuk-altinda-p382690",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sultanbeyli-de-insaatta-toprak-kaymasi-1-isci-gocuk-altinda-kaldi-2557505",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/sultanbeylide-toprak-kaymasi-1-isci-hayatini-kaybetti-4874336"
+   ]
   }
  ],
  "fails": {
@@ -13608,7 +13619,8 @@
   "28d8a9a09d": 1,
   "d7256fedb1": 1,
   "e52072f896": 2,
-  "9644c4a6ee": 1
+  "9644c4a6ee": 1,
+  "51b0043ff3": 1
  },
  "fail_log": [
   "2026-11-19T05:11 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
@@ -13655,7 +13667,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123375297374593024",
+   "since_id": "2123380046455009740",
    "started": true
   },
   "ajansmuhbir1923": {
