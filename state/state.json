@@ -2,86 +2,6 @@
  "seen": [
   {
    "fp": [
-    "beton",
-    "binas",
-    "daki",
-    "gökov",
-    "güven",
-    "hizme",
-    "kıyıl",
-    "mahke",
-    "oluru",
-    "sahil",
-    "valil"
-   ],
-   "tok": [
-    "akyak",
-    "alan",
-    "alanı",
-    "aykır",
-    "açtı",
-    "açık",
-    "açıld",
-    "bağlı",
-    "belir",
-    "beton",
-    "bina",
-    "binas",
-    "bölge",
-    "daki",
-    "danış",
-    "derec",
-    "derne",
-    "doğal",
-    "durdu",
-    "edile",
-    "ekolo",
-    "gökov",
-    "güven",
-    "herke",
-    "hizme",
-    "hukuk",
-    "idare",
-    "idari",
-    "ilçes",
-    "inşa",
-    "iptal",
-    "istiy",
-    "içind",
-    "işlem",
-    "kalıc",
-    "kamus",
-    "korum",
-    "kulla",
-    "kurul",
-    "kıyıl",
-    "mart",
-    "mendi",
-    "muğla",
-    "nde",
-    "neden",
-    "nin",
-    "nın",
-    "olur",
-    "oluru",
-    "sahil",
-    "savun",
-    "sit",
-    "sınır",
-    "tarih",
-    "ula",
-    "valil",
-    "yapıl",
-    "yaşam",
-    "yenid",
-    "yürüt",
-    "çevre",
-    "özel"
-   ],
-   "at": "2026-11-18T03:09:56.987463+00:00"
-  },
-  {
-   "fp": [
     "anıtı",
     "gençl",
     "heyke",
@@ -10734,22 +10654,62 @@
     "şahıs"
    ],
    "at": "2026-11-19T14:57:54.463491+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "eğiti",
+    "fırat",
+    "genel",
+    "görev",
+    "veli",
+    "şimşe"
+   ],
+   "tok": [
+    "adım",
+    "atmay",
+    "baskı",
+    "belir",
+    "boşal",
+    "bursa",
+    "dağıl",
+    "devle",
+    "değiş",
+    "dönem",
+    "eğiti",
+    "fırat",
+    "genel",
+    "geri",
+    "getir",
+    "girip",
+    "görev",
+    "hiçbi",
+    "ise",
+    "istif",
+    "kadem",
+    "karşı",
+    "mecli",
+    "memur",
+    "myk",
+    "parti",
+    "rona",
+    "sekre",
+    "sendi",
+    "seçil",
+    "sine",
+    "susma",
+    "tehdi",
+    "veli",
+    "yönet",
+    "özbay",
+    "özkan",
+    "şimşe",
+    "şube"
+   ],
+   "at": "2026-11-19T15:10:40.495636+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3d95460024",
-   "post_id": "529346797199852_1471554665084241",
-   "title": "Fon soruşturması: Hayati Yazıcı’nın oğlu Mustafa Yazıcı’nın şirketine kayyım atandı",
-   "at": "2026-11-17T14:28:42.552570+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturması kapsamında dört şirkete TMSF'yi kayyum olarak atadı.\n\n— Şirketlerden biri, AK Parti Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlunun tek pay sahibi olduğu Adil Varlık Yönetim.\n— Kayyum atanan şirketler arasında Adil Katılım Bankası da var.\n— Başsavcılığa göre, gerçek bir ticari faaliyete dayanmayan kredilerle elde edilen kaynaklar bankanın kuruluş sermayesine aktarıldı, ardından fonlara yatırılarak fon manipülasyonuna konu edildi.\n— Eylül ayında başlayan ve yüz binlerce yatırımcıyı etkileyen fon skandalının bankacılık sistemine uzanan ayağı bu kararla büyüdü.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6009952/hayati-yazici-nin-oglu-mustafa-yazici-nin-sirketi-adil-varlik-yonetim-e-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Medyascope: https://medyascope.tv/2026/11/17/fon-sorusturmasi-hayati-yazicinin-oglu-mustafa-yazicinin-sirketine-kayyim-atandi/",
-    "Karar: https://www.karar.com/guncel-haberler/fon-skandali-ak-parti-genel-baskan-yardimcisi-hayati-yazicinin-ogluna-2084678"
-   ]
-  },
   {
    "id": "3ad5b04560",
    "post_id": "529346797199852_1471565538416487",
@@ -13363,6 +13323,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tufekle-sokaga-cikip-havaya-ates-acti-gozaltina-alindi-2557636",
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/gaziantepte-elinde-pompali-tufekle-sokaga-cikan-kadin-havaya-rastgele-ates-acti-4874513"
    ]
+  },
+  {
+   "id": "6c47f1a9c1",
+   "post_id": "529346797199852_1473603084879399",
+   "title": "Eğitim-İş’te yeni genel başkan belli oldu: Eğitim-İş’te Şimşek dönemi",
+   "at": "2026-11-19T15:10:40.495636+00:00",
+   "yazim": "claude",
+   "metin": "Eğitim-İş'in yeni genel başkanı Veli Fırat Şimşek oldu.\n\n— Kadem Özbay, YENİ Parti Parti Meclisi'ne seçilince sendikadan ve devlet memurluğundan istifa etti.\n\n— Şimşek, Özbay'ın boşalttığı genel başkanlığa Genel Eğitim Sekreteri olarak getirildi. Bursa Şube Başkanı Özkan Rona ise yönetime girip genel eğitim sekreterliğine seçildi.\n\n— Sendika açıklamasında, “Eğitim-İş, hiçbir baskı karşısında susmayacak, hiçbir tehdit karşısında geri adım atmayacak” dedi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/egitim-is-te-yeni-genel-baskan-belli-oldu-egitim-is-te-simsek-donemi-2557605",
+    "Evrensel: https://www.evrensel.net/haber/6010264/egitim-is-te-yeni-genel-baskan-veli-firat-simsek-oldu-myk-gorev-dagilimi-belirlendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/guncel-haberler/egitim-iste-genel-baskan-degisti-veli-firat-simsek-goreve-secildi-2085124"
+   ]
   }
  ],
  "fails": {
@@ -13603,10 +13576,9 @@
   "9644c4a6ee": 1,
   "51b0043ff3": 1,
   "1db3358e3a": 1,
-  "47a2800cb1": 1
+  "47a2800cb1": 2
  },
  "fail_log": [
-  "2026-11-19T05:14 Mahir Ulutaş: Siber saldırılar 'dijital kibri' çatlatmıştır -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
@@ -13645,12 +13617,13 @@
   "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: yanıt okunamadı",
   "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-19T12:35 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-19T13:01 Güllü dosyasında ek karar: Sultan Nur Ulu'ya yurt dışına çık -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-19T13:01 Güllü dosyasında ek karar: Sultan Nur Ulu'ya yurt dışına çık -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-19T15:10 Başsavcılık’tan SPK’ya yeni müzekkere: “Tahliye vaadiyle 8 m -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123429546792022364",
+   "since_id": "2123433410161176650",
    "started": true
   },
   "ajansmuhbir1923": {
