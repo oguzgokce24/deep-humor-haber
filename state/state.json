@@ -10729,25 +10729,66 @@
     "şartl"
    ],
    "at": "2026-11-19T15:36:12.373988+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "dan",
+    "iran",
+    "israi",
+    "nükle",
+    "saldı",
+    "tepki"
+   ],
+   "tok": [
+    "abd",
+    "ajans",
+    "atom",
+    "açtığ",
+    "bağla",
+    "bağlı",
+    "belir",
+    "daimi",
+    "dan",
+    "denet",
+    "durma",
+    "eleşt",
+    "enerj",
+    "gelin",
+    "göre",
+    "görme",
+    "iran",
+    "ise",
+    "israi",
+    "necef",
+    "neden",
+    "nükle",
+    "rıza",
+    "sayıy",
+    "sorum",
+    "stand",
+    "tahra",
+    "temsi",
+    "tepki",
+    "tesis",
+    "uaea",
+    "ulusl",
+    "viyan",
+    "yapıl",
+    "yok",
+    "yol",
+    "yönet",
+    "yükle",
+    "yüklü",
+    "çifte",
+    "ülked",
+    "ülkel",
+    "üzeri"
+   ],
+   "at": "2026-11-19T15:49:06.300643+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "35dc511ed9",
-   "post_id": "529346797199852_1471587395080968",
-   "title": "Eyüpsultan'da dehşet anları! Silahlı saldırıda 1 kişi hayatını kaybetti",
-   "at": "2026-11-17T15:08:56.383834+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Eyüpsultan'da kırmızı ışıkta bekleyen bir otomobile silahlı saldırı düzenlendi, sürücü hayatını kaybetti.\n\n— Olay saat 15.30 sıralarında Vardar Bulvarı'nda yaşandı. Kimliği henüz belirlenemeyen şüpheli, araca peş peşe 16 el ateş edip kaçtı.\n\n— Saldırıya uğrayan, iş merkezinin sahibi olan bir adamdı. Ağır yaralanan adam hastaneye kaldırılamadan hayatını kaybetti.\n\n— Alacak meselesi nedeniyle husumeti olan kişinin saldırıyı düzenlediği iddia edildi.\n\n— Polis, kaçan şüpheliyi yakalamak için çalışma yürütüyor.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/istanbulda-dehset-dolu-anlar-otomobile-silahli-saldiri-1-olu-43381553",
-    "CNN Türk: https://www.cnnturk.com/turkiye/kirmizi-isikta-kanli-pusu-otomobile-silahli-saldiri-1-olu-3494498",
-    "Sözcü: https://www.sozcu.com.tr/eyupsultan-silahli-saldiri-17-kasim-2026-p382224",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/kirmizi-isikta-bekleyen-husumetlisine-kursun-yagdirdi-bir-olu-4873574",
-    "Karar: https://www.karar.com/guncel-haberler/son-dakika-eyupsultanda-otomobile-silahli-saldiri-o-anlar-kamerada-2084669",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/istanbulda-dehset-dolu-anlar-otomobile-silahli-saldiri-1-olu-43381553"
-   ]
-  },
   {
    "id": "4e8a3ac009",
    "post_id": "529346797199852_1471596805080027",
@@ -13359,6 +13400,19 @@
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/bozcaada-ve-gokceada-feribot-seferleri-iptal-mi-4874521",
     "Karar: https://www.karar.com/sehir-haberleri/bozcaada-ve-gokceadaya-bazi-feribot-seferleri-iptal-edildi-2085140"
    ]
+  },
+  {
+   "id": "14a827198d",
+   "post_id": "529346797199852_1473636588209382",
+   "title": "İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden geliniyor",
+   "at": "2026-11-19T15:49:06.300643+00:00",
+   "yazim": "claude",
+   "metin": "İran'ın BM Viyana Daimi Temsilcisi Rıza Necefi, Uluslararası Atom Enerjisi Ajansı'nı (UAEA) eleştirdi.\n\nÜlkedeki nükleer denetimlerin yapılamamasının nedenini ABD ve İsrail'in saldırılarına bağlıyor.\n\n— Necefi'ye göre ajans bu saldırıları yok sayıyor.\n\n— Ajans ise sorumluluğu Tahran yönetimine yüklüyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/irandan-abd-ve-e3-ulkelerine-nukleer-tesislere-saldirilar-uzerinden-cifte-standart-tepkisi/4131087",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/iran-nukleer-denetimlerin-durma-nedenini-abd-ve-israil-saldirilarina-bagladi-963853.html",
+    "BirGün: https://www.birgun.net/haber/iran-dan-uaea-ya-tepki-abd-ve-israil-saldirilari-gormezden-geliniyor-747317"
+   ]
   }
  ],
  "fails": {
@@ -13602,8 +13656,6 @@
  },
  "fail_log": [
   "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
-  "2026-11-19T05:14 Didem Eryar Ünlü: Denizlerdeki ekolojik kayıp, büyük ekonomi -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
   "2026-11-19T05:14 Osman Sert: İçeriden isimleri feda etmenin maliyeti kestiril -> ValueError: yanıt okunamadı",
@@ -13640,12 +13692,14 @@
   "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-19T12:35 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-19T13:01 Güllü dosyasında ek karar: Sultan Nur Ulu'ya yurt dışına çık -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-19T15:10 Başsavcılık’tan SPK’ya yeni müzekkere: “Tahliye vaadiyle 8 m -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-19T15:10 Başsavcılık’tan SPK’ya yeni müzekkere: “Tahliye vaadiyle 8 m -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-19T15:49 İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-19T15:49 İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123439053349478907",
+   "since_id": "2123442420549616050",
    "started": true
   },
   "ajansmuhbir1923": {
