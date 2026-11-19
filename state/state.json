@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "eleşt",
-    "geriy",
-    "kaldı",
-    "kanal",
-    "rsf",
-    "saymı",
-    "türki"
-   ],
-   "tok": [
-    "arası",
-    "atand",
-    "atanm",
-    "basın",
-    "bugün",
-    "com",
-    "diken",
-    "direk",
-    "dünya",
-    "ekim",
-    "eleşt",
-    "endek",
-    "ettiğ",
-    "gazet",
-    "geriy",
-    "göre",
-    "halk",
-    "itiba",
-    "işare",
-    "kaldı",
-    "kanal",
-    "kasım",
-    "kayyı",
-    "kurul",
-    "medya",
-    "nde",
-    "nisan",
-    "post",
-    "rapor",
-    "rsf",
-    "saydı",
-    "saymı",
-    "sendi",
-    "sozcu",
-    "sözcü",
-    "sınır",
-    "sıray",
-    "tanım",
-    "tele1",
-    "the",
-    "tmsf",
-    "yayın",
-    "yerle",
-    "çalış",
-    "özgür",
-    "ülke",
-    "üncü",
-    "üçüne"
-   ],
-   "at": "2026-11-17T17:55:38.607861+00:00"
-  },
-  {
-   "fp": [
     "alıp",
     "annes",
     "anney",
@@ -10797,20 +10734,78 @@
     "zaman"
    ],
    "at": "2026-11-19T05:46:49.617601+00:00"
+  },
+  {
+   "fp": [
+    "83",
+    "anthr",
+    "dolar",
+    "fiyat",
+    "halka",
+    "hisse"
+   ],
+   "tok": [
+    "adet",
+    "ant",
+    "anthr",
+    "appea",
+    "arz",
+    "arzın",
+    "attı",
+    "açıla",
+    "başla",
+    "bekle",
+    "belir",
+    "borsa",
+    "büyük",
+    "bırak",
+    "claud",
+    "diken",
+    "elde",
+    "etmey",
+    "first",
+    "fiyat",
+    "gelir",
+    "geliş",
+    "gerid",
+    "görme",
+    "halka",
+    "hazir",
+    "hisse",
+    "imza",
+    "ise",
+    "işlem",
+    "kapsa",
+    "kasım",
+    "koduy",
+    "kısmı",
+    "linka",
+    "mevcu",
+    "milya",
+    "model",
+    "nasda",
+    "post",
+    "rakam",
+    "sattı",
+    "satış",
+    "site",
+    "space",
+    "sundu",
+    "sunul",
+    "ten",
+    "the",
+    "topla",
+    "yakla",
+    "yapay",
+    "zaman",
+    "zeka",
+    "çıkar",
+    "çıktı"
+   ],
+   "at": "2026-11-19T05:59:20.138173+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3978229139",
-   "post_id": "529346797199852_1471104415129266",
-   "title": "Sözcü TV'ye operasyon: Siyasi parti liderlerinden peş peşe açıklamalar!",
-   "at": "2026-11-17T04:20:41.461462+00:00",
-   "yazim": "claude",
-   "metin": "Sözcü TV'nin İstanbul'daki binasına sabah saatlerinde polis ekipleri geldi.\n\n— Gazeteci İsmail Saymaz, binada arama yapıldığını, Yönetim Kurulu Başkanı Funda Tuncer Sıdalı'nın gözaltına alındığını ve kanala TMSF tarafından kayyum atandığının bildirildiğini paylaştı.\n\n— YENİ Parti Genel Başkanı Özgür Özel: “Halk TV'nin ardından şimdi de Sözcü TV'nin kapısında polisler var, kayyım var.”\n\n— İYİ Parti Genel Başkanı Müsavat Dervişoğlu operasyonu, demokrasiye yöneltilmiş “açık bir darbe” olarak niteledi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sozcu-tv-ye-operasyon-siyasi-parti-liderlerinden-pes-pese-aciklamalar-2556756"
-   ]
-  },
   {
    "id": "1aec4ef804",
    "post_id": "529346797199852_1471112415128466",
@@ -13397,6 +13392,18 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/elon-musk-tan-500-milyon-dolarlik-pismanlik-kendimi-cok-aptal-hissediyorum-2557439",
     "Medyascope: https://medyascope.tv/2026/11/19/cumhuriyetcilere-yaklasik-500-milyon-dolar-harcayan-elon-musk-kendimi-aptal-gibi-hissediyorum/"
+   ]
+  },
+  {
+   "id": "71106161fa",
+   "post_id": "529346797199852_1473179041588470",
+   "title": "Anthropic'ten halka arz: Hisse fiyatı 83 dolar",
+   "at": "2026-11-19T05:59:20.138173+00:00",
+   "yazim": "claude",
+   "metin": "Claude'u geliştiren Anthropic, tüm zamanların en büyük halka arzına imza attı. Hisse fiyatı 83 dolar olarak belirlendi ve toplam 81,3 milyar dolarlık hisse satışa çıktı.\n\n— Bu rakam, Haziran'da borsaya açılan SpaceX'in 75 milyar dolarlık halka arzını geride bıraktı.\n— Satışa sunulan 980 milyon hissenin büyük kısmını Anthropic çıkardı. Yaklaşık 23,6 milyon hisseyi ise mevcut hissedarlar sattı ve bu satıştan Anthropic gelir elde etmeyecek.\n— Hisselerin 19 Kasım'da Nasdaq'ta \"ANT\" koduyla işlem görmeye başlaması bekleniyor.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/anthropic-halka-arzinda-hisse-fiyatini-83-dolar-olarak-belirledi-963741.html",
+    "Diken: https://www.diken.com.tr/anthropicten-halka-arz-hisse-fiyati-83-dolar/?utm_source=rss&utm_medium=rss&utm_campaign=anthropicten-halka-arz-hisse-fiyati-83-dolar"
    ]
   }
  ],
