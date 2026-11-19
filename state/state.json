@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "beled",
-    "işçis",
-    "opera",
-    "temiz",
-    "tutuk",
-    "uyuşt",
-    "çatal"
-   ],
-   "tok": [
-    "alına",
-    "aseto",
-    "baskı",
-    "başsa",
-    "beled",
-    "bulun",
-    "cezae",
-    "daki",
-    "depod",
-    "depoy",
-    "düzen",
-    "gram",
-    "gönde",
-    "işçis",
-    "kapsa",
-    "kasım",
-    "kilo",
-    "kimya",
-    "kulla",
-    "litre",
-    "madde",
-    "metam",
-    "milil",
-    "nın",
-    "sıvı",
-    "temiz",
-    "uyuşt",
-    "uşak",
-    "yapıl",
-    "yapım",
-    "yürüt",
-    "çalış",
-    "çatal",
-    "çıkar",
-    "öğren"
-   ],
-   "at": "2026-11-17T12:53:11.562465+00:00"
-  },
-  {
-   "fp": [
     "kerç",
     "köprü",
     "kırım",
@@ -10817,21 +10768,126 @@
     "üreti"
    ],
    "at": "2026-11-19T00:46:51.230126+00:00"
+  },
+  {
+   "fp": [
+    "görüş",
+    "nitel",
+    "putin",
+    "tarih",
+    "trump",
+    "yaptı",
+    "zafer"
+   ],
+   "tok": [
+    "arası",
+    "cinpi",
+    "donal",
+    "gerçe",
+    "görün",
+    "görüş",
+    "günü",
+    "kreml",
+    "mini",
+    "nitel",
+    "olsun",
+    "olurs",
+    "perşe",
+    "putin",
+    "sonuç",
+    "tarih",
+    "trump",
+    "vladi",
+    "yaptı",
+    "zafer",
+    "zirve",
+    "şimdi"
+   ],
+   "at": "2026-11-19T00:59:24.052655+00:00"
+  },
+  {
+   "fp": [
+    "2017",
+    "ait",
+    "borçl",
+    "gss",
+    "iade",
+    "kabul",
+    "komis",
+    "nda",
+    "silin",
+    "tbmm",
+    "yok",
+    "ödenm",
+    "ödeye",
+    "önces"
+   ],
+   "tok": [
+    "ait",
+    "amaçl",
+    "bazı",
+    "bağlı",
+    "bilgi",
+    "borçl",
+    "cezas",
+    "dair",
+    "den",
+    "değiş",
+    "dönem",
+    "edilm",
+    "elekt",
+    "enerj",
+    "gecik",
+    "genel",
+    "gerek",
+    "geçti",
+    "girme",
+    "gss",
+    "henüz",
+    "iade",
+    "ilgil",
+    "ilişk",
+    "ise",
+    "kabul",
+    "kanun",
+    "kayna",
+    "komis",
+    "kulla",
+    "kurul",
+    "madde",
+    "mecli",
+    "nda",
+    "ocak",
+    "priml",
+    "sanay",
+    "sağlı",
+    "sigor",
+    "silin",
+    "tabii",
+    "tahsi",
+    "tarih",
+    "tbmm",
+    "tekli",
+    "tekno",
+    "ticar",
+    "uncu",
+    "vazge",
+    "yapıl",
+    "yasal",
+    "yenil",
+    "yok",
+    "yürür",
+    "zammı",
+    "ödenm",
+    "ödeye",
+    "öncek",
+    "önces",
+    "üreti"
+   ],
+   "at": "2026-11-19T00:59:34.239366+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "12a9b8e532",
-   "post_id": "529346797199852_1470908328482208",
-   "title": "Göçmen kaçaklığı operasyonu: 6 kişi tutuklandı",
-   "at": "2026-11-16T23:17:19.359036+00:00",
-   "yazim": "claude",
-   "metin": "Muğla'nın Bodrum ilçesinde göçmen kaçakçılığı operasyonunda gözaltına alınan 10 şüpheliden 6'sı tutuklandı.\n\n— Operasyonu İl Emniyet Müdürlüğü ekipleri ile Sahil Güvenlik Güney Ege Grup Komutanlığı birlikte yürüttü.\n\n— Diğer 4 şüpheli adli kontrol şartıyla serbest bırakıldı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/bodrum-da-gocmen-kacakciligi-operasyonu-6-tutuklama-3927827",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gocmen-kacakligi-operasyonu-6-kisi-tutuklandi-2556748"
-   ]
-  },
   {
    "id": "8c9848f499",
    "post_id": "529346797199852_1470914771814897",
@@ -13420,6 +13476,17 @@
    "sources": [
     "Karar: https://www.karar.com/ekonomi-haberleri/fiat-fastback-turkiyeye-ne-zaman-gelecek-fiat-fastback-fiyati-ve-2084981"
    ]
+  },
+  {
+   "id": "ec0c235efe",
+   "post_id": "529346797199852_1472977641608610",
+   "title": "TBMM Komisyonu'nda kabul edildi: 2017 öncesine ait ödenmemiş GSS borçları siliniyor, ödeyenlere iade yok",
+   "at": "2026-11-19T00:59:34.239366+00:00",
+   "yazim": "claude",
+   "metin": "2017 öncesine ait ödenmemiş GSS borçları siliniyor.\n\n— Meclis Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonu, yenilenebilir enerji kanun teklifini kabul etti. Teklifin 10. maddesi bu borçlarla ilgili.\n\n— 1 Ocak 2017'den önceki dönemlere ait ödenmemiş genel sağlık sigortası primlerinin tahsilinden vazgeçilecek. Bu borçlara bağlı gecikme cezası ve gecikme zammı da silinecek.\n\n— Bu dönemler için daha önce ödenmiş primler ise iade edilmeyecek.\n\n— Teklif henüz yasalaşmadı. Komisyondan geçti, yürürlüğe girmesi için Genel Kurul'da da kabul edilmesi gerekiyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/tbmm-komisyonu-nda-kabul-edildi-2017-oncesine-ait-odenmemis-gss-borclari-siliniyor-odeyenlere-iade-yok-747216"
+   ]
   }
  ],
  "fails": {
@@ -13649,17 +13716,10 @@
   "48ced4f78e": 1,
   "0ab7da661d": 1,
   "e1ff08edbe": 1,
-  "7a93cfed5c": 2,
   "7d3e4114b0": 1,
-  "43b02bf46b": 1
+  "43b02bf46b": 2
  },
  "fail_log": [
-  "2026-11-18T18:50 COP31'de astım oturumu: 'İklim değişikliği aynı zamanda sağl -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-18T19:36 İmamoğlu: Eğer zalim ısrarla zulme devam ediyorsa bil ki son -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-18T20:40 Rockstar Games, GTA 6’da oyuncuların seks işçisi kiralayamay -> ValueError: yanıt okunamadı",
-  "2026-11-18T20:40 Rockstar Games, GTA 6’da oyuncuların seks işçisi kiralayamay -> ValueError: yanıt okunamadı",
-  "2026-11-18T20:40 Rockstar Games, GTA 6’da oyuncuların seks işçisi kiralayamay -> ValueError: yanıt okunamadı",
-  "2026-11-18T20:40 EMEP ve Sol Parti Kayseri'den Sözcü TV kayyımına tepki: Yasa -> ValueError: yanıt okunamadı",
   "2026-11-18T20:53 CENTCOM: İran saldırılarında yaralanan askerimiz yok -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T20:53 CENTCOM: İran saldırılarında yaralanan askerimiz yok -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-18T20:53 CENTCOM: İran saldırılarında yaralanan askerimiz yok -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
@@ -13693,7 +13753,13 @@
   "2026-11-19T00:43 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
   "2026-11-19T00:43 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
   "2026-11-19T00:46 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-19T00:46 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-19T00:46 Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'd -> ValueError: cümle yarım kalmış: 'KATEGORİ: EKONOMİ'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-19T00:59 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:59 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:59 'Şi ve Trump ile yaptığı tarihi görüşmeler Putin için zafer  -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:59 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:59 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı",
+  "2026-11-19T00:59 Kenan Doğulu'dan Senfonik bir deneyim: \"SYMPHONITY\" -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
