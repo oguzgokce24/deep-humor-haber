@@ -13734,20 +13734,12 @@
   "a521ee14c0": 3,
   "0eb2b5dfd8": 2,
   "857f8a4ead": 1,
-  "37cc790df7": 1,
-  "068cdeeff6": 1,
-  "3189a9a396": 1
+  "37cc790df7": 2,
+  "068cdeeff6": 2,
+  "3189a9a396": 1,
+  "7200e5c5d8": 1
  },
  "fail_log": [
-  "2026-11-20T01:56 'Hakları var, güvenceleri yok' -> ValueError: yanıt okunamadı",
-  "2026-11-20T01:56 Cumhuriyet’in Nuh Yılmaz haberi gündeme geldi, Yılmaz cevap  -> ValueError: cümle yarım kalmış: 'işleri Bakanı Hakan Fidan'a seslenerek A'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-20T01:56 Cumhuriyet’in Nuh Yılmaz haberi gündeme geldi, Yılmaz cevap  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:29 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:29 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:29 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:29 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:29 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:29 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
   "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
   "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
   "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
@@ -13778,7 +13770,16 @@
   "2026-11-20T04:48 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
   "2026-11-20T04:48 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
   "2026-11-20T04:48 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:48 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı"
+  "2026-11-20T04:48 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
