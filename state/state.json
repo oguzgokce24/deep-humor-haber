@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "19",
-    "akary",
-    "benzi",
-    "fiyat",
-    "günce",
-    "indir",
-    "kasım",
-    "var",
-    "zam"
-   ],
-   "tok": [
-    "akary",
-    "bekle",
-    "benzi",
-    "cuma",
-    "devam",
-    "değiş",
-    "durum",
-    "döviz",
-    "edili",
-    "ediyo",
-    "etkil",
-    "fiyat",
-    "geldi",
-    "göre",
-    "günce",
-    "günde",
-    "günün",
-    "henüz",
-    "iller",
-    "indir",
-    "itiba",
-    "izmir",
-    "kasım",
-    "kaç",
-    "kuru",
-    "litre",
-    "lpg",
-    "mazot",
-    "merak",
-    "mikta",
-    "motor",
-    "otomo",
-    "petro",
-    "pompa",
-    "sahip",
-    "takib",
-    "var",
-    "yakın",
-    "yakıt",
-    "yansı",
-    "yenid",
-    "zam",
-    "zamla",
-    "ötv",
-    "ücret"
-   ],
-   "at": "2026-11-19T07:10:54.788324+00:00"
-  },
-  {
-   "fp": [
     "190",
     "4",
     "dolar",
@@ -10804,22 +10743,60 @@
     "şirke"
    ],
    "at": "2026-11-20T18:58:41.732700+00:00"
+  },
+  {
+   "fp": [
+    "aldı",
+    "bıçak",
+    "dokto",
+    "hasta",
+    "rehin",
+    "sekre"
+   ],
+   "tok": [
+    "aldı",
+    "alınd",
+    "antep",
+    "başla",
+    "beyaz",
+    "bıçak",
+    "devle",
+    "dokto",
+    "ekipl",
+    "gazia",
+    "gelip",
+    "girdi",
+    "göste",
+    "göz",
+    "güler",
+    "güven",
+    "hasta",
+    "ilçes",
+    "kod",
+    "müdah",
+    "müslü",
+    "nde",
+    "nizip",
+    "odası",
+    "olay",
+    "olayd",
+    "olmad",
+    "rehin",
+    "saatl",
+    "sabah",
+    "sağlı",
+    "sekre",
+    "teki",
+    "tepki",
+    "veril",
+    "yaşan",
+    "yenid",
+    "şidde"
+   ],
+   "at": "2026-11-20T19:11:15.528334+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "638196bde7",
-   "post_id": "529346797199852_1472749188298122",
-   "title": "ABD Ulusal İstihbarat Direktörü: Son dönemdeki kesintiler \"koordineli\" veya \"devlet destekli\" saldırılar değil",
-   "at": "2026-11-18T18:37:53.499836+00:00",
-   "yazim": "claude",
-   "metin": "Denizli Büyükşehir Belediyesi'ne yönelik soruşturmada 4 kişi tutuklandı.\n\n— Tutuklananlar arasında eski Belediye Başkanı Osman Zolan'ın danışmanı da bulunuyor.\n\n— Soruşturma, belediyeye yönelik yürütülen incelemelerin bir parçası olarak sürüyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abd-dni-son-donemdeki-hizmet-kesintileri-koordineli-veya-devlet-destekli-saldirilar-degil/4129688",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/abd-dni-son-donemdeki-hizmet-kesintileri-koordineli-veya-devlet-destekli-saldirilar-degil-963725.html",
-    "Evrensel: https://www.evrensel.net/haber/6010145/abd-ulusal-istihbarat-direktoru-son-donemdeki-kesintiler-koordineli-veya-devlet-destekli-saldirilar-degil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "6439d55d77",
    "post_id": "529346797199852_1472757961630578",
@@ -13431,6 +13408,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/trump-si-cinping-ile-yapay-zeka-anlasmasini-duyurdu-2557957",
     "Karar: https://www.karar.com/dunya-haberleri/trump-iranla-gercek-bir-anlasma-istiyorum-2085361",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/trump-iran-aciklamasi-20-kasim-2026-p383114"
+   ]
+  },
+  {
+   "id": "f7552b674e",
+   "post_id": "529346797199852_1474870161419358",
+   "title": "Gaziantep'te hastanede bıçaklı saldırı: Doktor ve sekreterini rehin aldı",
+   "at": "2026-11-20T19:11:15.528334+00:00",
+   "yazim": "claude",
+   "metin": "Gaziantep'in Nizip ilçesindeki devlet hastanesinde bir hasta bıçakla göz doktorunun odasına girdi, doktor ve sekreterini rehin aldı.\n\n— Olay sabah saatlerinde yaşandı. Daha önce hakkında \"beyaz kod\" verilen hasta, yeniden hastaneye gelip bu karara tepki gösterdi.\n\n— Hastane güvenliği ve polis ekiplerinin müdahalesiyle şüpheli gözaltına alındı.\n\n— Olayda yaralanan olmadı, soruşturma başlatıldı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/doktoru-bicakla-rehin-aldi-3928886",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/doktorun-odasina-bicakla-girdi-doktor-ve-sekreterini-rehin-aldi-2557944",
+    "Evrensel: https://www.evrensel.net/haber/6010456/antep-te-saglikta-siddet-hastanede-doktor-ve-sekreteri-bicakla-rehin-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/gaziantep-te-hastanede-bicakli-saldiri-doktor-ve-sekreterini-rehin-aldi-747527"
    ]
   }
  ],
