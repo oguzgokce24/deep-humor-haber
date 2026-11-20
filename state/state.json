@@ -2,38 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "6",
-    "büyük",
-    "depre",
-    "malat"
-   ],
-   "tok": [
-    "afad",
-    "aktar",
-    "büyük",
-    "daire",
-    "depre",
-    "derin",
-    "doğan",
-    "duyur",
-    "geldi",
-    "ilçes",
-    "kayde",
-    "kilom",
-    "malat",
-    "meyda",
-    "nın",
-    "odağı",
-    "saat",
-    "sıral",
-    "yaşan",
-    "yerin"
-   ],
-   "at": "2026-11-19T09:18:25.239196+00:00"
-  },
-  {
-   "fp": [
     "arı",
     "gazet",
     "görme",
@@ -10784,20 +10752,93 @@
     "şeyle"
    ],
    "at": "2026-11-20T21:06:08.021720+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "aldığ",
+    "brita",
+    "doğru",
+    "gün",
+    "hedef",
+    "savaş",
+    "siber",
+    "yüzün",
+    "çıkıy",
+    "ülkey"
+   ],
+   "tok": [
+    "aldığ",
+    "almak",
+    "amaçl",
+    "artık",
+    "asker",
+    "açıkç",
+    "barış",
+    "beyaz",
+    "biri",
+    "brita",
+    "bütçe",
+    "büyük",
+    "değil",
+    "diken",
+    "direk",
+    "doğru",
+    "durum",
+    "düzen",
+    "eski",
+    "faali",
+    "genel",
+    "gizli",
+    "gün",
+    "heale",
+    "hedef",
+    "hüküm",
+    "iran",
+    "istiy",
+    "içind",
+    "jason",
+    "karşı",
+    "komut",
+    "konuy",
+    "konuş",
+    "kore",
+    "kurul",
+    "kuvve",
+    "kuzey",
+    "kıdem",
+    "magow",
+    "neden",
+    "nın",
+    "olağa",
+    "olduğ",
+    "olmad",
+    "olup",
+    "parça",
+    "polit",
+    "post",
+    "rob",
+    "rusya",
+    "saray",
+    "savaş",
+    "siber",
+    "sorul",
+    "söyle",
+    "the",
+    "tutul",
+    "ulusa",
+    "yürüt",
+    "yüzün",
+    "çin",
+    "çıkıy",
+    "ülkes",
+    "ülkey",
+    "şöyle"
+   ],
+   "at": "2026-11-20T21:18:50.218863+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "17a50a3c4c",
-   "post_id": "529346797199852_1472825168290524",
-   "title": "EMEP ve Sol Parti Kayseri'den Sözcü TV kayyımına tepki: Yasaklara teslim olmayacağız",
-   "at": "2026-11-18T20:40:29.175837+00:00",
-   "yazim": "claude",
-   "metin": "EMEP Kayseri İl Yöneticisi Barış Timur, Sözcü TV'ye kayyım atanmasına tepki gösterdi:\n\n“Bu keyfiliklere, yasaklara ve kayyımlara asla teslim olmayacağız, geri adım atmayacağız.”\n\nEMEP ve Sol Parti Kayseri il örgütleri, Sözcü TV'ye kayyım atanmasının ardından ortak basın açıklaması yaptı. Açıklamada muhalif kanallara yönelik kayyım uygulamaları, erişim engelleri ve gazetelere verilen cezalar eleştirildi.\n\n— Timur, daha önce Tele1 ve Halk TV'ye de kayyım atandığını hatırlattı.\n— Açıklamada, iddialara göre 700 milyar lirayı bulan fon vurgunu iddialarının üzerinin örtülmek istendiği öne sürüldü.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010156/emep-ve-sol-parti-kayseri-den-sozcu-tv-kayyimina-tepki-yasaklara-teslim-olmayacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "2baa625f98",
    "post_id": "529346797199852_1472832438289797",
@@ -13414,6 +13455,17 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/20/bakan-kurumdan-cop31de-uzlasi-cagrisi-dunyanin-ve-insanligin-bizden-beklentilerini-unutmamaliyiz",
     "NTV: https://www.ntv.com.tr/turkiye/cop31de-kritik-saatler-bakan-kurumdan-antalya-mutabakati-cagrisi-1751829"
    ]
+  },
+  {
+   "id": "ae6fd3a387",
+   "post_id": "529346797199852_1474956694744038",
+   "title": "Siber savaşlar gün yüzüne çıkıyor: Britanya dört ülkeyi hedef aldığını doğruladı",
+   "at": "2026-11-20T21:18:50.218863+00:00",
+   "yazim": "claude",
+   "metin": "Britanya'nın en kıdemli siber komutanlarından Rob Magowan, ülkesinin Rusya, Çin, İran ve Kuzey Kore'ye karşı saldırı amaçlı siber operasyonlar yürüttüğünü doğruladı.\n\n— Magowan, Britanya'nın savaş durumunda olup olmadığını sorulunca \"Savaşta olduğumuzu söyleyemem ama barış içinde de değiliz\" dedi.\n— Britanya Ulusal Siber Kuvveti 2020'de kuruldu. Faaliyetleri genellikle gizli tutuluyor.\n— Eski Beyaz Saray siber politika direktörü Jason Healey, hükümetlerin bu konuyu açıkça konuşmasının nedenini şöyle açıkladı: Siber artık askeri operasyonların olağan bir parçası ve komutanlıklar daha büyük bütçe almak istiyor.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/siber-savaslar-gun-yuzune-cikiyor-britanya-dort-ulkeyi-hedef-aldigini-dogruladi/?utm_source=rss&utm_medium=rss&utm_campaign=siber-savaslar-gun-yuzune-cikiyor-britanya-dort-ulkeyi-hedef-aldigini-dogruladi"
+   ]
   }
  ],
  "fails": {
@@ -13668,7 +13720,6 @@
   "0298c37578": 1
  },
  "fail_log": [
-  "2026-11-20T05:11 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
@@ -13707,7 +13758,8 @@
   "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı",
   "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı",
   "2026-11-20T18:01 Eskişehir’de emeklilerden ironik eylem: Emekli maaşları düşü -> ValueError: cümle yarım kalmış: '“Emekli aylığı 23 bin 552 lira. Ç”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-20T20:29 Trump, seçim yenilgisine aldırmadı: İran'a yine saldırırdım -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-20T20:29 Trump, seçim yenilgisine aldırmadı: İran'a yine saldırırdım -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-20T21:18 Siber savaşlar gün yüzüne çıkıyor: Britanya dört ülkeyi hede -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle"
  ],
  "x": {
   "bpthaber": {
