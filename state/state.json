@@ -2,42 +2,6 @@
  "seen": [
   {
    "fp": [
-    "dalga",
-    "etkil",
-    "istan",
-    "lodos",
-    "meteo",
-    "metre",
-    "oluyo",
-    "uyarm",
-    "yükse"
-   ],
-   "tok": [
-    "başla",
-    "boyun",
-    "devam",
-    "dün",
-    "etkil",
-    "etkis",
-    "gece",
-    "gündü",
-    "kentt",
-    "kuvve",
-    "lodos",
-    "meteo",
-    "metre",
-    "olmay",
-    "oluyo",
-    "rüzgâ",
-    "saatl",
-    "sürdü",
-    "uyarm",
-    "yükse"
-   ],
-   "at": "2026-11-19T01:53:18.604148+00:00"
-  },
-  {
-   "fp": [
     "6",
     "630",
     "ağır",
@@ -10971,25 +10935,87 @@
     "örgüt"
    ],
    "at": "2026-11-20T13:50:55.430485+00:00"
+  },
+  {
+   "fp": [
+    "7",
+    "dan",
+    "durum",
+    "futbo",
+    "galat",
+    "sakat"
+   ],
+   "tok": [
+    "aldığ",
+    "aleks",
+    "ameli",
+    "antre",
+    "ardın",
+    "artro",
+    "aspet",
+    "batra",
+    "bağ",
+    "başla",
+    "bulun",
+    "dan",
+    "darbe",
+    "davin",
+    "dizin",
+    "doha",
+    "durum",
+    "duyur",
+    "döndü",
+    "düzey",
+    "esnem",
+    "futbo",
+    "galat",
+    "geldi",
+    "görec",
+    "günlü",
+    "hasar",
+    "ilgil",
+    "ilişk",
+    "isim",
+    "jakob",
+    "kanam",
+    "katıl",
+    "maç",
+    "milli",
+    "nchez",
+    "omzun",
+    "orta",
+    "osimh",
+    "oyunc",
+    "rafae",
+    "revir",
+    "rolan",
+    "sakat",
+    "salla",
+    "salon",
+    "sağ",
+    "sağlı",
+    "sol",
+    "süre",
+    "sürüy",
+    "takım",
+    "tam",
+    "tamam",
+    "tedav",
+    "tespi",
+    "uğurc",
+    "victo",
+    "yarın",
+    "zaman",
+    "zorla",
+    "çakır",
+    "çalış",
+    "önces",
+    "ısmai"
+   ],
+   "at": "2026-11-20T14:03:29.634197+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6b64b9b975",
-   "post_id": "529346797199852_1472478658325175",
-   "title": "Yeni Partili Ümit Özlale fon vurgununda üçüncü dosyayı açıkladı",
-   "at": "2026-11-18T12:56:59.224831+00:00",
-   "yazim": "claude",
-   "metin": "YENİ Parti İzmir Milletvekili Ümit Özlale, Milletvekili Asuman Erdoğan'ın eşinin yönetim kurulu başkanı olduğu Pasifik Grubu'nun hisse satışlarını \"fon\" vurgununun üçüncü dosyası olarak açıkladı.\n\n— Özlale'ye göre şirketin üç ortağı Ekim 2025'te 510 milyon hisseyi 3,17 liradan satıp 1 milyar 617 milyon lira topladı. Alıcılar arasında Pusula fonları da vardı.\n\n— Birkaç ay sonra aynı üç ortağa aynı fiyattan yeni hisse çıkarıldığını öne sürdü.\n\n— Pasifik Eurasia hisselerinin 268 liraya kadar yükseldikten sonra 43 liraya indiğini söyleyen Özlale, \"Bundan daha iyi piyasa manipülasyonu olmaz\" dedi.\n\n— Asuman Erdoğan'a da eşinin hesaplarına konulan tedbirlerin 24 saat içinde kaldırılmasını sordu.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/yeni-parti-den-fon-vurgununda-ucuncu-dosya-pasifik-grubu-iddiasi-bundan-daha-iyi-piyasa-manipulasyonu-olmaz-2557216",
-    "Evrensel: https://www.evrensel.net/haber/6010045/yeni-partili-umit-ozlale-fon-vurgununda-ucuncu-dosyayi-acikladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Medyascope: https://medyascope.tv/2026/11/18/umit-ozlaleden-pasifik-grubu-ve-akpli-asuman-erdogan-baglantisina-iliskin-fon-sorusturmasi-iddialari/",
-    "BirGün: https://www.birgun.net/haber/yeni-parti-den-yeni-fon-dosyasi-akp-li-asuman-erdogan-in-esinin-yonettigi-pasifik-grubu-na-yonelik-tedbirler-iki-kez-kaldirildi-747127",
-    "Karar: https://www.karar.com/guncel-haberler/polsan-tera-pasifik-grubu-yeni-partili-umit-ozlale-fon-vurgunundaki-agi-2084900",
-    "Karar: https://www.karar.com/guncel-haberler/umit-ozlale-fon-vurgununda-simdi-de-ak-partili-vekilin-esinin-dosyasini-2084871"
-   ]
-  },
   {
    "id": "7fc3bca431",
    "post_id": "529346797199852_1472488841657490",
@@ -13615,6 +13641,22 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/20/son-dakika-mustafa-sarigul-hakkinda-fezleke-adalet-bakanligina-gonderildi",
     "NTV: https://www.ntv.com.tr/turkiye/mustafa-sarigul-hakkinda-fezleke-1751805"
    ]
+  },
+  {
+   "id": "aa28963d21",
+   "post_id": "529346797199852_1474600151446359",
+   "title": "Sakatlıkları bulunuyordu... Galatasaray, 7 futbolcunun son durumunu duyurdu",
+   "at": "2026-11-20T14:03:29.634197+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray, sakatlığı bulunan 7 futbolcusunun son durumunu açıkladı.\n\n— Victor Osimhen, sol dizindeki artroskopik ameliyatın ardından salon çalışmalarına başladı.\n— Rafael Leão, 10 günlük bir süre için Doha'da Aspetar'da tam zamanlı tedavi görecek.\n— Davinson Sánchez, sol omzundaki bağ hasarının ardından son iki antrenmanın tamamında takımla çalıştı.\n— Roland Sallai ile Ismail Jakobs'ta orta düzeyde zorlanma ve kanama tespit edildi, tedavileri sürüyor.\n— Uğurcan Çakır, milli takımda sağ omzundaki esnemenin ardından antrenmanlara katıldı.\n— Aleksey Batrakov da sağ dizine aldığı darbenin ardından takımla çalışmaya başladı.\n\nAçıklama, yarınki maç öncesinde geldi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/galatasaraydan-7-futbolcunun-saglik-durumuna-iliskin-aciklama/4132273",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/sakatliklari-bulunuyordu-galatasaray-7-futbolcunun-son-durumunu-duyurdu-2557889",
+    "Evrensel: https://www.evrensel.net/haber/6010419/galatasaray-dan-futbolcu-sakatliklariyla-ilgili-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/galatasaray-dan-7-futbolcunun-saglik-durumuna-iliskin-aciklama-747501",
+    "Diken: https://www.diken.com.tr/galatasaray-revire-dondu-yedi-futbolcu-icin-aciklama/?utm_source=rss&utm_medium=rss&utm_campaign=galatasaray-revire-dondu-yedi-futbolcu-icin-aciklama",
+    "Sözcü Spor: https://www.sozcu.com.tr/galatasaray-da-tam-7-futbolcu-icin-sakatlik-aciklamasi-p383085"
+   ]
   }
  ],
  "fails": {
@@ -13909,7 +13951,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123773057781117388",
+   "since_id": "2123777139011109357",
    "started": true
   },
   "ajansmuhbir1923": {
