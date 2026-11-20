@@ -2,81 +2,6 @@
  "seen": [
   {
    "fp": [
-    "6",
-    "arala",
-    "dan",
-    "firar",
-    "gürci",
-    "iade",
-    "türki"
-   ],
-   "tok": [
-    "adale",
-    "ahmet",
-    "akın",
-    "arala",
-    "arana",
-    "aranı",
-    "ayrı",
-    "bulun",
-    "bunu",
-    "bülte",
-    "bırak",
-    "cezas",
-    "dahil",
-    "dan",
-    "dinç",
-    "diğer",
-    "duyur",
-    "edile",
-    "eleba",
-    "eylem",
-    "farkl",
-    "firar",
-    "gürci",
-    "gürle",
-    "hapis",
-    "hesab",
-    "iade",
-    "iades",
-    "infaz",
-    "isim",
-    "izler",
-    "kadın",
-    "karşı",
-    "kaste",
-    "kaydı",
-    "kaçar",
-    "kaçsı",
-    "kırmı",
-    "medya",
-    "namlı",
-    "nerey",
-    "nitel",
-    "nın",
-    "peşin",
-    "sağla",
-    "sorum",
-    "sosya",
-    "suç",
-    "suçla",
-    "suçlu",
-    "tespi",
-    "topla",
-    "unutu",
-    "var",
-    "vardı",
-    "yağma",
-    "yusuf",
-    "yıl",
-    "öldür",
-    "örgüt",
-    "ülkem"
-   ],
-   "at": "2026-11-18T14:05:11.590314+00:00"
-  },
-  {
-   "fp": [
     "bazı",
     "gece",
     "istan",
@@ -11078,20 +11003,67 @@
     "şam"
    ],
    "at": "2026-11-20T01:56:49.084055+00:00"
+  },
+  {
+   "fp": [
+    "29",
+    "adım",
+    "ardın",
+    "arı",
+    "atmay",
+    "beraa",
+    "birgü",
+    "geri",
+    "günlü",
+    "ismai",
+    "muhab",
+    "tutuk"
+   ],
+   "tok": [
+    "adım",
+    "araya",
+    "ardın",
+    "arı",
+    "atmay",
+    "beraa",
+    "birgü",
+    "biz",
+    "cezae",
+    "değil",
+    "duruş",
+    "ebube",
+    "edere",
+    "eski",
+    "gazet",
+    "geldi",
+    "gelen",
+    "geri",
+    "gün",
+    "günlü",
+    "ismai",
+    "kaldı",
+    "mes",
+    "mesle",
+    "muhab",
+    "nden",
+    "rtük",
+    "sinca",
+    "suç",
+    "suçla",
+    "tahli",
+    "vazge",
+    "yapma",
+    "çıktı",
+    "çıkın",
+    "çıkış",
+    "örgüt",
+    "şahin",
+    "şikây"
+   ],
+   "at": "2026-11-20T02:16:20.428902+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7c3537407e",
-   "post_id": "529346797199852_1471989725040735",
-   "title": "Çinli ajanla aşk yaşayan Jensen Huang geri dönmek istiyor: \"Hata yaptım, tüm sorumluluğu üstleniyorum\"",
-   "at": "2026-11-18T00:54:51.002291+00:00",
-   "yazim": "claude",
-   "metin": "NVIDIA'nın kurucusu Jensen Huang, istifasının ardından yaptığı açıklamada:\n\n“NVIDIA’daki herkesten beklenen standartları karşılayamadım ve özel hayatımda ciddi hatalar yaptım. Hatalarımın tüm sorumluluğunu üstleniyorum ve yönetim kurulunun bağımsız soruşturmasıyla tam iş birliği yapmaya kararlıyım.”\n\n— Huang, 12 Kasım'da CEO, başkanlık ve yönetim kurulu üyeliğinden ayrılmıştı. Ayrılığın nedeni özel hayatına ilişkin iddialardı.\n— Huang, NVIDIA'ya geri dönmek istediğini de belirtti. Ancak bunun yönetim kurulunun kararına bağlı olduğunu söyledi.\n— Reuters'ın haberine göre yönetim kurulu, Huang'ın yeniden CEO olmasını şu aşamada değerlendirmiyor.",
-   "sources": [
-    "Karar: https://www.karar.com/dunya-haberleri/cinli-ajanla-ask-yasayan-jensen-huang-geri-donmek-istiyor-hata-yaptim-2084727"
-   ]
-  },
   {
    "id": "46d9fc28f2",
    "post_id": "529346797199852_1471997675039940",
@@ -13715,6 +13687,17 @@
    "metin": "Namık Tan, Şam Büyükelçisi Nuh Yılmaz için:\n\n“Büyükelçiliği layıkıyla yapabilmesi için Nuh’un da biraz kulağını çekmeniz gerekiyor.”\n\n— Tan, bu sözleri Meclis'te Dışişleri Bakanlığı bütçesi görüşülürken Dışişleri Bakanı Hakan Fidan'a söyledi.\n— Tan, Yılmaz'ın Cumhuriyet döneminin aleyhine söylediği \"Kaybettiğimiz değerler Şam'da yaşıyor\" sözlerini de hatırlattı.\n— Yılmaz ise sosyal medya hesabından \"Yaşlı Baasçılar rahatsız\" diye yanıt verdi.",
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/cumhuriyet-in-nuh-yilmaz-haberi-gundeme-geldi-yilmaz-cevap-verdi-2557721"
+   ]
+  },
+  {
+   "id": "7130552abb",
+   "post_id": "529346797199852_1474068218166219",
+   "title": "29 günlük tutukluluğun ardından beraat eden BirGün muhabiri İsmail Arı: \"Tutuklamalarla geri adım atmayız\"",
+   "at": "2026-11-20T02:16:20.428902+00:00",
+   "yazim": "claude",
+   "metin": "BirGün muhabiri İsmail Arı, 29 gün tutuklu kaldıktan sonra iki suçlamadan da beraat ederek tahliye edildi.\n\n— Eski RTÜK Başkanı Ebubekir Şahin'in şikâyeti üzerine tutuklanmıştı.\n— Sincan Cezaevi'nden çıkınca meslektaşları ve meslek örgütleriyle bir araya geldi.\n\nİsmail Arı:\n\n“Tutuklamalarla biz mesleğimizi yapmaktan vazgeçmeyeceğiz. Gazetecilik suç değildir.”",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/29-gunluk-tutuklulugun-ardindan-beraat-eden-birgun-muhabiri-ismail-ari-tutuklamalarla-geri-adim-atmayiz-747362"
    ]
   }
  ],
