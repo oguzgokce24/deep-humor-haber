@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "fon",
-    "hayat",
-    "ifade",
-    "musta",
-    "nın",
-    "oğlu",
-    "soruş",
-    "yazıc",
-    "çağrı"
-   ],
-   "tok": [
-    "adil",
-    "akp",
-    "aktar",
-    "arala",
-    "atana",
-    "atanm",
-    "bugün",
-    "demir",
-    "dün",
-    "fon",
-    "gazet",
-    "genel",
-    "grup",
-    "ifade",
-    "kapsa",
-    "katıl",
-    "kayyı",
-    "musta",
-    "nergi",
-    "nın",
-    "oğlu",
-    "oğlun",
-    "parti",
-    "topla",
-    "varlı",
-    "vurgu",
-    "yardı",
-    "yazıc",
-    "yönel",
-    "yönet",
-    "çağrı",
-    "çağır",
-    "şirke"
-   ],
-   "at": "2026-11-18T11:58:44.624399+00:00"
-  },
-  {
-   "fp": [
     "acil",
     "antal",
     "havad",
@@ -10860,20 +10810,75 @@
     "ürett"
    ],
    "at": "2026-11-19T23:55:31.348413+00:00"
+  },
+  {
+   "fp": [
+    "400",
+    "hedef",
+    "karab",
+    "kimya",
+    "otoma",
+    "tam",
+    "tesis",
+    "ton",
+    "var",
+    "yok",
+    "üreti"
+   ],
+   "tok": [
+    "anlat",
+    "ardın",
+    "arsla",
+    "aylık",
+    "başla",
+    "bitti",
+    "bosta",
+    "etabı",
+    "etapl",
+    "etapt",
+    "genel",
+    "hazır",
+    "hedef",
+    "ilçes",
+    "istih",
+    "istir",
+    "kapas",
+    "karab",
+    "katkı",
+    "kendi",
+    "kimya",
+    "kişil",
+    "kompo",
+    "kulla",
+    "kurul",
+    "köyü",
+    "madde",
+    "manta",
+    "müdür",
+    "ndeki",
+    "odalı",
+    "otoma",
+    "reçet",
+    "safra",
+    "samet",
+    "tam",
+    "tamam",
+    "tesis",
+    "ton",
+    "ulaşm",
+    "var",
+    "veril",
+    "yatır",
+    "yok",
+    "yılda",
+    "özel",
+    "üreti",
+    "şöyle"
+   ],
+   "at": "2026-11-20T00:08:11.752321+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "51b9f83f33",
-   "post_id": "529346797199852_1471921028380938",
-   "title": "Rakamlar ilk bakışta sevindirdi ama gerçeği bambaşka çıktı: Yerli üretici yatırımda frene bastı",
-   "at": "2026-11-17T23:19:27.129576+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'nin tekstil makinesi ithalatı 8 ayda yüzde 29,7 düştü, yatırımlar frene bastı.\n\n— Ocak-ağustos döneminde tekstil ve konfeksiyon makinesi ithalatı 894 milyon dolardan 628 milyon dolara geriledi.\n— Aynı dönemde makine ihracatı yüzde 12,1 düşerek 609 milyon dolara indi.\n— Dış ticaret açığı 200 milyon dolardan 19 milyon dolara indi. Bunun nedeni ihracatın artması değil, ithalattaki sert düşüş.\n— Makine alımları yatırım ve yenilemeyle doğrudan bağlantılı. Bu yüzden düşüş, sektörde yatırım iştahının zayıfladığına işaret ediyor.\n— Ocak-eylül döneminde ihracat 739 milyon dolardan 670 milyon dolara geriledi. İngiltere, Mısır ve Bangladeş'e yapılan satışlar ise arttı.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/tekstil-makineleri-ithalati-neden-dustu-turkiye-hangi-ulkelere-tekstil-2084739"
-   ]
-  },
   {
    "id": "f1ab75b04a",
    "post_id": "529346797199852_1471926495047058",
@@ -13504,6 +13509,17 @@
    "metin": "Öğretmenliği bırakıp hayvancılığa başlayan Amasyalı:\n\n“Keşke hayvancılığa 10 yıl önce başlasaydım, tek pişmanlığım bu.”\n\n— Amasya'da bilgisayar öğretmenliği yapan 36 yaşındaki bir kadın, Suluova'da çiftlik kurdu.\n— Banka kredisiyle Avusturya'dan 10 ithal damızlık inek getirdi, 3 yılda sürüyü 30 hayvana çıkardı.\n— Kaba yemi kendi ürettiği için maliyeti düşüyor, sütünü kooperatife satarak geçimini sağlıyor.",
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/ogretmenligi-birakti-ciftligini-kurdu-10-inekle-baslayip-3-katina-2085194"
+   ]
+  },
+  {
+   "id": "722982b7fa",
+   "post_id": "529346797199852_1473980968174944",
+   "title": "Kimyasal yok tam otomasyon var: Karabük tesisinde 400 ton üretim hedefleniyor!",
+   "at": "2026-11-20T00:08:11.752321+00:00",
+   "yazim": "claude",
+   "metin": "Karabük'ün Safranbolu ilçesinde kurulan istiridye mantarı tesisinde üretim başladı.\n\n— Bostanbükü Köyü'ndeki tesisin ilk etabı 5 odalı ve 75 ton kapasiteli. Tüm yatırımlar bittiğinde aylık 400 ton üretim ve 50 kişilik istihdam hedefleniyor.\n— İlk etapta 10 kişiye iş verildi.\n— Tesis Genel Müdürü Samet Arslan, katkı maddesi ya da kimyasal kullanmadan özel reçeteyle kendi kompostlarını hazırladıklarını söyledi.\n\nGenel Müdür Arslan, tesisin hedeflerini şöyle anlattı:\n\n“Etapların tamamlanmasının ardından aylık 400 ton üretime ulaşmayı hedefliyoruz.”",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/kimyasal-yok-tam-otomasyon-var-karabuk-tesisinde-400-ton-uretim-2085192"
    ]
   }
  ],
