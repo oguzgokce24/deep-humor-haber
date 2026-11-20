@@ -2,66 +2,6 @@
  "seen": [
   {
    "fp": [
-    "acı",
-    "bilec",
-    "kişi",
-    "olay",
-    "sıkış",
-    "trakt",
-    "çamur",
-    "öldü"
-   ],
-   "tok": [
-    "acı",
-    "adam",
-    "adamı",
-    "adli",
-    "apara",
-    "ardın",
-    "başla",
-    "belir",
-    "bilec",
-    "bilin",
-    "durum",
-    "edip",
-    "ekipl",
-    "etmey",
-    "fark",
-    "geldi",
-    "hemen",
-    "henüz",
-    "kepçe",
-    "kesin",
-    "koyun",
-    "köyün",
-    "kısmı",
-    "monte",
-    "neden",
-    "olaca",
-    "olay",
-    "otomo",
-    "otops",
-    "savcı",
-    "sıkış",
-    "takma",
-    "takıl",
-    "talim",
-    "tespi",
-    "trakt",
-    "verdi",
-    "yaşar",
-    "yetki",
-    "çalış",
-    "çamur",
-    "çevre",
-    "öldüğ",
-    "ölüm",
-    "öztür"
-   ],
-   "at": "2026-11-18T23:51:36.103639+00:00"
-  },
-  {
-   "fp": [
     "anne",
     "hasta",
     "kaldı",
@@ -10819,21 +10759,58 @@
     "üncü"
    ],
    "at": "2026-11-20T11:44:09.821663+00:00"
+  },
+  {
+   "fp": [
+    "28",
+    "47",
+    "83",
+    "fetö",
+    "ilde",
+    "opera",
+    "tutuk",
+    "yakal",
+    "yönel",
+    "şüphe"
+   ],
+   "tok": [
+    "adli",
+    "arala",
+    "aranm",
+    "arası",
+    "bazıl",
+    "belir",
+    "bulun",
+    "byloc",
+    "cezas",
+    "deste",
+    "dev",
+    "diğer",
+    "duyur",
+    "düzen",
+    "fetö",
+    "finan",
+    "günde",
+    "hapis",
+    "hüküm",
+    "içişl",
+    "işlem",
+    "kaydı",
+    "kesin",
+    "kişil",
+    "kontr",
+    "kulla",
+    "sağla",
+    "sürüy",
+    "uygul",
+    "var",
+    "yönel",
+    "örgüt"
+   ],
+   "at": "2026-11-20T11:56:43.301203+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5b57f123fd",
-   "post_id": "529346797199852_1472373825002325",
-   "title": "Arda Güler ve Kenan Yıldız, \"Yılın Yükselen Oyuncusu\" ödülüne aday gösterildi",
-   "at": "2026-11-18T10:42:56.731913+00:00",
-   "yazim": "claude",
-   "metin": "Milli futbolcular Arda Güler ve Kenan Yıldız, Globe Soccer Ödülleri'nde \"Yılın Yükselen Oyuncusu\" adayları arasına girdi.\n\nÖdüller 28 Aralık'ta Dubai'de sahiplerini bulacak. Halk oylaması ise 30 Kasım'a kadar sürecek.\n\n— Ödül için Cubarsi, Diomande, Endrick, Espi, Froholdt, Karl, Kouropi, Lewis-Skelly, Manzambi, Nusa ve O'Reilly de yarışıyor.\n— Arda Güler ile Kenan Yıldız bu ödüle geçtiğimiz sezonlarda da aday gösterilmişti.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010069/arda-guler-ve-kenan-yildiz-yilin-yukselen-oyuncusu-odulune-aday-gosterildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Sözcü Spor: https://www.sozcu.com.tr/arda-guler-ve-kenan-yildiz-dev-odule-aday-p382458"
-   ]
-  },
   {
    "id": "aaea2a6201",
    "post_id": "529346797199852_1472385155001192",
@@ -13458,6 +13435,22 @@
     "BirGün: https://www.birgun.net/haber/basak-gurkan-davasinda-savci-mutalasini-acikladi-747458",
     "Karar: https://www.karar.com/guncel-haberler/gelinini-22-bicak-darbesiyle-olduren-kayinpedere-agirlastirilmis-2085272"
    ]
+  },
+  {
+   "id": "65ded56464",
+   "post_id": "529346797199852_1474486781457696",
+   "title": "FETÖ operasyonlarında 47 şüpheli tutuklandı",
+   "at": "2026-11-20T11:56:43.301203+00:00",
+   "yazim": "claude",
+   "metin": "28 ilde FETÖ operasyonlarında 83 şüpheli yakalandı, 47'si tutuklandı.\n\n— İçişleri Bakanlığı, son 10 günde yapılan operasyonları açıkladı. Yakalananlar arasında ByLock kullanan ve örgüte finansal destek sağlayan kişiler de var.\n— Yakalananlardan bazılarının hakkında kesinleşmiş hapis cezası ya da aranma kaydı bulunuyor.\n— 22 şüpheli hakkında adli kontrol hükümleri uygulandı. Diğer şüphelilerin işlemleri sürüyor.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/fetoye-yonelik-28-ilde-operasyon-47-tutuklama-963970.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/icisleri-bakanligi-duyurdu-28-ilde-feto-operasyonlarinda-47-tutuklama-43385051",
+    "NTV: https://www.ntv.com.tr/turkiye/feto-operasyonlarinda-47-supheli-tutuklandi-1751778",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-28-ilde-feto-operasyonu-47-tutuklama-3928792",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/feto-operasyonlarinda-83-supheli-yakalandi-47-tutuklama-4874844",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/28-ilde-dev-feto-operasyonu-83-supheli-yakalandi-47si-tutuklandi-4874836"
+   ]
   }
  ],
  "fails": {
@@ -13752,7 +13745,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123742915423858716",
+   "since_id": "2123746980958511215",
    "started": true
   },
   "ajansmuhbir1923": {
