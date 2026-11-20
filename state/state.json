@@ -10821,21 +10821,82 @@
     "şubes"
    ],
    "at": "2026-11-20T18:01:51.207034+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "bilir",
+    "cezas",
+    "davas",
+    "gazet",
+    "halk",
+    "hapis",
+    "nda",
+    "taleb"
+   ],
+   "tok": [
+    "adli",
+    "adını",
+    "alınm",
+    "arası",
+    "asker",
+    "avuka",
+    "ayrı",
+    "açıld",
+    "barış",
+    "basın",
+    "bilir",
+    "büyüğ",
+    "cezas",
+    "davas",
+    "duruş",
+    "ertel",
+    "gazet",
+    "göre",
+    "görüş",
+    "halk",
+    "hapis",
+    "hazır",
+    "imamo",
+    "ise",
+    "isme",
+    "isted",
+    "isten",
+    "karşı",
+    "kayde",
+    "kürşa",
+    "nda",
+    "nin",
+    "nun",
+    "oğuz",
+    "para",
+    "pehli",
+    "rızas",
+    "sav",
+    "savcı",
+    "savun",
+    "seda",
+    "selek",
+    "serha",
+    "suat",
+    "suçta",
+    "süre",
+    "taleb",
+    "talep",
+    "telef",
+    "tokta",
+    "topla",
+    "turpu",
+    "yayım",
+    "yönel",
+    "yıla",
+    "yılda",
+    "şubat"
+   ],
+   "at": "2026-11-20T18:14:32.213494+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "85f3b25f5e",
-   "post_id": "529346797199852_1472695951636779",
-   "title": "Zimmet soruşturmasında tutuklama karar: Eski belediye başkanının danışmanı dahil 4 tutuklama",
-   "at": "2026-11-18T17:20:51.556213+00:00",
-   "yazim": "claude",
-   "metin": "İçişleri Bakanı Mustafa Çiftçi, eski Bursa Büyükşehir Belediye Başkanı Alinur Aktaş hakkında soruşturma izni verilmesine gerek olmadığına karar verdi.\n\n— İYİP Bursa Milletvekili Yüksel Selçuk Türkoğlu, Aktaş dönemindeki 5 milyon 279 bin 156 liralık temsil ve ağırlama harcamasının kamu zararına yol açtığı iddiasıyla suç duyurusunda bulunmuştu.\n\n— Karar, Aktaş ve dönemin altı belediye görevlisini kapsıyor.\n\n— Gerekçe olarak Sayıştay ve idare mahkemesindeki süreçlerin devam ettiği gösterildi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010119/icisleri-bakanligi-eski-akp-li-bursa-buyuksehir-belediye-baskani-aktas-hakkinda-sorusturma-izni-vermedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/guncel-haberler/zimmet-sorusturmasinda-tutuklama-karar-eski-belediye-baskaninin-2084931"
-   ]
-  },
   {
    "id": "f3d7304548",
    "post_id": "529346797199852_1472704464969261",
@@ -13443,6 +13504,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-emeklilerden-ironik-eylem-emekli-maaslari-dusurulsun-2557947",
     "Evrensel: https://www.evrensel.net/haber/6010462/eskisehir-de-emeklilerden-emekli-maaslari-dusurulsun-eylemi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "a491bd86d0",
+   "post_id": "529346797199852_1474827534756954",
+   "title": "Halk TV’nin ‘bilirkişi davası’nda 5 gazeteci için hapis istendi",
+   "at": "2026-11-20T18:14:32.213494+00:00",
+   "yazim": "claude",
+   "metin": "Halk TV'nin \"bilirkişi davası\"nda savcı, gazeteciler Barış Pehlivan ve Kürşat Oğuz için toplam 4 yıldan 10 yıla kadar hapis cezası istedi.\n\nSuat Toktaş, Seda Selek ve Serhan Asker için ise 2 yıldan 5 yıla kadar hapis ve adli para cezası talep edildi.\n\n— Dava, İmamoğlu'nun \"Turpun Büyüğü\" basın toplantısında adını açıkladığı bilirkişi S.B. ile Pehlivan arasındaki telefon görüşmesinin Halk TV'de yayımlanmasıyla açıldı.\n\n— Savcıya göre görüşme S.B.'nin rızası alınmadan kaydedildi ve yayımlandı.\n\n— Avukatlar savcının talebine karşı savunma hazırlamak için süre istedi. Duruşma 10 Şubat 2027'ye ertelendi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010447/halk-tv-bilirkisi-davasi-nda-5-isme-hapis-cezasi-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/halk-tv-bilirkisi-davasinda-5-gazeteciye-hapis-cezasi-talebi-747520",
+    "Karar: https://www.karar.com/guncel-haberler/halk-tvnin-bilirkisi-davasinda-5-gazeteci-icin-hapis-istendi-2085355"
+   ]
   }
  ],
  "fails": {
@@ -13740,7 +13814,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123837848910496135",
+   "since_id": "2123841962281259443",
    "started": true
   },
   "ajansmuhbir1923": {
