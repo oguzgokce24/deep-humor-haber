@@ -10817,25 +10817,67 @@
     "üyesi"
    ],
    "at": "2026-11-20T19:38:53.757900+00:00"
+  },
+  {
+   "fp": [
+    "arada",
+    "budur",
+    "diğer",
+    "eder",
+    "fark",
+    "gel",
+    "halkl",
+    "ise",
+    "meyda",
+    "milli",
+    "nefre",
+    "putin",
+    "sever",
+    "traje",
+    "tür",
+    "vatan",
+    "yaşan",
+    "ülkel"
+   ],
+   "tok": [
+    "arada",
+    "budur",
+    "bugün",
+    "diğer",
+    "duyul",
+    "düşün",
+    "eder",
+    "ederk",
+    "fark",
+    "fazla",
+    "gel",
+    "gelec",
+    "gelir",
+    "gelsi",
+    "halkl",
+    "https",
+    "ise",
+    "kblqq",
+    "meyda",
+    "milli",
+    "nefre",
+    "olduk",
+    "putin",
+    "sever",
+    "tarif",
+    "traje",
+    "tür",
+    "vatan",
+    "yaşan",
+    "yol",
+    "zorun",
+    "çocuk",
+    "ülkel"
+   ],
+   "at": "2026-11-20T19:51:25.011243+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "16a5a909f1",
-   "post_id": "529346797199852_1472774741628900",
-   "title": "Bakan Fidan, Azerbaycanlı mevkidaşı Bayramov ile telefonda görüştü",
-   "at": "2026-11-18T19:15:52.320139+00:00",
-   "yazim": "claude",
-   "metin": "Dışişleri Bakanı Hakan Fidan, Azerbaycan Dışişleri Bakanı Ceyhun Bayramov ile telefonda görüştü.\n\nGörüşmede Türkiye ile Azerbaycan arasındaki ikili ilişkiler ve bölgesel konular ele alındı.\n\n— İki bakan, 29 Ekim'de Ankara'daki Türk Devletleri Teşkilatı 13. Zirvesi'nde bir araya gelmişti.\n— 8 Kasım'da Azerbaycan'ın Şuşa kentindeki Zafer Günü etkinliklerinde de görüşmüşlerdi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-azerbaycan-disisleri-bakani-bayramov-ile-telefonda-gorustu/4129702",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/bakan-fidan-baeli-ve-azerbaycanli-mevkidaslariyla-gorustu-963726.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/disisleri-bakani-hakan-fidan-azerbaycanli-mevkidasi-bayramov-gorustu-43383043",
-    "Milliyet: https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-azerbaycan-disisleri-bakani-bayramov-ile-gorustu-7703314",
-    "CNN Türk: https://www.cnnturk.com/turkiye/disisleri-bakani-hakan-fidan-azerbaycan-disisleri-bakani-bayramov-ile-gorustu-3495013",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/18/bakan-fidan-bae-disisleri-bakani-al-nahyan-ile-telefonda-gorustu"
-   ]
-  },
   {
    "id": "3180577f18",
    "post_id": "529346797199852_1472787574960950",
@@ -13452,6 +13494,17 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-icisleri-duyurdu-serdar-altinbas-cekyada-yakalandi-3496010",
     "NTV: https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-serdar-altinbas-cekyada-yakalandi-1751824"
    ]
+  },
+  {
+   "id": "9bcf5e1ba6",
+   "post_id": "529346797199852_1474896304750077",
+   "title": "Putin: \"Vatanseverler ülkelerini sever, milliyetçiler ise diğer halklardan nefret eder. Aradaki fark budur. Ne yaşanırsa yaşansın, ne tür trajediler meydana gel",
+   "at": "2026-11-20T19:51:25.011243+00:00",
+   "yazim": "claude",
+   "metin": "Putin, milliyetçiliği tarif ederken:\n\n“Vatanseverler ülkelerini sever, milliyetçiler ise diğer halklardan nefret eder. Aradaki fark budur.”\n\n— Putin, ne yaşanırsa yaşansın bugün çocukların geleceğini düşünmek zorunda olduklarını da söyledi.",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2123865006953406929"
+   ]
   }
  ],
  "fails": {
@@ -13750,7 +13803,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123858433501757946",
+   "since_id": "2123865006953406929",
    "started": true
   },
   "ajansmuhbir1923": {
