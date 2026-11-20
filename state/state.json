@@ -2,62 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "günü",
-    "voyag",
-    "ışık"
-   ],
-   "tok": [
-    "abd",
-    "ajans",
-    "anlam",
-    "appea",
-    "dan",
-    "diken",
-    "dünya",
-    "first",
-    "fotoğ",
-    "fırla",
-    "geliy",
-    "gönde",
-    "günü",
-    "havac",
-    "insan",
-    "kilom",
-    "linka",
-    "mavi",
-    "milya",
-    "nasa",
-    "nesne",
-    "nokta",
-    "nın",
-    "otomo",
-    "post",
-    "radyo",
-    "saat",
-    "sinya",
-    "site",
-    "soluk",
-    "sürüy",
-    "the",
-    "ulaşa",
-    "ulaşm",
-    "ulaşt",
-    "uzakl",
-    "uzakt",
-    "uzay",
-    "uzaya",
-    "voyag",
-    "yakla",
-    "yapım",
-    "yıldı",
-    "çekmi",
-    "ışık"
-   ],
-   "at": "2026-11-18T17:33:20.300460+00:00"
-  },
-  {
-   "fp": [
     "akciğ",
     "darlı",
     "dokto",
@@ -11089,21 +11033,81 @@
     "üzere"
    ],
    "at": "2026-11-20T05:21:55.421771+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "fiyat",
+    "gram",
+    "kriti",
+    "seviy"
+   ],
+   "tok": [
+    "altın",
+    "araşt",
+    "ayın",
+    "ayınd",
+    "başla",
+    "bin",
+    "chart",
+    "coope",
+    "daki",
+    "doğu",
+    "dönüş",
+    "düşük",
+    "düşüş",
+    "emtia",
+    "eğili",
+    "fiyat",
+    "geril",
+    "gram",
+    "gördü",
+    "göre",
+    "görül",
+    "günce",
+    "güven",
+    "hızlı",
+    "indi",
+    "inere",
+    "itiba",
+    "işlem",
+    "kasım",
+    "kriti",
+    "küres",
+    "liman",
+    "lirad",
+    "liran",
+    "nakde",
+    "nakit",
+    "ocak",
+    "olmak",
+    "ons",
+    "orta",
+    "otomo",
+    "piyas",
+    "saat",
+    "sabah",
+    "sağla",
+    "seviy",
+    "stand",
+    "suki",
+    "sürüy",
+    "sınır",
+    "varlı",
+    "yatır",
+    "yönel",
+    "yükse",
+    "çatış",
+    "çevir",
+    "çeyre",
+    "çıkan",
+    "çıkmı",
+    "çıkıp"
+   ],
+   "at": "2026-11-20T05:40:33.349287+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "62fa910660",
-   "post_id": "529346797199852_1472125161693858",
-   "title": "Meteoroloji'den 12 il için sarı kodlu uyarı: 2 bölgede fırtına, 4 bölgede sağanak",
-   "at": "2026-11-18T04:34:16.726053+00:00",
-   "yazim": "claude",
-   "metin": "Meteoroloji, 12 il için sarı kodlu uyarı verdi. Marmara'nın kuzey ve doğusunda 18 Kasım Çarşamba ile 19 Kasım Perşembe öğle saatleri arasında fırtına ve kısa süreli kuvvetli fırtına bekleniyor.\n\n— Yağmur, Marmara'dan Doğu Anadolu'ya kadar birçok bölgede etkili olacak.\n\n— Kıyılarda gök gürültülü sağanak, Doğu Karadeniz ve Doğu Anadolu'nun yüksek kesimlerinde ise kar bekleniyor.\n\n— Rüzgar fırtına şiddetine ulaşabilecek ve ulaşımda aksamalar yaşanabilir.\n\n— İskenderun Körfezi çevresinde yağış yer yer kuvvetli olacak, ani sel ve su baskınlarına karşı dikkatli olunması isteniyor.\n\n— İç ve batı kesimlerde sıcaklıklar mevsim normallerinin 3 ila 6 derece üzerine çıkacak.\n\n— Soba ve doğalgaz kaynaklı baca gazı zehirlenmelerine karşı da dikkatli olunmalı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-meteoroloji-den-12-il-icin-sari-kod-2-bolgede-firtina-4-bolgede-saganak-var-18-kasim-hava-durumu-3928100",
-    "Karar: https://www.karar.com/guncel-haberler/meteorolojiden-12-il-icin-sari-kodlu-uyari-2-bolgede-firtina-4-bolgede-2084745"
-   ]
-  },
   {
    "id": "5e451a9652",
    "post_id": "529346797199852_1472132838359757",
@@ -13727,6 +13731,18 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6010337/kolombiya-da-grev-binlerce-emekci-kemer-sikma-politikalarina-karsi-sokaga-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "988b928342",
+   "post_id": "529346797199852_1474211808151860",
+   "title": "Altın fiyatları son 14 ayın en düşük seviyesinde: Gram altın kritik seviyenin altında",
+   "at": "2026-11-20T05:40:33.349287+00:00",
+   "yazim": "claude",
+   "metin": "Gram altın son 14 ayın en düşük seviyesine geriledi ve 19 Kasım'da 6 bin lira sınırının altına indi.\n\n— Gram altın 29 Ocak 2026'da 8 bin lira seviyesinin üzerine çıkmıştı.\n\n— 19 Kasım'da en yüksek 6 bin 97 lira görüldü, sabah saat 07.00'de 5 bin 770 liradan işlem gördü.\n\n— Standard Chartered Küresel Emtia Araştırmaları Başkanı Suki Cooper'a göre Orta Doğu'daki çatışmaların başlamasıyla altın, güvenli liman olmaktan çıkıp hızlı nakit sağlayan bir araca dönüştü. Yatırımcılar altın varlıklarını nakde çevirmeye yöneldi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/ekonomi/altin-fiyatlari-guncel-son-dakika-20-kasim-gram-altin-ceyrek-altin-ons-altin-ne-kadar-altin-fiyatlari-kritik-seviyenin-altinda-3495649",
+    "Karar: https://www.karar.com/ekonomi-haberleri/altin-fiyatlari-son-14-ayin-en-dusuk-seviyesinde-gram-altin-6-bin-2085202"
+   ]
   }
  ],
  "fails": {
@@ -14020,7 +14036,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123646275094511759",
+   "since_id": "2123652161729106190",
    "started": true
   },
   "ajansmuhbir1923": {
