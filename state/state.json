@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "cinse",
-    "julio",
-    "suçla",
-    "taciz"
-   ],
-   "tok": [
-    "aleyh",
-    "anton",
-    "attığ",
-    "açtığ",
-    "açıla",
-    "aşağı",
-    "baham",
-    "başla",
-    "belir",
-    "ceza",
-    "cinse",
-    "davac",
-    "davas",
-    "davay",
-    "delil",
-    "domin",
-    "eski",
-    "evler",
-    "gelip",
-    "gerek",
-    "hâkim",
-    "iddia",
-    "ifade",
-    "igles",
-    "ispan",
-    "içere",
-    "julio",
-    "kabul",
-    "kadın",
-    "kendi",
-    "muame",
-    "ndeki",
-    "nitel",
-    "onayl",
-    "pina",
-    "siste",
-    "suçla",
-    "sürdü",
-    "taciz",
-    "taleb",
-    "tokat",
-    "ulusa",
-    "yargı",
-    "yaşın",
-    "yerin",
-    "yeter",
-    "çalış",
-    "öne",
-    "ıgles",
-    "şahse",
-    "şarkı",
-    "şubat"
-   ],
-   "at": "2026-11-18T14:30:53.297724+00:00"
-  },
-  {
-   "fp": [
     "3",
     "8",
     "edirn",
@@ -11052,23 +10989,61 @@
     "üzeri"
    ],
    "at": "2026-11-20T02:29:09.152823+00:00"
+  },
+  {
+   "fp": [
+    "bağda",
+    "fahiş",
+    "fren",
+    "hakka",
+    "zamma",
+    "öğren"
+   ],
+   "tok": [
+    "artış",
+    "bağda",
+    "başde",
+    "belir",
+    "bin",
+    "buldu",
+    "den",
+    "denet",
+    "fahiş",
+    "fren",
+    "gençl",
+    "geçen",
+    "hakka",
+    "hesab",
+    "kamu",
+    "kamud",
+    "konak",
+    "lük",
+    "makul",
+    "sektö",
+    "seviy",
+    "takıl",
+    "tüfe",
+    "uyarı",
+    "yurdu",
+    "yüzde",
+    "zam",
+    "zamma",
+    "zammı",
+    "çek",
+    "çekil",
+    "çıkan",
+    "çıktı",
+    "ölçüd",
+    "ölçüy",
+    "özel",
+    "öğren",
+    "ücret",
+    "üzeri"
+   ],
+   "at": "2026-11-20T02:41:52.494742+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9085b8feb5",
-   "post_id": "529346797199852_1472028401703534",
-   "title": "Marmara'da fırtına. BUDO'nun 12 seferi iptal edildi",
-   "at": "2026-11-18T01:54:48.184239+00:00",
-   "yazim": "claude",
-   "metin": "Marmara'da fırtına nedeniyle Bursa Deniz Otobüsleri (BUDO) 12 seferini iptal etti.\n\nOlumsuz hava koşulları yüzünden Bursa (Mudanya), İstanbul (Kabataş) ve Armutlu arasındaki seferler yapılamayacak.\n\n— İptaller sabah 07.00 ile akşam 19.30 arasındaki seferleri kapsıyor.\n— Çanakkale'de de Gökçeada ve Bozcada hatlarında GESTAŞ'ın bazı feribot seferleri iptal edildi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/budonun-12-seferi-iptal-edildi-963618.html",
-    "NTV: https://www.ntv.com.tr/turkiye/marmarada-firtina-budonun-12-seferi-iptal-edildi-1751364",
-    "Sözcü: https://www.sozcu.com.tr/budonun-12-seferine-hava-engeli-p382306",
-    "BirGün: https://www.birgun.net/haber/budo-nun-12-seferi-iptal-edildi-747013"
-   ]
-  },
   {
    "id": "9cfebc3993",
    "post_id": "529346797199852_1472036711702703",
@@ -13690,6 +13665,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/fon-vurgununda-son-dosya-kiler-bir-gunde-6-5-milyar-lira-kazanc-sagladi-iddiasi-747356"
    ]
+  },
+  {
+   "id": "a690e712cb",
+   "post_id": "529346797199852_1474085618164479",
+   "title": "Öğrenciye fahiş zamma fren: \"Hakkaniyetle bağdaşmıyor\"",
+   "at": "2026-11-20T02:41:52.494742+00:00",
+   "yazim": "claude",
+   "metin": "Kamu Başdenetçisi, bir öğrenci yurdunun konaklama ücretindeki yüzde 100'lük zammı \"hakkaniyetle bağdaşmayan ölçüde\" buldu.\n\n— Kamudan özel sektöre geçen yurdun konaklama ücreti 9 bin 500 TL'den 19 bin TL'ye çıktı.\n\n— Başdenetçi, artışın TÜFE hesabının çok üzerinde olduğunu belirtti.\n\n— Zammın makul bir seviyeye çekilmesi için Gençlik Bakanlığı uyarıldı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/ogrenciye-fahis-zamma-fren-hakkaniyetle-bagdasmiyor-747361"
+   ]
   }
  ],
  "fails": {
@@ -13933,16 +13919,10 @@
   "3c7845ced1": 1,
   "ee20df3dfe": 1,
   "a521ee14c0": 3,
-  "0eb2b5dfd8": 1,
-  "75a42824e4": 1
+  "0eb2b5dfd8": 2,
+  "75a42824e4": 2
  },
  "fail_log": [
-  "2026-11-20T00:21 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
-  "2026-11-20T00:21 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
-  "2026-11-20T00:21 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
-  "2026-11-20T00:21 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
-  "2026-11-20T00:24 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
-  "2026-11-20T00:24 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
   "2026-11-20T00:24 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
   "2026-11-20T00:24 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
   "2026-11-20T00:24 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
@@ -13976,7 +13956,13 @@
   "2026-11-20T02:29 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
   "2026-11-20T02:29 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
   "2026-11-20T02:29 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:29 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı"
+  "2026-11-20T02:29 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
+  "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
+  "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
+  "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
+  "2026-11-20T02:41 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
+  "2026-11-20T02:41 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
+  "2026-11-20T02:41 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
