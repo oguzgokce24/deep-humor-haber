@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "266",
-    "bayra",
-    "ele",
-    "geçir",
-    "izmir",
-    "kilo",
-    "skunk",
-    "tekne",
-    "yaban",
-    "yelke"
-   ],
-   "tok": [
-    "aradı",
-    "arama",
-    "bayra",
-    "bildi",
-    "bodru",
-    "bulun",
-    "dedek",
-    "durdu",
-    "duyur",
-    "düzen",
-    "ekipl",
-    "güven",
-    "ilçes",
-    "izmir",
-    "içişl",
-    "kilo",
-    "kilog",
-    "koyu",
-    "kulla",
-    "köpeğ",
-    "madde",
-    "narko",
-    "nda",
-    "sahil",
-    "skunk",
-    "tekne",
-    "urla",
-    "uyuşt",
-    "yaban",
-    "yazıl",
-    "yelke"
-   ],
-   "at": "2026-11-18T15:47:14.080577+00:00"
-  },
-  {
-   "fp": [
     "ateş",
     "ayrıl",
     "davas",
@@ -10994,20 +10946,64 @@
     "şişey"
    ],
    "at": "2026-11-20T03:37:45.558180+00:00"
+  },
+  {
+   "fp": [
+    "000",
+    "19",
+    "84",
+    "bafra",
+    "mesai",
+    "nda",
+    "ovası",
+    "tonlu",
+    "ünü",
+    "üreti",
+    "üstle"
+   ],
+   "tok": [
+    "bafra",
+    "başla",
+    "başın",
+    "bölge",
+    "dekar",
+    "fazla",
+    "geliy",
+    "genel",
+    "hasad",
+    "hasat",
+    "ikinc",
+    "ilçed",
+    "ilçes",
+    "ise",
+    "karşı",
+    "kent",
+    "kentt",
+    "konum",
+    "mart",
+    "mesai",
+    "nda",
+    "ovası",
+    "pıras",
+    "samsu",
+    "sonun",
+    "sürec",
+    "sıray",
+    "tek",
+    "ton",
+    "tonda",
+    "tonlu",
+    "yani",
+    "yerle",
+    "yılın",
+    "ünü",
+    "üreti",
+    "üstle"
+   ],
+   "at": "2026-11-20T03:50:19.911470+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "401f93a17c",
-   "post_id": "529346797199852_1472067561699618",
-   "title": "Bütçede adresi belirsiz milyarlar: ‘Diğer’ kalemi üçe katlandı",
-   "at": "2026-11-18T02:57:19.691515+00:00",
-   "yazim": "claude",
-   "metin": "Merkezi bütçede alıcısı açıklanmayan \"diğer\" kuruluşlara yapılan harcama, yılın ilk 10 ayında yüzde 188,9 artarak 3,2 milyar TL'ye ulaştı.\n\n— Bu kalemde harcamanın hangi kuruluşlara gittiği tek tek belirtilmiyor.\n— Aynı dönemde Maarif Vakfı ile Yunus Emre Vakfı'na toplam 6,1 milyar TL aktarıldı.\n— Yeşilay'a yapılan transfer yaklaşık 86 kat arttı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/butcede-adresi-belirsiz-milyarlar-diger-kalemi-uce-katlandi-747022"
-   ]
-  },
   {
    "id": "b9cadbab0e",
    "post_id": "529346797199852_1472075691698805",
@@ -13630,6 +13626,17 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/iranli-sozcu-abdnin-biyolojik-silah-haberlerini-irak-isgalindeki-iddialara-benzetti/4131627",
     "TRT Haber: https://www.trthaber.com/haber/dunya/iranli-sozcu-abdnin-biyolojik-silah-haberlerini-irak-isgalindeki-iddialara-benzetti-963891.html",
     "Evrensel: https://www.evrensel.net/haber/6010334/iran-dan-abd-ye-irak-isgali-hatirlatmasi-kitle-imha-silahlari-senaryosu-yeniden-mi-sahnede?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "e1499ac125",
+   "post_id": "529346797199852_1474133391493035",
+   "title": "Bafra Ovası’nda 19.000 tonluk mesai: Üretimin %84’ünü üstleniyor!",
+   "at": "2026-11-20T03:50:19.911470+00:00",
+   "yazim": "claude",
+   "metin": "Samsun'un Bafra ilçesinde pırasa hasadı başladı. Kent, Türkiye'de pırasa üretiminde ikinci sıraya yerleşti.\n\n— Samsun'da 5.400 dekarda 19.000 tondan fazla pırasa üretiliyor.\n— Kentteki üretimin %84'ünü tek başına Bafra karşılıyor. Yani 16.000 ton pırasa bu ilçeden geliyor.\n— Türkiye genelinde 2025 yılında 145.800 ton pırasa üretildi.\n— Hasat Mart sonuna kadar sürecek.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/bafra-ovasinda-19-000-tonluk-mesai-uretimin-84unu-ustleniyor-2085195"
    ]
   }
  ],
