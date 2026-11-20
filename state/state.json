@@ -2,125 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "60",
-    "65",
-    "evind",
-    "hak",
-    "sosya",
-    "sunul",
-    "tek",
-    "telef",
-    "yaş",
-    "yaşlı",
-    "yetiy",
-    "çıkam",
-    "üstün"
-   ],
-   "tok": [
-    "ana",
-    "bakım",
-    "bağlı",
-    "başlı",
-    "birey",
-    "devle",
-    "emlak",
-    "evde",
-    "evind",
-    "gelir",
-    "hak",
-    "hizme",
-    "iades",
-    "işlem",
-    "kamu",
-    "kimli",
-    "maaş",
-    "muafi",
-    "muhta",
-    "sağlı",
-    "sosya",
-    "sunul",
-    "sunuy",
-    "taşım",
-    "tek",
-    "telef",
-    "toplu",
-    "uzana",
-    "vatan",
-    "vergi",
-    "yardı",
-    "yaş",
-    "yaşlı",
-    "yetiy",
-    "yönel",
-    "çıkam",
-    "ödeme",
-    "ücret",
-    "üstü",
-    "üstün",
-    "şartı"
-   ],
-   "at": "2026-11-19T03:20:16.788054+00:00"
-  },
-  {
-   "fp": [
-    "emekç",
-    "fatur",
-    "kesti",
-    "konya",
-    "krizi",
-    "mali",
-    "şeker"
-   ],
-   "tok": [
-    "benze",
-    "bin",
-    "borç",
-    "borçt",
-    "bulun",
-    "dolay",
-    "durdu",
-    "ediyo",
-    "emekç",
-    "endiş",
-    "fatur",
-    "geçme",
-    "geçmi",
-    "gönde",
-    "izne",
-    "işlet",
-    "işçi",
-    "işçil",
-    "kamul",
-    "kanga",
-    "kesti",
-    "konya",
-    "krizi",
-    "kısmı",
-    "liral",
-    "mali",
-    "milya",
-    "nde",
-    "neden",
-    "santr",
-    "soma",
-    "sürec",
-    "talep",
-    "termi",
-    "tki",
-    "yakla",
-    "yaşan",
-    "yüzde",
-    "çalış",
-    "çıkar",
-    "ücret",
-    "üreti",
-    "şeker"
-   ],
-   "at": "2026-11-19T03:20:27.078451+00:00"
-  },
-  {
-   "fp": [
     "diyan",
     "krizi",
     "mülak"
@@ -10888,25 +10769,52 @@
     "üzeri"
    ],
    "at": "2026-11-20T15:10:12.003198+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "cezal",
+    "duyur",
+    "geliş",
+    "hgs"
+   ],
+   "tok": [
+    "aldı",
+    "altya",
+    "birli",
+    "cezal",
+    "durdu",
+    "duyur",
+    "edilm",
+    "geliş",
+    "geçen",
+    "geçiş",
+    "hgs",
+    "hızlı",
+    "icra",
+    "ilgil",
+    "kulla",
+    "köprü",
+    "kısal",
+    "nin",
+    "otoma",
+    "otomo",
+    "otoyo",
+    "sağlı",
+    "siste",
+    "tahsi",
+    "takip",
+    "ulaşt",
+    "yaptı",
+    "yürüt",
+    "özel",
+    "ücret",
+    "şirke"
+   ],
+   "at": "2026-11-20T15:22:42.441641+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7f365aea18",
-   "post_id": "529346797199852_1472549934984714",
-   "title": "Köprü güçlendirme: İstanbul'da bazı yollar trafiğe kapatılacak",
-   "at": "2026-11-18T14:17:49.918468+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da D-100 Bostancı Köprüsü'nün Edirne yönü bu gece 22.00 ile yarın sabah 06.00 arasında trafiğe kapatılacak.\n\n— Kapatma, köprüde yapılacak çalışma nedeniyle yapılıyor. Çalışma, köprü isminin kompozit fasya üzerine yazılmasını kapsıyor.\n\n— Araçlar kapalı süre boyunca Edirne yönündeki yan yoldan geçecek.\n\n— Avcılar'da Tahtakale Mahallesi'ndeki Tem Güney Yanyolu bu gece, Tem Kuzey Yanyolu ise 19 Kasım'dan itibaren dört gece boyunca 22.00-06.00 arasında kapatılacak.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-bazi-yollar-bu-gece-trafige-kapatilacak-963698.html",
-    "CNN Türk: https://www.cnnturk.com/turkiye/istanbulda-bazi-yollar-trafige-kapatilacak-istanbulda-bu-gece-hangi-yollar-kapatilacak-d-100-karayolu-kapaniyor-mu-3494777",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kadikoy-de-d-100-kara-yolu-bu-gece-trafige-kapatilacak-bostanci-koprusu-calismasi-nedeniyle-alternatif-guzergah-aciklandi-2557252",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/istanbulda-bazi-yollar-bu-gece-trafige-kapatilacak-4873998",
-    "Karar: https://www.karar.com/guncel-haberler/istanbulda-bazi-yollar-bu-gece-trafige-kapatilacak-2084909",
-    "Diken: https://www.diken.com.tr/kopru-guclendirme-istanbulda-bazi-yollar-trafige-kapatilacak/?utm_source=rss&utm_medium=rss&utm_campaign=kopru-guclendirme-istanbulda-bazi-yollar-trafige-kapatilacak"
-   ]
-  },
   {
    "id": "c4862f6ae6",
    "post_id": "529346797199852_1472559631650411",
@@ -13527,6 +13435,17 @@
     "Hürriyet: https://www.hurriyet.com.tr/gundem/suc-orgutu-elebasi-serkan-kurtulus-tum-suclamalari-reddetti-feto-sorularini-yanitsiz-birakti-43385402",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/cete-lideri-serkan-kurtulus-feto-borsasi-iddialarina-yine-yanit-vermedi-2557902"
    ]
+  },
+  {
+   "id": "982988f632",
+   "post_id": "529346797199852_1474671708105870",
+   "title": "Bakan duyurdu: HGS cezalarında yeni gelişme",
+   "at": "2026-11-20T15:22:42.441641+00:00",
+   "yazim": "claude",
+   "metin": "Ulaştırma ve Altyapı Bakanlığı, otoyol ve köprü geçişlerinde kullanılan HGS cezalarıyla ilgili yeni kararlar aldı.\n\n— Kararla birlikte özel otoyol şirketlerinin yürüttüğü icra takipleri durduruldu.\n\n— HGS, Hızlı Geçiş Sistemi'nin kısaltması. Otoyol ve köprülerden geçen araçların ücretlerinin otomatik olarak tahsil edilmesini sağlıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/bakan-duyurdu-hgs-cezalarinda-yeni-gelisme-747507"
+   ]
   }
  ],
  "fails": {
@@ -13822,7 +13741,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123793997722276004",
+   "since_id": "2123797459084492947",
    "started": true
   },
   "ajansmuhbir1923": {
