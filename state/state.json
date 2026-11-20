@@ -11034,21 +11034,66 @@
     "çıktı"
    ],
    "at": "2026-11-20T07:18:40.723581+00:00"
+  },
+  {
+   "fp": [
+    "8",
+    "86",
+    "endek",
+    "güven",
+    "kasım",
+    "tüket",
+    "yükse"
+   ],
+   "tok": [
+    "alt",
+    "altın",
+    "artar",
+    "artış",
+    "aylık",
+    "ayına",
+    "ayınd",
+    "bazda",
+    "bekle",
+    "dayan",
+    "den",
+    "değer",
+    "durum",
+    "düşün",
+    "ekim",
+    "ekono",
+    "endek",
+    "eşik",
+    "gelec",
+    "genel",
+    "göste",
+    "güven",
+    "hanen",
+    "harca",
+    "ilişk",
+    "içind",
+    "kaldı",
+    "kasım",
+    "kötüm",
+    "maddi",
+    "malı",
+    "puanl",
+    "puanı",
+    "rağme",
+    "seviy",
+    "ten",
+    "tüik",
+    "tüket",
+    "veril",
+    "yükse",
+    "yüzde",
+    "çıktı",
+    "öncek"
+   ],
+   "at": "2026-11-20T07:31:15.533179+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c5a076e902",
-   "post_id": "529346797199852_1472181971688177",
-   "title": "Maliyet krizi dizi sektörünü de vurdu: Oyuncuların ücretlerinde kesintiye gidiliyor",
-   "at": "2026-11-18T06:06:40.180221+00:00",
-   "yazim": "claude",
-   "metin": "Televizyon dizilerinde maliyetleri düşürmek için başrol oyuncularının ve set ekiplerinin ücretlerinde yüzde 10 ila 30 arasında kesinti başladı.\n\n— Reklam gelirlerindeki daralma ve artan bölüm maliyetleri sektörü zorluyor.\n\n— Dizi sürelerinin 140 dakikadan 110 dakikaya düşürülmesi planı, kanalların üzerinde anlaşamaması nedeniyle rafa kaldırıldı.\n\n— Bunun yerine yapım şirketleri, kanalların talebiyle bölüm giderlerini yapım bütçelerinden kısmaya yöneldi.\n\n— Bildirildiğine göre set ekiplerinin büyük çoğunluğu bu indirimi kabul etti.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/maliyet-krizi-dizi-sektorunu-de-vurdu-oyuncularin-ucretlerinde-kesintiye-gidiliyor-747028",
-    "Karar: https://www.karar.com/ekonomi-haberleri/televizyon-sektorunde-maliyet-onlemi-dizi-sureleri-kisalmadi-2084750"
-   ]
-  },
   {
    "id": "3456c21d28",
    "post_id": "529346797199852_1472189511687423",
@@ -13675,6 +13720,19 @@
     "Karar: https://www.karar.com/ekonomi-haberleri/liranin-eriyisi-suruyor-serbest-piyasada-dolar-ve-euro-gune-basladi-2085215",
     "Diken: https://www.diken.com.tr/borsa-gune-nasil-basladi-20-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-gune-nasil-basladi-20-kasim-2026"
    ]
+  },
+  {
+   "id": "ff61a941c7",
+   "post_id": "529346797199852_1474290001477374",
+   "title": "Tüketici güven endeksi 86,8 oldu",
+   "at": "2026-11-20T07:31:15.533179+00:00",
+   "yazim": "claude",
+   "metin": "Tüketici güven endeksi kasımda yüzde 2,4 artarak 86,8 oldu.\n\nEndeks bir önceki ay 84,8 seviyesindeydi. 100'ün altındaki değerler kötümserliği gösteriyor ve endeks bu ay da 100 puanın altında kaldı.\n\n— Gelecek 12 ay için hanenin maddi durum beklentisi 86,4'ten 89,4'e çıktı, alt endeksler içinde en yüksek artış bu göstergede oldu.\n— Gelecek 12 ay için genel ekonomik durum beklentisi 81,7'den 84,1'e yükseldi.\n— Dayanıklı tüketim malı harcaması düşüncesi 102,7'den 105,3'e çıktı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/tuketici-guven-endeksi-kasimda-aylik-bazda-yuzde-2-4-artarak-86-8e-yukseldi/4131717",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/tuketici-guven-endeksi-kasimda-yukseldi-tuik-verileri-aciklandi-3495686",
+    "Karar: https://www.karar.com/ekonomi-haberleri/tuketici-guven-endeksi-868-oldu-2085223"
+   ]
   }
  ],
  "fails": {
@@ -13969,7 +14027,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123676204431466517",
+   "since_id": "2123677911840596100",
    "started": true
   },
   "ajansmuhbir1923": {
