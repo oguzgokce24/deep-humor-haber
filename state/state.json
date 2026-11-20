@@ -2,81 +2,6 @@
  "seen": [
   {
    "fp": [
-    "arabi",
-    "başke",
-    "riyad",
-    "suudi"
-   ],
-   "tok": [
-    "acil",
-    "alanl",
-    "alarm",
-    "altya",
-    "alınd",
-    "alınm",
-    "alıyo",
-    "arabi",
-    "arap",
-    "asker",
-    "balis",
-    "başke",
-    "bölge",
-    "deki",
-    "devre",
-    "durum",
-    "duyur",
-    "erken",
-    "füzel",
-    "fırla",
-    "geldi",
-    "geçti",
-    "görün",
-    "güney",
-    "hedef",
-    "hesab",
-    "husil",
-    "iha",
-    "isten",
-    "kalab",
-    "karşı",
-    "koali",
-    "kriti",
-    "kısa",
-    "lar",
-    "makam",
-    "müdür",
-    "oluşt",
-    "peş",
-    "peşe",
-    "platf",
-    "resmi",
-    "riyad",
-    "savun",
-    "siste",
-    "sivil",
-    "suudi",
-    "süre",
-    "sık",
-    "sınır",
-    "talim",
-    "tehli",
-    "tesis",
-    "ulusa",
-    "uyarı",
-    "uymal",
-    "uğruy",
-    "vatan",
-    "veril",
-    "vilay",
-    "yemen",
-    "zaman",
-    "çekme",
-    "üzeri"
-   ],
-   "at": "2026-11-19T04:24:33.973813+00:00"
-  },
-  {
-   "fp": [
     "dalga",
     "dev",
     "istan",
@@ -10752,24 +10677,82 @@
     "şifre"
    ],
    "at": "2026-11-20T16:13:12.130004+00:00"
+  },
+  {
+   "fp": [
+    "115",
+    "dolar",
+    "ihtiy",
+    "milya",
+    "var",
+    "zelen"
+   ],
+   "tok": [
+    "aldık",
+    "appea",
+    "asker",
+    "avrol",
+    "avrup",
+    "bütçe",
+    "deste",
+    "devle",
+    "diken",
+    "duyac",
+    "dünya",
+    "dış",
+    "ekono",
+    "ensti",
+    "eylül",
+    "fazla",
+    "first",
+    "geldi",
+    "gelec",
+    "gerek",
+    "göre",
+    "görüş",
+    "harca",
+    "ihtiy",
+    "ise",
+    "istem",
+    "katın",
+    "kiel",
+    "kimde",
+    "linka",
+    "milya",
+    "mütte",
+    "nerey",
+    "nın",
+    "olaca",
+    "oluml",
+    "onayl",
+    "paran",
+    "post",
+    "rakam",
+    "savun",
+    "sağla",
+    "sinya",
+    "site",
+    "tahmi",
+    "tasla",
+    "the",
+    "ukray",
+    "var",
+    "volod",
+    "yakla",
+    "yardı",
+    "yetki",
+    "yıl",
+    "zelen",
+    "çıktı",
+    "öğren",
+    "ülkel",
+    "ülkes",
+    "şimdi"
+   ],
+   "at": "2026-11-20T16:32:53.695378+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "65005c0365",
-   "post_id": "529346797199852_1472603424979365",
-   "title": "İzmir'de ilaçlama faciası: 1 yaşındaki Altay bebeğin davasında karar",
-   "at": "2026-11-18T15:22:04.438499+00:00",
-   "yazim": "claude",
-   "metin": "İzmir'de ilaçlama sonrası ölen 1 yaşındaki bebeğin davasında iki sanığa toplam 10 yıl 10 ay hapis cezası verildi.\n\n— Ziraat mühendisi olan ilaçlama şirketinin sahibi 7,5 yıl, ilaçlamaya yardım eden kişi ise 3 yıl 4 ay hapis cezası aldı.\n\n— İkisine ayrıca 2 yıl meslekten men cezası verildi.\n\n— Olay 11 Kasım 2024'te Konak ilçesindeki bir apartmanın dairesinde yaşandı. İlaçlamadan sonra binadaki herkes rahatsızlandı.\n\n— Bebek 3 gün sonra hayatını kaybetti. Adli Tıp raporlarına göre ölüm, yerleşim yerinde kullanılmaması gereken tarım ilaçlarına bağlı zehirlenmeden kaynaklandı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/altay-bebegin-bocek-ilacindan-olumune-iliskin-davada-karar/4129536",
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/izmirde-altay-bebegin-zehirlenerek-olumune-iliskin-davada-karar-963707.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/bocek-ilaclamasi-1-yasindaki-bebegi-hayattan-koparmisti-saniklarin-cezasi-belli-oldu-43382860",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/izmir-de-ilaclama-faciasi-1-yasindaki-altay-bebegin-davasinda-karar-2557310",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/bocek-ilaclamasi-1-yasindaki-bebegi-hayattan-koparmisti-saniklarin-cezasi-belli-oldu-43382860"
-   ]
-  },
   {
    "id": "e9e20db6ba",
    "post_id": "529346797199852_1472613388311702",
@@ -13381,6 +13364,17 @@
     "TRT Haber: https://www.trthaber.com/haber/egitim/akademi-giris-sinavi-brans-siralamalari-aciklandi-963988.html",
     "Karar: https://www.karar.com/guncel-haberler/osym-duyurdu-akademi-giris-sinavi-brans-siralamalari-erisime-acildi-2085353"
    ]
+  },
+  {
+   "id": "87df1f86ec",
+   "post_id": "529346797199852_1474732878099753",
+   "title": "Zelenski: 115 milyar dolara ihtiyacımız var",
+   "at": "2026-11-20T16:32:53.695378+00:00",
+   "yazim": "claude",
+   "metin": "Ukrayna Devlet Başkanı Zelenski, ülkesinin 2027'de 115 milyar dolara ihtiyacı olacağını söyledi.\n\n— Bu rakam, Ukrayna'nın eylüldeki tahmininin iki katından fazla.\n\n— Eylülde onaylanan bütçe taslağına göre 52,6 milyar dolarlık dış destek gerekiyordu.\n\n— Zelenski, ek 70 milyar dolarlık ihtiyacın askeri yetkililer ve savunma bakanıyla yapılan görüşmelerden çıktığını söyledi.\n\n— \"Şimdiden olumlu sinyaller aldık\" dedi, ama bu sinyallerin kimden geldiğini açıklamadı.\n\n— Avrupalı müttefikler ise paranın nereye harcanacağını öğrenmek istemişti.\n\n— Kiel Dünya Ekonomisi Enstitüsü'ne göre Avrupa ülkeleri 2025'te Ukrayna'ya yaklaşık 29 milyar avroluk askeri yardım sağladı.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/zelenski-115-milyar-dolara-ihtiyacimiz-var/?utm_source=rss&utm_medium=rss&utm_campaign=zelenski-115-milyar-dolara-ihtiyacimiz-var"
+   ]
   }
  ],
  "fails": {
@@ -13630,12 +13624,10 @@
   "11d76722d5": 1,
   "0521cc5f53": 1,
   "da41f89437": 1,
-  "486022381b": 1
+  "486022381b": 1,
+  "abe4bfc8c9": 1
  },
  "fail_log": [
-  "2026-11-20T04:58 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:58 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:58 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
@@ -13672,12 +13664,15 @@
   "2026-11-20T12:21 Avcılar’da iş cinayeti: Yük asansörünün halatı koptu, 17 yaş -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-20T14:32 Bakan Uraloğlu duyurdu: HGS kaynaklı icra takipleri durdurul -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-20T15:35 Son dakika! Fon soruşturmasında yeni adım: Destek Holding'e  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-20T16:13 ABD Hazinesi, 2008 krizinden bu yana ilk kez 9 günlük bono s -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-20T16:13 ABD Hazinesi, 2008 krizinden bu yana ilk kez 9 günlük bono s -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı",
+  "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı",
+  "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123810771708662074",
+   "since_id": "2123812737562357803",
    "started": true
   },
   "ajansmuhbir1923": {
