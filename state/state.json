@@ -10914,20 +10914,130 @@
     "üreti"
    ],
    "at": "2026-11-20T01:31:00.831507+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "7",
+    "besle",
+    "gelir",
+    "gölge",
+    "hakkı",
+    "içind",
+    "milyo",
+    "türki",
+    "yoksu",
+    "çocuk"
+   ],
+   "tok": [
+    "besle",
+    "denge",
+    "değil",
+    "dikka",
+    "erişi",
+    "erişm",
+    "etkil",
+    "eğiti",
+    "fizik",
+    "gelir",
+    "geliş",
+    "gölge",
+    "göre",
+    "güçlü",
+    "gıday",
+    "hakkı",
+    "ilişk",
+    "içind",
+    "ruh",
+    "sağlı",
+    "sosya",
+    "uzman",
+    "yalnı",
+    "yeter",
+    "yoksu",
+    "çeker",
+    "çekti",
+    "çocuk"
+   ],
+   "at": "2026-11-20T01:43:37.030968+00:00"
+  },
+  {
+   "fp": [
+    "akın",
+    "arası",
+    "bakan",
+    "dem",
+    "gerge",
+    "gergi",
+    "güler",
+    "parti",
+    "öztür"
+   ],
+   "tok": [
+    "akın",
+    "arası",
+    "ardın",
+    "bana",
+    "başla",
+    "buna",
+    "bütçe",
+    "dem",
+    "diye",
+    "faruk",
+    "geldi",
+    "gelme",
+    "gerge",
+    "gergi",
+    "geçen",
+    "görüş",
+    "göste",
+    "güler",
+    "günde",
+    "hükme",
+    "ilgil",
+    "isim",
+    "istif",
+    "kabul",
+    "kimsi",
+    "komis",
+    "konu",
+    "konus",
+    "konuş",
+    "milli",
+    "msb",
+    "musun",
+    "nda",
+    "ndaki",
+    "nun",
+    "orada",
+    "parma",
+    "parti",
+    "plan",
+    "salla",
+    "salon",
+    "savun",
+    "sen",
+    "sonun",
+    "sordu",
+    "tartı",
+    "tazmi",
+    "tbmm",
+    "tepki",
+    "terk",
+    "ver",
+    "veriy",
+    "yaşan",
+    "yaşar",
+    "yenid",
+    "yıl",
+    "çıktı",
+    "ömer",
+    "öztür"
+   ],
+   "at": "2026-11-20T01:43:45.558091+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "22c3ce9efa",
-   "post_id": "529346797199852_1471971575042550",
-   "title": "Rooney: Manchester United'dayken intihar etmeyi düşündüm",
-   "at": "2026-11-18T00:26:00.140318+00:00",
-   "yazim": "claude",
-   "metin": "Wayne Rooney, Manchester United'da oynadığı dönemi anlatırken:\n\n“Öyle bir noktaya geldim ki intiharı düşünmeye başladım. Artık kimsenin yanında olmak istemiyordum.”\n\n— Eski İngiltere kaptanı, Gabby Logan ile yaptığı Life at the Midpoint podcast'inde bu dönemi anlattı.\n\n— Rooney, kariyerinin zirvesinde olmasına rağmen içki içtiği zamanlarda iki gün boyunca evine kapandığını söyledi.\n\n— Terapiste gittiğini ve bu süreçte eşi Coleen'in kendisine çok destek olduğunu belirtti.",
-   "sources": [
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/cw23jv30jejlo?at_medium=RSS&at_campaign=rss"
-   ]
-  },
   {
    "id": "846ff660c8",
    "post_id": "529346797199852_1471982408374800",
@@ -13552,6 +13662,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/saadet-partili-gunes-ten-akp-ye-sert-tepki-ciftci-emekli-emekci-perisan-2557736"
    ]
+  },
+  {
+   "id": "968748349b",
+   "post_id": "529346797199852_1474044581501916",
+   "title": "Bakan Güler ile DEM Partili Gergerlioğlu arasında ‘Akın Öztürk’ gerginliği",
+   "at": "2026-11-20T01:43:45.558091+00:00",
+   "yazim": "claude",
+   "metin": "Gergerlioğlu, Bakan Güler'e:\n\n“Sen istifayı ver. Bana oradan parmak sallama, sen kimsin?”\n\n— Milli Savunma Bakanlığı bütçesi Plan ve Bütçe Komisyonu'nda kabul edildi ve görüşmelerin sonunda iki isim arasında gerginlik çıktı.\n— Gergerlioğlu'na tazminata hükmedilmesine tepki gösterince Güler, \"İstifayı veriyor musun?\" diye sordu.\n— Tartışma, geçen yıl yaşanan Akın Öztürk konusunun yeniden gündeme gelmesiyle başladı.\n— Gergerlioğlu konuşmanın ardından salonu terk etti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bakan-guler-ile-dem-partili-gergerlioglu-arasinda-akin-ozturk-gerginligi-2557718"
+   ]
   }
  ],
  "fails": {
@@ -13795,16 +13916,9 @@
   "3c7845ced1": 1,
   "ee20df3dfe": 1,
   "a521ee14c0": 3,
-  "4885cda285": 2,
-  "7cac12cd45": 1
+  "7cac12cd45": 2
  },
  "fail_log": [
-  "2026-11-19T21:59 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
-  "2026-11-19T21:59 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
-  "2026-11-19T23:04 Fransa'da kolluk kuvvetlerine meşru müdafaa \"zırhı\" sağlayan -> ValueError: yanıt okunamadı",
-  "2026-11-19T23:17 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı",
-  "2026-11-19T23:17 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı",
-  "2026-11-19T23:17 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı",
   "2026-11-19T23:30 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı",
   "2026-11-19T23:30 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı",
   "2026-11-19T23:30 Kar kalınlığı 20 santimetreyi aştı, ekipler alarma geçti -> ValueError: yanıt okunamadı",
@@ -13838,7 +13952,13 @@
   "2026-11-20T01:31 'Hakları var, güvenceleri yok' -> ValueError: yanıt okunamadı",
   "2026-11-20T01:31 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
   "2026-11-20T01:31 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
-  "2026-11-20T01:31 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı"
+  "2026-11-20T01:31 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
+  "2026-11-20T01:43 'Hakları var, güvenceleri yok' -> ValueError: yanıt okunamadı",
+  "2026-11-20T01:43 'Hakları var, güvenceleri yok' -> ValueError: yanıt okunamadı",
+  "2026-11-20T01:43 'Hakları var, güvenceleri yok' -> ValueError: yanıt okunamadı",
+  "2026-11-20T01:43 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
+  "2026-11-20T01:43 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
+  "2026-11-20T01:43 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
