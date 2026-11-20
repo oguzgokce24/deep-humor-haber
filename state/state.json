@@ -10852,6 +10852,84 @@
     "çanak"
    ],
    "at": "2026-11-20T04:35:50.511019+00:00"
+  },
+  {
+   "fp": [
+    "cop31",
+    "didem",
+    "eryar",
+    "fosil",
+    "karar",
+    "silin",
+    "tasla",
+    "yakıt",
+    "çağrı",
+    "çıkış",
+    "ünlü"
+   ],
+   "tok": [
+    "antal",
+    "cop31",
+    "didem",
+    "diken",
+    "eryar",
+    "fosil",
+    "gün",
+    "ifade",
+    "ilişk",
+    "içind",
+    "küçül",
+    "nered",
+    "post",
+    "silin",
+    "tasla",
+    "the",
+    "yakıt",
+    "yarı",
+    "yarıy",
+    "yumuş",
+    "çağrı",
+    "çıkış",
+    "önlem",
+    "ünlü"
+   ],
+   "at": "2026-11-20T04:55:14.304444+00:00"
+  },
+  {
+   "fp": [
+    "akif",
+    "beki",
+    "kolay",
+    "parti",
+    "suçla"
+   ],
+   "tok": [
+    "akif",
+    "appea",
+    "beki",
+    "bulan",
+    "buldu",
+    "değil",
+    "diken",
+    "first",
+    "göste",
+    "hâlde",
+    "inanı",
+    "kolay",
+    "komis",
+    "linka",
+    "mısın",
+    "parti",
+    "post",
+    "site",
+    "suçla",
+    "suçu",
+    "süreç",
+    "the",
+    "var",
+    "çekil"
+   ],
+   "at": "2026-11-20T04:55:18.494614+00:00"
   }
  ],
  "posted": [
@@ -13734,21 +13812,10 @@
   "a521ee14c0": 3,
   "0eb2b5dfd8": 2,
   "857f8a4ead": 1,
-  "37cc790df7": 2,
-  "068cdeeff6": 2,
   "3189a9a396": 1,
-  "7200e5c5d8": 1
+  "7200e5c5d8": 2
  },
  "fail_log": [
-  "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:41 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:41 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:41 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:41 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:54 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:54 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:54 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
   "2026-11-20T02:54 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
   "2026-11-20T02:54 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
   "2026-11-20T02:54 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
@@ -13779,7 +13846,16 @@
   "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
   "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
   "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı"
+  "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
+  "2026-11-20T04:55 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
