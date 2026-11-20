@@ -10988,6 +10988,78 @@
     "şoför"
    ],
    "at": "2026-11-20T04:58:52.682144+00:00"
+  },
+  {
+   "fp": [
+    "akpba",
+    "bile",
+    "denme",
+    "değil",
+    "işten",
+    "okçab",
+    "rıfat",
+    "tüba"
+   ],
+   "tok": [
+    "akade",
+    "akpba",
+    "appea",
+    "bağlı",
+    "başba",
+    "bile",
+    "bilim",
+    "denme",
+    "değil",
+    "diken",
+    "eylül",
+    "first",
+    "işten",
+    "khk",
+    "kurul",
+    "kurum",
+    "linka",
+    "okçab",
+    "post",
+    "rıfat",
+    "sayıl",
+    "site",
+    "tarih",
+    "the",
+    "tüba",
+    "özerk"
+   ],
+   "at": "2026-11-20T05:14:44.695772+00:00"
+  },
+  {
+   "fp": [
+    "ancak",
+    "hazır",
+    "rekol",
+    "ruhi",
+    "sanye",
+    "yapıl",
+    "yükse",
+    "zeyti"
+   ],
+   "tok": [
+    "ancak",
+    "appea",
+    "diken",
+    "first",
+    "hazır",
+    "iyi",
+    "linka",
+    "post",
+    "rekol",
+    "ruhi",
+    "sanye",
+    "site",
+    "the",
+    "yapıl",
+    "yükse",
+    "zeyti"
+   ],
+   "at": "2026-11-20T05:14:48.940858+00:00"
   }
  ],
  "posted": [
@@ -13871,20 +13943,9 @@
   "a521ee14c0": 3,
   "0eb2b5dfd8": 2,
   "857f8a4ead": 1,
-  "3189a9a396": 2,
-  "9a7f1b871a": 2,
-  "4a660f7535": 1
+  "4a660f7535": 2
  },
  "fail_log": [
-  "2026-11-20T04:48 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:48 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:48 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:48 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:48 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:48 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:48 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
   "2026-11-20T04:51 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
   "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
   "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
@@ -13915,7 +13976,16 @@
   "2026-11-20T05:11 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:11 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı"
+  "2026-11-20T05:11 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
