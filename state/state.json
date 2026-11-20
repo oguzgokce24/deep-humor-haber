@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "diyan",
-    "krizi",
-    "mülak"
-   ],
-   "tok": [
-    "adale",
-    "aday",
-    "alan",
-    "anıms",
-    "başar",
-    "diyan",
-    "diye",
-    "düşük",
-    "elend",
-    "erdoğ",
-    "giren",
-    "hatır",
-    "ilanı",
-    "kaldı",
-    "kapsa",
-    "kimse",
-    "konuş",
-    "krizi",
-    "murak",
-    "mülak",
-    "puan",
-    "puanl",
-    "puanı",
-    "sayıd",
-    "sözün",
-    "sıfır",
-    "sınav",
-    "unutm",
-    "yazıl",
-    "yükse",
-    "çalış"
-   ],
-   "at": "2026-11-19T03:33:11.144507+00:00"
-  },
-  {
-   "fp": [
     "izmir",
     "karar",
     "lukak",
@@ -10812,21 +10771,66 @@
     "şirke"
    ],
    "at": "2026-11-20T15:22:42.441641+00:00"
+  },
+  {
+   "fp": [
+    "atand",
+    "deste",
+    "fon",
+    "holdi",
+    "kayyu",
+    "kayyı",
+    "soruş"
+   ],
+   "tok": [
+    "adım",
+    "altun",
+    "anorm",
+    "arama",
+    "atand",
+    "bağla",
+    "bilmi",
+    "den",
+    "deste",
+    "değer",
+    "domin",
+    "durum",
+    "edilm",
+    "europ",
+    "fakto",
+    "fon",
+    "geliş",
+    "gerçe",
+    "holdi",
+    "ifade",
+    "ilişk",
+    "işlem",
+    "iştir",
+    "kapsa",
+    "kayyu",
+    "kayyı",
+    "koyma",
+    "kumov",
+    "milya",
+    "nın",
+    "piyas",
+    "rakam",
+    "sahib",
+    "savcı",
+    "serma",
+    "sürüy",
+    "tespi",
+    "trily",
+    "yapac",
+    "yürüt",
+    "yüzde",
+    "çıkmı",
+    "şirke"
+   ],
+   "at": "2026-11-20T15:35:21.294843+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c4862f6ae6",
-   "post_id": "529346797199852_1472559631650411",
-   "title": "İspanyol şarkıcı Julio İglesias cinsel taciz suçlamasıyla yargılanacak",
-   "at": "2026-11-18T14:30:53.297724+00:00",
-   "yazim": "claude",
-   "metin": "İspanya'da mahkeme, 83 yaşındaki şarkıcı Julio Iglesias hakkında iki eski çalışanının açtığı cinsel saldırı ve taciz davasını kabul etti.\n\n— Davacılar, şarkıcının Bahamalar ve Dominik Cumhuriyeti'ndeki evlerinde çalışan iki kadın.\n— Kadınlar, Iglesias'ın kendilerine tokat attığını ve çalışanları iş yerinde sistematik olarak aşağıladığını öne sürdü.\n— Ulusal Mahkeme Hâkimi Antonio Pina, ifadenin ceza soruşturması başlatmak için yeterli delil niteliğinde olduğunu belirtti.\n— Davacıların 3 Şubat'ta mahkemeye şahsen gelip dava talebini onaylaması gerekiyor.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010125/julio-iglesias-hakkinda-iki-eski-kadin-calisaninin-cinsel-saldiri-ve-taciz-suclamalariyla-actigi-dava-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/ispanyol-sarkici-julio-iglesias-cinsel-taciz-suclamasiyla-yargilanacak-747158"
-   ]
-  },
   {
    "id": "401ca5fc21",
    "post_id": "529346797199852_1472570034982704",
@@ -13446,6 +13450,20 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/bakan-duyurdu-hgs-cezalarinda-yeni-gelisme-747507"
    ]
+  },
+  {
+   "id": "7ddcf8aeb3",
+   "post_id": "529346797199852_1474682114771496",
+   "title": "Son dakika! Fon soruşturmasında yeni adım: Destek Holding'e kayyum atandı",
+   "at": "2026-11-20T15:35:21.294843+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da yürütülen fon soruşturmasında Destek Holding'e kayyım atandı.\n\nSoruşturmada tutuklanan Altunç Kumova'nın sahibi olduğu holdingde el koyma ve arama işlemleri sürüyor.\n\n— Destek Faktoring'in piyasa değeri 15 milyar TL'den 1,3 trilyon TL'ye çıkmıştı.\n— Kumova savcılıktaki ifadesinde \"Rakam anormal bir rakamdır. Fakat şirket sahibi olarak bu durumda ne yapacağımı bilmiyordum.\" dedi.\n— Holdingin yüzde 100 iştiraki Domino Europe'un da Kumova ile bağlantılı olduğu tespit edilmişti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-destek-holding-e-kayyim-atandi-2557919",
+    "Medyascope: https://medyascope.tv/2026/11/20/fon-sorusturmasi-destek-holdinge-kayyim-atandi/",
+    "BirGün: https://www.birgun.net/haber/fon-sorusturmasi-destek-holding-e-kayyum-atandi-747512",
+    "Karar: https://www.karar.com/guncel-haberler/son-dakika-fon-sorusturmasinda-yeni-adim-destek-holdinge-kayyum-atandi-2085351"
+   ]
   }
  ],
  "fails": {
@@ -13698,7 +13716,6 @@
  },
  "fail_log": [
   "2026-11-20T04:58 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:58 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
   "2026-11-20T04:58 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
   "2026-11-20T04:58 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
   "2026-11-20T04:58 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
@@ -13736,12 +13753,13 @@
   "2026-11-20T12:08 İstanbul için akşam çağrısı: Saat 17.00'den önce köprüyü geç -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-20T12:08 İstanbul için akşam çağrısı: Saat 17.00'den önce köprüyü geç -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-20T12:21 Avcılar’da iş cinayeti: Yük asansörünün halatı koptu, 17 yaş -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-20T14:32 Bakan Uraloğlu duyurdu: HGS kaynaklı icra takipleri durdurul -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-20T14:32 Bakan Uraloğlu duyurdu: HGS kaynaklı icra takipleri durdurul -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-20T15:35 Son dakika! Fon soruşturmasında yeni adım: Destek Holding'e  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123797459084492947",
+   "since_id": "2123800193795518713",
    "started": true
   },
   "ajansmuhbir1923": {
