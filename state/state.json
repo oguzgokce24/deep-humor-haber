@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "amaç",
-    "basın",
-    "gerçe",
-    "sansü",
-    "örtme",
-    "üstün"
-   ],
-   "tok": [
-    "aktar",
-    "akışı",
-    "amaç",
-    "ardın",
-    "atana",
-    "balmu",
-    "barba",
-    "basın",
-    "beşik",
-    "dan",
-    "duyur",
-    "düzen",
-    "engel",
-    "eylem",
-    "gazet",
-    "geldi",
-    "gerçe",
-    "günü",
-    "hale",
-    "herke",
-    "inter",
-    "kasım",
-    "katıl",
-    "kayyu",
-    "meyda",
-    "müdah",
-    "parti",
-    "pazar",
-    "sansü",
-    "sites",
-    "sözcü",
-    "yapac",
-    "yayın",
-    "yazar",
-    "yazıl",
-    "yurtt",
-    "yürüy",
-    "çağır",
-    "çelik",
-    "örtme",
-    "özgür",
-    "üstün"
-   ],
-   "at": "2026-11-19T03:07:40.410191+00:00"
-  },
-  {
-   "fp": [
     "10",
     "60",
     "65",
@@ -10869,25 +10814,83 @@
     "çıkma"
    ],
    "at": "2026-11-20T14:57:39.650165+00:00"
+  },
+  {
+   "fp": [
+    "fetö",
+    "kurtu",
+    "serka",
+    "yanıt"
+   ],
+   "tok": [
+    "arana",
+    "aranı",
+    "arjan",
+    "bağla",
+    "borsa",
+    "bülte",
+    "bırak",
+    "casin",
+    "cezae",
+    "cirit",
+    "davan",
+    "duruş",
+    "edile",
+    "edilm",
+    "eleba",
+    "ertel",
+    "etmed",
+    "fetö",
+    "görüş",
+    "gürci",
+    "hakkı",
+    "iade",
+    "iddia",
+    "ifade",
+    "ikinc",
+    "insan",
+    "izmir",
+    "kabul",
+    "kalıp",
+    "katıl",
+    "kez",
+    "kurtu",
+    "kırmı",
+    "lider",
+    "mahk",
+    "mahmu",
+    "olmad",
+    "organ",
+    "ortak",
+    "planl",
+    "proje",
+    "redde",
+    "savun",
+    "segbi",
+    "serda",
+    "serka",
+    "sorul",
+    "suç",
+    "suçla",
+    "sürme",
+    "verdi",
+    "verme",
+    "yanıt",
+    "yargı",
+    "yaşan",
+    "yine",
+    "yılın",
+    "çatış",
+    "çete",
+    "öncek",
+    "örgüt",
+    "üncü",
+    "üzeri"
+   ],
+   "at": "2026-11-20T15:10:12.003198+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b1fb9dfb2b",
-   "post_id": "529346797199852_1472539011652473",
-   "title": "Aralarında suç örgütü elebaşları da var. 6 firari Türkiye'ye iade edildi",
-   "at": "2026-11-18T14:05:11.590314+00:00",
-   "yazim": "claude",
-   "metin": "Gürcistan'dan Türkiye'ye 6 firari iade edildi. Aralarında kırmızı bültenle aranan suç örgütü elebaşı Ahmet Dinç ile Yusuf Namlı da var.\n\n— Adalet Bakanı Akın Gürlek bunu sosyal medya hesabından duyurdu.\n— Ahmet Dinç, İstanbul'da 48 ayrı eylemden sorumlu olduğu tespit edilen suç örgütünün elebaşı. 29 yıl 18 ay hapis cezasının infazı için aranıyordu.\n— Yusuf Namlı hakkında kadına karşı kasten öldürme ve nitelikli yağma dahil 9 ayrı yakalama kaydı vardı.\n— Diğer 4 firari de farklı suçlardan aranıyordu.\n\nAdalet Bakanı Akın Gürlek:\n\n“Unutulmasın ki bir suçlu nereye kaçarsa kaçsın, peşini bırakmayacağız.”",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/aralarinda-suc-orgutu-elebasinin-da-bulundugu-6-firarinin-turkiyeye-iadesi-saglandi/4129339",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/gurcistandan-6-firari-turkiyeye-iade-edildi-963696.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-6-firari-gurcistandan-turkiyeye-iade-edildi-aralarinda-ahmet-dinc-ile-yusuf-namli-da-var-43382686",
-    "NTV: https://www.ntv.com.tr/turkiye/suc-orgutu-elebaslarinin-da-aralarinda-bulundugu-6-firari-turkiyeye-iade-edildi-1751482",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-bakan-gurlek-6-firarinin-ulkemize-iadesini-sagladik-3928255",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akin-gurlek-acikladi-kirmizi-bultenle-aranan-2-isim-dahil-6-firari-turkiye-ye-iade-edildi-2557249"
-   ]
-  },
   {
    "id": "7f365aea18",
    "post_id": "529346797199852_1472549934984714",
@@ -13512,6 +13515,18 @@
     "Evrensel: https://www.evrensel.net/haber/6010440/fransa-da-bilgi-sizintisi-sorusturmasi-icisleri-bakanligi-ve-asiri-sagci-rn-nin-merkezinde-arama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/dunya-haberleri/fransada-bakanliktan-bir-partiye-bilgi-sizdirma-iddiasi-2085346"
    ]
+  },
+  {
+   "id": "3d70490a3a",
+   "post_id": "529346797199852_1474660074773700",
+   "title": "Çete lideri Serkan Kurtuluş, 'FETÖ Borsası' iddialarına yine yanıt vermedi",
+   "at": "2026-11-20T15:10:12.003198+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'de yargılanan organize suç örgütü lideri Serkan Kurtuluş, davanın 54'üncü duruşmasında suçlamaları yine kabul etmedi.\n\n— Kurtuluş, cezaevinden SEGBİS üzerinden katıldığı duruşmada ikinci kez ifade verdi.\n— Mahkeme, tutukluluğunun sürmesine karar verdi ve duruşmayı erteledi.\n— Kurtuluş, iş insanı Mahmut Kalıpçı ile Gürcistan'da görüştüğünü ve casino projesi için ortaklık planladıklarını söyledi.\n— Serdar Cirit ile yaşanan çatışmayla bağlantısı olmadığını savundu.\n— Kırmızı bültenle aranan Kurtuluş, 2020'de Arjantin'de yakalanıp Türkiye'ye iade edilmişti.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/suc-orgutu-elebasi-serkan-kurtulus-tum-suclamalari-reddetti-feto-sorularini-yanitsiz-birakti-43385402",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/cete-lideri-serkan-kurtulus-feto-borsasi-iddialarina-yine-yanit-vermedi-2557902"
+   ]
   }
  ],
  "fails": {
@@ -13807,7 +13822,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123791244879089912",
+   "since_id": "2123793997722276004",
    "started": true
   },
   "ajansmuhbir1923": {
