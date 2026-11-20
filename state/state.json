@@ -10813,25 +10813,65 @@
     "şöyle"
    ],
    "at": "2026-11-20T21:54:47.032612+00:00"
+  },
+  {
+   "fp": [
+    "20",
+    "2026",
+    "eleme",
+    "kasım",
+    "kazan",
+    "kim",
+    "maste",
+    "oyunu",
+    "ödül"
+   ],
+   "tok": [
+    "adayı",
+    "akşam",
+    "araşt",
+    "armağ",
+    "başla",
+    "bilme",
+    "bugün",
+    "bölüm",
+    "cuma",
+    "dokun",
+    "durum",
+    "eleme",
+    "geldi",
+    "gerek",
+    "girme",
+    "hafta",
+    "heyec",
+    "hüner",
+    "ismi",
+    "karşı",
+    "kasım",
+    "kazan",
+    "kim",
+    "kırmı",
+    "mas",
+    "maste",
+    "mavi",
+    "mutfa",
+    "oyunu",
+    "peki",
+    "potas",
+    "sergi",
+    "takip",
+    "takım",
+    "tv8",
+    "yarış",
+    "yayım",
+    "yayın",
+    "yaşan",
+    "ödül"
+   ],
+   "at": "2026-11-20T22:11:28.353119+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "82a9376f28",
-   "post_id": "529346797199852_1472860734953634",
-   "title": "Fon vurgunu soruşturması: Emre Tezmen ile Taha Çakmak ek ifade verdi",
-   "at": "2026-11-18T21:30:15.134655+00:00",
-   "yazim": "claude",
-   "metin": "Fon soruşturmasında tutuklu bulunan Taha Çakmak ve Emre Tezmen, İstanbul'da savcıya ek ifade verdi.\n\n— Çakmak, eski Türkiye Sigorta ve Türkiye Hayat Emeklilik Genel Müdürü. Tezmen ise Tera Yatırım Holding Yönetim Kurulu Başkanı.\n\n— Soruşturma İstanbul Cumhuriyet Başsavcılığı tarafından yürütülüyor.\n\n— İkisi ifadenin ardından yeniden cezaevine gönderildi.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-taha-cakmak-ve-emre-tezmen-ek-ifade-verdi-43383074",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/18/fon-sorusturmasinda-flas-gelisme-emre-tezmen-ve-taha-cakmak-ek-ifade-verdi",
-    "Habertürk: https://www.haberturk.com/gundem/fon-sorusturmasinda-tutuklanan-emre-tezmen-ve-taha-cakmak-yeniden-ifade-verdi-3928348",
-    "Sözcü: https://www.sozcu.com.tr/taha-cakmak-ve-emre-tezmen-ek-ifade-verdi-p382560",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-tutuklanmisti-taha-cakmak-ifade-vermek-icin-adliyeye-getirildi-2557377",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/taha-cakmaktan-istanbul-adliyesinde-ek-ifade-4874087"
-   ]
-  },
   {
    "id": "e4e958b151",
    "post_id": "529346797199852_1472868138286227",
@@ -13445,6 +13485,19 @@
     "BirGün: https://www.birgun.net/haber/kayyum-atanan-halk-tv-nin-calisanlari-yeni-kanal-kurdu-halk-haberciliginden-vazgecmiyoruz-747534",
     "Diken: https://www.diken.com.tr/kayyim-atanan-halk-tvden-gazeteciler-halk-televizyonunu-kurdu/?utm_source=rss&utm_medium=rss&utm_campaign=kayyim-atanan-halk-tvden-gazeteciler-halk-televizyonunu-kurdu"
    ]
+  },
+  {
+   "id": "05e279a42b",
+   "post_id": "529346797199852_1474998454739862",
+   "title": "MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te ödül oyununu kim kazandı?",
+   "at": "2026-11-20T22:11:28.353119+00:00",
+   "yazim": "claude",
+   "metin": "MasterChef'te haftanın ödül oyununu Armağan kazandı.\n\n— TV8'de yayınlanan bölümde mavi ve kırmızı takım, eleme potasına girmemek için mutfakta karşı karşıya geldi.\n— Bölüm 20 Kasım 2026 Cuma akşamı yayımlandı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/magazin/masterchef-odul-oyununu-kim-kazandi-20-kasim-eleme-potasinda-son-durum-ne-3496025",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-eleme-adayi-kim-oldu-20-kasim-2026-masterchef-te-odul-oyununu-kim-kazandi-2557992",
+    "Medyascope: https://medyascope.tv/2026/11/20/20-kasim-2026-gunun-en-onemli-haberleri/"
+   ]
   }
  ],
  "fails": {
@@ -13703,7 +13756,6 @@
  },
  "fail_log": [
   "2026-11-20T05:14 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:14 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
   "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
   "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
   "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
@@ -13741,7 +13793,8 @@
   "2026-11-20T22:07 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı"
+  "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
+  "2026-11-20T22:11 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
