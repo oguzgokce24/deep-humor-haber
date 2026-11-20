@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başka",
-    "beled",
-    "eski",
-    "soruş"
-   ],
-   "tok": [
-    "akp",
-    "aktaş",
-    "alinu",
-    "alınd",
-    "arala",
-    "açtığ",
-    "ağırl",
-    "beled",
-    "bin",
-    "bulun",
-    "bursa",
-    "büyük",
-    "dahil",
-    "danış",
-    "deniz",
-    "devam",
-    "duyur",
-    "dönem",
-    "düzen",
-    "eski",
-    "ettiğ",
-    "gerek",
-    "görev",
-    "göste",
-    "harca",
-    "idare",
-    "iddia",
-    "iyip",
-    "izni",
-    "içişl",
-    "kamu",
-    "kapsa",
-    "kapsı",
-    "liral",
-    "mehme",
-    "mille",
-    "musta",
-    "nin",
-    "olmad",
-    "osman",
-    "sayış",
-    "sebze",
-    "selçu",
-    "suç",
-    "süreç",
-    "temsi",
-    "türko",
-    "verdi",
-    "veril",
-    "verme",
-    "yol",
-    "yükse",
-    "zarar",
-    "zimme",
-    "zolan",
-    "çağrı",
-    "çiftç"
-   ],
-   "at": "2026-11-18T17:20:51.556213+00:00"
-  },
-  {
-   "fp": [
     "1",
     "günü",
     "voyag",
@@ -11092,20 +11024,74 @@
     "şimşe"
    ],
    "at": "2026-11-20T05:18:25.636396+00:00"
+  },
+  {
+   "fp": [
+    "binle",
+    "emekç",
+    "grev",
+    "karşı",
+    "kemer",
+    "kolom",
+    "polit",
+    "sokağ",
+    "sıkma",
+    "çıktı"
+   ],
+   "tok": [
+    "akşam",
+    "ambul",
+    "bağcı",
+    "binle",
+    "biri",
+    "düzen",
+    "ekono",
+    "emekç",
+    "eğiti",
+    "geldi",
+    "geri",
+    "grev",
+    "greve",
+    "hasta",
+    "hüküm",
+    "isted",
+    "işçil",
+    "kaldı",
+    "karış",
+    "karşı",
+    "kasım",
+    "katıl",
+    "kazay",
+    "kemer",
+    "kentt",
+    "kolom",
+    "kurta",
+    "meyda",
+    "midib",
+    "nda",
+    "olmak",
+    "otomo",
+    "otoyo",
+    "polit",
+    "sağlı",
+    "sendi",
+    "sokağ",
+    "sıkma",
+    "tasar",
+    "tem",
+    "yasa",
+    "zinci",
+    "çağrı",
+    "çekme",
+    "çıkan",
+    "çıktı",
+    "öğren",
+    "üzere"
+   ],
+   "at": "2026-11-20T05:21:55.421771+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3c120654a4",
-   "post_id": "529346797199852_1472118531694521",
-   "title": "95 yıllık tohumla 1000 ton üretime ulaştı: Bilecik’te bir köyün geçim kaynağı oldu!",
-   "at": "2026-11-18T04:21:39.364059+00:00",
-   "yazim": "claude",
-   "metin": "Bilecik'in Başköy köyünde 95 yıl önce tek tohumla başlayan Trabzon hurması üretimi bugün bin tona yakın ulaştı.\n\n— Tohum, 1939'da köyden İsa Dönerkaya'nın tarlasına ekildi ve dededen toruna aktarıldı.\n\n— 180 nüfuslu köyün geçim kaynağı olan hurma, bu yıl bol mahsul verdi.\n\n— Ürün çok olduğu için fiyatlar düştü; fiyat ağaçlara göre 20 ile 35 TL arasında değişiyor.\n\nSami Diyar, bu yılki hasat için:\n\n“Hasat iyi ama biraz fiyatlar düşük, çok bol olduğu için.”",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/95-yillik-tohumla-1000-ton-uretime-ulasti-bilecikte-bir-koyun-gecim-2084744"
-   ]
-  },
   {
    "id": "62fa910660",
    "post_id": "529346797199852_1472125161693858",
@@ -13729,6 +13715,17 @@
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/vize-basvurularinda-yeni-donem-schengen-icin-turkiye-den-kritik-hamle-p382896",
     "Yeni Şafak: https://www.yenisafak.com/gundem/turkiyeden-schengen-vizesi-icin-kolaylik-talebi-4874606"
+   ]
+  },
+  {
+   "id": "fec6ca1ac9",
+   "post_id": "529346797199852_1474198591486515",
+   "title": "Kolombiya'da grev: Binlerce emekçi kemer sıkma politikalarına karşı sokağa çıktı",
+   "at": "2026-11-20T05:21:55.421771+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Bağcılar'da TEM Otoyolu'nda zincirleme kaza: 18 kişi yaralandı.\n\n— Kazaya biri midibüs olmak üzere 3 araç karıştı.\n— Yaralılar ambulanslarla hastaneye kaldırıldı.\n— Kaza 19 Kasım akşamı meydana geldi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010337/kolombiya-da-grev-binlerce-emekci-kemer-sikma-politikalarina-karsi-sokaga-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
