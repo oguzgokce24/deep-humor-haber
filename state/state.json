@@ -10742,24 +10742,78 @@
     "örneğ"
    ],
    "at": "2026-11-20T13:12:58.311948+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "4",
+    "bağcı",
+    "bıçak",
+    "devle",
+    "görev",
+    "gözal",
+    "güven",
+    "hasta",
+    "nde",
+    "saldı",
+    "yaral"
+   ],
+   "tok": [
+    "abdul",
+    "acil",
+    "aldı",
+    "arası",
+    "arkad",
+    "bağcı",
+    "başla",
+    "belir",
+    "bitti",
+    "bulma",
+    "büyüy",
+    "bıçak",
+    "cenaz",
+    "daki",
+    "devle",
+    "diliy",
+    "dönüş",
+    "edile",
+    "ediyo",
+    "ekipl",
+    "emre",
+    "gören",
+    "görev",
+    "görme",
+    "güner",
+    "güven",
+    "hasta",
+    "hiçbi",
+    "ilgil",
+    "istey",
+    "izin",
+    "kabul",
+    "karış",
+    "müdür",
+    "nde",
+    "olayd",
+    "olayl",
+    "sabah",
+    "sağlı",
+    "taleb",
+    "tartı",
+    "tedav",
+    "temen",
+    "türü",
+    "verme",
+    "yakın",
+    "çalış",
+    "çıkan",
+    "şidde",
+    "şifal"
+   ],
+   "at": "2026-11-20T13:25:38.424663+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9a0bc7cb7f",
-   "post_id": "529346797199852_1472433134996394",
-   "title": "AKP'li Hayati Yazıcı'nın oğlu Mustafa Yazıcı ifadeye çağrıldı",
-   "at": "2026-11-18T11:58:44.624399+00:00",
-   "yazim": "claude",
-   "metin": "Fon soruşturmasında Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu ifadeye çağrıldı.\n\n— Soruşturma kapsamında, oğlunun şirketi Adil Varlık Yönetim'in de aralarında olduğu 4 şirkete dün kayyım atanmıştı.\n\n— Gazeteci Nergis Demirkaya, Hayati Yazıcı'nın bugünkü grup toplantısına katılmadığını aktarmıştı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-fon-sorusturmasi-akp-li-hayati-yazici-nin-oglu-mustafa-yazici-ifadeye-cagrildi-2557225",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/hayati-yazicinin-oglu-ifadeye-cagirildi-4873969",
-    "Evrensel: https://www.evrensel.net/haber/6010088/akp-li-hayati-yazici-nin-oglu-mustafa-yazici-ifadeye-cagrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/fon-sorusturmasi-akp-li-hayati-yazici-nin-oglu-mustafa-yazici-ifadeye-cagrildi-747128",
-    "Karar: https://www.karar.com/guncel-haberler/son-dakika-ak-parti-genel-baskan-yardimcisi-hayati-yazicinin-oglu-2084878"
-   ]
-  },
   {
    "id": "b8410652f7",
    "post_id": "529346797199852_1472459068327134",
@@ -13387,6 +13441,20 @@
     "Karar: https://www.karar.com/ekonomi-haberleri/son-dakika-kredi-kartlarinda-asgari-odeme-tutari-degisti-2085327",
     "Diken: https://www.diken.com.tr/kredi-karti-asgari-odeme-duzenlemesi-200-bin-liranin-limiti-yuzde-30a-indi/?utm_source=rss&utm_medium=rss&utm_campaign=kredi-karti-asgari-odeme-duzenlemesi-200-bin-liranin-limiti-yuzde-30a-indi"
    ]
+  },
+  {
+   "id": "ee3c359b03",
+   "post_id": "529346797199852_1474564554783252",
+   "title": "Bağcılar Devlet Hastanesi’nde bıçaklı saldırı: 2 güvenlik görevlisi yaralandı",
+   "at": "2026-11-20T13:25:38.424663+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul İl Sağlık Müdürü Abdullah Emre Güner, Bağcılar'daki bıçaklı saldırı için:\n\n“Saldırıda yaralanan çalışma arkadaşlarımıza acil şifalar diliyor, sağlıkta şiddet olaylarının son bulmasını temenni ediyorum. (...) Sağlıkta şiddetin hiçbir türü kabul edilemez.”\n\n— Bağcılar Devlet Hastanesi'nde tedavi gören bir kişi sabah hayatını kaybetti.\n— Cenazeyi görmek isteyen yakınlar, bu talebe izin vermeyen güvenlik görevlileriyle tartıştı.\n— Tartışma büyüyünce hasta yakınları 2 güvenlik görevlisini bıçakladı.\n— Polis ekipleri olayla ilgili çalışma başlattı ve saldırıya karıştığı belirlenen 4 kişiyi gözaltına aldı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/hastanede-cenaze-tartismasi-bicakli-saldiriyla-bitti-2-guvenlik-gorevlisi-yarali-43385252",
+    "Sözcü: https://www.sozcu.com.tr/bagcilar-devlet-hastanesi-nde-bicakli-saldiri-2-guvenlik-gorevlisi-yaralandi-4-gozalti-p383077",
+    "Karar: https://www.karar.com/guncel-haberler/bagcilar-devlet-hastanesinde-bicakli-saldiri-2-guvenlik-gorevlisi-2085315",
+    "Diken: https://www.diken.com.tr/bagcilar-hastanesinde-iki-guvenlik-bicaklandi-dort-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=bagcilar-hastanesinde-iki-guvenlik-bicaklandi-dort-gozalti"
+   ]
   }
  ],
  "fails": {
@@ -13681,7 +13749,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123764886706720867",
+   "since_id": "2123767834606239796",
    "started": true
   },
   "ajansmuhbir1923": {
