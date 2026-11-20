@@ -11060,6 +11060,38 @@
     "zeyti"
    ],
    "at": "2026-11-20T05:14:48.940858+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "görün",
+    "hız",
+    "planl",
+    "tacim",
+    "taki",
+    "vermi",
+    "ırak",
+    "şimşe"
+   ],
+   "tok": [
+    "abd",
+    "appea",
+    "diken",
+    "first",
+    "görün",
+    "hız",
+    "linka",
+    "planl",
+    "post",
+    "site",
+    "tacim",
+    "taki",
+    "the",
+    "vermi",
+    "ırak",
+    "şimşe"
+   ],
+   "at": "2026-11-20T05:18:25.636396+00:00"
   }
  ],
  "posted": [
@@ -13943,18 +13975,10 @@
   "a521ee14c0": 3,
   "0eb2b5dfd8": 2,
   "857f8a4ead": 1,
-  "4a660f7535": 2
+  "6a3480cb2b": 1,
+  "11d76722d5": 1
  },
  "fail_log": [
-  "2026-11-20T04:51 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:51 Nuri Kayış: 17 Kasım akşamı haber kanallarındaki yayıncılık, -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:55 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
-  "2026-11-20T04:55 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
   "2026-11-20T04:55 Didem Eryar Ünlü: COP31'de karar taslağında fosil yakıtlarda -> ValueError: yanıt okunamadı",
   "2026-11-20T04:55 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
   "2026-11-20T04:55 Akif Beki: YENİ Parti'yi suçlamak kolay -> ValueError: yanıt okunamadı",
@@ -13985,12 +14009,21 @@
   "2026-11-20T05:14 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
   "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
   "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı"
+  "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:18 Arnavutluk Başbakanı Rama, Belçika Başbakanı Bart De Wever'a -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:18 Arnavutluk Başbakanı Rama, Belçika Başbakanı Bart De Wever'a -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:18 Arnavutluk Başbakanı Rama, Belçika Başbakanı Bart De Wever'a -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-20T05:18 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:18 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:18 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:18 Seydîxan Bozkır: YENİ Parti, kök sorun ile gündelik siyaseti -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:18 Seydîxan Bozkır: YENİ Parti, kök sorun ile gündelik siyaseti -> ValueError: yanıt okunamadı",
+  "2026-11-20T05:18 Seydîxan Bozkır: YENİ Parti, kök sorun ile gündelik siyaseti -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123643969192235246",
+   "since_id": "2123646275094511759",
    "started": true
   },
   "ajansmuhbir1923": {
