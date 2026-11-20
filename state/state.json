@@ -11073,23 +11073,82 @@
     "önünd"
    ],
    "at": "2026-11-20T05:53:19.819655+00:00"
+  },
+  {
+   "fp": [
+    "ailes",
+    "alan",
+    "doku",
+    "hedef",
+    "payla"
+   ],
+   "tok": [
+    "ailen",
+    "ailes",
+    "ailey",
+    "akıbe",
+    "alan",
+    "ali",
+    "amacı",
+    "amaçl",
+    "ardın",
+    "artma",
+    "avuka",
+    "bazı",
+    "başla",
+    "belir",
+    "bütün",
+    "değer",
+    "doku",
+    "duyur",
+    "ettiğ",
+    "geldi",
+    "geniş",
+    "gerek",
+    "görül",
+    "güdüm",
+    "gülis",
+    "günde",
+    "güven",
+    "hedef",
+    "hesap",
+    "hukuk",
+    "inand",
+    "itiba",
+    "işlem",
+    "kamuo",
+    "karşı",
+    "konus",
+    "kızla",
+    "makam",
+    "medya",
+    "mücad",
+    "neden",
+    "nun",
+    "payla",
+    "saygı",
+    "sayıs",
+    "sosya",
+    "suç",
+    "söz",
+    "süreç",
+    "taşın",
+    "taşıy",
+    "trol",
+    "yaptı",
+    "yarat",
+    "yargı",
+    "yasal",
+    "yönel",
+    "yılla",
+    "zedel",
+    "çimen",
+    "öğren"
+   ],
+   "at": "2026-11-20T06:06:02.699278+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "700bdceb83",
-   "post_id": "529346797199852_1472142151692159",
-   "title": "Romanya'da 5,3 büyüklüğünde deprem: İsranbul'da da hissedildi",
-   "at": "2026-11-18T05:02:30.531812+00:00",
-   "yazim": "claude",
-   "metin": "Romanya'da 5,3 büyüklüğünde deprem oldu, sarsıntı İstanbul'un bazı bölgelerinde de hafif hissedildi.\n\nDeprem 18 Kasım gecesi yerel saatle 02.48'de meydana geldi.\n\n— Merkez üssü, ülkenin doğusundaki Vrancea bölgesi. Deprem yaklaşık 131 ile 140 kilometre derinlikte gerçekleşti.\n\n— Derin olduğu için sarsıntı geniş bir alanda hissedildi. Bükreş'te belirgin, Bulgaristan ve Sırbistan'da hafif algılandı.\n\n— Vrancea bölgesi, 1977'de 1.500'den fazla kişinin hayatını kaybettiği depremle biliniyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/romanyada-53-buyuklugunde-deprem-isranbulda-da-hissedildi-963633.html",
-    "Milliyet: https://www.milliyet.com.tr/dunya/bulgaristan-filibede-3-9-buyuklugunde-deprem-7702755",
-    "Karar: https://www.karar.com/guncel-haberler/romanyada-53-buyuklugunde-deprem-isranbulda-da-hissedildi-2084748",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/bulgaristan-filibede-3-9-buyuklugunde-deprem-7702755"
-   ]
-  },
   {
    "id": "71920ed3ee",
    "post_id": "529346797199852_1472151161691258",
@@ -13713,6 +13772,19 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/reyhanlida-arac-kiralama-ofisine-silahli-saldiri-4874632",
     "Evrensel: https://www.evrensel.net/haber/6010340/hatay-reyhanli-da-arac-kiralama-ofisine-saldiri?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "01f4b65b2d",
+   "post_id": "529346797199852_1474229124816795",
+   "title": "Avukatı duyurdu: Doku ailesini hedef alan paylaşımlar hakkında suç duyurusu",
+   "at": "2026-11-20T06:06:02.699278+00:00",
+   "yazim": "claude",
+   "metin": "Avukat Ali Çimen, Doku ailesini hedef alan paylaşımlar için:\n\n“(...) bazı güdümlü trol hesaplarının (...) paylaşımlar yaptığı görülmüştür. (...) Bu nedenle söz konusu paylaşımların bütünlüğü değerlendirilerek şüpheliler hakkında gerekli yasal işlem başlatılmıştır.”\n\n— Soruşturmanın genişlemesi ve tutuklu sayısının artmasının ardından Doku ailesine yönelik sosyal medya paylaşımları gündeme geldi.\n\n— Avukat, paylaşımların ailenin itibarını zedelemeyi ve soruşturma makamlarına karşı kamuoyunda güvensizlik yaratmayı amaçladığını söyledi.\n\n— Ailenin yıllardır kızlarının akıbetini öğrenmek için mücadele ettiği belirtildi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-nun-ailesini-hedef-alan-paylasimlara-hukuki-islem-2557751",
+    "Evrensel: https://www.evrensel.net/haber/6010339/doku-ailesini-hedef-alan-paylasimlar-yargiya-tasindi-inandiriciligi-ve-sayginligi-zedeleme-amaci-tasiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/avukati-duyurdu-doku-ailesini-hedef-alan-paylasimlar-hakkinda-suc-duyurusu-747399"
+   ]
   }
  ],
  "fails": {
@@ -14007,7 +14079,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123652161729106190",
+   "since_id": "2123657281569227085",
    "started": true
   },
   "ajansmuhbir1923": {
