@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "ağır",
-    "durağ",
-    "malte",
-    "saldı",
-    "silah",
-    "taksi",
-    "yaral"
-   ],
-   "tok": [
-    "adam",
-    "akşam",
-    "ateş",
-    "açtı",
-    "ağır",
-    "başla",
-    "belir",
-    "boş",
-    "bulun",
-    "durağ",
-    "düzen",
-    "gelip",
-    "geniş",
-    "gülsu",
-    "hasta",
-    "hyund",
-    "ikiz",
-    "ilçes",
-    "isabe",
-    "kaldı",
-    "kaçtı",
-    "kimli",
-    "kişil",
-    "kovan",
-    "kurşu",
-    "mahal",
-    "malte",
-    "marka",
-    "ndeki",
-    "olay",
-    "otomo",
-    "plaka",
-    "saat",
-    "sahib",
-    "silah",
-    "sürül",
-    "sıral",
-    "taksi",
-    "tehli",
-    "vücud",
-    "yağdı",
-    "yerin",
-    "çalış",
-    "çaplı",
-    "öne",
-    "öğren"
-   ],
-   "at": "2026-11-18T19:49:31.474955+00:00"
-  },
-  {
-   "fp": [
     "8",
     "dokto",
     "düşer",
@@ -11098,24 +11037,57 @@
     "öne"
    ],
    "at": "2026-11-20T07:43:48.214366+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "7",
+    "artış",
+    "azald",
+    "ekimd",
+    "kapan",
+    "kurul",
+    "sayıs",
+    "türki",
+    "yüzde",
+    "şirke"
+   ],
+   "tok": [
+    "artar",
+    "arttı",
+    "artış",
+    "aya",
+    "aynı",
+    "ayınd",
+    "azala",
+    "azald",
+    "açıla",
+    "bin",
+    "büyük",
+    "dikka",
+    "dönem",
+    "ekim",
+    "ekimd",
+    "geril",
+    "göre",
+    "hem",
+    "ise",
+    "kapan",
+    "karşı",
+    "kurul",
+    "sayıs",
+    "yani",
+    "yapıl",
+    "yükse",
+    "yüzde",
+    "çeken",
+    "öncek",
+    "şirke"
+   ],
+   "at": "2026-11-20T07:56:19.224709+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3838416401",
-   "post_id": "529346797199852_1472197208353320",
-   "title": "Kapıkule'de 140 kilo 970 gram kokain ele geçirildi",
-   "at": "2026-11-18T06:32:07.120139+00:00",
-   "yazim": "claude",
-   "metin": "Edirne'nin Kapıkule Gümrük Kapısı'nda Türkiye'ye giriş yapmak üzere gelen bir TIR'da 140 kilo 970 gram kokain ele geçirildi.\n\n— Ekipler TIR'ı risk analiziyle seçti. X-Ray taramasında şüpheli yoğunluklar görülünce narkotik köpek ARES ile ayrıntılı arama yapıldı.\n\n— Kokain 123 paketin içinden çıktı. Piyasa değeri yaklaşık 550 milyon lira.\n\n— Ticaret Bakanlığı, bunun Kapıkule'de tek seferde yakalanan en yüksek kokain miktarı olduğunu açıkladı.\n\n— Olayla ilgili soruşturma Edirne Cumhuriyet Başsavcılığı'nda sürüyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/kapikulede-tek-seferde-rekor-miktarda-kokain-ele-gecirildi-963638.html",
-    "Milliyet: https://www.milliyet.com.tr/gundem/piyasa-degeri-550-milyon-tl-kapikulede-ele-gecirildi-7702774",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tek-seferde-en-yuksek-miktar-turkiye-ye-giris-yapacak-tir-da-140-kilo-90-gram-kokain-bulundu-2557114",
-    "Karar: https://www.karar.com/guncel-haberler/kapikulede-140-kilo-970-gram-kokain-ele-gecirildi-2084758",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/piyasa-degeri-550-milyon-tl-kapikulede-ele-gecirildi-7702774"
-   ]
-  },
   {
    "id": "7a8bea5518",
    "post_id": "529346797199852_1472205791685795",
@@ -13740,6 +13712,20 @@
     "Euronews: https://tr.euronews.com/2026/11/20/kuresel-borsalar-dususte-anthropic-halka-arzi-ve-nvidia-kazanci-satis-dalgasini-durduramad",
     "CNN Türk: https://www.cnnturk.com/finans-haberler/kuresel-piyasalarda-sert-satis-dalgasi-yapay-zeka-hisseleri-ve-fed-endisesi-borsalari-sarsti-3495669"
    ]
+  },
+  {
+   "id": "8bb057bb96",
+   "post_id": "529346797199852_1474307234808984",
+   "title": "Ekimde kapanan şirket sayısında büyük artış",
+   "at": "2026-11-20T07:56:19.224709+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'de ekim ayında kapanan şirket sayısı yüzde 17 artarak 2 bin 589'a yükseldi.\n\n— Aynı dönemde kurulan şirket sayısı ise yüzde 4,7 azalarak 9 bin 56 oldu.\n\n— Karşılaştırma bir önceki aya göre yapıldı; yani hem yeni açılan şirketler azaldı hem de kapananlar arttı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/turkiyede-kurulan-sirket-sayisi-ekimde-bir-onceki-aya-gore-yuzde-4-7-azaldi/4131699",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/turkiyede-sirket-kuruluslari-azaldi-kapanan-sirket-sayisinda-dikkat-ceken-artis-3495682",
+    "Habertürk: https://www.haberturk.com/ekonomi/turkiye-de-kurulan-sirket-sayisi-ekimde-bir-onceki-aya-gore-yuzde-4-7-azalisla-9-bin-56-oldu-3928702",
+    "BirGün: https://www.birgun.net/haber/ekimde-kapanan-sirket-sayisinda-buyuk-artis-747414"
+   ]
   }
  ],
  "fails": {
@@ -14034,7 +14020,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123682998314778905",
+   "since_id": "2123684694193758424",
    "started": true
   },
   "ajansmuhbir1923": {
