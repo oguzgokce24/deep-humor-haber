@@ -10925,20 +10925,51 @@
     "şirke"
    ],
    "at": "2026-11-20T23:15:29.631172+00:00"
+  },
+  {
+   "fp": [
+    "geçic",
+    "işlem",
+    "spk",
+    "yasağ",
+    "şirke"
+   ],
+   "tok": [
+    "alınd",
+    "anado",
+    "batı",
+    "batıç",
+    "bülte",
+    "dan",
+    "duyur",
+    "enerj",
+    "gerçe",
+    "getir",
+    "geçic",
+    "inşaa",
+    "işlem",
+    "kurul",
+    "maden",
+    "neden",
+    "pay",
+    "payla",
+    "piyas",
+    "sanay",
+    "serma",
+    "spk",
+    "sürey",
+    "taahh",
+    "ticar",
+    "uygul",
+    "veril",
+    "yasağ",
+    "yayım",
+    "şirke"
+   ],
+   "at": "2026-11-20T23:28:55.831293+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a5e9aa7ea5",
-   "post_id": "529346797199852_1472903438282697",
-   "title": "İçişleri Bakanlığı 60 kaymakam adayı alacak: KPSS'den en az 70 puan şartı getirildi",
-   "at": "2026-11-18T22:46:16.961889+00:00",
-   "yazim": "claude",
-   "metin": "İçişleri Bakanlığı 60 kaymakam adayı alacak, ön başvurular 1-7 Aralık 2026 arasında yapılacak.\n\n— Adaylardan KPSS P32 puan türünde en az 70 puan istenecek ve 1 Ocak 1992 ve sonrasında doğmuş olmaları gerekecek.\n— Hukuk, uluslararası ilişkiler, siyaset bilimi, kamu yönetimi, iktisat, işletme ve maliye gibi bölümlerden mezun olanlar başvurabilecek.\n— Ön başvuru ücreti 170 TL. Ücret 1-8 Aralık arasında yatırılmazsa başvuru geçerli sayılmayacak.\n— En yüksek puanlı 1.200 aday nihai başvuru hakkı kazanacak. Yazılı sınav 31 Ocak 2027 Pazar günü Ankara'nın Çankaya ilçesinde yapılacak.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/icisleri-bakanligi-60-kaymakam-adayi-alacak-kpssden-en-az-70-puan-sarti-2084971"
-   ]
-  },
   {
    "id": "8b3a908a98",
    "post_id": "529346797199852_1472910484948659",
@@ -13565,6 +13596,18 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/trump-nvidianin-eski-ceosu-huanga-ikinci-bir-sans-verilmesini-istedi-964016.html",
     "Karar: https://www.karar.com/dunya-haberleri/trumptan-jensen-huang-icin-nvidiaya-cagri-ikinci-bir-sans-verilmeli-2085378"
    ]
+  },
+  {
+   "id": "98f3842148",
+   "post_id": "529346797199852_1475044928068548",
+   "title": "SPK bülteni yayımlandı: Bir şirkete geçici işlem yasağı",
+   "at": "2026-11-20T23:28:55.831293+00:00",
+   "yazim": "claude",
+   "metin": "SPK, BR Madencilik Enerji İnşaat Taahhüt ve Ticaret AŞ'ye 6 ay süreyle geçici işlem yasağı getirdi.\n\n— Karar, Batıçim Batı Anadolu Sanayi ve Ticaret AŞ paylarında yapılan işlemler nedeniyle alındı.\n\n— Sermaye Piyasası Kurulu, kararı bülteninde duyurdu.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/ekonomi/spk-dan-bir-sirkete-gecici-islem-yasagi-3928919",
+    "BirGün: https://www.birgun.net/haber/spk-bulteni-yayimlandi-bir-sirkete-gecici-islem-yasagi-747558"
+   ]
   }
  ],
  "fails": {
@@ -13819,15 +13862,11 @@
   "0298c37578": 1,
   "e0f383b677": 1,
   "199d9cafbb": 1,
-  "66c3c1ebdf": 1
+  "66c3c1ebdf": 1,
+  "3404cc1532": 1,
+  "300e1d13a6": 1
  },
  "fail_log": [
-  "2026-11-20T05:18 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:18 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:18 Seydîxan Bozkır: YENİ Parti, kök sorun ile gündelik siyaseti -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:18 Seydîxan Bozkır: YENİ Parti, kök sorun ile gündelik siyaseti -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:18 Seydîxan Bozkır: YENİ Parti, kök sorun ile gündelik siyaseti -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:53 Bursa'yı büyüleyen manzara: 5 ilçeden görülen 'mercek bulutu -> ValueError: yanıt okunamadı",
   "2026-11-20T05:53 Bursa'yı büyüleyen manzara: 5 ilçeden görülen 'mercek bulutu -> ValueError: yanıt okunamadı",
   "2026-11-20T05:53 Bursa'yı büyüleyen manzara: 5 ilçeden görülen 'mercek bulutu -> ValueError: yanıt okunamadı",
   "2026-11-20T11:44 Başak Gürkan davasında tartışmalı mütalaa: Sanık eş için ist -> ValueError: yanıt okunamadı",
@@ -13861,7 +13900,13 @@
   "2026-11-20T23:02 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-20T23:15 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
   "2026-11-20T23:15 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
-  "2026-11-20T23:15 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı"
+  "2026-11-20T23:15 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
+  "2026-11-20T23:29 Trump: Şi ve Putin'le harika ilişkilerim olduğu için Amerika -> ValueError: cümle yarım kalmış: 'Ülkemiz şu anda güvendeyse sebebi budur”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-20T23:29 Trump: Şi ve Putin'le harika ilişkilerim olduğu için Amerika -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-20T23:29 Trump: Şi ve Putin'le harika ilişkilerim olduğu için Amerika -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı",
+  "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı",
+  "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
