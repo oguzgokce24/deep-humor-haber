@@ -2,103 +2,6 @@
  "seen": [
   {
    "fp": [
-    "430",
-    "bin",
-    "evine",
-    "gasbe",
-    "gazio",
-    "girip",
-    "sipar",
-    "var",
-    "yalan",
-    "yemek"
-   ],
-   "tok": [
-    "adamı",
-    "akıla",
-    "aldı",
-    "aldığ",
-    "anlat",
-    "aralı",
-    "ayrıc",
-    "açan",
-    "açtır",
-    "bahan",
-    "bin",
-    "binan",
-    "binle",
-    "daire",
-    "darbe",
-    "diyer",
-    "döviz",
-    "edere",
-    "ekim",
-    "ettir",
-    "eve",
-    "evine",
-    "eşyal",
-    "eşyas",
-    "gasbe",
-    "gasp",
-    "gazio",
-    "girdi",
-    "giren",
-    "girip",
-    "gitti",
-    "görül",
-    "görün",
-    "görüy",
-    "güven",
-    "hesab",
-    "hesap",
-    "hisse",
-    "hürri",
-    "iddia",
-    "ikinc",
-    "ilçes",
-    "içeri",
-    "kalan",
-    "kamer",
-    "kapın",
-    "kapıy",
-    "katlı",
-    "katın",
-    "kenan",
-    "kendi",
-    "korkt",
-    "korku",
-    "kısmı",
-    "liral",
-    "liram",
-    "liras",
-    "mahal",
-    "mağdu",
-    "mikta",
-    "ndeki",
-    "olay",
-    "olayd",
-    "paket",
-    "paray",
-    "pidec",
-    "rüya",
-    "saat",
-    "sahib",
-    "silah",
-    "sipar",
-    "soygu",
-    "sürül",
-    "sıral",
-    "tehdi",
-    "tekme",
-    "trans",
-    "tuzağ",
-    "var",
-    "yakla"
-   ],
-   "at": "2026-11-19T10:25:30.158252+00:00"
-  },
-  {
-   "fp": [
     "arı",
     "beraa",
     "duruş",
@@ -10867,21 +10770,53 @@
     "şey"
    ],
    "at": "2026-11-20T22:24:05.267196+00:00"
+  },
+  {
+   "fp": [
+    "daki",
+    "işçi",
+    "çorum"
+   ],
+   "tok": [
+    "ancak",
+    "ardın",
+    "ağır",
+    "cenaz",
+    "cinay",
+    "daki",
+    "devle",
+    "ekipl",
+    "fabri",
+    "genç",
+    "hasta",
+    "ihbar",
+    "ilçes",
+    "işlem",
+    "işçi",
+    "kaldı",
+    "kaptı",
+    "kazas",
+    "kolun",
+    "kurta",
+    "makin",
+    "morga",
+    "müdah",
+    "olayı",
+    "osb",
+    "otops",
+    "rağme",
+    "sağlı",
+    "sevk",
+    "sinde",
+    "sungu",
+    "yaşın",
+    "çalış",
+    "çorum"
+   ],
+   "at": "2026-11-20T22:36:45.589283+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3275484d8a",
-   "post_id": "529346797199852_1472874781618896",
-   "title": "Adıyaman’da tefeci operasyonu: 3 tutuklama",
-   "at": "2026-11-18T21:55:35.740175+00:00",
-   "yazim": "claude",
-   "metin": "Adıyaman'da tefecilik operasyonunda 3 kişi tutuklandı.\n\n— Adıyaman İl Jandarma Komutanlığı ekipleri, 3 farklı adrese operasyon düzenledi.\n— Operasyonda gözaltına alınan 3 şüpheli, jandarmadaki işlemlerin ardından adliyeye sevk edildi.\n— Adli makam şüphelileri tutuklayarak cezaevine gönderdi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/adiyaman-da-tefeci-operasyonu-3-tutuklama-2557403",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/adiyamanda-tefeci-operasyonu-uc-kisi-tutuklandi-4874117"
-   ]
-  },
   {
    "id": "b464ab354e",
    "post_id": "529346797199852_1472881998284841",
@@ -13498,6 +13433,18 @@
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/shakhtar-donetskten-fenerbahce-oncesi-surpriz-kayip-arda-turandan-oz-elestiri-asla-izin-vermeyecegim-43385651",
     "BPT (X): https://x.com/bpthaber/status/2123902551791952189"
    ]
+  },
+  {
+   "id": "aa538ec444",
+   "post_id": "529346797199852_1475013554738352",
+   "title": "Çorum'daki iş cinayeti: Kolunu makinaya kaptıran işçi hayatını kaybetti",
+   "at": "2026-11-20T22:36:45.589283+00:00",
+   "yazim": "claude",
+   "metin": "Çorum'un Sungurlu OSB'sindeki bir fabrikada, 21 yaşındaki bir işçi çalışırken kolunu makineye kaptırdı ve hayatını kaybetti.\n\n— Olayın ardından ihbar üzerine fabrikaya sağlık ve polis ekipleri sevk edildi.\n— Ağır yaralanan işçi Sungurlu Devlet Hastanesi'ne kaldırıldı, ancak tüm müdahalelere rağmen kurtarılamadı.\n— Cenaze, otopsi işlemleri için morga kaldırıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/corum/corumdaki-is-kazasinda-genc-bir-isci-oldu-3496050",
+    "Evrensel: https://www.evrensel.net/haber/6010480/corum-daki-is-cinayeti-kolunu-makinaya-kaptiran-isci-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13752,12 +13699,10 @@
   "0298c37578": 1,
   "e0f383b677": 1,
   "199d9cafbb": 1,
-  "66c3c1ebdf": 1
+  "66c3c1ebdf": 1,
+  "b0a1ec46a4": 1
  },
  "fail_log": [
-  "2026-11-20T05:14 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
   "2026-11-20T05:14 Tacim Şimşek: ABD, Irak'taki planlarına hız vermiş görünüyor -> ValueError: yanıt okunamadı",
   "2026-11-20T05:18 Arnavutluk Başbakanı Rama, Belçika Başbakanı Bart De Wever'a -> ValueError: yanıt okunamadı",
   "2026-11-20T05:18 Arnavutluk Başbakanı Rama, Belçika Başbakanı Bart De Wever'a -> ValueError: yanıt okunamadı",
@@ -13794,12 +13739,15 @@
   "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:11 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı"
+  "2026-11-20T22:11 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
+  "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
+  "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
+  "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123902551791952189",
+   "since_id": "2123907554807808005",
    "started": true
   },
   "ajansmuhbir1923": {
