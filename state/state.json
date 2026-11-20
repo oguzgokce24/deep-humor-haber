@@ -2,87 +2,6 @@
  "seen": [
   {
    "fp": [
-    "değiş",
-    "lisan",
-    "nde",
-    "pilot",
-    "yönet"
-   ],
-   "tok": [
-    "adayl",
-    "affa",
-    "alama",
-    "alanl",
-    "anaya",
-    "bağla",
-    "başvu",
-    "belir",
-    "bile",
-    "casus",
-    "ceza",
-    "cezas",
-    "devle",
-    "değiş",
-    "dolan",
-    "düzen",
-    "engel",
-    "faali",
-    "fazla",
-    "gazet",
-    "geçer",
-    "geçmi",
-    "giyen",
-    "görev",
-    "güven",
-    "hapis",
-    "hüküm",
-    "insan",
-    "isten",
-    "istey",
-    "işlen",
-    "kaldı",
-    "kamu",
-    "karşı",
-    "kaste",
-    "lisan",
-    "mahkû",
-    "milli",
-    "nde",
-    "neden",
-    "olaca",
-    "olmak",
-    "olsa",
-    "olsal",
-    "pilot",
-    "resmi",
-    "rüşve",
-    "sayıl",
-    "sağlı",
-    "serti",
-    "suçla",
-    "suçta",
-    "sürec",
-    "sürel",
-    "terör",
-    "ticar",
-    "türün",
-    "uygun",
-    "uyuşt",
-    "uğram",
-    "yapıl",
-    "yayım",
-    "yönet",
-    "yıl",
-    "çıkar",
-    "öldür",
-    "örgüt",
-    "şart",
-    "şartı"
-   ],
-   "at": "2026-11-18T23:26:28.528985+00:00"
-  },
-  {
-   "fp": [
     "bursa",
     "hayat",
     "kaybe",
@@ -10828,25 +10747,58 @@
     "şaşır"
    ],
    "at": "2026-11-20T11:18:42.260872+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "4",
+    "eyüps",
+    "iett",
+    "otobü",
+    "yaral",
+    "çarpı"
+   ],
+   "tok": [
+    "ambul",
+    "arkad",
+    "başla",
+    "birbi",
+    "cadde",
+    "durağ",
+    "durum",
+    "ekipl",
+    "eyüps",
+    "farkl",
+    "gelen",
+    "girdi",
+    "hasta",
+    "iett",
+    "ilgil",
+    "ilçes",
+    "incel",
+    "iyi",
+    "kaldı",
+    "kazay",
+    "nde",
+    "olay",
+    "otobü",
+    "sağlı",
+    "sevk",
+    "silah",
+    "sonuc",
+    "yanaş",
+    "yerin",
+    "yolcu",
+    "çarpm",
+    "çarpt",
+    "çarpı",
+    "öğren",
+    "şoför"
+   ],
+   "at": "2026-11-20T11:31:19.265521+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2a8809ce55",
-   "post_id": "529346797199852_1472355738337467",
-   "title": "Son dakika... Erdoğan emekli aylığı düzenlemesi için tarih verdi",
-   "at": "2026-11-18T10:17:14.313445+00:00",
-   "yazim": "claude",
-   "metin": "Cumhurbaşkanı Erdoğan, emekli iyileştirmesi için tarih verdi:\n\n“Emekliye iyileştirmeyi sene başından önce hayata geçireceğiz.”\n\n— İyileştirme 17 milyonu aşkın emeklinin tamamını kapsayacak.\n— Erdoğan, düzenlemenin Meclis'in desteğiyle yapılacağını söyledi.\n— Erdoğan, bir önceki Kabine Toplantısı'nda bu konuda irade ortaya konduğunu belirtti. Yaş ve prim sayısına göre adaletin esas alındığını ekledi.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-emeklilerin-maaslarinda-iyilestirme-erdogan-duzenlemeyi-sene-basindan-once-hayata-gecirecegiz-7702899",
-    "CNN Türk: https://www.cnnturk.com/ekonomi/son-dakika-cumhurbaskani-erdogan-emekliye-iyilestirme-sene-basindan-once-hayata-gecirecegiz-3494685",
-    "NTV: https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-gazzede-katliam-devam-ediyor-1751435",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdogan-emekli-ayligi-duzenlemesi-icin-tarih-verdi-2557196",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-emeklilere-yonelik-duzenleme-aciklamasi-tarih-verdi-4873891",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-emeklilerin-maaslarinda-iyilestirme-erdogan-duzenlemeyi-sene-basindan-once-hayata-gecirecegiz-7702899"
-   ]
-  },
   {
    "id": "2a14aa5b3c",
    "post_id": "529346797199852_1472365268336514",
@@ -13468,6 +13420,22 @@
     "Sözcü: https://www.sozcu.com.tr/bisikletlinin-cebinden-telefon-ve-kartlarini-calan-supheli-tutuklandi-p382997",
     "Yeni Şafak: https://www.yenisafak.com/gundem/bursada-camiye-giren-hirsiz-kendi-telefonunu-unuttu-4874755"
    ]
+  },
+  {
+   "id": "df08cdcb14",
+   "post_id": "529346797199852_1474465794793128",
+   "title": "Eyüpsultan'da İETT otobüsleri birbirine girdi: 4 kişi yaralandı",
+   "at": "2026-11-20T11:31:19.265521+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Eyüpsultan ilçesinde iki İETT otobüsü birbirine çarptı: 4 kişi yaralandı.\n\n— Kaza, Silahtarağa Caddesi'nde durağa yanaşan bir İETT otobüsüne arkadan gelen başka bir İETT otobüsünün çarpmasıyla oldu.\n\n— Yaralılardan 3'ü yolcu, 1'i otobüs şoförü. Ambulanslarla üç farklı hastaneye kaldırıldılar.\n\n— Yaralıların sağlık durumunun iyi olduğu öğrenildi. Polis ve sağlık ekipleri olay yerine sevk edildi, polis kazayla ilgili inceleme başlattı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/iett-otobusleri-carpisti-4-yarali-963957.html",
+    "CNN Türk: https://www.cnnturk.com/turkiye/eyupsultanda-2-iett-otobusu-carpisti-4-yarali-3495840",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-iki-iett-otobusu-carpisti-4-kisi-yaralandi-2557840",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/eyupsultanda-iett-otobusleri-carpisti-4-kisi-yaralandi-4874788",
+    "Evrensel: https://www.evrensel.net/haber/6010384/eyupsultan-da-iett-otobusleri-birbirine-girdi-4-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/sehir-haberleri/eyupsultanda-iki-iett-otobusu-carpisti-4-yarali-2085271"
+   ]
   }
  ],
  "fails": {
@@ -13762,7 +13730,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123736663939518613",
+   "since_id": "2123739879582437776",
    "started": true
   },
   "ajansmuhbir1923": {
