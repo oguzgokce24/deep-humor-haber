@@ -10876,6 +10876,45 @@
     "şöyle"
    ],
    "at": "2026-11-20T00:08:11.752321+00:00"
+  },
+  {
+   "fp": [
+    "anlat",
+    "gazet",
+    "kendi",
+    "kök",
+    "namık",
+    "salac",
+    "sevgi",
+    "taran",
+    "topra",
+    "çiçek",
+    "şair"
+   ],
+   "tok": [
+    "anlat",
+    "arkad",
+    "aslın",
+    "ben",
+    "bence",
+    "bize",
+    "dostl",
+    "gazet",
+    "kendi",
+    "kök",
+    "namık",
+    "salac",
+    "sene",
+    "sevgi",
+    "sürpr",
+    "taran",
+    "topra",
+    "yapar",
+    "yolda",
+    "çiçek",
+    "şair"
+   ],
+   "at": "2026-11-20T00:24:38.119918+00:00"
   }
  ],
  "posted": [
@@ -13763,18 +13802,10 @@
   "1db3358e3a": 1,
   "3c7845ced1": 1,
   "ee20df3dfe": 1,
-  "f8f419615c": 2,
-  "18cab49e4a": 1,
-  "a521ee14c0": 1
+  "18cab49e4a": 2,
+  "a521ee14c0": 2
  },
  "fail_log": [
-  "2026-11-19T11:29 25 milyon sterlin teklif etti, eski eşi 2,2 milyar istedi: R -> ValueError: yanıt okunamadı",
-  "2026-11-19T11:29 25 milyon sterlin teklif etti, eski eşi 2,2 milyar istedi: R -> ValueError: yanıt okunamadı",
-  "2026-11-19T11:29 Güney Kore'de eski Başbakan Han'ın sıkıyönetim davasındaki c -> ValueError: yanıt okunamadı",
-  "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: yanıt okunamadı",
-  "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: yanıt okunamadı",
-  "2026-11-19T12:20 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-19T12:35 Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının b -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-19T13:01 Güllü dosyasında ek karar: Sultan Nur Ulu'ya yurt dışına çık -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-19T15:10 Başsavcılık’tan SPK’ya yeni müzekkere: “Tahliye vaadiyle 8 m -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-19T15:49 İran'dan UAEA'ya tepki: ABD ve İsrail saldırıları görmezden  -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -13807,7 +13838,14 @@
   "2026-11-20T00:21 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
   "2026-11-20T00:21 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
   "2026-11-20T00:21 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
-  "2026-11-20T00:21 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı"
+  "2026-11-20T00:21 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
+  "2026-11-20T00:24 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
+  "2026-11-20T00:24 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
+  "2026-11-20T00:24 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
+  "2026-11-20T00:24 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
+  "2026-11-20T00:24 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
+  "2026-11-20T00:24 Şair, Gazeteci Namık Tarancı kendini anlatıyor: Sevgimiz de  -> ValueError: yanıt okunamadı",
+  "2026-11-20T00:24 Saadet Partili Güneş’ten AKP'ye sert tepki: 'Çiftçi, emekli, -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
