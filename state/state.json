@@ -2,75 +2,6 @@
  "seen": [
   {
    "fp": [
-    "83",
-    "anthr",
-    "dolar",
-    "fiyat",
-    "halka",
-    "hisse"
-   ],
-   "tok": [
-    "adet",
-    "ant",
-    "anthr",
-    "appea",
-    "arz",
-    "arzın",
-    "attı",
-    "açıla",
-    "başla",
-    "bekle",
-    "belir",
-    "borsa",
-    "büyük",
-    "bırak",
-    "claud",
-    "diken",
-    "elde",
-    "etmey",
-    "first",
-    "fiyat",
-    "gelir",
-    "geliş",
-    "gerid",
-    "görme",
-    "halka",
-    "hazir",
-    "hisse",
-    "imza",
-    "ise",
-    "işlem",
-    "kapsa",
-    "kasım",
-    "koduy",
-    "kısmı",
-    "linka",
-    "mevcu",
-    "milya",
-    "model",
-    "nasda",
-    "post",
-    "rakam",
-    "sattı",
-    "satış",
-    "site",
-    "space",
-    "sundu",
-    "sunul",
-    "ten",
-    "the",
-    "topla",
-    "yakla",
-    "yapay",
-    "zaman",
-    "zeka",
-    "çıkar",
-    "çıktı"
-   ],
-   "at": "2026-11-19T05:59:20.138173+00:00"
-  },
-  {
-   "fp": [
     "1",
     "55",
     "alınd",
@@ -10831,25 +10762,68 @@
     "önlem"
    ],
    "at": "2026-11-20T17:49:00.237841+00:00"
+  },
+  {
+   "fp": [
+    "düşür",
+    "emekl",
+    "eskiş",
+    "eylem",
+    "maaşl"
+   ],
+   "tok": [
+    "ali",
+    "alıyo",
+    "anlat",
+    "anlaş",
+    "araya",
+    "attı",
+    "aylık",
+    "aylığ",
+    "biliy",
+    "bin",
+    "bugün",
+    "bunun",
+    "dikka",
+    "diye",
+    "doğru",
+    "düşür",
+    "eller",
+    "emekl",
+    "eskiş",
+    "eylem",
+    "gelen",
+    "imza",
+    "ironi",
+    "ise",
+    "kim",
+    "köprü",
+    "maaşl",
+    "maliy",
+    "musun",
+    "nda",
+    "nin",
+    "panka",
+    "paşa",
+    "sendi",
+    "sloga",
+    "sorum",
+    "sorun",
+    "ters",
+    "tutan",
+    "yapıl",
+    "çalış",
+    "çağrı",
+    "çekme",
+    "şanlı",
+    "şeyi",
+    "şube",
+    "şubes"
+   ],
+   "at": "2026-11-20T18:01:51.207034+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f7943a78cc",
-   "post_id": "529346797199852_1472685784971129",
-   "title": "Son Dakika... ‘Türk Kızılayı Kanunu Teklifi’ TBMM'de kabul edildi",
-   "at": "2026-11-18T17:07:56.021331+00:00",
-   "yazim": "claude",
-   "metin": "TBMM Genel Kurulu, Türk Kızılay Kanunu Teklifi'ni kabul etti. Kanunla Kızılay'ın görev, yetki, hak ve muafiyetleri yasal çerçeveye kavuşuyor.\n\n— Kanunun amacı, ihtiyaç sahiplerine ayrım gözetmeksizin yardım ulaştırmak, afet ve savaş dönemlerindeki sıkıntıları gidermek ve sağlık koşullarını iyileştirmek.\n— Kızılay'a verilen münhasır hak ve yükümlülükleri amaç edinen başka bir tüzel kişilik kurulamayacak.\n— Kızılay'ın adı, bayrağı ve amblemi, Kızılay'ın kurduğu teşekküller dışında izinsiz kullanılamayacak.\n— Kızılay, yabancı Kızılay ve Kızılhaç kuruluşlarından gelen yardımları alıp kullanmada tek yetkili kuruluş olacak.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/turk-kizilay-kanunu-teklifi-genel-kurulda-kabul-edildi-963722.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/turk-kizilayi-kanunu-teklifi-mecliste-kabul-edildi-43383005",
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-turk-kizilayi-kanunu-teklifi-meclisten-gecti-7703293",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-haberi-turk-kizilay-kanunu-teklifi-tbmmde-kabul-edildi-3494984",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-turk-kizilayi-kanunu-teklifi-meclis-ten-gecti-3928323",
-    "Sözcü: https://www.sozcu.com.tr/turk-kizilayi-kanunu-teklifi-tbmm-de-kabul-edildi-p382538"
-   ]
-  },
   {
    "id": "85f3b25f5e",
    "post_id": "529346797199852_1472695951636779",
@@ -13457,6 +13431,18 @@
     "Karar: https://www.karar.com/guncel-haberler/pendikte-is-yerinde-silahlar-konustu-baldizini-oldurdu-polisle-catisti-2085357",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/pendikte-dehsete-dusuren-olay-baldizini-oldurdu-polise-ates-acti-7704693"
    ]
+  },
+  {
+   "id": "a7fe78b477",
+   "post_id": "529346797199852_1474817928091248",
+   "title": "Eskişehir’de emeklilerden ironik eylem: Emekli maaşları düşürülsün",
+   "at": "2026-11-20T18:01:51.207034+00:00",
+   "yazim": "claude",
+   "metin": "Eskişehir'de emeklilerden ironik eylem. Tüm Emeklilerin Sendikası Eskişehir Şube Başkanı Ali Paşa Şanlı:\n\n“Emekli aylığı 23 bin 552 lira. Çalışma Bakanı 318 bin lira, Maliye Bakanı ise 519 bin 676 lira aylık alıyor. (...) Bunun sorumlusu kim biliyor musunuz? Emeklilermiş.”\n\n— Köprübaşı'nda pankartları ters tutan emekliler, “Emekli maaşları düşürülsün” diye slogan attı.\n— Eylem, emekliliklerin sorunlarına dikkat çekmek için yapıldı.\n— Şanlı, bugüne kadar her şeyi doğru anlattıklarını ama anlaşılmadıklarını söyledi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-emeklilerden-ironik-eylem-emekli-maaslari-dusurulsun-2557947",
+    "Evrensel: https://www.evrensel.net/haber/6010462/eskisehir-de-emeklilerden-emekli-maaslari-dusurulsun-eylemi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13712,7 +13698,6 @@
  "fail_log": [
   "2026-11-20T05:11 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
-  "2026-11-20T05:11 Rıfat Okçabol: TÜBA'ya 'AKPBA' denmesi işten bile değil -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
   "2026-11-20T05:11 Ruhi Sanyer: Zeytin ve zeytinyağında rekolte yüksek, ancak h -> ValueError: yanıt okunamadı",
@@ -13749,12 +13734,13 @@
   "2026-11-20T16:13 ABD Hazinesi, 2008 krizinden bu yana ilk kez 9 günlük bono s -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı",
   "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı",
-  "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı"
+  "2026-11-20T16:33 AKP'li isimler, holdingler ve milyarlık işlemler: Yeni Parti -> ValueError: yanıt okunamadı",
+  "2026-11-20T18:01 Eskişehir’de emeklilerden ironik eylem: Emekli maaşları düşü -> ValueError: cümle yarım kalmış: '“Emekli aylığı 23 bin 552 lira. Ç”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123835613644489115",
+   "since_id": "2123837848910496135",
    "started": true
   },
   "ajansmuhbir1923": {
