@@ -2,88 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alanı",
-    "düştü",
-    "geldi",
-    "inşaa",
-    "kayma",
-    "kısmi",
-    "malte",
-    "meyda",
-    "otomo",
-    "topra",
-    "yol",
-    "yolda",
-    "çökme",
-    "çöktü"
-   ],
-   "tok": [
-    "alanı",
-    "altın",
-    "askıd",
-    "aydın",
-    "başla",
-    "biri",
-    "bitiş",
-    "bulun",
-    "devri",
-    "direğ",
-    "düşen",
-    "düştü",
-    "ekipl",
-    "geldi",
-    "gelen",
-    "güven",
-    "halin",
-    "ilgil",
-    "ilçes",
-    "incel",
-    "inşaa",
-    "kalır",
-    "kapa",
-    "kapat",
-    "kapsa",
-    "kayma",
-    "kenar",
-    "kısmi",
-    "mahal",
-    "malte",
-    "meyda",
-    "neden",
-    "olay",
-    "olayd",
-    "olayl",
-    "olmad",
-    "oluşt",
-    "otomo",
-    "paniğ",
-    "park",
-    "saat",
-    "sokak",
-    "sokağ",
-    "sonuc",
-    "sürül",
-    "sıral",
-    "sıras",
-    "sırma",
-    "topra",
-    "trafi",
-    "yardı",
-    "yaşan",
-    "yol",
-    "yola",
-    "yolda",
-    "çekic",
-    "çökme",
-    "çöktü",
-    "çıkar",
-    "öne",
-    "önlem"
-   ],
-   "at": "2026-11-18T14:57:02.763010+00:00"
-  },
-  {
-   "fp": [
     "2",
     "33",
     "basam",
@@ -11130,20 +11048,63 @@
     "ücret"
    ],
    "at": "2026-11-20T02:54:36.819012+00:00"
+  },
+  {
+   "fp": [
+    "5",
+    "619",
+    "astro",
+    "kamud",
+    "milya",
+    "mütea",
+    "trans"
+   ],
+   "tok": [
+    "arası",
+    "astro",
+    "açığa",
+    "boyut",
+    "dönem",
+    "ekim",
+    "eleşt",
+    "genel",
+    "gider",
+    "göre",
+    "harca",
+    "işler",
+    "kadro",
+    "kamu",
+    "kamud",
+    "kamun",
+    "kamuo",
+    "kapsa",
+    "kayna",
+    "kendi",
+    "kesti",
+    "kurum",
+    "kısmı",
+    "milya",
+    "mütea",
+    "nitel",
+    "ocak",
+    "rağme",
+    "sayan",
+    "sürdü",
+    "sürül",
+    "tasar",
+    "trans",
+    "ulaşt",
+    "uyarı",
+    "yapıl",
+    "yok",
+    "yolu",
+    "çıktı",
+    "öne"
+   ],
+   "at": "2026-11-20T03:07:17.671668+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d2e77d09dc",
-   "post_id": "529346797199852_1472044665035241",
-   "title": "İşçiler ve emekliler Kartal'da buluşuyor: 'Sadakaya razı olmayacağız'",
-   "at": "2026-11-18T02:20:21.211521+00:00",
-   "yazim": "claude",
-   "metin": "İşçiler, emekliler ve emek örgütleri 29 Kasım'da İstanbul Kartal Meydanı'nda bir araya gelecek.\n\n— Geçim sıkıntısına ve hak kayıplarına karşı toplanıyorlar.\n— Sendikalar, insanca yaşamaya yetecek ücret ve emekli aylığı talebini öne çıkarıyor.\n\nSOL Parti, ortak mücadele çağrısı için:\n\n“Haramilerin saltanatına karşı hepimiziz.”",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/isciler-ve-emekliler-kartal-da-bulusuyor-sadakaya-razi-olmayacagiz-747011"
-   ]
-  },
   {
    "id": "68129992cd",
    "post_id": "529346797199852_1472053295034378",
@@ -13765,6 +13726,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/7-aydir-maasini-alamayan-isciyi-patronu-fabrikaya-cagirip-darbetti-parami-istedim-hirsiz-oldum-747352"
    ]
+  },
+  {
+   "id": "f10dd9a243",
+   "post_id": "529346797199852_1474103934829314",
+   "title": "Kamudan astronomik transfer: Müteahhide 619,5 milyar TL",
+   "at": "2026-11-20T03:07:17.671668+00:00",
+   "yazim": "claude",
+   "metin": "Kamu kurumları müteahhitlik giderlerine Ocak-Ekim 2026 arasında 619,5 milyar TL harcadı.\n\n— Eleştirilere göre bu işlerin bir kısmı kamunun kendi kadrosuyla yapılabilirdi.\n\n— Tasarruf Genelgesi'ne ve \"öz kadro ile yapılabilir\" uyarısına rağmen harcamaların sürdüğü öne sürülüyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/kamudan-astronomik-transfer-muteahhide-619-5-milyar-tl-747349"
+   ]
   }
  ],
  "fails": {
@@ -14007,15 +13979,11 @@
   "1db3358e3a": 1,
   "3c7845ced1": 1,
   "ee20df3dfe": 1,
-  "a521ee14c0": 3
+  "a521ee14c0": 3,
+  "0eb2b5dfd8": 1,
+  "857f8a4ead": 1
  },
  "fail_log": [
-  "2026-11-20T00:28 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
-  "2026-11-20T00:28 'Kötü adamı oynamak çok daha eğlenceli': GTA'nın ortaya çıkı -> ValueError: yanıt okunamadı",
-  "2026-11-20T01:18 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
-  "2026-11-20T01:18 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
-  "2026-11-20T01:18 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
-  "2026-11-20T01:31 'Hakları var, güvenceleri yok' -> ValueError: yanıt okunamadı",
   "2026-11-20T01:31 'Hakları var, güvenceleri yok' -> ValueError: yanıt okunamadı",
   "2026-11-20T01:31 'Hakları var, güvenceleri yok' -> ValueError: yanıt okunamadı",
   "2026-11-20T01:31 Çocukların beslenme hakkı yoksulluğun gölgesinde: Türkiye'de -> ValueError: yanıt okunamadı",
@@ -14049,7 +14017,13 @@
   "2026-11-20T02:54 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
   "2026-11-20T02:54 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
   "2026-11-20T02:54 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
-  "2026-11-20T02:54 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı"
+  "2026-11-20T02:54 9 belediye başkanına daha AKP rozeti: \"Transferler\" meşruiye -> ValueError: yanıt okunamadı",
+  "2026-11-20T03:07 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
+  "2026-11-20T03:07 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
+  "2026-11-20T03:07 Çocuklukları ellerinden alınıyor: Hakları var ama hayatları  -> ValueError: yanıt okunamadı",
+  "2026-11-20T03:07 İktidar blokunda revizyon tartışmaları: AKP rejime \"yük olma -> ValueError: yanıt okunamadı",
+  "2026-11-20T03:07 İktidar blokunda revizyon tartışmaları: AKP rejime \"yük olma -> ValueError: yanıt okunamadı",
+  "2026-11-20T03:07 İktidar blokunda revizyon tartışmaları: AKP rejime \"yük olma -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
