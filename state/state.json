@@ -3,80 +3,6 @@
   {
    "fp": [
     "1",
-    "55",
-    "alınd",
-    "bölme",
-    "diyar",
-    "dorse",
-    "düzen",
-    "gizli",
-    "gözal",
-    "göçme",
-    "kaçak",
-    "kişi",
-    "tır",
-    "yakal",
-    "yaptı"
-   ],
-   "tok": [
-    "adli",
-    "afgan",
-    "alınd",
-    "ayrın",
-    "başla",
-    "belir",
-    "bile",
-    "borul",
-    "bölme",
-    "damla",
-    "demir",
-    "diyar",
-    "dorse",
-    "durdu",
-    "düzen",
-    "dışı",
-    "edile",
-    "edilm",
-    "ekipl",
-    "ettiğ",
-    "gizli",
-    "göç",
-    "göçme",
-    "idare",
-    "incel",
-    "işlem",
-    "kapat",
-    "kaçak",
-    "mardi",
-    "metre",
-    "müdür",
-    "oluşt",
-    "organ",
-    "profi",
-    "sınır",
-    "taban",
-    "tamam",
-    "tesli",
-    "tır",
-    "uyruk",
-    "yakla",
-    "yaptı",
-    "yapıl",
-    "yolu",
-    "yükse",
-    "çadır",
-    "çıkan",
-    "örtül",
-    "üstü",
-    "üzere",
-    "üzeri",
-    "şaşır"
-   ],
-   "at": "2026-11-19T06:32:57.578944+00:00"
-  },
-  {
-   "fp": [
-    "1",
     "3",
     "cami",
     "duvar",
@@ -10894,21 +10820,70 @@
     "şubat"
    ],
    "at": "2026-11-20T18:14:32.213494+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "adası",
+    "basın",
+    "duyur",
+    "düzen",
+    "füze",
+    "iddia",
+    "iran",
+    "israi",
+    "keşm",
+    "saldı",
+    "yalan"
+   ],
+   "tok": [
+    "abd",
+    "abdis",
+    "adada",
+    "adası",
+    "adaya",
+    "ahmed",
+    "akşam",
+    "basın",
+    "belir",
+    "bildi",
+    "boğaz",
+    "bölge",
+    "duyul",
+    "duyur",
+    "düzen",
+    "edilm",
+    "endiş",
+    "füze",
+    "gerek",
+    "hürmü",
+    "iddia",
+    "imha",
+    "imhas",
+    "iran",
+    "israi",
+    "kayna",
+    "keşm",
+    "mühim",
+    "nda",
+    "nefis",
+    "patla",
+    "saatl",
+    "sebep",
+    "sesle",
+    "vali",
+    "valil",
+    "vatan",
+    "yakın",
+    "yalan",
+    "yardı",
+    "yetki",
+    "şekli"
+   ],
+   "at": "2026-11-20T18:33:31.417233+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f3d7304548",
-   "post_id": "529346797199852_1472704464969261",
-   "title": "Voyager 1, bir ışık günü uzakta",
-   "at": "2026-11-18T17:33:20.300460+00:00",
-   "yazim": "claude",
-   "metin": "NASA'nın 1977'de uzaya gönderdiği Voyager 1, Dünya'dan bir ışık günü uzaklığa ulaşan ilk insan yapımı nesne oldu.\n\n— Bir ışık günü, aracın Dünya'dan yaklaşık 26 milyar kilometre uzakta olduğu anlamına geliyor.\n\n— Aracın gönderdiği radyo sinyallerinin Dünya'ya ulaşması 24 saat sürüyor.\n\n— Voyager 1, 2012'de yıldızlararası uzaya ulaşmıştı ve 1990'da Dünya'nın \"Soluk Mavi Nokta\" fotoğrafını çekmişti.",
-   "sources": [
-    "Diken: https://www.diken.com.tr/voyager-1-bir-isik-gunu-uzakta/?utm_source=rss&utm_medium=rss&utm_campaign=voyager-1-bir-isik-gunu-uzakta",
-    "BPT (X): https://x.com/bpthaber/status/2123106942528676270"
-   ]
-  },
   {
    "id": "16ec7aebf5",
    "post_id": "529346797199852_1472713318301709",
@@ -13517,6 +13492,21 @@
     "BirGün: https://www.birgun.net/haber/halk-tv-bilirkisi-davasinda-5-gazeteciye-hapis-cezasi-talebi-747520",
     "Karar: https://www.karar.com/guncel-haberler/halk-tvnin-bilirkisi-davasinda-5-gazeteci-icin-hapis-istendi-2085355"
    ]
+  },
+  {
+   "id": "6219412bcd",
+   "post_id": "529346797199852_1474842251422149",
+   "title": "İran basınının “ABD-İsrail, Keşm Adası'na füze saldırısı” iddiasına yalanlama",
+   "at": "2026-11-20T18:33:31.417233+00:00",
+   "yazim": "claude",
+   "metin": "İran yetkilileri, Keşm Adası'nda duyulan patlama seslerinin ABD-İsrail saldırılarında patlamayan mühimmatların imha edilmesinden kaynaklandığını söyledi.\n\n— Hürmüzgan Vali Yardımcısı Ahmed Nefisi, adada duyulan sesleri bu sebeple açıkladı.\n— Nefisi, bölgedeki vatandaşların endişelenmemesi gerektiğini belirtti.\n— İran basını daha önce, Hürmüz Boğazı'na yakın adaya akşam saatlerinde ABD-İsrail tarafından füze saldırısı düzenlendiğini bildirmişti.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/iran-basini-abd-israil-kesm-adasina-fuze-saldirisi-duzenledi/4132437",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/hurmuzgan-valiligi-iran-basininin-abd-israil-kesm-adasina-fuze-saldirisi-duzenledi-iddiasini-yalanladi-964000.html",
+    "Milliyet: https://www.milliyet.com.tr/dunya/iran-basini-duyurdu-abd-israil-kesm-adasina-fuze-saldirisi-duzenledi-7704673",
+    "Evrensel: https://www.evrensel.net/haber/6010467/iran-basininin-abd-israil-kesm-adasi-na-fuze-saldirisi-iddiasina-yalanlama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/iran-basini-duyurdu-abd-israil-kesm-adasina-fuze-saldirisi-duzenledi-7704673"
+   ]
   }
  ],
  "fails": {
@@ -13814,7 +13804,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123841962281259443",
+   "since_id": "2123846608379125911",
    "started": true
   },
   "ajansmuhbir1923": {
