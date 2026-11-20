@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "iran",
-    "kaybe",
-    "nyt",
-    "rahat",
-    "savaş",
-    "seçim",
-    "trump",
-    "vance",
-    "yüzün"
-   ],
-   "tok": [
-    "abd",
-    "adayl",
-    "aktar",
-    "ardın",
-    "bakma",
-    "baktı",
-    "başla",
-    "dair",
-    "daki",
-    "donal",
-    "iddia",
-    "iran",
-    "kasım",
-    "medya",
-    "mesaf",
-    "nyt",
-    "rahat",
-    "savaş",
-    "seçim",
-    "söyle",
-    "sözle",
-    "sürül",
-    "trump",
-    "vance",
-    "yardı",
-    "yenil",
-    "yönün",
-    "yüzün",
-    "öne"
-   ],
-   "at": "2026-11-18T22:08:16.526554+00:00"
-  },
-  {
-   "fp": [
     "50",
     "80",
     "akın",
@@ -10911,25 +10865,71 @@
     "özgür"
    ],
    "at": "2026-11-20T10:04:21.606255+00:00"
+  },
+  {
+   "fp": [
+    "beraa",
+    "insan",
+    "kavga",
+    "pendi",
+    "sanığ",
+    "silah",
+    "teki",
+    "öldür"
+   ],
+   "tok": [
+    "alaca",
+    "anlaş",
+    "arası",
+    "aykut",
+    "beraa",
+    "cezas",
+    "cinay",
+    "davad",
+    "dönmü",
+    "engel",
+    "etmek",
+    "ettiğ",
+    "gerek",
+    "hapis",
+    "harek",
+    "hazir",
+    "ilişk",
+    "insan",
+    "istem",
+    "karag",
+    "kavga",
+    "kendi",
+    "korud",
+    "korun",
+    "kurtu",
+    "müebb",
+    "odada",
+    "olay",
+    "pendi",
+    "sanık",
+    "sanığ",
+    "savcı",
+    "silah",
+    "tahli",
+    "tartı",
+    "tehli",
+    "teki",
+    "türlü",
+    "verdi",
+    "verec",
+    "yardı",
+    "yaşan",
+    "yerin",
+    "yıl",
+    "çarpt",
+    "çıkma",
+    "öldür"
+   ],
+   "at": "2026-11-20T10:16:56.457507+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "63fdbda61d",
-   "post_id": "529346797199852_1472276611678713",
-   "title": "Kaygan yolda kontrolden çıkan TIR’a otobüs çarptı: 13 yaralı",
-   "at": "2026-11-18T08:41:12.614452+00:00",
-   "yazim": "claude",
-   "metin": "Bitlis'in Tatvan ilçesinde, yağmurdan kayganlaşan yolda kontrolden çıkan TIR'a arkadan çarpan yolcu otobüsündeki 13 kişi yaralandı.\n\n— Kaza, Tatvan'a bağlı Koyluca köyü yakınlarında meydana geldi.\n— TIR, şampuan ve sıvı sabun üretiminde kullanılan Sodyum Lauril Eter Sülfat (SLES) maddesini taşıyordu. Maddenin bir kısmı yola saçıldı.\n— Sağlık, itfaiye ve AFAD ekipleri olay yerine gitti. Yaralılar hastanelere kaldırıldı ve durumlarının iyi olduğu bildirildi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/bitliste-tir-ile-otobusun-carpistigi-kazada-10-yolcu-yaralandi/4128733",
-    "CNN Türk: https://www.cnnturk.com/turkiye/kontrolden-cikan-tira-yolcu-otobusu-carpti-13-yarali-3494656",
-    "Sözcü: https://www.sozcu.com.tr/kaygan-yolda-kontrolden-cikan-tira-otobus-carpti-13-yarali-p382414",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kayganlasan-yolda-korkunc-kaza-kontrolden-cikan-tir-a-yolcu-otobusu-carpti-13-yarali-2557168",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/karamanda-tir-otomobile-arkadan-carpti-3-yarali-4873826",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/bilecik-osmanelide-hurda-yuklu-tir-devrildi-1-yarali-bilecik-haberleri-4873743"
-   ]
-  },
   {
    "id": "f1f05de400",
    "post_id": "529346797199852_1472287955010912",
@@ -13547,6 +13547,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/murat-agirel-den-cezaevinden-dayanisma-cagrisi-yeni-mektup-adresini-paylasti-2557823",
     "BirGün: https://www.birgun.net/haber/tutuklu-gazeteci-murat-agirel-in-kogusu-degistirildi-yeni-mektup-adresi-paylasildi-747447"
    ]
+  },
+  {
+   "id": "e8dea0337b",
+   "post_id": "529346797199852_1474409051465469",
+   "title": "Pendik'teki silahlı kavgada iş insanını öldüren sanığa beraat",
+   "at": "2026-11-20T10:16:56.457507+00:00",
+   "yazim": "claude",
+   "metin": "Pendik'te alacak verecek tartışmasında iş insanını öldüren sanık, mahkemece beraat etti.\n\n— Olay 10 Haziran 2025'te Pendik'teki bir iş yerinde yaşandı. Alacak verecek anlaşmazlığı olan iki kişi arasındaki tartışma silahlı kavgaya dönmüştü.\n\n— Mahkeme, sanığın bir tehlikeden kurtulmak için hareket ettiğine ve başka türlü korunamayacağına karar verdi.\n\n— Odadan çıkmasını engelleyen bir kişi, silahla yaralamaya yardım etmekten 3 yıl hapis cezasına çarptırıldı ve tahliye edildi.\n\n— Savcılık, beraat eden sanık hakkında müebbet hapis cezası istemişti.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/pendikteki-silahli-kavgada-is-insanini-olduren-saniga-beraat-3495836",
+    "NTV: https://www.ntv.com.tr/turkiye/alacak-verecek-kavgasinda-is-insanini-olduren-saniga-kendini-korudugu-gerekcesiyle-beraat-1751759",
+    "Sözcü: https://www.sozcu.com.tr/pendik-teki-silahli-kavgada-is-insanini-olduren-saniga-beraat-p383024"
+   ]
   }
  ],
  "fails": {
@@ -13841,7 +13854,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2123715856613900358",
+   "since_id": "2123720555450839271",
    "started": true
   },
   "ajansmuhbir1923": {
