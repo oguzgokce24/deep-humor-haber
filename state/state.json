@@ -11089,21 +11089,63 @@
     "şeyi"
    ],
    "at": "2026-11-21T22:08:02.039443+00:00"
+  },
+  {
+   "fp": [
+    "acı",
+    "asker",
+    "astsu",
+    "kazas",
+    "silah",
+    "yaral",
+    "şehit",
+    "şırna"
+   ],
+   "tok": [
+    "acı",
+    "arkad",
+    "asker",
+    "astsu",
+    "bölge",
+    "duyur",
+    "geldi",
+    "gelen",
+    "gergü",
+    "güler",
+    "hasta",
+    "hudut",
+    "inci",
+    "istih",
+    "kahra",
+    "kaldı",
+    "kasım",
+    "kazas",
+    "komut",
+    "mesaj",
+    "meyda",
+    "milli",
+    "msb",
+    "müdah",
+    "olmuş",
+    "rağme",
+    "savun",
+    "silah",
+    "sonuc",
+    "tan",
+    "tarih",
+    "taziy",
+    "tugay",
+    "yalın",
+    "yaşar",
+    "çavuş",
+    "şehit",
+    "şenob",
+    "şırna"
+   ],
+   "at": "2026-11-21T22:11:31.637622+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3b162766f9",
-   "post_id": "529346797199852_1473893048183736",
-   "title": "Belediye başkanı ve başkanvekili seçimlerinde yeni dönem: İsim yazma uygulaması kaldırıldı, tercih mührü geldi",
-   "at": "2026-11-19T21:46:52.596384+00:00",
-   "yazim": "claude",
-   "metin": "Belediye başkanlığı ve başkanvekilliği seçimlerinde oy verme yöntemi değişti, isim yazmak yerine tercih mührü basılacak.\n\n— Yeni yönetmelik 20 Kasım 2026 tarihli Resmî Gazete'de yayımlandı.\n— Meclis üyeleri artık adayların isimlerinin alfabetik sırayla yazıldığı tek bir pusulada, tercih ettikleri ismin karşısına mühür basacak.\n— Amaç, isimlerin yanlış yazılması yüzünden oyların geçersiz sayılmasının önüne geçmek.\n— Belediye başkanlığı boşalırsa vali 10 gün içinde seçim toplantısı kararlaştıracak.",
-   "sources": [
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/19/son-dakika-i-belediye-baskani-ve-vekil-secimlerinde-yeni-donem-resmi-gazetede-yayimlandi-baskanlik-koltugu-bosalirsa-ne-olacak",
-    "Karar: https://www.karar.com/guncel-haberler/belediye-baskani-ve-baskanvekili-secimlerinde-yeni-donem-isim-yazma-2085187"
-   ]
-  },
   {
    "id": "633f33c1b8",
    "post_id": "529346797199852_1473900654849642",
@@ -13667,6 +13709,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/disisleri-bakani-fidan-duyurdu-cumhurbaskani-erdogandan-vize-serbestisi-icin-talimat-4875285",
     "BirGün: https://www.birgun.net/haber/hakan-fidan-duyurdu-avrupa-birligi-ile-vize-serbestliginin-hayata-gecmesi-icin-konusuluyor-747700"
    ]
+  },
+  {
+   "id": "95d7faf4f8",
+   "post_id": "529346797199852_1476107067962334",
+   "title": "Şırnak'ta silah kazasında yaralanan Astsubay şehit oldu",
+   "at": "2026-11-21T22:11:31.637622+00:00",
+   "yazim": "claude",
+   "metin": "Şırnak'ta silah kazasında yaralanan İstihkam Astsubay Çavuş Yalın Gergün şehit oldu.\n\n— Kaza, 21 Kasım 2026'da Şenoba bölgesindeki 48'inci Hudut Tugay Komutanlığında meydana geldi.\n— Gergün hastaneye kaldırıldı, yapılan tüm müdahalelere rağmen hayatını kaybetti.\n— Milli Savunma Bakanı Yaşar Güler, taziye mesajında \"Kahraman silah arkadaşımız, silah kazası sonucu 21 Kasım 2026 tarihinde şehit olmuştur.\" dedi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/sirnakta-silah-kazasi-sonucu-bir-asker-sehit-oldu/4133272",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/silah-kazasinda-yaralanan-bir-askerimiz-sehit-oldu-964102.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/msb-aci-haberi-duyurdu-silah-kazasinda-yaralanan-astsubay-sehit-oldu-43386584",
+    "Milliyet: https://www.milliyet.com.tr/gundem/msb-sirnakta-silah-kazasinda-yaralanan-astsubay-cavus-yalin-gergun-sehit-oldu-7705316",
+    "CNN Türk: https://www.cnnturk.com/turkiye/aci-haber-sirnakta-silah-kazasi-sonucu-astsubay-cavus-yalin-gergun-sehit-oldu-3496341",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-msb-silah-kazasinda-bir-asker-sehit-oldu-3929135"
+   ]
   }
  ],
  "fails": {
@@ -13947,12 +14005,9 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "2ab2c91f11": 1
+  "2ab2c91f11": 2
  },
  "fail_log": [
-  "2026-11-21T21:53 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:53 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:53 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:53 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:57 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T21:57 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -13989,7 +14044,10 @@
   "2026-11-21T22:08 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
   "2026-11-21T22:08 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
   "2026-11-21T22:08 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:08 Ağlamanın kökenleri -> ValueError: yanıt okunamadı"
+  "2026-11-21T22:08 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
