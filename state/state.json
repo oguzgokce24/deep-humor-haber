@@ -10963,6 +10963,24 @@
     "öneri"
    ],
    "at": "2026-11-21T21:46:40.909109+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-21T21:53:34.255486+00:00"
   }
  ],
  "posted": [
@@ -13821,20 +13839,10 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "2ab2c91f11": 2,
-  "7f2e0068a8": 1,
-  "f9136c1ed5": 1
+  "7f2e0068a8": 2,
+  "f9136c1ed5": 2
  },
  "fail_log": [
-  "2026-11-21T21:30 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:30 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:30 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:30 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:34 Okan Bayülgen Cumhuriyet Pazar'da: 'Sanatçı politikayı kendi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:34 Okan Bayülgen Cumhuriyet Pazar'da: 'Sanatçı politikayı kendi -> ValueError: yanıt okunamadı",
   "2026-11-21T21:34 Okan Bayülgen Cumhuriyet Pazar'da: 'Sanatçı politikayı kendi -> ValueError: yanıt okunamadı",
   "2026-11-21T21:34 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
   "2026-11-21T21:34 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
@@ -13865,12 +13873,21 @@
   "2026-11-21T21:50 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı"
+  "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:53 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124251490839839010",
+   "since_id": "2124259166600446244",
    "started": true
   },
   "ajansmuhbir1923": {
