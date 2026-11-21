@@ -10614,20 +10614,91 @@
     "öne"
    ],
    "at": "2026-11-21T06:01:25.432607+00:00"
+  },
+  {
+   "fp": [
+    "81",
+    "artık",
+    "bakan",
+    "bastı",
+    "böyle",
+    "cezal",
+    "düğme",
+    "geçer",
+    "ilde",
+    "olaca",
+    "ödene"
+   ],
+   "tok": [
+    "adale",
+    "adli",
+    "adliy",
+    "artık",
+    "aynen",
+    "ayrıc",
+    "bastı",
+    "bekle",
+    "birin",
+    "borcu",
+    "bölüm",
+    "böyle",
+    "cezal",
+    "cezan",
+    "cezas",
+    "daire",
+    "devam",
+    "devri",
+    "düğme",
+    "edece",
+    "emri",
+    "eriyo",
+    "eşit",
+    "gelir",
+    "geçer",
+    "girme",
+    "hakkı",
+    "hüküm",
+    "hızlı",
+    "idare",
+    "inter",
+    "itiba",
+    "içind",
+    "kalan",
+    "kalka",
+    "kaybı",
+    "korid",
+    "masra",
+    "nın",
+    "olaca",
+    "ortad",
+    "para",
+    "sekme",
+    "sites",
+    "sona",
+    "sürel",
+    "sıra",
+    "taksi",
+    "tebli",
+    "topla",
+    "ulaşı",
+    "uzak",
+    "vergi",
+    "verme",
+    "yasal",
+    "yatır",
+    "yaşay",
+    "yeter",
+    "zaman",
+    "ödeme",
+    "ödene",
+    "ödeye",
+    "özell",
+    "üçte"
+   ],
+   "at": "2026-11-21T06:14:06.198758+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1073f2f1bc",
-   "post_id": "529346797199852_1473153764924331",
-   "title": "UKMTO: Umman açıklarında bir tanker saldırıya uğradı",
-   "at": "2026-11-19T05:21:48.618224+00:00",
-   "yazim": "claude",
-   "metin": "Kocaeli'de Emek ve Demokrasi Platformu, Sözcü TV'ye kayyım atanmasını protesto etti:\n\n“Basın susturulamaz.”\n\n— Platform, gazetecilere yönelik saldırılara da tepki gösterdi.\n— Açıklamada, halkın haber alma hakkı için basının özgür olması gerektiği vurgulandı.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010172/ukmto-umman-aciklarinda-bir-tanker-saldiriya-ugradi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "3aabcb32f1",
    "post_id": "529346797199852_1473160898256951",
@@ -13241,6 +13312,17 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2124019937161171349"
    ]
+  },
+  {
+   "id": "f1967b5f42",
+   "post_id": "529346797199852_1475321208040920",
+   "title": "Bakanlık düğmeye bastı, 81 ilde geçerli olacak: Cezalar artık böyle ödenecek",
+   "at": "2026-11-21T06:14:06.198758+00:00",
+   "yazim": "claude",
+   "metin": "Adli para cezaları artık 81 ilde internetten ödenebilecek.\n\n— Gelir İdaresi Başkanlığı'nın internet sitesindeki \"Hızlı Ödemeler\" sekmesinden \"Adli Para Cezası Ödemeleri\" bölümüne girmek yeterli olacak.\n— Özellikle ilçe merkezine ve adliyeye uzak yaşayanlar için ulaşım masrafı ve zaman kaybı ortadan kalkacak.\n— Yasal süreler ve taksit hakkı aynen devam edecek. Ödeme emri tebliğinden itibaren bir ay içinde toplam cezanın üçte birini internetten yatıran, kalan borcunu iki eşit taksitle ödeyebilecek. Mahkemenin ayrıca taksit kararı vermediği hükümlüler için bu geçerli.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/bakanlik-dugmeye-basti-81-ilde-gecerli-olacak-cezalar-artik-boyle-odenecek-p383158"
+   ]
   }
  ],
  "fails": {
@@ -13554,7 +13636,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124019937161171349",
+   "since_id": "2124021642515067064",
    "started": true
   },
   "ajansmuhbir1923": {
