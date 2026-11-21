@@ -2,85 +2,6 @@
  "seen": [
   {
    "fp": [
-    "15",
-    "arala",
-    "bulun",
-    "dahil",
-    "deste",
-    "ilişk",
-    "israi",
-    "nin",
-    "ortak",
-    "türki",
-    "yaptı",
-    "yerle",
-    "yönel",
-    "ülked"
-   ],
-   "tok": [
-    "aldığ",
-    "altın",
-    "arala",
-    "asker",
-    "avust",
-    "bağım",
-    "başke",
-    "benze",
-    "birle",
-    "bulun",
-    "dahil",
-    "deki",
-    "deste",
-    "devle",
-    "doğu",
-    "dünya",
-    "dışiş",
-    "dışı",
-    "erdir",
-    "faali",
-    "filis",
-    "gazze",
-    "gerek",
-    "geril",
-    "göste",
-    "ilişk",
-    "israi",
-    "işgal",
-    "karşı",
-    "krall",
-    "kudüs",
-    "kınad",
-    "kınay",
-    "memnu",
-    "nin",
-    "nın",
-    "ortak",
-    "planı",
-    "polit",
-    "sona",
-    "temel",
-    "tepki",
-    "toplu",
-    "topra",
-    "ulusl",
-    "uygul",
-    "vurgu",
-    "yapan",
-    "yaptı",
-    "yasa",
-    "yerle",
-    "yönel",
-    "yürüt",
-    "çağrı",
-    "çözüm",
-    "özell",
-    "ülked",
-    "ülken"
-   ],
-   "at": "2026-11-19T19:51:41.571139+00:00"
-  },
-  {
-   "fp": [
     "acele",
     "ilgil",
     "iran",
@@ -10697,21 +10618,50 @@
     "çıktı"
    ],
    "at": "2026-11-21T07:48:48.618211+00:00"
+  },
+  {
+   "fp": [
+    "14",
+    "amasy",
+    "cenaz",
+    "devri",
+    "kazad",
+    "kişi",
+    "midib",
+    "taşıy",
+    "yaral"
+   ],
+   "tok": [
+    "amasy",
+    "başla",
+    "cenaz",
+    "dan",
+    "devri",
+    "gelen",
+    "giden",
+    "götür",
+    "göynü",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "kaldı",
+    "kayga",
+    "kazay",
+    "meyda",
+    "midib",
+    "neden",
+    "nın",
+    "taşıy",
+    "yağış",
+    "yolcu",
+    "yolda",
+    "yolun",
+    "çevre"
+   ],
+   "at": "2026-11-21T08:01:20.117353+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5e611f03f0",
-   "post_id": "529346797199852_1473225918250449",
-   "title": "19 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Zam Var mı? Güncel Akaryakıt Fiyatları",
-   "at": "2026-11-19T07:10:54.788324+00:00",
-   "yazim": "claude",
-   "metin": "Motorinde 20 Kasım Cuma gününden itibaren indirim bekleniyor.\n\n— İndirimin miktarı henüz açıklanmadı.\n\n— Beklenen indirim pompaya yansırsa motorin fiyatları illere göre yeniden değişecek.\n\nDöviz kuru, petrol fiyatları ve ÖTV zamları akaryakıt fiyatlarını etkilemeye devam ediyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/benzine-mazota-indirim-zam-var-mi-19-kasim-akaryakit-fiyatlari-ne-kadar-guncel-yakit-fiyatlari-kac-tl-2557466",
-    "BirGün: https://www.birgun.net/haber/19-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-747240"
-   ]
-  },
   {
    "id": "7c884cf544",
    "post_id": "529346797199852_1473233608249680",
@@ -13311,6 +13261,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/bursada-parkta-16-yasindaki-cocuk-sirtindan-bicaklandi-4875036",
     "Karar: https://www.karar.com/sehir-haberleri/bursada-parkta-bicakli-saldiri-16-yasindaki-cocuk-yaralandi-2085406"
    ]
+  },
+  {
+   "id": "6f9b36d315",
+   "post_id": "529346797199852_1475398194699888",
+   "title": "Amasya'ya cenaze taşıyan midibüs devrildi: 14 yaralı",
+   "at": "2026-11-21T08:01:20.117353+00:00",
+   "yazim": "claude",
+   "metin": "Amasya'nın Göynücek ilçesinde, İstanbul'dan cenazeye gidenleri taşıyan midibüs devrildi: 14 kişi yaralandı.\n\n— Yağış nedeniyle kayganlaşan yolda devrilen midibüsteki yolcular yaralandı.\n— Yaralılar çevredeki hastanelere kaldırıldı.\n— Kazayla ilgili soruşturma başlatıldı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/amasyada-midibusun-devrildigi-kazada-14-kisi-yaralandi/4132726",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/cenaze-tasiyan-midibus-devrildi-14-yarali-964038.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/amasyada-midibus-devrildi-14-kisi-yaralandi-43385834",
+    "Milliyet: https://www.milliyet.com.tr/gundem/amasyada-midibusun-devrildigi-kazada-14-kisi-yaralandi-7704961",
+    "CNN Türk: https://www.cnnturk.com/turkiye/amasyada-cenaze-tasiyan-midibus-devrildi-14-kisi-yaralandi-3496109",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-amasya-ya-cenaze-goturen-midibus-devrildi-14-yarali-3928966"
+   ]
   }
  ],
  "fails": {
@@ -13626,7 +13592,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124045464639299766",
+   "since_id": "2124049135934529918",
    "started": true
   },
   "ajansmuhbir1923": {
