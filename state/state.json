@@ -2,70 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ağır",
-    "bıçak",
-    "kavga",
-    "yaral"
-   ],
-   "tok": [
-    "aksar",
-    "ambul",
-    "arası",
-    "ağır",
-    "başla",
-    "belir",
-    "bilin",
-    "bölge",
-    "bıçak",
-    "cadde",
-    "dönüş",
-    "ekipl",
-    "emniy",
-    "fatih",
-    "geldi",
-    "güçle",
-    "hasta",
-    "henüz",
-    "ihbar",
-    "ilgil",
-    "incel",
-    "kaldı",
-    "kavga",
-    "kemal",
-    "kimli",
-    "kişil",
-    "konu",
-    "konuy",
-    "kurye",
-    "kısa",
-    "mahal",
-    "motok",
-    "müdah",
-    "namık",
-    "nde",
-    "neden",
-    "olay",
-    "ortas",
-    "saat",
-    "sağlı",
-    "süred",
-    "sürer",
-    "sıral",
-    "sıras",
-    "tartı",
-    "vatan",
-    "yapar",
-    "yaşan",
-    "yeri",
-    "yerin",
-    "çalış",
-    "çıkan",
-    "çıktı"
-   ],
-   "at": "2026-11-19T18:42:14.948867+00:00"
-  },
-  {
-   "fp": [
     "diye",
     "dışın",
     "emir",
@@ -10724,21 +10660,69 @@
     "şirke"
    ],
    "at": "2026-11-21T06:33:01.729788+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "avrup",
+    "geliy",
+    "krite",
+    "mecli",
+    "vizes"
+   ],
+   "tok": [
+    "adım",
+    "anlaş",
+    "arası",
+    "atıla",
+    "avrup",
+    "aşama",
+    "başla",
+    "belir",
+    "bulun",
+    "bütçe",
+    "düzen",
+    "dışiş",
+    "eksik",
+    "europ",
+    "fidan",
+    "gelec",
+    "geliy",
+    "gerek",
+    "geçil",
+    "gideb",
+    "görüş",
+    "günde",
+    "hakan",
+    "ilgil",
+    "ilişk",
+    "işbir",
+    "kalan",
+    "kişis",
+    "korun",
+    "krite",
+    "mecli",
+    "mesai",
+    "muafi",
+    "schen",
+    "serbe",
+    "sürec",
+    "tamam",
+    "tasla",
+    "tbmm",
+    "vatan",
+    "veril",
+    "vize",
+    "vizes",
+    "yolun",
+    "çalış",
+    "örgüt",
+    "şimdi"
+   ],
+   "at": "2026-11-21T06:45:39.888592+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6952cbb4b3",
-   "post_id": "529346797199852_1473168554922852",
-   "title": "Elon Musk'tan 500 milyon dolarlık pişmanlık: Kendimi çok aptal hissediyorum",
-   "at": "2026-11-19T05:46:49.617601+00:00",
-   "yazim": "claude",
-   "metin": "Elon Musk, ABD ara seçimleri için:\n\n“Bu kadar para harcayıp bu kadar az sonuç aldığım için kendimi çok aptal hissediyorum.”\n\n— Musk, Cumhuriyetçi adayları desteklemek için yaklaşık 500 milyon dolar harcamıştı.\n\n— 3 Kasım'daki ara seçimlerde Demokratlar büyük bir zafer kazandı.\n\n— En büyük harcaması Teksas'taki Senato yarışı oldu. Orada Cumhuriyetçi Ken Paxton'ı desteklemek için 220 milyon dolardan fazla para verdi, ama Paxton kaybetti.\n\n— Musk, zamanı geri alabilseydi daha az para harcayacağını söyledi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/elon-musk-tan-500-milyon-dolarlik-pismanlik-kendimi-cok-aptal-hissediyorum-2557439",
-    "Medyascope: https://medyascope.tv/2026/11/19/cumhuriyetcilere-yaklasik-500-milyon-dolar-harcayan-elon-musk-kendimi-aptal-gibi-hissediyorum/"
-   ]
-  },
   {
    "id": "71106161fa",
    "post_id": "529346797199852_1473179041588470",
@@ -13350,6 +13334,19 @@
    "sources": [
     "Karar: https://www.karar.com/teknoloji-haberleri/oyun-dunyasinda-tarihi-rekor-gta-6-ilk-24-saatte-3-79-milyar-dolar-2085392"
    ]
+  },
+  {
+   "id": "c2d4cd66f1",
+   "post_id": "529346797199852_1475340744705633",
+   "title": "Vizesiz Avrupa için yeni adım: Eksik altı kriter Meclis'e geliyor",
+   "at": "2026-11-21T06:45:39.888592+00:00",
+   "yazim": "claude",
+   "metin": "Dışişleri Bakanı Hakan Fidan, Türk vatandaşlarının vizesiz Avrupa'ya gidebilmesi için eksik kalan altı kriterin Meclis gündemine geleceğini söyledi.\n\n— Türkiye ile AB arasındaki vize serbestisi süreci 2013'te başladı ve 72 kriterin 66'sı şimdiye kadar tamamlandı.\n\n— Kalan kriterler arasında AB polis örgütü Europol ile operasyonel işbirliği anlaşması ve kişisel verilerin korunmasına ilişkin düzenlemeler bulunuyor.\n\n— Fidan, taslak çalışmanın bütçe görüşmelerinden sonra Meclis'e geleceğini belirtti.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/schengen-vizesi-icin-6-kriter-tbmm-yolunda-3496076",
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-vizesiz-avrupa-icin-yeni-adim-eksik-alti-kriter-meclise-geliyor-1751847",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/vizesiz-avrupa-meclise-geliyor-son-6-kriter-icin-mesai-43385669"
+   ]
   }
  ],
  "fails": {
@@ -13617,12 +13614,9 @@
   "298f92247a": 1,
   "5572ec7d4e": 1,
   "a99de05095": 1,
-  "a6d0d79c09": 1
+  "a6d0d79c09": 2
  },
  "fail_log": [
-  "2026-11-21T03:57 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
-  "2026-11-21T03:57 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
-  "2026-11-21T03:57 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T03:57 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
   "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
@@ -13659,7 +13653,10 @@
   "2026-11-21T06:01 2026 Ballon d'Or ödülünün sahibi Harry Kane, milli ara sonra -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-21T06:33 FBI'ın suç veritabanına sızıldı iddiası: Güvenlik ihlali sor -> ValueError: yanıt okunamadı",
   "2026-11-21T06:33 FBI'ın suç veritabanına sızıldı iddiası: Güvenlik ihlali sor -> ValueError: yanıt okunamadı",
-  "2026-11-21T06:33 FBI'ın suç veritabanına sızıldı iddiası: Güvenlik ihlali sor -> ValueError: yanıt okunamadı"
+  "2026-11-21T06:33 FBI'ın suç veritabanına sızıldı iddiası: Güvenlik ihlali sor -> ValueError: yanıt okunamadı",
+  "2026-11-21T06:45 FBI'ın suç veritabanına sızıldı iddiası: Güvenlik ihlali sor -> ValueError: yanıt okunamadı",
+  "2026-11-21T06:45 FBI'ın suç veritabanına sızıldı iddiası: Güvenlik ihlali sor -> ValueError: yanıt okunamadı",
+  "2026-11-21T06:45 FBI'ın suç veritabanına sızıldı iddiası: Güvenlik ihlali sor -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
