@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bağda",
-    "fahiş",
-    "fren",
-    "hakka",
-    "zamma",
-    "öğren"
-   ],
-   "tok": [
-    "artış",
-    "bağda",
-    "başde",
-    "belir",
-    "bin",
-    "buldu",
-    "den",
-    "denet",
-    "fahiş",
-    "fren",
-    "gençl",
-    "geçen",
-    "hakka",
-    "hesab",
-    "kamu",
-    "kamud",
-    "konak",
-    "lük",
-    "makul",
-    "sektö",
-    "seviy",
-    "takıl",
-    "tüfe",
-    "uyarı",
-    "yurdu",
-    "yüzde",
-    "zam",
-    "zamma",
-    "zammı",
-    "çek",
-    "çekil",
-    "çıkan",
-    "çıktı",
-    "ölçüd",
-    "ölçüy",
-    "özel",
-    "öğren",
-    "ücret",
-    "üzeri"
-   ],
-   "at": "2026-11-20T02:41:52.494742+00:00"
-  },
-  {
-   "fp": [
     "hakla",
     "var",
     "yok"
@@ -10724,23 +10672,46 @@
     "çarpt"
    ],
    "at": "2026-11-21T14:38:53.746593+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "göçük",
+    "güngö",
+    "işçi",
+    "kaldı",
+    "kayma",
+    "kazıs",
+    "temel",
+    "topra"
+   ],
+   "tok": [
+    "altın",
+    "başla",
+    "bölge",
+    "ekip",
+    "ekipl",
+    "geldi",
+    "göçük",
+    "güngö",
+    "işçi",
+    "işçiy",
+    "kaldı",
+    "kayma",
+    "kazıs",
+    "meyda",
+    "sayıd",
+    "sıras",
+    "temel",
+    "topra",
+    "yönel",
+    "çalış",
+    "çıkar"
+   ],
+   "at": "2026-11-21T14:51:27.466981+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f8a283ae2f",
-   "post_id": "529346797199852_1473581591548215",
-   "title": "Şanlıurfa'da yolcu minibüsü şarampole devrildi: 2'si ağır 24 yaralı",
-   "at": "2026-11-19T14:45:24.035007+00:00",
-   "yazim": "claude",
-   "metin": "Şanlıurfa'da yolcu minibüsü şarampole devrildi, 24 kişi yaralandı.\n\n— Kazada aralarında çocukların da bulunduğu 24 kişi yaralandı.\n— İhbar üzerine sağlık, itfaiye ve jandarma ekipleri bölgeye gönderildi.\n— Yaralılar ambulanslarla Siverek Devlet Hastanesi'ne kaldırıldı.\n— Yaralılardan 2'sinin durumunun ağır olduğu öğrenildi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/sanliurfada-yolcu-minibusu-devrildi-24-yarali-963847.html",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/sanliurfa/sanliurfada-devrilen-yolcu-minibusundeki-24-kisi-yaralandi-3495475",
-    "Sözcü: https://www.sozcu.com.tr/sanliurfada-yolcu-minibusu-sarampole-devrildi-2si-agir-24-yarali-p382819",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/sanliurfada-yolcu-minibusu-sarampole-devrildi-24-yarali-4874506"
-   ]
-  },
   {
    "id": "db47c528f4",
    "post_id": "529346797199852_1473591994880508",
@@ -13325,6 +13296,21 @@
     "Medyascope: https://medyascope.tv/2026/11/21/yavastan-imamoglu-sorusuna-yanit-buraya-park-acilisina-geldik/",
     "BirGün: https://www.birgun.net/haber/mansur-yavas-imamoglu-na-siyasi-yasak-sorusuna-yanit-vermedi-biz-buraya-park-acilisina-geldik-747674"
    ]
+  },
+  {
+   "id": "08ebf4b15e",
+   "post_id": "529346797199852_1475756351330739",
+   "title": "Temel kazısında toprak kayması. Bir işçi toprak altında kaldı",
+   "at": "2026-11-21T14:51:27.466981+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Güngören'de temel kazısında toprak kayması oldu, bir işçi toprak altında kaldı.\n\n— Bölgeye çok sayıda ekip yöneldi, ekipler işçiyi çıkarmak için çalışmaya başladı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/gungorende-temel-kazisinda-gocuk-bir-isci-toprak-altinda-kaldi-7705182",
+    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-gungorende-temel-kazisinda-gocuk-3496254",
+    "NTV: https://www.ntv.com.tr/turkiye/temel-kazisinda-toprak-kaymasi-bir-isci-toprak-altinda-kaldi-1751946",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/gungorende-temel-kazisinda-toprak-kaymasi-1-isci-toprak-altinda-kaldi-4875247",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/gungorende-temel-kazisinda-gocuk-bir-isci-toprak-altinda-kaldi-7705182"
+   ]
   }
  ],
  "fails": {
@@ -13642,7 +13628,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124140981205586131",
+   "since_id": "2124151549970571271",
    "started": true
   },
   "ajansmuhbir1923": {
