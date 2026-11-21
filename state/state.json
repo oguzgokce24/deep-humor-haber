@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "25",
-    "cezas",
-    "eşits",
-    "kadın",
-    "kalma",
-    "karşı",
-    "kasım",
-    "sessi",
-    "sokak",
-    "önces"
-   ],
-   "tok": [
-    "basın",
-    "besle",
-    "büyüt",
-    "cezas",
-    "dayan",
-    "dönül",
-    "dönüş",
-    "emekç",
-    "erkek",
-    "eşits",
-    "göste",
-    "günü",
-    "hafta",
-    "izmir",
-    "kadın",
-    "kalma",
-    "kalın",
-    "kapsa",
-    "karşı",
-    "kasım",
-    "mücad",
-    "polit",
-    "sağlı",
-    "sessi",
-    "sokak",
-    "sokağ",
-    "sözle",
-    "tepki",
-    "ulusl",
-    "vurgu",
-    "yapıl",
-    "yoksu",
-    "yönel",
-    "çağrı",
-    "çıkıy",
-    "önces",
-    "örgüt",
-    "şidde"
-   ],
-   "at": "2026-11-20T03:25:08.986926+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "benze",
     "biyol",
@@ -13528,19 +13473,11 @@
   "ab10cffbe4": 1,
   "4d543d6c17": 1,
   "0c91adccc2": 1,
-  "cd04abdfd2": 1,
-  "81f4b9616a": 1
+  "cd04abdfd2": 2,
+  "81f4b9616a": 2,
+  "08f3792530": 1
  },
  "fail_log": [
-  "2026-11-21T04:45 Dengeleri sarsılan AKP'de değişim arayışı -> ValueError: yanıt okunamadı",
-  "2026-11-21T05:32 Bakırhan'dan 'süreç komisyonu' tepkisi: 'Özel'in bu kararını -> ValueError: cümle yarım kalmış: '— Fon soruş'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-21T05:57 FBI bünyesinde bulunan ve ABD genelindeki suç kayıtları ile  -> ValueError: yanıt okunamadı",
-  "2026-11-21T05:57 FBI bünyesinde bulunan ve ABD genelindeki suç kayıtları ile  -> ValueError: yanıt okunamadı",
-  "2026-11-21T05:57 FBI bünyesinde bulunan ve ABD genelindeki suç kayıtları ile  -> ValueError: yanıt okunamadı",
-  "2026-11-21T05:57 Bir süredir lodos etkisiyle bahar havasının yaşandığı İstanb -> ValueError: yanıt okunamadı",
-  "2026-11-21T05:57 Ahmet Hakan: AK Parti'nin büyük fon atağı -> ValueError: yanıt okunamadı",
-  "2026-11-21T05:57 Ahmet Hakan: AK Parti'nin büyük fon atağı -> ValueError: yanıt okunamadı",
-  "2026-11-21T05:57 Ahmet Hakan: AK Parti'nin büyük fon atağı -> ValueError: yanıt okunamadı",
   "2026-11-21T06:01 2026 Ballon d'Or ödülünün sahibi Harry Kane, milli ara sonra -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-21T06:01 2026 Ballon d'Or ödülünün sahibi Harry Kane, milli ara sonra -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-21T06:33 FBI'ın suç veritabanına sızıldı iddiası: Güvenlik ihlali sor -> ValueError: yanıt okunamadı",
@@ -13571,12 +13508,21 @@
   "2026-11-21T15:15 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
   "2026-11-21T15:15 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
   "2026-11-21T15:15 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:15 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı"
+  "2026-11-21T15:15 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
+  "2026-11-21T15:28 Birkaç ay önce \"Polis teşkilatını hiç bir zaman sevmedim” sö -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-21T15:28 Birkaç ay önce \"Polis teşkilatını hiç bir zaman sevmedim” sö -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-21T15:28 Birkaç ay önce \"Polis teşkilatını hiç bir zaman sevmedim” sö -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-21T15:28 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
+  "2026-11-21T15:28 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
+  "2026-11-21T15:28 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
+  "2026-11-21T15:28 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
+  "2026-11-21T15:28 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
+  "2026-11-21T15:28 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124156877227405352",
+   "since_id": "2124160775204036618",
    "started": true
   },
   "ajansmuhbir1923": {
