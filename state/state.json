@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "24",
-    "devri",
-    "minib",
-    "yaral",
-    "yolcu",
-    "şanlı",
-    "şaram"
-   ],
-   "tok": [
-    "ambul",
-    "arala",
-    "ağır",
-    "bulun",
-    "bölge",
-    "devle",
-    "devri",
-    "durum",
-    "ekipl",
-    "gönde",
-    "hasta",
-    "ihbar",
-    "ilçes",
-    "itfai",
-    "kaldı",
-    "minib",
-    "nın",
-    "sağlı",
-    "sinin",
-    "siver",
-    "yolcu",
-    "çocuk",
-    "öğren",
-    "şanlı",
-    "şaram"
-   ],
-   "at": "2026-11-19T14:45:24.035007+00:00"
-  },
-  {
-   "fp": [
     "alınd",
     "ateş",
     "açan",
@@ -10806,20 +10767,62 @@
     "şirke"
    ],
    "at": "2026-11-21T02:42:49.711190+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "73",
+    "akran",
+    "koydu",
+    "ortay",
+    "siber",
+    "tüik",
+    "uğruy",
+    "veril",
+    "yüzde",
+    "zorba",
+    "çocuk"
+   ],
+   "tok": [
+    "akran",
+    "araşt",
+    "belir",
+    "dünya",
+    "eğiti",
+    "faili",
+    "geliy",
+    "grubu",
+    "göre",
+    "günü",
+    "hakla",
+    "ise",
+    "işçil",
+    "kalır",
+    "kalıy",
+    "kasım",
+    "koydu",
+    "maruz",
+    "nde",
+    "oluyo",
+    "ortay",
+    "sen",
+    "siber",
+    "ttb",
+    "tüik",
+    "uğruy",
+    "veril",
+    "yapan",
+    "yaş",
+    "yoksu",
+    "yüzde",
+    "zorba",
+    "çağrı",
+    "çocuk"
+   ],
+   "at": "2026-11-21T02:55:16.943586+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0fdc136517",
-   "post_id": "529346797199852_1473022031604171",
-   "title": "Ağır hak ihlali faturası: 630,6 milyon TL’lik tazminat",
-   "at": "2026-11-19T02:06:03.129640+00:00",
-   "yazim": "claude",
-   "metin": "Anayasa Mahkemesi'nin hak ihlali kararı verdiği bireysel başvurularda, bütçeden yapılan tazminat ödemeleri Ocak-Ekim 2026 döneminde 630,6 milyon TL'ye ulaştı.\n\n— Bu ödemeler, AYM'de temel hakları ihlal edildiği tespit edilen dosyalarda kişilere hükmedilen tazminatlardan oluşuyor.\n— Bireysel başvuru, kişilerin temel haklarının ihlal edildiğini düşünmesi halinde AYM'ye doğrudan gidebildiği yol.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/agir-hak-ihlali-faturasi-630-6-milyon-tllik-tazminat-747214"
-   ]
-  },
   {
    "id": "0d60941153",
    "post_id": "529346797199852_1473030358270005",
@@ -13437,6 +13440,17 @@
    "metin": "Elektrik dağıtım şirketleri, Ocak-Ekim 2026 döneminde kamu bütçesinden 17,8 milyar TL aldı.\n\n— Bu ödeme, sokak ve caddelerin aydınlatması karşılığında yapıldı.\n— Resmi verilere göre aynı dönemde 1,8 milyon hane elektrik faturasını ödeyemedi.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/ozellestirme-butceyi-karartti-elektrik-sirketlerine-17-8-milyar-tl-747538"
+   ]
+  },
+  {
+   "id": "faa9a76788",
+   "post_id": "529346797199852_1475181761388198",
+   "title": "TÜİK verileri ortaya koydu: Çocukların yüzde 73,3’ü akranlarının siber zorbalığına uğruyor",
+   "at": "2026-11-21T02:55:16.943586+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'de çocukların yüzde 10,2'si siber zorbalığa maruz kalıyor.\n\n— 11-17 yaş grubunda siber zorbalığı yapanların yüzde 73,3'ü akranları oluyor.\n— Veriler TÜİK'in 2026 araştırmasından geliyor.\n— 20 Kasım Dünya Çocuk Hakları Günü'nde Eğitim Sen, Eğitim-İş ve TTB, çocuk yoksulluğu ve işçiliğine son verilmesi çağrısı yaptı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/tuik-verileri-ortaya-koydu-cocuklarin-yuzde-73-3u-akranlarinin-siber-zorbaligina-ugruyor-747537"
    ]
   }
  ],
