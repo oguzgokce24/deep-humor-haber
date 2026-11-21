@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "avuka",
-    "aym",
-    "ağıre",
-    "başvu",
-    "murat"
-   ],
-   "tok": [
-    "anaya",
-    "ancak",
-    "ardın",
-    "aslan",
-    "asliy",
-    "avuka",
-    "aym",
-    "ağıre",
-    "basın",
-    "başv",
-    "başvu",
-    "birey",
-    "bugün",
-    "bulun",
-    "ceza",
-    "den",
-    "dün",
-    "edild",
-    "edilm",
-    "gazet",
-    "geliş",
-    "hürri",
-    "ifade",
-    "ihlal",
-    "ilişk",
-    "istiy",
-    "itira",
-    "kasım",
-    "kesin",
-    "murat",
-    "neden",
-    "nitel",
-    "olağa",
-    "olduğ",
-    "oğuzh",
-    "redde",
-    "savun",
-    "sağla",
-    "tahli",
-    "talep",
-    "tarih",
-    "tebli",
-    "tedbi",
-    "tüken",
-    "veril",
-    "yazar",
-    "yolla",
-    "yönel",
-    "özgür",
-    "şekil"
-   ],
-   "at": "2026-11-19T15:23:25.943736+00:00"
-  },
-  {
-   "fp": [
     "8",
     "başsa",
     "davas",
@@ -10787,20 +10725,62 @@
     "çıktı"
    ],
    "at": "2026-11-21T03:20:27.113994+00:00"
+  },
+  {
+   "fp": [
+    "binle",
+    "bütçe",
+    "gelec",
+    "gençl",
+    "karşı",
+    "kıtay",
+    "sardı",
+    "savaş",
+    "sokak",
+    "öfkes"
+   ],
+   "tok": [
+    "alman",
+    "avrup",
+    "başla",
+    "binle",
+    "boyko",
+    "bütçe",
+    "dan",
+    "ders",
+    "dersl",
+    "gelec",
+    "genç",
+    "gençl",
+    "grev",
+    "grevl",
+    "ingil",
+    "ispan",
+    "isyan",
+    "italy",
+    "karşı",
+    "kemer",
+    "kentt",
+    "kıtay",
+    "neoli",
+    "otori",
+    "polit",
+    "prote",
+    "sardı",
+    "savaş",
+    "sokak",
+    "sıkma",
+    "taşıd",
+    "yapıl",
+    "yüzle",
+    "çıkıy",
+    "öfkes",
+    "öfkey"
+   ],
+   "at": "2026-11-21T03:31:36.846585+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5828e68328",
-   "post_id": "529346797199852_1473047541601620",
-   "title": "İstanbul'un üçte birinde aynı ilin kütüğü var: İşte 39 ilçenin nüfus haritası",
-   "at": "2026-11-19T02:44:16.678172+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un 39 ilçesinin 11'inde en çok nüfusa kayıtlı il Sivas.\n\nTÜİK'in 2025 verilerine göre hazırlanan haritada İstanbul'un ilçelerinde toplam 15 farklı il birinci çıktı. Sivas, hem Avrupa hem Asya Yakası'nda öne çıktı.\n\n— Sivas 11 ilçede birinci: Beşiktaş, Beylikdüzü, Kağıthane, Sarıyer, Şişli, Ataşehir, Çekmeköy, Maltepe, Pendik, Şile ve Ümraniye.\n— Malatya, Tokat ve Giresun dörder ilçede birinci oldu.\n— Mardin üç ilçede, Erzurum ise iki ilçede zirvede yer aldı.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/istanbulda-en-cok-hangi-memleketli-var-istanbulun-ilcelerinde-en-cok-2084983"
-   ]
-  },
   {
    "id": "d0a02f4bb8",
    "post_id": "529346797199852_1473054221600952",
@@ -13419,6 +13399,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/diyanet-te-degismeyen-gelenek-14-ayda-25-yurt-disi-747541"
    ]
+  },
+  {
+   "id": "27f4ec6e41",
+   "post_id": "529346797199852_1475206524719055",
+   "title": "Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve geleceksizliğe karşı sokakta",
+   "at": "2026-11-21T03:31:36.846585+00:00",
+   "yazim": "claude",
+   "metin": "Avrupa'da gençler savaş bütçelerine ve geleceksizliğe karşı sokakta.\n\nAlmanya'dan İtalya'ya, İspanya'dan İngiltere'ye yüzlerce kentte gençler dersleri boykot etti ve grev yaptı.\n\n— Protestocular kemer sıkma politikalarına, otoriterleşmeye ve savaş bütçelerine karşı çıkıyor.\n— Binlerce genç, bu öfkeyi sokaklara taşıdı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/gencligin-ofkesi-kitayi-sardi-binler-savas-butcelerine-ve-geleceksizlige-karsi-sokakta-747548"
+   ]
   }
  ],
  "fails": {
@@ -13683,8 +13674,6 @@
  },
  "fail_log": [
   "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
   "2026-11-20T23:02 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
   "2026-11-20T23:02 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-20T23:15 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
@@ -13721,7 +13710,9 @@
   "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
   "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
   "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
-  "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı"
+  "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:31 Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve g -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:31 Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve g -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
