@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "4",
-    "eyüps",
-    "iett",
-    "otobü",
-    "yaral",
-    "çarpı"
-   ],
-   "tok": [
-    "ambul",
-    "arkad",
-    "başla",
-    "birbi",
-    "cadde",
-    "durağ",
-    "durum",
-    "ekipl",
-    "eyüps",
-    "farkl",
-    "gelen",
-    "girdi",
-    "hasta",
-    "iett",
-    "ilgil",
-    "ilçes",
-    "incel",
-    "iyi",
-    "kaldı",
-    "kazay",
-    "nde",
-    "olay",
-    "otobü",
-    "sağlı",
-    "sevk",
-    "silah",
-    "sonuc",
-    "yanaş",
-    "yerin",
-    "yolcu",
-    "çarpm",
-    "çarpt",
-    "çarpı",
-    "öğren",
-    "şoför"
-   ],
-   "at": "2026-11-20T11:31:19.265521+00:00"
-  },
-  {
-   "fp": [
     "arsla",
     "ağırl",
     "başak",
@@ -11146,21 +11097,68 @@
     "önünd"
    ],
    "at": "2026-11-21T23:22:00.634206+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "acil",
+    "bahçe",
+    "kavga",
+    "konya",
+    "servi",
+    "silah",
+    "yaral"
+   ],
+   "tok": [
+    "acil",
+    "arası",
+    "ardın",
+    "ateş",
+    "açtı",
+    "bahçe",
+    "başla",
+    "belir",
+    "bilin",
+    "birbi",
+    "biri",
+    "büyüd",
+    "bıçak",
+    "ekipl",
+    "grup",
+    "grupl",
+    "grupt",
+    "görev",
+    "hasta",
+    "ilgil",
+    "kavga",
+    "kimli",
+    "konya",
+    "mahal",
+    "müdah",
+    "nde",
+    "neden",
+    "numun",
+    "olayl",
+    "sayıd",
+    "sedye",
+    "servi",
+    "sevk",
+    "sila",
+    "silah",
+    "sürdü",
+    "taban",
+    "tartı",
+    "tatlı",
+    "taşın",
+    "topla",
+    "var",
+    "yakın",
+    "yaşan"
+   ],
+   "at": "2026-11-21T23:34:35.517856+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cfd48a00aa",
-   "post_id": "529346797199852_1473940168179024",
-   "title": "Fransa'da kolluk kuvvetlerine meşru müdafaa \"zırhı\" sağlayan tasarı protesto edildi",
-   "at": "2026-11-19T23:04:41.544614+00:00",
-   "yazim": "claude",
-   "metin": "Almanya Başbakanı Friedrich Merz, Rusya'ya savaşı sona erdirme ve diplomatik çözüm arayışına girme çağrısı yaptı.\n\nBerlin'de düzenlenen \"Gönüllüler Koalisyonu\" toplantısının ardından konuşan Merz, Ukrayna'ya askeri desteğin süreceğini söyledi.\n\n— Toplantı, Rusya'nın savaşı bitirmesi için baskının sürdüğünü gösterdi.\n— Ukrayna'ya destek, savaş devam ettiği sürece sürecek.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/fransada-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasari-protesto-edildi/4131590",
-    "Evrensel: https://www.evrensel.net/haber/6010329/fransa-da-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasari-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "73e647a5a3",
    "post_id": "529346797199852_1473949941511380",
@@ -13719,6 +13717,20 @@
    "sources": [
     "Euronews: https://tr.euronews.com/video/2026/11/22/lvivde-rus-fuze-ve-iha-saldirisi-arac-kamerasi-patlama-anini-kaydetti"
    ]
+  },
+  {
+   "id": "380ace1687",
+   "post_id": "529346797199852_1476156451290729",
+   "title": "Acil servis bahçesinde silahlı kavga: Yaralılar var",
+   "at": "2026-11-21T23:34:35.517856+00:00",
+   "yazim": "claude",
+   "metin": "Tatlıcak Mahallesi'nde daha önce yaşanan bıçaklı kavganın yaralılarının yakınları hastane bahçesinde birbirine ateş açtı; 3 kişi yaralandı.\n\n— Gruplar arasında bilinmeyen bir nedenle başlayan tartışma büyüdü. Ardından gruptan kimliği belirlenemeyen biri tabancayla ateş açtı.\n\n— Hastanede görevli polis ve jandarma ekipleri müdahale etti. Yaralılar acil servis görevlileri tarafından sedyelerle hastaneye taşındı.\n\n— Hastaneye çok sayıda polis sevk edildi. Olayla ilgili gözaltılar olduğu belirtildi, polis soruşturmayı sürdürüyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/konya/acil-servis-bahcesinde-silahli-kavga-3-yarali-3496361",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/konya/konya-hastane-acil-servisinin-bahcesinde-silahli-kavga-3-yarali-3496360",
+    "Sözcü: https://www.sozcu.com.tr/acil-servis-bahcesinde-silahli-kavga-yaralilar-var-p383321",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/konya-numune-hastanesi-bahcesinde-silahli-kavga-3-yarali-4875321"
+   ]
   }
  ],
  "fails": {
@@ -13999,13 +14011,9 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "2ab2c91f11": 1
+  "2ab2c91f11": 2
  },
  "fail_log": [
-  "2026-11-21T22:00 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
   "2026-11-21T22:04 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T22:04 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T22:04 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14041,7 +14049,11 @@
   "2026-11-21T23:09 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
+  "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T23:34 Acil servis bahçesinde silahlı kavga: Yaralılar var -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle"
  ],
  "x": {
   "bpthaber": {
