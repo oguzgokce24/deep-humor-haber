@@ -2,78 +2,6 @@
  "seen": [
   {
    "fp": [
-    "guy",
-    "hafta",
-    "sonu",
-    "sınav",
-    "yapıl",
-    "yds"
-   ],
-   "tok": [
-    "aday",
-    "adayl",
-    "adayı",
-    "ali",
-    "aralı",
-    "azala",
-    "bayra",
-    "başla",
-    "başvu",
-    "bildi",
-    "bin",
-    "binal",
-    "bişke",
-    "daki",
-    "dan",
-    "dil",
-    "edile",
-    "elekt",
-    "ersoy",
-    "gelir",
-    "gerçe",
-    "giril",
-    "giriş",
-    "guy",
-    "görev",
-    "günü",
-    "güven",
-    "hafta",
-    "ilan",
-    "ili",
-    "ise",
-    "katıl",
-    "kenti",
-    "kktc",
-    "kriti",
-    "kırgı",
-    "lefko",
-    "nin",
-    "olaca",
-    "pazar",
-    "saat",
-    "sahad",
-    "salon",
-    "seviy",
-    "sonu",
-    "sonuç",
-    "sıcak",
-    "sınav",
-    "takvi",
-    "tespi",
-    "topla",
-    "uzman",
-    "var",
-    "yaban",
-    "yapıl",
-    "yardı",
-    "yarın",
-    "yds",
-    "ösym"
-   ],
-   "at": "2026-11-20T08:54:08.001632+00:00"
-  },
-  {
-   "fp": [
     "adası",
     "cenaz",
     "dolab",
@@ -10930,22 +10858,83 @@
     "üreti"
    ],
    "at": "2026-11-21T20:45:14.543712+00:00"
+  },
+  {
+   "fp": [
+    "bana",
+    "büyüy",
+    "ekono",
+    "ekran",
+    "geldi",
+    "haber",
+    "iddia",
+    "kara",
+    "liste",
+    "yasağ",
+    "ünlü"
+   ],
+   "tok": [
+    "akp",
+    "alınd",
+    "anda",
+    "anlat",
+    "ardın",
+    "ataba",
+    "bana",
+    "başak",
+    "bildi",
+    "bloom",
+    "bulun",
+    "büyüy",
+    "dan",
+    "dikka",
+    "doğru",
+    "ekono",
+    "ekran",
+    "eleşt",
+    "engel",
+    "eski",
+    "geldi",
+    "gelir",
+    "geçme",
+    "gitme",
+    "gönde",
+    "gülde",
+    "haber",
+    "hüküm",
+    "iddia",
+    "isiml",
+    "isten",
+    "kara",
+    "katıl",
+    "kayyu",
+    "kayyı",
+    "liste",
+    "masak",
+    "ocak",
+    "parti",
+    "polit",
+    "progr",
+    "ramaz",
+    "süren",
+    "vardı",
+    "yardı",
+    "yasağ",
+    "yayın",
+    "yola",
+    "yönet",
+    "çeken",
+    "çıkar",
+    "çıktı",
+    "çıkış",
+    "öne",
+    "ünlü",
+    "üzere"
+   ],
+   "at": "2026-11-21T20:58:03.124305+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8902343ad9",
-   "post_id": "529346797199852_1473877724851935",
-   "title": "Anthropic'in halka arzında piyasa değeri 2 trilyon dolara yaklaştı",
-   "at": "2026-11-19T21:21:37.214275+00:00",
-   "yazim": "claude",
-   "metin": "Claude'un yapımcısı Anthropic, Nasdaq'ta işlem görmeye başladı ve ilk günde piyasa değeri 2 trilyon doları aştı.\n\n— Hisse, 83 dolarlık halka arz fiyatının üzerinde, 111,5 dolardan açıldı.\n\n— Şirket halka arzla 81,3 milyar dolar kaynak topladı. Bu rakam, SpaceX'in 75 milyar dolarlık halka arzını geride bırakarak tüm zamanların en büyük halka arzı oldu.\n\n— Anthropic şu an zarar eden bir şirket. Dokuz aylık dönemde geliri 33 milyar dolara ulaşırken net zararı 104 milyar dolara yükseldi.\n\n— Fiyat işlemin ilerleyen saatlerinde geriledi ve hisse 97,15 dolara kadar düştü.",
-   "sources": [
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/cqx28d4p72l4o?at_medium=RSS&at_campaign=rss",
-    "Diken: https://www.diken.com.tr/anthropicin-piyasa-degeri-ilk-islem-gununde-2-trilyon-dolari-asti/?utm_source=rss&utm_medium=rss&utm_campaign=anthropicin-piyasa-degeri-ilk-islem-gununde-2-trilyon-dolari-asti",
-    "BPT (X): https://x.com/bpthaber/status/2123527009800245248"
-   ]
-  },
   {
    "id": "180562f9aa",
    "post_id": "529346797199852_1473885478184493",
@@ -13513,6 +13502,17 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6010621/kyr-tekstil-ve-tabu-tekstil-iscileri-alacaklarini-istedi-patronlar-iscinin-parasini-odememeyi-aliskanlik-haline-getirmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "72c6ccb1ed",
+   "post_id": "529346797199852_1476060541300320",
+   "title": "Habertürk'te 'kara liste' iddiası büyüyor! Ünlü ekonomist: Bana da ekran yasağı geldi",
+   "at": "2026-11-21T20:58:03.124305+00:00",
+   "yazim": "claude",
+   "metin": "Güldem Atabay, Habertürk için:\n\n“Kayyımdan çok önce de Habertürk'ün bir 'kara listesi' vardır. Doğrudan AKP-Ankara'dan gelir.”\n\n— Atabay, 2019'da AK Parti hükümetinin ekonomi politikalarını eleştirdiği için BloombergHT ve Habertürk'te yayınlara çıkarılmak istenmeyen isimler listesine alındığını söyledi.\n\n— Eski MASAK Başkan Yardımcısı Ramazan Başak da 17 Ocak'ta programa gitmek üzere yola çıktıktan sonra yayına çıkarılmayacağının bildirildiğini anlatmıştı.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/haberturkte-kara-liste-iddiasi-buyuyor-unlu-ekonomist-bana-da-ekran-2085509"
+   ]
   }
  ],
  "fails": {
@@ -13791,12 +13791,10 @@
   "8b731f8542": 1,
   "3b9d10236e": 1,
   "722754f634": 1,
-  "55da2c7781": 1
+  "55da2c7781": 1,
+  "b56c836e60": 1
  },
  "fail_log": [
-  "2026-11-21T14:01 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:15 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:15 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
   "2026-11-21T15:15 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
   "2026-11-21T15:15 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
   "2026-11-21T15:15 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
@@ -13833,12 +13831,15 @@
   "2026-11-21T20:45 2026 yılında en çok kullanılan parola \"123456\" oldu. -> ValueError: yanıt okunamadı",
   "2026-11-21T20:45 2026 yılında en çok kullanılan parola \"123456\" oldu. -> ValueError: yanıt okunamadı",
   "2026-11-21T20:45 2026 yılında en çok kullanılan parola \"123456\" oldu. -> ValueError: yanıt okunamadı",
-  "2026-11-21T20:45 KYR Tekstil ve TABU Tekstil işçileri alacaklarını istedi: Pa -> ValueError: cümle yarım kalmış: 'ni belirterek Zara ve Öz Tekstil'i de al'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-21T20:45 KYR Tekstil ve TABU Tekstil işçileri alacaklarını istedi: Pa -> ValueError: cümle yarım kalmış: 'ni belirterek Zara ve Öz Tekstil'i de al'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-21T20:58 Yıldıray Oğur, Nihal Bengisu Karaca ile “Bir Başkadır”ı konu -> ValueError: yanıt okunamadı",
+  "2026-11-21T20:58 Yıldıray Oğur, Nihal Bengisu Karaca ile “Bir Başkadır”ı konu -> ValueError: yanıt okunamadı",
+  "2026-11-21T20:58 Yıldıray Oğur, Nihal Bengisu Karaca ile “Bir Başkadır”ı konu -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124241839951900789",
+   "since_id": "2124245146057527805",
    "started": true
   },
   "ajansmuhbir1923": {
