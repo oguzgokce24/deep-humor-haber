@@ -79,6 +79,8 @@ BİÇİM:
 - Makam unvanlarının önüne parti adı EKLEME: "AKP'li Cumhurbaşkanı Erdoğan" değil "Cumhurbaşkanı Erdoğan",
   "AKP'li Bakan X" değil "Bakan X" ya da "… Bakanı X". Kaynak böyle yazsa bile resmi unvanı kullan.
 - Yer adlarında HER ZAMAN resmi il/ilçe adını kullan: "Dersim" değil "Tunceli", "Amed" değil "Diyarbakır".
+- SADECE "###" başlığında verilen olayı yaz. Kaynak metnin sonunda sitenin başka haberleri de (hava durumu, başka
+  ülkeler, başka kişiler) yer alabilir; başlıktaki olayla ilgisi olmayan her şeyi YOK SAY.
 - İLK CÜMLE kendi başına anlaşılmalı: olayın NE olduğunu ve varsa NEREDE (il/ilçe) olduğunu söyle.
   Örnek: "Çanakkale'nin Çan ilçesinde TIR ile çarpışan otomobil alev aldı, araçtaki 2 kişi hayatını kaybetti."
   Neyi kastettiği belli olmayan girişlerle BAŞLAMA: "Kazanın ardından", "Olayın ardından", "Açıklamanın ardından",
@@ -136,6 +138,11 @@ def _article_text(url: str, limit: int = 3500) -> str:
         for p in paras:
             t = html.unescape(re.sub(r"<[^>]+>", " ", p))
             t = re.sub(r"\s+", " ", t).strip()
+            # Haberin bittiği yer: sitenin tanıtım/abonelik yazısı ya da altta yüklenen başka haberler
+            if re.search(r"(?i)emeğin sesi|gücünü sadece okurlarından|google'da tercih edilen|içerik yükleniyor|"
+                         r"ilgili haberler|diğer haberler|bunlar da ilginizi|okumaya devam|sonraki haber|"
+                         r"app store'dan indir|abone olun|haberin devamı için", t) and out:
+                break
             if len(t) > 40 and not re.search(r"(?i)çerez|cookie|abone ol|tüm hakları|kvkk", t):
                 out.append(t)
         return "\n".join(out)[:limit]
@@ -345,6 +352,16 @@ def _check_place(w: dict):
                          "'Çankaya'da') ilk cümleye ekle")
 
 
+def _check_topic(w: dict, cluster):
+    """Yazılan metin, kümedeki haber başlıklarıyla aynı olayı anlatmalı (başka bir haberi yazmasın)."""
+    from dh.verify import tokens, _strong
+    title_tok = {t for i in cluster.items for t in tokens(i.title) if _strong(t)}
+    text_tok = {t for t in tokens(re.sub(r"\*\*", "", w["text"])) if _strong(t)}
+    if len(title_tok) >= 3 and len(title_tok & text_tok) < 2:
+        raise ValueError("metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki "
+                         "diğer haberleri yok say")
+
+
 def write(cluster, model: str, log=print) -> dict | None:
     """Anahtar varsa metni Claude yazar. Reddedilen yanıt, ret nedeniyle birlikte tekrar yazdırılır (3 deneme).
     Yine olmazsa, temiz bir yedek metin kuralları geçiyorsa o kullanılır; geçmiyorsa haber bu tur atlanır."""
@@ -361,6 +378,7 @@ def write(cluster, model: str, log=print) -> dict | None:
         try:
             w = _call_claude(src, model, key, feedback)
             _check_place(w)
+            _check_topic(w, cluster)
             return w
         except SkipStory as e:
             LAST_ERRORS.append(f"{cluster.lead().title[:60]} -> ATLANDI: {e}")
