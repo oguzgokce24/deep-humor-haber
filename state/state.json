@@ -10784,20 +10784,111 @@
     "yer"
    ],
    "at": "2026-11-21T01:34:52.368054+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "7",
+    "büyük",
+    "depre",
+    "peru"
+   ],
+   "tok": [
+    "büyük",
+    "depre",
+    "geldi",
+    "meyda",
+    "peru"
+   ],
+   "at": "2026-11-21T01:47:26.600635+00:00"
+  },
+  {
+   "fp": [
+    "580",
+    "arazi",
+    "bin",
+    "eski",
+    "fakül",
+    "kira",
+    "konut",
+    "lüks",
+    "marma",
+    "nin",
+    "yerin",
+    "ünive"
+   ],
+   "tok": [
+    "alanı",
+    "arazi",
+    "asgar",
+    "aylık",
+    "aylığ",
+    "açtı",
+    "açıld",
+    "bin",
+    "birim",
+    "bulun",
+    "burad",
+    "daire",
+    "dap",
+    "depre",
+    "devre",
+    "değiş",
+    "diş",
+    "dönüm",
+    "dönüş",
+    "düşük",
+    "eltes",
+    "emekl",
+    "emlak",
+    "eski",
+    "fakül",
+    "gyo",
+    "hekim",
+    "ihale",
+    "ileti",
+    "imar",
+    "inşaa",
+    "ise",
+    "isten",
+    "istli",
+    "iştir",
+    "katı",
+    "kazan",
+    "kira",
+    "konut",
+    "koru",
+    "korun",
+    "lüks",
+    "marma",
+    "ndaki",
+    "net",
+    "nin",
+    "nişan",
+    "nun",
+    "ortak",
+    "planı",
+    "proje",
+    "ruhsa",
+    "sakin",
+    "teşvi",
+    "ticar",
+    "toki",
+    "topla",
+    "tutar",
+    "veril",
+    "yakla",
+    "yapı",
+    "yapıl",
+    "yerin",
+    "önü",
+    "ücret",
+    "ünive"
+   ],
+   "at": "2026-11-21T01:47:58.962239+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "88c69ae797",
-   "post_id": "529346797199852_1472970664942641",
-   "title": "Altan Aytaç duyurdu: Yeni FIAT Fastback ilk olarak Türkiye'de satışa çıkacak",
-   "at": "2026-11-19T00:46:51.230126+00:00",
-   "yazim": "claude",
-   "metin": "FIAT, Egea'nın üretimini 2026 itibarıyla bitiriyor; yerine aralık ayında Türkiye'de satışa çıkacak Fastback geliyor.\n\n— FIAT Türkiye Marka Direktörü Altan Aytaç, Türkiye'de 750 binden fazla satılan Egea'nın son araçlarının showroomlara ulaştığını söyledi.\n\n— Fastback'in yanında SUV modeli Grizzly de satışa sunulacak. Hedef, Fastback'i aralık ayına yetiştirmek.\n\n— Fastback'te 100 beygirlik 1.2 benzinli manuel, 145 beygirlik otomatik hibrit motor ve ilerleyen dönemde eklenecek tam elektrikli seçenek olacak.\n\n— Doblo'nun yerli üretimi 2026'da başlıyor. 2027'den itibaren Doblo ve Scudo Türkiye'de üretilecek.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/fiat-fastback-turkiyeye-ne-zaman-gelecek-fiat-fastback-fiyati-ve-2084981"
-   ]
-  },
   {
    "id": "ec0c235efe",
    "post_id": "529346797199852_1472977641608610",
@@ -13417,6 +13508,17 @@
    "sources": [
     "Karar: https://www.karar.com/spor-haberleri/galatasarayda-dev-maclar-oncesi-sakatlik-alarmi-victor-osimhen-hangi-2085380"
    ]
+  },
+  {
+   "id": "2624f51a89",
+   "post_id": "529346797199852_1475136204726087",
+   "title": "Marmara Üniversitesi'nin eski arazisine lüks konut: Fakültenin yerinde 580 bin TL kira",
+   "at": "2026-11-21T01:47:58.962239+00:00",
+   "yazim": "claude",
+   "metin": "Marmara Üniversitesi'nin Nişantaşı'ndaki eski fakülte arazisi lüks konut projesine dönüştü. Buradaki 4,5+1 bir daire için aylık 580 bin TL kira isteniyor.\n\n— Bu tutar net asgari ücretin yaklaşık 21, en düşük emekli aylığının yaklaşık 25 katı.\n— Arazi 2017'de TOKİ'ye devredildi. 2018'de imar planı değiştirilerek konut yapılmasının önü açıldı.\n— Emlak Konut GYO'nun ihalesini DAP Yapı iştiraki Eltes İnşaat ile İstlife ortaklığı kazandı.\n— Projeye 92 konut ve bir ticari birim için ruhsat verildi.\n— Teşvikiye sakinleri, arazinin deprem toplanma alanı olarak korunması için dava açtı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/marmara-universitesi-nin-eski-arazisine-luks-konut-fakultenin-yerinde-580-bin-tl-kira-2557982"
+   ]
   }
  ],
  "fails": {
@@ -13676,15 +13778,9 @@
   "300e1d13a6": 1,
   "b64656da71": 1,
   "38928bc5de": 1,
-  "6e920bd8b4": 2
+  "0765fcad53": 1
  },
  "fail_log": [
-  "2026-11-20T21:18 Siber savaşlar gün yüzüne çıkıyor: Britanya dört ülkeyi hede -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-20T21:44 Vladimir Putin: — Moskova, Üçüncü Roma'dır. Dördüncü olmayac -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:07 Barış Falay: “Medcezir dizisinin yeniden çekilmesi kolay değ -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:07 Barış Falay: “Medcezir dizisinin yeniden çekilmesi kolay değ -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-20T22:07 Barış Falay: “Medcezir dizisinin yeniden çekilmesi kolay değ -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-20T22:07 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
@@ -13718,7 +13814,13 @@
   "2026-11-21T01:34 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
   "2026-11-21T01:34 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
   "2026-11-21T01:34 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
-  "2026-11-21T01:34 Galatasaray'da dev maçlar öncesi sakatlık alarmı: Victor Osi -> ValueError: yanıt okunamadı"
+  "2026-11-21T01:34 Galatasaray'da dev maçlar öncesi sakatlık alarmı: Victor Osi -> ValueError: yanıt okunamadı",
+  "2026-11-21T01:48 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
+  "2026-11-21T01:48 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
+  "2026-11-21T01:48 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
+  "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: yanıt okunamadı",
+  "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
