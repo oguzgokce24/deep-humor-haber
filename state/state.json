@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "29",
-    "adım",
-    "ardın",
-    "arı",
-    "atmay",
-    "beraa",
-    "birgü",
-    "geri",
-    "günlü",
-    "ismai",
-    "muhab",
-    "tutuk"
-   ],
-   "tok": [
-    "adım",
-    "araya",
-    "ardın",
-    "arı",
-    "atmay",
-    "beraa",
-    "birgü",
-    "biz",
-    "cezae",
-    "değil",
-    "duruş",
-    "ebube",
-    "edere",
-    "eski",
-    "gazet",
-    "geldi",
-    "gelen",
-    "geri",
-    "gün",
-    "günlü",
-    "ismai",
-    "kaldı",
-    "mes",
-    "mesle",
-    "muhab",
-    "nden",
-    "rtük",
-    "sinca",
-    "suç",
-    "suçla",
-    "tahli",
-    "vazge",
-    "yapma",
-    "çıktı",
-    "çıkın",
-    "çıkış",
-    "örgüt",
-    "şahin",
-    "şikây"
-   ],
-   "at": "2026-11-20T02:16:20.428902+00:00"
-  },
-  {
-   "fp": [
     "5",
     "6",
     "dosya",
@@ -10699,20 +10641,77 @@
     "önces"
    ],
    "at": "2026-11-21T14:13:35.892497+00:00"
+  },
+  {
+   "fp": [
+    "ataer",
+    "atama",
+    "düzey",
+    "genel",
+    "kayyı",
+    "kazım",
+    "sözcü",
+    "yayın",
+    "yönet",
+    "üst"
+   ],
+   "tok": [
+    "aldı",
+    "anlaş",
+    "aralı",
+    "ardın",
+    "ataer",
+    "atama",
+    "atana",
+    "atanm",
+    "ayrıl",
+    "ayını",
+    "başla",
+    "başın",
+    "bekle",
+    "com",
+    "deki",
+    "deste",
+    "değiş",
+    "düzey",
+    "ercüm",
+    "genel",
+    "gerçe",
+    "getir",
+    "geçen",
+    "görev",
+    "hakan",
+    "hasta",
+    "inter",
+    "isim",
+    "işley",
+    "kabul",
+    "kalma",
+    "kasım",
+    "kayyu",
+    "kayyı",
+    "kazım",
+    "müdür",
+    "nin",
+    "ntv",
+    "nün",
+    "olaca",
+    "olmak",
+    "oluyo",
+    "oluşm",
+    "sites",
+    "sonra",
+    "sonun",
+    "sözcü",
+    "yayın",
+    "yönet",
+    "öğren",
+    "üst"
+   ],
+   "at": "2026-11-21T14:26:16.904992+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "13a4eb1a96",
-   "post_id": "529346797199852_1473560338217007",
-   "title": "Gazeteci İsmail Arı cezaevi çıkışında konuştu: Hayatımdan 31 gün çalındı, 22 gün yerde yattım",
-   "at": "2026-11-19T14:20:31.150260+00:00",
-   "yazim": "claude",
-   "metin": "Gazeteci İsmail Arı, cezaevinden tahliye edildikten sonra:\n\n“Emniyetteki gözaltı gecesini de sayarsak hayatımdan 31 gün boşu boşuna çalınmış oldu.”\n\n“Mahkemede de söyledim; gazetecilik suç değildir.”\n\n— Ankara'da gazetecilik faaliyetleri nedeniyle yaklaşık bir aydır tutuklu bulunan Arı, ilk duruşmada beraat ederek tahliye edildi.\n— Cumhuriyet Savcısı, suçun unsurlarının oluşmadığı yönünde mütalaa verdi.\n— Arı, Sincan Cezaevi'ndeki koğuşların 28 kişilik kapasiteye karşılık 60 ila 80 tutuklu barındırdığını ve yerde yattığını anlattı.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/gazeteci-ismail-ari-cezaevi-cikisinda-konustu-hayatimdan-31-gun-calindi-2085128"
-   ]
-  },
   {
    "id": "4922dc3484",
    "post_id": "529346797199852_1473570904882617",
@@ -13299,6 +13298,20 @@
    "sources": [
     "Habertürk: https://www.haberturk.com/magazin/killa-hakan-in-saglik-durumuyla-ilgili-aciklama-3929033",
     "Karar: https://www.karar.com/hayat-haberleri/set-kazasi-sonrasi-ameliyata-alindi-boran-kuzum-saglik-durumunu-acikladi-2085442"
+   ]
+  },
+  {
+   "id": "04cd8281da",
+   "post_id": "529346797199852_1475727878000253",
+   "title": "Sözcü’de kayyım sonrası ilk atama: Genel Yayın Yönetmeni değişiyor, yeni isim belli oldu",
+   "at": "2026-11-21T14:26:16.904992+00:00",
+   "yazim": "claude",
+   "metin": "Sözcü com.tr'nin yeni Genel Yayın Yönetmeni Kazım Ataer oluyor.\n\n— Ataer, şu an NTV com.tr'de Haber Müdürü. Sözcü TV ve Sözcü com.tr'ye kayyım olarak atanan Hakan Hastaoğlu, Ataer ile anlaştı.\n\n— Ataer'in aralık ayının başında göreve başlaması bekleniyor. Bu, kayyım atanmasının ardından Sözcü'deki ilk üst düzey atama.\n\n— Genel Yayın Yönetmeni Ercüment İşleyen de görevinden ayrılma kararı aldı. Yeni yönetimin oluşmasına destek olmak için kasım sonuna kadar görevde kalmayı kabul etti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sozcu-de-kayyim-sonrasi-ilk-atama-genel-yayin-yonetmeni-degisiyor-yeni-isim-belli-oldu-2558079",
+    "Evrensel: https://www.evrensel.net/haber/6010556/kayyim-yonetimindeki-sozcu-ye-ilk-ust-duzey-atama-genel-yayin-yonetmeni-kazim-ataer-olacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/21/sozcude-kayyim-ilk-atamasini-yapti-genel-yayin-yonetmenligi-icin-kazim-ataerle-anlasildi/",
+    "BirGün: https://www.birgun.net/haber/kayyumun-yonettigi-sozcu-de-ilk-ust-duzey-atama-747651"
    ]
   }
  ],
