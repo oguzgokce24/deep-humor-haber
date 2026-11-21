@@ -2,72 +2,6 @@
  "seen": [
   {
    "fp": [
-    "400",
-    "hedef",
-    "karab",
-    "kimya",
-    "otoma",
-    "tam",
-    "tesis",
-    "ton",
-    "var",
-    "yok",
-    "üreti"
-   ],
-   "tok": [
-    "anlat",
-    "ardın",
-    "arsla",
-    "aylık",
-    "başla",
-    "bitti",
-    "bosta",
-    "etabı",
-    "etapl",
-    "etapt",
-    "genel",
-    "hazır",
-    "hedef",
-    "ilçes",
-    "istih",
-    "istir",
-    "kapas",
-    "karab",
-    "katkı",
-    "kendi",
-    "kimya",
-    "kişil",
-    "kompo",
-    "kulla",
-    "kurul",
-    "köyü",
-    "madde",
-    "manta",
-    "müdür",
-    "ndeki",
-    "odalı",
-    "otoma",
-    "reçet",
-    "safra",
-    "samet",
-    "tam",
-    "tamam",
-    "tesis",
-    "ton",
-    "ulaşm",
-    "var",
-    "veril",
-    "yatır",
-    "yok",
-    "yılda",
-    "özel",
-    "üreti",
-    "şöyle"
-   ],
-   "at": "2026-11-20T00:08:11.752321+00:00"
-  },
-  {
-   "fp": [
     "anlat",
     "gazet",
     "kendi",
@@ -10750,22 +10684,91 @@
     "şeyin"
    ],
    "at": "2026-11-21T12:05:58.286507+00:00"
+  },
+  {
+   "fp": [
+    "24",
+    "bursa",
+    "oğlun",
+    "tartı",
+    "tüfek",
+    "vurup",
+    "yaşın",
+    "öldür"
+   ],
+   "tok": [
+    "adli",
+    "adres",
+    "aile",
+    "alınd",
+    "arası",
+    "ateş",
+    "açan",
+    "baba",
+    "bayra",
+    "başla",
+    "bursa",
+    "cenaz",
+    "cinay",
+    "duyan",
+    "dönüş",
+    "ekipl",
+    "evdek",
+    "facia",
+    "gece",
+    "genci",
+    "genç",
+    "gitti",
+    "görev",
+    "ihbar",
+    "ilçes",
+    "içind",
+    "kaldı",
+    "kavga",
+    "komşu",
+    "kurum",
+    "kırsa",
+    "kısa",
+    "mahal",
+    "mudan",
+    "nde",
+    "neden",
+    "nın",
+    "olay",
+    "otops",
+    "oğlu",
+    "oğlun",
+    "saat",
+    "saatl",
+    "sağlı",
+    "serka",
+    "sesle",
+    "silah",
+    "sonuç",
+    "süley",
+    "süred",
+    "sıral",
+    "tartı",
+    "tespi",
+    "tüfek",
+    "tıp",
+    "vurar",
+    "vurul",
+    "vurup",
+    "yaşan",
+    "yaşın",
+    "yere",
+    "yerin",
+    "yığıl",
+    "çıkan",
+    "çınar",
+    "öldür",
+    "ölümü"
+   ],
+   "at": "2026-11-21T12:18:53.704506+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f70902a1eb",
-   "post_id": "529346797199852_1473443311562043",
-   "title": "Kılıçdaroğlu yönetimine CHP'li Salıcı'dan sert tepki: \"Kurultay örgütten kaçırılıyor\"",
-   "at": "2026-11-19T12:07:41.508994+00:00",
-   "yazim": "claude",
-   "metin": "CHP İstanbul Milletvekili Oğuz Kaan Salıcı, kurultay ertelemesi için:\n\n“Kurultay, örgütümüzden kaçırılıyor.\n\nÖrgütün önüne sandık koymadan, milletin önüne çıkılmaz.”\n\n— Üye listelerinin askıya çıkarılma tarihi önce 16 Eylül'dü, sonra 12 Kasım'a ertelendi.\n— 17 Kasım'daki yeni genelgeyle il kongrelerinin bitiş tarihi 2 Mayıs 2027'ye çekildi.\n— Salıcı, bu gidişle kurultayın hiç yapılmayabileceğini ve 2028 seçimlerine mevcut yönetimle girilmesini istemediğini söyledi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/butlan-chp-sinde-kurultay-rahatsizligi-oguz-kaan-salici-dan-parti-yonetimine-sert-tepki-2557552",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/salicidan-chp-yonetimine-kurultay-resti-orgutun-iradesini-sandiktan-kacirmayin-4874420",
-    "Karar: https://www.karar.com/guncel-haberler/kilicdaroglu-yonetimine-chpli-salicidan-sert-tepki-kurultay-orgutten-2085058"
-   ]
-  },
   {
    "id": "5f60f74c44",
    "post_id": "529346797199852_1473455431560831",
@@ -13370,6 +13373,19 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-aciklamalar-3496214",
     "NTV: https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-toplumlari-guclu-kilan-adalettir-1751923"
    ]
+  },
+  {
+   "id": "21ab7e2de9",
+   "post_id": "529346797199852_1475612981345076",
+   "title": "Bursa'da dehşet: Tartıştığı 24 yaşındaki oğlunu tüfekle vurarak öldürdü",
+   "at": "2026-11-21T12:18:53.704506+00:00",
+   "yazim": "claude",
+   "metin": "Bursa'nın Mudanya ilçesinde bir baba, tartıştığı 24 yaşındaki oğlunu tüfekle vurarak öldürdü.\n\nOlay, kırsal Çınarlı Mahallesi'nde saat 02.00 sıralarında yaşandı. Aile içindeki tartışma kısa sürede kavgaya dönüştü.\n\n— 51 yaşındaki baba, evdeki tüfekle oğluna ateş etti. Vurulan genç olay yerinde yere yığıldı.\n\n— Silah seslerini duyan komşuların ihbarı üzerine jandarma ve sağlık ekipleri adrese gitti. Sağlık görevlileri genci olay yerinde hayatını kaybetmiş olarak tespit etti.\n\n— Cenaze otopsi için Bursa Adli Tıp Kurumu'na kaldırıldı. Baba jandarma tarafından gözaltına alındı ve hakkında adli soruşturma başlatıldı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/tartistigi-oglunu-tufekle-vurup-oldurdu-son-dakika-bursa-haberleri-3928987",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bursa-da-aile-faciasi-24-yasindaki-oglunu-tufekle-vurup-oldurdu-2558053",
+    "Karar: https://www.karar.com/sehir-haberleri/bursada-dehset-tartistigi-24-yasindaki-oglunu-tufekle-vurarak-oldurdu-2085454"
+   ]
   }
  ],
  "fails": {
@@ -13639,10 +13655,10 @@
   "a99de05095": 1,
   "a6d0d79c09": 2,
   "ab10cffbe4": 1,
-  "4d543d6c17": 1
+  "4d543d6c17": 1,
+  "0c91adccc2": 1
  },
  "fail_log": [
-  "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
@@ -13681,12 +13697,13 @@
   "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı",
   "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı",
   "2026-11-21T08:53 Irak'ta termik santralde yangın: 4 kişi hayatını kaybetti, 3 -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-21T12:06 Cumhurbaşkanı Erdoğan: Toplumları güçlü kılan adalettir -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-21T12:06 Cumhurbaşkanı Erdoğan: Toplumları güçlü kılan adalettir -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-21T12:18 Jose Mourinho: “Arda Güler artık çocukluktan çıkıyor ve bir  -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124109299383181761",
+   "since_id": "2124113676990837051",
    "started": true
   },
   "ajansmuhbir1923": {
