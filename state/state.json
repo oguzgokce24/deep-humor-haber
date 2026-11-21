@@ -2,82 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alınd",
-    "ateş",
-    "açan",
-    "açtı",
-    "gazia",
-    "gözal",
-    "havay",
-    "kadın",
-    "sokağ",
-    "tüfek",
-    "çıkıp"
-   ],
-   "tok": [
-    "alaca",
-    "aldığ",
-    "alına",
-    "alınd",
-    "ardın",
-    "ateş",
-    "açan",
-    "açtı",
-    "bağlı",
-    "bağır",
-    "başla",
-    "bekle",
-    "cep",
-    "edile",
-    "ekibi",
-    "ekipl",
-    "elind",
-    "gazia",
-    "geldi",
-    "görün",
-    "havay",
-    "ihbar",
-    "ikna",
-    "ilgil",
-    "ilçes",
-    "isiml",
-    "işlem",
-    "kadın",
-    "kamer",
-    "karşı",
-    "mahal",
-    "mesel",
-    "nde",
-    "neden",
-    "nizip",
-    "olay",
-    "olayl",
-    "otomo",
-    "pompa",
-    "rastg",
-    "sayıd",
-    "sağlı",
-    "sokak",
-    "sokağ",
-    "sürdü",
-    "süre",
-    "sürüy",
-    "tartı",
-    "telef",
-    "tüfek",
-    "yaşan",
-    "yerin",
-    "yüzün",
-    "çevre",
-    "çıkan",
-    "çıkar",
-    "çıkıp",
-    "şahıs"
-   ],
-   "at": "2026-11-19T14:57:54.463491+00:00"
-  },
-  {
-   "fp": [
     "başka",
     "eğiti",
     "fırat",
@@ -10820,20 +10744,62 @@
     "çocuk"
    ],
    "at": "2026-11-21T02:55:16.943586+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "35",
+    "freni",
+    "kamun",
+    "lik",
+    "milya",
+    "patla",
+    "yollu"
+   ],
+   "tok": [
+    "ayda",
+    "ayınd",
+    "aştı",
+    "dönem",
+    "ekim",
+    "fatur",
+    "freni",
+    "genel",
+    "geçen",
+    "gider",
+    "harca",
+    "henüz",
+    "idi",
+    "kamu",
+    "kamud",
+    "kamun",
+    "kapsı",
+    "konak",
+    "kulla",
+    "lik",
+    "milya",
+    "nın",
+    "ocak",
+    "patla",
+    "perso",
+    "seyah",
+    "tamam",
+    "ulaşt",
+    "yani",
+    "yayım",
+    "yemek",
+    "yol",
+    "yollu",
+    "yönel",
+    "yıl",
+    "yılı",
+    "yılın",
+    "ölçül"
+   ],
+   "at": "2026-11-21T03:07:52.180552+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0d60941153",
-   "post_id": "529346797199852_1473030358270005",
-   "title": "TÜİK'in üçüncü çeyrek raporu: 7 milyonu aşkın genç çalışma hayatının dışında",
-   "at": "2026-11-19T02:18:40.953281+00:00",
-   "yazim": "claude",
-   "metin": "15-34 yaş grubunda ne okuyan ne çalışan gençlerin sayısı arttı, TÜİK'in üçüncü çeyrek verilerine göre 7 milyon 155 bin kişiye ulaştı.\n\n— Bu sayı 617 bin kişilik bir artışla yükseldi.\n\n— 100 gençten 30'u ne eğitimde ne de çalışma hayatında yer alıyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tuik-in-ucuncu-ceyrek-raporu-7-milyonu-askin-genc-calisma-hayatinin-disinda-747208"
-   ]
-  },
   {
    "id": "8f3efd8065",
    "post_id": "529346797199852_1473039051602469",
@@ -13452,6 +13418,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/tuik-verileri-ortaya-koydu-cocuklarin-yuzde-73-3u-akranlarinin-siber-zorbaligina-ugruyor-747537"
    ]
+  },
+  {
+   "id": "510b3bc1da",
+   "post_id": "529346797199852_1475190568053984",
+   "title": "Kamunun freni patladı: 35,3 milyar TL’lik yolluk",
+   "at": "2026-11-21T03:07:52.180552+00:00",
+   "yazim": "claude",
+   "metin": "Kamunun yolluk harcaması Ocak-Ekim 2026'da 35,3 milyar TL'ye ulaştı.\n\n— Yolluk, kamu personelinin yol, yemek ve konaklama giderlerini kapsıyor.\n— Bu harcama 2025 yılının tamamında 28,8 milyar TL idi, yani bu yıl 10 ayda geçen yılı aştı.\n— Kamuda harcamaların ölçülü kullanılması için genelgeler yayımlanmıştı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/kamunun-freni-patladi-35-3-milyar-tllik-yolluk-747539"
+   ]
   }
  ],
  "fails": {
@@ -13711,12 +13688,10 @@
   "300e1d13a6": 1,
   "b64656da71": 1,
   "38928bc5de": 1,
-  "0765fcad53": 1
+  "0765fcad53": 1,
+  "d3eaf86b95": 1
  },
  "fail_log": [
-  "2026-11-20T22:07 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:07 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
   "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
   "2026-11-20T22:11 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
@@ -13753,7 +13728,10 @@
   "2026-11-21T01:48 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
   "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: yanıt okunamadı",
   "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
