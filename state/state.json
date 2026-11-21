@@ -10867,23 +10867,44 @@
     "ırak"
    ],
    "at": "2026-11-21T20:17:44.468959+00:00"
+  },
+  {
+   "fp": [
+    "doue",
+    "psg",
+    "sahay",
+    "sakat",
+    "sedye",
+    "terk"
+   ],
+   "tok": [
+    "alkış",
+    "dou",
+    "doue",
+    "https",
+    "maçta",
+    "moral",
+    "nice",
+    "olay",
+    "oynan",
+    "oyunc",
+    "plfmy",
+    "psg",
+    "sahay",
+    "sahib",
+    "sakat",
+    "sedye",
+    "sir",
+    "terk",
+    "tribü",
+    "tuttu",
+    "verme",
+    "yaşan"
+   ],
+   "at": "2026-11-21T20:30:21.717723+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "09c56f3e48",
-   "post_id": "529346797199852_1473861214853586",
-   "title": "Almanya, Fransa, İngiltere ve Ukrayna liderlerinden Rusya'ya \"kış boyunca enerji ateşkesi\" çağrısı",
-   "at": "2026-11-19T20:56:19.003700+00:00",
-   "yazim": "claude",
-   "metin": "Almanya, Fransa, İngiltere ve Ukrayna liderleri Rusya'dan kış boyunca enerji ateşkesi kabul etmesini istedi.\n\nBerlin'de Almanya Başbakanı Friedrich Merz'in ev sahipliğinde yapılan \"Ukrayna Konusunda Gönüllüler Koalisyonu\" zirvesinin ardından ortak bildiri yayımlandı. Zirveye Zelenskiy, Macron ve Burnham'ın yanı sıra yaklaşık 40 ülkenin liderleri katıldı.\n\n— Bildiri, çatışmaları durdurmanın ilk adımı olarak Rusya'nın kış boyunca geçerli bir enerji ateşkesini kabul etmesini istiyor.\n— Karadeniz'de gıda ihracatına imkân verecek bir ateşkes üzerinde uzlaşılması gerektiği vurgulandı.\n— Liderler, Rusya'nın sivillere yönelik füze ve İHA saldırılarını ile Avrupa'daki sabotaj ve siber saldırıları kınadı.\n— Rusya'nın enerji gelirlerine, kripto para akışlarına ve \"gölge filosuna\" yönelik yaptırımların artırılacağı belirtildi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/almanya-fransa-ingiltere-ve-ukrayna-liderlerinden-rusyaya-kis-boyunca-enerji-ateskesi-cagrisi/4131523",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/almanya-fransa-ingiltere-ve-ukrayna-liderlerinden-rusyaya-kis-boyunca-enerji-ateskesi-cagrisi-963875.html",
-    "Habertürk: https://www.haberturk.com/dunya/almanya-dan-rusya-ya-cagri-3928623",
-    "Evrensel: https://www.evrensel.net/haber/6010318/almanya-fransa-ingiltere-ve-ukrayna-liderlerinden-rusya-ya-kis-boyunca-enerji-ateskesi-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "ebeef3f49e",
    "post_id": "529346797199852_1473870194852688",
@@ -13456,6 +13477,17 @@
     "Habertürk: https://www.haberturk.com/dunya/bakan-fidan-ve-mit-baskani-kalin-libya-basbakani-dibeybe-yle-gorustu-3929109",
     "Sözcü: https://www.sozcu.com.tr/yemen-e-turk-askeri-gonderilecek-mi-disisleri-bakani-hakan-fidan-acikladi-p383307"
    ]
+  },
+  {
+   "id": "79e2817d57",
+   "post_id": "529346797199852_1476043574635350",
+   "title": "PSG'de sakatlanan Doue, sahayı sedyeyle terk etti.",
+   "at": "2026-11-21T20:30:21.717723+00:00",
+   "yazim": "claude",
+   "metin": "PSG'de sakatlanan Désiré Doué, sedyeyle sahayı terk etti.\n\nOlay Nice'te oynanan maçta yaşandı. Ev sahibi Nice tribünleri, sakatlanan oyuncuya moral vermek için alkış tuttu.",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2124237688060727416"
+   ]
   }
  ],
  "fails": {
@@ -13736,8 +13768,6 @@
   "722754f634": 1
  },
  "fail_log": [
-  "2026-11-21T13:08 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
-  "2026-11-21T13:46 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
   "2026-11-21T13:46 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
   "2026-11-21T13:46 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
   "2026-11-21T14:01 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
@@ -13775,12 +13805,14 @@
   "2026-11-21T18:03 Atilla Güner yazdı: Adnan Ekinci’yi, hukukun içinden doğan g -> ValueError: yanıt okunamadı",
   "2026-11-21T19:52 GTA 6'da Paul Walker'ın Hızlı ve Öfkeli filminde kullandığı  -> ValueError: yanıt okunamadı",
   "2026-11-21T19:52 GTA 6'da Paul Walker'ın Hızlı ve Öfkeli filminde kullandığı  -> ValueError: yanıt okunamadı",
-  "2026-11-21T19:52 GTA 6'da Paul Walker'ın Hızlı ve Öfkeli filminde kullandığı  -> ValueError: yanıt okunamadı"
+  "2026-11-21T19:52 GTA 6'da Paul Walker'ın Hızlı ve Öfkeli filminde kullandığı  -> ValueError: yanıt okunamadı",
+  "2026-11-21T20:30 PSG'de sakatlanan Doue, sahayı sedyeyle terk etti. -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-21T20:30 PSG'de sakatlanan Doue, sahayı sedyeyle terk etti. -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124233205268070525",
+   "since_id": "2124237688060727416",
    "started": true
   },
   "ajansmuhbir1923": {
