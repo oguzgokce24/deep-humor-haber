@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "101",
-    "bayğa",
-    "gözal",
-    "gürle",
-    "opera",
-    "suç",
-    "yönel",
-    "örgüt"
-   ],
-   "tok": [
-    "adale",
-    "adana",
-    "adres",
-    "akın",
-    "alınd",
-    "arala",
-    "baskı",
-    "bayğa",
-    "belir",
-    "bulgu",
-    "bulun",
-    "daki",
-    "devle",
-    "duyur",
-    "düzen",
-    "dışın",
-    "ettiğ",
-    "geç",
-    "gücün",
-    "gürle",
-    "haraç",
-    "harek",
-    "herke",
-    "hesap",
-    "huzur",
-    "insan",
-    "kalkı",
-    "karşı",
-    "kaste",
-    "mille",
-    "silah",
-    "sonra",
-    "suç",
-    "sürüy",
-    "sınam",
-    "talep",
-    "talim",
-    "tespi",
-    "ulaşı",
-    "verec",
-    "yapıl",
-    "yerle",
-    "yurt",
-    "yönel",
-    "yönet",
-    "yönün",
-    "zaman",
-    "zoruy",
-    "çalış",
-    "çetes",
-    "çocuğ",
-    "önünd",
-    "örgüt"
-   ],
-   "at": "2026-11-20T06:18:41.152747+00:00"
-  },
-  {
-   "fp": [
     "arıca",
     "emre",
     "ifade",
@@ -10649,21 +10581,64 @@
     "özlal"
    ],
    "at": "2026-11-21T18:16:20.559864+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "aldı",
+    "fener",
+    "kocae",
+    "yara"
+   ],
+   "tok": [
+    "aldı",
+    "arası",
+    "berab",
+    "berka",
+    "dakik",
+    "depla",
+    "fark",
+    "farkı",
+    "fener",
+    "galat",
+    "geçti",
+    "golüy",
+    "green",
+    "hafta",
+    "kaldı",
+    "kanar",
+    "kocae",
+    "kurta",
+    "kutlu",
+    "lider",
+    "lig",
+    "magli",
+    "mason",
+    "maç",
+    "nun",
+    "nın",
+    "penal",
+    "puan",
+    "puana",
+    "puanl",
+    "puanı",
+    "razı",
+    "skrin",
+    "sonuç",
+    "süper",
+    "sıray",
+    "trend",
+    "yara",
+    "yerle",
+    "yükse",
+    "çıktı",
+    "öne",
+    "özeti"
+   ],
+   "at": "2026-11-21T18:28:59.652016+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9a46f7d66a",
-   "post_id": "529346797199852_1473775421528832",
-   "title": "İstanbul'da cadde ortasında bıçaklı kavga: 1 kurye ağır yaralandı",
-   "at": "2026-11-19T18:42:14.948867+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Fatih'te cadde ortasında çıkan bıçaklı kavgada bir kurye ağır yaralandı.\n\nOlay, saat 16.30 sıralarında Aksaray Mahallesi Namık Kemal Caddesi'nde yaşandı.\n\n— Motokurye ile kimliği belirsiz kişiler arasında henüz bilinmeyen bir nedenle tartışma çıktı. Tartışma kısa sürede bıçaklı kavgaya dönüştü.\n— Bıçaklanan kuryeye ilk müdahaleyi vatandaşlar yaptı.\n— İhbar üzerine polis ve sağlık ekipleri olay yerine geldi. Kurye ambulansla hastaneye kaldırıldı.\n— Olay yerinde inceleme sürerken emniyet güçleri konuyla ilgili çalışma başlattı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/fatihte-kavga-sirasinda-bicaklanan-motokurye-agir-yaralandi-3495571",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-cadde-ortasinda-bicakli-kavga-1-kurye-agir-yaralandi-2557667"
-   ]
-  },
   {
    "id": "6c25312533",
    "post_id": "529346797199852_1473784771527897",
@@ -13239,6 +13214,19 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/21/eyyup-kadir-inan-ozel-ve-ekibi-dokunulmazlik-zirhinin-arkasina-saklaniyor",
     "Yeni Şafak: https://www.yenisafak.com/gundem/ak-partili-inandan-ozlaleye-sert-sozler-ozgur-ozel-kendisine-mayin-esegi-olarak-kullaniyor-4875255",
     "Karar: https://www.karar.com/guncel-haberler/bahceliden-ozgur-ozele-cok-sert-sozler-chpyi-boldunuz-turkiyeyi-2085508"
+   ]
+  },
+  {
+   "id": "d1f2045677",
+   "post_id": "529346797199852_1475958601310514",
+   "title": "Fenerbahçe Kocaeli'de yara aldı! Galatasaray ile puan farkı 11'e yükseldi",
+   "at": "2026-11-21T18:28:59.652016+00:00",
+   "yazim": "claude",
+   "metin": "Trendyol Süper Lig'in 12. haftasında Kocaelispor ile Fenerbahçe, Kocaeli'de 2-2 berabere kaldı.\n\nFenerbahçe 61. dakikada Skriniar'ın golüyle öne geçti. Kocaelispor 71. dakikada penaltıdan Berkan Kutlu'nun golüyle beraberliği yakaladı, 76. dakikada Maglica'nın golüyle de 2-1 öne geçti.\n\n— Fenerbahçe, 90+3. dakikada Mason Greenwood'un golüyle puanı kurtardı.\n— Bu sonuçla Fenerbahçe 20 puanla 5. sıraya yerleşti. Lider Galatasaray ile arasındaki fark 11 puana çıktı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/live-kocaelispor-2-2-fenerbahce-mac-ozeti-kanarya-deplasmanda-beraberlige-razi-3496199",
+    "Karar: https://www.karar.com/spor-haberleri/fenerbahce-kocaelide-yara-aldi-2-2-2085507",
+    "Sözcü Spor: https://www.sozcu.com.tr/canli-veya-kocaelispor-fenerbahce-maci-canli-anlatim-p383267"
    ]
   }
  ],
