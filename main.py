@@ -374,6 +374,12 @@ def main():
                 fails.pop(fkey, None)
             log("  Metin yazılamadı; bu haber bu tur paylaşılmıyor.")
             continue
+        if w.get("category") == "SPOR" and cfg.get("spor_onemli") and not important_sport(c, cfg["spor_onemli"]):
+            # Spor bölümünden gelmeyen (ör. X) ama yapay zekânın SPOR dediği haberler de önemli takım kuralına uyar
+            st["seen"].append({"fp": sorted(c.fingerprint), "tok": sorted(story_tokens(c))[:80],
+                               "at": datetime.now(timezone.utc).isoformat()})
+            log("  Önemli takımlardan biri değil; spor haberi atlandı.")
+            continue
         if len(w.get("people") or []) == 2:
             # İki tanınmış kişi arasındaki haber: ikisinin fotoğrafı yan yana (dikkat çekici), varsa tercih edilir
             pair = [wikimedia_photo(n, log)[0] for n in w["people"]]
