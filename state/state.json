@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "adres",
-    "ağıre",
-    "mektu",
-    "murat",
-    "payla"
-   ],
-   "tok": [
-    "adres",
-    "ailes",
-    "ardın",
-    "aydır",
-    "ağıre",
-    "bulun",
-    "cezae",
-    "dayan",
-    "den",
-    "değiş",
-    "duvar",
-    "duyur",
-    "gazet",
-    "gönde",
-    "görsü",
-    "hücre",
-    "ifade",
-    "isted",
-    "istey",
-    "istiy",
-    "kapsa",
-    "koğuş",
-    "kulla",
-    "mektu",
-    "murat",
-    "neden",
-    "okurl",
-    "payla",
-    "sarıg",
-    "satır",
-    "sizin",
-    "yakla",
-    "yazar",
-    "yönel",
-    "yükse",
-    "çağrı",
-    "çağır",
-    "özgür"
-   ],
-   "at": "2026-11-20T10:04:21.606255+00:00"
-  },
-  {
-   "fp": [
     "beraa",
     "insan",
     "kavga",
@@ -11061,6 +11011,24 @@
     "özgür"
    ],
    "at": "2026-11-21T21:57:18.691606+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-21T22:04:16.756624+00:00"
   }
  ],
  "posted": [
@@ -13919,20 +13887,10 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "2ab2c91f11": 2,
-  "b4e0237a1b": 1,
-  "a38850afb5": 1
+  "b4e0237a1b": 2,
+  "a38850afb5": 2
  },
  "fail_log": [
-  "2026-11-21T21:46 Okan Bayülgen Cumhuriyet Pazar'da: 'Sanatçı politikayı kendi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:46 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:46 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:46 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:50 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
@@ -13963,12 +13921,21 @@
   "2026-11-21T22:00 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
   "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
   "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı"
+  "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:04 Ağlamanın kökenleri -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124259166600446244",
+   "since_id": "2124261771418464437",
    "started": true
   },
   "ajansmuhbir1923": {
