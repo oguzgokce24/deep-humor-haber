@@ -2,83 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "emekl",
-    "emekç",
-    "güneş",
-    "parti",
-    "periş",
-    "saade",
-    "sert",
-    "ten",
-    "tepki",
-    "çiftç"
-   ],
-   "tok": [
-    "adil",
-    "akp",
-    "araya",
-    "asgar",
-    "buldu",
-    "bulun",
-    "büyük",
-    "cafer",
-    "değer",
-    "dönem",
-    "dışın",
-    "edilm",
-    "ekono",
-    "eleşt",
-    "emekl",
-    "emekç",
-    "gazet",
-    "geldi",
-    "geler",
-    "geniş",
-    "geçim",
-    "günde",
-    "güneş",
-    "hayva",
-    "ihtiy",
-    "ilişk",
-    "ithal",
-    "karşı",
-    "kesim",
-    "kırşe",
-    "mille",
-    "nin",
-    "olmad",
-    "olmam",
-    "parti",
-    "payla",
-    "periş",
-    "polit",
-    "rize",
-    "saade",
-    "savun",
-    "sert",
-    "siyas",
-    "sorun",
-    "sıkın",
-    "tarım",
-    "temel",
-    "ten",
-    "tepki",
-    "toplu",
-    "uğraş",
-    "yanlı",
-    "yaş",
-    "yaşad",
-    "yurt",
-    "çiftç",
-    "ücret",
-    "ülken",
-    "üreti"
-   ],
-   "at": "2026-11-20T01:31:00.831507+00:00"
-  },
-  {
-   "fp": [
     "6",
     "7",
     "besle",
@@ -10724,25 +10647,59 @@
     "şidde"
    ],
    "at": "2026-11-21T13:21:22.073144+00:00"
+  },
+  {
+   "fp": [
+    "7",
+    "devri",
+    "kişi",
+    "panel",
+    "van",
+    "yaral"
+   ],
+   "tok": [
+    "altın",
+    "alınd",
+    "ambul",
+    "ardın",
+    "başla",
+    "belir",
+    "devri",
+    "edile",
+    "ekipl",
+    "feci",
+    "gürpı",
+    "hakka",
+    "halin",
+    "hasta",
+    "henüz",
+    "ilçes",
+    "incel",
+    "itfai",
+    "kaldı",
+    "karay",
+    "kazan",
+    "minib",
+    "neden",
+    "olay",
+    "otomo",
+    "panel",
+    "sağlı",
+    "sebep",
+    "sevk",
+    "seyir",
+    "sonuc",
+    "tedav",
+    "van",
+    "var",
+    "yerin",
+    "yolun",
+    "çıkar"
+   ],
+   "at": "2026-11-21T13:33:50.532999+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b3f007d842",
-   "post_id": "529346797199852_1473500381556336",
-   "title": "Numan Kurtulmuş: İzleme Komisyonu için son noktaya gelindi",
-   "at": "2026-11-19T13:13:40.558140+00:00",
-   "yazim": "claude",
-   "metin": "TBMM Başkanı Numan Kurtulmuş, İzleme Komisyonu'nun büyüklüğü için:\n\n“Çok geniş bir komisyona ihtiyaç yok. Önceki komisyona 50 üyeyle başlamıştık, bu komisyonda o kadar geniş bir üyeye gerek yok.”\n\n— Yeni Parti Genel Başkanı Özgür Özel, partisinin Terörsüz Türkiye sürecini izleyecek komisyona üye vermeyeceğini açıklamıştı.\n— Kurtulmuş, Özel ile görüşmesinde net bir cevap alamadığını söyledi.\n— Komisyonun kaç üyeden oluşacağı henüz belli değil. Kurtulmuş, partilere resmi yazı yazacağını ve \"katılmıyoruz\" yanıtı gelirse buna göre hareket edeceğini belirtti.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/tbmm-baskani-kurtulmustan-izleme-komisyonu-aciklamasi-43383614",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/19/tbmm-baskani-numan-kurtulmus-calismalarda-son-noktaya-geldik",
-    "NTV: https://www.ntv.com.tr/turkiye/kurtulmus-meclis-izleme-komisyonu-calismalarinda-sona-gelindi-1751599",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/kurtulmustan-terorsuz-turkiye-aciklamasi-izleme-komisyonunda-sona-gelindi-4874340",
-    "BirGün: https://www.birgun.net/haber/numan-kurtulmus-izleme-komisyonu-icin-son-noktaya-gelindi-747283",
-    "Serbestiyet: https://serbestiyet.com/cozum-sureci/numan-kurtulmus-izleme-komisyonu-kurulmasina-iliskin-calismalarda-artik-son-noktaya-geldik-253863/"
-   ]
-  },
   {
    "id": "71b681ae52",
    "post_id": "529346797199852_1473510894888618",
@@ -13334,6 +13291,19 @@
    "sources": [
     "Karar: https://www.karar.com/hayat-haberleri/unlu-sef-danilo-zannanin-is-yerini-sel-vurmustu-zararin-tespiti-icin-2085475"
    ]
+  },
+  {
+   "id": "e15483ab66",
+   "post_id": "529346797199852_1475680874671620",
+   "title": "Van-Hakkari yolunda minibüs devrildi: 7 kişi yaralandı",
+   "at": "2026-11-21T13:33:50.532999+00:00",
+   "yazim": "claude",
+   "metin": "Van'ın Gürpınar ilçesinde Van-Hakkari karayolunda minibüs devrildi, 7 kişi yaralandı.\n\nMinibüs, henüz nedeni belirlenemeyen bir sebeple devrildi.\n\n— Olay yerine sağlık, jandarma, polis ve itfaiye ekipleri sevk edildi.\n— Yaralılar ekiplerce minibüsten çıkarıldı ve ambulanslarla hastaneye kaldırıldı.\n— Kazanın nedenini belirlemek için inceleme başlatıldı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/vanda-devrilen-panelvandaki-7-kisi-yaralandi/4132941",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/21/vanda-feci-kaza-panelvan-devrildi-yaralilar-var",
+    "Karar: https://www.karar.com/sehir-haberleri/van-hakkari-yolunda-minibus-devrildi-7-kisi-yaralandi-2085459"
+   ]
   }
  ],
  "fails": {
@@ -13652,7 +13622,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124127972172898333",
+   "since_id": "2124132494643757067",
    "started": true
   },
   "ajansmuhbir1923": {
