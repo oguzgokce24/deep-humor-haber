@@ -10838,6 +10838,24 @@
     "üzere"
    ],
    "at": "2026-11-21T21:10:44.098742+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-21T21:26:59.652070+00:00"
   }
  ],
  "posted": [
@@ -13696,20 +13714,10 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "2ab2c91f11": 2,
-  "53f2bfa678": 1,
-  "59e6aafa8d": 1
+  "53f2bfa678": 2,
+  "59e6aafa8d": 2
  },
  "fail_log": [
-  "2026-11-21T15:28 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:32 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:32 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:45 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:45 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:45 Asgari ücret ne kadar olacak: Masadaki senaryolar neler? -> ValueError: yanıt okunamadı",
-  "2026-11-21T15:57 İran'ın iddiası: ABD'ye ait F-16 savaş uçağı füze atışı sonu -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-21T15:57 İran'ın iddiası: ABD'ye ait F-16 savaş uçağı füze atışı sonu -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-21T15:57 İran'ın iddiası: ABD'ye ait F-16 savaş uçağı füze atışı sonu -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-21T15:57 Petrolün varil fiyatından pompaya uzanan yol: Türkiye'de aka -> ValueError: yanıt okunamadı",
   "2026-11-21T15:57 Petrolün varil fiyatından pompaya uzanan yol: Türkiye'de aka -> ValueError: yanıt okunamadı",
   "2026-11-21T15:57 Petrolün varil fiyatından pompaya uzanan yol: Türkiye'de aka -> ValueError: yanıt okunamadı",
@@ -13740,7 +13748,16 @@
   "2026-11-21T21:23 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T21:23 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
   "2026-11-21T21:23 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:23 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı"
+  "2026-11-21T21:23 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 Sarı'nın köşesi: Kimin yaşayacağına kim karar veriyor? -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 Sarı'nın köşesi: Kimin yaşayacağına kim karar veriyor? -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 Sarı'nın köşesi: Kimin yaşayacağına kim karar veriyor? -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:27 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
