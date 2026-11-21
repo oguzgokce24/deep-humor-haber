@@ -2,85 +2,6 @@
  "seen": [
   {
    "fp": [
-    "camid",
-    "cep",
-    "hırsı",
-    "imamı",
-    "kendi",
-    "telef",
-    "unutt",
-    "çalan",
-    "şüphe"
-   ],
-   "tok": [
-    "aldı",
-    "arka",
-    "banka",
-    "belir",
-    "bildi",
-    "bin",
-    "bisik",
-    "bulgu",
-    "bulun",
-    "bursa",
-    "bırak",
-    "camid",
-    "camii",
-    "cebin",
-    "cep",
-    "cihaz",
-    "diğer",
-    "durum",
-    "gazi",
-    "gelen",
-    "girip",
-    "güven",
-    "hırsı",
-    "ilçes",
-    "imam",
-    "imamı",
-    "izi",
-    "izler",
-    "kamer",
-    "kartl",
-    "karşı",
-    "kayıt",
-    "kaçma",
-    "kendi",
-    "kimli",
-    "kulla",
-    "kılıf",
-    "liray",
-    "namaz",
-    "nde",
-    "nin",
-    "nın",
-    "odada",
-    "odası",
-    "olay",
-    "orhan",
-    "para",
-    "paray",
-    "parma",
-    "parça",
-    "saat",
-    "sabah",
-    "soydu",
-    "sıral",
-    "telef",
-    "unutt",
-    "yaşan",
-    "yerin",
-    "çalan",
-    "çaldı",
-    "çalın",
-    "ığdır",
-    "şaşır"
-   ],
-   "at": "2026-11-20T11:18:42.260872+00:00"
-  },
-  {
-   "fp": [
     "2",
     "4",
     "eyüps",
@@ -11151,22 +11072,83 @@
     "ülken"
    ],
    "at": "2026-11-21T23:09:31.101040+00:00"
+  },
+  {
+   "fp": [
+    "anını",
+    "füze",
+    "iha",
+    "kamer",
+    "kayde",
+    "lviv",
+    "otomo",
+    "patla",
+    "rus",
+    "saldı"
+   ],
+   "tok": [
+    "anını",
+    "bilet",
+    "binay",
+    "blokl",
+    "dan",
+    "den",
+    "düzen",
+    "düşür",
+    "ettiğ",
+    "eve",
+    "fazla",
+    "füze",
+    "fırla",
+    "garaj",
+    "geniş",
+    "geri",
+    "gitme",
+    "gördü",
+    "hava",
+    "hemen",
+    "iha",
+    "ilerl",
+    "ilçes",
+    "insan",
+    "isabe",
+    "istas",
+    "kaldı",
+    "kamer",
+    "kayde",
+    "kenti",
+    "konut",
+    "lviv",
+    "mühim",
+    "nın",
+    "otomo",
+    "parça",
+    "patla",
+    "rus",
+    "rusya",
+    "sknyl",
+    "sürüc",
+    "termi",
+    "tren",
+    "verdi",
+    "yakın",
+    "yangı",
+    "yansı",
+    "zaliz",
+    "zarar",
+    "zelen",
+    "zoloc",
+    "zorun",
+    "çaplı",
+    "çarpm",
+    "çevre",
+    "çıktı",
+    "önünd"
+   ],
+   "at": "2026-11-21T23:22:00.634206+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4b3823b19f",
-   "post_id": "529346797199852_1473932528179788",
-   "title": "Gaziosmanpaşa'da 5 katlı binada yangın: 6 kişi dumandan etkilendi",
-   "at": "2026-11-19T22:52:02.380896+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Gaziosmanpaşa ilçesinde 5 katlı binanın 1. katındaki dairede çıkan yangın söndürüldü, 6 kişi dumandan etkilendi.\n\n— Yangın saat 23.30 sıralarında başladı ve kısa sürede tüm daireyi sardı.\n\n— Mahalle sakinleri binadakileri uyardı, itfaiye alevlere müdahale etti.\n\n— Dumandan etkilenen 6 kişi ambulanslarla çevre hastanelere kaldırıldı.\n\n— Dairede hasar oluştu ve yangının çıkış nedeni için inceleme başlatıldı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/gaziosmanpasada-apartman-dairesinde-yangin-6-kisi-dumandan-etkilendi-7704220",
-    "Evrensel: https://www.evrensel.net/haber/6010328/gaziosmanpasa-da-5-katli-binada-yangin-6-kisi-dumandan-etkilendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/gaziosmanpasada-apartman-dairesinde-yangin-6-kisi-dumandan-etkilendi-7704220"
-   ]
-  },
   {
    "id": "cfd48a00aa",
    "post_id": "529346797199852_1473940168179024",
@@ -13726,6 +13708,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/turk-toraks-dernegi-nden-kritik-nikotin-uyarilari-ulkenin-beka-sorunu-2558232"
    ]
+  },
+  {
+   "id": "ce60cdf971",
+   "post_id": "529346797199852_1476149884624719",
+   "title": "Lviv'de Rus füze ve İHA saldırısı: araç kamerası patlama anını kaydetti",
+   "at": "2026-11-21T23:22:00.634206+00:00",
+   "yazim": "claude",
+   "metin": "Rusya'nın Lviv kentine ve çevresine düzenlediği füze ve insansız hava aracı saldırısında iki kişi hayatını kaybetti, en az 10 kişi yaralandı.\n\n— Zaliznychnyi ilçesinde konut blokları ve garajlarda yangınlar çıktı. Sknyliv tren istasyonundaki bir bilet terminali de zarar gördü.\n— Yakındaki Zolochiv ilçesinde düşürülen bir Rus insansız hava aracının parçaları üç eve ve bir araca zarar verdi, bir kişi daha yaralandı.\n— Bir sürücünün araç kamerasına, bir mühimmatın aracının hemen önündeki binaya isabet ettiği an yansıdı.\n— Zelenskiy, Rusya'nın bu geniş çaplı saldırıda 400'den fazla insansız hava aracı ve 110'dan fazla füze fırlattığını söyledi.",
+   "sources": [
+    "Euronews: https://tr.euronews.com/video/2026/11/22/lvivde-rus-fuze-ve-iha-saldirisi-arac-kamerasi-patlama-anini-kaydetti"
+   ]
   }
  ],
  "fails": {
@@ -14005,12 +13998,10 @@
   "3b9d10236e": 1,
   "722754f634": 1,
   "55da2c7781": 1,
-  "b56c836e60": 1
+  "b56c836e60": 1,
+  "2ab2c91f11": 1
  },
  "fail_log": [
-  "2026-11-21T22:00 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:00 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:00 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
   "2026-11-21T22:00 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
   "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
   "2026-11-21T22:00 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
@@ -14047,7 +14038,10 @@
   "2026-11-21T22:57 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:09 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:09 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:09 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
+  "2026-11-21T23:09 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
