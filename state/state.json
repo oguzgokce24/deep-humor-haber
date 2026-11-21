@@ -2,63 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "dan",
-    "iran",
-    "israi",
-    "nükle",
-    "saldı",
-    "tepki"
-   ],
-   "tok": [
-    "abd",
-    "ajans",
-    "atom",
-    "açtığ",
-    "bağla",
-    "bağlı",
-    "belir",
-    "daimi",
-    "dan",
-    "denet",
-    "durma",
-    "eleşt",
-    "enerj",
-    "gelin",
-    "göre",
-    "görme",
-    "iran",
-    "ise",
-    "israi",
-    "necef",
-    "neden",
-    "nükle",
-    "rıza",
-    "sayıy",
-    "sorum",
-    "stand",
-    "tahra",
-    "temsi",
-    "tepki",
-    "tesis",
-    "uaea",
-    "ulusl",
-    "viyan",
-    "yapıl",
-    "yok",
-    "yol",
-    "yönet",
-    "yükle",
-    "yüklü",
-    "çifte",
-    "ülked",
-    "ülkel",
-    "üzeri"
-   ],
-   "at": "2026-11-19T15:49:06.300643+00:00"
-  },
-  {
-   "fp": [
     "dem",
     "den",
     "izlem",
@@ -10732,6 +10675,50 @@
     "şirke"
    ],
    "at": "2026-11-21T03:44:11.422123+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "derin",
+    "eğiti",
+    "eşits",
+    "karne",
+    "nin",
+    "oecd",
+    "veril",
+    "yansı"
+   ],
+   "tok": [
+    "akp",
+    "ayrıl",
+    "başın",
+    "birin",
+    "derin",
+    "değil",
+    "eğiti",
+    "eşits",
+    "iktid",
+    "kaldı",
+    "karne",
+    "kayna",
+    "lise",
+    "mezun",
+    "nin",
+    "oecd",
+    "ortal",
+    "siste",
+    "ulusl",
+    "veril",
+    "yakla",
+    "yansı",
+    "yapbo",
+    "yetiş",
+    "yüzde",
+    "çevir",
+    "öğren",
+    "üçte"
+   ],
+   "at": "2026-11-21T03:57:04.449233+00:00"
   }
  ],
  "posted": [
@@ -13624,18 +13611,10 @@
   "b64656da71": 1,
   "38928bc5de": 1,
   "0765fcad53": 1,
-  "d3eaf86b95": 2
+  "f4cb8cea58": 1,
+  "31d667ecc9": 1
  },
  "fail_log": [
-  "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
-  "2026-11-20T23:02 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
-  "2026-11-20T23:02 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-20T23:15 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
-  "2026-11-20T23:15 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
-  "2026-11-20T23:15 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
-  "2026-11-20T23:29 Trump: Şi ve Putin'le harika ilişkilerim olduğu için Amerika -> ValueError: cümle yarım kalmış: 'Ülkemiz şu anda güvendeyse sebebi budur”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-20T23:29 Trump: Şi ve Putin'le harika ilişkilerim olduğu için Amerika -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-20T23:29 Trump: Şi ve Putin'le harika ilişkilerim olduğu için Amerika -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı",
   "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı",
   "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı",
@@ -13666,7 +13645,16 @@
   "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
   "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
   "2026-11-21T03:31 Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve g -> ValueError: yanıt okunamadı",
-  "2026-11-21T03:31 Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve g -> ValueError: yanıt okunamadı"
+  "2026-11-21T03:31 Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve g -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:57 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:57 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:57 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:57 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:57 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:57 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
