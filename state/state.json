@@ -2,57 +2,6 @@
  "seen": [
   {
    "fp": [
-    "6",
-    "apart",
-    "daire",
-    "duman",
-    "etkil",
-    "gazio",
-    "kişi",
-    "yangı"
-   ],
-   "tok": [
-    "alevl",
-    "ambul",
-    "apart",
-    "başla",
-    "binad",
-    "binan",
-    "daire",
-    "duman",
-    "ekipl",
-    "etkil",
-    "gazio",
-    "hasar",
-    "hasta",
-    "ilçes",
-    "incel",
-    "inci",
-    "itfai",
-    "kaldı",
-    "katlı",
-    "katın",
-    "kısa",
-    "mahal",
-    "müdah",
-    "neden",
-    "oluşt",
-    "saat",
-    "sakin",
-    "sardı",
-    "söndü",
-    "süred",
-    "sıral",
-    "uyard",
-    "yangı",
-    "çevre",
-    "çıkan",
-    "çıkış"
-   ],
-   "at": "2026-11-19T22:52:02.380896+00:00"
-  },
-  {
-   "fp": [
     "frans",
     "kollu",
     "kuvve",
@@ -10800,25 +10749,92 @@
     "şekil"
    ],
    "at": "2026-11-21T10:50:22.752817+00:00"
+  },
+  {
+   "fp": [
+    "0",
+    "1",
+    "4",
+    "5",
+    "açıkl",
+    "başsa",
+    "burha",
+    "capit",
+    "enver",
+    "gilde",
+    "milya",
+    "muham",
+    "tunç",
+    "yarız",
+    "çevik",
+    "ödenm",
+    "özkan"
+   ],
+   "tok": [
+    "adıyl",
+    "ait",
+    "aktar",
+    "aylar",
+    "ayınd",
+    "bağla",
+    "başsa",
+    "bilgi",
+    "burha",
+    "capit",
+    "dan",
+    "deki",
+    "devam",
+    "durdu",
+    "dışın",
+    "emre",
+    "enver",
+    "europ",
+    "fiile",
+    "fon",
+    "gilde",
+    "göre",
+    "harek",
+    "hesap",
+    "hisse",
+    "ilişk",
+    "isviç",
+    "işler",
+    "kaldı",
+    "kapsa",
+    "karde",
+    "kasım",
+    "kişil",
+    "kurul",
+    "lik",
+    "londr",
+    "masak",
+    "milya",
+    "muham",
+    "nın",
+    "oğuz",
+    "paran",
+    "tera",
+    "tezme",
+    "topla",
+    "tunç",
+    "verdi",
+    "vurgu",
+    "yapar",
+    "yapıl",
+    "yarız",
+    "yurt",
+    "yürüt",
+    "yılda",
+    "çevik",
+    "ödeme",
+    "ödenm",
+    "özkan",
+    "şirke"
+   ],
+   "at": "2026-11-21T11:03:04.948392+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "54d9765c63",
-   "post_id": "529346797199852_1473373168235724",
-   "title": "BirGün muhabiri İsmail Arı hakkında tahliye ve beraat kararı",
-   "at": "2026-11-19T10:38:09.973443+00:00",
-   "yazim": "claude",
-   "metin": "Ankara'da BirGün muhabiri İsmail Arı, ilk duruşmada beraat etti ve tahliye edildi.\n\nArı, eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine 21 Ekim'de tutuklanmıştı.\n\n— Ankara 32. Asliye Ceza Mahkemesi, \"kamu görevlisine görevinden dolayı hakaret\" ve \"halkı yanıltıcı bilgiyi yayma\" suçlamalarının ikisinden de beraatine karar verdi.\n\n— Savcılık hakkında beş yıla kadar hapis cezası istemişti, ama duruşmada tahliye ve beraat talep etti.\n\n— Arı, tutukluluğu boyunca Sincan Cezaevi'nde kaldı. Mart–Haziran arasında da 75 gün cezaevinde tutulmuştu.\n\n— Savunmasında \"Bu ülkede gazetecilik yapma hakkımı kullandım.\" dedi.",
-   "sources": [
-    "BBC Türkçe: https://www.bbc.com/turkce/articles/ck20re4212ylo?at_medium=RSS&at_campaign=rss",
-    "DW Türkçe: https://www.dw.com/tr/birgün-muhabiri-i̇smail-arı-hakkında-tahliye-ve-beraat-kararı/a-79983666?maca=tur-rss-tur-all-1495-xml-mrss",
-    "NTV: https://www.ntv.com.tr/turkiye/gazeteci-ismail-ari-hakkinda-ilk-durusmada-beraat-ve-tahliye-karari-1751620",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-gazeteci-ismail-ari-icin-tahliye-karari-3928491",
-    "Sözcü: https://www.sozcu.com.tr/gazeteci-ismail-ari-ya-beraat-ve-tahliye-p382752",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-gazeteci-ismail-ari-hakkinda-beraat-ve-tahliye-karari-2557526"
-   ]
-  },
   {
    "id": "ade49b6870",
    "post_id": "529346797199852_1473382064901501",
@@ -13424,6 +13440,17 @@
     "Serbestiyet: https://serbestiyet.com/haberler/bilim-teknoloji/levent-alpoge-167-yillik-riemann-hipotezini-claudela-kanitladigini-duyurdu-253996/",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/turk-matematikci-levent-alpoge-riemann-hipotezini-cozdugunu-acikladi-43385886"
    ]
+  },
+  {
+   "id": "4e21c64901",
+   "post_id": "529346797199852_1475538968019144",
+   "title": "Başsavcılıktan 'Gildencrest Capital' açıklaması: Enver Çevik'e 4,5 milyar, Muhammed Yarız'a 0,5 milyar ve Burhan Tunç Özkan'a 1 milyar TL ödenmiş",
+   "at": "2026-11-21T11:03:04.948392+00:00",
+   "yazim": "claude",
+   "metin": "Başsavcılık, fon soruşturmasında Tezmen kardeşlere ait Gildencrest Capital'in dokuz yılda 21 milyar TL'lik hesap hareketi olduğunu açıkladı.\n\n— Açıklamaya göre şirket 2011'de Londra'da \"Tera Europe\" adıyla kuruldu ve işleri fiilen İstanbul'dan yürütüldü.\n\n— Paranın 4,1 milyar TL'si yurt dışında kaldı. Üç kişinin İsviçre'deki hesaplarına 2026'nın ilk aylarında toplam 6 milyar TL ödeme yapıldı.\n\n— Kasım ayında 1,95 milyar TL'lik hissenin aktarımı MASAK tarafından durduruldu.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010535/bassavciliktan-gildencrest-capital-aciklamasi-enver-cevik-e-45-milyar-muhammed-yariz-a-05-milyar-ve-burhan-tunc-ozkan-a-1-milyar-tl-odenmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13740,7 +13767,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124089048964694387",
+   "since_id": "2124094798734741728",
    "started": true
   },
   "ajansmuhbir1923": {
