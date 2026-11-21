@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "14",
-    "balık",
-    "cesed",
-    "gitmi",
-    "tutma",
-    "ulaşı",
-    "yaşın",
-    "çocuğ"
-   ],
-   "tok": [
-    "afad",
-    "arama",
-    "balık",
-    "başla",
-    "belir",
-    "biga",
-    "bölge",
-    "cesed",
-    "devle",
-    "düşen",
-    "düşer",
-    "düştü",
-    "ekipl",
-    "gitmi",
-    "göre",
-    "güven",
-    "hasta",
-    "henüz",
-    "iddia",
-    "ihbar",
-    "ilgil",
-    "ilçes",
-    "incel",
-    "itfai",
-    "içind",
-    "kaldı",
-    "kaybo",
-    "kocab",
-    "morgu",
-    "nasıl",
-    "nin",
-    "olay",
-    "olayl",
-    "saat",
-    "sahil",
-    "sağlı",
-    "sevk",
-    "sırad",
-    "sıral",
-    "tutar",
-    "tutma",
-    "tuttu",
-    "ulaşı",
-    "yaşan",
-    "yaşın",
-    "çanak",
-    "çay",
-    "çaya",
-    "çayı",
-    "çayın",
-    "çevre",
-    "çocuk",
-    "çocuğ"
-   ],
-   "at": "2026-11-19T17:34:22.731743+00:00"
-  },
-  {
-   "fp": [
     "bölüm",
     "büyük",
     "etkil",
@@ -10750,22 +10682,51 @@
     "üye"
    ],
    "at": "2026-11-21T05:32:23.681814+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "kütah",
+    "otomo",
+    "yaral"
+   ],
+   "tok": [
+    "afad",
+    "afyon",
+    "arkad",
+    "arıza",
+    "ağır",
+    "duran",
+    "duruy",
+    "ekipl",
+    "emniy",
+    "feci",
+    "halin",
+    "hasta",
+    "itfai",
+    "kaldı",
+    "karay",
+    "kurta",
+    "kütah",
+    "neden",
+    "olay",
+    "otomo",
+    "park",
+    "sonuc",
+    "sıkış",
+    "tır",
+    "tıra",
+    "uzun",
+    "uğraş",
+    "yaşan",
+    "çarpa",
+    "çarpt",
+    "şerid"
+   ],
+   "at": "2026-11-21T05:44:55.125063+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f7249fd1f1",
-   "post_id": "529346797199852_1473126444927063",
-   "title": "İstanbul'da lodos sahili vurdu: Üsküdar'da dev dalgalar havadan görüntülendi",
-   "at": "2026-11-19T04:37:20.602703+00:00",
-   "yazim": "claude",
-   "metin": "HABAŞ'ta 19 işçinin can verdiği patlamanın ertesi günü üretim yeniden başladı.\n\n— Patron, işçileri zorla fabrikaya getirdi.\n\n— İşçiler, “Ellerinden gelse patlama günü üretimi durdurmazlardı. Göstermelik bile önlem alınmadı.” dedi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbulda-lodos-denizi-kabartti-dev-dalgalar-olustu-963744.html",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/uskudar-sahilinde-dev-dalgalar-yuruyus-yollarini-asti-4874163",
-    "Evrensel: https://www.evrensel.net/haber/6010167/istanbul-da-lodos-sahili-vurdu-uskudar-da-dev-dalgalar-havadan-goruntulendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "dc9bebc3f2",
    "post_id": "529346797199852_1473133904926317",
@@ -13379,6 +13340,18 @@
    "metin": "Mersin'de konuşan DEM Parti Eş Genel Başkanı Tuncer Bakırhan, YENİ Parti'yi TBMM'de kurulması planlanan İzleme Komisyonu'na üye vermeme kararını gözden geçirmeye çağırdı.\n\n— Bakırhan, \"Gerçek ve güçlü muhalefet barıştan kaçan değil, barışa koşan muhalefettir.\" dedi.\n\n— Genel Başkan Özgür Özel'den geçmişteki barış ve demokrasi söylemine devam etmesini istedi.\n\n— Öğrencilere 1 öğün yemek verilmesi teklifinin Meclis'te reddedildiğini, gerekçenin bütçe olmadığını söyledi.\n\n— Fon soruşturmasında vurgunu yapanların açığa çıkarılması ve paraların faiziyle geri ödenmesi için mücadele edeceklerini belirtti.",
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/bakirhandan-surec-komisyonu-tepkisi-ozelin-bu-kararini-gozden-2085389"
+   ]
+  },
+  {
+   "id": "bb0a972f94",
+   "post_id": "529346797199852_1475299018043139",
+   "title": "Kütahya'da otomobil park halindeki TIR’a çarptı: 4 ağır yaralı",
+   "at": "2026-11-21T05:44:55.125063+00:00",
+   "yazim": "claude",
+   "metin": "Kütahya'da arızalanıp emniyet şeridinde duran bir TIR'a arkadan çarpan otomobildeki 4 kişi ağır yaralandı.\n\nAraçta sıkışan yaralılar, itfaiye ve AFAD ekiplerinin uzun uğraşıyla kurtarılarak hastaneye kaldırıldı.\n\n— Olay, Kütahya-Afyonkarahisar karayolunda yaşandı.\n— TIR, arıza nedeniyle emniyet şeridinde duruyordu.",
+   "sources": [
+    "Yeni Şafak: https://www.yenisafak.com/gundem/kutahyada-tira-carpan-otomobildeki-4-kisi-yaralandi-4875032",
+    "BirGün: https://www.birgun.net/haber/kutahya-da-otomobil-park-halindeki-tira-carpti-4-agir-yarali-747565"
    ]
   }
  ],
