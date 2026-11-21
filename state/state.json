@@ -2,101 +2,6 @@
  "seen": [
   {
    "fp": [
-    "8",
-    "başsa",
-    "davas",
-    "diyen",
-    "dolan",
-    "dolar",
-    "fon",
-    "ibb",
-    "itira",
-    "milyo",
-    "müzek",
-    "soygu",
-    "spk",
-    "tahli",
-    "tan",
-    "vaadi",
-    "çıktı"
-   ],
-   "tok": [
-    "başsa",
-    "davas",
-    "diyen",
-    "dolan",
-    "fon",
-    "ibb",
-    "itira",
-    "medya",
-    "müzek",
-    "soygu",
-    "spk",
-    "tahli",
-    "tan",
-    "vaadi",
-    "çıktı"
-   ],
-   "at": "2026-11-19T15:36:06.044259+00:00"
-  },
-  {
-   "fp": [
-    "bazı",
-    "bozca",
-    "ferib",
-    "gökçe",
-    "hattı",
-    "iptal",
-    "sefer"
-   ],
-   "tok": [
-    "adala",
-    "bazı",
-    "bozca",
-    "dan",
-    "den",
-    "deniz",
-    "değiş",
-    "duyur",
-    "ege",
-    "engel",
-    "etmes",
-    "ferib",
-    "fırtı",
-    "gesta",
-    "geyik",
-    "gidec",
-    "gitti",
-    "gökçe",
-    "günce",
-    "günü",
-    "hattı",
-    "hava",
-    "ilçel",
-    "iptal",
-    "kabat",
-    "kasım",
-    "kuzey",
-    "ndeki",
-    "neden",
-    "nin",
-    "olums",
-    "planl",
-    "saat",
-    "sefer",
-    "takip",
-    "ulaşı",
-    "yapıl",
-    "yarın",
-    "yolcu",
-    "çanak",
-    "öneml",
-    "şartl"
-   ],
-   "at": "2026-11-19T15:36:12.373988+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "dan",
     "iran",
@@ -10778,20 +10683,58 @@
     "öfkey"
    ],
    "at": "2026-11-21T03:31:36.846585+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "anlaş",
+    "açılı",
+    "barra",
+    "enerj",
+    "kayna",
+    "memnu",
+    "nin",
+    "ortad",
+    "suriy",
+    "valis",
+    "şirke"
+   ],
+   "tok": [
+    "abd",
+    "altya",
+    "anlaş",
+    "açılı",
+    "barra",
+    "büyük",
+    "cihat",
+    "değer",
+    "enerj",
+    "göre",
+    "hazır",
+    "htş",
+    "inşas",
+    "kapsa",
+    "kayna",
+    "kurul",
+    "memnu",
+    "nin",
+    "ortad",
+    "suriy",
+    "temsi",
+    "tom",
+    "valis",
+    "yapma",
+    "yenid",
+    "yönet",
+    "özel",
+    "ülken",
+    "üstle",
+    "şirke"
+   ],
+   "at": "2026-11-21T03:44:11.422123+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d0a02f4bb8",
-   "post_id": "529346797199852_1473054221600952",
-   "title": "Tunç Soyer'e bir davadan tahliye: Tutukluluğu sürecek",
-   "at": "2026-11-19T02:54:59.841121+00:00",
-   "yazim": "claude",
-   "metin": "İzmir'de Örnekköy Kooperatifi zimmet davasında mahkeme, Tunç Soyer'i adli kontrol şartıyla tahliye etti.\n\n— Ancak Soyer, başka bir kooperatif davası kapsamındaki tutukluluğu nedeniyle hâlâ tutuklu.\n— Aynı davadaki iki sanığın tutukluluğu da sürecek.\n— Dava 13 Ocak 2028'e ertelendi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tunc-soyer-e-bir-davadan-tahliye-tutuklulugu-surecek-747223"
-   ]
-  },
   {
    "id": "d64adc921e",
    "post_id": "529346797199852_1473062518266789",
@@ -13409,6 +13352,17 @@
    "metin": "Avrupa'da gençler savaş bütçelerine ve geleceksizliğe karşı sokakta.\n\nAlmanya'dan İtalya'ya, İspanya'dan İngiltere'ye yüzlerce kentte gençler dersleri boykot etti ve grev yaptı.\n\n— Protestocular kemer sıkma politikalarına, otoriterleşmeye ve savaş bütçelerine karşı çıkıyor.\n— Binlerce genç, bu öfkeyi sokaklara taşıdı.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/gencligin-ofkesi-kitayi-sardi-binler-savas-butcelerine-ve-geleceksizlige-karsi-sokakta-747548"
+   ]
+  },
+  {
+   "id": "7bd8efe965",
+   "post_id": "529346797199852_1475215811384793",
+   "title": "Ortadoğu Valisi Barrack anlaşmadan memnun: Suriye'nin enerji kaynakları ABD'li şirketlere açılıyor",
+   "at": "2026-11-21T03:44:11.422123+00:00",
+   "yazim": "claude",
+   "metin": "Suriye'nin enerji kaynakları ve altyapısının yeniden inşası ABD'li şirketlere açılıyor.\n\n— ABD'nin Ankara Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack, HTŞ yönetimindeki Suriye'nin büyük ABD'li şirketlerle kapsamlı anlaşmalar yapmaya hazır olduğunu söyledi.\n— Barrack'a göre enerji kaynaklarının değerlendirilmesini ve altyapının yeniden kurulmasını ABD'li şirketler üstlenecek.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/ortadogu-valisi-barrack-anlasmadan-memnun-suriye-nin-enerji-kaynaklari-abd-li-sirketlere-aciliyor-747549"
    ]
   }
  ],
