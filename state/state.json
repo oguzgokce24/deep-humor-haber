@@ -10667,25 +10667,51 @@
     "şirke"
    ],
    "at": "2026-11-21T18:49:18.754243+00:00"
+  },
+  {
+   "fp": [
+    "beyko",
+    "bıçak",
+    "iett",
+    "otobü",
+    "tehdi",
+    "yakal",
+    "yolcu",
+    "zanlı"
+   ],
+   "tok": [
+    "aldı",
+    "alınd",
+    "arası",
+    "beyko",
+    "bulun",
+    "bıçak",
+    "durağ",
+    "durdu",
+    "ekipl",
+    "geçti",
+    "gizle",
+    "harek",
+    "iett",
+    "ihbar",
+    "ilçes",
+    "içeri",
+    "içind",
+    "kavac",
+    "korku",
+    "kıyaf",
+    "otobü",
+    "sakla",
+    "saçtı",
+    "tehdi",
+    "yapıl",
+    "yolcu",
+    "zanlı"
+   ],
+   "at": "2026-11-21T19:01:47.819629+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d80f95067a",
-   "post_id": "529346797199852_1473794061526968",
-   "title": "Damat Bayraktar'ın insansız savaş uçağı \"KIZILELMA\" envantere girdi",
-   "at": "2026-11-19T19:07:24.464468+00:00",
-   "yazim": "claude",
-   "metin": "Baykar Yönetim Kurulu Başkanı Selçuk Bayraktar, KIZILELMA için:\n\n“Dünyada ilk kez bir insansız savaş uçağı envantere giriyor. 3 adet KIZILELMA’mızı güvenlik güçlerimize teslim etmenin gururunu yaşıyoruz.”\n\n— Baykar'ın geliştirdiği insansız savaş uçağı KIZILELMA, kabul testlerini tamamlayarak güvenlik güçlerinin envanterine girdi.\n— Bu teslimatla Türkiye, insansız bir savaş uçağını envanterine katan ilk ülke oldu.\n— İlk teslim edilen 3 uçak, proje kapsamında bugüne kadar yapılan 600 sortinin ardından göreve başladı.\n— Uçağın kavramsal tasarımı 2021'de paylaşılmış, ilk uçuşu 14 Aralık 2022'de yapılmıştı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-nin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi/4131193",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/turkiyenin-ilk-insansiz-savas-ucagi-kizilelma-envantere-girdi-963857.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/bakan-kacirdan-kizilelma-paylasimi-dunyada-ilk-kez-bir-insansiz-savas-ucagi-envantere-kazanilmis-oldu-43384353",
-    "Milliyet: https://www.milliyet.com.tr/gundem/kizilelma-envantere-girdi-bakan-kacir-durmak-duraksamak-yok-7704116",
-    "CNN Türk: https://www.cnnturk.com/turkiye/kizilelma-envantere-girdi-pes-pese-aciklamalar-20-yillik-hayal-gercek-oldu-3495532",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/19/omer-celik-turkiye-insansiz-bir-savas-ucagini-envanterine-kazandiran-ilk-ulke"
-   ]
-  },
   {
    "id": "ff618f5d31",
    "post_id": "529346797199852_1473802754859432",
@@ -13263,6 +13289,20 @@
     "Habertürk: https://www.haberturk.com/gundem/bolu-da-arac-kiralama-ihalelerinde-usulsuzluk-iddialartanju-ozcan-dahil-4-saniga-adli-kontrol-3929112",
     "Sözcü: https://www.sozcu.com.tr/tanju-ozcan-a-adli-kontrol-sarti-ile-tahliye-p383301"
    ]
+  },
+  {
+   "id": "1ba918aa26",
+   "post_id": "529346797199852_1475983984641309",
+   "title": "Beykoz’da İETT otobüsünde bıçakla tehdit eden şüpheli gözaltına alındı",
+   "at": "2026-11-21T19:01:47.819629+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Beykoz ilçesinde bir İETT otobüsünde bıçakla tehdit ihbarı üzerine polis, otobüsteki bir şüpheliyi gözaltına aldı.\n\n— Otobüs içinde bıçakla tehdit yapıldığı ihbarı üzerine polis ekipleri harekete geçti.\n— Otobüs Kavacık otobüs durağında durduruldu ve ekipler şüpheliyi otobüste yakaladı.\n— Şüphelinin kıyafetlerinin arasına sakladığı bıçak da ele geçirildi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/iett-otobusunde-bicakla-yolculari-tehdit-eden-zanli-yakalandi-964089.html",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/beykozda-iett-otobusunde-bicakla-yolculari-tehdit-eden-zanli-yakalandi-3496321",
+    "Habertürk: https://www.haberturk.com/gundem/beykoz-da-alkollu-supheli-iett-otobusundeki-yolculari-bicakla-tehdit-etti-3929117",
+    "BirGün: https://www.birgun.net/haber/beykozda-iett-otobusunde-bicakla-tehdit-eden-supheli-gozaltina-alindi-747697"
+   ]
   }
  ],
  "fails": {
@@ -13585,7 +13625,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124211213689106569",
+   "since_id": "2124216529994629186",
    "started": true
   },
   "ajansmuhbir1923": {
