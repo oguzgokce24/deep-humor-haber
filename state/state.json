@@ -11029,6 +11029,66 @@
     "şekil"
    ],
    "at": "2026-11-21T22:04:16.756624+00:00"
+  },
+  {
+   "fp": [
+    "görün",
+    "kadın",
+    "tarih",
+    "tasar"
+   ],
+   "tok": [
+    "avrup",
+    "aynı",
+    "açıla",
+    "barse",
+    "charl",
+    "dönem",
+    "farkl",
+    "görün",
+    "günde",
+    "güçlü",
+    "hambu",
+    "hella",
+    "jonge",
+    "kadın",
+    "kuşak",
+    "marce",
+    "perri",
+    "sabin",
+    "sergi",
+    "tarih",
+    "tasar",
+    "taşıy",
+    "yenid",
+    "zürih",
+    "üreti"
+   ],
+   "at": "2026-11-21T22:07:57.511322+00:00"
+  },
+  {
+   "fp": [
+    "ağlam",
+    "köken"
+   ],
+   "tok": [
+    "anlat",
+    "ağlam",
+    "bazen",
+    "duygu",
+    "görün",
+    "gözya",
+    "kaybı",
+    "köken",
+    "kılar",
+    "sevin",
+    "sözcü",
+    "sığma",
+    "yaşad",
+    "öneml",
+    "şeyi"
+   ],
+   "at": "2026-11-21T22:08:02.039443+00:00"
   }
  ],
  "posted": [
@@ -13887,19 +13947,9 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "b4e0237a1b": 2,
-  "a38850afb5": 2
+  "2ab2c91f11": 1
  },
  "fail_log": [
-  "2026-11-21T21:50 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:50 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:53 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:53 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:53 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:53 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:53 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:53 Bir bardak suyun hatırına Bartın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:53 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
   "2026-11-21T21:53 Çocukların düş gücünü kısmayın -> ValueError: yanıt okunamadı",
@@ -13930,7 +13980,16 @@
   "2026-11-21T22:04 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
   "2026-11-21T22:04 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
   "2026-11-21T22:04 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:04 Ağlamanın kökenleri -> ValueError: yanıt okunamadı"
+  "2026-11-21T22:04 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 Tasarım tarihinin görünmeyen kadınları -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 Ağlamanın kökenleri -> ValueError: yanıt okunamadı",
+  "2026-11-21T22:08 Ağlamanın kökenleri -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
