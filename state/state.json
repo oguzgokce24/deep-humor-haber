@@ -2,66 +2,6 @@
  "seen": [
   {
    "fp": [
-    "18",
-    "3",
-    "bağcı",
-    "kaza",
-    "kişi",
-    "nda",
-    "otomo",
-    "otoyo",
-    "tem",
-    "yaral",
-    "zinci"
-   ],
-   "tok": [
-    "ambul",
-    "ardın",
-    "bağcı",
-    "başla",
-    "birbi",
-    "direk",
-    "döndü",
-    "etkis",
-    "feci",
-    "geldi",
-    "girdi",
-    "hakim",
-    "hasta",
-    "ilişk",
-    "incel",
-    "istik",
-    "kaldı",
-    "karış",
-    "kazan",
-    "kazay",
-    "meyda",
-    "midib",
-    "müdah",
-    "nda",
-    "neden",
-    "norma",
-    "olay",
-    "oluşt",
-    "otomo",
-    "otoyo",
-    "savru",
-    "tem",
-    "temiz",
-    "trafi",
-    "yapıl",
-    "yerin",
-    "yolda",
-    "yoğun",
-    "zinci",
-    "çarpm",
-    "çarpt",
-    "önünd"
-   ],
-   "at": "2026-11-19T17:59:44.097986+00:00"
-  },
-  {
-   "fp": [
     "2",
     "işçi",
     "mersi",
@@ -10629,22 +10569,54 @@
     "şerid"
    ],
    "at": "2026-11-21T05:44:55.125063+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "ara",
+    "ballo",
+    "harry",
+    "kane",
+    "maçta",
+    "milli",
+    "sahib",
+    "sakat",
+    "sonra",
+    "ödülü"
+   ],
+   "tok": [
+    "6an3y",
+    "anıla",
+    "ara",
+    "ayak",
+    "ballo",
+    "bağ",
+    "belir",
+    "bileğ",
+    "harry",
+    "https",
+    "kalac",
+    "kane",
+    "kopma",
+    "maçta",
+    "maçın",
+    "milli",
+    "sahal",
+    "sahib",
+    "sakat",
+    "sonra",
+    "sürül",
+    "tutac",
+    "uzak",
+    "yaşad",
+    "yaşay",
+    "ödülü",
+    "öne"
+   ],
+   "at": "2026-11-21T06:01:25.432607+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "dc9bebc3f2",
-   "post_id": "529346797199852_1473133904926317",
-   "title": "Osmaniye'de cadde ve sokaklarda su birikintileri: Alt geçitler doldu, araçlar yolda kaldı",
-   "at": "2026-11-19T04:50:04.332344+00:00",
-   "yazim": "claude",
-   "metin": "Antalya Büyükşehir Belediye Başkan Vekili Büşra Özdemir CHP'den istifa etti.\n\n— Özdemir'in 19 Kasım'da yapılacak AKP Genişletilmiş İl Başkanları Toplantısı'na katılarak AKP'ye geçeceği öne sürülmüştü.\n\n— Parti değişikliğine dair iddialar, istifadan önce gündeme gelmişti.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/osmaniyeyi-saganak-vurdu-rogarlar-tasti-araclar-yolda-kaldi-963749.html",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/osmaniyede-saganak-cadde-ve-sokaklari-gole-cevirdi-4874162",
-    "Evrensel: https://www.evrensel.net/haber/6010170/osmaniye-de-cadde-ve-sokaklarda-su-birikintileri-alt-gecitler-doldu-araclar-yolda-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "1073f2f1bc",
    "post_id": "529346797199852_1473153764924331",
@@ -13258,6 +13230,17 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/kutahyada-tira-carpan-otomobildeki-4-kisi-yaralandi-4875032",
     "BirGün: https://www.birgun.net/haber/kutahya-da-otomobil-park-halindeki-tira-carpti-4-agir-yarali-747565"
    ]
+  },
+  {
+   "id": "0842afa85e",
+   "post_id": "529346797199852_1475309998042041",
+   "title": "2026 Ballon d'Or ödülünün sahibi Harry Kane, milli ara sonrası ilk maçta sakatlandı.",
+   "at": "2026-11-21T06:01:25.432607+00:00",
+   "yazim": "claude",
+   "metin": "Harry Kane milli ara sonrası ilk maçında sakatlandı.\n\n— Ballon d'Or ödülünün sahibi olarak anılan Kane'in ayak bileğinde bağ kopması yaşadığı öne sürüldü.\n\n— Sakatlığın Kane'i üç ay sahalardan uzak tutacağı belirtildi.",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2124019937161171349"
+   ]
   }
  ],
  "fails": {
@@ -13527,8 +13510,6 @@
   "a99de05095": 1
  },
  "fail_log": [
-  "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
-  "2026-11-21T03:31 Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve g -> ValueError: yanıt okunamadı",
   "2026-11-21T03:31 Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve g -> ValueError: yanıt okunamadı",
   "2026-11-21T03:57 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
   "2026-11-21T03:57 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
@@ -13566,12 +13547,14 @@
   "2026-11-21T05:57 Bir süredir lodos etkisiyle bahar havasının yaşandığı İstanb -> ValueError: yanıt okunamadı",
   "2026-11-21T05:57 Ahmet Hakan: AK Parti'nin büyük fon atağı -> ValueError: yanıt okunamadı",
   "2026-11-21T05:57 Ahmet Hakan: AK Parti'nin büyük fon atağı -> ValueError: yanıt okunamadı",
-  "2026-11-21T05:57 Ahmet Hakan: AK Parti'nin büyük fon atağı -> ValueError: yanıt okunamadı"
+  "2026-11-21T05:57 Ahmet Hakan: AK Parti'nin büyük fon atağı -> ValueError: yanıt okunamadı",
+  "2026-11-21T06:01 2026 Ballon d'Or ödülünün sahibi Harry Kane, milli ara sonra -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-21T06:01 2026 Ballon d'Or ödülünün sahibi Harry Kane, milli ara sonra -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124018522082734119",
+   "since_id": "2124019937161171349",
    "started": true
   },
   "ajansmuhbir1923": {
