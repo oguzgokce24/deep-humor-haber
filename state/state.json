@@ -2,102 +2,6 @@
  "seen": [
   {
    "fp": [
-    "20",
-    "aştı",
-    "beytü",
-    "kalın",
-    "kar",
-    "santi"
-   ],
-   "tok": [
-    "alarm",
-    "artır",
-    "aştı",
-    "bazı",
-    "beyaz",
-    "beytü",
-    "bölge",
-    "bürüd",
-    "ekipl",
-    "etkis",
-    "geçti",
-    "ilçes",
-    "kalın",
-    "kar",
-    "nokta",
-    "rakım",
-    "santi",
-    "yağış",
-    "yükse",
-    "şırna"
-   ],
-   "at": "2026-11-19T23:55:14.091019+00:00"
-  },
-  {
-   "fp": [
-    "10",
-    "3",
-    "başla",
-    "bırak",
-    "inekl",
-    "katın",
-    "kurdu",
-    "çiftl",
-    "çıkar",
-    "öğret"
-   ],
-   "tok": [
-    "amasy",
-    "avust",
-    "banka",
-    "başla",
-    "berkh",
-    "bilgi",
-    "bırak",
-    "damız",
-    "dan",
-    "düşüy",
-    "getir",
-    "geçim",
-    "hayal",
-    "hayva",
-    "inek",
-    "inekl",
-    "ithal",
-    "kaba",
-    "kadın",
-    "katın",
-    "kendi",
-    "keşke",
-    "koope",
-    "kredi",
-    "kurdu",
-    "maliy",
-    "pişma",
-    "satar",
-    "sayıs",
-    "sağlı",
-    "subaş",
-    "suluo",
-    "sürüy",
-    "sütün",
-    "tek",
-    "yapan",
-    "yaşay",
-    "yaşın",
-    "yemi",
-    "yıl",
-    "yılda",
-    "çiftl",
-    "çıkar",
-    "öğret",
-    "üreti",
-    "ürett"
-   ],
-   "at": "2026-11-19T23:55:31.348413+00:00"
-  },
-  {
-   "fp": [
     "400",
     "hedef",
     "karab",
@@ -10781,22 +10685,74 @@
     "ötürü"
    ],
    "at": "2026-11-21T11:53:14.201392+00:00"
+  },
+  {
+   "fp": [
+    "adale",
+    "cumhu",
+    "erdoğ",
+    "güçlü",
+    "kılan",
+    "toplu"
+   ],
+   "tok": [
+    "adale",
+    "adliy",
+    "anado",
+    "anaht",
+    "artan",
+    "açılı",
+    "barış",
+    "belir",
+    "bin",
+    "binas",
+    "bulam",
+    "den",
+    "devle",
+    "dosya",
+    "düzen",
+    "erdoğ",
+    "fazla",
+    "gazio",
+    "güçlü",
+    "hakka",
+    "harca",
+    "hiçbi",
+    "huzur",
+    "imkan",
+    "kalan",
+    "kanun",
+    "konuş",
+    "kılan",
+    "lirad",
+    "metre",
+    "milya",
+    "nda",
+    "neden",
+    "nin",
+    "olmad",
+    "recep",
+    "saray",
+    "sayıs",
+    "sağla",
+    "siste",
+    "tayyi",
+    "toplu",
+    "uygul",
+    "vurgu",
+    "yakla",
+    "yana",
+    "yapıl",
+    "yaşam",
+    "yerin",
+    "yeter",
+    "ümran",
+    "şeyin"
+   ],
+   "at": "2026-11-21T12:05:58.286507+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bad30506df",
-   "post_id": "529346797199852_1473432938229747",
-   "title": "İran: Hürmüz Boğazı'nda iki petrol tankeri mayına çarparak alev aldı",
-   "at": "2026-11-19T11:55:01.345263+00:00",
-   "yazim": "claude",
-   "metin": "Hürmüz Boğazı'nda iki petrol tankeri mayına çarptı ve alev aldı.\n\n— İran Devrim Muhafızları'na göre tankerler, İran'ın belirlediği güzergah yerine alternatif rotayı kullanıyordu. Gemiler ABD savaş uçaklarının desteğiyle geçmeye çalışırken mayınlara temas etti.\n— İki tanker toplamda 4 milyondan fazla varil ham petrol taşıyordu.\n— ABD'nin 8 Temmuz'da saldırılarına yeniden başlamasının ardından İran, 12 Temmuz'da boğazı tekrar kapatmıştı.\n— İran, belirlediği rotaların dışında geçen gemileri hedef alacağını açıklamıştı. Yönetim, 28 Şubat'ta başlayan savaştan bu yana 140'tan fazla geminin hedef alındığını da bildirmişti.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazinda-iki-super-tanker-mayina-carparak-alev-aldi-/4130501",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-iki-super-tanker-mayina-carparak-alev-aldi-963821.html",
-    "Karar: https://www.karar.com/dunya-haberleri/iran-hurmuz-bogazinda-iki-petrol-tankeri-mayina-carparak-alev-aldi-2085072"
-   ]
-  },
   {
    "id": "f70902a1eb",
    "post_id": "529346797199852_1473443311562043",
@@ -13401,6 +13357,19 @@
     "Sözcü: https://www.sozcu.com.tr/sultanahmet-camii-ziyareti-gundemdeydi-cigdem-batur-hakkinda-sorusturma-baslatildi-p383243",
     "BPT (X): https://x.com/bpthaber/status/2124107147340341538"
    ]
+  },
+  {
+   "id": "4790da61d1",
+   "post_id": "529346797199852_1475599158013125",
+   "title": "Cumhurbaşkanı Erdoğan: Toplumları güçlü kılan adalettir",
+   "at": "2026-11-21T12:05:58.286507+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı Erdoğan, adalet için:\n\n“Merkezinde adaletin olmadığı hiçbir sistem yaşama imkanı bulamaz.”\n\n— Erdoğan, İstanbul'da açılışı yapılan Gaziosmanpaşa Adalet Sarayı'nda konuştu.\n— Kanunların hakkaniyetle uygulanmadığı bir düzende huzurun sağlanamayacağını da vurguladı.\n— 2002'den bu yana 306 adliye binası için 226 milyar 830 milyon liradan fazla harcama yapıldığını söyledi.\n— Artan dosya sayısı nedeniyle yetersiz kalan Anadolu Adliyesi'nin yerine Ümraniye'de yaklaşık 200 bin metrekarelik yeni bir adliye yapılacağını belirtti.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-adalet-toplumsal-huzur-ve-barisin-anahtaridir-964054.html",
+    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-cumhurbaskani-erdogandan-aciklamalar-3496214",
+    "NTV: https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-toplumlari-guclu-kilan-adalettir-1751923"
+   ]
   }
  ],
  "fails": {
@@ -13674,7 +13643,6 @@
  },
  "fail_log": [
   "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
-  "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
@@ -13712,12 +13680,13 @@
   "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı",
   "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı",
   "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı",
-  "2026-11-21T08:53 Irak'ta termik santralde yangın: 4 kişi hayatını kaybetti, 3 -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-21T08:53 Irak'ta termik santralde yangın: 4 kişi hayatını kaybetti, 3 -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-21T12:06 Cumhurbaşkanı Erdoğan: Toplumları güçlü kılan adalettir -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124107147340341538",
+   "since_id": "2124109299383181761",
    "started": true
   },
   "ajansmuhbir1923": {
