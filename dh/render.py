@@ -88,8 +88,9 @@ def photo_ok(im: Image.Image | None, url: str = "") -> tuple[bool, str]:
     return True, ""
 
 
-def pick_photo(candidates, log=print):
-    """[(url, kaynak), ...] içinden şablona uygun ilk fotoğrafı döndürür: (Image, kaynak) ya da (None, None)."""
+def pick_photo(candidates, log=print, check=None):
+    """[(url, kaynak), ...] içinden şablona uygun ilk fotoğrafı döndürür: (Image, kaynak) ya da (None, None).
+    check(im) verilirse fotoğrafın haberle ilgili olduğu da doğrulanır (yanlış fotoğraf koruması)."""
     seen = set()
     for url, src in candidates:
         if not url or url in seen:
@@ -97,7 +98,10 @@ def pick_photo(candidates, log=print):
         seen.add(url)
         im = load_photo(url)
         ok, why = photo_ok(im, url)
+        if ok and check is not None and not check(im):
+            ok, why = False, "haberle ilgisiz görünüyor"
         if ok:
+            log(f"  Fotoğraf: {src} ({url[:90]})")
             return im, src
         log(f"  görsel atlandı ({src}: {why})")
     return None, None

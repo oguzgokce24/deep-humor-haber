@@ -384,3 +384,34 @@ def write(cluster, model: str, log=print) -> dict | None:
 def plain(markup: str) -> str:
     """Açıklama için **işaretleri** kaldırılmış düz metin."""
     return re.sub(r"\*\*(.+?)\*\*", r"\1", markup, flags=re.S).replace("**", "").strip()
+
+
+def photo_matches(im, story: str, model: str, log=print) -> bool:
+    """Fotoğraf bu haberi gösteriyor mu? (ör. trafik kazası haberine sevinen kalabalık fotoğrafı -> HAYIR)
+    API'ye ulaşılamazsa engellemez (True)."""
+    key = os.environ.get("ANTHROPIC_API_KEY")
+    if not key or im is None:
+        return True
+    try:
+        import base64, io
+        small = im.convert("RGB").copy()
+        small.thumbnail((640, 640))
+        buf = io.BytesIO()
+        small.save(buf, "JPEG", quality=80)
+        b64 = base64.b64encode(buf.getvalue()).decode()
+        r = requests.post(API_URL, timeout=40, headers={
+            "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"},
+            json={"model": model, "max_tokens": 5, "messages": [{"role": "user", "content": [
+                {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": b64}},
+                {"type": "text", "text": "Bir haber kartında bu fotoğraf aşağıdaki haberle birlikte kullanılacak.\n"
+                 f"HABER: {story[:400]}\n\nFotoğraf bu haberin olayını, yerini ya da kişisini gösteriyor mu, ya da "
+                 "en azından konuyla uyumlu mu? Tamamen başka bir olayı gösteriyorsa (ör. kaza haberinde sevinen "
+                 "kalabalık, yangın haberinde futbol maçı) HAYIR de. Yalnızca EVET ya da HAYIR yaz."}]}]})
+        js = r.json()
+        ans = "".join(b.get("text", "") for b in js.get("content", [])).strip().upper()
+        if "error" in js or not ans:
+            return True
+        return not ans.startswith("HAYIR")
+    except Exception as e:
+        log(f"  (fotoğraf kontrolü yapılamadı: {str(e)[:60]})")
+        return True

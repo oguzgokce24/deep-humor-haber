@@ -351,7 +351,9 @@ def main():
         cands = [(i.image, i.source) for i in sorted(site_items, key=lambda i: not i.anchor) if i.image]
         cands += [(og_image(i.link), i.source) for i in sorted(site_items, key=lambda i: not i.anchor)[:3]]
         cands = [(u, src) for u, src in cands if u and u.split("?")[0] not in GENERIC_IMAGES]
-        img, credit = pick_photo(cands, log)
+        story = lead.title + " — " + (lead.summary or "")[:250]
+        model = cfg.get("writer", {}).get("model", "claude-haiku-5-5")
+        img, credit = pick_photo(cands, log, check=lambda im: writer.photo_matches(im, story, model, log))
         title = lead.title
         pid = hashlib.sha1(" ".join(sorted(c.fingerprint)).encode()).hexdigest()[:10]
         path = OUT / f"{pid}.jpg"
