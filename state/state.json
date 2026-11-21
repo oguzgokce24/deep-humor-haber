@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "fon",
-    "kriz",
-    "vurgu"
-   ],
-   "tok": [
-    "akyol",
-    "ana",
-    "anlat",
-    "ara",
-    "araşt",
-    "ayrıc",
-    "ayrın",
-    "biri",
-    "birli",
-    "cevap",
-    "denet",
-    "devle",
-    "değil",
-    "dosya",
-    "edilm",
-    "ekono",
-    "elif",
-    "etkis",
-    "eylem",
-    "farkı",
-    "fon",
-    "gerek",
-    "iade",
-    "iades",
-    "iktis",
-    "isted",
-    "istiy",
-    "kamu",
-    "kamuo",
-    "karşı",
-    "kayıp",
-    "kriz",
-    "krizi",
-    "kurul",
-    "kurum",
-    "mağdu",
-    "notla",
-    "olmad",
-    "paral",
-    "parti",
-    "payla",
-    "piyas",
-    "sektö",
-    "serma",
-    "sonun",
-    "sorul",
-    "sorum",
-    "spk",
-    "söyl",
-    "sınır",
-    "taha",
-    "takvi",
-    "talep",
-    "tüfe",
-    "vurgu",
-    "yalnı",
-    "yıl",
-    "çakır",
-    "ödeme",
-    "önünd",
-    "özel",
-    "özlal",
-    "ümit",
-    "şirke"
-   ],
-   "at": "2026-11-19T17:21:35.552161+00:00"
-  },
-  {
-   "fp": [
     "14",
     "balık",
     "cesed",
@@ -10741,21 +10667,92 @@
     "ülkes"
    ],
    "at": "2026-11-21T05:13:53.476198+00:00"
+  },
+  {
+   "fp": [
+    "bakır",
+    "dan",
+    "geçir",
+    "gözde",
+    "istiy",
+    "karar",
+    "komis",
+    "süreç",
+    "tepki",
+    "özel"
+   ],
+   "tok": [
+    "alan",
+    "açığa",
+    "bakır",
+    "barış",
+    "belir",
+    "birli",
+    "bulun",
+    "bütçe",
+    "dan",
+    "dem",
+    "demok",
+    "den",
+    "devam",
+    "değil",
+    "edece",
+    "etmes",
+    "faizi",
+    "fon",
+    "genel",
+    "gerek",
+    "geri",
+    "gerçe",
+    "geçmi",
+    "gözde",
+    "güçlü",
+    "isted",
+    "istiy",
+    "izlem",
+    "kaçan",
+    "komis",
+    "konuş",
+    "koşan",
+    "kurul",
+    "lider",
+    "mecli",
+    "mersi",
+    "muhal",
+    "mücad",
+    "nin",
+    "olmad",
+    "paral",
+    "parti",
+    "planl",
+    "redde",
+    "sayın",
+    "sesle",
+    "söyle",
+    "süreç",
+    "tbmm",
+    "tekli",
+    "tepki",
+    "tunce",
+    "veril",
+    "verme",
+    "vurgu",
+    "yapan",
+    "yemek",
+    "çağrı",
+    "çağır",
+    "çıkar",
+    "ödenm",
+    "özel",
+    "özgür",
+    "öğren",
+    "öğün",
+    "üye"
+   ],
+   "at": "2026-11-21T05:32:23.681814+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "016c0044a4",
-   "post_id": "529346797199852_1473118104927897",
-   "title": "Suudi Arabistan'ın başkenti Riyad'da tehlike alarmı: Peş peşe açıklamalar geldi",
-   "at": "2026-11-19T04:24:33.973813+00:00",
-   "yazim": "claude",
-   "metin": "Suudi Arabistan'ın başkenti Riyad'da tehlike uyarısı verildi, kısa süre sonra tehlikenin geçtiği duyuruldu.\n\nSivil Savunma Müdürlüğü tehlikenin ne olduğunu açıklamadı. Vatandaşlardan resmi makamların talimatlarına uymaları, kalabalık oluşturmamaları ve görüntü çekmemeleri istendi.\n\n— Uyarı, Sivil Savunma Müdürlüğünün X hesabından duyurulan erken uyarı sisteminin devreye alınmasıyla geldi.\n— Husiler, Arap Koalisyonunun Yemen'deki askeri operasyonlarına karşılık olarak Suudi Arabistan'ın sınır bölgelerini ve güney vilayetlerini sık sık hedef alıyor.\n— Bölgedeki askeri alanlar ve kritik altyapı tesisleri, Yemen sınırından fırlatılan İHA'lar ve balistik füzelerle zaman zaman saldırıya uğruyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/suudi-arabistanin-baskenti-riyadda-erken-uyari-sistemi-devreye-alindi-963740.html",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/suudi-arabistan-in-baskenti-riyad-da-tehlike-alarmi-pes-pese-aciklamalar-geldi-2557433"
-   ]
-  },
   {
    "id": "f7249fd1f1",
    "post_id": "529346797199852_1473126444927063",
@@ -13372,6 +13369,17 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2124006480407892398"
    ]
+  },
+  {
+   "id": "46b271bb81",
+   "post_id": "529346797199852_1475290538043987",
+   "title": "Bakırhan'dan 'süreç komisyonu' tepkisi: 'Özel'in bu kararını gözden geçirmesini istiyorum'",
+   "at": "2026-11-21T05:32:23.681814+00:00",
+   "yazim": "claude",
+   "metin": "Mersin'de konuşan DEM Parti Eş Genel Başkanı Tuncer Bakırhan, YENİ Parti'yi TBMM'de kurulması planlanan İzleme Komisyonu'na üye vermeme kararını gözden geçirmeye çağırdı.\n\n— Bakırhan, \"Gerçek ve güçlü muhalefet barıştan kaçan değil, barışa koşan muhalefettir.\" dedi.\n\n— Genel Başkan Özgür Özel'den geçmişteki barış ve demokrasi söylemine devam etmesini istedi.\n\n— Öğrencilere 1 öğün yemek verilmesi teklifinin Meclis'te reddedildiğini, gerekçenin bütçe olmadığını söyledi.\n\n— Fon soruşturmasında vurgunu yapanların açığa çıkarılması ve paraların faiziyle geri ödenmesi için mücadele edeceklerini belirtti.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/bakirhandan-surec-komisyonu-tepkisi-ozelin-bu-kararini-gozden-2085389"
+   ]
   }
  ],
  "fails": {
@@ -13634,10 +13642,10 @@
   "0765fcad53": 1,
   "377146a3a9": 1,
   "de8cd07220": 1,
-  "d297aa94ba": 1
+  "d297aa94ba": 1,
+  "5c7d2a8e46": 1
  },
  "fail_log": [
-  "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: yanıt okunamadı",
   "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
@@ -13676,12 +13684,13 @@
   "2026-11-21T04:45 Arazide buldukları şey, 4 çocuğun feci şekilde ölümüne neden -> ValueError: yanıt okunamadı",
   "2026-11-21T04:45 Dengeleri sarsılan AKP'de değişim arayışı -> ValueError: yanıt okunamadı",
   "2026-11-21T04:45 Dengeleri sarsılan AKP'de değişim arayışı -> ValueError: yanıt okunamadı",
-  "2026-11-21T04:45 Dengeleri sarsılan AKP'de değişim arayışı -> ValueError: yanıt okunamadı"
+  "2026-11-21T04:45 Dengeleri sarsılan AKP'de değişim arayışı -> ValueError: yanıt okunamadı",
+  "2026-11-21T05:32 Bakırhan'dan 'süreç komisyonu' tepkisi: 'Özel'in bu kararını -> ValueError: cümle yarım kalmış: '— Fon soruş'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124006480407892398",
+   "since_id": "2124010631103758558",
    "started": true
   },
   "ajansmuhbir1923": {
