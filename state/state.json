@@ -10645,21 +10645,61 @@
     "örgüt"
    ],
    "at": "2026-11-21T17:25:56.548745+00:00"
+  },
+  {
+   "fp": [
+    "ceza",
+    "dere",
+    "derey",
+    "deşar",
+    "kesil",
+    "kontr",
+    "kırmı",
+    "rize",
+    "tesis",
+    "tespi",
+    "yapan"
+   ],
+   "tok": [
+    "akan",
+    "aktı",
+    "alarm",
+    "belir",
+    "boyay",
+    "ceza",
+    "cezas",
+    "dere",
+    "deren",
+    "derey",
+    "deşar",
+    "döndü",
+    "dönme",
+    "dönün",
+    "edile",
+    "gerçe",
+    "idari",
+    "iddia",
+    "kayna",
+    "kesil",
+    "kirle",
+    "kontr",
+    "kırmı",
+    "para",
+    "rengi",
+    "rize",
+    "sebeb",
+    "tesis",
+    "tespi",
+    "verdi",
+    "yapan",
+    "yapma",
+    "yaptı",
+    "yağdı"
+   ],
+   "at": "2026-11-21T17:38:25.735580+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1bbb6089e7",
-   "post_id": "529346797199852_1473723494867358",
-   "title": "Balık tutmaya gitmişti: 14 yaşındaki çocuğun cansız bedenine ulaşıldı",
-   "at": "2026-11-19T17:34:22.731743+00:00",
-   "yazim": "claude",
-   "metin": "Çanakkale'nin Biga ilçesinde balık tutarken Kocabaş Çayı'na düşen 14 yaşındaki bir çocuğun cansız bedenine ulaşıldı.\n\nOlay saat 16.00 sıralarında yaşandı. Çocuk balık tutmak için çaya gitmişti. Çaya nasıl düştüğü henüz belirlenmedi.\n\n— Çevredekilerin ihbarı üzerine Sahil Güvenlik, AFAD, polis, itfaiye ve sağlık ekipleri bölgeye sevk edildi.\n— Ekipler çay içinde ve çevresinde arama yaptı.\n— Çocuğun cansız bedeni Biga Devlet Hastanesi morguna kaldırıldı.\n\nEkipler olayla ilgili inceleme başlattı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/balik-tutmak-icin-gitmisti-14-yasindaki-cocugun-cesedine-ulasildi-2557678",
-    "Karar: https://www.karar.com/guncel-haberler/balik-tutmaya-gitmisti-14-yasindaki-cocugun-cansiz-bedenine-ulasildi-2085162"
-   ]
-  },
   {
    "id": "ef92b3230b",
    "post_id": "529346797199852_1473732544866453",
@@ -13238,6 +13278,22 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6010610/burhaniye-de-toprak-da-bizim-gelecek-de-mitingi-sandigi-bekle-diyenler-bizi-eve-hapsetmek-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "0d245fe957",
+   "post_id": "529346797199852_1475918277981213",
+   "title": "Rize’de derenin rengi kırmızıya döndü: Tesise idari para cezası kesildi",
+   "at": "2026-11-21T17:38:25.735580+00:00",
+   "yazim": "claude",
+   "metin": "Rize'de kontrolsüz deşarj yaptığı belirtilen bir tesise, derenin rengi kırmızıya dönünce idari para cezası kesildi.\n\n— Tesisin dereyi kirlettiği iddia edildi.\n— Derenin renginin kırmızıya dönmesinin, tesisin kontrolsüz deşarjından kaynaklandığı belirtildi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/rizede-dereye-kontrolsuz-desarj-yapan-tesise-ceza-964076.html",
+    "Habertürk: https://www.haberturk.com/gundem/rize-de-dereye-kirleten-tesise-ceza-3929085",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/rizede-dereyi-kirmiziya-boyayan-tesis-tespit-edildi-ceza-kesildi-4875273",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/rizede-kirmizi-akan-dere-alarm-verdirdi-kontrolsuz-desarj-yapan-tesise-ceza-yagdi-4875258",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/degirmendere-deresi-kirmizi-akti-tesis-tespit-edildi-4875234",
+    "BirGün: https://www.birgun.net/haber/rizede-derenin-rengi-kirmiziya-dondu-tesise-idari-para-cezasi-kesildi-747683"
+   ]
   }
  ],
  "fails": {
@@ -13559,7 +13615,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124188023432585495",
+   "since_id": "2124195677018202151",
    "started": true
   },
   "ajansmuhbir1923": {
