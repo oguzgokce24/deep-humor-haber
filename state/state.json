@@ -10719,20 +10719,59 @@
     "üçte"
    ],
    "at": "2026-11-21T03:57:04.449233+00:00"
+  },
+  {
+   "fp": [
+    "331",
+    "aktar",
+    "albay",
+    "dosya",
+    "ereğl",
+    "fon",
+    "lira",
+    "milyo",
+    "tekst",
+    "çıktı"
+   ],
+   "tok": [
+    "aktar",
+    "albay",
+    "bağlı",
+    "bin",
+    "birik",
+    "bolat",
+    "dosya",
+    "emir",
+    "ereğl",
+    "fon",
+    "fonda",
+    "fonla",
+    "grubu",
+    "hedef",
+    "ise",
+    "işçis",
+    "liral",
+    "murat",
+    "parti",
+    "payın",
+    "portf",
+    "sordu",
+    "spekü",
+    "sürdü",
+    "tekst",
+    "telek",
+    "ticar",
+    "vurgu",
+    "çıktı",
+    "ömer",
+    "öne",
+    "özlal",
+    "ümit"
+   ],
+   "at": "2026-11-21T04:00:49.019695+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d64adc921e",
-   "post_id": "529346797199852_1473062518266789",
-   "title": "Basına sansürde amaç gerçeğin üstünü örtmek",
-   "at": "2026-11-19T03:07:40.410191+00:00",
-   "yazim": "claude",
-   "metin": "Kayyum atanan Sözcü TV'de yayın akışına müdahale edildi.\n\n— Ardından Sözcü gazetesi yazarlarının yazıları internet sitesine aktarılamaz hale geldi.\n\n— YENİ Parti İstanbul İl Başkanı Özgür Çelik, 22 Kasım Pazar günü Beşiktaş Balmumcu'dan Barbaros Meydanı'na yürüyüş yapacaklarını duyurdu ve herkesi eyleme katılmaya çağırdı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/basina-sansurde-amac-gercegin-ustunu-ortmek-747209"
-   ]
-  },
   {
    "id": "f469a8bb24",
    "post_id": "529346797199852_1473070551599319",
@@ -13351,6 +13390,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/ortadogu-valisi-barrack-anlasmadan-memnun-suriye-nin-enerji-kaynaklari-abd-li-sirketlere-aciliyor-747549"
    ]
+  },
+  {
+   "id": "31e5c3c3e5",
+   "post_id": "529346797199852_1475227281383646",
+   "title": "Fon dosyasından Albayraklar çıktı: Ereğli Tekstil’e 331 milyon lira aktarılmış",
+   "at": "2026-11-21T04:00:49.019695+00:00",
+   "yazim": "claude",
+   "metin": "YENİ Parti'li Ümit Özlale, Hedef Portföy fonlarının Albayrak Grubu'na bağlı Ereğli Tekstil'e 331 milyon lira aktardığını öne sürdü.\n\n— Özlale, Ticaret Bakanı Ömer Bolat'a bu fondaki payının ne olduğunu sordu.\n\n— YENİ Parti'li Murat Emir ise 50 bin Türk Telekom işçisinin 212 milyon liralık birikiminin spekülatif fonlara aktarıldığını açıkladı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/fon-dosyasindan-albayraklar-cikti-eregli-tekstile-331-milyon-lira-aktarilmis-747542"
+   ]
   }
  ],
  "fails": {
@@ -13611,17 +13661,10 @@
   "b64656da71": 1,
   "38928bc5de": 1,
   "0765fcad53": 1,
-  "f4cb8cea58": 1,
-  "31d667ecc9": 1
+  "f4cb8cea58": 2,
+  "31d667ecc9": 2
  },
  "fail_log": [
-  "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı",
-  "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı",
-  "2026-11-20T23:29 Eskiden her evde vardı, şimdi servet değerinde: Bakır ibrik  -> ValueError: yanıt okunamadı",
-  "2026-11-21T00:30 Galatasaray'da dev maçlar öncesi sakatlık alarmı: Victor Osi -> ValueError: yanıt okunamadı",
-  "2026-11-21T00:30 Galatasaray'da dev maçlar öncesi sakatlık alarmı: Victor Osi -> ValueError: yanıt okunamadı",
-  "2026-11-21T00:30 Galatasaray'da dev maçlar öncesi sakatlık alarmı: Victor Osi -> ValueError: yanıt okunamadı",
-  "2026-11-21T00:30 Tuzla tersanelerinde işçi yaşamı: Tahtakurusu yüzünden cami  -> ValueError: yanıt okunamadı",
   "2026-11-21T00:30 Tuzla tersanelerinde işçi yaşamı: Tahtakurusu yüzünden cami  -> ValueError: cümle yarım kalmış: 'ların işlettiği pansiyonlarda odalarda ü'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-21T00:30 Tuzla tersanelerinde işçi yaşamı: Tahtakurusu yüzünden cami  -> ValueError: yanıt okunamadı",
   "2026-11-21T01:22 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
@@ -13654,7 +13697,14 @@
   "2026-11-21T03:57 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
   "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
-  "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı"
+  "2026-11-21T03:57 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:00 Fon dosyasından Albayraklar çıktı: Ereğli Tekstil’e 331 mily -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
