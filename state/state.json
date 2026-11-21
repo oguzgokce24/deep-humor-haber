@@ -2,66 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "kiev",
-    "rusya",
-    "saldı",
-    "sivil",
-    "ukray",
-    "öldü"
-   ],
-   "tok": [
-    "aldığ",
-    "altya",
-    "ardın",
-    "bazı",
-    "başke",
-    "beled",
-    "belir",
-    "bildi",
-    "binal",
-    "bulun",
-    "büyük",
-    "dan",
-    "dnipr",
-    "drone",
-    "düzen",
-    "füze",
-    "geldi",
-    "gerçe",
-    "gördü",
-    "göre",
-    "hasar",
-    "holla",
-    "idare",
-    "iha",
-    "isabe",
-    "karşı",
-    "kasım",
-    "kent",
-    "kiev",
-    "kliçk",
-    "kriti",
-    "köprü",
-    "kırım",
-    "nehri",
-    "nın",
-    "putin",
-    "rusya",
-    "sivil",
-    "tesis",
-    "ukray",
-    "veril",
-    "vital",
-    "yakla",
-    "çalış",
-    "ölenl",
-    "üzeri"
-   ],
-   "at": "2026-11-20T08:41:37.249009+00:00"
-  },
-  {
-   "fp": [
     "guy",
     "hafta",
     "sonu",
@@ -10902,23 +10842,97 @@
     "yaşan"
    ],
    "at": "2026-11-21T20:30:21.717723+00:00"
+  },
+  {
+   "fp": [
+    "alaca",
+    "alışk",
+    "getir",
+    "halin",
+    "isted",
+    "işçil",
+    "işçin",
+    "kyr",
+    "paras",
+    "patro",
+    "tabu",
+    "tekst",
+    "ödeme"
+   ],
+   "tok": [
+    "alaca",
+    "alama",
+    "alışk",
+    "ancak",
+    "atıla",
+    "atıld",
+    "aynı",
+    "ayrıl",
+    "aşıyo",
+    "basın",
+    "bazı",
+    "başar",
+    "belir",
+    "bin",
+    "borcu",
+    "bursa",
+    "cadde",
+    "daki",
+    "demir",
+    "devam",
+    "doğru",
+    "ettiğ",
+    "getir",
+    "göre",
+    "görüş",
+    "halin",
+    "hesab",
+    "isted",
+    "istem",
+    "işten",
+    "işçi",
+    "işçil",
+    "işçin",
+    "kabul",
+    "kaldı",
+    "kasım",
+    "kuruş",
+    "kyr",
+    "liray",
+    "ndeki",
+    "nin",
+    "nun",
+    "paras",
+    "patro",
+    "rabia",
+    "savun",
+    "sorum",
+    "sözcü",
+    "tabu",
+    "taki",
+    "tek",
+    "tekst",
+    "vişne",
+    "yakla",
+    "yapan",
+    "yaptı",
+    "yapıl",
+    "yatır",
+    "zara",
+    "zorun",
+    "çalış",
+    "ödeme",
+    "ödenm",
+    "önünd",
+    "özmen",
+    "ücret",
+    "ümit",
+    "üreti"
+   ],
+   "at": "2026-11-21T20:45:14.543712+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ebeef3f49e",
-   "post_id": "529346797199852_1473870194852688",
-   "title": "IEA'den uyarı: Orta Doğu'daki çatışma tarihin en büyük enerji güvenliği tehdidi",
-   "at": "2026-11-19T21:09:00.099987+00:00",
-   "yazim": "claude",
-   "metin": "IEA Başkanı Fatih Birol, Hürmüz Boğazı krizi için:\n\n“Hürmüz Boğazı krizi, 1970'lerdeki petrol şoklarını ölçek bakımından geride bırakarak tarihin en büyük enerji güvenliği tehdidini yarattı.”\n\n— ABD ve İsrail'in şubat ayında İran'a saldırmasının ardından İran, Hürmüz Boğazı'nı abluka altına aldı ve bölgedeki tankerlere saldırdı. Körfez ülkeleri petrol ihracatında ciddi sorun yaşıyor.\n— Kriz öncesinde dünya petrol sevkiyatının yaklaşık beşte biri bu boğazdan geçiyordu. ABD'nin eskort girişimlerine rağmen tedarik hatlarındaki aksamalar sürüyor.\n— Uluslararası Enerji Ajansı, petrol fiyatlarının yükseldiğini ve maliyetin giderek tüketicilere yüklendiğini belirtti. Ajans, krizin geçmişteki enerji krizleri gibi \"kalıcı izler\" bırakacağını da uyardı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdden-orta-dogudaki-vatandaslarina-yuksek-teyakkuz-uyarisi/4131540",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/abdden-orta-dogudaki-vatandaslarina-yuksek-teyakkuz-uyarisi-963874.html",
-    "Euronews: https://tr.euronews.com/2026/11/19/ieaden-uyari-orta-dogudaki-catisma-tarihin-en-buyuk-enerji-guvenligi-tehdidi",
-    "BirGün: https://www.birgun.net/haber/abd-den-ortadogu-daki-vatandaslarina-yuksek-teyakkuz-uyarisi-747367"
-   ]
-  },
   {
    "id": "8902343ad9",
    "post_id": "529346797199852_1473877724851935",
@@ -13488,6 +13502,17 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2124237688060727416"
    ]
+  },
+  {
+   "id": "ee44531ed8",
+   "post_id": "529346797199852_1476053111301063",
+   "title": "KYR Tekstil ve TABU Tekstil işçileri alacaklarını istedi: Patronlar işçinin parasını ödememeyi alışkanlık haline getirmiş",
+   "at": "2026-11-21T20:45:14.543712+00:00",
+   "yazim": "claude",
+   "metin": "Bursa'da TABU ve KYR Tekstil'de işten atılan ve çalışmaya devam eden yaklaşık 50 işçi, ödenmeyen alacaklarını istemek için KYR Tekstil önünde basın açıklaması yaptı.\n\nİşçi sözcüsü Rabia Özmen: \"Vişne Caddesi'ndeki TABU'nun da Demirtaş'taki KYR'nin de patronu aynı kişi, Ümit Başaran.\"\n\n— Özmen'e göre bazı işçilerin alacağı 250 bin lirayı aşıyor ve en az 50 işçi ya işten atıldı ya da parasını alamadan ayrılmak zorunda kaldı.\n— Özmen, Başaran'ın 10 Kasım'daki görüşmede borcu kabul ettiğini, ancak 20 Kasım'a kadar hesaba tek kuruş yatırmadığını söyledi.\n— KYR'de doğrudan Zara'ya üretim yapıldığını belirten Özmen, Zara ve Öz Tekstil'in de alacaklardan sorumlu olduğunu savundu.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010621/kyr-tekstil-ve-tabu-tekstil-iscileri-alacaklarini-istedi-patronlar-iscinin-parasini-odememeyi-aliskanlik-haline-getirmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13765,13 +13790,10 @@
   "0ae33b61b8": 1,
   "8b731f8542": 1,
   "3b9d10236e": 1,
-  "722754f634": 1
+  "722754f634": 1,
+  "55da2c7781": 1
  },
  "fail_log": [
-  "2026-11-21T13:46 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
-  "2026-11-21T13:46 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
-  "2026-11-21T14:01 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
-  "2026-11-21T14:01 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
   "2026-11-21T14:01 İtalya'da mafya soruşturmasında adı geçen eski emniyet müdür -> ValueError: yanıt okunamadı",
   "2026-11-21T15:15 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
   "2026-11-21T15:15 30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: -> ValueError: yanıt okunamadı",
@@ -13807,12 +13829,16 @@
   "2026-11-21T19:52 GTA 6'da Paul Walker'ın Hızlı ve Öfkeli filminde kullandığı  -> ValueError: yanıt okunamadı",
   "2026-11-21T19:52 GTA 6'da Paul Walker'ın Hızlı ve Öfkeli filminde kullandığı  -> ValueError: yanıt okunamadı",
   "2026-11-21T20:30 PSG'de sakatlanan Doue, sahayı sedyeyle terk etti. -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-21T20:30 PSG'de sakatlanan Doue, sahayı sedyeyle terk etti. -> ValueError: yanıt okunamadı"
+  "2026-11-21T20:30 PSG'de sakatlanan Doue, sahayı sedyeyle terk etti. -> ValueError: yanıt okunamadı",
+  "2026-11-21T20:45 2026 yılında en çok kullanılan parola \"123456\" oldu. -> ValueError: yanıt okunamadı",
+  "2026-11-21T20:45 2026 yılında en çok kullanılan parola \"123456\" oldu. -> ValueError: yanıt okunamadı",
+  "2026-11-21T20:45 2026 yılında en çok kullanılan parola \"123456\" oldu. -> ValueError: yanıt okunamadı",
+  "2026-11-21T20:45 KYR Tekstil ve TABU Tekstil işçileri alacaklarını istedi: Pa -> ValueError: cümle yarım kalmış: 'ni belirterek Zara ve Öz Tekstil'i de al'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124237688060727416",
+   "since_id": "2124241839951900789",
    "started": true
   },
   "ajansmuhbir1923": {
