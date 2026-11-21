@@ -2,78 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altın",
-    "fiyat",
-    "gram",
-    "kriti",
-    "seviy"
-   ],
-   "tok": [
-    "altın",
-    "araşt",
-    "ayın",
-    "ayınd",
-    "başla",
-    "bin",
-    "chart",
-    "coope",
-    "daki",
-    "doğu",
-    "dönüş",
-    "düşük",
-    "düşüş",
-    "emtia",
-    "eğili",
-    "fiyat",
-    "geril",
-    "gram",
-    "gördü",
-    "göre",
-    "görül",
-    "günce",
-    "güven",
-    "hızlı",
-    "indi",
-    "inere",
-    "itiba",
-    "işlem",
-    "kasım",
-    "kriti",
-    "küres",
-    "liman",
-    "lirad",
-    "liran",
-    "nakde",
-    "nakit",
-    "ocak",
-    "olmak",
-    "ons",
-    "orta",
-    "otomo",
-    "piyas",
-    "saat",
-    "sabah",
-    "sağla",
-    "seviy",
-    "stand",
-    "suki",
-    "sürüy",
-    "sınır",
-    "varlı",
-    "yatır",
-    "yönel",
-    "yükse",
-    "çatış",
-    "çevir",
-    "çeyre",
-    "çıkan",
-    "çıkmı",
-    "çıkıp"
-   ],
-   "at": "2026-11-20T05:40:33.349287+00:00"
-  },
-  {
-   "fp": [
     "2",
     "hatay",
     "kiral",
@@ -10697,24 +10625,65 @@
     "yağdı"
    ],
    "at": "2026-11-21T17:38:25.735580+00:00"
+  },
+  {
+   "fp": [
+    "düşen",
+    "inşaa",
+    "işçi",
+    "öldü"
+   ],
+   "tok": [
+    "acı",
+    "altın",
+    "appea",
+    "bağır",
+    "beled",
+    "birin",
+    "diken",
+    "diye",
+    "durdu",
+    "duydu",
+    "düşen",
+    "ekipl",
+    "ekska",
+    "firma",
+    "first",
+    "götür",
+    "göçük",
+    "güngö",
+    "hasta",
+    "ilçes",
+    "inşaa",
+    "işçi",
+    "işçil",
+    "kalan",
+    "kaldı",
+    "katın",
+    "kayma",
+    "kurta",
+    "linka",
+    "mahal",
+    "olay",
+    "post",
+    "sakin",
+    "site",
+    "sıras",
+    "temel",
+    "the",
+    "topra",
+    "yasin",
+    "yaşın",
+    "çalış",
+    "çıkar",
+    "üncü",
+    "şanlı",
+    "şengü"
+   ],
+   "at": "2026-11-21T17:51:00.371595+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ef92b3230b",
-   "post_id": "529346797199852_1473732544866453",
-   "title": "Meteoroloji açıkladı: Hafta sonu birçok ilde sağanak bekleniyor",
-   "at": "2026-11-19T17:47:07.248242+00:00",
-   "yazim": "claude",
-   "metin": "Cuma ile pazar arasında yurdun büyük bölümünde sağanak yağış bekleniyor.\n\n— Cuma günü İstanbul, Kocaeli, Sakarya, Samsun, Adana, Osmaniye ve Hatay'da yağış kuvvetli olacak. Marmara ve Batı Karadeniz'de kuvvetli fırtına bekleniyor.\n\n— Cumartesi Orta ve Doğu Karadeniz ile Adana, Osmaniye ve Hatay'da kuvvetli yağış görülecek. Pazar günü ise Güneydoğu Anadolu'nun kuzeyi ve Doğu Anadolu'nun güneydoğusu da yağıştan etkilenecek.\n\n— Ankara'da cumartesi sağanak bekleniyor, pazar günü yağış öngörülmüyor.\n\n— Hava Tahmin Uzmanı İlker Koç, olumsuz hava koşullarına karşı vatandaşların tedbirli olmasını istedi.\n\n— Pazartesi yağışlı hava ülkeyi terk edecek, ama aynı gün batıdan yeni bir yağış sistemi giriş yapacak. Salı ve çarşamba günleri yağış ülkenin büyük bölümüne yayılacak ve hafta ortasından itibaren hava belirgin şekilde soğuyacak.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/yurdun-buyuk-bolumunde-hafta-sonu-yagis-etkili-olacak-963850.html",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-saganak-yeniden-geliyor-hafta-sonu-yurdun-buyuk-bolumunde-yagis-var-3928585",
-    "BirGün: https://www.birgun.net/haber/meteoroloji-il-il-uyardi-hafta-sonu-saganak-etkili-olacak-747310",
-    "Karar: https://www.karar.com/guncel-haberler/meteoroloji-acikladi-hafta-sonu-bircok-ilde-saganak-bekleniyor-2085131",
-    "Diken: https://www.diken.com.tr/istanbul-dahil-hafta-sonu-yagisli/?utm_source=rss&utm_medium=rss&utm_campaign=istanbul-dahil-hafta-sonu-yagisli"
-   ]
-  },
   {
    "id": "b0a8a275f4",
    "post_id": "529346797199852_1473742678198773",
@@ -13294,6 +13263,19 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/degirmendere-deresi-kirmizi-akti-tesis-tespit-edildi-4875234",
     "BirGün: https://www.birgun.net/haber/rizede-derenin-rengi-kirmiziya-dondu-tesise-idari-para-cezasi-kesildi-747683"
    ]
+  },
+  {
+   "id": "6599c4ddc8",
+   "post_id": "529346797199852_1475929381313436",
+   "title": "Güngören'de inşaatta göçük: Bir işçi öldü",
+   "at": "2026-11-21T17:51:00.371595+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Güngören ilçesinde temel çalışması sırasında toprak altında kalan 52 yaşındaki bir işçi hayatını kaybetti.\n\nToprak kayması sırasında altında kalan işçi, ekiplerce çıkarıldı ama hastanede kurtarılamadı.\n\n— Belediye ekipleri inşaattaki çalışmaları durdurdu.\n— Polis, firma çalışanı ve ekskavatör operatörünü polis merkezine götürdü.\n\nMahalle sakini Yasin Şengül, işçilerden birinin “Öldü, öldü” diye bağırdığını duyduğunu söyledi.",
+   "sources": [
+    "Yeni Şafak: https://www.yenisafak.com/gundem/sanliurfada-insaatin-3uncu-katindan-dusen-isci-oldu-4875260",
+    "Evrensel: https://www.evrensel.net/haber/6010604/insaattan-dusen-isci-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Diken: https://www.diken.com.tr/gungorende-insaatta-gocuk-bir-isci-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=gungorende-insaatta-gocuk-bir-isci-oldu"
+   ]
   }
  ],
  "fails": {
@@ -13615,7 +13597,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124195677018202151",
+   "since_id": "2124197081225056517",
    "started": true
   },
   "ajansmuhbir1923": {
