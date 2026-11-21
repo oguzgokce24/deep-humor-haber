@@ -2,36 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "2",
-    "eskiş",
-    "hafif",
-    "kişi",
-    "otomo",
-    "ticar",
-    "tırla",
-    "yaral",
-    "çarpı",
-    "öldü"
-   ],
-   "tok": [
-    "ağır",
-    "birin",
-    "durum",
-    "eskiş",
-    "feci",
-    "hafif",
-    "otomo",
-    "tanke",
-    "ticar",
-    "tırla",
-    "çarpı",
-    "öğren"
-   ],
-   "at": "2026-11-19T13:55:36.616446+00:00"
-  },
-  {
-   "fp": [
     "adale",
     "araka",
     "divan",
@@ -10886,20 +10856,75 @@
     "ünive"
    ],
    "at": "2026-11-21T01:47:58.962239+00:00"
+  },
+  {
+   "fp": [
+    "alaca",
+    "cumhu",
+    "fon",
+    "göre",
+    "hırsı",
+    "keyfi",
+    "konuş",
+    "mağdu",
+    "param"
+   ],
+   "tok": [
+    "alabi",
+    "alaca",
+    "alpar",
+    "ana",
+    "ancak",
+    "ardın",
+    "bizi",
+    "büyük",
+    "devle",
+    "eliyl",
+    "erdoğ",
+    "etse",
+    "eylem",
+    "farkl",
+    "fon",
+    "galip",
+    "göre",
+    "gücüy",
+    "hırsı",
+    "iddia",
+    "ihmal",
+    "iktid",
+    "ini",
+    "inin",
+    "ise",
+    "kamu",
+    "keyfi",
+    "konuş",
+    "kısmı",
+    "mağdu",
+    "murat",
+    "oluşt",
+    "param",
+    "paran",
+    "paras",
+    "skand",
+    "soydu",
+    "spk",
+    "söyle",
+    "söylü",
+    "yaşay",
+    "yetki",
+    "yoğun",
+    "yurtt",
+    "yönde",
+    "yönte",
+    "yüzde",
+    "çözüm",
+    "ödend",
+    "önünd"
+   ],
+   "at": "2026-11-21T02:00:40.609197+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ec0c235efe",
-   "post_id": "529346797199852_1472977641608610",
-   "title": "TBMM Komisyonu'nda kabul edildi: 2017 öncesine ait ödenmemiş GSS borçları siliniyor, ödeyenlere iade yok",
-   "at": "2026-11-19T00:59:34.239366+00:00",
-   "yazim": "claude",
-   "metin": "2017 öncesine ait ödenmemiş GSS borçları siliniyor.\n\n— Meclis Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonu, yenilenebilir enerji kanun teklifini kabul etti. Teklifin 10. maddesi bu borçlarla ilgili.\n\n— 1 Ocak 2017'den önceki dönemlere ait ödenmemiş genel sağlık sigortası primlerinin tahsilinden vazgeçilecek. Bu borçlara bağlı gecikme cezası ve gecikme zammı da silinecek.\n\n— Bu dönemler için daha önce ödenmiş primler ise iade edilmeyecek.\n\n— Teklif henüz yasalaşmadı. Komisyondan geçti, yürürlüğe girmesi için Genel Kurul'da da kabul edilmesi gerekiyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tbmm-komisyonu-nda-kabul-edildi-2017-oncesine-ait-odenmemis-gss-borclari-siliniyor-odeyenlere-iade-yok-747216"
-   ]
-  },
   {
    "id": "b225e1859a",
    "post_id": "529346797199852_1472985984941109",
@@ -13518,6 +13543,17 @@
    "metin": "Marmara Üniversitesi'nin Nişantaşı'ndaki eski fakülte arazisi lüks konut projesine dönüştü. Buradaki 4,5+1 bir daire için aylık 580 bin TL kira isteniyor.\n\n— Bu tutar net asgari ücretin yaklaşık 21, en düşük emekli aylığının yaklaşık 25 katı.\n— Arazi 2017'de TOKİ'ye devredildi. 2018'de imar planı değiştirilerek konut yapılmasının önü açıldı.\n— Emlak Konut GYO'nun ihalesini DAP Yapı iştiraki Eltes İnşaat ile İstlife ortaklığı kazandı.\n— Projeye 92 konut ve bir ticari birim için ruhsat verildi.\n— Teşvikiye sakinleri, arazinin deprem toplanma alanı olarak korunması için dava açtı.",
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/marmara-universitesi-nin-eski-arazisine-luks-konut-fakultenin-yerinde-580-bin-tl-kira-2557982"
+   ]
+  },
+  {
+   "id": "0a2931f630",
+   "post_id": "529346797199852_1475145481391826",
+   "title": "Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyfine göre mi alacağız?’",
+   "at": "2026-11-21T02:00:40.609197+00:00",
+   "yazim": "claude",
+   "metin": "Fon mağduru Murat Galip Alparslan:\n\n“Bizi devlet eliyle soydular. Kamu yetkililerinin gücüyle soydular.”\n\n— Fon mağdurları, Ankara'da SPK önünde eylem yaptı.\n— Mağdurlar, ana paranın yüzde 8'ini ancak alabildiklerini söylüyor.\n— Cumhurbaşkanı Erdoğan ise mağdurların yüzde 80'inin ana parasının ödendiğini söylemişti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-magdurlari-cumhuriyet-e-konustu-paramizi-hirsizin-keyfine-gore-mi-alacagiz-2557934"
    ]
   }
  ],
