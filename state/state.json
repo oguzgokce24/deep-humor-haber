@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "28",
-    "alınd",
-    "dolan",
-    "gözal",
-    "istan",
-    "merke",
-    "opera",
-    "sahte",
-    "çağrı",
-    "şüphe"
-   ],
-   "tok": [
-    "adres",
-    "ait",
-    "almad",
-    "alına",
-    "alınd",
-    "alınm",
-    "baskı",
-    "belir",
-    "binle",
-    "bitki",
-    "cemaa",
-    "cezai",
-    "cinse",
-    "deki",
-    "devle",
-    "diyer",
-    "dolan",
-    "durum",
-    "düzen",
-    "edile",
-    "ettik",
-    "firar",
-    "görül",
-    "ilaçl",
-    "inter",
-    "işlem",
-    "kargo",
-    "kağıt",
-    "kişil",
-    "kişis",
-    "korku",
-    "kuran",
-    "küçük",
-    "para",
-    "sahte",
-    "sipar",
-    "sulta",
-    "söyle",
-    "süley",
-    "sürer",
-    "sürüy",
-    "talep",
-    "tesli",
-    "uygul",
-    "vata",
-    "veri",
-    "yapıl",
-    "yaşın",
-    "yurtt",
-    "yönel",
-    "yönet",
-    "zaman",
-    "çalış",
-    "çağrı",
-    "öne",
-    "üzeri",
-    "şebek"
-   ],
-   "at": "2026-11-19T14:33:00.160736+00:00"
-  },
-  {
-   "fp": [
     "24",
     "devri",
     "minib",
@@ -10835,22 +10761,54 @@
     "ülkel"
    ],
    "at": "2026-11-21T02:30:23.388458+00:00"
+  },
+  {
+   "fp": [
+    "17",
+    "8",
+    "bütçe",
+    "elekt",
+    "karar",
+    "milya",
+    "özell",
+    "şirke"
+   ],
+   "tok": [
+    "aktar",
+    "aldı",
+    "astro",
+    "aydın",
+    "aynı",
+    "boyut",
+    "bütçe",
+    "cadde",
+    "dağıt",
+    "dönem",
+    "ekim",
+    "elekt",
+    "fatur",
+    "göre",
+    "hane",
+    "hanen",
+    "kamu",
+    "karşı",
+    "kayna",
+    "milya",
+    "ocak",
+    "resmi",
+    "sokak",
+    "ulaşt",
+    "veril",
+    "yapıl",
+    "ödeme",
+    "ödeye",
+    "özell",
+    "şirke"
+   ],
+   "at": "2026-11-21T02:42:49.711190+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c75f891a08",
-   "post_id": "529346797199852_1473010598271981",
-   "title": "İstanbul'da lodos etkisini sürdürüyor: Dalgalar metrelerce yükseldi",
-   "at": "2026-11-19T01:53:18.604148+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da lodos etkisini sürdürüyor, dalgalar metrelerce yükseldi.\n\nLodos dün gündüz saatlerinde etkili olmaya başladı ve gece boyunca da devam etti.\n\n— Kentte kuvvetli rüzgâr etkisini sürdürüyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/meteoroloji-uyarmisti-istanbulda-lodos-etkili-oluyor-dalgalar-metrelerce-yukseldi-7703510",
-    "BirGün: https://www.birgun.net/haber/istanbul-da-lodos-etkisini-surduruyor-dalgalar-metrelerce-yukseldi-747225",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/meteoroloji-uyarmisti-istanbulda-lodos-etkili-oluyor-dalgalar-metrelerce-yukseldi-7703510"
-   ]
-  },
   {
    "id": "0fdc136517",
    "post_id": "529346797199852_1473022031604171",
@@ -13468,6 +13426,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/cop31-in-kapanisi-oncesi-fosil-yakitlardan-uzaklasma-ifadesi-taslaktan-cikarildi-cikis-takvimi-belirsizligi-2557986",
     "BirGün: https://www.birgun.net/haber/fosil-yakitlardan-cikis-metinden-cikarildi-uygulama-degil-erteleme-cop-u-747535"
+   ]
+  },
+  {
+   "id": "52fe8de754",
+   "post_id": "529346797199852_1475173391389035",
+   "title": "Özelleştirme bütçeyi kararttı: Elektrik şirketlerine 17,8 milyar TL",
+   "at": "2026-11-21T02:42:49.711190+00:00",
+   "yazim": "claude",
+   "metin": "Elektrik dağıtım şirketleri, Ocak-Ekim 2026 döneminde kamu bütçesinden 17,8 milyar TL aldı.\n\n— Bu ödeme, sokak ve caddelerin aydınlatması karşılığında yapıldı.\n— Resmi verilere göre aynı dönemde 1,8 milyon hane elektrik faturasını ödeyemedi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/ozellestirme-butceyi-karartti-elektrik-sirketlerine-17-8-milyar-tl-747538"
    ]
   }
  ],
