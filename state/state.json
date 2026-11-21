@@ -2,62 +2,6 @@
  "seen": [
   {
    "fp": [
-    "dem",
-    "den",
-    "izlem",
-    "karar",
-    "komis",
-    "parti",
-    "çağrı"
-   ],
-   "tok": [
-    "almas",
-    "ayşeg",
-    "barış",
-    "bulun",
-    "dem",
-    "demok",
-    "den",
-    "değer",
-    "doğan",
-    "düşün",
-    "eleşt",
-    "gelec",
-    "genel",
-    "gerek",
-    "grubu",
-    "gözde",
-    "isted",
-    "isten",
-    "izlem",
-    "katkı",
-    "komis",
-    "mecli",
-    "medya",
-    "nin",
-    "parti",
-    "riski",
-    "sağla",
-    "sözcü",
-    "sürec",
-    "taşıd",
-    "taşıy",
-    "verme",
-    "vurgu",
-    "yanıt",
-    "yenid",
-    "yer",
-    "zayıf",
-    "zemin",
-    "çağrı",
-    "özel",
-    "özgür",
-    "üye"
-   ],
-   "at": "2026-11-19T16:01:05.352420+00:00"
-  },
-  {
-   "fp": [
     "chase",
     "hizme",
     "jpmor",
@@ -10769,20 +10713,162 @@
     "ümit"
    ],
    "at": "2026-11-21T04:00:49.019695+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "ağacı",
+    "bahçe",
+    "bol",
+    "ekene",
+    "kazan",
+    "maliy",
+    "meyve",
+    "ürünü"
+   ],
+   "tok": [
+    "ağacı",
+    "bahçe",
+    "bol",
+    "ekene",
+    "gelir",
+    "ideal",
+    "istey",
+    "kazan",
+    "kendi",
+    "maliy",
+    "meyve",
+    "sağla",
+    "verim",
+    "yetiş",
+    "yükse",
+    "ürünü"
+   ],
+   "at": "2026-11-21T04:13:19.997965+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "12",
+    "7",
+    "ayın",
+    "batağ",
+    "birey",
+    "borç",
+    "buhra",
+    "büyük",
+    "emekl",
+    "geçti",
+    "günü",
+    "trily",
+    "çekiy"
+   ],
+   "tok": [
+    "arttı",
+    "aylığ",
+    "ayın",
+    "açlık",
+    "batağ",
+    "bine",
+    "birey",
+    "birli",
+    "borcu",
+    "borç",
+    "buhra",
+    "büyük",
+    "düşük",
+    "ekono",
+    "emekl",
+    "geniş",
+    "geris",
+    "geçti",
+    "günü",
+    "iktid",
+    "işsiz",
+    "kaldı",
+    "kapan",
+    "kartı",
+    "kredi",
+    "liray",
+    "sayıs",
+    "sınır",
+    "tablo",
+    "tanım",
+    "trily",
+    "tüket",
+    "ulaşt",
+    "yarat",
+    "yurtt",
+    "yüzde",
+    "çekiy",
+    "şirke"
+   ],
+   "at": "2026-11-21T04:13:22.097194+00:00"
+  },
+  {
+   "fp": [
+    "anaya",
+    "asla",
+    "bizi",
+    "davet",
+    "den",
+    "değiş",
+    "erdoğ",
+    "etmes",
+    "kimse",
+    "komis",
+    "olmad",
+    "onunl",
+    "parça",
+    "planl",
+    "yanın",
+    "çıkış",
+    "özel"
+   ],
+   "tok": [
+    "adayl",
+    "adıml",
+    "aktar",
+    "anaya",
+    "asla",
+    "atılm",
+    "ayrın",
+    "açaca",
+    "belir",
+    "bizi",
+    "davet",
+    "demok",
+    "den",
+    "deste",
+    "değiş",
+    "erdoğ",
+    "etmes",
+    "görüş",
+    "katıl",
+    "kimse",
+    "komis",
+    "kurtu",
+    "numan",
+    "olmad",
+    "onunl",
+    "parça",
+    "payla",
+    "planl",
+    "tbmm",
+    "verme",
+    "yanın",
+    "yaptı",
+    "yenid",
+    "yinel",
+    "çıkış",
+    "önünü",
+    "özel",
+    "özgür"
+   ],
+   "at": "2026-11-21T04:13:27.744372+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f469a8bb24",
-   "post_id": "529346797199852_1473070551599319",
-   "title": "Konya Şeker mali krizin faturasını emekçiye kesti",
-   "at": "2026-11-19T03:20:27.078451+00:00",
-   "yazim": "claude",
-   "metin": "Konya Şeker'in işlettiği Kangal Termik Santrali'nde üretim durduruldu ve yaklaşık bin işçi izne çıkarıldı.\n\n— Santralde çalışan işçilerin bir kısmı ücretli, bir kısmı ücretsiz izne gönderildi.\n\n— İşçiler, Soma'da olduğu gibi santralin TKİ'ye geçmesinden endişe ediyor. Soma'da milyarlarca liralık borç nedeniyle santral TKİ'ye geçmişti.\n\n— Bu yüzden işçiler santralin kamulaştırılması için talepte bulundu.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/konya-seker-mali-krizin-faturasini-emekciye-kesti-747213"
-   ]
-  },
   {
    "id": "74ab7d1b68",
    "post_id": "529346797199852_1473079338265107",
@@ -13401,6 +13487,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/fon-dosyasindan-albayraklar-cikti-eregli-tekstile-331-milyon-lira-aktarilmis-747542"
    ]
+  },
+  {
+   "id": "fd299bcc40",
+   "post_id": "529346797199852_1475236641382710",
+   "title": "Özel’den komisyon çıkışı: \"Kimse bizi Erdoğan’ın yanına davet etmesin, onunla Anayasa değiştirme planlarının asla parçası olmadık\"",
+   "at": "2026-11-21T04:13:27.744372+00:00",
+   "yazim": "claude",
+   "metin": "Özgür Özel, komisyon için:\n\n“Kimse bizi Erdoğan’ın yanına davet etmesin, onunla Anayasa değiştirme planlarının asla parçası olmadık.”\n\n— Özel, demokratikleşme adımları atılmadan komisyona katılmayacaklarını yineledi.\n\n— Erdoğan'ın yeniden adaylığının önünü açacak bir Anayasa değişikliğine destek vermeyeceklerini belirtti.\n\n— TBMM Başkanı Numan Kurtulmuş ile yaptığı görüşmenin ayrıntılarını da paylaştı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/ozelden-komisyon-cikisi-kimse-bizi-erdoganin-yanina-davet-etmesin-onunla-anayasa-degistirme-planlarinin-asla-parcasi-olmadik-747543"
+   ]
   }
  ],
  "fails": {
@@ -13660,15 +13757,9 @@
   "300e1d13a6": 1,
   "b64656da71": 1,
   "38928bc5de": 1,
-  "0765fcad53": 1,
-  "f4cb8cea58": 2,
-  "31d667ecc9": 2
+  "0765fcad53": 1
  },
  "fail_log": [
-  "2026-11-21T00:30 Tuzla tersanelerinde işçi yaşamı: Tahtakurusu yüzünden cami  -> ValueError: cümle yarım kalmış: 'ların işlettiği pansiyonlarda odalarda ü'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-21T00:30 Tuzla tersanelerinde işçi yaşamı: Tahtakurusu yüzünden cami  -> ValueError: yanıt okunamadı",
-  "2026-11-21T01:22 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
-  "2026-11-21T01:22 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
   "2026-11-21T01:22 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
   "2026-11-21T01:22 Tuzla tersanelerinde işçi yaşamı: Tahtakurusu yüzünden cami  -> ValueError: yanıt okunamadı",
   "2026-11-21T01:34 Peru'da 6,7 büyüklüğünde deprem meydana geldi -> ValueError: yanıt okunamadı",
@@ -13704,7 +13795,11 @@
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
-  "2026-11-21T04:00 Fon dosyasından Albayraklar çıktı: Ereğli Tekstil’e 331 mily -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-21T04:00 Fon dosyasından Albayraklar çıktı: Ereğli Tekstil’e 331 mily -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-21T04:13 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:13 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:13 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
+  "2026-11-21T04:13 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
