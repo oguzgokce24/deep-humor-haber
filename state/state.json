@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "belöz",
-    "den",
-    "emre",
-    "guend",
-    "matte"
-   ],
-   "tok": [
-    "alına",
-    "anlam",
-    "antre",
-    "ara",
-    "açık",
-    "bana",
-    "belir",
-    "belöz",
-    "benim",
-    "bulun",
-    "bunu",
-    "den",
-    "değer",
-    "direk",
-    "ekibi",
-    "emre",
-    "felse",
-    "fener",
-    "fikir",
-    "frans",
-    "futbo",
-    "galib",
-    "geliş",
-    "gerek",
-    "guend",
-    "ilgil",
-    "itira",
-    "izin",
-    "kanal",
-    "kendi",
-    "keski",
-    "kulüb",
-    "laciv",
-    "lig",
-    "liver",
-    "matte",
-    "milli",
-    "net",
-    "nin",
-    "nokta",
-    "nun",
-    "orta",
-    "oyun",
-    "payla",
-    "planl",
-    "planı",
-    "resmi",
-    "sahas",
-    "sahip",
-    "sarı",
-    "süper",
-    "sürek",
-    "takım",
-    "tavsi",
-    "tekni",
-    "telev",
-    "var",
-    "veriy",
-    "vurgu",
-    "yapma",
-    "yaşın",
-    "zaman",
-    "çorum",
-    "önces",
-    "öneml",
-    "şekil"
-   ],
-   "at": "2026-11-19T16:51:55.144689+00:00"
-  },
-  {
-   "fp": [
     "ayrıl",
     "bırak",
     "düzey",
@@ -10794,20 +10716,53 @@
     "çıkac"
    ],
    "at": "2026-11-21T04:48:45.791749+00:00"
+  },
+  {
+   "fp": [
+    "2027",
+    "bütçe",
+    "ibb",
+    "kabul",
+    "mali",
+    "nin",
+    "yılı"
+   ],
+   "tok": [
+    "aslan",
+    "beled",
+    "binas",
+    "bütçe",
+    "büyük",
+    "deki",
+    "geçti",
+    "görüş",
+    "hedef",
+    "ibb",
+    "kabul",
+    "liral",
+    "mali",
+    "mecli",
+    "milya",
+    "nin",
+    "nuri",
+    "oyuyl",
+    "proje",
+    "ret",
+    "saat",
+    "saraç",
+    "sundu",
+    "süren",
+    "topla",
+    "vekil",
+    "yakla",
+    "yapıl",
+    "yılı",
+    "çoklu"
+   ],
+   "at": "2026-11-21T05:01:16.176328+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a2957de2a2",
-   "post_id": "529346797199852_1473100601596314",
-   "title": "Köfteci Yusuf’un işe alım şartları sosyal medyaya düştü",
-   "at": "2026-11-19T03:59:06.351298+00:00",
-   "yazim": "claude",
-   "metin": "Köfteci Yusuf'un iş ilanında bazı pozisyonlar için yaş ve cinsiyet sınırı konuldu.\n\n— Mutfak ve kasap elemanı için 18-47 yaş arası kadın ve erkekler aranıyor.\n— Komi ve garson için 18-37 yaş arası erkekler isteniyor.\n— Kasa görevlisi için 18-34 yaş arası kadınlar aranıyor.\n— Depo görevlisi için 18-39 yaş arası erkekler isteniyor.\n\nİlanda maaşın yanında özel sağlık sigortası, gıda yardımı, bayram primi ve doğum günü hediye çeki gibi yan haklar da sıralanıyor.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/kofteci-yusuf-un-ise-alim-sartlari-sosyal-medyaya-dustu-p382585"
-   ]
-  },
   {
    "id": "b75e14d850",
    "post_id": "529346797199852_1473110414928666",
@@ -13425,6 +13380,17 @@
    "metin": "Marmara'nın kuzeyi, İç Ege ve Karadeniz'de sağanak yağış bekleniyor, rüzgar saatte 60 kilometreye kadar çıkacak.\n\n— Doğu Karadeniz'in yüksek kesimleri ile Doğu Anadolu'nun kuzeydoğusunda karla karışık yağmur ve yer yer kar yağacak.\n— İstanbul'un kuzey ve doğu kesimlerinde sağanak görülecek.\n— Ankara, Eskişehir ve Kırıkkale'nin kuzey ilçelerinde yağış kuvvetli olacak.\n— Kuzey ve iç kesimlerde hava sıcaklıkları 2 ila 6 derece düşecek.\n\nMeteoroloji, ani sel, su baskını, yıldırım ve ulaşım aksamalarına karşı dikkatli olunmasını istedi.",
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/saatte-60-kilometre-hizla-geliyor-sicakliklar-6-derece-cakilacak-p383144"
+   ]
+  },
+  {
+   "id": "c2f2f74745",
+   "post_id": "529346797199852_1475269621379412",
+   "title": "İBB'nin 2027 mali yılı bütçesi kabul edildi",
+   "at": "2026-11-21T05:01:16.176328+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Büyükşehir Belediyesi Meclisi, 565 milyar liralık 2027 bütçesini kabul etti.\n\n— Bütçe, 133 kabul ve 102 ret oyuyla geçti.\n— Yaklaşık 10 saat süren toplantıda İBB Başkan Vekili Nuri Aslan bütçeyi ve hedeflenen projeleri Meclis'e sundu.\n— Görüşmeler Saraçhane'deki belediye binasında yapıldı.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010499/ibb-nin-2027-mali-yili-butcesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
