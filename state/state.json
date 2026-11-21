@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başka",
-    "eğiti",
-    "fırat",
-    "genel",
-    "görev",
-    "veli",
-    "şimşe"
-   ],
-   "tok": [
-    "adım",
-    "atmay",
-    "baskı",
-    "belir",
-    "boşal",
-    "bursa",
-    "dağıl",
-    "devle",
-    "değiş",
-    "dönem",
-    "eğiti",
-    "fırat",
-    "genel",
-    "geri",
-    "getir",
-    "girip",
-    "görev",
-    "hiçbi",
-    "ise",
-    "istif",
-    "kadem",
-    "karşı",
-    "mecli",
-    "memur",
-    "myk",
-    "parti",
-    "rona",
-    "sekre",
-    "sendi",
-    "seçil",
-    "sine",
-    "susma",
-    "tehdi",
-    "veli",
-    "yönet",
-    "özbay",
-    "özkan",
-    "şimşe",
-    "şube"
-   ],
-   "at": "2026-11-19T15:10:40.495636+00:00"
-  },
-  {
-   "fp": [
     "avuka",
     "aym",
     "ağıre",
@@ -10797,20 +10744,52 @@
     "ölçül"
    ],
    "at": "2026-11-21T03:07:52.180552+00:00"
+  },
+  {
+   "fp": [
+    "14",
+    "25",
+    "ayda",
+    "değiş",
+    "diyan",
+    "dışı",
+    "gelen",
+    "yurt"
+   ],
+   "tok": [
+    "arası",
+    "arpag",
+    "attı",
+    "ayda",
+    "ayınd",
+    "değiş",
+    "diyan",
+    "düzen",
+    "dışı",
+    "dışın",
+    "eylül",
+    "gelen",
+    "gerçe",
+    "görev",
+    "ikinc",
+    "imza",
+    "işler",
+    "kasım",
+    "kez",
+    "nca",
+    "safi",
+    "seyah",
+    "tarih",
+    "topla",
+    "yapmı",
+    "yurt",
+    "yılın",
+    "çıktı"
+   ],
+   "at": "2026-11-21T03:20:27.113994+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8f3efd8065",
-   "post_id": "529346797199852_1473039051602469",
-   "title": "Kalamış Yat Limanı genişletme projesi: Kıyı çitle çevrildi",
-   "at": "2026-11-19T02:31:32.995450+00:00",
-   "yazim": "claude",
-   "metin": "Kalamış Yat Limanı'nın genişletme projesi için kıyı çitle çevrilmeye başlandı.\n\nFenerbahçe Kalamış Dayanışması'ndan Alev Ataç:\n\n“Marina büyütme projesi ile stadın taşınması projesinin birlikte değerlendirilmesi gerektiğini düşünüyoruz. Kadıköy’ü çok daha büyük, çok daha lüks bir soylulaştırma projesi bekliyor.”\n\n— Ataç'a göre marina ve stadın taşınması projeleri birlikte ele alınmalı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/kalamis-yat-limani-genisletme-projesi-kiyi-citle-cevrildi-747205"
-   ]
-  },
   {
    "id": "5828e68328",
    "post_id": "529346797199852_1473047541601620",
@@ -13429,6 +13408,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/kamunun-freni-patladi-35-3-milyar-tllik-yolluk-747539"
    ]
+  },
+  {
+   "id": "e911f9d19f",
+   "post_id": "529346797199852_1475199188053122",
+   "title": "Diyanet'te değişmeyen gelenek: 14 ayda 25 yurt dışı",
+   "at": "2026-11-21T03:20:27.113994+00:00",
+   "yazim": "claude",
+   "metin": "Diyanet Başkanı Safi Arpaguş, 14 ayda 25 kez yurt dışına çıktı.\n\n— Görevinin ilk yılında 19 yurt dışı seyahati yapmıştı.\n— Görevinin ikinci yılının ikinci ayında altı seyahate daha çıktı.\n— Seyahatler 28 Eylül 2025 ile 20 Kasım 2026 tarihleri arasında düzenlendi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/diyanet-te-degismeyen-gelenek-14-ayda-25-yurt-disi-747541"
+   ]
   }
  ],
  "fails": {
@@ -13689,12 +13679,9 @@
   "b64656da71": 1,
   "38928bc5de": 1,
   "0765fcad53": 1,
-  "d3eaf86b95": 1
+  "d3eaf86b95": 2
  },
  "fail_log": [
-  "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:07 Sendikalardan ortak mücadele çağrısı: HABAŞ’ta sessizliği bo -> ValueError: yanıt okunamadı",
-  "2026-11-20T22:11 MasterChef eleme adayı kim oldu? 20 Kasım 2026 MasterChef'te -> ValueError: yanıt okunamadı",
   "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
   "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
   "2026-11-20T22:36 Bursa'nın yanı başında: Rengârenk cumbalı evleri ile sanat k -> ValueError: yanıt okunamadı",
@@ -13731,7 +13718,10 @@
   "2026-11-21T01:48 Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyf -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
   "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
-  "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı"
+  "2026-11-21T03:07 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı",
+  "2026-11-21T03:20 AKP'nin eğitim karnesi OECD verilerine yansıdı: Eşitsizlik d -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
