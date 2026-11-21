@@ -10664,22 +10664,78 @@
     "ödeme"
    ],
    "at": "2026-11-21T08:38:56.884170+00:00"
+  },
+  {
+   "fp": [
+    "35",
+    "4",
+    "can",
+    "elekt",
+    "hayat",
+    "kaybe",
+    "kaybı",
+    "kişi",
+    "patla",
+    "santr",
+    "var",
+    "yangı",
+    "yaral",
+    "ırak",
+    "şidde"
+   ],
+   "tok": [
+    "ailem",
+    "ailes",
+    "antal",
+    "ayrıl",
+    "ayırı",
+    "basra",
+    "beled",
+    "belir",
+    "can",
+    "canım",
+    "cezae",
+    "doğan",
+    "döşem",
+    "edili",
+    "elekt",
+    "engel",
+    "göre",
+    "görüş",
+    "hakkı",
+    "haris",
+    "kaybı",
+    "kenti",
+    "kısıt",
+    "nakil",
+    "nde",
+    "neden",
+    "oluyo",
+    "oğlum",
+    "oğlun",
+    "patla",
+    "santr",
+    "savun",
+    "sürdü",
+    "termi",
+    "var",
+    "yangı",
+    "yaptı",
+    "yaşam",
+    "yetmi",
+    "yitir",
+    "çalış",
+    "çıkan",
+    "öne",
+    "ırak",
+    "şeniz",
+    "şidde",
+    "şimdi"
+   ],
+   "at": "2026-11-21T08:53:09.227166+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a40e3d5485",
-   "post_id": "529346797199852_1473269788246062",
-   "title": "Balıkesir'de tek yumrukla ölüm davası: 2 sanık ikinci kez tahliye edildi",
-   "at": "2026-11-19T08:20:21.533540+00:00",
-   "yazim": "claude",
-   "metin": "Balıkesir'in Bandırma ilçesinde kavgada bir yumrukla ölen 26 yaşındaki gencin davasında, iki sanık ikinci kez tahliye edildi.\n\n— Olay 21 Mart'ta, gece saat 03.00 sıralarında bir eğlence mekanında yeniden karşılaşan gruplar arasında çıktı.\n— İlk duruşmada sanıklar ev hapsiyle tahliye edildi, savcılığın itirazı üzerine yeniden tutuklandılar.\n— Avukatların başvurusu üzerine geçen cuma yeniden tahliye edildiler. Mahkeme ev hapsinin devamına karar verdi.\n— Adli Tıp raporuna göre ölüm, darbenin tetiklediği beyin kanamasından kaynaklandı. Önceden var olan anevrizma da ölümde etkili oldu.\n— Savcılık iki sanık için \"kasten öldürme\" suçundan müebbet hapis istiyor.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/tek-yumrukla-soner-in-olumune-neden-olan-caniye-tahliye-p382675",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/balikesir-de-tek-yumrukla-olum-davasi-2-sanik-ikinci-kez-tahliye-edildi-2557491",
-    "Karar: https://www.karar.com/guncel-haberler/soner-cil-davasinda-iki-sanik-ikinci-kez-tahliye-edildi-bir-yumrukla-2085012"
-   ]
-  },
   {
    "id": "bbfc72d6b2",
    "post_id": "529346797199852_1473279268245114",
@@ -13280,6 +13336,20 @@
     "DW Türkçe: https://www.dw.com/tr/can-atalay-aym-ve-ai̇hm-hakkımda-daha-kaç-karar-vermeli/a-80008364?maca=tur-rss-tur-all-1495-xml-mrss",
     "Evrensel: https://www.evrensel.net/haber/6010515/can-atalay-dan-iktidara-aihm-kararini-uygulama-cagrisi-hemen-derhal-ertelemeden-oyalamadan-yerine-getirilmeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "8a1831ae23",
+   "post_id": "529346797199852_1475434081362966",
+   "title": "Irak'ta termik santralde yangın: 4 kişi hayatını kaybetti, 35 yaralı",
+   "at": "2026-11-21T08:53:09.227166+00:00",
+   "yazim": "claude",
+   "metin": "Tutuklu Merkezefendi Belediye Başkanı Şeniz Doğan, Antalya'ya nakil edilirken:\n\n“Yaptıkları yetmiyormuş gibi şimdi de canım oğlumdan, ailemden ayırıyorlar. Antalya Döşemealtı Cezaevi'ne nakil oluyoruz. Görüşmelerimizi engellemeye çalışıyor, savunma hakkımızı kısıtlıyorlar.”\n\n— Doğan, nakil nedeniyle oğlundan ve ailesinden ayrılacağını söyledi.\n— Görüşmelerin engellendiğini ve savunma hakkının kısıtlandığını öne sürdü.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/irakin-basra-kentindeki-elektrik-santralinde-cikan-yanginda-4-kisi-hayatini-kaybetti-35-kisi-yaralandi/4132722",
+    "Milliyet: https://www.milliyet.com.tr/dunya/son-dakika-irakta-elektrik-santralinde-siddetli-patlama-can-kaybi-ve-yaralilar-var-7705043",
+    "Evrensel: https://www.evrensel.net/haber/6010518/irak-ta-termik-santralde-yangin-4-kisi-hayatini-kaybetti-35-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/son-dakika-irakta-elektrik-santralinde-siddetli-patlama-can-kaybi-ve-yaralilar-var-7705043"
+   ]
   }
  ],
  "fails": {
@@ -13553,7 +13623,6 @@
  "fail_log": [
   "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
-  "2026-11-21T04:00 Maliyeti az, ürünü bol: Bahçesine ekene en çok kazandıran 3  -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
   "2026-11-21T04:00 Büyük buhran batağa çekiyor: Emekli ayın 12 günü aç, bireyse -> ValueError: yanıt okunamadı",
@@ -13590,12 +13659,13 @@
   "2026-11-21T07:11 ABD'de Çin'e çip ihracatı tartışması: Schumer, Trump'ı ulusa -> ValueError: yanıt okunamadı",
   "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı",
   "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı",
-  "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı"
+  "2026-11-21T07:23 ABD polisinden GTA 6 oyuncularına uyarı: Suçları gerçek haya -> ValueError: yanıt okunamadı",
+  "2026-11-21T08:53 Irak'ta termik santralde yangın: 4 kişi hayatını kaybetti, 3 -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124055070581150026",
+   "since_id": "2124061613107933200",
    "started": true
   },
   "ajansmuhbir1923": {
