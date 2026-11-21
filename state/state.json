@@ -10894,6 +10894,75 @@
     "şekil"
    ],
    "at": "2026-11-21T21:42:51.742950+00:00"
+  },
+  {
+   "fp": [
+    "bayül",
+    "cumhu",
+    "eseri",
+    "kendi",
+    "okan",
+    "pazar",
+    "polit",
+    "sanat",
+    "yapar"
+   ],
+   "tok": [
+    "ardın",
+    "bayül",
+    "buluş",
+    "draku",
+    "eseri",
+    "fouch",
+    "geced",
+    "josep",
+    "kendi",
+    "kez",
+    "marqu",
+    "napol",
+    "nın",
+    "okan",
+    "olabi",
+    "pazar",
+    "polit",
+    "richa",
+    "sade",
+    "sanat",
+    "skand",
+    "tarih",
+    "yapar",
+    "yaşan"
+   ],
+   "at": "2026-11-21T21:46:34.914128+00:00"
+  },
+  {
+   "fp": [
+    "küçük",
+    "mutlu",
+    "sanat"
+   ],
+   "tok": [
+    "anlar",
+    "bilme",
+    "danim",
+    "değer",
+    "dünya",
+    "günde",
+    "hygge",
+    "koşuş",
+    "kültü",
+    "küçük",
+    "mutlu",
+    "nın",
+    "sanat",
+    "sevdi",
+    "yavaş",
+    "yayıl",
+    "yaşam",
+    "zaman",
+    "öneri"
+   ],
+   "at": "2026-11-21T21:46:40.909109+00:00"
   }
  ],
  "posted": [
@@ -13752,19 +13821,9 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "4a33ec8e9d": 2,
-  "7f656b5d33": 2
+  "2ab2c91f11": 1
  },
  "fail_log": [
-  "2026-11-21T21:23 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:23 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:23 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:23 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:27 Sarı'nın köşesi: Kimin yaşayacağına kim karar veriyor? -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:27 Sarı'nın köşesi: Kimin yaşayacağına kim karar veriyor? -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:27 Sarı'nın köşesi: Kimin yaşayacağına kim karar veriyor? -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T21:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T21:27 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
   "2026-11-21T21:27 Murat Ceylan Cumhuriyet Pazar'da: 'Sahnedeki Murat da televi -> ValueError: yanıt okunamadı",
@@ -13795,7 +13854,16 @@
   "2026-11-21T21:43 Okan Bayülgen Cumhuriyet Pazar'da: 'Sanatçı politikayı kendi -> ValueError: yanıt okunamadı",
   "2026-11-21T21:43 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
   "2026-11-21T21:43 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
-  "2026-11-21T21:43 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı"
+  "2026-11-21T21:43 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 Okan Bayülgen Cumhuriyet Pazar'da: 'Sanatçı politikayı kendi -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 Okan Bayülgen Cumhuriyet Pazar'da: 'Sanatçı politikayı kendi -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 Okan Bayülgen Cumhuriyet Pazar'da: 'Sanatçı politikayı kendi -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı",
+  "2026-11-21T21:46 Küçük mutlulukların sanatı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
