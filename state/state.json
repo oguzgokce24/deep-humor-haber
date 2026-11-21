@@ -10674,22 +10674,76 @@
     "üzeri"
    ],
    "at": "2026-11-21T17:00:45.432165+00:00"
+  },
+  {
+   "fp": [
+    "dan",
+    "tepki",
+    "yükse",
+    "yıldı"
+   ],
+   "tok": [
+    "adaml",
+    "açık",
+    "benze",
+    "bitiy",
+    "bize",
+    "bizi",
+    "bugün",
+    "bunu",
+    "dan",
+    "doğra",
+    "edile",
+    "eren",
+    "fener",
+    "galat",
+    "gerek",
+    "gol",
+    "golü",
+    "golün",
+    "görme",
+    "hafta",
+    "hakem",
+    "hatır",
+    "hiç",
+    "iptal",
+    "karşı",
+    "lig",
+    "maç",
+    "maçın",
+    "mhk",
+    "net",
+    "nin",
+    "ofsay",
+    "pasif",
+    "penal",
+    "puanı",
+    "samsu",
+    "sert",
+    "sona",
+    "sonra",
+    "sonuç",
+    "söyle",
+    "söylü",
+    "süper",
+    "sürü",
+    "sıfır",
+    "tartı",
+    "tepki",
+    "trend",
+    "var",
+    "veril",
+    "yani",
+    "yazıy",
+    "yendi",
+    "yükse",
+    "yıldı",
+    "şey"
+   ],
+   "at": "2026-11-21T17:13:22.406328+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "da787ffdb0",
-   "post_id": "529346797199852_1473704611535913",
-   "title": "Kayyum sonrası Sözcü'de ilk üst düzey istifa: Ercüment İşleyen görevinden ayrıldı",
-   "at": "2026-11-19T17:08:57.240355+00:00",
-   "yazim": "claude",
-   "metin": "Kayyım atanan Sözcü'de ilk üst düzey ayrılık: Genel Yayın Yönetmeni Ercüment İşleyen görevinden ayrıldı.\n\nSözcü TV ve Sözcü.com.tr'ye kayyım atanmasının ardından medya grubunda gelen ilk üst düzey ayrılık bu oldu.\n\n— İşleyen, kayyım olarak görevlendirilen Hakan Hastaoğlu ile görüşmesinin ardından ayrılmaya karar verdi.\n\n— Kasım ayı sonuna kadar kurumdaki yeni düzenlemelere destek olacağı belirtildi.\n\n— Kayyım kararı İstanbul 4. Sulh Ceza Hakimliği'nden çıktı ve grubun yönetimi TMSF'nin görevlendirdiği isimlere devredildi.\n\n— İşleyen, daha önce Halk TV'nin internet sitesini yönetmiş, Eylül 2024'te Sözcü'ye katılmıştı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/kayyim-sonrasi-ilk-ust-duzey-ayrilik-sozcu-nun-genel-yayin-yonetmeni-gorevini-birakti-2557664",
-    "BirGün: https://www.birgun.net/haber/kayyum-atanan-sozcu-de-ilk-ust-duzey-ayrilik-genel-yayin-yonetmeni-gorevini-birakiyor-747326",
-    "Karar: https://www.karar.com/guncel-haberler/kayyum-sonrasi-sozcude-ilk-ust-duzey-istifa-ercument-isleyen-gorevinden-2085157"
-   ]
-  },
   {
    "id": "7e262411d9",
    "post_id": "529346797199852_1473714024868305",
@@ -13269,6 +13323,18 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/tbb-baskani-erinc-sagkan-tutuklama-tedbirinin-gozdagi-amaciyla-uygulanmasi-ciddi-bir-hukuk-devleti-sorunudur-747687"
    ]
+  },
+  {
+   "id": "ec98d02e21",
+   "post_id": "529346797199852_1475899101316464",
+   "title": "Yüksel Yıldırım'dan hakem kararlarına sert tepki: Penaltımız verilmedi",
+   "at": "2026-11-21T17:13:22.406328+00:00",
+   "yazim": "claude",
+   "metin": "Samsunspor Başkanı Yüksel Yıldırım, Galatasaray maçındaki hakem kararları için:\n\n“Penaltımız verilmedi, ilk gol pasif ofsayt. (...) Pasif ofsayt, hiç tartışılmaz.”\n\n— Trendyol Süper Lig'in 12. haftasında Galatasaray, Samsunspor'u 2-1 yendi.\n— Yıldırım, ilk golün pasif ofsayt olduğunu ve MHK'nin bunu görmesi gerektiğini söyledi.\n— Yıldırım, Samsun'da Fenerbahçe maçında iptal edilen benzer bir golü de hatırlattı.",
+   "sources": [
+    "Karar: https://www.karar.com/spor-haberleri/yuksel-yildirimdan-hakem-kararlarina-sert-tepki-penaltimiz-verilmedi-2085502",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/samsunspor-baskani-yuksel-yildirimdan-tepki-varda-dogradilar-43386411"
+   ]
   }
  ],
  "fails": {
@@ -13590,7 +13656,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124186182590300543",
+   "since_id": "2124188023432585495",
    "started": true
   },
   "ajansmuhbir1923": {
