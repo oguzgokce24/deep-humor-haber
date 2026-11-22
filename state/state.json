@@ -2,94 +2,6 @@
  "seen": [
   {
    "fp": [
-    "basto",
-    "itira",
-    "kediy",
-    "kör",
-    "savcı",
-    "tutuk",
-    "vurdu"
-   ],
-   "tok": [
-    "adli",
-    "ardın",
-    "asliy",
-    "aşama",
-    "balık",
-    "bandı",
-    "basto",
-    "başla",
-    "başsa",
-    "başın",
-    "belir",
-    "bulun",
-    "bırak",
-    "ceza",
-    "değer",
-    "dosya",
-    "dışı",
-    "etme",
-    "etmes",
-    "ettiğ",
-    "evcil",
-    "eziye",
-    "görül",
-    "görün",
-    "gözü",
-    "gözün",
-    "güven",
-    "hayva",
-    "hâkim",
-    "ilçes",
-    "imza",
-    "itira",
-    "işken",
-    "kabul",
-    "kamer",
-    "kastı",
-    "kasım",
-    "kedin",
-    "kediy",
-    "kendi",
-    "komşu",
-    "kontr",
-    "kuşla",
-    "kör",
-    "muhab",
-    "müdah",
-    "müslü",
-    "neden",
-    "olay",
-    "olmad",
-    "olmas",
-    "sahib",
-    "savcı",
-    "serbe",
-    "sol",
-    "sulh",
-    "suçun",
-    "sürüy",
-    "uygul",
-    "verdi",
-    "verme",
-    "vurar",
-    "vurdu",
-    "yasağ",
-    "yaşan",
-    "yemey",
-    "yenid",
-    "yurt",
-    "yüküm",
-    "yüzde",
-    "çalış",
-    "çıkış",
-    "şartı",
-    "şikây"
-   ],
-   "at": "2026-11-21T07:23:35.428131+00:00"
-  },
-  {
-   "fp": [
     "16",
     "bursa",
     "bıçak",
@@ -11607,23 +11519,63 @@
     "yetki"
    ],
    "at": "2026-11-22T19:16:15.341682+00:00"
+  },
+  {
+   "fp": [
+    "amode",
+    "anthr",
+    "ceo",
+    "dario",
+    "insan",
+    "işsiz",
+    "kalan",
+    "oyunl",
+    "sakin",
+    "sürük",
+    "yapay",
+    "yüzün",
+    "zeka",
+    "önerd"
+   ],
+   "tok": [
+    "aktar",
+    "amacı",
+    "amaçl",
+    "amode",
+    "anthr",
+    "ceo",
+    "dario",
+    "dikka",
+    "etkis",
+    "gelen",
+    "göste",
+    "gücü",
+    "https",
+    "insan",
+    "işsiz",
+    "kalan",
+    "ljyoz",
+    "oyunl",
+    "sakin",
+    "sayed",
+    "siyas",
+    "sürük",
+    "tartı",
+    "tepki",
+    "wsj",
+    "yapay",
+    "yüzün",
+    "zeka",
+    "zekan",
+    "çekti",
+    "önerd",
+    "öneri",
+    "üzeri"
+   ],
+   "at": "2026-11-22T19:28:46.103332+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4224f5d22f",
-   "post_id": "529346797199852_1474860108087030",
-   "title": "Trump: İran anlaşma istiyor ama şartlarımı kabul etmiyor",
-   "at": "2026-11-20T18:58:41.732700+00:00",
-   "yazim": "claude",
-   "metin": "ABD Başkanı Donald Trump, Şi Cinping ile yapay zeka anlaşması için:\n\n“Şi ile yapay zeka güvenliği önlemlerinde anlaştık. Yapay zeka veri merkezlerinin ABD dışında inşa edilmesine izin vermeyeceğiz.”\n\n— Trump, yapay zeka veri merkezlerini ABD dışında kuran ABD'li teknoloji şirketlerine yaptırım uygulamayı planladığını söyledi.\n— Trump'a göre petrol fiyatları İran ile yapılacak anlaşmaya bağlı, ancak İran ABD'nin kabul edebileceği bir anlaşma istemiyor.\n— Asya gezisinin ardından 10 yeni ticaret anlaşmasının daha yapılacağını belirtti.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/trump-iranla-gercek-anlasma-istiyorum-964002.html",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/trump-si-cinping-ile-yapay-zeka-anlasmasini-duyurdu-2557957",
-    "Karar: https://www.karar.com/dunya-haberleri/trump-iranla-gercek-bir-anlasma-istiyorum-2085361",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/trump-iran-aciklamasi-20-kasim-2026-p383114"
-   ]
-  },
   {
    "id": "f7552b674e",
    "post_id": "529346797199852_1474870161419358",
@@ -14149,6 +14101,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/israil-de-eisenkot-ile-netanyahu-nun-partileri-arasinda-ikinci-tur-olasi-birlik-hukumeti-muzakeresi-747843"
    ]
+  },
+  {
+   "id": "0f2d95707c",
+   "post_id": "529346797199852_1477044831201891",
+   "title": "Anthropic CEO'su Dario Amodei, yapay zeka yüzünden işsiz kalan insanları sürükleyici video oyunlarıyla sakinleştirmeyi önerdi.",
+   "at": "2026-11-22T19:28:46.103332+00:00",
+   "yazim": "claude",
+   "metin": "Anthropic CEO'su Dario Amodei, yapay zeka yüzünden işsiz kalan insanları sürükleyici video oyunlarıyla sakinleştirmeyi önerdi.\n\n— Önerinin amacı, işsiz kalanların siyasetçilere daha az tepki göstermesi olarak aktarıldı.\n— Yapay zekanın iş gücü üzerindeki etkisi tartışılırken gelen bu öneri dikkat çekti.",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2124583024062767313"
+   ]
   }
  ],
  "fails": {
@@ -14349,7 +14312,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124575204449849423",
+   "since_id": "2124583024062767313",
    "started": true
   },
   "ajansmuhbir1923": {
