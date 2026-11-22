@@ -2,87 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "başka",
-    "beled",
-    "bilim",
-    "edilm",
-    "isten",
-    "köyü",
-    "tahli"
-   ],
-   "tok": [
-    "akp",
-    "alan",
-    "alma",
-    "ayınd",
-    "açısı",
-    "baksa",
-    "bekle",
-    "beled",
-    "belir",
-    "bile",
-    "bilim",
-    "biraz",
-    "bora",
-    "buldu",
-    "bunun",
-    "bırak",
-    "chp",
-    "daki",
-    "den",
-    "diyor",
-    "dönün",
-    "düşün",
-    "edere",
-    "edilm",
-    "emeği",
-    "eylül",
-    "farkl",
-    "foça",
-    "fıçı",
-    "geçme",
-    "geçmi",
-    "gökçe",
-    "gönül",
-    "göre",
-    "görme",
-    "ilgi",
-    "imkan",
-    "insan",
-    "isten",
-    "istif",
-    "izmir",
-    "kalma",
-    "katıl",
-    "kesim",
-    "kurul",
-    "köy",
-    "köyü",
-    "köyün",
-    "mille",
-    "nefes",
-    "nerey",
-    "parti",
-    "sanat",
-    "saniy",
-    "sürec",
-    "sınır",
-    "tahli",
-    "toplu",
-    "ulaşm",
-    "yanlı",
-    "yargı",
-    "çekic",
-    "çökül",
-    "özgür",
-    "öğren",
-    "ünive"
-   ],
-   "at": "2026-11-20T20:53:34.878989+00:00"
-  },
-  {
-   "fp": [
     "antal",
     "bakan",
     "başka",
@@ -11206,23 +11125,101 @@
     "şehir"
    ],
    "at": "2026-11-22T08:53:04.324210+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "becer",
+    "birli",
+    "hızı",
+    "inanı",
+    "iyi",
+    "kabil",
+    "khvic",
+    "kvara",
+    "numar",
+    "osimh",
+    "oynad",
+    "sıçra",
+    "topla",
+    "şimdi"
+   ],
+   "tok": [
+    "4jfcj",
+    "becer",
+    "birli",
+    "https",
+    "hızı",
+    "inanı",
+    "iyi",
+    "kabil",
+    "khvic",
+    "kvara",
+    "numar",
+    "osimh",
+    "oynad",
+    "sıçra",
+    "topla",
+    "şimdi"
+   ],
+   "at": "2026-11-22T09:05:31.891756+00:00"
+  },
+  {
+   "fp": [
+    "edeme",
+    "emlak",
+    "göste",
+    "konut",
+    "talep",
+    "uyarı",
+    "ücret"
+   ],
+   "tok": [
+    "alman",
+    "alınm",
+    "arası",
+    "aykır",
+    "bazı",
+    "belir",
+    "bin",
+    "cimer",
+    "edeme",
+    "edile",
+    "emlak",
+    "ettiğ",
+    "evler",
+    "göre",
+    "göste",
+    "hatır",
+    "ila",
+    "isten",
+    "istiy",
+    "işlet",
+    "karşı",
+    "kiral",
+    "konut",
+    "liray",
+    "ortay",
+    "paral",
+    "satıl",
+    "talep",
+    "taşın",
+    "ticar",
+    "tür",
+    "uyarı",
+    "uzman",
+    "yasak",
+    "yaşan",
+    "yurtt",
+    "yönet",
+    "çıktı",
+    "ücret",
+    "şikây"
+   ],
+   "at": "2026-11-22T09:05:37.098572+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8bb057bb96",
-   "post_id": "529346797199852_1474307234808984",
-   "title": "Ekimde kapanan şirket sayısında büyük artış",
-   "at": "2026-11-20T07:56:19.224709+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'de ekim ayında kapanan şirket sayısı yüzde 17 artarak 2 bin 589'a yükseldi.\n\n— Aynı dönemde kurulan şirket sayısı ise yüzde 4,7 azalarak 9 bin 56 oldu.\n\n— Karşılaştırma bir önceki aya göre yapıldı; yani hem yeni açılan şirketler azaldı hem de kapananlar arttı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/turkiyede-kurulan-sirket-sayisi-ekimde-bir-onceki-aya-gore-yuzde-4-7-azaldi/4131699",
-    "CNN Türk: https://www.cnnturk.com/ekonomi/turkiyede-sirket-kuruluslari-azaldi-kapanan-sirket-sayisinda-dikkat-ceken-artis-3495682",
-    "Habertürk: https://www.haberturk.com/ekonomi/turkiye-de-kurulan-sirket-sayisi-ekimde-bir-onceki-aya-gore-yuzde-4-7-azalisla-9-bin-56-oldu-3928702",
-    "BirGün: https://www.birgun.net/haber/ekimde-kapanan-sirket-sayisinda-buyuk-artis-747414"
-   ]
-  },
   {
    "id": "6095a1bc1f",
    "post_id": "529346797199852_1474315724808135",
@@ -13803,6 +13800,19 @@
     "BirGün: https://www.birgun.net/haber/meclis-te-butce-maratonu-sona-eriyor-booking-duzenlemesi-gundemde-747741",
     "Karar: https://www.karar.com/guncel-haberler/mecliste-yogun-hafta-butce-gorusmeleri-komisyonda-tamamlaniyor-2085527"
    ]
+  },
+  {
+   "id": "a1ab689e53",
+   "post_id": "529346797199852_1476536397919401",
+   "title": "Emlakçılardan 5 bin liraya kadar 'ev gösterme' ücreti: Uzmanlardan uyarı",
+   "at": "2026-11-22T09:05:37.098572+00:00",
+   "yazim": "claude",
+   "metin": "Bazı emlakçılar, evleri göstermek için yurttaşlardan 2 bin ila 5 bin lira arasında ücret istiyor.\n\nUzmanlar, Taşınmaz Ticareti Hakkında Yönetmelik'e göre ev gösterme karşılığında ücret almanın yasak olduğunu hatırlattı.\n\n— Satılık ya da kiralık konutları göstermek için istenen bu paralar yönetmeliğe aykırı.\n— Yaşananlar Ticaret Bakanlığı'na ya da CİMER'e şikâyet edilebilir.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/emlakcilar-konut-gosterimi-icin-ucret-talep-edemez-uyarisi/4133383",
+    "Habertürk: https://www.haberturk.com/ekonomi/emlakcilar-konut-gosterimi-icin-ucret-talep-edemez-uyarisi-3929172",
+    "BirGün: https://www.birgun.net/haber/emlakcilardan-5-bin-liraya-kadar-ev-gosterme-ucreti-uzmanlardan-uyari-747766"
+   ]
   }
  ],
  "fails": {
@@ -14098,7 +14108,6 @@
  "fail_log": [
   "2026-11-22T05:51 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:51 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:51 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:51 Lionel Messi’nin, Gonzalo Tapia’nın yüzüne top atarak taç be -> ValueError: yanıt okunamadı",
   "2026-11-22T05:51 Lionel Messi’nin, Gonzalo Tapia’nın yüzüne top atarak taç be -> ValueError: yanıt okunamadı",
   "2026-11-22T05:51 Lionel Messi’nin, Gonzalo Tapia’nın yüzüne top atarak taç be -> ValueError: yanıt okunamadı",
@@ -14135,12 +14144,13 @@
   "2026-11-22T08:40 ORC'nin şaibeli anketleri: İsmail Saymaz 'YMP'nin oy oranlar -> ValueError: yanıt okunamadı",
   "2026-11-22T08:40 ARTED başkanı: Tıbbi malzemede en düşük fiyat, en düşük mali -> ValueError: yanıt okunamadı",
   "2026-11-22T08:40 ARTED başkanı: Tıbbi malzemede en düşük fiyat, en düşük mali -> ValueError: yanıt okunamadı",
-  "2026-11-22T08:40 ARTED başkanı: Tıbbi malzemede en düşük fiyat, en düşük mali -> ValueError: yanıt okunamadı"
+  "2026-11-22T08:40 ARTED başkanı: Tıbbi malzemede en düşük fiyat, en düşük mali -> ValueError: yanıt okunamadı",
+  "2026-11-22T09:05 Khvicha Kvaratskhelia: \"Osimhen, şimdiye kadar birlikte oyna -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124423358981062860",
+   "since_id": "2124428781574041776",
    "started": true
   },
   "ajansmuhbir1923": {
