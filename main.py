@@ -156,6 +156,19 @@ def event_story(c) -> bool:
     return any(re.search(r"(?<![a-zçğıöşü])" + re.escape(w), t) for w in ETKINLIK) and not any(w in t for w in SKANDAL)
 
 
+# Kurum/örgüt basın açıklamaları ve eylem çağrıları (somut olay yok): sayfada ilgi çekmiyor
+ORGUT = ["platformu", "platform", "derneği", "dernek", "sendikası", "sendika", "inisiyatifi", "şubesi", "konfederasyon",
+         "odası", "meclisi", "kadın meclis", "kolektif", "girişimi", "il örgütü", "ilçe örgütü", "gençliği"]
+CAGRI = ["çağırdı", "çağrı", "basın açıklaması", "açıklama yaptı", "eylem yaptı",
+         "eylem düzenledi", "yürüyüş düzenledi", "miting", "nöbet tuttu", "imza kampanyası", "anma", "andı",
+         "sokağa çağırdı", "toplandı", "pankart", "bildiri"]
+
+
+def statement_story(c) -> bool:
+    t = _tr_low(" ".join(i.title for i in c.items[:4]))
+    return any(w in t for w in ORGUT) and any(w in t for w in CAGRI) and not any(w in t for w in CIDDI)
+
+
 def sport_story(c) -> bool:
     """Spor haberi mi: spor bölümünden gelen bağlantı ya da başlıklarda en az 2 spor kelimesi."""
     if any("/spor" in i.link.lower() for i in c.items):
@@ -287,7 +300,9 @@ def find_new(cfg, st):
         if video_story(c):
             continue
         if event_story(c):
-            continue                                 # konser/sergi/şiir gibi etkinlik haberleri                                 # videosu olmadan anlaşılmayan "o anlar" haberleri
+            continue
+        if statement_story(c):
+            continue                                 # dernek/platform/sendika açıklamaları ve eylem çağrıları                                 # konser/sergi/şiir gibi etkinlik haberleri                                 # videosu olmadan anlaşılmayan "o anlar" haberleri
         fp = c.fingerprint
         titles = [i.title for i in c.items]
         lead_t = c.lead().title

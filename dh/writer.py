@@ -108,6 +108,9 @@ kararları; çok sayıda can kaybına yol açan büyük afet ve saldırılar; d�
 Haberin asıl değeri bir VİDEO ya da görüntüyse (viral video, "o anlar kameraya yansıdı", dalganın birini
 ıslatması, ilginç bir an gibi) ve ölüm, yaralanma, gözaltı gibi ciddi bir sonuç yoksa yalnızca ATLA yaz;
 biz video paylaşamıyoruz, fotoğrafla bu haber anlaşılmaz.
+HABER DEĞERİ: Okuyucunun bilmek isteyeceği SOMUT bir olay ya da gelişme yoksa ATLA yaz. Atlanacaklar: dernek, platform,
+sendika, oda ya da parti il/ilçe örgütlerinin basın açıklamaları, eylem/yürüyüş/miting çağrıları, anma etkinlikleri,
+kampanya ve proje tanıtımları, yerel duyurular, kurumların rutin ziyaret ve toplantıları.
 Kültür-sanat ETKİNLİĞİ haberlerini (konser, sergi, şiir, beste, tiyatro, prömiyer, kitap tanıtımı, festival,
 söyleşi, anma programı, ödül töreni) yalnızca ATLA ile geç; ölüm, yasak, iptal ya da skandal varsa yaz.
 Kaynak bir ANALİZ, DEĞERLENDİRME, İNCELEME, SÖYLEŞİ ya da DOSYA yazısıysa (belirli bir olayı değil bir konuyu
