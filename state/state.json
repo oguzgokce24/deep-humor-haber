@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "belir",
-    "deki",
-    "fon",
-    "geliş",
-    "moody",
-    "oluşt",
-    "risk",
-    "siste",
-    "ten",
-    "türki"
-   ],
-   "tok": [
-    "aynı",
-    "bekle",
-    "beled",
-    "belir",
-    "can",
-    "deki",
-    "demek",
-    "değer",
-    "elmal",
-    "etkil",
-    "eyüps",
-    "fon",
-    "fonla",
-    "geliş",
-    "görev",
-    "ilgil",
-    "ilişk",
-    "isim",
-    "kalem",
-    "kapsa",
-    "kredi",
-    "moody",
-    "müdür",
-    "notun",
-    "oluşt",
-    "risk",
-    "siste",
-    "sürec",
-    "tasfi",
-    "ten",
-    "yapıy",
-    "yardı",
-    "yönel",
-    "zaman",
-    "çağda",
-    "özel",
-    "ülken"
-   ],
-   "at": "2026-11-20T23:02:42.540385+00:00"
-  },
-  {
-   "fp": [
     "başın",
     "bursa",
     "cumba",
@@ -11227,25 +11173,70 @@
     "şirke"
    ],
    "at": "2026-11-22T11:02:05.052326+00:00"
+  },
+  {
+   "fp": [
+    "ayakl",
+    "den",
+    "dmm",
+    "malat",
+    "payla",
+    "yalan"
+   ],
+   "tok": [
+    "adli",
+    "asıls",
+    "ayakl",
+    "açıld",
+    "bağla",
+    "başla",
+    "belir",
+    "biçim",
+    "bulun",
+    "dayan",
+    "den",
+    "dezen",
+    "diye",
+    "dmm",
+    "dolaş",
+    "eski",
+    "etmem",
+    "göre",
+    "görün",
+    "günce",
+    "iddia",
+    "ifade",
+    "isted",
+    "itiba",
+    "içeri",
+    "işlem",
+    "kamuo",
+    "kasıt",
+    "kişil",
+    "konu",
+    "kopar",
+    "malat",
+    "medya",
+    "mücad",
+    "olabi",
+    "olay",
+    "payla",
+    "servi",
+    "sokul",
+    "sosya",
+    "tarih",
+    "tür",
+    "yalan",
+    "yayan",
+    "yayıl",
+    "yaşan",
+    "yenid",
+    "üreti"
+   ],
+   "at": "2026-11-22T11:14:44.664830+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7a2b6e4369",
-   "post_id": "529346797199852_1474427088130332",
-   "title": "AKOM saat verdi: İstanbul için kuvvetli sağanak uyarısı",
-   "at": "2026-11-20T10:41:59.142397+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da bugün ve yarın kuvvetli sağanak bekleniyor.\n\n— AKOM, bugün ve yarın için İstanbul'a kuvvetli sağanak uyarısı yaptı.\n— Yağışların cumartesi akşamı saatlerinde durması bekleniyor.\n— AKOM, yurttaşları bu süreçte tedbirli olmaya çağırdı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/meteoroloji-ve-akomdan-son-dakika-uyarisi-istanbul-icin-kritik-saatler-radara-girdi-7704450",
-    "CNN Türk: https://www.cnnturk.com/turkiye/akomdan-istanbul-icin-son-dakika-saganak-uyarisi-3495736",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-akom-dan-istanbul-icin-kuvvetli-saganak-uyarisi-3928751",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/istanbulda-saganak-yagis-uyarisi-akom-tedbir-istedi-istanbul-hava-durumu-4874786",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/istanbulda-kuvvetli-saganak-uyarisi-akom-duyurdu-4874753",
-    "BirGün: https://www.birgun.net/haber/akom-saat-verdi-istanbul-icin-kuvvetli-saganak-uyarisi-747439"
-   ]
-  },
   {
    "id": "89e005839c",
    "post_id": "529346797199852_1474437054796002",
@@ -13804,6 +13795,22 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6010666/ukrayna-baltik-denizi-nde-rus-kargo-gemisini-vurdu-yangin-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "c2c6b12e19",
+   "post_id": "529346797199852_1476634244576283",
+   "title": "'Malatya ayaklandı' paylaşımlarına soruşturma açıldı",
+   "at": "2026-11-22T11:14:44.664830+00:00",
+   "yazim": "claude",
+   "metin": "Dezenformasyonla Mücadele Merkezi, sosyal medyada \"Malatya ayaklandı\" diye yayılan paylaşımların asılsız olduğunu açıkladı.\n\n— Merkeze göre Malatya'da bu iddiaya dayanak olabilecek güncel bir olay yaşanmadı.\n— Paylaşımlardaki görüntülerin eski tarihli olduğu ve bağlamından koparılarak yeniden dolaşıma sokulduğu belirlendi.\n— Paylaşımları üretip yayan kişiler hakkında adli işlem başlatıldı.\n\nMerkez, kamuoyunun bu tür içeriklere itibar etmemesini istedi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/dmm-malatya-ayaklandi-paylasimlarini-yalanladi/4133445",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/dmm-malatya-ayaklandi-paylasimlarini-yalanladi-964126.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/sosyal-medyadaki-malatya-iddialarina-dmmden-yalanlama-goruntuler-eski-ve-baglamindan-koparilmis-43386898",
+    "Milliyet: https://www.milliyet.com.tr/gundem/dmmden-malatya-ayaklandi-paylasimlarina-yalanlama-7705566",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/22/dmm-malatya-ayaklandi-paylasimlarini-yalanladi-kasitli-bicimde-servis-edildi",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-cumhurbaskanligi-iletisim-baskanligi-dezenformasyonla-mucadele-merkezi-malatya-ayaklandi-paylasimlarini-yalanladi-3929188"
+   ]
   }
  ],
  "fails": {
@@ -14145,7 +14152,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124457358151881209",
+   "since_id": "2124460655990256052",
    "started": true
   },
   "ajansmuhbir1923": {
