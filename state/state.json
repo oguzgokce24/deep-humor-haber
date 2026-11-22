@@ -11118,20 +11118,63 @@
     "ödenm"
    ],
    "at": "2026-11-22T02:14:38.026962+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "bağla",
+    "fon",
+    "serma",
+    "siyas",
+    "uzana",
+    "vurgu"
+   ],
+   "tok": [
+    "akp",
+    "ayrı",
+    "bağla",
+    "bekle",
+    "bekli",
+    "bürok",
+    "dosya",
+    "fon",
+    "günde",
+    "henüz",
+    "hâlâ",
+    "iktid",
+    "ilgil",
+    "ilişk",
+    "isiml",
+    "işlem",
+    "kamu",
+    "kurum",
+    "liral",
+    "liste",
+    "mille",
+    "milya",
+    "nasıl",
+    "nin",
+    "parti",
+    "serma",
+    "siyas",
+    "skand",
+    "sorul",
+    "sürül",
+    "taşıd",
+    "uzana",
+    "vurgu",
+    "yakın",
+    "yanıt",
+    "yapıl",
+    "çevre",
+    "öne",
+    "özlal",
+    "ümit"
+   ],
+   "at": "2026-11-22T02:27:26.235359+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2091a4d9c5",
-   "post_id": "529346797199852_1474054291500945",
-   "title": "Cumhuriyet’in Nuh Yılmaz haberi gündeme geldi, Yılmaz cevap verdi",
-   "at": "2026-11-20T01:56:49.084055+00:00",
-   "yazim": "claude",
-   "metin": "Namık Tan, Şam Büyükelçisi Nuh Yılmaz için:\n\n“Büyükelçiliği layıkıyla yapabilmesi için Nuh’un da biraz kulağını çekmeniz gerekiyor.”\n\n— Tan, bu sözleri Meclis'te Dışişleri Bakanlığı bütçesi görüşülürken Dışişleri Bakanı Hakan Fidan'a söyledi.\n— Tan, Yılmaz'ın Cumhuriyet döneminin aleyhine söylediği \"Kaybettiğimiz değerler Şam'da yaşıyor\" sözlerini de hatırlattı.\n— Yılmaz ise sosyal medya hesabından \"Yaşlı Baasçılar rahatsız\" diye yanıt verdi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/cumhuriyet-in-nuh-yilmaz-haberi-gundeme-geldi-yilmaz-cevap-verdi-2557721"
-   ]
-  },
   {
    "id": "7130552abb",
    "post_id": "529346797199852_1474068218166219",
@@ -13699,6 +13742,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/hak-gaspi-suruyor-tekstil-iscileri-alacaklari-icin-ayakta-747715"
    ]
+  },
+  {
+   "id": "66c2475da0",
+   "post_id": "529346797199852_1476262044613503",
+   "title": "Fon vurgununda AKP bağlantıları: Siyasetten sermayeye uzanan ağ",
+   "at": "2026-11-22T02:27:26.235359+00:00",
+   "yazim": "claude",
+   "metin": "YENİ Parti Milletvekili Ümit Özlale, fon skandalıyla ilgili beş ayrı dosya açıkladı.\n\n— Dosyalarda AKP'li siyasetçilerin yakınlarından kamu kurumlarına, bürokrasiden sermaye çevrelerine uzanan ilişkilerin olduğu öne sürüldü.\n\n— Milyarlarca liralık şüpheli işlemlerin nasıl yapıldığı hâlâ yanıt bekliyor.\n\n— İktidar, vurguna bağlanan isimlerin listesini henüz açıklamadı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/fon-vurgununda-akp-baglantilari-siyasetten-sermayeye-uzanan-ag-747712"
+   ]
   }
  ],
  "fails": {
@@ -13979,14 +14033,11 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "07a91e7f4d": 1
+  "07a91e7f4d": 1,
+  "2ab2c91f11": 1,
+  "b005d9e013": 1
  },
  "fail_log": [
-  "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:34 Acil servis bahçesinde silahlı kavga: Yaralılar var -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-21T23:47 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:47 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:47 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T00:00 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T00:00 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14021,7 +14072,12 @@
   "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
+  "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:27 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:27 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
