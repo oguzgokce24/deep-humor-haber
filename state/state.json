@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "bilgi",
-    "frans"
-   ],
-   "tok": [
-    "adli",
-    "arama",
-    "avrup",
-    "aşırı",
-    "bağla",
-    "başla",
-    "bildi",
-    "bilgi",
-    "birli",
-    "bölge",
-    "centr",
-    "ciddi",
-    "dair",
-    "dosya",
-    "doğru",
-    "durum",
-    "ekim",
-    "eski",
-    "fonla",
-    "frans",
-    "genel",
-    "gizli",
-    "grubu",
-    "hakkı",
-    "halin",
-    "henüz",
-    "hugue",
-    "iddia",
-    "ifşas",
-    "ihlal",
-    "ilişk",
-    "incel",
-    "ise",
-    "içişl",
-    "kasım",
-    "kimse",
-    "kulla",
-    "laure",
-    "loire",
-    "mesle",
-    "mouto",
-    "ndaki",
-    "nin",
-    "nunez",
-    "olaca",
-    "paris",
-    "parla",
-    "parti",
-    "payla",
-    "resmi",
-    "savcı",
-    "sağcı",
-    "sekre",
-    "sonun",
-    "suçla",
-    "sırrı",
-    "sızdı",
-    "sızın",
-    "teki",
-    "temmu",
-    "ulusa",
-    "val",
-    "valis",
-    "var",
-    "yapıl",
-    "yönel",
-    "yürüt",
-    "çıkma"
-   ],
-   "at": "2026-11-20T14:57:39.650165+00:00"
-  },
-  {
-   "fp": [
     "fetö",
     "kurtu",
     "serka",
@@ -11177,20 +11099,73 @@
     "önüne"
    ],
    "at": "2026-11-22T02:53:07.125964+00:00"
+  },
+  {
+   "fp": [
+    "mars",
+    "motor",
+    "nasa",
+    "roket",
+    "sürdü",
+    "testl",
+    "yolcu"
+   ],
+   "tok": [
+    "artem",
+    "artır",
+    "astro",
+    "ateşl",
+    "boyun",
+    "deki",
+    "değer",
+    "ediyo",
+    "fırla",
+    "gerçe",
+    "görev",
+    "gücün",
+    "güven",
+    "hedef",
+    "indir",
+    "inişi",
+    "kalkm",
+    "kasım",
+    "kulla",
+    "mars",
+    "missi",
+    "motor",
+    "mühen",
+    "nasa",
+    "nde",
+    "ndeki",
+    "olsa",
+    "planl",
+    "rampa",
+    "roket",
+    "saniy",
+    "sls",
+    "sonuç",
+    "stenn",
+    "sürdü",
+    "sıras",
+    "tasar",
+    "test",
+    "testl",
+    "uzay",
+    "uçuşu",
+    "var",
+    "veril",
+    "verim",
+    "yakla",
+    "yardı",
+    "yolcu",
+    "yüzey",
+    "çalış",
+    "öneml"
+   ],
+   "at": "2026-11-22T03:06:15.315826+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a690e712cb",
-   "post_id": "529346797199852_1474085618164479",
-   "title": "Öğrenciye fahiş zamma fren: \"Hakkaniyetle bağdaşmıyor\"",
-   "at": "2026-11-20T02:41:52.494742+00:00",
-   "yazim": "claude",
-   "metin": "Kamu Başdenetçisi, bir öğrenci yurdunun konaklama ücretindeki yüzde 100'lük zammı \"hakkaniyetle bağdaşmayan ölçüde\" buldu.\n\n— Kamudan özel sektöre geçen yurdun konaklama ücreti 9 bin 500 TL'den 19 bin TL'ye çıktı.\n\n— Başdenetçi, artışın TÜFE hesabının çok üzerinde olduğunu belirtti.\n\n— Zammın makul bir seviyeye çekilmesi için Gençlik Bakanlığı uyarıldı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/ogrenciye-fahis-zamma-fren-hakkaniyetle-bagdasmiyor-747361"
-   ]
-  },
   {
    "id": "30781abbef",
    "post_id": "529346797199852_1474094371496937",
@@ -13758,6 +13733,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/borc-batagindalar-747713"
    ]
+  },
+  {
+   "id": "576514af09",
+   "post_id": "529346797199852_1476287471277627",
+   "title": "NASA, Ay ve Mars yolculuğu için roket motoru testlerini sürdürüyor",
+   "at": "2026-11-22T03:06:15.315826+00:00",
+   "yazim": "claude",
+   "metin": "NASA, Mississippi'deki Stennis Uzay Merkezi'nde Ay ve Mars yolculukları için kullanılacak bir roket motorunu test etti.\n\nMotor 18 Kasım'da 3 dakika 20 saniye boyunca çalıştırıldı. Uzay uçuşu için tasarlanmamış bir motor olsa da sonuçlar yaklaşan görevler için önemli.\n\n— Hedef, 2028'de astronotları Ay'ın yüzeyine indirmeyi planlayan Artemis IV görevi.\n— Her SLS roketinde dört RS-25 motoru var ve roketin fırlatma rampasından kalkmasına yardım ediyorlar.\n— Mühendisler test verilerini motorların gücünü, verimliliğini ve güvenilirliğini artırmak için değerlendirecek.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010629/nasa-ay-ve-mars-yolculugu-icin-roket-motoru-testlerini-surduruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -14038,16 +14024,11 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "07a91e7f4d": 1
+  "07a91e7f4d": 1,
+  "2ab2c91f11": 1,
+  "4ac094d006": 1
  },
  "fail_log": [
-  "2026-11-22T00:25 Günlüklerden raflara: Ayşe Kaygusuz'un yazarlığa uzanan yaşa -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:19 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:19 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:19 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T01:19 ÇMO, Eti Bakır’ın 2 bin 500 sayfalık ÇED raporunu inceledi,  -> ValueError: cümle yarım kalmış: 'yoaktif elementlerin balıkçılık ve deniz'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-22T01:31 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T01:31 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14080,7 +14061,14 @@
   "2026-11-22T02:53 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T02:53 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
   "2026-11-22T02:53 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:53 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı"
+  "2026-11-22T02:53 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:06 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-22T03:06 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-22T03:06 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-22T03:06 NASA, Ay ve Mars yolculuğu için roket motoru testlerini sürd -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
