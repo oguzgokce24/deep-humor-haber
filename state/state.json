@@ -2,95 +2,6 @@
  "seen": [
   {
    "fp": [
-    "fon",
-    "masak",
-    "milya",
-    "rapor",
-    "soruş"
-   ],
-   "tok": [
-    "adı",
-    "aktar",
-    "ancak",
-    "banka",
-    "belir",
-    "birik",
-    "borsa",
-    "capit",
-    "centu",
-    "city",
-    "dahil",
-    "daki",
-    "dan",
-    "deki",
-    "doğru",
-    "dönen",
-    "dışın",
-    "edile",
-    "elde",
-    "emirl",
-    "emre",
-    "faali",
-    "fon",
-    "geldi",
-    "geliş",
-    "geçen",
-    "geçti",
-    "gilde",
-    "göre",
-    "görün",
-    "göste",
-    "hacmi",
-    "hazır",
-    "hesap",
-    "hisse",
-    "ileti",
-    "ise",
-    "isim",
-    "isviç",
-    "işlem",
-    "kalan",
-    "kazan",
-    "lik",
-    "londr",
-    "masak",
-    "mevcu",
-    "milya",
-    "nın",
-    "orada",
-    "ortak",
-    "ortay",
-    "otomo",
-    "oğuz",
-    "para",
-    "rapor",
-    "resmi",
-    "savcı",
-    "tera",
-    "tezme",
-    "topla",
-    "trafi",
-    "tutar",
-    "ulaşa",
-    "ulaşt",
-    "vurgu",
-    "yaban",
-    "yakla",
-    "yatır",
-    "yurt",
-    "yönet",
-    "yılda",
-    "çalış",
-    "çarpı",
-    "çıkan",
-    "çıkar",
-    "üzeri",
-    "şirke"
-   ],
-   "at": "2026-11-21T09:56:40.111149+00:00"
-  },
-  {
-   "fp": [
     "fare",
     "genç",
     "içece",
@@ -11730,25 +11641,56 @@
     "şartı"
    ],
    "at": "2026-11-22T21:45:25.881120+00:00"
+  },
+  {
+   "fp": [
+    "1992",
+    "abd",
+    "demok",
+    "den",
+    "mecli",
+    "sanda",
+    "sayıs",
+    "temsi",
+    "ulaşt",
+    "yana",
+    "yükse"
+   ],
+   "tok": [
+    "abd",
+    "aday",
+    "ana",
+    "böyle",
+    "carol",
+    "chuck",
+    "demok",
+    "den",
+    "etmes",
+    "eyale",
+    "foxx",
+    "hubba",
+    "kaldı",
+    "kazan",
+    "mağlu",
+    "mecli",
+    "nde",
+    "ndeki",
+    "north",
+    "sahip",
+    "sanda",
+    "sayıs",
+    "temsi",
+    "ulaşt",
+    "virgi",
+    "yana",
+    "yener",
+    "yükse",
+    "çıktı"
+   ],
+   "at": "2026-11-22T21:58:00.738690+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bb7c96f3ea",
-   "post_id": "529346797199852_1474964574743250",
-   "title": "Resmi Gazete'de yayımlandı: 5 bakanlıkta atama ve görevden alma kararları...",
-   "at": "2026-11-20T21:31:31.541107+00:00",
-   "yazim": "claude",
-   "metin": "Resmi Gazete'de yayımlanan kararlarla dört kamu görevlisi görevden alındı.\n\n— Kültür ve Turizm Bakanlığı Yaşayan Miras ve Kültürel Etkinlikler Genel Müdürü Selim Terzi görevden alındı.\n— Aile ve Sosyal Hizmetler Bakanlığı Ordu İl Müdürü Harun Tan görevden alındı.\n— Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Coğrafi Bilgi Sistemleri Genel Müdürü Ömer Alan görevden alındı. Yerine Mekansal Planlama Genel Müdür Yardımcısı Selçuk Aydemir atandı.\n— Kentsel Dönüşüm Başkanlığı Taşınmaz ve Kaynak Geliştirme Genel Müdürü Oğuzhan Yaylacı görevden alındı. Yerine Dursun Baştürk atandı.\n— Kıyı Emniyeti Genel Müdürlüğü'nde boşalan Yönetim Kurulu üyeliğine Mustafa Çankaya atandı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede/4132601",
-    "NTV: https://www.ntv.com.tr/turkiye/atama-ve-gorevden-alma-kararlari-resmi-gazetede-1751831",
-    "Sözcü: https://www.sozcu.com.tr/resmi-gazete-atama-kararlari-21-kasim-2026-p383131",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-5-bakanlikta-atama-ve-gorevden-alma-kararlari-2557993",
-    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-4874989",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/resmi-gazete-atama-kararlari-21-kasim-2026-p383131"
-   ]
-  },
   {
    "id": "273ad821b6",
    "post_id": "529346797199852_1474975624742145",
@@ -14261,6 +14203,18 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/icisleri-bakanligi-1-170-personel-alacak-lise-on-lisans-ve-lisans-2085627"
    ]
+  },
+  {
+   "id": "1c9ca469d3",
+   "post_id": "529346797199852_1477138537859187",
+   "title": "ABD'de Demokratlar, 1992'den bu yana Temsilciler Meclisi'ndeki en yüksek sandalye sayısına ulaştı",
+   "at": "2026-11-22T21:58:00.738690+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de Demokratlar, Temsilciler Meclisi'nde 1992'den bu yana en çok sandalyeye sahip oldu.\n\n— North Carolina'da Demokrat Chuck Hubbard, Cumhuriyetçi Virginia Foxx'u yenerek kazandı.\n— Demokratların sandalye sayısı şu an 258'e çıktı, Cumhuriyetçiler 173 sandalyede kaldı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdde-demokratlar-1992den-bu-yana-temsilciler-meclisindeki-en-yuksek-sandalye-sayisina-ulasti/4133847",
+    "BirGün: https://www.birgun.net/haber/abd-de-demokratlar-1992-den-bu-yana-temsilciler-meclisi-ndeki-en-yuksek-sandalye-sayisina-ulasti-747855"
+   ]
   }
  ],
  "fails": {
@@ -14418,10 +14372,10 @@
   "4e81a789b8": 1,
   "7fb4575b2e": 1,
   "c02a960a0f": 1,
-  "e342208520": 1
+  "e342208520": 1,
+  "ceaa785156": 1
  },
  "fail_log": [
-  "2026-11-22T14:42 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-22T14:42 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: cümle yarım kalmış: 'kledi: “Fenerbahçe’nin karakterinde pes”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: yanıt okunamadı",
@@ -14460,12 +14414,13 @@
   "2026-11-22T21:37 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-22T21:45 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı",
   "2026-11-22T21:45 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı",
-  "2026-11-22T21:45 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı"
+  "2026-11-22T21:45 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı",
+  "2026-11-22T21:58 Kaçan aslan Abdülkerim Bardakcı'nın mı? Gece yarısı yaptığı  -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124618282468573529",
+   "since_id": "2124621725845389751",
    "started": true
   },
   "ajansmuhbir1923": {
