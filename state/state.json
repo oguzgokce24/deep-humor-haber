@@ -2,75 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "4",
-    "bağcı",
-    "bıçak",
-    "devle",
-    "görev",
-    "gözal",
-    "güven",
-    "hasta",
-    "nde",
-    "saldı",
-    "yaral"
-   ],
-   "tok": [
-    "abdul",
-    "acil",
-    "aldı",
-    "arası",
-    "arkad",
-    "bağcı",
-    "başla",
-    "belir",
-    "bitti",
-    "bulma",
-    "büyüy",
-    "bıçak",
-    "cenaz",
-    "daki",
-    "devle",
-    "diliy",
-    "dönüş",
-    "edile",
-    "ediyo",
-    "ekipl",
-    "emre",
-    "gören",
-    "görev",
-    "görme",
-    "güner",
-    "güven",
-    "hasta",
-    "hiçbi",
-    "ilgil",
-    "istey",
-    "izin",
-    "kabul",
-    "karış",
-    "müdür",
-    "nde",
-    "olayd",
-    "olayl",
-    "sabah",
-    "sağlı",
-    "taleb",
-    "tartı",
-    "tedav",
-    "temen",
-    "türü",
-    "verme",
-    "yakın",
-    "çalış",
-    "çıkan",
-    "şidde",
-    "şifal"
-   ],
-   "at": "2026-11-20T13:25:38.424663+00:00"
-  },
-  {
-   "fp": [
     "ayşe",
     "cemil",
     "davas",
@@ -11159,20 +11090,72 @@
     "şube"
    ],
    "at": "2026-11-22T01:18:58.162332+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-22T01:31:22.787469+00:00"
+  },
+  {
+   "fp": [
+    "ağaçl",
+    "devri",
+    "direk",
+    "fırtı"
+   ],
+   "tok": [
+    "akşam",
+    "aydın",
+    "ağaçl",
+    "başla",
+    "bildi",
+    "binan",
+    "can",
+    "cephe",
+    "devir",
+    "devle",
+    "devri",
+    "direk",
+    "direğ",
+    "dış",
+    "fırtı",
+    "halin",
+    "hasar",
+    "hasta",
+    "katlı",
+    "kaybı",
+    "kayna",
+    "maddi",
+    "merdi",
+    "muş",
+    "nokta",
+    "oluşt",
+    "otomo",
+    "park",
+    "saatl",
+    "seyir",
+    "sokak",
+    "yakın",
+    "yangı",
+    "çeşit"
+   ],
+   "at": "2026-11-22T01:31:30.494405+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "47dae98679",
-   "post_id": "529346797199852_1474018564837851",
-   "title": "Rekor beklentisi kâbusa döndü: Üreticinin bağrına hançer saplanıyor!",
-   "at": "2026-11-20T01:05:37.769673+00:00",
-   "yazim": "claude",
-   "metin": "Rekor beklenen zeytin sezonu, düşük alım fiyatları ve artan maliyetler yüzünden üreticiyi çıkmaza soktu.\n\n— Tariş Başkanı Fikret Akova, üreticiye kilogram başına 50 lira devlet desteği istiyor.\n\n— Akova, devletin yalnızca ihracatçıya prim vermesini yeterli bulmadığını, üreticinin de desteklenmesi gerektiğini söylüyor.\n\n— Edremit Ziraat Odası Başkanı Ali Yılmaz Diker, 1 kilogram zeytinin maliyetinin 74 liraya, 1 litre zeytinyağının 281 liraya çıktığını belirtti.\n\n— Diker, yalnızca ihracatçıya verilecek desteği “üreticinin bağrına saplanmış bir hançer” olarak tanımlıyor.\n\n— UZZK Başkanı Mustafa Tan ise rekor beklenen sezonun “yok yılı” olarak kalabileceği konusunda uyardı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/rekor-beklentisi-kabusa-dondu-ureticinin-bagrina-hancer-saplaniyor-2557620"
-   ]
-  },
   {
    "id": "f3b9023e66",
    "post_id": "529346797199852_1474027618170279",
@@ -13740,6 +13723,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/cmo-eti-bakir-in-2-bin-500-sayfalik-ced-raporunu-inceledi-davada-yeni-gelisme-karadeniz-e-tehdit-2558233"
    ]
+  },
+  {
+   "id": "a9791e2aa7",
+   "post_id": "529346797199852_1476225851283789",
+   "title": "Fırtınada ağaçlar ve direkler devrildi",
+   "at": "2026-11-22T01:31:30.494405+00:00",
+   "yazim": "claude",
+   "metin": "Muş'ta fırtına, çeşitli noktalarda ağaçları ve sokak aydınlatma direklerini devirdi.\n\nMuş Devlet Hastanesi yakınında bir aydınlatma direği park halindeki otomobilin üzerine devrildi ve araçta maddi hasar oluştu. Kaynakta can kaybı ya da yaralanma bildirilmedi.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/firtinada-agaclar-ve-direkler-devrildi-p383332"
+   ]
   }
  ],
  "fails": {
@@ -14020,14 +14014,9 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "07a91e7f4d": 1,
-  "2ab2c91f11": 2
+  "07a91e7f4d": 1
  },
  "fail_log": [
-  "2026-11-21T22:24 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:24 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:44 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T22:44 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T22:44 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T22:57 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T22:57 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14063,7 +14052,11 @@
   "2026-11-22T01:19 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T01:19 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T01:19 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:19 ÇMO, Eti Bakır’ın 2 bin 500 sayfalık ÇED raporunu inceledi,  -> ValueError: cümle yarım kalmış: 'yoaktif elementlerin balıkçılık ve deniz'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-22T01:19 ÇMO, Eti Bakır’ın 2 bin 500 sayfalık ÇED raporunu inceledi,  -> ValueError: cümle yarım kalmış: 'yoaktif elementlerin balıkçılık ve deniz'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-22T01:31 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T01:31 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T01:31 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T01:31 Fırtınada ağaçlar ve direkler devrildi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
