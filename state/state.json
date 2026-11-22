@@ -11125,21 +11125,90 @@
     "üste"
    ],
    "at": "2026-11-22T08:27:23.330053+00:00"
+  },
+  {
+   "fp": [
+    "aşama",
+    "bütçe",
+    "eriyo",
+    "görüş",
+    "hafta",
+    "komis",
+    "marat",
+    "mecli",
+    "sona",
+    "tamam",
+    "tbmm",
+    "yoğun"
+   ],
+   "tok": [
+    "abd",
+    "altya",
+    "alına",
+    "aylık",
+    "aşama",
+    "başla",
+    "bitmi",
+    "booki",
+    "boyun",
+    "böyle",
+    "bütçe",
+    "cuma",
+    "deki",
+    "değiş",
+    "dijit",
+    "düzen",
+    "dışiş",
+    "ekim",
+    "enerj",
+    "eriyo",
+    "etkil",
+    "gelir",
+    "genel",
+    "görüş",
+    "günde",
+    "günü",
+    "hafta",
+    "iklim",
+    "ilişk",
+    "israi",
+    "kanun",
+    "komis",
+    "konak",
+    "kurul",
+    "madde",
+    "marat",
+    "mecli",
+    "nda",
+    "nin",
+    "olaca",
+    "orman",
+    "oylan",
+    "pazar",
+    "perşe",
+    "plan",
+    "platf",
+    "salı",
+    "seçim",
+    "sona",
+    "süreç",
+    "tamam",
+    "tarım",
+    "tbmm",
+    "tekli",
+    "ulaşt",
+    "yaban",
+    "yoğun",
+    "yönet",
+    "yılı",
+    "çarşa",
+    "çevre",
+    "şehir"
+   ],
+   "at": "2026-11-22T08:53:04.324210+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3942672678",
-   "post_id": "529346797199852_1474298344809873",
-   "title": "Küresel borsalar düşüşte: Anthropic halka arzı ve Nvidia kazancı satış dalgasını durduramadı",
-   "at": "2026-11-20T07:43:48.214366+00:00",
-   "yazim": "claude",
-   "metin": "Asya borsaları cuma günü sert düştü; Güney Kore'nin Kospi ve Japonya'nın Nikkei 225 endeksi yüzde 4,5 geriledi.\n\n— Satış dalgası, yapay zeka ve çip hisselerindeki düşüşle Wall Street'ten Asya'ya yayıldı. S&P 500 perşembe günü yüzde 2 düşerek art arda altıncı kez negatif kapandı.\n\n— Nvidia beklentilerin üzerinde kâr açıklamasına rağmen hisseleri yüzde 3,3 değer kaybetti.\n\n— Altın ons başına yaklaşık 3 bin 520 dolara kadar geriledi. Dolar güçlenirken ABD'de aralıkta faiz artırımı beklentisi öne çıkıyor.\n\n— Bu hafta halka arz edilen Claude'un şirketi Anthropic, Nasdaq'ta ilk günü arz fiyatının yüzde 17 üzerinde kapattı. Yine de yapay zeka hisselerinin fazla değerlendiği endişesi sürüyor.",
-   "sources": [
-    "Euronews: https://tr.euronews.com/2026/11/20/kuresel-borsalar-dususte-anthropic-halka-arzi-ve-nvidia-kazanci-satis-dalgasini-durduramad",
-    "CNN Türk: https://www.cnnturk.com/finans-haberler/kuresel-piyasalarda-sert-satis-dalgasi-yapay-zeka-hisseleri-ve-fed-endisesi-borsalari-sarsti-3495669"
-   ]
-  },
   {
    "id": "8bb057bb96",
    "post_id": "529346797199852_1474307234808984",
@@ -13719,6 +13788,21 @@
     "Karar: https://www.karar.com/dunya-haberleri/abd-hazine-bakani-bessent-iran-nedeniyle-askeri-uste-kaldigini-dogruladi-2085532",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/abd-hazine-bakani-askeri-uste-iranlilarin-beni-korkutmasina-izin-vermeyecegim-7705460"
    ]
+  },
+  {
+   "id": "c8ed7bfdd2",
+   "post_id": "529346797199852_1476526507920390",
+   "title": "TBMM’de bu hafta: Bütçe görüşmelerinde komisyon aşaması sona eriyor",
+   "at": "2026-11-22T08:53:04.324210+00:00",
+   "yazim": "claude",
+   "metin": "TBMM Plan ve Bütçe Komisyonu'nda 2027 yılı bütçe görüşmeleri cuma günü tamamlanıyor.\n\nGörüşmeler 27 Ekim'de başlamıştı. Cuma günü Cumhurbaşkanlığı bütçesi ile 2027 Gelir Bütçesi ve Merkezi Yönetim Bütçe Kanunu Teklifi'nin maddeleri oylanacak.\n\n— Hafta boyunca pazartesi Enerji, salı Ulaştırma ve Altyapı, çarşamba Tarım ve Orman, perşembe Çevre, Şehircilik ve İklim Değişikliği bakanlıklarının bütçeleri ele alınacak.\n— Bir aylık süreç böylece bitmiş olacak.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/tbmmde-butce-maratonunun-komisyon-asamasi-bu-hafta-tamamlanacak-964113.html",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-tbmm-de-bu-hafta-yogun-gundem-plan-ve-butce-komisyonu-nda-butce-gorusmeleri-cuma-gunu-tamamlanacak-3929171",
+    "Evrensel: https://www.evrensel.net/haber/6010653/tbmm-de-bu-hafta-butce-gorusmelerinde-komisyon-asamasi-sona-eriyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/meclis-te-butce-maratonu-sona-eriyor-booking-duzenlemesi-gundemde-747741",
+    "Karar: https://www.karar.com/guncel-haberler/mecliste-yogun-hafta-butce-gorusmeleri-komisyonda-tamamlaniyor-2085527"
+   ]
   }
  ],
  "fails": {
@@ -14056,7 +14140,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124421328610742484",
+   "since_id": "2124423358981062860",
    "started": true
   },
   "ajansmuhbir1923": {
