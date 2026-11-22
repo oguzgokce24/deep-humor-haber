@@ -11702,23 +11702,55 @@
     "üzeri"
    ],
    "at": "2026-11-22T22:35:47.416603+00:00"
+  },
+  {
+   "fp": [
+    "erken",
+    "eyüps",
+    "geçti",
+    "golle",
+    "güldü",
+    "tek",
+    "trabz"
+   ],
+   "tok": [
+    "ayrıl",
+    "açtı",
+    "dakik",
+    "dan",
+    "erken",
+    "eyüps",
+    "galip",
+    "geldi",
+    "geçti",
+    "gol",
+    "golle",
+    "güldü",
+    "hafta",
+    "henüz",
+    "kayde",
+    "kendi",
+    "konuk",
+    "lig",
+    "maçta",
+    "maçın",
+    "mücad",
+    "oynan",
+    "ozan",
+    "sahad",
+    "sahas",
+    "skoru",
+    "süper",
+    "tek",
+    "trabz",
+    "trend",
+    "tufan",
+    "yendi"
+   ],
+   "at": "2026-11-22T22:46:52.200545+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b38cd41f68",
-   "post_id": "529346797199852_1475005861405788",
-   "title": "Arda Turan'dan flaş açıklamalar! 'Fenerbahçe maçında hiçbir şey yapamayız'",
-   "at": "2026-11-20T22:24:05.267196+00:00",
-   "yazim": "claude",
-   "metin": "Arda Turan, maç sonrası Fenerbahçe maçı için:\n\n“Bu vücut diliyle Fenerbahçe maçında hiçbir şey yapamayız. Şu anda Şampiyonlar Ligi seviyesinde değiliz. Hiç memnun değilim.”\n\n— Shakhtar, Livyi Bereh ile 1-1 berabere kaldı ve lider olarak puan kaybetti.\n— Ligdeki yenilmezlik serisi 9 maça çıktı.\n— Shakhtar, 25 Kasım'da Şampiyonlar Ligi'nde Fenerbahçe ile karşılaşacak.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/arda-turan-in-shakhtar-indan-fenerbahce-maci-oncesi-kayip-2557977",
-    "Sözcü Spor: https://www.sozcu.com.tr/arda-turan-dan-flas-aciklamalar-fenerbahce-macinda-hicbir-sey-yapamayiz-p383130",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/shakhtar-donetskten-fenerbahce-oncesi-surpriz-kayip-arda-turandan-oz-elestiri-asla-izin-vermeyecegim-43385651",
-    "BPT (X): https://x.com/bpthaber/status/2123902551791952189"
-   ]
-  },
   {
    "id": "aa538ec444",
    "post_id": "529346797199852_1475013554738352",
@@ -14226,6 +14258,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/duzce-de-9-2-milyon-liralik-uyusturucu-operasyonu-2-kisi-tutuklandi-2558447"
    ]
+  },
+  {
+   "id": "bba8709286",
+   "post_id": "529346797199852_1477169251189449",
+   "title": "Trabzonspor erken golle güldü: Eyüpspor'u tek golle geçti",
+   "at": "2026-11-22T22:46:52.200545+00:00",
+   "yazim": "claude",
+   "metin": "Trabzonspor, kendi sahasında Eyüpspor'u 1-0 yendi. Trendyol Süper Lig'in 12. haftasında oynanan maçta gol, Ozan Tufan'dan geldi.\n\n— Ozan Tufan, maçın henüz 5. dakikasında skoru açtı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/trabzonspor-erken-golle-guldu-eyupspor-u-tek-golle-gecti-747867"
+   ]
   }
  ],
  "fails": {
@@ -14433,7 +14476,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124627448595632560",
+   "since_id": "2124633077293220192",
    "started": true
   },
   "ajansmuhbir1923": {
