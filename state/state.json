@@ -2,89 +2,6 @@
  "seen": [
   {
    "fp": [
-    "0",
-    "1",
-    "4",
-    "5",
-    "açıkl",
-    "başsa",
-    "burha",
-    "capit",
-    "enver",
-    "gilde",
-    "milya",
-    "muham",
-    "tunç",
-    "yarız",
-    "çevik",
-    "ödenm",
-    "özkan"
-   ],
-   "tok": [
-    "adıyl",
-    "ait",
-    "aktar",
-    "aylar",
-    "ayınd",
-    "bağla",
-    "başsa",
-    "bilgi",
-    "burha",
-    "capit",
-    "dan",
-    "deki",
-    "devam",
-    "durdu",
-    "dışın",
-    "emre",
-    "enver",
-    "europ",
-    "fiile",
-    "fon",
-    "gilde",
-    "göre",
-    "harek",
-    "hesap",
-    "hisse",
-    "ilişk",
-    "isviç",
-    "işler",
-    "kaldı",
-    "kapsa",
-    "karde",
-    "kasım",
-    "kişil",
-    "kurul",
-    "lik",
-    "londr",
-    "masak",
-    "milya",
-    "muham",
-    "nın",
-    "oğuz",
-    "paran",
-    "tera",
-    "tezme",
-    "topla",
-    "tunç",
-    "verdi",
-    "vurgu",
-    "yapar",
-    "yapıl",
-    "yarız",
-    "yurt",
-    "yürüt",
-    "yılda",
-    "çevik",
-    "ödeme",
-    "ödenm",
-    "özkan",
-    "şirke"
-   ],
-   "at": "2026-11-21T11:03:04.948392+00:00"
-  },
-  {
-   "fp": [
     "5",
     "beyoğ",
     "binad",
@@ -11740,6 +11657,23 @@
     "şahıs"
    ],
    "at": "2026-11-22T22:59:35.776481+00:00"
+  },
+  {
+   "fp": [
+    "asliy",
+    "hukuk",
+    "mahke"
+   ],
+   "tok": [
+    "asliy",
+    "divri",
+    "erzin",
+    "hakim",
+    "hukuk",
+    "keçib",
+    "taşlı"
+   ],
+   "at": "2026-11-22T23:12:08.474166+00:00"
   }
  ],
  "posted": [
@@ -14421,19 +14355,10 @@
   "e342208520": 1,
   "ceaa785156": 1,
   "19e6cbaa28": 1,
-  "0ae0270525": 2,
-  "f098589727": 1
+  "f098589727": 2,
+  "af06c12650": 1
  },
  "fail_log": [
-  "2026-11-22T18:51 Fenerbahçe taraftarı: “Biz seni çok özledik, sen özlemedin m -> ValueError: yanıt okunamadı",
-  "2026-11-22T18:51 Fenerbahçe taraftarı: “Biz seni çok özledik, sen özlemedin m -> ValueError: yanıt okunamadı",
-  "2026-11-22T18:51 Fenerbahçe taraftarı: “Biz seni çok özledik, sen özlemedin m -> ValueError: yanıt okunamadı",
-  "2026-11-22T19:03 Sarıgül'den fezleke açıklaması: \"Fezleke düzenlenmesi suçlu  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-22T19:41 Aydın Ekmek ve Gül’den 25 Kasım Paneli: Kadınların mücadeles -> ValueError: yanıt okunamadı",
-  "2026-11-22T19:41 Aydın Ekmek ve Gül’den 25 Kasım Paneli: Kadınların mücadeles -> ValueError: yanıt okunamadı",
-  "2026-11-22T19:41 Aydın Ekmek ve Gül’den 25 Kasım Paneli: Kadınların mücadeles -> ValueError: yanıt okunamadı",
-  "2026-11-22T19:41 Trump'tan İran için '1 Ocak' sinyali: Vurabiliriz! -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-22T19:54 Ara tatil bitti, fırtına ve kuvvetli sağanak uyarısı geldi:  -> ValueError: yanıt okunamadı",
   "2026-11-22T20:32 İstanbul Sarıyer’de markete giden bir vatandaşın otomobili p -> ValueError: yanıt okunamadı",
   "2026-11-22T20:32 İstanbul Sarıyer’de markete giden bir vatandaşın otomobili p -> ValueError: yanıt okunamadı",
   "2026-11-22T20:32 İstanbul Sarıyer’de markete giden bir vatandaşın otomobili p -> ValueError: yanıt okunamadı",
@@ -14464,7 +14389,16 @@
   "2026-11-22T22:59 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
   "2026-11-22T22:59 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-22T22:59 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-22T22:59 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
+  "2026-11-22T22:59 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 ABD'de bebek partisine silahlı saldırı: 3 kişi öldü, 1 kişi  -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 ABD'de bebek partisine silahlı saldırı: 3 kişi öldü, 1 kişi  -> ValueError: yanıt okunamadı",
+  "2026-11-22T23:12 ABD'de bebek partisine silahlı saldırı: 3 kişi öldü, 1 kişi  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
