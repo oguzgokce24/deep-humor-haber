@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2027",
-    "bütçe",
-    "ibb",
-    "kabul",
-    "mali",
-    "nin",
-    "yılı"
-   ],
-   "tok": [
-    "aslan",
-    "beled",
-    "binas",
-    "bütçe",
-    "büyük",
-    "deki",
-    "geçti",
-    "görüş",
-    "hedef",
-    "ibb",
-    "kabul",
-    "liral",
-    "mali",
-    "mecli",
-    "milya",
-    "nin",
-    "nuri",
-    "oyuyl",
-    "proje",
-    "ret",
-    "saat",
-    "saraç",
-    "sundu",
-    "süren",
-    "topla",
-    "vekil",
-    "yakla",
-    "yapıl",
-    "yılı",
-    "çoklu"
-   ],
-   "at": "2026-11-21T05:01:16.176328+00:00"
-  },
-  {
-   "fp": [
     "besle",
     "donal",
     "duygu",
@@ -11475,20 +11431,74 @@
     "ılıca"
    ],
    "at": "2026-11-22T16:50:54.995950+00:00"
+  },
+  {
+   "fp": [
+    "basın",
+    "dolaş",
+    "foncu",
+    "gazet",
+    "parti",
+    "sokak",
+    "tutuk",
+    "yürüd",
+    "özgür"
+   ],
+   "tok": [
+    "alınd",
+    "atanm",
+    "balmu",
+    "barba",
+    "basın",
+    "beşik",
+    "binle",
+    "com",
+    "dan",
+    "dolaş",
+    "düzen",
+    "düşün",
+    "elini",
+    "foncu",
+    "gazet",
+    "gidil",
+    "göste",
+    "halk",
+    "ilçes",
+    "kanal",
+    "kapıs",
+    "katıl",
+    "kayyu",
+    "kolun",
+    "konuş",
+    "meyda",
+    "nin",
+    "parti",
+    "salla",
+    "sokak",
+    "soygu",
+    "sözcü",
+    "sıra",
+    "t24",
+    "tele1",
+    "telev",
+    "tepki",
+    "uzana",
+    "vurgu",
+    "yanı",
+    "yapıl",
+    "yurtt",
+    "yürüd",
+    "yürüy",
+    "çağrı",
+    "çelik",
+    "çetel",
+    "özgür",
+    "şafak"
+   ],
+   "at": "2026-11-22T17:03:31.672869+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "87df1f86ec",
-   "post_id": "529346797199852_1474732878099753",
-   "title": "Zelenski: 115 milyar dolara ihtiyacımız var",
-   "at": "2026-11-20T16:32:53.695378+00:00",
-   "yazim": "claude",
-   "metin": "Ukrayna Devlet Başkanı Zelenski, ülkesinin 2027'de 115 milyar dolara ihtiyacı olacağını söyledi.\n\n— Bu rakam, Ukrayna'nın eylüldeki tahmininin iki katından fazla.\n\n— Eylülde onaylanan bütçe taslağına göre 52,6 milyar dolarlık dış destek gerekiyordu.\n\n— Zelenski, ek 70 milyar dolarlık ihtiyacın askeri yetkililer ve savunma bakanıyla yapılan görüşmelerden çıktığını söyledi.\n\n— \"Şimdiden olumlu sinyaller aldık\" dedi, ama bu sinyallerin kimden geldiğini açıklamadı.\n\n— Avrupalı müttefikler ise paranın nereye harcanacağını öğrenmek istemişti.\n\n— Kiel Dünya Ekonomisi Enstitüsü'ne göre Avrupa ülkeleri 2025'te Ukrayna'ya yaklaşık 29 milyar avroluk askeri yardım sağladı.",
-   "sources": [
-    "Diken: https://www.diken.com.tr/zelenski-115-milyar-dolara-ihtiyacimiz-var/?utm_source=rss&utm_medium=rss&utm_campaign=zelenski-115-milyar-dolara-ihtiyacimiz-var"
-   ]
-  },
   {
    "id": "30a5db3da7",
    "post_id": "529346797199852_1474750024764705",
@@ -14025,6 +14035,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/acun-ilicali-ile-ali-koc-ingiltere-de-yan-yana-2558381",
     "BPT (X): https://x.com/bpthaber/status/2124544874070540666"
    ]
+  },
+  {
+   "id": "e0e30abe98",
+   "post_id": "529346797199852_1476933777879663",
+   "title": "YENİ Parti basın özgürlüğü için yürüdü: Foncular sokaklarda dolaşırken gazeteciler tutuklanıyor",
+   "at": "2026-11-22T17:03:31.672869+00:00",
+   "yazim": "claude",
+   "metin": "YENİ Parti İstanbul İl Başkanı Özgür Çelik, basın özgürlüğü yürüyüşünde:\n\n“Foncular, vurguncular, soyguncular, çeteler sokaklarda elini kolunu sallayarak dolaşırken şafak operasyonlarıyla gazetecilerin kapısına gidiliyor, gazeteciler tutuklanıyor.”\n\n— YENİ Parti'nin çağrısıyla İstanbul'un Beşiktaş ilçesinde \"Düşünceye, Basına, Gazetecilere Özgürlük\" yürüyüşü yapıldı ve binlerce kişi katıldı.\n\n— Yürüyüşte, Sözcü TV ve Sözcü.com.tr'ye kayyum atanmasının yanı sıra Tele1, Halk TV ve T24 için de tepki gösterildi.\n\n— Çelik, gazetecilerin şafak operasyonlarıyla gözaltına alındığını söyledi.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/yeni-parti-basin-ozgurlugu-icin-yurudu-foncular-sokaklarda-dolasirken-2085615"
+   ]
   }
  ],
  "fails": {
@@ -14332,7 +14353,6 @@
  "fail_log": [
   "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
   "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
-  "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
   "2026-11-22T11:45 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
   "2026-11-22T11:45 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
   "2026-11-22T11:45 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
@@ -14369,7 +14389,8 @@
   "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: cümle yarım kalmış: 'kledi: “Fenerbahçe’nin karakterinde pes”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: yanıt okunamadı",
   "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: yanıt okunamadı",
-  "2026-11-22T16:51 Acun Ilıcalı ile Ali Koç İngiltere'de yan yana! -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-22T16:51 Acun Ilıcalı ile Ali Koç İngiltere'de yan yana! -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-22T17:03 YENİ Parti basın özgürlüğü için yürüdü: Foncular sokaklarda  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
