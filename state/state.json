@@ -2,79 +2,6 @@
  "seen": [
   {
    "fp": [
-    "115",
-    "dolar",
-    "ihtiy",
-    "milya",
-    "var",
-    "zelen"
-   ],
-   "tok": [
-    "aldık",
-    "appea",
-    "asker",
-    "avrol",
-    "avrup",
-    "bütçe",
-    "deste",
-    "devle",
-    "diken",
-    "duyac",
-    "dünya",
-    "dış",
-    "ekono",
-    "ensti",
-    "eylül",
-    "fazla",
-    "first",
-    "geldi",
-    "gelec",
-    "gerek",
-    "göre",
-    "görüş",
-    "harca",
-    "ihtiy",
-    "ise",
-    "istem",
-    "katın",
-    "kiel",
-    "kimde",
-    "linka",
-    "milya",
-    "mütte",
-    "nerey",
-    "nın",
-    "olaca",
-    "oluml",
-    "onayl",
-    "paran",
-    "post",
-    "rakam",
-    "savun",
-    "sağla",
-    "sinya",
-    "site",
-    "tahmi",
-    "tasla",
-    "the",
-    "ukray",
-    "var",
-    "volod",
-    "yakla",
-    "yardı",
-    "yetki",
-    "yıl",
-    "zelen",
-    "çıktı",
-    "öğren",
-    "ülkel",
-    "ülkes",
-    "şimdi"
-   ],
-   "at": "2026-11-20T16:32:53.695378+00:00"
-  },
-  {
-   "fp": [
     "43",
     "bakan",
     "belge",
@@ -11124,6 +11051,24 @@
     "ünive"
    ],
    "at": "2026-11-22T04:17:33.247777+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-22T04:35:10.389175+00:00"
   }
  ],
  "posted": [
@@ -13987,20 +13932,10 @@
   "55da2c7781": 1,
   "b56c836e60": 1,
   "07a91e7f4d": 1,
-  "2ab2c91f11": 2,
-  "becd175b56": 1,
-  "ca6d534fb7": 1
+  "becd175b56": 2,
+  "ca6d534fb7": 2
  },
  "fail_log": [
-  "2026-11-22T04:02 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-22T04:02 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:02 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:02 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:06 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-22T04:06 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-22T04:06 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
   "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
@@ -14031,7 +13966,16 @@
   "2026-11-22T04:17 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
   "2026-11-22T04:17 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
   "2026-11-22T04:17 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:17 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı"
+  "2026-11-22T04:17 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
