@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "117",
-    "6",
-    "akp",
-    "aşan",
-    "gaspı",
-    "milyo",
-    "nin",
-    "sürüy",
-    "trans"
-   ],
-   "tok": [
-    "adayl",
-    "akp",
-    "ayda",
-    "aşan",
-    "aşıyo",
-    "beled",
-    "buçuk",
-    "bünye",
-    "chp",
-    "den",
-    "değiş",
-    "gaspı",
-    "geldi",
-    "geril",
-    "geçti",
-    "göre",
-    "hesap",
-    "ikinc",
-    "katma",
-    "katıl",
-    "kazan",
-    "mart",
-    "mecli",
-    "nden",
-    "nin",
-    "oyu",
-    "parti",
-    "refah",
-    "sandı",
-    "sayıs",
-    "seçim",
-    "sürdü",
-    "sürüy",
-    "sıray",
-    "topla",
-    "trans",
-    "ulaşt",
-    "yana",
-    "yenid",
-    "yerel",
-    "yönet",
-    "çoğu"
-   ],
-   "at": "2026-11-21T00:30:36.933424+00:00"
-  },
-  {
-   "fp": [
     "barış",
     "deste",
     "ekrem",
@@ -14050,15 +13992,12 @@
   "70a6c9cd11": 1,
   "1835d46d50": 1,
   "ed2b1f0b38": 2,
-  "463d9d33f6": 1
+  "463d9d33f6": 1,
+  "a50dde4a55": 1,
+  "8d84c31b2e": 1,
+  "2791a3d173": 1
  },
  "fail_log": [
-  "2026-11-22T08:40 ORC'nin şaibeli anketleri: İsmail Saymaz 'YMP'nin oy oranlar -> ValueError: yanıt okunamadı",
-  "2026-11-22T08:40 ARTED başkanı: Tıbbi malzemede en düşük fiyat, en düşük mali -> ValueError: yanıt okunamadı",
-  "2026-11-22T08:40 ARTED başkanı: Tıbbi malzemede en düşük fiyat, en düşük mali -> ValueError: yanıt okunamadı",
-  "2026-11-22T08:40 ARTED başkanı: Tıbbi malzemede en düşük fiyat, en düşük mali -> ValueError: yanıt okunamadı",
-  "2026-11-22T09:05 Khvicha Kvaratskhelia: \"Osimhen, şimdiye kadar birlikte oyna -> ValueError: yanıt okunamadı",
-  "2026-11-22T09:43 İstanbul'da yaşayan Kamil Yıldırım, 58 yıllık yakın arkadaşı -> ValueError: yanıt okunamadı",
   "2026-11-22T09:43 İstanbul'da yaşayan Kamil Yıldırım, 58 yıllık yakın arkadaşı -> ValueError: yanıt okunamadı",
   "2026-11-22T09:43 İstanbul'da yaşayan Kamil Yıldırım, 58 yıllık yakın arkadaşı -> ValueError: yanıt okunamadı",
   "2026-11-22T09:56 Aziz Yıldırım’dan Cihan Kamer'e: “Yapacak bir şey yok, haydi -> ValueError: yanıt okunamadı",
@@ -14092,12 +14031,18 @@
   "2026-11-22T11:58 Yazar Ahmet Ümit: \"Mustafa Kemal Atatürk'ü yazmak isterim am -> ValueError: yanıt okunamadı",
   "2026-11-22T11:58 Yazar Ahmet Ümit: \"Mustafa Kemal Atatürk'ü yazmak isterim am -> ValueError: yanıt okunamadı",
   "2026-11-22T11:58 Yazar Ahmet Ümit: \"Mustafa Kemal Atatürk'ü yazmak isterim am -> ValueError: yanıt okunamadı",
-  "2026-11-22T12:23 Yandaş medyada fon kavgası: Sabah yazarından Yeni Şafak'a \"y -> ValueError: yanıt okunamadı"
+  "2026-11-22T12:23 Yandaş medyada fon kavgası: Sabah yazarından Yeni Şafak'a \"y -> ValueError: yanıt okunamadı",
+  "2026-11-22T12:36 Kalbin Durduğu Bütün Zamanlar | Polat Özlüoğlu anlattı: “Bu  -> ValueError: yanıt okunamadı",
+  "2026-11-22T12:36 Kalbin Durduğu Bütün Zamanlar | Polat Özlüoğlu anlattı: “Bu  -> ValueError: yanıt okunamadı",
+  "2026-11-22T12:36 Kalbin Durduğu Bütün Zamanlar | Polat Özlüoğlu anlattı: “Bu  -> ValueError: yanıt okunamadı",
+  "2026-11-22T12:36 Taha Akyol yazdı: Anayasa Mahkemesi ne diyor? -> ValueError: yanıt okunamadı",
+  "2026-11-22T12:36 Taha Akyol yazdı: Anayasa Mahkemesi ne diyor? -> ValueError: yanıt okunamadı",
+  "2026-11-22T12:36 Taha Akyol yazdı: Anayasa Mahkemesi ne diyor? -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124473738217324690",
+   "since_id": "2124482032717771172",
    "started": true
   },
   "ajansmuhbir1923": {
