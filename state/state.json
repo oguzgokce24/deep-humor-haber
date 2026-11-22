@@ -2,50 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "derin",
-    "eğiti",
-    "eşits",
-    "karne",
-    "nin",
-    "oecd",
-    "veril",
-    "yansı"
-   ],
-   "tok": [
-    "akp",
-    "ayrıl",
-    "başın",
-    "birin",
-    "derin",
-    "değil",
-    "eğiti",
-    "eşits",
-    "iktid",
-    "kaldı",
-    "karne",
-    "kayna",
-    "lise",
-    "mezun",
-    "nin",
-    "oecd",
-    "ortal",
-    "siste",
-    "ulusl",
-    "veril",
-    "yakla",
-    "yansı",
-    "yapbo",
-    "yetiş",
-    "yüzde",
-    "çevir",
-    "öğren",
-    "üçte"
-   ],
-   "at": "2026-11-21T03:57:04.449233+00:00"
-  },
-  {
-   "fp": [
     "331",
     "aktar",
     "albay",
@@ -11594,20 +11550,51 @@
     "örtüş"
    ],
    "at": "2026-11-22T15:47:54.880940+00:00"
+  },
+  {
+   "fp": [
+    "bastı",
+    "bingö",
+    "sağan",
+    "yerle"
+   ],
+   "tok": [
+    "altın",
+    "ardın",
+    "bastı",
+    "bazı",
+    "başla",
+    "beled",
+    "bingö",
+    "birli",
+    "debis",
+    "deren",
+    "ekipl",
+    "etkil",
+    "geçen",
+    "gider",
+    "ilçed",
+    "ilçes",
+    "kaldı",
+    "katla",
+    "kayma",
+    "mağdu",
+    "neden",
+    "sağan",
+    "solha",
+    "sular",
+    "taşan",
+    "yağış",
+    "yerle",
+    "yükse",
+    "zemin",
+    "çalış",
+    "çevre"
+   ],
+   "at": "2026-11-22T16:00:24.783757+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "982988f632",
-   "post_id": "529346797199852_1474671708105870",
-   "title": "Bakan duyurdu: HGS cezalarında yeni gelişme",
-   "at": "2026-11-20T15:22:42.441641+00:00",
-   "yazim": "claude",
-   "metin": "Ulaştırma ve Altyapı Bakanlığı, otoyol ve köprü geçişlerinde kullanılan HGS cezalarıyla ilgili yeni kararlar aldı.\n\n— Kararla birlikte özel otoyol şirketlerinin yürüttüğü icra takipleri durduruldu.\n\n— HGS, Hızlı Geçiş Sistemi'nin kısaltması. Otoyol ve köprülerden geçen araçların ücretlerinin otomatik olarak tahsil edilmesini sağlıyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/bakan-duyurdu-hgs-cezalarinda-yeni-gelisme-747507"
-   ]
-  },
   {
    "id": "7ddcf8aeb3",
    "post_id": "529346797199852_1474682114771496",
@@ -14142,6 +14129,19 @@
     "Karar: https://www.karar.com/guncel-haberler/nuh-tufani-tarihi-ortaya-cikiyor-agri-durupinar-formasyonunda-bulunan-2085611",
     "BPT (X): https://x.com/bpthaber/status/2124528970792088012"
    ]
+  },
+  {
+   "id": "db471c0654",
+   "post_id": "529346797199852_1476879364551771",
+   "title": "Bingöl Solhan'da sağanak nedeniyle ev ve iş yerlerini su bastı",
+   "at": "2026-11-22T16:00:24.783757+00:00",
+   "yazim": "claude",
+   "metin": "Bingöl'ün Solhan ilçesinde etkili olan sağanak yağış, ev ve iş yerlerinin zemin katlarını su bastı.\n\n— Yağışla birlikte ilçeden geçen derenin debisi yükseldi.\n— Taşan su nedeniyle çevredeki bazı ev ve iş yerlerinin zemin katları sular altında kaldı.\n— Belediye ve kaymakamlık ekipleri, mağduriyetlerin giderilmesi için çalışmaya başladı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/bingol/karliova/bingolde-saganak-ev-ve-is-yerlerini-su-basti-3496626",
+    "Sözcü: https://www.sozcu.com.tr/bingol-de-saganak-p383486",
+    "Evrensel: https://www.evrensel.net/haber/6010695/bingol-solhan-da-saganak-nedeniyle-ev-ve-is-yerlerini-su-basti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -14490,7 +14490,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124528970792088012",
+   "since_id": "2124531050353406307",
    "started": true
   },
   "ajansmuhbir1923": {
