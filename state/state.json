@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "331",
-    "aktar",
-    "albay",
-    "dosya",
-    "ereğl",
-    "fon",
-    "lira",
-    "milyo",
-    "tekst",
-    "çıktı"
-   ],
-   "tok": [
-    "aktar",
-    "albay",
-    "bağlı",
-    "bin",
-    "birik",
-    "bolat",
-    "dosya",
-    "emir",
-    "ereğl",
-    "fon",
-    "fonda",
-    "fonla",
-    "grubu",
-    "hedef",
-    "ise",
-    "işçis",
-    "liral",
-    "murat",
-    "parti",
-    "payın",
-    "portf",
-    "sordu",
-    "spekü",
-    "sürdü",
-    "tekst",
-    "telek",
-    "ticar",
-    "vurgu",
-    "çıktı",
-    "ömer",
-    "öne",
-    "özlal",
-    "ümit"
-   ],
-   "at": "2026-11-21T04:00:49.019695+00:00"
-  },
-  {
-   "fp": [
     "3",
     "ağacı",
     "bahçe",
@@ -11592,23 +11542,52 @@
     "çevre"
    ],
    "at": "2026-11-22T16:00:24.783757+00:00"
+  },
+  {
+   "fp": [
+    "bazı",
+    "bozca",
+    "engel",
+    "ferib",
+    "gökçe",
+    "hava",
+    "iptal",
+    "sefer"
+   ],
+   "tok": [
+    "bazı",
+    "bozca",
+    "dan",
+    "den",
+    "ege",
+    "engel",
+    "ferib",
+    "fırtı",
+    "gesta",
+    "geyik",
+    "gökçe",
+    "hattı",
+    "hava",
+    "ilçel",
+    "iptal",
+    "kabat",
+    "koşul",
+    "kuzey",
+    "kötü",
+    "kısmı",
+    "neden",
+    "nin",
+    "planl",
+    "sefer",
+    "yapıl",
+    "yarın",
+    "yüzün",
+    "çanak"
+   ],
+   "at": "2026-11-22T16:12:49.742684+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7ddcf8aeb3",
-   "post_id": "529346797199852_1474682114771496",
-   "title": "Son dakika! Fon soruşturmasında yeni adım: Destek Holding'e kayyum atandı",
-   "at": "2026-11-20T15:35:21.294843+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da yürütülen fon soruşturmasında Destek Holding'e kayyım atandı.\n\nSoruşturmada tutuklanan Altunç Kumova'nın sahibi olduğu holdingde el koyma ve arama işlemleri sürüyor.\n\n— Destek Faktoring'in piyasa değeri 15 milyar TL'den 1,3 trilyon TL'ye çıkmıştı.\n— Kumova savcılıktaki ifadesinde \"Rakam anormal bir rakamdır. Fakat şirket sahibi olarak bu durumda ne yapacağımı bilmiyordum.\" dedi.\n— Holdingin yüzde 100 iştiraki Domino Europe'un da Kumova ile bağlantılı olduğu tespit edilmişti.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-destek-holding-e-kayyim-atandi-2557919",
-    "Medyascope: https://medyascope.tv/2026/11/20/fon-sorusturmasi-destek-holdinge-kayyim-atandi/",
-    "BirGün: https://www.birgun.net/haber/fon-sorusturmasi-destek-holding-e-kayyum-atandi-747512",
-    "Karar: https://www.karar.com/guncel-haberler/son-dakika-fon-sorusturmasinda-yeni-adim-destek-holdinge-kayyum-atandi-2085351"
-   ]
-  },
   {
    "id": "9fd49ef970",
    "post_id": "529346797199852_1474693214770386",
@@ -14142,6 +14121,22 @@
     "Sözcü: https://www.sozcu.com.tr/bingol-de-saganak-p383486",
     "Evrensel: https://www.evrensel.net/haber/6010695/bingol-solhan-da-saganak-nedeniyle-ev-ve-is-yerlerini-su-basti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "cb45d10c2f",
+   "post_id": "529346797199852_1476889687884072",
+   "title": "Gökçeada ve Bozcaada feribot seferlerine fırtına engeli",
+   "at": "2026-11-22T16:12:49.742684+00:00",
+   "yazim": "claude",
+   "metin": "Çanakkale'de Gökçeada ve Bozcaada feribot seferlerinin bir kısmı fırtına nedeniyle iptal edildi.\n\nEge'nin kuzeyindeki kötü hava koşulları yüzünden GESTAŞ, yarın bazı seferlerin yapılmayacağını açıkladı.\n\n— Kabatepe-Gökçeada hattında Kabatepe'den 09.00, 13.00 ve 17.00, Gökçeada'dan 07.00, 11.00 ve 15.00 seferleri yapılmayacak.\n— Geyikli-Bozcaada hattında Geyikli'den 08.00, 11.00 ve 15.00, Bozcaada'dan 07.00, 10.00 ve 14.00 seferleri iptal edildi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/bozcaada-ve-gokceada-hattindaki-bazi-feribot-seferleri-iptal-edildi-43387240",
+    "Milliyet: https://www.milliyet.com.tr/gundem/bozcaada-ve-gokceadada-bazi-feribot-seferlerine-hava-engeli-7705767",
+    "CNN Türk: https://www.cnnturk.com/turkiye/bozcaada-ve-gokceadada-bazi-feribot-seferlerine-hava-engeli-3496636",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/gokceada-ve-bozcaada-feribot-seferleri-iptal-edildi-4875482",
+    "Evrensel: https://www.evrensel.net/haber/6010699/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/bozcaada-ve-gokceadada-bazi-feribot-seferlerine-hava-engeli-7705767"
+   ]
   }
  ],
  "fails": {
@@ -14490,7 +14485,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124531050353406307",
+   "since_id": "2124534705731313760",
    "started": true
   },
   "ajansmuhbir1923": {
