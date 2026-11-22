@@ -2,87 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "durdu",
-    "hgs",
-    "icra",
-    "takip",
-    "uralo"
-   ],
-   "tok": [
-    "abdul",
-    "altya",
-    "artmı",
-    "avuka",
-    "aşan",
-    "bağla",
-    "bilgi",
-    "bizim",
-    "buna",
-    "deki",
-    "derha",
-    "durdu",
-    "duyul",
-    "duyur",
-    "dönem",
-    "edile",
-    "farkl",
-    "geçiş",
-    "göre",
-    "hakkı",
-    "hatal",
-    "hazır",
-    "hesap",
-    "hgs",
-    "huzur",
-    "icra",
-    "icral",
-    "ileti",
-    "ilgil",
-    "ilişk",
-    "kartı",
-    "kayna",
-    "konus",
-    "kredi",
-    "mevzu",
-    "nihay",
-    "oluşt",
-    "otoma",
-    "otoyo",
-    "sorum",
-    "sorun",
-    "söz",
-    "sürey",
-    "takib",
-    "takip",
-    "talim",
-    "tamam",
-    "temel",
-    "tepki",
-    "teşvi",
-    "topla",
-    "ulaşt",
-    "uralo",
-    "uygul",
-    "vatan",
-    "veren",
-    "yalnı",
-    "yapıl",
-    "yaşan",
-    "yönel",
-    "yönte",
-    "yüzde",
-    "çalış",
-    "ödeme",
-    "özel",
-    "ünü",
-    "şikay",
-    "şirke"
-   ],
-   "at": "2026-11-20T14:32:25.969642+00:00"
-  },
-  {
-   "fp": [
     "5",
     "dolan",
     "tutuk",
@@ -11172,20 +11091,59 @@
     "ümit"
    ],
    "at": "2026-11-22T02:27:26.235359+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "4",
+    "hatay",
+    "imarı",
+    "konut",
+    "milya",
+    "satış",
+    "zeyti"
+   ],
+   "tok": [
+    "akp",
+    "aldı",
+    "arada",
+    "arazi",
+    "bazı",
+    "bedel",
+    "beled",
+    "belir",
+    "büyük",
+    "depre",
+    "hatay",
+    "ihale",
+    "imarl",
+    "imarı",
+    "kamul",
+    "konut",
+    "liste",
+    "milya",
+    "mülkl",
+    "olmas",
+    "ortay",
+    "rağme",
+    "satış",
+    "sürer",
+    "sürüy",
+    "taşın",
+    "vasfı",
+    "veril",
+    "yapıl",
+    "yer",
+    "yönel",
+    "zeyti",
+    "çıkar",
+    "çıktı",
+    "şekil"
+   ],
+   "at": "2026-11-22T02:40:15.800925+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "7130552abb",
-   "post_id": "529346797199852_1474068218166219",
-   "title": "29 günlük tutukluluğun ardından beraat eden BirGün muhabiri İsmail Arı: \"Tutuklamalarla geri adım atmayız\"",
-   "at": "2026-11-20T02:16:20.428902+00:00",
-   "yazim": "claude",
-   "metin": "BirGün muhabiri İsmail Arı, 29 gün tutuklu kaldıktan sonra iki suçlamadan da beraat ederek tahliye edildi.\n\n— Eski RTÜK Başkanı Ebubekir Şahin'in şikâyeti üzerine tutuklanmıştı.\n— Sincan Cezaevi'nden çıkınca meslektaşları ve meslek örgütleriyle bir araya geldi.\n\nİsmail Arı:\n\n“Tutuklamalarla biz mesleğimizi yapmaktan vazgeçmeyeceğiz. Gazetecilik suç değildir.”",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/29-gunluk-tutuklulugun-ardindan-beraat-eden-birgun-muhabiri-ismail-ari-tutuklamalarla-geri-adim-atmayiz-747362"
-   ]
-  },
   {
    "id": "1781547cdd",
    "post_id": "529346797199852_1474077074832000",
@@ -13753,6 +13711,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/fon-vurgununda-akp-baglantilari-siyasetten-sermayeye-uzanan-ag-747712"
    ]
+  },
+  {
+   "id": "c221bed84d",
+   "post_id": "529346797199852_1476269974612710",
+   "title": "Hatay'da zeytinliklere konut imarı: 2,4 milyarlık satış",
+   "at": "2026-11-22T02:40:15.800925+00:00",
+   "yazim": "claude",
+   "metin": "Hatay Büyükşehir Belediyesi, 17 taşınmazı 2,4 milyar TL bedelle satışa çıkardı.\n\nSatış listesinde zeytinlik vasfındaki arazilere konut imarı verildiği de ortaya çıktı.\n\n— Depremzedelerin mülklerine yönelik kamulaştırmalar sürüyor.\n— Bu arada zeytinlik olan bazı arazilerin konut yapılabilecek şekilde imarlandığı belirtiliyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/hatay-da-zeytinliklere-konut-imari-2-4-milyarlik-satis-747711"
+   ]
   }
  ],
  "fails": {
@@ -14034,16 +14003,10 @@
   "55da2c7781": 1,
   "b56c836e60": 1,
   "07a91e7f4d": 1,
-  "2ab2c91f11": 1,
-  "b005d9e013": 1
+  "2ab2c91f11": 2,
+  "b005d9e013": 2
  },
  "fail_log": [
-  "2026-11-21T23:47 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T00:00 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T00:00 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T00:00 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T00:12 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T00:12 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T00:12 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T00:25 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T00:25 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14077,7 +14040,13 @@
   "2026-11-22T02:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T02:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T02:27 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:27 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-22T02:27 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-22T02:40 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:40 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:40 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:40 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:40 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:40 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
