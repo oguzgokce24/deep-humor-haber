@@ -11001,20 +11001,93 @@
     "ücret"
    ],
    "at": "2026-11-22T05:38:23.992224+00:00"
+  },
+  {
+   "fp": [
+    "anlat",
+    "değiş",
+    "insan",
+    "kanse",
+    "kate",
+    "mücad",
+    "prens"
+   ],
+   "tok": [
+    "adlı",
+    "alıyo",
+    "ameli",
+    "ancak",
+    "anlat",
+    "ardın",
+    "bağla",
+    "bbc",
+    "belge",
+    "belir",
+    "büyük",
+    "cance",
+    "cathe",
+    "cesed",
+    "chall",
+    "chari",
+    "daki",
+    "dağa",
+    "derin",
+    "deste",
+    "değiş",
+    "duygu",
+    "duyur",
+    "etkil",
+    "fizik",
+    "galle",
+    "girdi",
+    "gördü",
+    "hasta",
+    "hazir",
+    "heal",
+    "insan",
+    "ise",
+    "iyile",
+    "içind",
+    "içini",
+    "kanse",
+    "karın",
+    "kate",
+    "kondu",
+    "konu",
+    "londr",
+    "marsd",
+    "mart",
+    "meyda",
+    "mücad",
+    "ocak",
+    "okuma",
+    "payla",
+    "peaks",
+    "prens",
+    "remis",
+    "royal",
+    "saat",
+    "sürec",
+    "sürüy",
+    "tedav",
+    "teşhi",
+    "the",
+    "three",
+    "tutun",
+    "tırma",
+    "umutl",
+    "var",
+    "varlı",
+    "verdi",
+    "yaşam",
+    "yenid",
+    "yer",
+    "şey"
+   ],
+   "at": "2026-11-22T05:54:42.417951+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ac58b4bb05",
-   "post_id": "529346797199852_1474153404824367",
-   "title": "Hazine'nin \"gizli vergi\" kaynağı: Trafik cezası tahsilatı 10 ayda yılsonu hedefini aştı",
-   "at": "2026-11-20T04:15:31.431150+00:00",
-   "yazim": "claude",
-   "metin": "Trafik cezası tahsilatı, yıl sonu hedefi dolmadan 10 ayda aşıldı.\n\n— Ocak-Ekim döneminde kesilen para cezaları 1 trilyon 545 milyar lirayı aştı.\n— Hazine'nin tahsil ettiği tutar 258 milyar liraya ulaştı.\n— Trafik cezası tahsilatı 10 ayda 80,2 milyar liraya çıktı; yıl sonu için hedef 73,4 milyar liraydı.\n— 2027 bütçesinde cezalardan 489,9 milyar lira gelir bekleniyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/hazine-nin-gizli-vergi-kaynagi-trafik-cezasi-tahsilati-10-ayda-yilsonu-hedefini-asti-747347"
-   ]
-  },
   {
    "id": "96343958c9",
    "post_id": "529346797199852_1474167531489621",
@@ -13580,6 +13653,17 @@
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/guzellik-ugruna-akilalmaz-skandal-bebek-kordon-kani-45-bin-tl-ye-satiliyor-p383350"
    ]
+  },
+  {
+   "id": "d4e04acaca",
+   "post_id": "529346797199852_1476402337932807",
+   "title": "Prenses Kate kanserle mücadelesini anlattı: 'Kanser insanı değiştiriyor'",
+   "at": "2026-11-22T05:54:42.417951+00:00",
+   "yazim": "claude",
+   "metin": "Galler Prensesi Catherine, kanser sürecini anlattığı \"Heal\" adlı belgeselde:\n\n“Kanser insanı değiştiriyor. Bedeninizi, fiziksel varlığınızı değiştiriyor. Ancak kanser teşhisinin içinizde değiştirdiği çok daha derin bir şey var.”\n\n— Belgesel 30 dakika sürüyor ve hastalık ile iyileşme sürecini konu alıyor.\n— Catherine, Mart 2024'te büyük bir karın ameliyatının ardından kanser teşhisi konduğunu açıklamıştı. Ocak 2025'te ise kanserin remisyona girdiğini duyurmuştu.\n— Belgeselde, Catherine'in Haziran 2026'da 24 saat içinde üç dağa tırmandığı Three Peaks Challenge da yer alıyor. Bu meydan okumayla kanser tedavisini gördüğü Londra'daki hastaneyle bağlantılı The Royal Marsden Cancer Charity'ye destek verdi.",
+   "sources": [
+    "Euronews: https://tr.euronews.com/2026/11/22/prenses-kate-kanserle-mucadelesini-anlatti-kanser-insani-degistiriyor"
+   ]
   }
  ],
  "fails": {
@@ -13865,17 +13949,11 @@
   "1da29897ec": 2,
   "74210cb62d": 1,
   "7c212fbe42": 1,
-  "2ab2c91f11": 1,
+  "2ab2c91f11": 2,
   "3343293b96": 1,
-  "066d53d56c": 1
+  "066d53d56c": 2
  },
  "fail_log": [
-  "2026-11-22T04:55 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:55 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:55 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:08 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:08 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:08 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:08 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
   "2026-11-22T05:08 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
   "2026-11-22T05:08 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
@@ -13909,7 +13987,13 @@
   "2026-11-22T05:51 Lionel Messi’nin, Gonzalo Tapia’nın yüzüne top atarak taç be -> ValueError: yanıt okunamadı",
   "2026-11-22T05:51 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
   "2026-11-22T05:51 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:51 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı"
+  "2026-11-22T05:51 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:54 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:54 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:54 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
