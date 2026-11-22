@@ -2,48 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "kütah",
-    "otomo",
-    "yaral"
-   ],
-   "tok": [
-    "afad",
-    "afyon",
-    "arkad",
-    "arıza",
-    "ağır",
-    "duran",
-    "duruy",
-    "ekipl",
-    "emniy",
-    "feci",
-    "halin",
-    "hasta",
-    "itfai",
-    "kaldı",
-    "karay",
-    "kurta",
-    "kütah",
-    "neden",
-    "olay",
-    "otomo",
-    "park",
-    "sonuc",
-    "sıkış",
-    "tır",
-    "tıra",
-    "uzun",
-    "uğraş",
-    "yaşan",
-    "çarpa",
-    "çarpt",
-    "şerid"
-   ],
-   "at": "2026-11-21T05:44:55.125063+00:00"
-  },
-  {
-   "fp": [
     "2026",
     "ara",
     "ballo",
@@ -11614,23 +11572,60 @@
     "çıktı"
    ],
    "at": "2026-11-22T17:44:29.244582+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "batan",
+    "fiyat",
+    "gemin",
+    "malla",
+    "milyo",
+    "müzay",
+    "rekor",
+    "satış",
+    "sterl",
+    "titan"
+   ],
+   "tok": [
+    "ait",
+    "alıcı",
+    "batan",
+    "bin",
+    "buldu",
+    "cep",
+    "den",
+    "dönüş",
+    "düzen",
+    "eşya",
+    "eşyal",
+    "fazla",
+    "fiyat",
+    "gemin",
+    "hatır",
+    "ingil",
+    "ise",
+    "malla",
+    "müzay",
+    "pırla",
+    "rekor",
+    "saati",
+    "satıl",
+    "satış",
+    "serve",
+    "sterl",
+    "titan",
+    "topla",
+    "yaşam",
+    "yitir",
+    "yolcu",
+    "yüzük",
+    "yıllı"
+   ],
+   "at": "2026-11-22T17:57:03.628135+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c3b1f9a368",
-   "post_id": "529346797199852_1474781998094841",
-   "title": "Serdar Dursun'dan Victor Osimhen açıklaması: 'Her konuda benden iyi ama...'",
-   "at": "2026-11-20T17:23:47.185081+00:00",
-   "yazim": "claude",
-   "metin": "İngiliz basınına göre Manchester United, Galatasaray'ın golcüsü Victor Osimhen'i transfer listesine aldı.\n\n— Haberde, Osimhen'in Manchester United'dan gelecek bir teklife sıcak bakabileceği iddia edildi.\n— Galatasaray'la 2029'a kadar sözleşmesi olan Osimhen'in yıllık 13 milyon sterline yakın maaş aldığı belirtildi.\n— Sözleşmede fesih maddesinin bulunmaması, transferin önündeki en büyük engel olarak gösterildi.\n— Galatasaray'ın Osimhen için 80 ile 100 milyon sterlin arasında bir bonservis beklediği öne sürüldü.\n— Haberde, sezon ortasında bir anlaşmanın zor olacağı, yaz transfer döneminin ise daha gerçekçi olduğu ifade edildi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/serdar-dursundan-victor-osimhen-kiyasi-son-vuruslarim-daha-iyi-3495940",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/serdar-dursun-dan-victor-osimhen-aciklamasi-her-konuda-benden-iyi-ama-2557920",
-    "Karar: https://www.karar.com/spor-haberleri/manchester-uniteddan-victor-osimhen-hamlesi-2085343",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/serdar-dursundan-ismail-kartal-aciklamasi-uzerine-gereksiz-gidildi-cok-yiprandi-43385503"
-   ]
-  },
   {
    "id": "bde05f75fe",
    "post_id": "529346797199852_1474793444760363",
@@ -14166,6 +14161,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/mahmut-uslu-dan-iddialara-yanit-o-sozler-tamamen-asilsiz-2558399",
     "Sözcü Spor: https://www.sozcu.com.tr/mahmut-usludan-11-puan-sozlerine-yalanlama-p383505"
    ]
+  },
+  {
+   "id": "e0e5eb7386",
+   "post_id": "529346797199852_1476977777875263",
+   "title": "Titanik yolcularının eşyaları 1 milyon sterline alıcı buldu",
+   "at": "2026-11-22T17:57:03.628135+00:00",
+   "yazim": "claude",
+   "metin": "İngiltere'de düzenlenen bir müzayedede, Titanik'te hayatını kaybeden yolculara ait 100'den fazla eşya toplam 1 milyon sterline satıldı.\n\n— Cep saati 250 bin sterline alıcı buldu.\n— Pırlanta yüzük ise 140 bin sterline satıldı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/dunya/batan-geminin-mallarina-rekor-fiyat-titanik-muzayedesinde-1-milyon-sterlinlik-satis-7705749",
+    "CNN Türk: https://www.cnnturk.com/dunya/batan-geminin-mallarina-rekor-fiyat-114-yillik-hatiralar-servete-donustu-3496650",
+    "BirGün: https://www.birgun.net/haber/titanik-yolcularinin-esyalari-1-milyon-sterline-alici-buldu-747824",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/batan-geminin-mallarina-rekor-fiyat-titanik-muzayedesinde-1-milyon-sterlinlik-satis-7705749"
+   ]
   }
  ],
  "fails": {
@@ -14515,7 +14524,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124557304418742620",
+   "since_id": "2124562392428290510",
    "started": true
   },
   "ajansmuhbir1923": {
