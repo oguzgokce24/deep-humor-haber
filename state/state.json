@@ -11040,22 +11040,68 @@
     "şartı"
    ],
    "at": "2026-11-22T09:42:58.506057+00:00"
+  },
+  {
+   "fp": [
+    "durum",
+    "hakan",
+    "killa",
+    "sağlı"
+   ],
+   "tok": [
+    "alman",
+    "ancak",
+    "aralı",
+    "avuka",
+    "bakım",
+    "bildi",
+    "ciddi",
+    "devam",
+    "durmu",
+    "durum",
+    "duyur",
+    "edild",
+    "ettiğ",
+    "geliş",
+    "genel",
+    "geçti",
+    "gidiy",
+    "gitti",
+    "göre",
+    "gören",
+    "hafta",
+    "hakan",
+    "hasta",
+    "henüz",
+    "ilgil",
+    "ilişk",
+    "iptal",
+    "iyile",
+    "iyiye",
+    "kaldı",
+    "killa",
+    "konse",
+    "neden",
+    "oluml",
+    "planl",
+    "rapçi",
+    "sanat",
+    "sarıd",
+    "sağlı",
+    "sorun",
+    "süred",
+    "tedav",
+    "veril",
+    "yapıl",
+    "yaşan",
+    "yoğun",
+    "çıkma",
+    "şükrü"
+   ],
+   "at": "2026-11-22T09:59:58.924897+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c32971d02f",
-   "post_id": "529346797199852_1474356464804061",
-   "title": "Paşalimanı Adası’nda cenaze krizi: Morg bulunmayan adada cenazeyi dondurma dolabına koydular",
-   "at": "2026-11-20T09:06:39.703671+00:00",
-   "yazim": "claude",
-   "metin": "Balıkesir'in Erdek ilçesine bağlı Paşalimanı Adası'nda kalp krizi geçiren bir vatandaş hayatını kaybetti, cenazesi dondurma dolabında bekletildi.\n\n— Adada morg ve sürekli görev yapan doktor yok. Cenazeler için kullanılan soğutmalı tabut da arızalıydı.\n\n— Adam sabaha karşı rahatsızlandı. Adada sabit ambulans olmadığı için ailesi onu Balıklı İskelesi'ne götürdü.\n\n— Yakınları hastayı panelvanla sabah 06.15'te iskeleye ulaştırdı ve yaklaşık 45 dakika bekledi. Kıyı emniyeti ekipleri geldiğinde hayatını kaybettiği belirlendi.\n\n— Cenaze, yaz aylarında dondurma satışında kullanılan dolaba konuldu. Gebze'den adaya ulaşan yakınlarının ardından defnedildi.",
-   "sources": [
-    "Yeni Şafak: https://www.yenisafak.com/gundem/pasalimani-adasinda-cenaze-dondurma-dolabinda-bekletildi-4874719",
-    "Karar: https://www.karar.com/guncel-haberler/pasalimani-adasinda-cenaze-krizi-morg-bulunmayan-adada-cenazeyi-2085252",
-    "BPT (X): https://x.com/bpthaber/status/2123701468221825124"
-   ]
-  },
   {
    "id": "055ce82cf8",
    "post_id": "529346797199852_1474365844803123",
@@ -13630,6 +13676,18 @@
     "Sözcü: https://www.sozcu.com.tr/otoparka-silahli-saldirida-skandal-savunma-kafam-bozuktu-sarhostum-ates-ettim-p383413",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/kagithanede-otoparka-silahli-saldiri-kafam-bozuktu-sarhostum-ates-ettim-7705534"
    ]
+  },
+  {
+   "id": "91adbeda31",
+   "post_id": "529346797199852_1476576464582061",
+   "title": "Killa Hakan’ın sağlık durumuyla ilgili açıklama: Konseri iptal edildi",
+   "at": "2026-11-22T09:59:58.924897+00:00",
+   "yazim": "claude",
+   "metin": "Almanya'da yoğun bakımda tedavi gören rapçi Killa Hakan'ın sağlık durumunda iyileşme olduğu açıklandı.\n\nAvukatı Şükrü Sarıdere, sanatçının henüz yoğun bakımdan çıkmadığını ancak tedavide olumlu gelişmeler yaşandığını söyledi.\n\n— Sarıdere'ye göre Hakan Durmuş'un genel sağlık durumu iyiye gidiyor.\n— 12 Aralık'ta verilmesi planlanan konser sağlık nedeniyle iptal edildi.\n— Killa Hakan, geçtiğimiz haftalarda ciddi sağlık sorunları nedeniyle Almanya'da hastaneye kaldırılmıştı.",
+   "sources": [
+    "Karar: https://www.karar.com/hayat-haberleri/killa-hakanin-saglik-durumuyla-ilgili-aciklama-konseri-iptal-edildi-2085525",
+    "BPT (X): https://x.com/bpthaber/status/2124442157645811739"
+   ]
   }
  ],
  "fails": {
@@ -13927,7 +13985,6 @@
  },
  "fail_log": [
   "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
   "2026-11-22T06:07 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T06:07 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T06:07 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -13965,12 +14022,13 @@
   "2026-11-22T09:56 Müge İplikçi yazdı | “İlahi adalet”in tecelli ettiği yer: Te -> ValueError: yanıt okunamadı",
   "2026-11-22T09:56 ORC'nin şaibeli anketleri: İsmail Saymaz 'YMP'nin oy oranlar -> ValueError: yanıt okunamadı",
   "2026-11-22T09:56 ORC'nin şaibeli anketleri: İsmail Saymaz 'YMP'nin oy oranlar -> ValueError: yanıt okunamadı",
-  "2026-11-22T09:56 ORC'nin şaibeli anketleri: İsmail Saymaz 'YMP'nin oy oranlar -> ValueError: yanıt okunamadı"
+  "2026-11-22T09:56 ORC'nin şaibeli anketleri: İsmail Saymaz 'YMP'nin oy oranlar -> ValueError: yanıt okunamadı",
+  "2026-11-22T10:00 Killa Hakan’ın sağlık durumuyla ilgili açıklama: Konseri ipt -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124436051779338410",
+   "since_id": "2124442157645811739",
    "started": true
   },
   "ajansmuhbir1923": {
