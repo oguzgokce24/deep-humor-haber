@@ -2,77 +2,6 @@
  "seen": [
   {
    "fp": [
-    "6",
-    "60",
-    "derec",
-    "geliy",
-    "hızla",
-    "kilom",
-    "saatt",
-    "çakıl"
-   ],
-   "tok": [
-    "aksam",
-    "anado",
-    "ani",
-    "baskı",
-    "bekle",
-    "birço",
-    "bulu",
-    "cumar",
-    "derec",
-    "dikka",
-    "doğu",
-    "düşec",
-    "ege",
-    "eskiş",
-    "geliy",
-    "görül",
-    "günü",
-    "hava",
-    "hızla",
-    "ila",
-    "ilçel",
-    "ise",
-    "isted",
-    "kar",
-    "karad",
-    "karla",
-    "karış",
-    "karşı",
-    "kasım",
-    "kesim",
-    "kilom",
-    "kuvve",
-    "kuzey",
-    "kırık",
-    "marma",
-    "meteo",
-    "nin",
-    "nun",
-    "nın",
-    "olaca",
-    "olunm",
-    "rüzga",
-    "saatt",
-    "sağan",
-    "sel",
-    "sıcak",
-    "ulaşı",
-    "uyarı",
-    "yağac",
-    "yağmu",
-    "yağış",
-    "yer",
-    "yükse",
-    "yıldı",
-    "çakıl",
-    "çıkac"
-   ],
-   "at": "2026-11-21T04:48:45.791749+00:00"
-  },
-  {
-   "fp": [
     "2027",
     "bütçe",
     "ibb",
@@ -11501,21 +11430,54 @@
     "şeyi"
    ],
    "at": "2026-11-22T16:38:26.076642+00:00"
+  },
+  {
+   "fp": [
+    "acun",
+    "ali",
+    "koç",
+    "ılıca"
+   ],
+   "tok": [
+    "acun",
+    "ali",
+    "aynı",
+    "birli",
+    "brigh",
+    "city",
+    "dönem",
+    "ediyo",
+    "ekibi",
+    "eski",
+    "fener",
+    "golün",
+    "görev",
+    "hafta",
+    "hull",
+    "ingil",
+    "isim",
+    "izled",
+    "koç",
+    "lig",
+    "maçın",
+    "mücad",
+    "nin",
+    "oynad",
+    "premi",
+    "sahib",
+    "sevin",
+    "takip",
+    "takım",
+    "yan",
+    "yana",
+    "yapmı",
+    "yönet",
+    "ılıca"
+   ],
+   "at": "2026-11-22T16:50:54.995950+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "284620c9a8",
-   "post_id": "529346797199852_1474715871434787",
-   "title": "ÖSYM duyurdu: Akademi Giriş Sınavı branş sıralamaları erişime açıldı",
-   "at": "2026-11-20T16:13:12.130004+00:00",
-   "yazim": "claude",
-   "metin": "ÖSYM, 2026 MEB Akademi Giriş Sınavı'na (MEB-AGS) girenlerin branş sıralamalarını açtı.\n\nAdaylar sıralamalarına ÖSYM Aday İşlemleri Sistemi'ne T.C. kimlik numaraları ve aday şifreleriyle girerek ulaşabilecek.\n\n— Sıralama yalnızca bilgilendirme amaçlı. ÖSYM, bu sıralamanın Akademi'ye kabul ya da yerleştirme sonucu olmadığını vurguladı.\n— Hazırlık eğitimine alınacak adaylar belirlenirken yalnızca branş sıralaması esas alınmayacak. Mezun olunan programın ilgili öğretmenlik alanıyla bağı ve öncelik durumu da dikkate alınacak.\n— Yerleştirme işlemini Milli Eğitim Bakanlığı yürütecek. Adayların bakanlığın açıklamalarını takip etmesi önemli.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/egitim/akademi-giris-sinavi-brans-siralamalari-aciklandi-963988.html",
-    "Karar: https://www.karar.com/guncel-haberler/osym-duyurdu-akademi-giris-sinavi-brans-siralamalari-erisime-acildi-2085353"
-   ]
-  },
   {
    "id": "87df1f86ec",
    "post_id": "529346797199852_1474732878099753",
@@ -14051,6 +14013,18 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/22/bakan-kurum-cop31-genel-kurulunda-gazetecilere-konustu",
     "NTV: https://www.ntv.com.tr/turkiye/cop31de-ortu-karara-itiraz-bakan-murat-kurum-yeni-bir-metin-olmayacak-1752080"
    ]
+  },
+  {
+   "id": "82693c9375",
+   "post_id": "529346797199852_1476923047880736",
+   "title": "Acun Ilıcalı ile Ali Koç İngiltere'de yan yana!",
+   "at": "2026-11-22T16:50:54.995950+00:00",
+   "yazim": "claude",
+   "metin": "Acun Ilıcalı ile Ali Koç, İngiltere'de Hull City'nin Brighton maçını yan yana izledi.\n\n— Hull City'nin sahibi Acun Ilıcalı, takımının Premier Lig'in 11. haftasındaki maçını Fenerbahçe'nin eski başkanı Ali Koç ile birlikte takip ediyor.\n— İki isim Fenerbahçe'de bir dönem aynı yönetimde görev yapmıştı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/acun-ilicali-ile-ali-koc-ingiltere-de-yan-yana-2558381",
+    "BPT (X): https://x.com/bpthaber/status/2124544874070540666"
+   ]
   }
  ],
  "fails": {
@@ -14356,7 +14330,6 @@
   "c31a1dbeaa": 1
  },
  "fail_log": [
-  "2026-11-22T11:40 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
   "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
   "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
   "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
@@ -14395,12 +14368,13 @@
   "2026-11-22T14:42 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: cümle yarım kalmış: 'kledi: “Fenerbahçe’nin karakterinde pes”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: yanıt okunamadı",
-  "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: yanıt okunamadı"
+  "2026-11-22T16:38 Mahmut Uslu’dan '11 puan' sözlerine yalanlama -> ValueError: yanıt okunamadı",
+  "2026-11-22T16:51 Acun Ilıcalı ile Ali Koç İngiltere'de yan yana! -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124536953450172836",
+   "since_id": "2124544874070540666",
    "started": true
   },
   "ajansmuhbir1923": {
