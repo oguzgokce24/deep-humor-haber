@@ -2,65 +2,6 @@
  "seen": [
   {
    "fp": [
-    "düşür",
-    "emekl",
-    "eskiş",
-    "eylem",
-    "maaşl"
-   ],
-   "tok": [
-    "ali",
-    "alıyo",
-    "anlat",
-    "anlaş",
-    "araya",
-    "attı",
-    "aylık",
-    "aylığ",
-    "biliy",
-    "bin",
-    "bugün",
-    "bunun",
-    "dikka",
-    "diye",
-    "doğru",
-    "düşür",
-    "eller",
-    "emekl",
-    "eskiş",
-    "eylem",
-    "gelen",
-    "imza",
-    "ironi",
-    "ise",
-    "kim",
-    "köprü",
-    "maaşl",
-    "maliy",
-    "musun",
-    "nda",
-    "nin",
-    "panka",
-    "paşa",
-    "sendi",
-    "sloga",
-    "sorum",
-    "sorun",
-    "ters",
-    "tutan",
-    "yapıl",
-    "çalış",
-    "çağrı",
-    "çekme",
-    "şanlı",
-    "şeyi",
-    "şube",
-    "şubes"
-   ],
-   "at": "2026-11-20T18:01:51.207034+00:00"
-  },
-  {
-   "fp": [
     "5",
     "bilir",
     "cezas",
@@ -11085,6 +11026,63 @@
     "şey"
    ],
    "at": "2026-11-22T05:54:42.417951+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-22T06:07:16.185771+00:00"
+  },
+  {
+   "fp": [
+    "ailey",
+    "darıc",
+    "değil",
+    "haykı",
+    "kadın",
+    "koru",
+    "talep"
+   ],
+   "tok": [
+    "ailem",
+    "ailen",
+    "ailey",
+    "araya",
+    "belir",
+    "darıc",
+    "değil",
+    "gelen",
+    "güven",
+    "haykı",
+    "hedef",
+    "kadın",
+    "karşı",
+    "kasım",
+    "koru",
+    "mücad",
+    "nin",
+    "ovp",
+    "rejim",
+    "saray",
+    "talep",
+    "yoksu",
+    "çağrı",
+    "önces",
+    "şidde"
+   ],
+   "at": "2026-11-22T06:07:23.736526+00:00"
   }
  ],
  "posted": [
@@ -13949,20 +13947,10 @@
   "1da29897ec": 2,
   "74210cb62d": 1,
   "7c212fbe42": 1,
-  "2ab2c91f11": 2,
   "3343293b96": 1,
-  "066d53d56c": 2
+  "eebe2419a0": 1
  },
  "fail_log": [
-  "2026-11-22T05:08 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:08 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:08 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:11 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:11 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:11 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
   "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -13993,7 +13981,16 @@
   "2026-11-22T05:54 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
   "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı"
+  "2026-11-22T05:54 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:07 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
