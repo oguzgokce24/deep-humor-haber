@@ -11097,6 +11097,64 @@
     "ölüml"
    ],
    "at": "2026-11-22T04:06:19.820556+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-22T04:09:48.556936+00:00"
+  },
+  {
+   "fp": [
+    "aldığ",
+    "cumhu",
+    "müzay"
+   ],
+   "tok": [
+    "aldığ",
+    "altın",
+    "andık",
+    "anıtı",
+    "atatü",
+    "atlı",
+    "açıla",
+    "buluş",
+    "eylül",
+    "görse",
+    "heinr",
+    "heyke",
+    "hietz",
+    "izmir",
+    "kripp",
+    "kının",
+    "mayıs",
+    "müzay",
+    "nda",
+    "nın",
+    "onur",
+    "samsu",
+    "sağan",
+    "var",
+    "viyan",
+    "yaptı",
+    "yılın",
+    "çıkan",
+    "önünd",
+    "şemsi"
+   ],
+   "at": "2026-11-22T04:09:53.652825+00:00"
   }
  ],
  "posted": [
@@ -13960,19 +14018,9 @@
   "55da2c7781": 1,
   "b56c836e60": 1,
   "07a91e7f4d": 1,
-  "2ab2c91f11": 2,
-  "d86a94d7fe": 2
+  "c98b29da39": 1
  },
  "fail_log": [
-  "2026-11-22T03:38 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:42 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:42 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:42 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:42 İnsanca yaşam için meydanlara: Gözler 29 Kasım'da -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:42 İnsanca yaşam için meydanlara: Gözler 29 Kasım'da -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:42 İnsanca yaşam için meydanlara: Gözler 29 Kasım'da -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:42 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:42 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
   "2026-11-22T03:42 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
   "2026-11-22T03:46 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T03:46 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14003,7 +14051,16 @@
   "2026-11-22T04:06 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
   "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı"
+  "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:10 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
