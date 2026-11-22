@@ -13909,19 +13909,11 @@
   "b56c836e60": 1,
   "07a91e7f4d": 1,
   "4ac094d006": 1,
-  "acda98ba9d": 1,
-  "362d1019f3": 1
+  "acda98ba9d": 2,
+  "362d1019f3": 2,
+  "2ab2c91f11": 1
  },
  "fail_log": [
-  "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:27 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:27 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-22T02:40 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T02:40 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T02:40 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -13952,7 +13944,16 @@
   "2026-11-22T03:38 İnsanca yaşam için meydanlara: Gözler 29 Kasım'da -> ValueError: yanıt okunamadı",
   "2026-11-22T03:38 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
   "2026-11-22T03:38 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:38 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı"
+  "2026-11-22T03:38 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 İnsanca yaşam için meydanlara: Gözler 29 Kasım'da -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 İnsanca yaşam için meydanlara: Gözler 29 Kasım'da -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 İnsanca yaşam için meydanlara: Gözler 29 Kasım'da -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:42 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
