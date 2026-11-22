@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ataku",
-    "dokuz",
-    "emekç",
-    "eylem",
-    "günün",
-    "işçil",
-    "oturm",
-    "çağrı",
-    "özel"
-   ],
-   "tok": [
-    "alın",
-    "anlay",
-    "ataku",
-    "ayyıl",
-    "başla",
-    "bekli",
-    "beled",
-    "binas",
-    "bizle",
-    "chp",
-    "dayan",
-    "devam",
-    "dinçe",
-    "dokuz",
-    "duran",
-    "duyul",
-    "edere",
-    "ekmeğ",
-    "emekç",
-    "erdön",
-    "eski",
-    "eylem",
-    "fatma",
-    "gider",
-    "göste",
-    "günün",
-    "hakkı",
-    "hayri",
-    "istiy",
-    "işten",
-    "işçil",
-    "mağdu",
-    "nin",
-    "oturm",
-    "peşin",
-    "sadec",
-    "samsu",
-    "sesim",
-    "sesle",
-    "soylu",
-    "sözcü",
-    "sürdü",
-    "terin",
-    "yanın",
-    "yaşad",
-    "yönet",
-    "ziyar",
-    "çağrı",
-    "çıkar",
-    "önünd",
-    "özel",
-    "özgür"
-   ],
-   "at": "2026-11-21T00:05:10.541311+00:00"
-  },
-  {
-   "fp": [
     "20",
     "başın",
     "bin",
@@ -11184,25 +11116,64 @@
     "şirke"
    ],
    "at": "2026-11-22T11:58:29.631496+00:00"
+  },
+  {
+   "fp": [
+    "30",
+    "arana",
+    "cezas",
+    "firar",
+    "hapis",
+    "hüküm",
+    "izmir",
+    "yakal",
+    "yıl"
+   ],
+   "tok": [
+    "adli",
+    "adres",
+    "altın",
+    "alınm",
+    "arana",
+    "arand",
+    "ardın",
+    "ayrı",
+    "aşkın",
+    "belir",
+    "bina",
+    "bulun",
+    "cezal",
+    "cezas",
+    "dosya",
+    "düzen",
+    "evde",
+    "eve",
+    "eşya",
+    "firar",
+    "gün",
+    "hapis",
+    "hüküm",
+    "hırsı",
+    "ilçes",
+    "izmir",
+    "içind",
+    "işlem",
+    "kesin",
+    "konak",
+    "merci",
+    "muhaf",
+    "sakla",
+    "siver",
+    "suçun",
+    "tesli",
+    "topla",
+    "yıl",
+    "yılı"
+   ],
+   "at": "2026-11-22T12:11:06.712360+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "df08cdcb14",
-   "post_id": "529346797199852_1474465794793128",
-   "title": "Eyüpsultan'da İETT otobüsleri birbirine girdi: 4 kişi yaralandı",
-   "at": "2026-11-20T11:31:19.265521+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Eyüpsultan ilçesinde iki İETT otobüsü birbirine çarptı: 4 kişi yaralandı.\n\n— Kaza, Silahtarağa Caddesi'nde durağa yanaşan bir İETT otobüsüne arkadan gelen başka bir İETT otobüsünün çarpmasıyla oldu.\n\n— Yaralılardan 3'ü yolcu, 1'i otobüs şoförü. Ambulanslarla üç farklı hastaneye kaldırıldılar.\n\n— Yaralıların sağlık durumunun iyi olduğu öğrenildi. Polis ve sağlık ekipleri olay yerine sevk edildi, polis kazayla ilgili inceleme başlattı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/iett-otobusleri-carpisti-4-yarali-963957.html",
-    "CNN Türk: https://www.cnnturk.com/turkiye/eyupsultanda-2-iett-otobusu-carpisti-4-yarali-3495840",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-da-iki-iett-otobusu-carpisti-4-kisi-yaralandi-2557840",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/eyupsultanda-iett-otobusleri-carpisti-4-kisi-yaralandi-4874788",
-    "Evrensel: https://www.evrensel.net/haber/6010384/eyupsultan-da-iett-otobusleri-birbirine-girdi-4-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/sehir-haberleri/eyupsultanda-iki-iett-otobusu-carpisti-4-yarali-2085271"
-   ]
-  },
   {
    "id": "e456979af6",
    "post_id": "529346797199852_1474475988125442",
@@ -13753,6 +13724,21 @@
     "TRT Haber: https://www.trthaber.com/haber/dunya/belcikada-ulusal-grev-nedeniyle-yarin-tum-ucuslar-iptal-edilecek-964134.html",
     "Evrensel: https://www.evrensel.net/haber/6010672/belcika-da-yarin-ulusal-grev-gunu-tum-ucuslar-iptal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "7f2fea05b4",
+   "post_id": "529346797199852_1476678634571844",
+   "title": "30 yıl 7 ay hapisle aranan hükümlü İzmir'de yakalandı",
+   "at": "2026-11-22T12:11:06.712360+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'in Konak ilçesinde 30 yıl 7 ay hapis cezasıyla aranan bir hükümlü yakalandı.\n\n— Polis, hükümlünün adresini belirledi ve eve düzenlenen operasyonda kişiyi yakaladı.\n\n— Hükümlünün, bina içinde muhafaza altına alınmış eşya hakkında hırsızlık suçundan arandığı belirtildi.\n\n— Yakalanan H.D., işlemlerinin ardından adli mercilere teslim edildi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/izmirde-30-yili-askin-hapis-cezali-firari-yakalandi-saklandigi-evde-yakalandi-43387009",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmirde-30-yil-hapis-cezasi-ile-aranan-firari-hukumlu-yakalandi-3496530",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/konak/izmirde-30-yil-hapis-cezasi-ile-aranan-firari-hukumlu-yakalandi-3496531",
+    "Sözcü: https://www.sozcu.com.tr/30-yil-7-ay-hapisle-aranan-hukumlu-izmirde-yakalandi-p383441",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/siverekte-10-yil-hapis-cezasiyla-aranan-hukumlu-yakalandi-4875414"
+   ]
   }
  ],
  "fails": {
@@ -14097,7 +14083,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124471017674342512",
+   "since_id": "2124473738217324690",
    "started": true
   },
   "ajansmuhbir1923": {
