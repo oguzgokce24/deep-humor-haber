@@ -2,48 +2,6 @@
  "seen": [
   {
    "fp": [
-    "geçic",
-    "işlem",
-    "spk",
-    "yasağ",
-    "şirke"
-   ],
-   "tok": [
-    "alınd",
-    "anado",
-    "batı",
-    "batıç",
-    "bülte",
-    "dan",
-    "duyur",
-    "enerj",
-    "gerçe",
-    "getir",
-    "geçic",
-    "inşaa",
-    "işlem",
-    "kurul",
-    "maden",
-    "neden",
-    "pay",
-    "payla",
-    "piyas",
-    "sanay",
-    "serma",
-    "spk",
-    "sürey",
-    "taahh",
-    "ticar",
-    "uygul",
-    "veril",
-    "yasağ",
-    "yayım",
-    "şirke"
-   ],
-   "at": "2026-11-20T23:28:55.831293+00:00"
-  },
-  {
-   "fp": [
     "2",
     "4",
     "deki",
@@ -11175,6 +11133,47 @@
     "ıskal"
    ],
    "at": "2026-11-22T11:27:37.635524+00:00"
+  },
+  {
+   "fp": [
+    "boya",
+    "paste",
+    "rehbe",
+    "seçim",
+    "testi",
+    "zeyti",
+    "şefle"
+   ],
+   "tok": [
+    "alabi",
+    "ambal",
+    "appea",
+    "boya",
+    "diken",
+    "dikka",
+    "etmen",
+    "first",
+    "gerek",
+    "hasat",
+    "karşı",
+    "linka",
+    "nokta",
+    "paran",
+    "paste",
+    "pek",
+    "post",
+    "rehbe",
+    "seçer",
+    "seçim",
+    "site",
+    "tarih",
+    "testi",
+    "the",
+    "var",
+    "zeyti",
+    "şefle"
+   ],
+   "at": "2026-11-22T11:40:24.692787+00:00"
   }
  ],
  "posted": [
@@ -14041,16 +14040,11 @@
   "897110c57e": 1,
   "4e33ee68c6": 1,
   "e6bc0e44ef": 1,
-  "1949ed7e4d": 2,
-  "70a6c9cd11": 1
+  "70a6c9cd11": 1,
+  "1835d46d50": 1,
+  "ed2b1f0b38": 1
  },
  "fail_log": [
-  "2026-11-22T06:07 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
-  "2026-11-22T06:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T06:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T06:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
-  "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
   "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
   "2026-11-22T07:14 Endonezya'da şekerleme fabrikasında yangın: 3 işçi yaşamını  -> ValueError: yanıt okunamadı",
   "2026-11-22T08:40 Fatih Altaylı: \"Celal Şengör'e göre Türkiye'nin en güzel kad -> ValueError: yanıt okunamadı",
@@ -14084,12 +14078,18 @@
   "2026-11-22T11:27 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
   "2026-11-22T11:27 Kocaeli’de sonbaharla birlikte rengarenk tonlara bürünen orm -> ValueError: yanıt okunamadı",
   "2026-11-22T11:27 Kocaeli’de sonbaharla birlikte rengarenk tonlara bürünen orm -> ValueError: yanıt okunamadı",
-  "2026-11-22T11:27 Kocaeli’de sonbaharla birlikte rengarenk tonlara bürünen orm -> ValueError: yanıt okunamadı"
+  "2026-11-22T11:27 Kocaeli’de sonbaharla birlikte rengarenk tonlara bürünen orm -> ValueError: yanıt okunamadı",
+  "2026-11-22T11:40 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
+  "2026-11-22T11:40 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
+  "2026-11-22T11:40 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
+  "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
+  "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
+  "2026-11-22T11:40 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124462972307198133",
+   "since_id": "2124467300619162002",
    "started": true
   },
   "ajansmuhbir1923": {
