@@ -13902,12 +13902,10 @@
   "7141e6a375": 1,
   "1da29897ec": 2,
   "74210cb62d": 1,
-  "2ab2c91f11": 1
+  "2ab2c91f11": 2,
+  "7c212fbe42": 1
  },
  "fail_log": [
-  "2026-11-22T04:39 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:39 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:39 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T04:39 Kapalı Oturum: Yap-işlet soy! -> ValueError: cümle yarım kalmış: 'n lira tahsil edecek icra dosyası adres”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-22T04:39 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
   "2026-11-22T04:39 Kapalı Oturum: Yap-işlet soy! -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
@@ -13944,12 +13942,15 @@
   "2026-11-22T05:15 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
   "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
+  "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124370554002243923",
+   "since_id": "2124375845741658485",
    "started": true
   },
   "ajansmuhbir1923": {
