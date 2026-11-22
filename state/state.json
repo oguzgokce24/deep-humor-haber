@@ -11573,23 +11573,77 @@
     "üzeri"
    ],
    "at": "2026-11-22T19:28:46.103332+00:00"
+  },
+  {
+   "fp": [
+    "iran",
+    "sinya",
+    "tan",
+    "trump"
+   ],
+   "tok": [
+    "abd",
+    "abluk",
+    "anlaş",
+    "ardın",
+    "asker",
+    "aşma",
+    "başla",
+    "belir",
+    "boyla",
+    "dansç",
+    "dener",
+    "deniz",
+    "dibin",
+    "donal",
+    "donan",
+    "emri",
+    "fox",
+    "geldi",
+    "geri",
+    "giriş",
+    "görüş",
+    "halin",
+    "hepsi",
+    "iran",
+    "iranl",
+    "kalan",
+    "mesaj",
+    "müzak",
+    "news",
+    "nitel",
+    "nükle",
+    "ocak",
+    "onlar",
+    "profe",
+    "röpor",
+    "sağla",
+    "sinya",
+    "somut",
+    "sonuç",
+    "step",
+    "suçla",
+    "tan",
+    "tehdi",
+    "telef",
+    "trump",
+    "umarı",
+    "uzatm",
+    "varıl",
+    "verdi",
+    "vereb",
+    "verme",
+    "vurab",
+    "yenid",
+    "yönel",
+    "yürüt",
+    "yılın",
+    "ülkey"
+   ],
+   "at": "2026-11-22T19:41:31.961260+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f7552b674e",
-   "post_id": "529346797199852_1474870161419358",
-   "title": "Gaziantep'te hastanede bıçaklı saldırı: Doktor ve sekreterini rehin aldı",
-   "at": "2026-11-20T19:11:15.528334+00:00",
-   "yazim": "claude",
-   "metin": "Gaziantep'in Nizip ilçesindeki devlet hastanesinde bir hasta bıçakla göz doktorunun odasına girdi, doktor ve sekreterini rehin aldı.\n\n— Olay sabah saatlerinde yaşandı. Daha önce hakkında \"beyaz kod\" verilen hasta, yeniden hastaneye gelip bu karara tepki gösterdi.\n\n— Hastane güvenliği ve polis ekiplerinin müdahalesiyle şüpheli gözaltına alındı.\n\n— Olayda yaralanan olmadı, soruşturma başlatıldı.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/doktoru-bicakla-rehin-aldi-3928886",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/doktorun-odasina-bicakla-girdi-doktor-ve-sekreterini-rehin-aldi-2557944",
-    "Evrensel: https://www.evrensel.net/haber/6010456/antep-te-saglikta-siddet-hastanede-doktor-ve-sekreteri-bicakla-rehin-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/gaziantep-te-hastanede-bicakli-saldiri-doktor-ve-sekreterini-rehin-aldi-747527"
-   ]
-  },
   {
    "id": "b0750f2a57",
    "post_id": "529346797199852_1474878411418533",
@@ -14112,6 +14166,19 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2124583024062767313"
    ]
+  },
+  {
+   "id": "4526a74ae4",
+   "post_id": "529346797199852_1477053521201022",
+   "title": "Trump'tan İran için '1 Ocak' sinyali: Vurabiliriz!",
+   "at": "2026-11-22T19:41:31.961260+00:00",
+   "yazim": "claude",
+   "metin": "ABD Başkanı Donald Trump, İran'ın deniz ablukasını aşma girişimi için:\n\n“Umarım denerler, donanmalarının geri kalanı gibi hepsi denizin dibini boylar.”\n\n— Trump, Fox News'e verdiği telefon röportajında İran ile müzakerelerin somut bir sonuç vermediğini söyledi.\n— İranlı müzakerecileri görüşmeleri uzatmakla suçlayan Trump, onları \"profesyonel step dansçıları\" olarak nitelendirdi.\n— Anlaşma sağlanamazsa saldırıların yeniden başlayabileceğini ve yeni yılın ardından askeri operasyon emri verebileceğini belirtti.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/video/dunya/trumptan-irana-nukleer-anlasma-mesaji-3496631",
+    "Karar: https://www.karar.com/dunya-haberleri/trumptan-iran-icin-1-ocak-sinyali-vurabiliriz-2085619",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/trumptan-irana-yeni-saldiri-sinyali-43387382"
+   ]
   }
  ],
  "fails": {
@@ -14265,13 +14332,10 @@
   "dd881d898e": 1,
   "c31a1dbeaa": 1,
   "bfd418e3b9": 1,
-  "97a5d2e718": 1
+  "97a5d2e718": 1,
+  "e796ff9f79": 1
  },
  "fail_log": [
-  "2026-11-22T11:58 Yazar Ahmet Ümit: \"Mustafa Kemal Atatürk'ü yazmak isterim am -> ValueError: yanıt okunamadı",
-  "2026-11-22T12:23 Yandaş medyada fon kavgası: Sabah yazarından Yeni Şafak'a \"y -> ValueError: yanıt okunamadı",
-  "2026-11-22T12:36 Kalbin Durduğu Bütün Zamanlar | Polat Özlüoğlu anlattı: “Bu  -> ValueError: yanıt okunamadı",
-  "2026-11-22T12:36 Kalbin Durduğu Bütün Zamanlar | Polat Özlüoğlu anlattı: “Bu  -> ValueError: yanıt okunamadı",
   "2026-11-22T12:36 Kalbin Durduğu Bütün Zamanlar | Polat Özlüoğlu anlattı: “Bu  -> ValueError: yanıt okunamadı",
   "2026-11-22T12:36 Taha Akyol yazdı: Anayasa Mahkemesi ne diyor? -> ValueError: yanıt okunamadı",
   "2026-11-22T12:36 Taha Akyol yazdı: Anayasa Mahkemesi ne diyor? -> ValueError: yanıt okunamadı",
@@ -14307,12 +14371,16 @@
   "2026-11-22T18:51 Fenerbahçe taraftarı: “Biz seni çok özledik, sen özlemedin m -> ValueError: yanıt okunamadı",
   "2026-11-22T18:51 Fenerbahçe taraftarı: “Biz seni çok özledik, sen özlemedin m -> ValueError: yanıt okunamadı",
   "2026-11-22T18:51 Fenerbahçe taraftarı: “Biz seni çok özledik, sen özlemedin m -> ValueError: yanıt okunamadı",
-  "2026-11-22T19:03 Sarıgül'den fezleke açıklaması: \"Fezleke düzenlenmesi suçlu  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-22T19:03 Sarıgül'den fezleke açıklaması: \"Fezleke düzenlenmesi suçlu  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-22T19:41 Aydın Ekmek ve Gül’den 25 Kasım Paneli: Kadınların mücadeles -> ValueError: yanıt okunamadı",
+  "2026-11-22T19:41 Aydın Ekmek ve Gül’den 25 Kasım Paneli: Kadınların mücadeles -> ValueError: yanıt okunamadı",
+  "2026-11-22T19:41 Aydın Ekmek ve Gül’den 25 Kasım Paneli: Kadınların mücadeles -> ValueError: yanıt okunamadı",
+  "2026-11-22T19:41 Trump'tan İran için '1 Ocak' sinyali: Vurabiliriz! -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124583024062767313",
+   "since_id": "2124586467632521360",
    "started": true
   },
   "ajansmuhbir1923": {
