@@ -11083,21 +11083,57 @@
     "şidde"
    ],
    "at": "2026-11-22T06:07:23.736526+00:00"
+  },
+  {
+   "fp": [
+    "atama",
+    "bekli",
+    "boş",
+    "diplo",
+    "sandı",
+    "sınıf",
+    "öğret"
+   ],
+   "tok": [
+    "adil",
+    "atama",
+    "bakır",
+    "bekli",
+    "bin",
+    "boş",
+    "bugün",
+    "bırak",
+    "dağıl",
+    "den",
+    "devam",
+    "diplo",
+    "diyar",
+    "edece",
+    "ediyo",
+    "eylem",
+    "gelme",
+    "göste",
+    "günü",
+    "hâlâ",
+    "konte",
+    "meb",
+    "mücad",
+    "sandı",
+    "seçim",
+    "sokağ",
+    "sürdü",
+    "sınıf",
+    "talep",
+    "tepki",
+    "yapıl",
+    "çıkan",
+    "önces",
+    "öğret"
+   ],
+   "at": "2026-11-22T06:11:11.113097+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "96343958c9",
-   "post_id": "529346797199852_1474167531489621",
-   "title": "41 ilde sağanak yağış bekleniyor: Sekizine sarı kodlu uyarı",
-   "at": "2026-11-20T04:35:50.511019+00:00",
-   "yazim": "claude",
-   "metin": "Bugün İstanbul dahil 41 ilde sağanak yağış bekleniyor.\n\n— Sağanak yağış için 8 il sarı kodla uyarıldı: Hatay, Kastamonu, Kahramanmaraş, Zonguldak, Bartın, Karabük, Osmaniye ve Düzce.\n— Balıkesir, Bursa, Çanakkale, Edirne, İstanbul, Kırklareli, Kocaeli, Tekirdağ ve Yalova'da fırtınaya karşı sarı kodlu uyarı var.\n— Marmara ile Karadeniz'in iç kesimlerinde güneyden saatte 40-70 kilometre hızla kuvvetli ve kısa süreli fırtına bekleniyor.\n— Meteoroloji Genel Müdürlüğü, olumsuzluklara karşı tedbirli olunmasını istedi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/meteorolojiden-sari-kod-uyarisi-17-ilde-kuvvetli-yagis-ve-ruzgar-bekleniyor-963911.html",
-    "Diken: https://www.diken.com.tr/41-ilde-saganak-yagis-bekleniyor-sekizine-sari-kodlu-uyari/?utm_source=rss&utm_medium=rss&utm_campaign=41-ilde-saganak-yagis-bekleniyor-sekizine-sari-kodlu-uyari"
-   ]
-  },
   {
    "id": "96c8bc4f8c",
    "post_id": "529346797199852_1474183284821379",
@@ -13662,6 +13698,17 @@
    "sources": [
     "Euronews: https://tr.euronews.com/2026/11/22/prenses-kate-kanserle-mucadelesini-anlatti-kanser-insani-degistiriyor"
    ]
+  },
+  {
+   "id": "38dbce8b2b",
+   "post_id": "529346797199852_1476414454598262",
+   "title": "Sınıfları boş, diplomaları sandıkta: Öğretmenler atama bekliyor",
+   "at": "2026-11-22T06:11:11.113097+00:00",
+   "yazim": "claude",
+   "metin": "Diyarbakır'da ataması yapılmayan öğretmenler, Öğretmenler Günü öncesinde diplomalarını seçim sandığına bıraktı.\n\n— Öğretmenler 50 bin atama ve adil kontenjan dağılımı talep ediyor.\n\n— MEB'den hâlâ açıklama gelmemesine tepki gösteriyorlar.\n\n— Eylemlerini bugün İstanbul Bakırköy'de sürdürecekler.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/siniflari-bos-diplomalari-sandikta-ogretmenler-atama-bekliyor-747734"
+   ]
   }
  ],
  "fails": {
@@ -13948,15 +13995,10 @@
   "74210cb62d": 1,
   "7c212fbe42": 1,
   "3343293b96": 1,
-  "eebe2419a0": 1
+  "eebe2419a0": 2,
+  "2ab2c91f11": 1
  },
  "fail_log": [
-  "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:15 İstanbul semalarında görülen uzay çöpü, vatandaşlar tarafınd -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:15 İstanbul semalarında görülen uzay çöpü, vatandaşlar tarafınd -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:15 İstanbul semalarında görülen uzay çöpü, vatandaşlar tarafınd -> ValueError: yanıt okunamadı",
   "2026-11-22T05:15 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
   "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -13990,7 +14032,13 @@
   "2026-11-22T06:07 Darıca’da kadınlar taleplerini haykırdı: 'Aileyi değil kadın -> ValueError: yanıt okunamadı",
   "2026-11-22T06:07 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
   "2026-11-22T06:07 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
-  "2026-11-22T06:07 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı"
+  "2026-11-22T06:07 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
+  "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
