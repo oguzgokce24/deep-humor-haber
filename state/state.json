@@ -11437,25 +11437,67 @@
     "yönün"
    ],
    "at": "2026-11-22T14:38:06.373959+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "birde",
+    "galat",
+    "imza",
+    "karar",
+    "ocakt",
+    "veril"
+   ],
+   "tok": [
+    "abdül",
+    "asist",
+    "atmas",
+    "attı",
+    "ayınd",
+    "baktı",
+    "barda",
+    "bekle",
+    "belir",
+    "birde",
+    "bitec",
+    "buruk",
+    "direk",
+    "futbo",
+    "galat",
+    "gol",
+    "görme",
+    "haber",
+    "imza",
+    "ise",
+    "istiy",
+    "jakob",
+    "kadro",
+    "kariy",
+    "kulüb",
+    "maçta",
+    "memnu",
+    "ocak",
+    "ocakt",
+    "okan",
+    "oynad",
+    "oyunc",
+    "perfo",
+    "savun",
+    "sezon",
+    "sonun",
+    "sözle",
+    "sürdü",
+    "sıcak",
+    "tekni",
+    "verdi",
+    "veril",
+    "yönet",
+    "ısmai"
+   ],
+   "at": "2026-11-22T14:42:29.270606+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "df970666c0",
-   "post_id": "529346797199852_1474587494780958",
-   "title": "Son dakika... Mustafa Sarıgül için dokunulmazlık fezlekesi düzenlendi",
-   "at": "2026-11-20T13:50:55.430485+00:00",
-   "yazim": "claude",
-   "metin": "Ankara Cumhuriyet Başsavcılığı, Erzincan Milletvekili Mustafa Sarıgül'ün dokunulmazlığının kaldırılması için fezleke hazırladı.\n\n— Fezleke Adalet Bakanlığı'na gönderildi.\n— Başsavcılık, Sarıgül'e kara para aklama, suç işlemek amacıyla örgüt kurma, çocuğun cinsel istismarı, nitelikli cinsel saldırı ve haksız mal edinme ile mal kaçırma suçlamalarını yöneltti.\n— Sarıgül, hakkındaki tüm suçlamaları kesin bir dille reddediyor.\n— Dosya, İstanbul Cumhuriyet Başsavcılığı'nda ekim ayında başlayan soruşturmadan geliyor. Milletvekili olduğu için yetkisizlik kararıyla Ankara'ya gönderilmişti.\n— Soruşturmada oğulları da dahil 30'dan fazla kişi tutuklanmıştı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/mustafa-sarigulun-dokunulmazliginin-kaldirilmasi-icin-fezleke-hazirlandi-963981.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-mustafa-sarigul-hakkinda-dokunulmazliginin-kaldirilmasi-talebiyle-fezleke-hazirlandi-43385293",
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigulun-dokunulmazligi-icin-fezleke-7704608",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-mustafa-sarigulun-dokunulmazligi-icin-fezleke-3495892",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/20/son-dakika-mustafa-sarigul-hakkinda-fezleke-adalet-bakanligina-gonderildi",
-    "NTV: https://www.ntv.com.tr/turkiye/mustafa-sarigul-hakkinda-fezleke-1751805"
-   ]
-  },
   {
    "id": "aa28963d21",
    "post_id": "529346797199852_1474600151446359",
@@ -13989,6 +14031,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/fransa-da-bilgi-sizintisi-sorusturmasi-le-pen-iddialari-reddetti-747821"
    ]
+  },
+  {
+   "id": "05012560fa",
+   "post_id": "529346797199852_1476810537891987",
+   "title": "Galatasaray'da karar verildi: Ocakta iki imza birden",
+   "at": "2026-11-22T14:42:29.270606+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray, Abdülkerim Bardakcı ve Ismail Jakobs'u yeni sezonda da kadroda görmek istiyor.\n\n— Teknik direktör Okan Buruk, bu iki savunmacının performanslarından memnun.\n\n— Haberde, kulübün iki oyuncuyla ocak ayında imza atması bekleniyor.\n\n— Abdülkerim bu sezon 12 maçta 971 dakika oynadı ve 2 gol attı. Jakobs ise 14 maçta 1 asist yaptı.\n\n— İki futbolcunun da kariyerlerini Galatasaray'da sürdürmeye sıcak baktığı belirtiliyor.",
+   "sources": [
+    "Sözcü Spor: https://www.sozcu.com.tr/galatasarayda-karar-verildi-ocakta-iki-imza-birden-p383481"
+   ]
   }
  ],
  "fails": {
@@ -14289,15 +14342,10 @@
   "463d9d33f6": 1,
   "8d84c31b2e": 1,
   "2791a3d173": 1,
-  "cecef47334": 1,
+  "cecef47334": 2,
   "dd881d898e": 1
  },
  "fail_log": [
-  "2026-11-22T11:27 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
-  "2026-11-22T11:27 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
-  "2026-11-22T11:27 Şeflerden zeytinyağı seçim rehberi: Pastel boya testi -> ValueError: yanıt okunamadı",
-  "2026-11-22T11:27 Kocaeli’de sonbaharla birlikte rengarenk tonlara bürünen orm -> ValueError: yanıt okunamadı",
-  "2026-11-22T11:27 Kocaeli’de sonbaharla birlikte rengarenk tonlara bürünen orm -> ValueError: yanıt okunamadı",
   "2026-11-22T11:27 Kocaeli’de sonbaharla birlikte rengarenk tonlara bürünen orm -> ValueError: yanıt okunamadı",
   "2026-11-22T11:40 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
   "2026-11-22T11:40 Ercan Jan Aktaş yazdı | Kürdün barışı: Cesur Yürek -> ValueError: yanıt okunamadı",
@@ -14332,7 +14380,12 @@
   "2026-11-22T14:38 Karius'tan Bayern Münih iddialarına yanıt: Kimseyle konuşmad -> ValueError: yanıt okunamadı",
   "2026-11-22T14:38 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-22T14:38 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-22T14:38 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
+  "2026-11-22T14:38 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-22T14:42 Sorel Dağıstanlı yazdı | “Yerli ve milli olmak”: Milliyetçi  -> ValueError: yanıt okunamadı",
+  "2026-11-22T14:42 Sorel Dağıstanlı yazdı | “Yerli ve milli olmak”: Milliyetçi  -> ValueError: yanıt okunamadı",
+  "2026-11-22T14:42 Sorel Dağıstanlı yazdı | “Yerli ve milli olmak”: Milliyetçi  -> ValueError: yanıt okunamadı",
+  "2026-11-22T14:42 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-22T14:42 Galatasaray'da karar verildi: Ocakta iki imza birden -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
  ],
  "x": {
   "bpthaber": {
