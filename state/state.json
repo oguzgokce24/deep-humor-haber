@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "5",
-    "arazö",
-    "hatay",
-    "işçi",
-    "uçuru",
-    "yaral",
-    "yuvar",
-    "öldü"
-   ],
-   "tok": [
-    "ait",
-    "ambul",
-    "arazö",
-    "beytu",
-    "bilin",
-    "bölge",
-    "cinay",
-    "dokto",
-    "ekipl",
-    "geldi",
-    "gitti",
-    "hasta",
-    "hatay",
-    "henüz",
-    "idare",
-    "ihbar",
-    "ilçes",
-    "itfai",
-    "işçi",
-    "işçil",
-    "kaldı",
-    "kazan",
-    "kertl",
-    "kurta",
-    "mahal",
-    "mevki",
-    "meyda",
-    "müdah",
-    "müdür",
-    "ndeki",
-    "neden",
-    "olay",
-    "orman",
-    "rağme",
-    "saman",
-    "sağlı",
-    "sonuc",
-    "tazıy",
-    "uçuru",
-    "yerin",
-    "yuvar",
-    "çamlı"
-   ],
-   "at": "2026-11-20T15:47:57.211550+00:00"
-  },
-  {
-   "fp": [
     "arzul",
     "nato",
     "rusya",
@@ -11135,20 +11077,69 @@
     "şöyle"
    ],
    "at": "2026-11-22T03:46:03.256675+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-22T03:49:24.178180+00:00"
+  },
+  {
+   "fp": [
+    "depre",
+    "iran",
+    "sınır",
+    "türki"
+   ],
+   "tok": [
+    "afad",
+    "azerb",
+    "batı",
+    "bağlı",
+    "bölge",
+    "büyük",
+    "depre",
+    "derin",
+    "eyale",
+    "geldi",
+    "göre",
+    "hoy",
+    "ilçes",
+    "iran",
+    "kasım",
+    "kayde",
+    "kilom",
+    "meyda",
+    "nokta",
+    "saat",
+    "sarsı",
+    "sınır",
+    "uzakl",
+    "van",
+    "veril",
+    "yakla",
+    "yakın",
+    "ölçül",
+    "öza",
+    "özalp",
+    "üssü"
+   ],
+   "at": "2026-11-22T03:49:31.453773+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f10dd9a243",
-   "post_id": "529346797199852_1474103934829314",
-   "title": "Kamudan astronomik transfer: Müteahhide 619,5 milyar TL",
-   "at": "2026-11-20T03:07:17.671668+00:00",
-   "yazim": "claude",
-   "metin": "Kamu kurumları müteahhitlik giderlerine Ocak-Ekim 2026 arasında 619,5 milyar TL harcadı.\n\n— Eleştirilere göre bu işlerin bir kısmı kamunun kendi kadrosuyla yapılabilirdi.\n\n— Tasarruf Genelgesi'ne ve \"öz kadro ile yapılabilir\" uyarısına rağmen harcamaların sürdüğü öne sürülüyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/kamudan-astronomik-transfer-muteahhide-619-5-milyar-tl-747349"
-   ]
-  },
   {
    "id": "b959a417fa",
    "post_id": "529346797199852_1474116068161434",
@@ -13716,6 +13707,18 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/diyanet-tv-ye-milyonlar-muhalif-kanallara-kayyum-747723"
    ]
+  },
+  {
+   "id": "9ed4bed8ab",
+   "post_id": "529346797199852_1476315931274781",
+   "title": "Son dakika... Türkiye-İran sınırında korkutan deprem",
+   "at": "2026-11-22T03:49:31.453773+00:00",
+   "yazim": "claude",
+   "metin": "Van'da İran sınırına yakın bir noktada 4,0 büyüklüğünde deprem oldu.\n\nAFAD'ın verilerine göre sarsıntı 22 Kasım 2026'da saat 00.42'de kaydedildi.\n\n— Merkez üssü Van'ın Özalp ilçesine yaklaşık 35,7 kilometre uzaklıkta.\n— Depremin derinliği 7 kilometre olarak ölçüldü.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330"
+   ]
   }
  ],
  "fails": {
@@ -13997,13 +14000,9 @@
   "55da2c7781": 1,
   "b56c836e60": 1,
   "07a91e7f4d": 1,
-  "4ac094d006": 1,
-  "2ab2c91f11": 2
+  "4ac094d006": 1
  },
  "fail_log": [
-  "2026-11-22T02:53 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:53 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
-  "2026-11-22T02:53 Dizi sektöründe krizin faturası emekçilere: 17 örgütten orta -> ValueError: yanıt okunamadı",
   "2026-11-22T03:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T03:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T03:06 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14040,7 +14039,10 @@
   "2026-11-22T03:46 İnsanca yaşam için meydanlara: Gözler 29 Kasım'da -> ValueError: yanıt okunamadı",
   "2026-11-22T03:46 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
   "2026-11-22T03:46 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
-  "2026-11-22T03:46 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı"
+  "2026-11-22T03:46 Dışarıdan içeriye mektuplar: Sis dağılıyor ya karanlık? -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:49 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:49 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T03:49 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
