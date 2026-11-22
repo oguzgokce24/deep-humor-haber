@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "alınd",
-    "beyoğ",
-    "değne",
-    "gözal",
-    "kişi",
-    "nda",
-    "opera"
-   ],
-   "tok": [
-    "ait",
-    "alanl",
-    "alınd",
-    "belir",
-    "beyoğ",
-    "değne",
-    "diyer",
-    "düzen",
-    "edenl",
-    "görür",
-    "istey",
-    "kamuy",
-    "korsa",
-    "nda",
-    "otomo",
-    "otopa",
-    "para",
-    "park",
-    "tehdi",
-    "yapan",
-    "yapma",
-    "yaptı",
-    "zarar",
-    "ödeme"
-   ],
-   "at": "2026-11-21T08:13:52.225242+00:00"
-  },
-  {
-   "fp": [
     "bodru",
     "bulun",
     "cesed",
@@ -11683,20 +11644,64 @@
     "önlem"
    ],
    "at": "2026-11-22T20:07:17.497335+00:00"
+  },
+  {
+   "fp": [
+    "anlam",
+    "barış",
+    "değiş",
+    "emir",
+    "gelme",
+    "irade",
+    "izlem",
+    "karar",
+    "komis",
+    "murat",
+    "parti"
+   ],
+   "tok": [
+    "aldı",
+    "anlam",
+    "anlaş",
+    "barış",
+    "bedel",
+    "bulun",
+    "bünye",
+    "deste",
+    "değiş",
+    "emir",
+    "gelme",
+    "hukuk",
+    "iktid",
+    "irade",
+    "izlem",
+    "karşı",
+    "komis",
+    "kurul",
+    "mecli",
+    "mille",
+    "murat",
+    "olmam",
+    "oluşa",
+    "onay",
+    "parti",
+    "peşin",
+    "planl",
+    "rapor",
+    "savun",
+    "susma",
+    "terci",
+    "verdi",
+    "veril",
+    "verme",
+    "vurgu",
+    "öneri",
+    "üye"
+   ],
+   "at": "2026-11-22T20:19:50.139514+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9bcf5e1ba6",
-   "post_id": "529346797199852_1474896304750077",
-   "title": "Putin: \"Vatanseverler ülkelerini sever, milliyetçiler ise diğer halklardan nefret eder. Aradaki fark budur. Ne yaşanırsa yaşansın, ne tür trajediler meydana gel",
-   "at": "2026-11-20T19:51:25.011243+00:00",
-   "yazim": "claude",
-   "metin": "Putin, milliyetçiliği tarif ederken:\n\n“Vatanseverler ülkelerini sever, milliyetçiler ise diğer halklardan nefret eder. Aradaki fark budur.”\n\n— Putin, ne yaşanırsa yaşansın bugün çocukların geleceğini düşünmek zorunda olduklarını da söyledi.",
-   "sources": [
-    "BPT (X): https://x.com/bpthaber/status/2123865006953406929"
-   ]
-  },
   {
    "id": "5cf67af733",
    "post_id": "529346797199852_1474904424749265",
@@ -14220,6 +14225,17 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/istanbul-sariyerde-aslan-goruldu-iddiasi-guvenlik-kameralarina-yansiyan-hayvan-merak-uyandirdi-4875511",
     "BPT (X): https://x.com/bpthaber/status/2124594212637114746"
    ]
+  },
+  {
+   "id": "fcad20b557",
+   "post_id": "529346797199852_1477079201198454",
+   "title": "Yeni Parti’li Murat Emir: “İzleme Komisyonu kararı, barış irademizde bir değişiklik anlamına gelmez”",
+   "at": "2026-11-22T20:19:50.139514+00:00",
+   "yazim": "claude",
+   "metin": "Murat Emir, İzleme Komisyonu kararı için:\n\n“İzleme Komisyonu kararı, barış irademizde bir değişiklik anlamına gelmez.”\n\n— Yeni Parti, Meclis bünyesinde kurulması planlanan İzleme Komisyonu'na üye vermeme kararı aldı.\n— Emir, \"Barışa verdiğimiz destek, iktidarın her tercihine peşinen verilmiş onay olarak anlaşılamaz.\" dedi.\n— Emir, raporda milletvekillerinden oluşacak yeni bir izleme komisyonu önerisi bulunmadığını söyledi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010711/yeni-parti-li-murat-emir-izleme-komisyonu-karari-baris-irademizde-bir-degisiklik-anlamina-gelmez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -14421,7 +14437,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124594212637114746",
+   "since_id": "2124596195561746652",
    "started": true
   },
   "ajansmuhbir1923": {
