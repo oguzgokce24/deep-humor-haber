@@ -11035,20 +11035,95 @@
     "önder"
    ],
    "at": "2026-11-22T04:55:36.450716+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-22T05:14:51.083420+00:00"
+  },
+  {
+   "fp": [
+    "fener",
+    "geldi",
+    "gol",
+    "görün",
+    "saniy",
+    "çıldı"
+   ],
+   "tok": [
+    "aldı",
+    "arkas",
+    "attığ",
+    "açıla",
+    "ağlar",
+    "baraj",
+    "boşlu",
+    "bunu",
+    "depla",
+    "düşen",
+    "eders",
+    "fener",
+    "geldi",
+    "geriy",
+    "gitti",
+    "gol",
+    "golle",
+    "görün",
+    "göste",
+    "havay",
+    "hızla",
+    "ismai",
+    "isted",
+    "kalec",
+    "kocae",
+    "konul",
+    "magli",
+    "maçın",
+    "medya",
+    "nın",
+    "olunc",
+    "oyunc",
+    "pozis",
+    "redde",
+    "saniy",
+    "savun",
+    "serbe",
+    "sert",
+    "skor",
+    "sonun",
+    "sosya",
+    "sıçra",
+    "taraf",
+    "tepki",
+    "top",
+    "uyard",
+    "vuruş",
+    "yayıl",
+    "yediğ",
+    "yerde",
+    "yerin",
+    "yükse",
+    "çekti",
+    "çıldı",
+    "şut"
+   ],
+   "at": "2026-11-22T05:15:10.780619+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e1499ac125",
-   "post_id": "529346797199852_1474133391493035",
-   "title": "Bafra Ovası’nda 19.000 tonluk mesai: Üretimin %84’ünü üstleniyor!",
-   "at": "2026-11-20T03:50:19.911470+00:00",
-   "yazim": "claude",
-   "metin": "Samsun'un Bafra ilçesinde pırasa hasadı başladı. Kent, Türkiye'de pırasa üretiminde ikinci sıraya yerleşti.\n\n— Samsun'da 5.400 dekarda 19.000 tondan fazla pırasa üretiliyor.\n— Kentteki üretimin %84'ünü tek başına Bafra karşılıyor. Yani 16.000 ton pırasa bu ilçeden geliyor.\n— Türkiye genelinde 2025 yılında 145.800 ton pırasa üretildi.\n— Hasat Mart sonuna kadar sürecek.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/bafra-ovasinda-19-000-tonluk-mesai-uretimin-84unu-ustleniyor-2085195"
-   ]
-  },
   {
    "id": "1803b5419a",
    "post_id": "529346797199852_1474143058158735",
@@ -13615,6 +13690,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/dsp-de-kurultay-oncesi-ecevit-mirasi-ve-iktidar-yakinligi-tartismasi-ecevit-in-kemiklerini-sizlatti-2558228"
    ]
+  },
+  {
+   "id": "b936f5d236",
+   "post_id": "529346797199852_1476376301268744",
+   "title": "Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geldi",
+   "at": "2026-11-22T05:15:10.780619+00:00",
+   "yazim": "claude",
+   "metin": "Kocaelispor–Fenerbahçe maçında Maglica'nın serbest vuruştan attığı golle skor 2-1 oldu.\n\n— İsmail Yüksek, baraj arkasına bir oyuncu konulmasını istedi; kalecisi Ederson bunu reddetti ve Yüksek sonunda savunmadaki yerini aldı.\n\n— Saniyeler sonra Maglica yerden sert bir şut çekti. Baraj havaya sıçrayınca açılan boşluktan top ağlara gitti.\n\n— Yüksek'in uyardığı pozisyon gol olunca, görüntüler sosyal medyada hızla yayıldı ve Fenerbahçeli taraftarlar tepki gösterdi.",
+   "sources": [
+    "Sözcü Spor: https://www.sozcu.com.tr/fenerbahcelileri-cildirtan-goruntu-saniyeler-sonra-gol-geldi-p383344"
+   ]
   }
  ],
  "fails": {
@@ -13897,17 +13983,10 @@
   "b56c836e60": 1,
   "07a91e7f4d": 1,
   "7141e6a375": 1,
-  "2ab2c91f11": 2,
-  "1da29897ec": 2
+  "1da29897ec": 2,
+  "74210cb62d": 1
  },
  "fail_log": [
-  "2026-11-22T04:17 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:35 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:35 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:35 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:35 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:35 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:35 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
   "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
   "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
   "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
@@ -13940,12 +14019,19 @@
   "2026-11-22T05:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:11 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
   "2026-11-22T05:11 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
-  "2026-11-22T05:11 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı"
+  "2026-11-22T05:11 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:15 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:15 İstanbul semalarında görülen uzay çöpü, vatandaşlar tarafınd -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:15 İstanbul semalarında görülen uzay çöpü, vatandaşlar tarafınd -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:15 İstanbul semalarında görülen uzay çöpü, vatandaşlar tarafınd -> ValueError: yanıt okunamadı",
+  "2026-11-22T05:15 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124295751077650842",
+   "since_id": "2124370554002243923",
    "started": true
   },
   "ajansmuhbir1923": {
