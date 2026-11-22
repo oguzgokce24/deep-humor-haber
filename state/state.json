@@ -11069,6 +11069,37 @@
     "şekil"
    ],
    "at": "2026-11-22T04:35:10.389175+00:00"
+  },
+  {
+   "fp": [
+    "işlet",
+    "kapal",
+    "oturu",
+    "soy",
+    "yap"
+   ],
+   "tok": [
+    "akıbe",
+    "ardın",
+    "arkas",
+    "duvar",
+    "günü",
+    "işlet",
+    "kapal",
+    "konuş",
+    "kulis",
+    "neler",
+    "niyet",
+    "oturu",
+    "pazar",
+    "perde",
+    "planl",
+    "siyas",
+    "soy",
+    "yap",
+    "yaşan"
+   ],
+   "at": "2026-11-22T04:39:11.056945+00:00"
   }
  ],
  "posted": [
@@ -13933,18 +13964,10 @@
   "b56c836e60": 1,
   "07a91e7f4d": 1,
   "becd175b56": 2,
-  "ca6d534fb7": 2
+  "2ab2c91f11": 1,
+  "7141e6a375": 1
  },
  "fail_log": [
-  "2026-11-22T04:06 ‘Cezasızlık’ plakalı ölümler -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:06 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:10 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:10 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:10 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:10 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:10 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
   "2026-11-22T04:10 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
   "2026-11-22T04:10 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
   "2026-11-22T04:10 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
@@ -13975,7 +13998,16 @@
   "2026-11-22T04:35 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
   "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
   "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı"
+  "2026-11-22T04:35 Kimin yaşam alanı? -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:39 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:39 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:39 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:39 Kapalı Oturum: Yap-işlet soy! -> ValueError: cümle yarım kalmış: 'n lira tahsil edecek icra dosyası adres”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-22T04:39 Kapalı Oturum: Yap-işlet soy! -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:39 Kapalı Oturum: Yap-işlet soy! -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-22T04:39 Tecrübeli hoca yöneticilere şikayet etti: 'Hiçbir şey oynamı -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-22T04:39 Tecrübeli hoca yöneticilere şikayet etti: 'Hiçbir şey oynamı -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-22T04:39 Tecrübeli hoca yöneticilere şikayet etti: 'Hiçbir şey oynamı -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
  ],
  "x": {
   "bpthaber": {
