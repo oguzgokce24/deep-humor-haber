@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "batur",
-    "başla",
-    "soruş",
-    "çiğde"
-   ],
-   "tok": [
-    "alene",
-    "ayak",
-    "aşağı",
-    "batur",
-    "başla",
-    "camii",
-    "camiy",
-    "değer",
-    "dini",
-    "günde",
-    "halkı",
-    "ifade",
-    "kesim",
-    "kokus",
-    "kulla",
-    "medya",
-    "nde",
-    "ned",
-    "neden",
-    "oluyo",
-    "oyunc",
-    "rezil",
-    "savcı",
-    "sen",
-    "sosya",
-    "sulta",
-    "suçla",
-    "sözle",
-    "tartı",
-    "tepki",
-    "video",
-    "yarat",
-    "yönel",
-    "ziyar",
-    "çekmi",
-    "çekti",
-    "çiğde",
-    "ötürü"
-   ],
-   "at": "2026-11-21T11:53:14.201392+00:00"
-  },
-  {
-   "fp": [
     "adale",
     "cumhu",
     "erdoğ",
@@ -11708,21 +11659,91 @@
     "ısıtt"
    ],
    "at": "2026-11-22T23:45:09.321040+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "birde",
+    "bugün",
+    "derec",
+    "düşec",
+    "fırtı",
+    "istan",
+    "kış",
+    "sıcak",
+    "yarın"
+   ],
+   "tok": [
+    "ani",
+    "arası",
+    "ağaç",
+    "balka",
+    "bekle",
+    "birde",
+    "bugün",
+    "bursa",
+    "dahil",
+    "dan",
+    "derec",
+    "devri",
+    "dikka",
+    "döneb",
+    "düşec",
+    "etkil",
+    "etkis",
+    "fırtı",
+    "gelen",
+    "giriy",
+    "görül",
+    "günü",
+    "hava",
+    "havan",
+    "hızın",
+    "ise",
+    "isted",
+    "izmir",
+    "kar",
+    "kara",
+    "karşı",
+    "kesim",
+    "kilom",
+    "kocae",
+    "kodlu",
+    "kuvve",
+    "kış",
+    "meteo",
+    "nin",
+    "olaca",
+    "olmas",
+    "olums",
+    "rüzga",
+    "saat",
+    "sakar",
+    "salı",
+    "sarı",
+    "sel",
+    "soğuk",
+    "sulu",
+    "sıcak",
+    "uyarı",
+    "uçmas",
+    "valil",
+    "var",
+    "vatan",
+    "yarın",
+    "yağmu",
+    "yağış",
+    "yerle",
+    "yükse",
+    "çanak",
+    "çatı",
+    "çıkar",
+    "şekli"
+   ],
+   "at": "2026-11-22T23:57:45.750583+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "98f3842148",
-   "post_id": "529346797199852_1475044928068548",
-   "title": "SPK bülteni yayımlandı: Bir şirkete geçici işlem yasağı",
-   "at": "2026-11-20T23:28:55.831293+00:00",
-   "yazim": "claude",
-   "metin": "SPK, BR Madencilik Enerji İnşaat Taahhüt ve Ticaret AŞ'ye 6 ay süreyle geçici işlem yasağı getirdi.\n\n— Karar, Batıçim Batı Anadolu Sanayi ve Ticaret AŞ paylarında yapılan işlemler nedeniyle alındı.\n\n— Sermaye Piyasası Kurulu, kararı bülteninde duyurdu.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/ekonomi/spk-dan-bir-sirkete-gecici-islem-yasagi-3928919",
-    "BirGün: https://www.birgun.net/haber/spk-bulteni-yayimlandi-bir-sirkete-gecici-islem-yasagi-747558"
-   ]
-  },
   {
    "id": "649227e72f",
    "post_id": "529346797199852_1475052154734492",
@@ -14219,6 +14240,17 @@
    "metin": "Bursa'nın İnegöl ilçesinde kaybolan iki çocuk ormanlık alanda bulundu.\n\n13 ve 11 yaşındaki çocuklar bisikletleriyle gezerken yollarını kaybetti. Ailelerinin ihbarının ardından jandarma arama başlattı.\n\n— Çocuklar çamur içinde ve üşümüş halde bulundu. Jandarma ekipleri montlarını vererek onları ısıttı.\n— Hastanedeki kontrolde sağlık durumlarının iyi olduğu öğrenildi.\n— İki çocuk işlemlerin ardından ailelerine teslim edildi.",
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kayip-olarak-araniyorlardi-2-cocuk-ormanlik-alanda-bulundu-2558433"
+   ]
+  },
+  {
+   "id": "a616ab60b8",
+   "post_id": "529346797199852_1477208574518850",
+   "title": "İstanbul'da bugün fırtına yarın kış. Sıcaklık 12 derece birden düşecek",
+   "at": "2026-11-22T23:57:45.750583+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da bugün fırtına var, salı günü sıcaklık 12 derece birden düşecek.\n\n— Fırtına saat 11.00 ile 16.00 arasında rüzgarın hızını 75 kilometreye kadar çıkaracak.\n\n— Meteoroloji, Bursa, Çanakkale, İzmir, Kocaeli ve Sakarya dahil 22 ilde sarı kodlu uyarı yaptı.\n\n— Salı günü Balkanlar'dan gelen soğuk hava etkili olacak. İstanbul, Sakarya ve Kocaeli'nin yüksek kesimlerinde yağmur sulu kara dönebilecek.\n\n— İstanbul Valiliği, çatı uçması, ağaç devrilmesi ve ani sel gibi olumsuzluklara karşı vatandaşların dikkatli olmasını istedi.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-istanbulda-bugun-firtina-yarin-kis-sicaklik-12-derece-birden-dusecek-1752117"
    ]
   }
  ],
