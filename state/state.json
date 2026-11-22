@@ -2,57 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aldı",
-    "bıçak",
-    "dokto",
-    "hasta",
-    "rehin",
-    "sekre"
-   ],
-   "tok": [
-    "aldı",
-    "alınd",
-    "antep",
-    "başla",
-    "beyaz",
-    "bıçak",
-    "devle",
-    "dokto",
-    "ekipl",
-    "gazia",
-    "gelip",
-    "girdi",
-    "göste",
-    "göz",
-    "güler",
-    "güven",
-    "hasta",
-    "ilçes",
-    "kod",
-    "müdah",
-    "müslü",
-    "nde",
-    "nizip",
-    "odası",
-    "olay",
-    "olayd",
-    "olmad",
-    "rehin",
-    "saatl",
-    "sabah",
-    "sağlı",
-    "sekre",
-    "teki",
-    "tepki",
-    "veril",
-    "yaşan",
-    "yenid",
-    "şidde"
-   ],
-   "at": "2026-11-20T19:11:15.528334+00:00"
-  },
-  {
-   "fp": [
     "25",
     "den",
     "emekl",
@@ -11175,22 +11124,75 @@
     "öğren"
    ],
    "at": "2026-11-22T07:01:33.689360+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "36",
+    "alına",
+    "endon",
+    "fabri",
+    "işçi",
+    "kayıp",
+    "kişi",
+    "kişid",
+    "yangı",
+    "öldü",
+    "şeker"
+   ],
+   "tok": [
+    "ajans",
+    "alevl",
+    "alına",
+    "arama",
+    "atışt",
+    "bante",
+    "bazlı",
+    "bazı",
+    "başla",
+    "bunla",
+    "bölge",
+    "bölüm",
+    "cakar",
+    "ekipl",
+    "endon",
+    "etkis",
+    "eyale",
+    "fabri",
+    "fazla",
+    "geçme",
+    "işçi",
+    "işçid",
+    "işçiy",
+    "kayıp",
+    "kişid",
+    "komşu",
+    "kurta",
+    "nın",
+    "rağme",
+    "saatt",
+    "sardı",
+    "sürdü",
+    "süre",
+    "sürüy",
+    "süt",
+    "ulaşm",
+    "ulusa",
+    "yangı",
+    "yaşam",
+    "yitir",
+    "çalış",
+    "çıkan",
+    "çıktı",
+    "ünün",
+    "ürete",
+    "üzeri",
+    "şeker"
+   ],
+   "at": "2026-11-22T07:14:10.535034+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "01f4b65b2d",
-   "post_id": "529346797199852_1474229124816795",
-   "title": "Avukatı duyurdu: Doku ailesini hedef alan paylaşımlar hakkında suç duyurusu",
-   "at": "2026-11-20T06:06:02.699278+00:00",
-   "yazim": "claude",
-   "metin": "Avukat Ali Çimen, Doku ailesini hedef alan paylaşımlar için:\n\n“(...) bazı güdümlü trol hesaplarının (...) paylaşımlar yaptığı görülmüştür. (...) Bu nedenle söz konusu paylaşımların bütünlüğü değerlendirilerek şüpheliler hakkında gerekli yasal işlem başlatılmıştır.”\n\n— Soruşturmanın genişlemesi ve tutuklu sayısının artmasının ardından Doku ailesine yönelik sosyal medya paylaşımları gündeme geldi.\n\n— Avukat, paylaşımların ailenin itibarını zedelemeyi ve soruşturma makamlarına karşı kamuoyunda güvensizlik yaratmayı amaçladığını söyledi.\n\n— Ailenin yıllardır kızlarının akıbetini öğrenmek için mücadele ettiği belirtildi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-nun-ailesini-hedef-alan-paylasimlara-hukuki-islem-2557751",
-    "Evrensel: https://www.evrensel.net/haber/6010339/doku-ailesini-hedef-alan-paylasimlar-yargiya-tasindi-inandiriciligi-ve-sayginligi-zedeleme-amaci-tasiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/avukati-duyurdu-doku-ailesini-hedef-alan-paylasimlar-hakkinda-suc-duyurusu-747399"
-   ]
-  },
   {
    "id": "807f8fd5cf",
    "post_id": "529346797199852_1474237751482599",
@@ -13766,6 +13768,20 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/kucukcekmecede-5-katli-binada-yangin-3496383",
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-istanbul-da-yangin-olu-ve-yaralilar-var-3929145"
    ]
+  },
+  {
+   "id": "0a47f83341",
+   "post_id": "529346797199852_1476456641260710",
+   "title": "Endonezya'da şekerleme fabrikasında yangın: 3 işçi yaşamını yitirdi, 36 kişi kayıp",
+   "at": "2026-11-22T07:14:10.535034+00:00",
+   "yazim": "claude",
+   "metin": "Endonezya'nın Banten eyaletindeki bir şekerleme fabrikasında çıkan yangında 3 işçi öldü, 36 işçiden haber alınamıyor.\n\n— Yangın, Cakarta'nın komşusu Banten'de süt bazlı şekerleme ve atıştırmalık üreten fabrikada çıktı.\n— Endonezya Ulusal Arama ve Kurtarma Ajansı, 15 kişinin kurtarıldığını ve bunların 4'ünün yaralı olduğunu açıkladı.\n— Yangın başlayalı 12 saatten fazla geçmesine rağmen alevler fabrikanın bazı bölümlerinde sürüyor.\n— Arama kurtarma ekipleri kayıp 36 işçiye ulaşmak için çalışmalarını sürdürüyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/endonezyada-sekerleme-fabrikasinda-cikan-yanginda-3-kisi-oldu-36-kisiden-haber-alinamiyor/4133308",
+    "CNN Türk: https://www.cnnturk.com/dunya/endonezyada-alevler-fabrikayi-sardi-3-olu-36-kayip-3496397",
+    "Evrensel: https://www.evrensel.net/haber/6010638/endonezya-da-sekerleme-fabrikasinda-yangin-en-az-3-isci-oldu-36-kisiden-haber-alinamiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/endonezya-da-sekerleme-fabrikasinda-yangin-3-isci-yasamini-yitirdi-36-kisi-kayip-747740"
+   ]
   }
  ],
  "fails": {
@@ -14056,7 +14072,6 @@
   "2ab2c91f11": 1
  },
  "fail_log": [
-  "2026-11-22T05:15 Fenerbahçelileri çıldırtan görüntü: Saniyeler sonra gol geld -> ValueError: yanıt okunamadı",
   "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T05:27 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14095,12 +14110,13 @@
   "2026-11-22T06:11 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
   "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
-  "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı"
+  "2026-11-22T06:11 Çocuk yoksulluğu büyüyor: Sosyal koruma yetersiz -> ValueError: yanıt okunamadı",
+  "2026-11-22T07:14 Endonezya'da şekerleme fabrikasında yangın: 3 işçi yaşamını  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124396843861954821",
+   "since_id": "2124400557163180375",
    "started": true
   },
   "ajansmuhbir1923": {
