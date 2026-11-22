@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "eylem",
-    "insan",
-    "opera",
-    "planl",
-    "silah",
-    "yakal",
-    "şüphe"
-   ],
-   "tok": [
-    "adli",
-    "alına",
-    "ancak",
-    "biri",
-    "bırak",
-    "diken",
-    "diğer",
-    "düzen",
-    "erkek",
-    "ettiğ",
-    "eylem",
-    "güven",
-    "harek",
-    "hazır",
-    "herha",
-    "insan",
-    "kapsa",
-    "kişid",
-    "kontr",
-    "manis",
-    "mersi",
-    "nesil",
-    "planl",
-    "post",
-    "sakar",
-    "sapta",
-    "serbe",
-    "silah",
-    "sokak",
-    "suç",
-    "tespi",
-    "tetik",
-    "the",
-    "yapıl",
-    "yaşın",
-    "yönel",
-    "yürüt",
-    "çetel",
-    "örgüt",
-    "şartı"
-   ],
-   "at": "2026-11-20T20:04:03.700936+00:00"
-  },
-  {
-   "fp": [
     "ailem",
     "ayırı",
     "başka",
@@ -11169,25 +11114,47 @@
     "şehir"
    ],
    "at": "2026-11-22T08:02:17.978103+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "beled",
+    "gözal",
+    "kepez",
+    "opera",
+    "rüşve"
+   ],
+   "tok": [
+    "alına",
+    "alınd",
+    "antal",
+    "arası",
+    "bazı",
+    "başla",
+    "beled",
+    "bildi",
+    "düzen",
+    "iddia",
+    "irtik",
+    "işlem",
+    "kepez",
+    "kocag",
+    "mesut",
+    "nde",
+    "nın",
+    "olmad",
+    "rüşve",
+    "sayıd",
+    "sürüy",
+    "var",
+    "yönel",
+    "yönet",
+    "çalış"
+   ],
+   "at": "2026-11-22T08:14:50.699076+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "df968ee014",
-   "post_id": "529346797199852_1474281254811582",
-   "title": "Liranın eriyişi sürüyor: Serbest piyasada dolar ve euro güne başladı",
-   "at": "2026-11-20T07:18:40.723581+00:00",
-   "yazim": "claude",
-   "metin": "Serbest piyasada dolar güne 50 lira 56 kuruştan başladı, euro 55 lira 57 kuruşa çıktı.\n\n— Dolar dün 50 lira 46 kuruştan satılmıştı, bugün yaklaşık 10 kuruş arttı.\n\n— Euro dünkü 55 lira 53 kuruş seviyesinden yükseldi.\n\nLiranın dolar ve euro karşısındaki değer kaybı sürüyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4131696",
-    "CNN Türk: https://www.cnnturk.com/finans-haberler/son-dakika-borsa-istanbul-gune-dususle-basladi-bist-100de-kritik-seviyeler-belli-oldu-3495677",
-    "Evrensel: https://www.evrensel.net/haber/6010343/doviz-gune-yukselisle-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/doviz-kurlarinda-son-durum-dolar-ve-euro-gune-nasil-basladi-747398",
-    "Karar: https://www.karar.com/ekonomi-haberleri/liranin-eriyisi-suruyor-serbest-piyasada-dolar-ve-euro-gune-basladi-2085215",
-    "Diken: https://www.diken.com.tr/borsa-gune-nasil-basladi-20-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-gune-nasil-basladi-20-kasim-2026"
-   ]
-  },
   {
    "id": "ff61a941c7",
    "post_id": "529346797199852_1474290001477374",
@@ -13759,6 +13726,22 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/erzurum/erzurum-kuyumcu-dukkaninda-2-kardesi-vuran-supheli-adliyede-3496429",
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/erzurum/kuyumcu-dukkaninda-2-kardesi-vuran-supheli-adliyede-3496419",
     "Sözcü: https://www.sozcu.com.tr/erzurum-da-kuyumcu-soygununa-kalkisip-iki-kardesi-vurdu-adliyeye-sevk-edilirken-adalet-icin-yaptim-p383389"
+   ]
+  },
+  {
+   "id": "26670153ef",
+   "post_id": "529346797199852_1476499651256409",
+   "title": "Kepez Belediyesi'ne rüşvet operasyonu. 10 kişi gözaltına alındı",
+   "at": "2026-11-22T08:14:50.699076+00:00",
+   "yazim": "claude",
+   "metin": "Antalya'nın Kepez Belediyesi'ne rüşvet ve irtikap operasyonu düzenlendi, 10 şüpheli gözaltına alındı.\n\n— Gözaltına alınanlar arasında bazı belediye yöneticileri ve çalışanları var.\n\n— Belediye Başkanı Mesut Kocagöz'ün gözaltına alınanlar arasında olmadığı bildirildi.\n\n— Soruşturma, rüşvet ve irtikap iddiaları üzerine başlatıldı. Gözaltı işlemleri sürüyor.",
+   "sources": [
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/22/antalya-kepez-belediyesine-operasyon-10-gozalti",
+    "NTV: https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-10-kisi-gozaltina-alindi-1752023",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-kepez-belediyesine-rusvet-sorusturmasi-3929164",
+    "Sözcü: https://www.sozcu.com.tr/kepez-belediyesi-ne-operasyon-gozaltilar-var-p383403",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/kepez-belediyesinde-rusvet-ve-irtikap-operasyonu-cok-sayida-gozalti-var-4875380",
+    "Karar: https://www.karar.com/guncel-haberler/son-dakika-antalya-kepez-belediyesine-operasyon-10-gozalti-2085540"
    ]
   }
  ],
