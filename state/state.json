@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "7",
-    "dan",
-    "durum",
-    "futbo",
-    "galat",
-    "sakat"
-   ],
-   "tok": [
-    "aldığ",
-    "aleks",
-    "ameli",
-    "antre",
-    "ardın",
-    "artro",
-    "aspet",
-    "batra",
-    "bağ",
-    "başla",
-    "bulun",
-    "dan",
-    "darbe",
-    "davin",
-    "dizin",
-    "doha",
-    "durum",
-    "duyur",
-    "döndü",
-    "düzey",
-    "esnem",
-    "futbo",
-    "galat",
-    "geldi",
-    "görec",
-    "günlü",
-    "hasar",
-    "ilgil",
-    "ilişk",
-    "isim",
-    "jakob",
-    "kanam",
-    "katıl",
-    "maç",
-    "milli",
-    "nchez",
-    "omzun",
-    "orta",
-    "osimh",
-    "oyunc",
-    "rafae",
-    "revir",
-    "rolan",
-    "sakat",
-    "salla",
-    "salon",
-    "sağ",
-    "sağlı",
-    "sol",
-    "süre",
-    "sürüy",
-    "takım",
-    "tam",
-    "tamam",
-    "tedav",
-    "tespi",
-    "uğurc",
-    "victo",
-    "yarın",
-    "zaman",
-    "zorla",
-    "çakır",
-    "çalış",
-    "önces",
-    "ısmai"
-   ],
-   "at": "2026-11-20T14:03:29.634197+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "durdu",
     "hgs",
@@ -11133,20 +11055,72 @@
     "ülken"
    ],
    "at": "2026-11-22T01:56:47.056224+00:00"
+  },
+  {
+   "fp": [
+    "artık",
+    "başka"
+   ],
+   "tok": [
+    "artık",
+    "bakıy",
+    "güç",
+    "kimli",
+    "korku",
+    "tedir",
+    "yıl",
+    "çatış",
+    "şekil"
+   ],
+   "at": "2026-11-22T02:14:32.719263+00:00"
+  },
+  {
+   "fp": [
+    "alaca",
+    "ayakt",
+    "gaspı",
+    "hak",
+    "işçil",
+    "sürüy",
+    "tekst"
+   ],
+   "tok": [
+    "alaca",
+    "ayakt",
+    "belir",
+    "bin",
+    "birik",
+    "bulun",
+    "dahil",
+    "devam",
+    "değil",
+    "eylem",
+    "fabri",
+    "fazla",
+    "gaspı",
+    "hak",
+    "isted",
+    "işçil",
+    "kyr",
+    "maaş",
+    "mesai",
+    "olmad",
+    "sürüy",
+    "tabu",
+    "tazmi",
+    "tekst",
+    "topla",
+    "tutar",
+    "yakla",
+    "yapıl",
+    "çalış",
+    "ödeme",
+    "ödenm"
+   ],
+   "at": "2026-11-22T02:14:38.026962+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "968748349b",
-   "post_id": "529346797199852_1474044581501916",
-   "title": "Bakan Güler ile DEM Partili Gergerlioğlu arasında ‘Akın Öztürk’ gerginliği",
-   "at": "2026-11-20T01:43:45.558091+00:00",
-   "yazim": "claude",
-   "metin": "Gergerlioğlu, Bakan Güler'e:\n\n“Sen istifayı ver. Bana oradan parmak sallama, sen kimsin?”\n\n— Milli Savunma Bakanlığı bütçesi Plan ve Bütçe Komisyonu'nda kabul edildi ve görüşmelerin sonunda iki isim arasında gerginlik çıktı.\n— Gergerlioğlu'na tazminata hükmedilmesine tepki gösterince Güler, \"İstifayı veriyor musun?\" diye sordu.\n— Tartışma, geçen yıl yaşanan Akın Öztürk konusunun yeniden gündeme gelmesiyle başladı.\n— Gergerlioğlu konuşmanın ardından salonu terk etti.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bakan-guler-ile-dem-partili-gergerlioglu-arasinda-akin-ozturk-gerginligi-2557718"
-   ]
-  },
   {
    "id": "2091a4d9c5",
    "post_id": "529346797199852_1474054291500945",
@@ -13714,6 +13688,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/iklim-zirvesinde-kriz-uzlasma-yok-muzakere-uzadi-747708"
    ]
+  },
+  {
+   "id": "c675721948",
+   "post_id": "529346797199852_1476253681281006",
+   "title": "Hak gaspı sürüyor: Tekstil işçileri alacakları için ayakta",
+   "at": "2026-11-22T02:14:38.026962+00:00",
+   "yazim": "claude",
+   "metin": "KYR ve TABU Tekstil işçileri, ödenmeyen maaş, fazla mesai ve tazminatları için eylem yaptı.\n\n— 28 çalışanın toplam 2 milyon 66 bin TL alacağı olduğunu açıkladılar.\n— Fabrikada çalışmaya devam eden yaklaşık 100 kişinin birikmiş alacakları bu tutara dahil değil.\n— İşçiler, bu ödemelerin yapılmasını istedi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/hak-gaspi-suruyor-tekstil-iscileri-alacaklari-icin-ayakta-747715"
+   ]
   }
  ],
  "fails": {
@@ -13994,13 +13979,9 @@
   "722754f634": 1,
   "55da2c7781": 1,
   "b56c836e60": 1,
-  "07a91e7f4d": 1,
-  "2ab2c91f11": 2
+  "07a91e7f4d": 1
  },
  "fail_log": [
-  "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:34 Acil servis bahçesinde silahlı kavga: Yaralılar var -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
@@ -14037,7 +14018,10 @@
   "2026-11-22T01:44 Andromeda'da iki yıldız birleşti, James Webb patlamadan 47 g -> ValueError: yanıt okunamadı",
   "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
+  "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T02:14 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
