@@ -11100,20 +11100,93 @@
     "yaşan"
    ],
    "at": "2026-11-22T04:39:11.056945+00:00"
+  },
+  {
+   "fp": [
+    "hiçbi",
+    "hoca",
+    "oynam",
+    "tecrü",
+    "yönet",
+    "şey",
+    "şikay"
+   ],
+   "tok": [
+    "aldı",
+    "alman",
+    "ayağı",
+    "bitim",
+    "buruk",
+    "büyüt",
+    "değer",
+    "direk",
+    "dönem",
+    "edere",
+    "engel",
+    "ettiğ",
+    "farkı",
+    "fener",
+    "fırsa",
+    "galat",
+    "gelen",
+    "gönde",
+    "günde",
+    "hepsi",
+    "hiçbi",
+    "hoca",
+    "iddia",
+    "isabe",
+    "ise",
+    "iyi",
+    "kaldı",
+    "kanat",
+    "kaptı",
+    "kateg",
+    "kendi",
+    "kulla",
+    "kısa",
+    "leroy",
+    "lig",
+    "maçın",
+    "mağlu",
+    "nin",
+    "ocak",
+    "okan",
+    "oynam",
+    "oyunc",
+    "perfo",
+    "puan",
+    "rakib",
+    "reyti",
+    "sahad",
+    "samsu",
+    "sane",
+    "sert",
+    "sözle",
+    "süper",
+    "sıfır",
+    "sını",
+    "takım",
+    "tanın",
+    "tecrü",
+    "tekni",
+    "tepki",
+    "topla",
+    "topun",
+    "trans",
+    "yakla",
+    "yaşın",
+    "yönet",
+    "çekti",
+    "çıkar",
+    "şey",
+    "şikay",
+    "şut"
+   ],
+   "at": "2026-11-22T04:42:57.501969+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b959a417fa",
-   "post_id": "529346797199852_1474116068161434",
-   "title": "Kadınlar 25 Kasım öncesi sokakta: Eşitsizliğe ve cezasızlığa karşı sessiz kalmayacağız",
-   "at": "2026-11-20T03:25:08.986926+00:00",
-   "yazim": "claude",
-   "metin": "Kadın örgütleri ve sağlık emekçileri, 25 Kasım öncesi İstanbul ve İzmir'de basın açıklaması yaptı.\n\nAçıklamalarda, erkek şiddetini besleyen yoksulluk ve cezasızlık politikalarına tepki gösterildi.\n\n— Bu hafta 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele ve Dayanışma Günü için kadınlar sokağa çıkıyor.\n— Açıklamalarda eşitsizliğe ve cezasızlığa karşı sessiz kalınmayacağı vurgulandı.\n— İstanbul Sözleşmesi'ne dönülmesi ve dayanışmanın büyütülmesi çağrısı yapıldı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/kadinlar-25-kasim-oncesi-sokakta-esitsizlige-ve-cezasizliga-karsi-sessiz-kalmayacagiz-747342"
-   ]
-  },
   {
    "id": "8a39812e72",
    "post_id": "529346797199852_1474124698160571",
@@ -13682,6 +13755,17 @@
     "Sözcü: https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/turkiyeiran-sinirinda-korkutan-deprem-p383330"
    ]
+  },
+  {
+   "id": "d596d2f16b",
+   "post_id": "529346797199852_1476353607937680",
+   "title": "Tecrübeli hoca yöneticilere şikayet etti: 'Hiçbir şey oynamıyor'",
+   "at": "2026-11-22T04:42:57.501969+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray'da Teknik Direktör Okan Buruk'un, Leroy Sane'nin performansından yöneticilere şikayet ettiği iddia edildi.\n\nMaçın bitiminde yöneticilerle yapılan kısa toplantıda Buruk'un, 30 yaşındaki Alman kanat oyuncusu için sert sözler kullandığı iddia edildi.\n\n— Sane, Samsunspor maçında yaklaşık 25 dakika sahada kaldı ve 6.9 reyting aldı.\n— Ayağına gelen 20 topun 6'sını rakibe kaptırdı, şut, engellenen şut ve isabetli şut kategorilerinin hepsinde ise sıfır çekti.\n— Ocak transfer döneminde takımdan gönderilmesi gündemde olan Sane'nin, kendisine tanınan fırsatları iyi değerlendirememesi tepkiyi büyüttü.",
+   "sources": [
+    "Sözcü Spor: https://www.sozcu.com.tr/tecrubeli-hoca-yoneticilere-sikayet-etti-hicbir-sey-oynamiyor-p383338"
+   ]
   }
  ],
  "fails": {
@@ -13964,13 +14048,10 @@
   "b56c836e60": 1,
   "07a91e7f4d": 1,
   "becd175b56": 2,
-  "2ab2c91f11": 1,
+  "2ab2c91f11": 2,
   "7141e6a375": 1
  },
  "fail_log": [
-  "2026-11-22T04:10 Bir müzayededen aldığım Cumhuriyet -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:10 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
-  "2026-11-22T04:10 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
   "2026-11-22T04:10 Ekmek, eğitim, özgürlük! -> ValueError: yanıt okunamadı",
   "2026-11-22T04:13 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T04:13 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14007,7 +14088,10 @@
   "2026-11-22T04:39 Kapalı Oturum: Yap-işlet soy! -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-22T04:39 Tecrübeli hoca yöneticilere şikayet etti: 'Hiçbir şey oynamı -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-22T04:39 Tecrübeli hoca yöneticilere şikayet etti: 'Hiçbir şey oynamı -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-22T04:39 Tecrübeli hoca yöneticilere şikayet etti: 'Hiçbir şey oynamı -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
+  "2026-11-22T04:39 Tecrübeli hoca yöneticilere şikayet etti: 'Hiçbir şey oynamı -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-22T04:43 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:43 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T04:43 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
