@@ -2,71 +2,6 @@
  "seen": [
   {
    "fp": [
-    "dokun",
-    "fezle",
-    "hazır",
-    "kaldı",
-    "musta",
-    "sarıg"
-   ],
-   "tok": [
-    "adale",
-    "aklam",
-    "amacı",
-    "ayrı",
-    "ayınd",
-    "başla",
-    "başsa",
-    "cinse",
-    "dahil",
-    "dan",
-    "dille",
-    "dokun",
-    "dosya",
-    "düzen",
-    "edinm",
-    "ekim",
-    "erzin",
-    "fazla",
-    "fezle",
-    "geliy",
-    "gönde",
-    "hakkı",
-    "haksı",
-    "hazır",
-    "iddia",
-    "isten",
-    "istis",
-    "işlem",
-    "kaldı",
-    "kapsa",
-    "kara",
-    "kaçır",
-    "kesin",
-    "kurma",
-    "mal",
-    "mille",
-    "musta",
-    "nda",
-    "nitel",
-    "oğull",
-    "para",
-    "redde",
-    "sarıg",
-    "suç",
-    "suçla",
-    "taleb",
-    "varlı",
-    "yetki",
-    "yönel",
-    "çocuk",
-    "çocuğ",
-    "örgüt"
-   ],
-   "at": "2026-11-20T13:50:55.430485+00:00"
-  },
-  {
-   "fp": [
     "7",
     "dan",
     "durum",
@@ -11142,20 +11077,65 @@
     "şöyle"
    ],
    "at": "2026-11-22T01:44:14.646540+00:00"
+  },
+  {
+   "fp": [
+    "iklim",
+    "kriz",
+    "müzak",
+    "uzadı",
+    "uzlaş",
+    "yok",
+    "zirve"
+   ],
+   "tok": [
+    "adım",
+    "antal",
+    "açtı",
+    "bitec",
+    "cop31",
+    "daki",
+    "değil",
+    "düzen",
+    "fosil",
+    "görüş",
+    "hafta",
+    "hedef",
+    "hâlâ",
+    "iklim",
+    "kriz",
+    "milya",
+    "müzak",
+    "ortak",
+    "rağme",
+    "sonun",
+    "sürdü",
+    "süren",
+    "tasla",
+    "taşın",
+    "tepki",
+    "uyum",
+    "uzadı",
+    "uzakl",
+    "uzlaş",
+    "varam",
+    "yakla",
+    "yakıt",
+    "yok",
+    "yol",
+    "zaman",
+    "zirve",
+    "çağrı",
+    "çıkar",
+    "çıkma",
+    "öngör",
+    "ülke",
+    "ülken"
+   ],
+   "at": "2026-11-22T01:56:47.056224+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cfbdec054a",
-   "post_id": "529346797199852_1474036108169430",
-   "title": "Saadet Partili Güneş’ten AKP'ye sert tepki: 'Çiftçi, emekli, emekçi perişan'",
-   "at": "2026-11-20T01:31:00.831507+00:00",
-   "yazim": "claude",
-   "metin": "Saadet Partisi Milletvekili Cafer Güneş, ekonomik sorunlar için:\n\n“Bu ülkenin en büyük sorunu adil paylaşımın olmaması.”\n\n— Güneş, Rize'de gazetecilerle bir araya geldi. Çiftçiden emekliye, asgari ücretliden hayvancılıkla uğraşan üreticiye kadar geniş kesimin geçim sıkıntısı yaşadığını söyledi.\n\n— Ekonomik sorunların temelinde adil paylaşımın olmadığını savundu.\n\n— Tarım ve hayvancılık politikalarını eleştirdi. Türkiye'nin et ihtiyacını karşılamak için yurt dışından hayvan ve et ithal edilmesini yanlış buldu.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/saadet-partili-gunes-ten-akp-ye-sert-tepki-ciftci-emekli-emekci-perisan-2557736"
-   ]
-  },
   {
    "id": "968748349b",
    "post_id": "529346797199852_1474044581501916",
@@ -13723,6 +13703,17 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6010628/andromeda-da-iki-yildiz-birlesti-james-webb-patlamadan-47-gun-sonrasini-yakaladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "e664bc171d",
+   "post_id": "529346797199852_1476240977948943",
+   "title": "İklim zirvesinde kriz: Uzlaşma yok, müzakere uzadı",
+   "at": "2026-11-22T01:56:47.056224+00:00",
+   "yazim": "claude",
+   "metin": "Antalya'daki COP31 iklim zirvesinde yaklaşık 200 ülke iki haftadır süren görüşmelere rağmen ortak karara varamadı.\n\n— Fosil yakıtlardan uzaklaşma çağrısı ve iklime uyum için öngörülen 120 milyar dolarlık hedef taslaktan çıkarıldı.\n— Bu adım tepkilere yol açtı.\n— Müzakereler hafta sonuna taşındı, zirvenin ne zaman biteceği hâlâ belli değil.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/iklim-zirvesinde-kriz-uzlasma-yok-muzakere-uzadi-747708"
+   ]
   }
  ],
  "fails": {
@@ -14004,12 +13995,9 @@
   "55da2c7781": 1,
   "b56c836e60": 1,
   "07a91e7f4d": 1,
-  "2ab2c91f11": 1
+  "2ab2c91f11": 2
  },
  "fail_log": [
-  "2026-11-21T23:09 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:09 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
-  "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:22 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-21T23:34 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
@@ -14046,7 +14034,10 @@
   "2026-11-22T01:44 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T01:44 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
   "2026-11-22T01:44 Andromeda'da iki yıldız birleşti, James Webb patlamadan 47 g -> ValueError: yanıt okunamadı",
-  "2026-11-22T01:44 Andromeda'da iki yıldız birleşti, James Webb patlamadan 47 g -> ValueError: yanıt okunamadı"
+  "2026-11-22T01:44 Andromeda'da iki yıldız birleşti, James Webb patlamadan 47 g -> ValueError: yanıt okunamadı",
+  "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı",
+  "2026-11-22T01:56 'Bir Başkadır' artık başka -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
