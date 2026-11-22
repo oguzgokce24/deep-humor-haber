@@ -2,104 +2,6 @@
  "seen": [
   {
    "fp": [
-    "17",
-    "8",
-    "bütçe",
-    "elekt",
-    "karar",
-    "milya",
-    "özell",
-    "şirke"
-   ],
-   "tok": [
-    "aktar",
-    "aldı",
-    "astro",
-    "aydın",
-    "aynı",
-    "boyut",
-    "bütçe",
-    "cadde",
-    "dağıt",
-    "dönem",
-    "ekim",
-    "elekt",
-    "fatur",
-    "göre",
-    "hane",
-    "hanen",
-    "kamu",
-    "karşı",
-    "kayna",
-    "milya",
-    "ocak",
-    "resmi",
-    "sokak",
-    "ulaşt",
-    "veril",
-    "yapıl",
-    "ödeme",
-    "ödeye",
-    "özell",
-    "şirke"
-   ],
-   "at": "2026-11-21T02:42:49.711190+00:00"
-  },
-  {
-   "fp": [
-    "3",
-    "73",
-    "akran",
-    "koydu",
-    "ortay",
-    "siber",
-    "tüik",
-    "uğruy",
-    "veril",
-    "yüzde",
-    "zorba",
-    "çocuk"
-   ],
-   "tok": [
-    "akran",
-    "araşt",
-    "belir",
-    "dünya",
-    "eğiti",
-    "faili",
-    "geliy",
-    "grubu",
-    "göre",
-    "günü",
-    "hakla",
-    "ise",
-    "işçil",
-    "kalır",
-    "kalıy",
-    "kasım",
-    "koydu",
-    "maruz",
-    "nde",
-    "oluyo",
-    "ortay",
-    "sen",
-    "siber",
-    "ttb",
-    "tüik",
-    "uğruy",
-    "veril",
-    "yapan",
-    "yaş",
-    "yoksu",
-    "yüzde",
-    "zorba",
-    "çağrı",
-    "çocuk"
-   ],
-   "at": "2026-11-21T02:55:16.943586+00:00"
-  },
-  {
-   "fp": [
     "3",
     "35",
     "freni",
@@ -11495,25 +11397,77 @@
     "ısmai"
    ],
    "at": "2026-11-22T14:42:29.270606+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "anne",
+    "diyar",
+    "düştü",
+    "eve",
+    "facia",
+    "trakt",
+    "yaral",
+    "yola",
+    "yıldı",
+    "çocuğ",
+    "çıkar"
+   ],
+   "tok": [
+    "ailed",
+    "altın",
+    "alınd",
+    "ambul",
+    "ana",
+    "anne",
+    "araşt",
+    "aynı",
+    "aşağı",
+    "burad",
+    "diyar",
+    "düştü",
+    "ekipl",
+    "ergan",
+    "etmes",
+    "evde",
+    "evdek",
+    "eve",
+    "eğiti",
+    "facia",
+    "gazi",
+    "görev",
+    "götür",
+    "hasta",
+    "ihbar",
+    "ilçes",
+    "isabe",
+    "kaldı",
+    "kırsa",
+    "mahal",
+    "ndeki",
+    "olay",
+    "sağlı",
+    "sonuc",
+    "tedav",
+    "tesli",
+    "trakt",
+    "yaşan",
+    "yaşar",
+    "yaşla",
+    "yaşın",
+    "yerin",
+    "yola",
+    "yönle",
+    "yıldı",
+    "çocuk",
+    "çocuğ",
+    "çıkar",
+    "üçü"
+   ],
+   "at": "2026-11-22T14:55:40.384994+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "aa28963d21",
-   "post_id": "529346797199852_1474600151446359",
-   "title": "Sakatlıkları bulunuyordu... Galatasaray, 7 futbolcunun son durumunu duyurdu",
-   "at": "2026-11-20T14:03:29.634197+00:00",
-   "yazim": "claude",
-   "metin": "Galatasaray, sakatlığı bulunan 7 futbolcusunun son durumunu açıkladı.\n\n— Victor Osimhen, sol dizindeki artroskopik ameliyatın ardından salon çalışmalarına başladı.\n— Rafael Leão, 10 günlük bir süre için Doha'da Aspetar'da tam zamanlı tedavi görecek.\n— Davinson Sánchez, sol omzundaki bağ hasarının ardından son iki antrenmanın tamamında takımla çalıştı.\n— Roland Sallai ile Ismail Jakobs'ta orta düzeyde zorlanma ve kanama tespit edildi, tedavileri sürüyor.\n— Uğurcan Çakır, milli takımda sağ omzundaki esnemenin ardından antrenmanlara katıldı.\n— Aleksey Batrakov da sağ dizine aldığı darbenin ardından takımla çalışmaya başladı.\n\nAçıklama, yarınki maç öncesinde geldi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/galatasaraydan-7-futbolcunun-saglik-durumuna-iliskin-aciklama/4132273",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/sakatliklari-bulunuyordu-galatasaray-7-futbolcunun-son-durumunu-duyurdu-2557889",
-    "Evrensel: https://www.evrensel.net/haber/6010419/galatasaray-dan-futbolcu-sakatliklariyla-ilgili-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/galatasaray-dan-7-futbolcunun-saglik-durumuna-iliskin-aciklama-747501",
-    "Diken: https://www.diken.com.tr/galatasaray-revire-dondu-yedi-futbolcu-icin-aciklama/?utm_source=rss&utm_medium=rss&utm_campaign=galatasaray-revire-dondu-yedi-futbolcu-icin-aciklama",
-    "Sözcü Spor: https://www.sozcu.com.tr/galatasaray-da-tam-7-futbolcu-icin-sakatlik-aciklamasi-p383085"
-   ]
-  },
   {
    "id": "e9e1839014",
    "post_id": "529346797199852_1474625411443833",
@@ -14042,6 +13996,22 @@
    "sources": [
     "Sözcü Spor: https://www.sozcu.com.tr/galatasarayda-karar-verildi-ocakta-iki-imza-birden-p383481"
    ]
+  },
+  {
+   "id": "e81f1236f1",
+   "post_id": "529346797199852_1476821921224182",
+   "title": "Diyarbakır’da bir eve yıldırım düştü: Anne ve 2 çocuğu yaralandı",
+   "at": "2026-11-22T14:55:40.384994+00:00",
+   "yazim": "claude",
+   "metin": "Diyarbakır'ın Ergani ilçesinde bir eve yıldırım düştü, evdeki anne ve iki çocuğu yaralandı.\n\n— Olay Aşağıbitikçi Mahallesi'ndeki kırsal bir evde yaşandı.\n\n— Yaralılar 28 yaşındaki bir anne ile 9 ve 8 yaşındaki çocukları. Ekipler ihbar üzerine olay yerine yönlendirildi.\n\n— Yaralılar traktörle ana yola çıkarıldı ve burada sağlık görevlilerine teslim edildi.\n\n— Üçü de ambulanslarla Gazi Yaşargil Eğitim ve Araştırma Hastanesi'ne götürülerek tedaviye alındı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/diyarbakirda-eve-yildirim-dustu-yarali-anne-ve-2-cocugu-traktorle-yola-cikarildi-43387151",
+    "Milliyet: https://www.milliyet.com.tr/gundem/diyarbakirda-yildirim-faciasi-anne-ve-2-cocugu-yaralandi-7705715",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/diyarbakir/diyarbakirda-eve-yildirim-dustu-anne-ve-2-cocugu-yaralandi-3496611",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-eve-yildirim-dustu-anne-ve-2-cocugu-yaralandi-3929222",
+    "Karar: https://www.karar.com/guncel-haberler/diyarbakirda-bir-eve-yildirim-dustu-anne-ve-2-cocugu-yaralandi-2085604",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/diyarbakirda-yildirim-faciasi-anne-ve-2-cocugu-yaralandi-7705715"
+   ]
   }
  ],
  "fails": {
@@ -14390,7 +14360,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124505564126306547",
+   "since_id": "2124516793750286557",
    "started": true
   },
   "ajansmuhbir1923": {
