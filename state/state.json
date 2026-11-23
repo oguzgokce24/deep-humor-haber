@@ -10445,22 +10445,91 @@
     "şidde"
    ],
    "at": "2026-11-23T12:49:41.058121+00:00"
+  },
+  {
+   "fp": [
+    "anaya",
+    "aym",
+    "engel",
+    "erişi",
+    "kabul",
+    "mahke",
+    "redde",
+    "t24",
+    "taleb",
+    "tedbi"
+   ],
+   "tok": [
+    "alınd",
+    "anaya",
+    "avuka",
+    "aym",
+    "basın",
+    "başvu",
+    "belir",
+    "beri",
+    "birey",
+    "bulun",
+    "ceza",
+    "ciddi",
+    "den",
+    "durdu",
+    "edilm",
+    "ekim",
+    "engel",
+    "erişi",
+    "esas",
+    "etmed",
+    "ettiğ",
+    "eylül",
+    "gelir",
+    "gerek",
+    "görme",
+    "hakla",
+    "hâkim",
+    "ifade",
+    "ihlal",
+    "ilişk",
+    "inter",
+    "isted",
+    "istem",
+    "itira",
+    "kabul",
+    "kaldı",
+    "kapal",
+    "kasım",
+    "kesil",
+    "konus",
+    "koymu",
+    "nden",
+    "neden",
+    "nered",
+    "oybir",
+    "redde",
+    "rekla",
+    "ret",
+    "savun",
+    "site",
+    "siten",
+    "sites",
+    "sulh",
+    "t24",
+    "taleb",
+    "tamam",
+    "tedbi",
+    "tehli",
+    "temel",
+    "veril",
+    "yakın",
+    "yaptı",
+    "yeter",
+    "yönel",
+    "özgür"
+   ],
+   "at": "2026-11-23T13:02:14.264859+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3dffe84d71",
-   "post_id": "529346797199852_1475463388026702",
-   "title": "Bakanlık uyardı: Esnaflara eski sicil kayıtları için süre",
-   "at": "2026-11-21T09:31:01.067747+00:00",
-   "yazim": "claude",
-   "metin": "Esnafın elektronik ortama aktarılmamış eski sicil kayıtlarını 31 Ocak 2027'ye kadar ESBİS'e işletmesi gerekiyor.\n\n— Ticaret Bakanlığı, bu kayıtlar için esnaf örgütlerine yazı gönderdi ve uyarıda bulundu.\n— 1 Şubat 2027'den sonra eski kayıt ekranı ESBİS üzerinden kapatılacak, bu tarihten sonra kayıt ya da güncelleme yapılamayacak.\n— TESK Başkanı Mehmet Yiğiner, \"Bu çalışma, hem esnaf ve sanatkarların geçmişe yönelik sicil bilgilerinin korunması hem de sektörün sağlıklı ve güvenilir bir veri altyapısına sahip olması açısından büyük önem taşıyor.\" dedi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/esnafa-eski-sicil-kayitlarini-ticaret-bakanligi-bilgi-sistemine-aktarma-uyarisi/4132753",
-    "Evrensel: https://www.evrensel.net/haber/6010523/esnafa-eski-sicil-kayitlarini-ticaret-bakanligi-bilgi-sistemine-aktarma-uyarisi-son-tarih-ne-zaman?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/bakanlik-uyardi-esnaflara-eski-sicil-kayitlari-icin-sure-747621"
-   ]
-  },
   {
    "id": "2049ba696c",
    "post_id": "529346797199852_1475473074692400",
@@ -13011,6 +13080,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/bursa-da-lodos-etkili-oluyor-yurttaslar-yurumekte-gucluk-cekti-2558636",
     "Evrensel: https://www.evrensel.net/haber/6010803/bursa-da-kuvvetli-lodos-yayalar-yurumekte-zorluk-cekti-budo-ve-ido-seferleri-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "cb5168c4fe",
+   "post_id": "529346797199852_1477818581124516",
+   "title": "AYM'den T24'ün erişim engeli başvurusuna ret: Tedbir talebi kabul edilmedi",
+   "at": "2026-11-23T13:02:14.264859+00:00",
+   "yazim": "claude",
+   "metin": "Anayasa Mahkemesi, T24'ün erişim engelinin kaldırılması için istediği tedbir talebini reddetti.\n\nHaber sitesi 30 Eylül'den beri erişime kapalı. Site, esas karar verilene kadar engelin kaldırılmasını istemişti.\n\n— İstanbul 1. Sulh Ceza Hâkimliği erişim engeli koymuş, itiraz da reddedilmişti. T24, 16 Ekim'de Anayasa Mahkemesi'ne bireysel başvuruda bulundu.\n\n— Avukatlar, engelin ifade ve basın özgürlüğünü ihlal ettiğini savundu. Sitenin reklam gelirlerinin neredeyse tamamını kaybettiğini belirttiler.\n\n— Mahkeme, tedbir kararı gerektirecek ciddi bir tehlike görmediğini açıkladı. Karar 2 Kasım'da oybirliğiyle alındı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/anayasa-mahkemesi-nden-t24-karari-erisim-engelinin-durdurulmasina-yonelik-tedbir-talebini-reddedildi-2558604",
+    "Evrensel: https://www.evrensel.net/haber/6010797/aym-t24-un-erisim-engeli-icin-tedbir-talebini-kabul-etmedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/23/aym-t24un-erisim-engeline-iliskin-tedbir-talebini-reddetti/",
+    "Karar: https://www.karar.com/guncel-haberler/aymden-t24un-erisim-engeli-basvurusuna-ret-tedbir-talebi-kabul-edilmedi-2085748",
+    "Diken: https://www.diken.com.tr/anayasa-mahkemesi-t24un-tedbir-talebini-reddetti/?utm_source=rss&utm_medium=rss&utm_campaign=anayasa-mahkemesi-t24un-tedbir-talebini-reddetti"
+   ]
   }
  ],
  "fails": {
@@ -13224,7 +13308,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124843950754222101",
+   "since_id": "2124848115459006771",
    "started": true
   },
   "ajansmuhbir1923": {
