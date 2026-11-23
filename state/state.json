@@ -2,122 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bulun",
-    "daki",
-    "evind",
-    "ismiy",
-    "italy",
-    "kilit",
-    "mafya",
-    "soruş",
-    "ölü"
-   ],
-   "tok": [
-    "adı",
-    "borse",
-    "bulun",
-    "dahil",
-    "daki",
-    "dosya",
-    "edilm",
-    "emniy",
-    "eski",
-    "evind",
-    "genna",
-    "geçen",
-    "giann",
-    "ilişk",
-    "ismiy",
-    "italy",
-    "kilit",
-    "kısa",
-    "mafya",
-    "müdür",
-    "nun",
-    "paolo",
-    "süre",
-    "yargı",
-    "öldür"
-   ],
-   "at": "2026-11-21T14:00:45.325286+00:00"
-  },
-  {
-   "fp": [
-    "akşam",
-    "kahva",
-    "saatl",
-    "süres",
-    "yaşam",
-    "yemeğ"
-   ],
-   "tok": [
-    "abd",
-    "akşam",
-    "ani",
-    "arası",
-    "araşt",
-    "artır",
-    "artıy",
-    "bağla",
-    "belir",
-    "besle",
-    "bin",
-    "bırak",
-    "civar",
-    "değiş",
-    "diken",
-    "dikka",
-    "doğru",
-    "düzen",
-    "düşük",
-    "edenl",
-    "erken",
-    "etkil",
-    "gece",
-    "gerek",
-    "geç",
-    "göste",
-    "günün",
-    "ilişk",
-    "izlen",
-    "kahva",
-    "kaçın",
-    "kesin",
-    "kıyas",
-    "neden",
-    "ortal",
-    "post",
-    "riski",
-    "saate",
-    "saatl",
-    "sapta",
-    "sonra",
-    "sonuç",
-    "süres",
-    "the",
-    "vurgu",
-    "yarıs",
-    "yaş",
-    "yaşam",
-    "yeme",
-    "yemek",
-    "yemeğ",
-    "yenme",
-    "yetiş",
-    "yiyen",
-    "yükse",
-    "yüzde",
-    "yıl",
-    "çekti",
-    "ölüm",
-    "öğled",
-    "öğünü",
-    "üstü"
-   ],
-   "at": "2026-11-21T14:00:57.613955+00:00"
-  },
-  {
-   "fp": [
     "durum",
     "sağlı"
    ],
@@ -11471,20 +11355,55 @@
     "öneml"
    ],
    "at": "2026-11-23T01:27:16.744638+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "91",
+    "aldı",
+    "bandr",
+    "gelir",
+    "halk",
+    "kazan",
+    "lik",
+    "milya",
+    "trt"
+   ],
+   "tok": [
+    "adıyl",
+    "aldı",
+    "alışv",
+    "arası",
+    "bandr",
+    "dönem",
+    "elekt",
+    "eleşt",
+    "fırla",
+    "gelir",
+    "gerek",
+    "getir",
+    "halk",
+    "hesap",
+    "iken",
+    "ise",
+    "kazan",
+    "lik",
+    "milya",
+    "nin",
+    "taraf",
+    "topla",
+    "trt",
+    "ulaşt",
+    "yayın",
+    "yerin",
+    "yurtt",
+    "yükse",
+    "yüküm"
+   ],
+   "at": "2026-11-23T02:02:35.890881+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5257fc5f55",
-   "post_id": "529346797199852_1475082194731488",
-   "title": "AKP’nin ‘oy gaspı’ sürüyor: 117 transfer, 6 milyonu aşan oy",
-   "at": "2026-11-21T00:30:36.933424+00:00",
-   "yazim": "claude",
-   "metin": "31 Mart 2024 yerel seçimlerinden bu yana 117 belediye başkanı ve başkanvekili AKP'ye geçti.\n\n— Seçimde ikinci sıraya gerileyen AKP, sandıkta kazanamadığı belediyeleri transferler ve başkanvekilliği seçimleriyle bünyesine katmayı sürdürüyor.\n— Son dört buçuk ayda 30 belediye başkanı ve üç başkanvekili AKP'ye katıldı, dört belediyede de meclis seçimiyle başkanvekilliği AKP'ye geçti.\n— Katılımların çoğu CHP'den (45) ve Yeniden Refah Partisi'nden (42) geldi.\n— Yapılan hesaplamaya göre, transferler ve meclis seçimleriyle yönetimi değişen belediyeleri 31 Mart'ta kazanan adayların toplam oyu 6 milyonu aşıyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/akp-nin-oy-gaspi-suruyor-117-transfer-6-milyonu-asan-oy-2557932"
-   ]
-  },
   {
    "id": "4129d67751",
    "post_id": "529346797199852_1475109028062138",
@@ -13984,6 +13903,17 @@
    "metin": "ABD Başkanı Donald Trump, İran'a yönelik:\n\n“Yeni yıldan sonra askeri saldırı emri verebilirim.”\n\n— Trump, anlaşma sağlanamazsa 1 Ocak'tan sonra İran'a askeri saldırı emri verebileceğini söyledi.\n— Görüşmeleri \"anlamsız\" olarak niteleyen Trump, İranlı müzakerecileri görüşmeleri oyalamakla suçladı.\n— Tahran yönetiminin ABD'nin deniz ablukasını aşmaya çalışması hâlinde İran gemilerinin denizin dibini boylayacağını savundu.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/trump-yine-iran-i-hedef-aldi-yeni-yildan-sonra-askeri-saldiri-emri-verebilirim-747870"
+   ]
+  },
+  {
+   "id": "fbcf4efdc7",
+   "post_id": "529346797199852_1477287484510959",
+   "title": "Halk aldı TRT kazandı: 91,1 milyar TL'lik bandrol geliri",
+   "at": "2026-11-23T02:02:35.890881+00:00",
+   "yazim": "claude",
+   "metin": "TRT, yurttaşların elektronik alışverişlerinden bandrol adıyla 2021-2025 arasında 91,1 milyar TL gelir topladı.\n\n— TRT, tarafsız yayıncılık yükümlülüğünü yerine getirmediği gerekçesiyle eleştiriliyor.\n\n— Bandrol geliri 2024'te 25,8 milyar TL iken 2025'te 35,7 milyar TL'ye yükseldi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/halk-aldi-trt-kazandi-91-1-milyar-tl-lik-bandrol-geliri-747864"
    ]
   }
  ],
