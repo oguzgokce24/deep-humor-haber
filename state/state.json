@@ -10459,24 +10459,86 @@
     "çocuğ"
    ],
    "at": "2026-11-23T14:01:14.313867+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "cinay",
+    "dahil",
+    "insan",
+    "kişi",
+    "kızı",
+    "tutuk"
+   ],
+   "tok": [
+    "adliy",
+    "alına",
+    "anlaş",
+    "arkad",
+    "attı",
+    "bekir",
+    "biri",
+    "buldu",
+    "cep",
+    "cinay",
+    "dahil",
+    "daki",
+    "dalgı",
+    "deniz",
+    "düzen",
+    "erkek",
+    "evind",
+    "gitti",
+    "göre",
+    "görün",
+    "güven",
+    "halde",
+    "ilgil",
+    "ilçes",
+    "insan",
+    "izmir",
+    "kamer",
+    "kasım",
+    "kayab",
+    "kurba",
+    "kırıp",
+    "kız",
+    "kızı",
+    "miras",
+    "neden",
+    "nin",
+    "nın",
+    "olay",
+    "olayl",
+    "olayı",
+    "ortay",
+    "patro",
+    "planl",
+    "sevk",
+    "taban",
+    "tekst",
+    "telef",
+    "ulaşa",
+    "urla",
+    "villa",
+    "vurul",
+    "yakın",
+    "yanda",
+    "yansı",
+    "yaşan",
+    "yaşın",
+    "çıkan",
+    "çıkar",
+    "çıktı",
+    "öldür",
+    "öte",
+    "özel",
+    "şoför"
+   ],
+   "at": "2026-11-23T14:13:58.593018+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ab90aa87e3",
-   "post_id": "529346797199852_1475507108022330",
-   "title": "Samsun'da sağanak: Yol çöktü, çukura düşen araçlar çukura düştü",
-   "at": "2026-11-21T10:21:34.338262+00:00",
-   "yazim": "claude",
-   "metin": "Samsun'un İlkadım ilçesinde sağanak yüzünden Osmaniye Caddesi yaklaşık 30 santimetre çöktü. Çukura düşen park halindeki 4 araç zarar gördü.\n\n— Sabah saatlerinde şiddetini artıran yağmur rögarların taşmasına ve trafikte aksamalara yol açtı.\n— Caddede altyapı çalışması sürüyordu. Araç sahipleri, hasarlı otomobillerini çekici yardımıyla yoldan çıkarmak için çalışmaya başladı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/samsunu-saganak-vurdu-yol-coktu-araclar-cukura-dustu-964053.html",
-    "Habertürk: https://www.haberturk.com/gundem/samsun-da-yol-coktu-araclar-zarar-gordu-3929003",
-    "Evrensel: https://www.evrensel.net/haber/6010538/samsun-da-saganak-nedeniyle-yol-coktu-araclar-zarar-gordu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/samsun-da-saganak-yol-coktu-cukura-dusen-araclar-cukura-dustu-747641",
-    "Karar: https://www.karar.com/sehir-haberleri/samsunda-saganak-nedeniyle-yol-coktu-4-arac-zarar-gordu-2085438"
-   ]
-  },
   {
    "id": "2eeac5bf45",
    "post_id": "529346797199852_1475516981354676",
@@ -13030,6 +13092,19 @@
     "Sözcü: https://www.sozcu.com.tr/vicdansizligin-boylesi-7-yasindaki-kizin-bisikletini-yere-vura-vura-parcaladi-p383745",
     "BPT (X): https://x.com/bpthaber/status/2124862096588595310"
    ]
+  },
+  {
+   "id": "f0cf5317a7",
+   "post_id": "529346797199852_1477890727783968",
+   "title": "İş insanı Bekir Kayabaşı'nın öldürülmesi: Kızı dahil 4 kişi tutuklandı",
+   "at": "2026-11-23T14:13:58.593018+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'in Urla ilçesinde 72 yaşındaki tekstil patronunun öldürülmesi olayında, miras için cinayeti planladığı ortaya çıkan kızı dahil 4 şüpheli tutuklandı.\n\n— Olay 10 Kasım'da Urla'daki bir villada yaşandı. Yakınları, ulaşamadıkları iş insanını evinde hayatını kaybetmiş halde buldu.\n\n— Soruşturmaya göre cinayeti kız, erkek arkadaşı ve bir başka kişiyle anlaşarak planladı. Erkek arkadaş, öldürülen iş insanının özel şoförüymüş.\n\n— Polis 16 Kasım'da operasyon düzenledi. Gözaltına alınan dört şüpheli adliyeye sevk edildi ve tutuklandı.\n\n— Şüphelilerden biri yakalanmamak için cep telefonunu kırıp denize attı. Güvenlik kamerasına yansıyan görüntülerde telefon dalgıçlar tarafından denizden çıkarıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/urla/urladaki-is-insani-cinayetinde-kizi-dahil-4-kisi-tutuklandi-3497047",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/is-insani-bekir-kayabasi-nin-oldurulmesi-kizi-dahil-4-kisi-tutuklandi-2558686",
+    "Evrensel: https://www.evrensel.net/haber/6010831/tekstil-patronunun-cinayetinde-kizi-dahil-4-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13242,7 +13317,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124865384415207456",
+   "since_id": "2124867591696978375",
    "started": true
   },
   "ajansmuhbir1923": {
