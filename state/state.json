@@ -2,85 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akom",
-    "dan",
-    "düşec",
-    "fırtı",
-    "istan",
-    "sağan",
-    "sert",
-    "sıcak",
-    "uyarı"
-   ],
-   "tok": [
-    "akden",
-    "akom",
-    "akşam",
-    "alçak",
-    "arası",
-    "balka",
-    "basın",
-    "bekle",
-    "beled",
-    "belir",
-    "biçim",
-    "bölge",
-    "büyük",
-    "cuma",
-    "dan",
-    "den",
-    "derec",
-    "durum",
-    "düşec",
-    "düşme",
-    "etkil",
-    "fırtı",
-    "gecel",
-    "gelec",
-    "gelen",
-    "geril",
-    "giriş",
-    "gündü",
-    "günü",
-    "hangi",
-    "hava",
-    "ibb",
-    "ila",
-    "iller",
-    "kente",
-    "kenti",
-    "kilog",
-    "kodlu",
-    "lodos",
-    "metre",
-    "olaca",
-    "orta",
-    "pazar",
-    "perşe",
-    "saatl",
-    "sabah",
-    "salı",
-    "sarı",
-    "sağan",
-    "serin",
-    "sert",
-    "siste",
-    "soğuy",
-    "sıcak",
-    "uyarı",
-    "veril",
-    "vurac",
-    "yapac",
-    "yağış",
-    "yenid",
-    "yükse",
-    "çarşa",
-    "üzeri"
-   ],
-   "at": "2026-11-22T09:30:24.899887+00:00"
-  },
-  {
-   "fp": [
     "ateş",
     "bozuk",
     "ettim",
@@ -10381,20 +10302,59 @@
     "şikay"
    ],
    "at": "2026-11-23T21:15:26.446200+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "alına",
+    "fon",
+    "gözal",
+    "nda",
+    "soruş",
+    "taleb",
+    "tutuk",
+    "şüphe"
+   ],
+   "tok": [
+    "adli",
+    "adliy",
+    "aklam",
+    "alına",
+    "ardın",
+    "başsa",
+    "büros",
+    "bırak",
+    "ceza",
+    "emniy",
+    "finan",
+    "fon",
+    "getir",
+    "gönde",
+    "hakim",
+    "ifade",
+    "ise",
+    "istem",
+    "işlem",
+    "kapsa",
+    "kontr",
+    "nda",
+    "piyas",
+    "savcı",
+    "serbe",
+    "serma",
+    "sevk",
+    "sulh",
+    "suçla",
+    "taleb",
+    "tamam",
+    "terör",
+    "yönel",
+    "yürüt"
+   ],
+   "at": "2026-11-23T21:32:02.282266+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fbb899a3a0",
-   "post_id": "529346797199852_1475888531317521",
-   "title": "TBB Başkanı Erinç Sağkan: \"Tutuklama tedbirinin gözdağı amacıyla uygulanması ciddi bir hukuk devleti sorunudur\"",
-   "at": "2026-11-21T17:00:45.432165+00:00",
-   "yazim": "claude",
-   "metin": "TBB Başkanı Erinç Sağkan, tutuklamanın gözdağı için kullanılmasına dair:\n\n“Tutuklama tedbirinin hukuki zorunluluklardan uzaklaşılarak cezalandırma, gözdağı verme ya da başkalarına ibret olma amacıyla uygulanması, üzerinde özellikle durulması gereken ciddi bir hukuk devleti sorunudur.”\n\nSağkan, tutuklamanın hukuki bir zorunluluk dışında ceza, gözdağı ya da ibret için kullanılmasının hukuk devleti açısından ciddi bir sorun olduğunu söyledi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tbb-baskani-erinc-sagkan-tutuklama-tedbirinin-gozdagi-amaciyla-uygulanmasi-ciddi-bir-hukuk-devleti-sorunudur-747687"
-   ]
-  },
   {
    "id": "ec98d02e21",
    "post_id": "529346797199852_1475899101316464",
@@ -12958,6 +12918,22 @@
     "Evrensel: https://www.evrensel.net/haber/6010889/tanrikulu-catismasizlik-donemi-maden-ve-enerji-sirketleri-icin-rant-alanina-donusmesin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/yeni-partiden-cozum-surecinde-rant-uyarisi-catismasizlik-doneminde-2085815"
    ]
+  },
+  {
+   "id": "f92e8a723b",
+   "post_id": "529346797199852_1478260681080306",
+   "title": "Fon soruşturmasında 4 şüpheliye tutuklama istemi",
+   "at": "2026-11-23T21:32:02.282266+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da sermaye piyasası işlemlerine yönelik soruşturmada 4 şüpheli tutuklama talebiyle hakimliğe sevk edildi.\n\nGözaltına alınan 6 şüpheli, emniyetteki işlemlerinin ardından adliyeye getirilmişti. Soruşturmayı İstanbul Cumhuriyet Başsavcılığı Terörizmin Finansmanı ve Aklama Suçları Soruşturma Bürosu yürütüyor.\n\n— Savcılıktaki ifadesi tamamlanan şüphelilerden 4'ü tutuklama talebiyle Sulh Ceza Hakimliği'ne sevk edildi.\n— 1 kişi adli kontrol istemiyle hakimliğe gönderildi.\n— Bir şüpheli ise savcılık ifadesinin ardından serbest bırakıldı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/fon-sorusturmasinda-gozaltina-alinan-4-supheliye-tutuklama-talebi-43388582",
+    "Milliyet: https://www.milliyet.com.tr/gundem/fon-sorusturmasinda-gozaltina-alinan-4-supheliye-tutuklama-talebi-7706487",
+    "CNN Türk: https://www.cnnturk.com/turkiye/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-3497157",
+    "Habertürk: https://www.haberturk.com/gundem/fon-sorusturmasinda-4-tutuklama-talebi-3929569",
+    "Sözcü: https://www.sozcu.com.tr/fon-sorusturmasinda-4-supheliye-tutuklama-istemi-p383840",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-2558777"
+   ]
   }
  ],
  "fails": {
@@ -13137,7 +13113,6 @@
   "25b0e7074a": 1
  },
  "fail_log": [
-  "2026-11-23T14:52 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
   "2026-11-23T15:06 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
   "2026-11-23T15:06 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
   "2026-11-23T15:06 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
@@ -13176,7 +13151,8 @@
   "2026-11-23T21:28 Eğitim-İş araştırması: Öğretmenlerin yüzde 63,82'sinin en bü -> ValueError: yanıt okunamadı",
   "2026-11-23T21:28 Birçok geliştirici, GTA 6'nın sızdırılan Xbox dosyalarını ya -> ValueError: yanıt okunamadı",
   "2026-11-23T21:28 Birçok geliştirici, GTA 6'nın sızdırılan Xbox dosyalarını ya -> ValueError: yanıt okunamadı",
-  "2026-11-23T21:28 Birçok geliştirici, GTA 6'nın sızdırılan Xbox dosyalarını ya -> ValueError: yanıt okunamadı"
+  "2026-11-23T21:28 Birçok geliştirici, GTA 6'nın sızdırılan Xbox dosyalarını ya -> ValueError: yanıt okunamadı",
+  "2026-11-23T21:32 Fon soruşturmasında 4 şüpheliye tutuklama istemi -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
  ],
  "x": {
   "bpthaber": {
