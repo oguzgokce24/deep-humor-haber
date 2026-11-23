@@ -2,84 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akit",
-    "arınç",
-    "cevap",
-    "emrul",
-    "iddia",
-    "işini",
-    "sert",
-    "tan",
-    "turan",
-    "yalan"
-   ],
-   "tok": [
-    "akit",
-    "aldığ",
-    "anlat",
-    "anlaş",
-    "araya",
-    "arınç",
-    "baskı",
-    "başvu",
-    "belir",
-    "ben",
-    "benim",
-    "bile",
-    "bülen",
-    "cevap",
-    "deki",
-    "değil",
-    "doğru",
-    "emrul",
-    "fotoğ",
-    "gelme",
-    "gördü",
-    "görüş",
-    "hakkı",
-    "haval",
-    "hiç",
-    "hukuk",
-    "iddia",
-    "ilgil",
-    "insan",
-    "isted",
-    "isten",
-    "içmed",
-    "işini",
-    "kahve",
-    "kare",
-    "kelim",
-    "kendi",
-    "konun",
-    "kuzey",
-    "kıbrı",
-    "lider",
-    "nın",
-    "ortak",
-    "para",
-    "progr",
-    "proje",
-    "redde",
-    "rüşve",
-    "sert",
-    "suçla",
-    "süreç",
-    "sürmü",
-    "taki",
-    "tan",
-    "turan",
-    "yalan",
-    "yolla",
-    "yönün",
-    "çekti",
-    "öne",
-    "üzeri"
-   ],
-   "at": "2026-11-22T10:49:30.903116+00:00"
-  },
-  {
-   "fp": [
     "baltı",
     "deniz",
     "gemis",
@@ -10427,22 +10349,65 @@
     "çevir"
    ],
    "at": "2026-11-23T22:46:10.710120+00:00"
+  },
+  {
+   "fp": [
+    "büyük",
+    "depod",
+    "istan",
+    "yangı"
+   ],
+   "tok": [
+    "alevl",
+    "açtı",
+    "başla",
+    "bekle",
+    "belir",
+    "binan",
+    "bulun",
+    "bölge",
+    "bölüm",
+    "büyük",
+    "depod",
+    "depos",
+    "edenl",
+    "ekipl",
+    "elekt",
+    "fark",
+    "giriş",
+    "hasar",
+    "henüz",
+    "ihbar",
+    "incel",
+    "itfai",
+    "katlı",
+    "katın",
+    "kısa",
+    "maddi",
+    "malze",
+    "müdah",
+    "neden",
+    "olay",
+    "paniğ",
+    "sardı",
+    "sağlı",
+    "söndü",
+    "süred",
+    "tutul",
+    "ulaşa",
+    "yangı",
+    "yapıl",
+    "yerin",
+    "yol",
+    "yönle",
+    "çıkan",
+    "çıktı",
+    "çıkış"
+   ],
+   "at": "2026-11-23T22:59:37.185040+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d1f2045677",
-   "post_id": "529346797199852_1475958601310514",
-   "title": "Fenerbahçe Kocaeli'de yara aldı! Galatasaray ile puan farkı 11'e yükseldi",
-   "at": "2026-11-21T18:28:59.652016+00:00",
-   "yazim": "claude",
-   "metin": "Trendyol Süper Lig'in 12. haftasında Kocaelispor ile Fenerbahçe, Kocaeli'de 2-2 berabere kaldı.\n\nFenerbahçe 61. dakikada Skriniar'ın golüyle öne geçti. Kocaelispor 71. dakikada penaltıdan Berkan Kutlu'nun golüyle beraberliği yakaladı, 76. dakikada Maglica'nın golüyle de 2-1 öne geçti.\n\n— Fenerbahçe, 90+3. dakikada Mason Greenwood'un golüyle puanı kurtardı.\n— Bu sonuçla Fenerbahçe 20 puanla 5. sıraya yerleşti. Lider Galatasaray ile arasındaki fark 11 puana çıktı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/live-kocaelispor-2-2-fenerbahce-mac-ozeti-kanarya-deplasmanda-beraberlige-razi-3496199",
-    "Karar: https://www.karar.com/spor-haberleri/fenerbahce-kocaelide-yara-aldi-2-2-2085507",
-    "Sözcü Spor: https://www.sozcu.com.tr/canli-veya-kocaelispor-fenerbahce-maci-canli-anlatim-p383267"
-   ]
-  },
   {
    "id": "169696f9dc",
    "post_id": "529346797199852_1475973081309066",
@@ -13005,6 +12970,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kocaeli-de-saganak-etkisini-gosterdi-sokaklar-ve-otoparklar-gole-dondu-2558800",
     "Yeni Şafak: https://www.yenisafak.com/video/gundem/balikesirde-saganak-cadde-ve-sokaklari-gole-cevirdi-4875840"
    ]
+  },
+  {
+   "id": "ea820fce62",
+   "post_id": "529346797199852_1478316341074740",
+   "title": "Büyükçekmece'de depoda çıkan yangın hasara neden oldu",
+   "at": "2026-11-23T22:59:37.185040+00:00",
+   "yazim": "claude",
+   "metin": "Büyükçekmece'de bir binanın giriş bölümündeki depoda yangın çıktı, alevler itfaiye ekiplerince söndürüldü.\n\nYangın, elektrik malzemelerinin tutulduğu depoda henüz belirlenemeyen bir nedenle başladı. Alevleri fark edenlerin ihbarıyla olay yerine itfaiye, polis ve sağlık ekipleri yönlendirildi.\n\n— Bölgeye kısa sürede ulaşan itfaiye ekipleri alevlere müdahale etti.\n— Yangın depoda maddi hasara yol açtı.\n— Yangının çıkış nedeni için inceleme yapılması bekleniyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/istanbul-buyukcekmecede-korkutan-yangin-7706559",
+    "Sözcü: https://www.sozcu.com.tr/buyukcekmece-de-depoda-cikan-yangin-hasara-neden-oldu-p383849",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/buyukcekmecede-depoda-yangin-maddi-hasar-olustu-4875844",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/istanbul-buyukcekmecede-korkutan-yangin-7706559"
+   ]
   }
  ],
  "fails": {
@@ -13179,14 +13158,12 @@
   "f4d3025c52": 2,
   "a518460188": 2,
   "b3019fa7e3": 1,
-  "f073626435": 1,
+  "f073626435": 2,
   "25b0e7074a": 1,
-  "98b0bca999": 1
+  "98b0bca999": 1,
+  "52c202521b": 1
  },
  "fail_log": [
-  "2026-11-23T19:40 Oxfam: İsrail saldırıları Gazze'yi 'zehirli bir çorak araziy -> ValueError: cümle yarım kalmış: 'evresel savaş suçları” işlemekle suçladı'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-23T20:55 Bursa'da metal işçilerinden 29 Kasım mitingine çağrı: İnsanc -> ValueError: yanıt okunamadı",
-  "2026-11-23T20:55 Bursa'da metal işçilerinden 29 Kasım mitingine çağrı: İnsanc -> ValueError: yanıt okunamadı",
   "2026-11-23T20:55 Bursa'da metal işçilerinden 29 Kasım mitingine çağrı: İnsanc -> ValueError: yanıt okunamadı",
   "2026-11-23T20:55 Nobel ödüllülerden 'oligarşiye karşı' manifesto: Demokratik  -> ValueError: yanıt okunamadı",
   "2026-11-23T20:55 Nobel ödüllülerden 'oligarşiye karşı' manifesto: Demokratik  -> ValueError: yanıt okunamadı",
@@ -13223,7 +13200,10 @@
   "2026-11-23T22:33 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
   "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
   "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı"
+  "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
+  "2026-11-23T22:59 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
+  "2026-11-23T22:59 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
+  "2026-11-23T22:59 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
