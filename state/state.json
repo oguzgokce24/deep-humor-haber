@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "den",
-    "ekono",
-    "geçin",
-    "işçil",
-    "parti",
-    "sümer",
-    "tepki",
-    "çekil",
-    "çiftç",
-    "üreti"
-   ],
-   "tok": [
-    "adana",
-    "adı",
-    "altın",
-    "artan",
-    "belir",
-    "borcu",
-    "dalın",
-    "den",
-    "değer",
-    "ekono",
-    "eleşt",
-    "emekl",
-    "emekç",
-    "esnaf",
-    "ezili",
-    "faiz",
-    "faizi",
-    "finan",
-    "getir",
-    "geçim",
-    "geçin",
-    "günde",
-    "güçlü",
-    "ihtiy",
-    "ilişk",
-    "istey",
-    "işçil",
-    "işçim",
-    "kalıy",
-    "karşı",
-    "konul",
-    "kredi",
-    "maliy",
-    "mille",
-    "nefes",
-    "orhan",
-    "parti",
-    "polit",
-    "sifta",
-    "sorun",
-    "sümer",
-    "temel",
-    "tepki",
-    "ulaşa",
-    "veril",
-    "yapam",
-    "yaşad",
-    "yükse",
-    "yükün",
-    "zorla",
-    "çekil",
-    "çekti",
-    "çiftç",
-    "ödeme",
-    "üreti",
-    "üretm",
-    "ürünü"
-   ],
-   "at": "2026-11-22T10:37:40.490102+00:00"
-  },
-  {
-   "fp": [
     "akit",
     "arınç",
     "cevap",
@@ -10425,22 +10351,85 @@
     "şidde"
    ],
    "at": "2026-11-23T22:33:34.076286+00:00"
+  },
+  {
+   "fp": [
+    "göle",
+    "sağan",
+    "sokak"
+   ],
+   "tok": [
+    "aksam",
+    "akşam",
+    "alanl",
+    "altın",
+    "artan",
+    "açtı",
+    "açık",
+    "ağaç",
+    "baca",
+    "balık",
+    "baskı",
+    "bastı",
+    "bazı",
+    "bekle",
+    "bildi",
+    "birli",
+    "birço",
+    "bulun",
+    "bırak",
+    "cadde",
+    "devri",
+    "dikka",
+    "direk",
+    "döndü",
+    "esmes",
+    "etkil",
+    "etkis",
+    "gazı",
+    "göle",
+    "göste",
+    "güney",
+    "halin",
+    "hızla",
+    "isted",
+    "itiba",
+    "kapla",
+    "karşı",
+    "kenti",
+    "kocae",
+    "kuvve",
+    "neden",
+    "nokta",
+    "olunm",
+    "otomo",
+    "otopa",
+    "park",
+    "pazar",
+    "rüzga",
+    "saat",
+    "saatl",
+    "sabah",
+    "sağan",
+    "sokak",
+    "suyla",
+    "tamam",
+    "ulaşı",
+    "uçmas",
+    "valil",
+    "yağış",
+    "yer",
+    "yol",
+    "yolla",
+    "yönle",
+    "zehir",
+    "çatı",
+    "çevir"
+   ],
+   "at": "2026-11-23T22:46:10.710120+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f62f0a330e",
-   "post_id": "529346797199852_1475948991311475",
-   "title": "Bahçeli'den Özgür Özel'e çok sert sözler: CHP'yi böldünüz, Türkiye'yi böldürtmeyiz",
-   "at": "2026-11-21T18:16:20.559864+00:00",
-   "yazim": "claude",
-   "metin": "MHP Genel Başkanı Devlet Bahçeli, Özgür Özel'e:\n\n“Tavsiyelerimizi dinlemeyerek 103 yıllık CHP'yi bölmeyi başardınız ama size Türkiye'yi böldürtmeyiz.”\n\n— Bahçeli, Özel'in CHP'de bölünmeye yol açtığını öne sürdü.\n— Özel'in toplumun ve siyasetin gerçeklerinden kopuk hareket ettiğini savundu.\n— Bahçeli, Özel'in kendisine verilen \"suflelerle\" hareket ettiğini ileri sürdü.",
-   "sources": [
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/21/eyyup-kadir-inan-ozel-ve-ekibi-dokunulmazlik-zirhinin-arkasina-saklaniyor",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/ak-partili-inandan-ozlaleye-sert-sozler-ozgur-ozel-kendisine-mayin-esegi-olarak-kullaniyor-4875255",
-    "Karar: https://www.karar.com/guncel-haberler/bahceliden-ozgur-ozele-cok-sert-sozler-chpyi-boldunuz-turkiyeyi-2085508"
-   ]
-  },
   {
    "id": "d1f2045677",
    "post_id": "529346797199852_1475958601310514",
@@ -13004,6 +12993,18 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/saglikta-siddet-durmuyor-sistem-arizasi-bahanesiyle-duzenlenen-saldirida-iki-saglik-emekcisi-yaralandi-748063"
    ]
+  },
+  {
+   "id": "4c79ff3148",
+   "post_id": "529346797199852_1478307491075625",
+   "title": "Kocaeli'de sağanak etkisini gösterdi: Sokaklar ve otoparklar göle döndü",
+   "at": "2026-11-23T22:46:10.710120+00:00",
+   "yazim": "claude",
+   "metin": "Kocaeli'de sağanak yağış cadde, sokak ve otoparkları su altında bıraktı; bazı yollar göle döndü.\n\n— Akşam saatlerinde kuvvetli rüzgarla birlikte artan yağış birçok noktada su baskınına yol açtı.\n— Açık otoparklardaki park halindeki araçların bulunduğu alanlar da suyla kaplandı.\n— Kocaeli Valiliği, rüzgarın Pazartesi sabah saatlerinden itibaren güney ve güneybatı yönlerden 50-70, yer yer 80-90 km/saat hızla esmesinin beklendiğini bildirdi.\n— Valilik, çatı uçması, ağaç ve direk devrilmesi, baca gazı zehirlenmesi ve ulaşımda aksamalara karşı dikkatli olunmasını istedi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kocaeli-de-saganak-etkisini-gosterdi-sokaklar-ve-otoparklar-gole-dondu-2558800",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/balikesirde-saganak-cadde-ve-sokaklari-gole-cevirdi-4875840"
+   ]
   }
  ],
  "fails": {
@@ -13179,12 +13180,10 @@
   "a518460188": 2,
   "b3019fa7e3": 1,
   "f073626435": 1,
-  "25b0e7074a": 1
+  "25b0e7074a": 1,
+  "98b0bca999": 1
  },
  "fail_log": [
-  "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı",
-  "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı",
-  "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı",
   "2026-11-23T19:40 Oxfam: İsrail saldırıları Gazze'yi 'zehirli bir çorak araziy -> ValueError: cümle yarım kalmış: 'evresel savaş suçları” işlemekle suçladı'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-23T20:55 Bursa'da metal işçilerinden 29 Kasım mitingine çağrı: İnsanc -> ValueError: yanıt okunamadı",
   "2026-11-23T20:55 Bursa'da metal işçilerinden 29 Kasım mitingine çağrı: İnsanc -> ValueError: yanıt okunamadı",
@@ -13221,12 +13220,15 @@
   "2026-11-23T22:21 Finale adım adım: MasterChef Türkiye'de yeni haftanın kaptan -> ValueError: yanıt okunamadı",
   "2026-11-23T22:33 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
   "2026-11-23T22:33 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:33 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı"
+  "2026-11-23T22:33 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
+  "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
+  "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
+  "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124990575099183597",
+   "since_id": "2124995420845674679",
    "started": true
   },
   "ajansmuhbir1923": {
