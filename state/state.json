@@ -13146,20 +13146,11 @@
   "f218cc5a7d": 1,
   "520ac2ba5b": 1,
   "e7c0bb8457": 1,
-  "83268ed62e": 1,
-  "f4d3025c52": 1,
-  "a518460188": 1
+  "83268ed62e": 2,
+  "f4d3025c52": 2,
+  "a518460188": 2
  },
  "fail_log": [
-  "2026-11-23T05:46 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
-  "2026-11-23T07:35 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-23T07:35 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-23T07:35 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-23T08:39 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-23T08:39 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-23T08:39 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-23T08:52 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-23T08:52 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
   "2026-11-23T08:52 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
   "2026-11-23T13:27 2026 KPSS Ortaöğretim (Lise) Taban Puanları: KPSS 55, 58, 60 -> ValueError: yanıt okunamadı",
   "2026-11-23T13:27 2026 KPSS Ortaöğretim (Lise) Taban Puanları: KPSS 55, 58, 60 -> ValueError: yanıt okunamadı",
@@ -13190,7 +13181,16 @@
   "2026-11-23T20:55 Nobel ödüllülerden 'oligarşiye karşı' manifesto: Demokratik  -> ValueError: yanıt okunamadı",
   "2026-11-23T20:55 KESK yöneticileri Kocaeli'den çağırdı: \"12 Aralık'ta Ankara' -> ValueError: yanıt okunamadı",
   "2026-11-23T20:55 KESK yöneticileri Kocaeli'den çağırdı: \"12 Aralık'ta Ankara' -> ValueError: yanıt okunamadı",
-  "2026-11-23T20:55 KESK yöneticileri Kocaeli'den çağırdı: \"12 Aralık'ta Ankara' -> ValueError: yanıt okunamadı"
+  "2026-11-23T20:55 KESK yöneticileri Kocaeli'den çağırdı: \"12 Aralık'ta Ankara' -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 Bursa'da metal işçilerinden 29 Kasım mitingine çağrı: İnsanc -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 Bursa'da metal işçilerinden 29 Kasım mitingine çağrı: İnsanc -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 Bursa'da metal işçilerinden 29 Kasım mitingine çağrı: İnsanc -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 Nobel ödüllülerden 'oligarşiye karşı' manifesto: Demokratik  -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 Nobel ödüllülerden 'oligarşiye karşı' manifesto: Demokratik  -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 Nobel ödüllülerden 'oligarşiye karşı' manifesto: Demokratik  -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 KESK yöneticileri Kocaeli'den çağırdı: \"12 Aralık'ta Ankara' -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 KESK yöneticileri Kocaeli'den çağırdı: \"12 Aralık'ta Ankara' -> ValueError: yanıt okunamadı",
+  "2026-11-23T20:59 KESK yöneticileri Kocaeli'den çağırdı: \"12 Aralık'ta Ankara' -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
