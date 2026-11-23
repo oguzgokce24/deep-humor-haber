@@ -10480,23 +10480,82 @@
     "çanak"
    ],
    "at": "2026-11-23T15:06:30.138754+00:00"
+  },
+  {
+   "fp": [
+    "doku",
+    "gülis",
+    "hakan",
+    "ifade",
+    "para",
+    "polis",
+    "soruş",
+    "trafi",
+    "tutuk",
+    "yalçı",
+    "zarfl"
+   ],
+   "tok": [
+    "abaka",
+    "adlı",
+    "anlat",
+    "ayrın",
+    "babas",
+    "dikka",
+    "doku",
+    "dosya",
+    "dönem",
+    "ekip",
+    "emniy",
+    "engin",
+    "eski",
+    "ettim",
+    "gönde",
+    "gülis",
+    "gün",
+    "hakan",
+    "ifade",
+    "ilgil",
+    "ilişk",
+    "imzal",
+    "içind",
+    "kamer",
+    "kayıp",
+    "memur",
+    "müdür",
+    "nin",
+    "ocak",
+    "ortay",
+    "para",
+    "selam",
+    "talim",
+    "tanzi",
+    "trafi",
+    "tunce",
+    "tut",
+    "tutan",
+    "verdi",
+    "yalçı",
+    "yücer",
+    "yüzün",
+    "zaina",
+    "zarf",
+    "zarfl",
+    "zarfı",
+    "çalış",
+    "çekic",
+    "çıkar",
+    "çıktı",
+    "öğren",
+    "üvey",
+    "ıfade",
+    "şefim",
+    "şefin"
+   ],
+   "at": "2026-11-23T15:19:07.335516+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b4ca36be48",
-   "post_id": "529346797199852_1475558548017186",
-   "title": "Ateşkese rağmen İsrail saldırıları sürüyor: Gazze’de can kaybı 74 bin 736’ya yükseldi",
-   "at": "2026-11-21T11:28:22.068502+00:00",
-   "yazim": "claude",
-   "metin": "İsrail'in saldırılarını sürdürdüğü Gazze Şeridi'nde can kaybı 74 bin 736'ya yükseldi.\n\n— Gazze'deki Filistin Sağlık Bakanlığı'na göre son 48 saatte hastanelere 9 Filistinlinin cenazesi getirildi, 55 kişi yaralandı.\n\n— Ateşkesin yürürlüğe girdiği Ekim 2025'ten bu yana hayatını kaybedenlerin sayısı 1.671'e, yaralıların sayısı 6 bin 62'ye çıktı.\n\n— İsrail ordusu, Nusayrat Mülteci Kampı'nın kuzeydoğusunda yeni bir operasyon başlattı. Operasyon, ateşkes planının ilk aşamasında çekilmesi öngörülen \"Sarı Hat\" yakınında yürütülüyor.\n\n— Filistin tarafı, İsrail'in ateşkes yükümlülüklerini yerine getirmediğini ve \"Sarı Hat\"ı Gazze'nin iç kesimlerine doğru kaydırarak kontrol alanını genişlettiğini savunuyor.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/soykirimci-israilin-saldirilari-altindaki-gazzede-can-kaybi-74-bin-736ya-yukseldi-964062.html",
-    "Evrensel: https://www.evrensel.net/haber/6010550/ateskese-ragmen-israil-saldirilari-suruyor-gazze-de-can-kaybi-74-bin-736-ya-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/israil-sari-hat-operasyonu-baslatmisti-gazze-deki-soykirimda-can-kaybi-74-bin-736-ya-yukseldi-747646",
-    "Karar: https://www.karar.com/dunya-haberleri/gazzede-can-kaybi-74-bin-736ya-yukseldi-2085445"
-   ]
-  },
   {
    "id": "3fdfdb0aa3",
    "post_id": "529346797199852_1475568401349534",
@@ -13045,6 +13104,19 @@
    "sources": [
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/mus/mus-merkezli-tefecilik-operasyonunda-34-supheli-yakalandi-3497077",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mus-merkezli-tefecilik-operasyonu-34-supheli-yakalandi-2558707"
+   ]
+  },
+  {
+   "id": "c2b709533d",
+   "post_id": "529346797199852_1477949437778097",
+   "title": "Polis memuru ifadesinde anlattı: Gülistan Doku dosyasında zarfla para trafiği",
+   "at": "2026-11-23T15:19:07.335516+00:00",
+   "yazim": "claude",
+   "metin": "Tutuklu polis memuru, Tunceli'de kayıp öğrenci soruşturmasında:\n\n“Çalışmayan kameralarla ilgili tutanağı ekip şefinin talimatıyla imzaladım. İçinde para olan zarfı ekip şefimiz (...) verdi.”\n\n— Ifade, 5 Ocak 2020",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-sorusturmasinda-tutuklu-polis-hakan-yalcin-in-ifadesi-ortaya-cikti-zarfla-para-trafigi-2558708",
+    "BirGün: https://www.birgun.net/haber/polis-memuru-ifadesinde-anlatti-gulistan-doku-dosyasinda-zarfla-para-trafigi-748021",
+    "Karar: https://www.karar.com/guncel-haberler/gulistan-doku-sorusturmasinda-tutuklu-polis-hakan-yalcinin-ifadesi-2085803"
    ]
   }
  ],
