@@ -10400,24 +10400,38 @@
     "şunu"
    ],
    "at": "2026-11-23T20:30:25.716190+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "9",
+    "afad",
+    "büyük",
+    "depre",
+    "duyur",
+    "erzur"
+   ],
+   "tok": [
+    "afad",
+    "büyük",
+    "depre",
+    "derin",
+    "duyur",
+    "erzur",
+    "geldi",
+    "gerçe",
+    "ilçes",
+    "kilom",
+    "meyda",
+    "saat",
+    "yerin",
+    "çat",
+    "ölçül"
+   ],
+   "at": "2026-11-23T21:02:36.823554+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b679f53972",
-   "post_id": "529346797199852_1475860467986994",
-   "title": "Çankırı'da zincirleme trafik kazası: 5 araç birbirine girdi",
-   "at": "2026-11-21T16:35:31.344073+00:00",
-   "yazim": "claude",
-   "metin": "Sakarya'da 15 aracın karıştığı zincirleme kazada yaralılar hastanelere kaldırıldı.\n\n— Yaralıların hayati tehlikesinin bulunmadığı bildirildi.\n— Otobüslerde yaralanmayan yolcular, bölgeye çağrılan başka bir otobüsle tahliye edildi.\n— Kazaya karışan araçları kaldırmak için vinç ve çekiciler bölgeye gönderildi.\n— Otoyol jandarması kazayla ilgili inceleme başlattı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/sakaryada-14-arac-birbirine-girdi-zincirleme-kazada-15-kisi-yaralandi-3496237",
-    "Habertürk: https://www.haberturk.com/gundem/cankiri-nin-atkaracalar-ilcesinde-5-aracin-karistigi-kazada-maddi-hasar-olustu-3929058",
-    "Habertürk: https://www.haberturk.com/gundem/foto/anadolu-otoyolu-nun-sakarya-gecisinde-zincirleme-kaza-14-yarali-3929050",
-    "Sözcü: https://www.sozcu.com.tr/sakarya-da-korkunc-kaza-15-arac-birbirine-girdi-p383244",
-    "Karar: https://www.karar.com/sehir-haberleri/cankirida-zincirleme-trafik-kazasi-5-arac-birbirine-girdi-2085490"
-   ]
-  },
   {
    "id": "58c4114a34",
    "post_id": "529346797199852_1475870824652625",
@@ -12975,6 +12989,21 @@
    "metin": "Türk iş insanı Nebahat İşbilen, İngiltere'de mahkemede 2019'da eski prens Andrew'e verdiği 750 bin sterlinlik ödeme konusunda yanıltıldığını söyledi.\n\n— İşbilen, eski iş danışmanı Selman Türk'ün 38 milyon sterlinlik mal varlığını usulsüz ele geçirdiğini iddia ediyor.\n\n— Türk ise suçlamaları reddediyor. Paranın aslında Andrew'in Türkiye'de hapiste olan siyasetçi kocasına yardım edebileceği umuduyla ödendiğini İşbilen'in bildiğini savunuyor.\n\n— Andrew, bu konuda herhangi bir suçtan yargılanmadan 750 bin sterlini geri ödedi. Aralık ayında mahkemede ifade vermesi bekleniyor.\n\n— Türk'ün avukatı Joshua Hitchens, İşbilen hakkında şunu söyledi: “Davacı, dük ve düşesle yemek yemiş ve onlarla kocası hakkında konuşmuşken 750.000 sterlinin pasaport veya vize konusunda yardım için gizlenmiş bir ücret olduğuna inanmış olamaz.”\n\n— İşbilen'in avukatları ise suçlamaların “siyasi amaçlı” olduğunu savunuyor.",
    "sources": [
     "BBC Türkçe: https://www.bbc.com/turkce/articles/c8g46vellpqro?at_medium=RSS&at_campaign=rss"
+   ]
+  },
+  {
+   "id": "ed08efec18",
+   "post_id": "529346797199852_1478240234415684",
+   "title": "AFAD duyurdu: Erzurum'da 3,9 büyüklüğünde deprem",
+   "at": "2026-11-23T21:02:36.823554+00:00",
+   "yazim": "claude",
+   "metin": "Erzurum'un Çat ilçesinde 3,9 büyüklüğünde bir deprem meydana geldi.\n\nAFAD, depremin saat 20.22'de olduğunu ve yerin 7 kilometre derinliğinde gerçekleştiğini duyurdu.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-haberi-erzurumda-korkutan-deprem-3497130",
+    "Sözcü: https://www.sozcu.com.tr/erzurum-deprem-23-kasim-2026-p383818",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-erzurum-da-deprem-2558739",
+    "Evrensel: https://www.evrensel.net/haber/6010871/afad-duyurdu-erzurum-da-39-buyuklugunde-deprem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/erzurum-deprem-23-kasim-2026-p383818"
    ]
   }
  ],
