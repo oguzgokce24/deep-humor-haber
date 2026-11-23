@@ -2,55 +2,6 @@
  "seen": [
   {
    "fp": [
-    "artık",
-    "başka"
-   ],
-   "tok": [
-    "artık",
-    "bakıy",
-    "güç",
-    "kimli",
-    "korku",
-    "tedir",
-    "yıl",
-    "çatış",
-    "şekil"
-   ],
-   "at": "2026-11-22T04:35:10.389175+00:00"
-  },
-  {
-   "fp": [
-    "işlet",
-    "kapal",
-    "oturu",
-    "soy",
-    "yap"
-   ],
-   "tok": [
-    "akıbe",
-    "ardın",
-    "arkas",
-    "duvar",
-    "günü",
-    "işlet",
-    "kapal",
-    "konuş",
-    "kulis",
-    "neler",
-    "niyet",
-    "oturu",
-    "pazar",
-    "perde",
-    "planl",
-    "siyas",
-    "soy",
-    "yap",
-    "yaşan"
-   ],
-   "at": "2026-11-22T04:39:11.056945+00:00"
-  },
-  {
-   "fp": [
     "hiçbi",
     "hoca",
     "oynam",
@@ -10562,22 +10513,73 @@
     "şov"
    ],
    "at": "2026-11-23T16:26:32.857257+00:00"
+  },
+  {
+   "fp": [
+    "akşam",
+    "halk",
+    "kanal",
+    "telev",
+    "yayın"
+   ],
+   "tok": [
+    "adıyl",
+    "akşam",
+    "aldı",
+    "amaçl",
+    "anlat",
+    "ardın",
+    "asker",
+    "atana",
+    "atanm",
+    "ayrıl",
+    "başlı",
+    "den",
+    "derdi",
+    "devam",
+    "dijit",
+    "dünda",
+    "ekip",
+    "etme",
+    "faali",
+    "gazet",
+    "gerçe",
+    "grup",
+    "gökha",
+    "haber",
+    "halk",
+    "kanal",
+    "kayyu",
+    "kayyı",
+    "kayış",
+    "konuk",
+    "kurdu",
+    "medya",
+    "olaca",
+    "platf",
+    "saat",
+    "serha",
+    "sosya",
+    "sözcü",
+    "sürdü",
+    "taleb",
+    "tek",
+    "tele1",
+    "telev",
+    "uğur",
+    "yapac",
+    "yapma",
+    "yayın",
+    "youtu",
+    "yönel",
+    "çalış",
+    "üzeri",
+    "şöyle"
+   ],
+   "at": "2026-11-23T16:39:10.954944+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "79fe2eb470",
-   "post_id": "529346797199852_1475644068008634",
-   "title": "Murat Ağırel'in avukatı tek tek açıkladı: 'Tüm iddialar hukuken çökmüştür'",
-   "at": "2026-11-21T12:56:18.079180+00:00",
-   "yazim": "claude",
-   "metin": "Murat Ağırel'in avukatı Oğuzhan Aslan, İstanbul'daki soruşturma için:\n\n“Murat Ağırel hakkındaki tüm iddialar dün itibariyle hukuken çökmüştür.”\n\n— Aslan, telefon görüşmesi, mesajlaşma ve ses-video kayıtlarının İstanbul Cumhuriyet Başsavcılığı'na sunulduğunu söyledi.\n— Avukata göre bu kayıtlar, Ağırel'in gazetecilik faaliyeti kapsamında hareket ettiğini gösteriyor.\n— Aslan, Ağırel'in yeniden tahliye edilmesini talep ettiklerini duyurdu.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/murat-agirel-in-avukati-tek-tek-acikladi-tum-iddialar-hukuken-cokmustur-2558085",
-    "Evrensel: https://www.evrensel.net/haber/6010569/murat-agirel-in-avukatindan-yeniden-tahliye-talebi-iddialar-coktu-tutuklulugu-derhal-sonlandirilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/murat-agirel-hakkinda-tahliye-talebi-iddialar-coktu-tutuklulugu-derhal-sonlandirilmali-747655"
-   ]
-  },
   {
    "id": "777c88163e",
    "post_id": "529346797199852_1475655294674178",
@@ -13126,6 +13128,20 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/erdogan-fasizme-dumen-kuran-muhalefetten-ulkeye-hayir-gelmez-2085811"
    ]
+  },
+  {
+   "id": "6c19f8b478",
+   "post_id": "529346797199852_1478021734437534",
+   "title": "İlk yayın bu akşam: Kayyum atanan Halk TV çalışanlarından yeni kanal",
+   "at": "2026-11-23T16:39:10.954944+00:00",
+   "yazim": "claude",
+   "metin": "Halk TV'den ayrılan gazeteciler, kayyım atanmasının ardından YouTube'da “Halk Televizyonu” adıyla yayına başlıyor; ilk canlı yayın bu akşam saat 20.00'de.\n\n— Tele1, Halk TV ve Sözcü TV'ye kayyım atanmıştı. Gazeteciler habercilik için dijital platforma yöneldi.\n\n— Gökhan Kayış, amaçlarını şöyle anlattı: “Tek derdimiz gazeteciliğimizi yapmaya devam etme talebimiz.”\n\n— İlk yayında Uğur Dündar ve Serhan Asker'in konuk olacağı açıklandı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/halk-televizyonu-ilk-yayinini-bu-aksam-yapacak-2558676",
+    "Evrensel: https://www.evrensel.net/haber/6010862/halk-tv-den-ayrilan-gazeteciler-yeni-kanal-kurdu-halk-televizyonu-bu-aksam-yayinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Medyascope: https://medyascope.tv/2026/11/23/halk-televizyonu-yayin-hayatina-basliyor/",
+    "BirGün: https://www.birgun.net/haber/ilk-yayin-bu-aksam-kayyum-atanan-halk-tv-calisanlarindan-yeni-kanal-748010"
+   ]
   }
  ],
  "fails": {
@@ -13340,7 +13356,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124896637726408877",
+   "since_id": "2124905380979568787",
    "started": true
   },
   "ajansmuhbir1923": {
