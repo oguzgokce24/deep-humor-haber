@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "4",
-    "hatay",
-    "imarı",
-    "konut",
-    "milya",
-    "satış",
-    "zeyti"
-   ],
-   "tok": [
-    "akp",
-    "aldı",
-    "arada",
-    "arazi",
-    "bazı",
-    "bedel",
-    "beled",
-    "belir",
-    "büyük",
-    "depre",
-    "hatay",
-    "ihale",
-    "imarl",
-    "imarı",
-    "kamul",
-    "konut",
-    "liste",
-    "milya",
-    "mülkl",
-    "olmas",
-    "ortay",
-    "rağme",
-    "satış",
-    "sürer",
-    "sürüy",
-    "taşın",
-    "vasfı",
-    "veril",
-    "yapıl",
-    "yer",
-    "yönel",
-    "zeyti",
-    "çıkar",
-    "çıktı",
-    "şekil"
-   ],
-   "at": "2026-11-22T02:40:15.800925+00:00"
-  },
-  {
-   "fp": [
     "artık",
     "başka"
    ],
@@ -10582,20 +10532,86 @@
     "ülkey"
    ],
    "at": "2026-11-23T14:39:12.207020+00:00"
+  },
+  {
+   "fp": [
+    "450",
+    "alman",
+    "den",
+    "fazla",
+    "okula",
+    "tehdi"
+   ],
+   "tok": [
+    "alarm",
+    "alman",
+    "araşt",
+    "arda",
+    "art",
+    "avrup",
+    "aynıy",
+    "aşama",
+    "bazı",
+    "başla",
+    "bekli",
+    "benze",
+    "bozma",
+    "bulgu",
+    "buna",
+    "daki",
+    "danim",
+    "den",
+    "düzen",
+    "edilm",
+    "evler",
+    "fazla",
+    "genel",
+    "gerçe",
+    "geçen",
+    "gönde",
+    "hafta",
+    "hepsi",
+    "incel",
+    "irlan",
+    "iskoç",
+    "italy",
+    "içere",
+    "işare",
+    "kamu",
+    "kayna",
+    "konu",
+    "kuzey",
+    "metni",
+    "neden",
+    "okul",
+    "okula",
+    "okull",
+    "oluşt",
+    "posta",
+    "rastl",
+    "rağme",
+    "satır",
+    "seni",
+    "somut",
+    "suçla",
+    "söyle",
+    "tahli",
+    "tavsi",
+    "tehdi",
+    "tehli",
+    "thüri",
+    "yakla",
+    "yazıy",
+    "yok",
+    "yoluy",
+    "yüzle",
+    "ölüm",
+    "öğren"
+   ],
+   "at": "2026-11-23T14:52:06.004956+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4e21c64901",
-   "post_id": "529346797199852_1475538968019144",
-   "title": "Başsavcılıktan 'Gildencrest Capital' açıklaması: Enver Çevik'e 4,5 milyar, Muhammed Yarız'a 0,5 milyar ve Burhan Tunç Özkan'a 1 milyar TL ödenmiş",
-   "at": "2026-11-21T11:03:04.948392+00:00",
-   "yazim": "claude",
-   "metin": "Başsavcılık, fon soruşturmasında Tezmen kardeşlere ait Gildencrest Capital'in dokuz yılda 21 milyar TL'lik hesap hareketi olduğunu açıkladı.\n\n— Açıklamaya göre şirket 2011'de Londra'da \"Tera Europe\" adıyla kuruldu ve işleri fiilen İstanbul'dan yürütüldü.\n\n— Paranın 4,1 milyar TL'si yurt dışında kaldı. Üç kişinin İsviçre'deki hesaplarına 2026'nın ilk aylarında toplam 6 milyar TL ödeme yapıldı.\n\n— Kasım ayında 1,95 milyar TL'lik hissenin aktarımı MASAK tarafından durduruldu.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010535/bassavciliktan-gildencrest-capital-aciklamasi-enver-cevik-e-45-milyar-muhammed-yariz-a-05-milyar-ve-burhan-tunc-ozkan-a-1-milyar-tl-odenmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "442b7cc5d6",
    "post_id": "529346797199852_1475548708018170",
@@ -13147,6 +13163,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/uyusturucuyu-yutarak-ulkeye-sokmaya-calistilar-4-supheli-tutuklandi-4875764",
     "Karar: https://www.karar.com/guncel-haberler/uyusturucu-kapsullerini-yutarak-ulkeye-sokmaya-calistilar-4-supheli-2085795"
    ]
+  },
+  {
+   "id": "9d05fa716e",
+   "post_id": "529346797199852_1477925894447118",
+   "title": "Almanya'da 450'den fazla okula bomba tehdidi: Polis 'somut tehlike yok' dedi",
+   "at": "2026-11-23T14:52:06.004956+00:00",
+   "yazim": "claude",
+   "metin": "Almanya'da yaklaşık 450 okula e-posta yoluyla bomba tehdidi gönderildi.\n\n— E-postaların konu satırında \"Ölüm seni bekliyor\" yazıyordu ve hepsinin metni aynıydı.\n— Polis, tehditlerin şu an için somut bir tehlike oluşturmadığını söyleyerek okulların tahliye edilmemesini tavsiye etti.\n— Buna rağmen bazı okullar öğrencileri evlerine gönderdi.\n— Thüringen polisi, kamu düzenini bozma suçlamasıyla soruşturma başlattı. Tehditlerin kaynağı araştırılıyor.\n\nGeçen hafta İtalya'da 300'den fazla okul benzer e-postalar nedeniyle tahliye edilmişti. Kuzey İrlanda ve İskoçya'daki okullarda da benzer tehditler gönderilmişti.",
+   "sources": [
+    "DW Türkçe: https://www.dw.com/tr/almanya-da-450-den-fazla-okula-bomba-tehdidi/a-80020783?maca=tur-rss-tur-all-1495-xml-mrss",
+    "Euronews: https://tr.euronews.com/2026/11/23/almanyada-450den-fazla-okula-bomba-tehdidi-polis-somut-tehlike-yok-dedi",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/almanya-da-450-den-fazla-okula-bomba-tehdidi-2558640",
+    "Evrensel: https://www.evrensel.net/haber/6010811/almanya-genelinde-450-den-fazla-okula-bomba-tehdidi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/almanya-ve-danimarka-da-alarm-yuzlerce-okula-bomba-tehdidi-747981",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/avrupada-art-arda-saldiri-tehditleri-almanya-ve-danimarka-alarmda-43388043"
+   ]
   }
  ],
  "fails": {
@@ -13312,12 +13344,10 @@
   "2248710424": 1,
   "508dd6fd67": 1,
   "029faaa319": 1,
-  "2ea4df4853": 1
+  "2ea4df4853": 1,
+  "dca172d446": 1
  },
  "fail_log": [
-  "2026-11-23T03:28 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı",
-  "2026-11-23T03:28 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı",
-  "2026-11-23T03:41 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı",
   "2026-11-23T03:41 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı",
   "2026-11-23T03:41 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı",
   "2026-11-23T04:18 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı",
@@ -13354,12 +13384,15 @@
   "2026-11-23T13:27 DEM Parti: 'Yeni Partinin komisyon kararı kent uzlaşısını et -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-23T13:27 DEM Parti: 'Yeni Partinin komisyon kararı kent uzlaşısını et -> ValueError: cümle yarım kalmış: 'anı'nı kastettiğini düşündüğünü belirtti'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-23T14:01 Vicdansızlığın böylesi: 7 yaşındaki kızın bisikletini yere v -> ValueError: yanıt okunamadı",
-  "2026-11-23T14:01 Vicdansızlığın böylesi: 7 yaşındaki kızın bisikletini yere v -> ValueError: yanıt okunamadı"
+  "2026-11-23T14:01 Vicdansızlığın böylesi: 7 yaşındaki kızın bisikletini yere v -> ValueError: yanıt okunamadı",
+  "2026-11-23T14:52 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
+  "2026-11-23T14:52 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
+  "2026-11-23T14:52 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124874550114402597",
+   "since_id": "2124877527965655268",
    "started": true
   },
   "ajansmuhbir1923": {
