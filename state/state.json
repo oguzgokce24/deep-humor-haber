@@ -2,43 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altın",
-    "göçük",
-    "güngö",
-    "işçi",
-    "kaldı",
-    "kayma",
-    "kazıs",
-    "temel",
-    "topra"
-   ],
-   "tok": [
-    "altın",
-    "başla",
-    "bölge",
-    "ekip",
-    "ekipl",
-    "geldi",
-    "göçük",
-    "güngö",
-    "işçi",
-    "işçiy",
-    "kaldı",
-    "kayma",
-    "kazıs",
-    "meyda",
-    "sayıd",
-    "sıras",
-    "temel",
-    "topra",
-    "yönel",
-    "çalış",
-    "çıkar"
-   ],
-   "at": "2026-11-21T14:51:27.466981+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "dan",
     "davas",
@@ -11320,20 +11283,62 @@
     "şık"
    ],
    "at": "2026-11-23T02:49:53.341734+00:00"
+  },
+  {
+   "fp": [
+    "bugün",
+    "emekl",
+    "fon",
+    "günde",
+    "kabin",
+    "maaşl",
+    "soruş",
+    "topla",
+    "var"
+   ],
+   "tok": [
+    "akp",
+    "alına",
+    "alıyo",
+    "asgar",
+    "bekle",
+    "bugün",
+    "deki",
+    "düzen",
+    "emekl",
+    "erdoğ",
+    "fon",
+    "gazze",
+    "geliş",
+    "gelme",
+    "görüş",
+    "günde",
+    "iran",
+    "kabin",
+    "maaşl",
+    "masay",
+    "nin",
+    "olaca",
+    "piyas",
+    "rusya",
+    "savaş",
+    "serma",
+    "sıra",
+    "tayyi",
+    "topla",
+    "ukray",
+    "var",
+    "yanı",
+    "yer",
+    "yönel",
+    "yılı",
+    "öncel",
+    "ücret"
+   ],
+   "at": "2026-11-23T03:02:40.907790+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "da9f546e34",
-   "post_id": "529346797199852_1475124988060542",
-   "title": "Galatasaray'da dev maçlar öncesi sakatlık alarmı: Victor Osimhen hangi maça yetişecek, kadroda kimler yok?",
-   "at": "2026-11-21T01:34:52.368054+00:00",
-   "yazim": "claude",
-   "metin": "Galatasaray'da sakatlık gündemi yoğunlaştı: Victor Osimhen'in Aston Villa maçına yetişmesi beklenmiyor.\n\n— Osimhen'in hedefi Beşiktaş derbisi. İlk 11'de yer alabilmesi için yoğun tedavi ve özel antrenman programı uygulanıyor.\n\n— Samsunspor deplasmanı öncesi sağlık raporunda bazı isimler için yeşil ışık yanarken, bazı yıldızlar için risk alınmadı.\n\n— Omzundaki sakatlığı yeni atlatan Uğurcan Çakır'ın nüksetmemesi için Samsunspor maçında genç kaleci Jankat Yılmaz'a şans verilmesi en güçlü senaryo.\n\n— Portekizli yıldız Leao'nun fiziksel durumu AEK maçı için yakından takip ediliyor.",
-   "sources": [
-    "Karar: https://www.karar.com/spor-haberleri/galatasarayda-dev-maclar-oncesi-sakatlik-alarmi-victor-osimhen-hangi-2085380"
-   ]
-  },
   {
    "id": "2624f51a89",
    "post_id": "529346797199852_1475136204726087",
@@ -13834,6 +13839,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/milyarlik-ihalecilerden-eski-burokratlara-listede-yok-yok-747862"
    ]
+  },
+  {
+   "id": "5946e6a51f",
+   "post_id": "529346797199852_1477328771173497",
+   "title": "Kabine bugün toplanıyor: Gündemde emekli maaşları ve fon soruşturması var",
+   "at": "2026-11-23T03:02:40.907790+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı Erdoğan başkanlığındaki Kabine bugün toplanıyor. Toplantının öncelikli gündemi emekli maaşlarına yönelik yeni bir düzenleme.\n\n— Toplantıda 2027 yılı asgari ücret görüşmeleri de ele alınacak.\n\n— Sermaye piyasalarındaki fon soruşturması da gündemde yer alıyor.\n\n— Rusya-Ukrayna savaşı, İran ve Gazze'deki gelişmelerin de masaya gelmesi bekleniyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/kabine-bugun-toplaniyor-gundemde-emekli-maaslari-ve-fon-sorusturmasi-var-747877"
+   ]
   }
  ],
  "fails": {
@@ -13998,16 +14014,10 @@
   "c39ef5a494": 1,
   "df41502e98": 1,
   "2248710424": 1,
-  "e509d68d8d": 1,
-  "a122548bb3": 1
+  "e509d68d8d": 2,
+  "a122548bb3": 2
  },
  "fail_log": [
-  "2026-11-22T23:12 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:12 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:12 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:12 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:12 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:12 ABD'de bebek partisine silahlı saldırı: 3 kişi öldü, 1 kişi  -> ValueError: yanıt okunamadı",
   "2026-11-22T23:12 ABD'de bebek partisine silahlı saldırı: 3 kişi öldü, 1 kişi  -> ValueError: yanıt okunamadı",
   "2026-11-22T23:12 ABD'de bebek partisine silahlı saldırı: 3 kişi öldü, 1 kişi  -> ValueError: yanıt okunamadı",
   "2026-11-22T23:15 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
@@ -14041,7 +14051,13 @@
   "2026-11-23T02:49 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
   "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
   "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı"
+  "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:02 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:02 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:02 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:02 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:02 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:02 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
