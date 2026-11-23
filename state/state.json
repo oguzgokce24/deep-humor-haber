@@ -2,66 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "bin",
-    "dan",
-    "iddia",
-    "malez",
-    "rohin",
-    "türki",
-    "yerle"
-   ],
-   "tok": [
-    "asıls",
-    "basın",
-    "bazı",
-    "bağlı",
-    "başba",
-    "bin",
-    "dan",
-    "dezen",
-    "dmm",
-    "dolaş",
-    "dışı",
-    "etmem",
-    "gelec",
-    "gerçe",
-    "gönde",
-    "hamid",
-    "hesap",
-    "iddia",
-    "ileti",
-    "ilgil",
-    "ilişk",
-    "isted",
-    "itiba",
-    "içeri",
-    "kamuo",
-    "konuy",
-    "kurul",
-    "malez",
-    "medya",
-    "mücad",
-    "mülte",
-    "ndan",
-    "nin",
-    "rohin",
-    "sosya",
-    "sürül",
-    "ulusl",
-    "yalan",
-    "yardı",
-    "yerle",
-    "yönel",
-    "zahid",
-    "çıktı",
-    "öne",
-    "şunla"
-   ],
-   "at": "2026-11-21T12:31:33.872403+00:00"
-  },
-  {
-   "fp": [
     "avuka",
     "ağıre",
     "derha",
@@ -11701,20 +11641,59 @@
     "çıkış"
    ],
    "at": "2026-11-23T00:22:56.837563+00:00"
+  },
+  {
+   "fp": [
+    "271",
+    "ele",
+    "geçir",
+    "kilo",
+    "tanke",
+    "uyuşt"
+   ],
+   "tok": [
+    "adli",
+    "arama",
+    "ağrı",
+    "bildi",
+    "buldu",
+    "bulun",
+    "dan",
+    "dorse",
+    "doğub",
+    "ekipl",
+    "esrar",
+    "gelen",
+    "girme",
+    "gizle",
+    "gram",
+    "gümrü",
+    "gürbu",
+    "ilgil",
+    "ilçes",
+    "iran",
+    "işlem",
+    "kapıs",
+    "kilo",
+    "kısmı",
+    "madde",
+    "metam",
+    "nda",
+    "nın",
+    "olayl",
+    "poşet",
+    "sarkı",
+    "sürdü",
+    "tanke",
+    "uyuşt",
+    "valil",
+    "yük",
+    "üzere"
+   ],
+   "at": "2026-11-23T00:36:03.853367+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "115b95a449",
-   "post_id": "529346797199852_1475067044733003",
-   "title": "Atakum’da işçilerin oturma eylemi dokuzuncu gününde: Emekçilerden Özel’e çağrı",
-   "at": "2026-11-21T00:05:10.541311+00:00",
-   "yazim": "claude",
-   "metin": "Atakum'da oturma eyleminin sözcüsü Fatma Ayyıldız, Özgür Özel'e seslendi:\n\n“Emekçinin ve alın terinin yanında duran yeni yönetim anlayışınızla, yaşadığımız bu mağduriyetin giderilmesini bekliyoruz. Bizler sadece ekmeğimizin ve hakkımızın peşindeyiz, sesimizin duyulmasını istiyoruz.”\n\n— Samsun'da Atakum Belediyesi'nin işten çıkardığı işçiler, belediye binası önünde oturma eylemini dokuzuncu gününde sürdürüyor.\n— Eski CHP il başkanları Hayri Erdönmez ve Dinçer Soylu, eylemdeki işçileri ziyaret ederek dayanışma gösterdi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/atakum-da-iscilerin-oturma-eylemi-dokuzuncu-gununde-emekcilerden-ozel-e-cagri-2557985"
-   ]
-  },
   {
    "id": "8f189d00cb",
    "post_id": "529346797199852_1475074624732245",
@@ -14215,6 +14194,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/wwf-turkiye-den-cop31-e-tepki-buyuk-bir-hayal-kirikligi-yaratti-747860"
    ]
+  },
+  {
+   "id": "2f3d99ec28",
+   "post_id": "529346797199852_1477231297849911",
+   "title": "Tankerde 271 kilo uyuşturucu ele geçirildi",
+   "at": "2026-11-23T00:36:03.853367+00:00",
+   "yazim": "claude",
+   "metin": "Ağrı'nın Doğubayazıt ilçesindeki Gürbulak Gümrük Kapısı'nda bir tankerde 271 kilo 750 gram uyuşturucu ele geçirildi.\n\n— İran'dan Türkiye'ye girmek üzere gelen tankerin dorse yük kısmında, ip ve poşetle sarkıtılarak gizlenmiş madde bulundu.\n— Gümrük ekipleri 121 kilo 400 gram metamfetamin ve 150 kilo 350 gram esrar buldu.\n— Valilik, olayla ilgili adli işlemlerin sürdüğünü bildirdi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tankerde-271-kilo-uyusturucu-ele-gecirildi-2558448"
+   ]
   }
  ],
  "fails": {
@@ -14376,15 +14366,11 @@
   "ceaa785156": 1,
   "19e6cbaa28": 1,
   "af06c12650": 1,
-  "c39ef5a494": 1
+  "c39ef5a494": 1,
+  "7c25cc4400": 1,
+  "df41502e98": 1
  },
  "fail_log": [
-  "2026-11-22T21:00 İstanbul’daki aslanı ararken görüntülenen Abdülkerim Bardakc -> ValueError: yanıt okunamadı",
-  "2026-11-22T21:00 İstanbul’daki aslanı ararken görüntülenen Abdülkerim Bardakc -> ValueError: yanıt okunamadı",
-  "2026-11-22T21:00 İstanbul’daki aslanı ararken görüntülenen Abdülkerim Bardakc -> ValueError: yanıt okunamadı",
-  "2026-11-22T21:25 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı",
-  "2026-11-22T21:25 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı",
-  "2026-11-22T21:25 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı",
   "2026-11-22T21:25 HGS için de fon modeli: Kamuoyu baskısı adım attırdı -> ValueError: yanıt okunamadı",
   "2026-11-22T21:37 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı",
   "2026-11-22T21:37 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
@@ -14418,7 +14404,13 @@
   "2026-11-22T23:29 Her gün ‘bugün son’ stresiyle işe geliyoruz -> ValueError: yanıt okunamadı",
   "2026-11-22T23:29 Her gün ‘bugün son’ stresiyle işe geliyoruz -> ValueError: yanıt okunamadı",
   "2026-11-22T23:29 Her gün ‘bugün son’ stresiyle işe geliyoruz -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:29 HABAŞ katliamına İngiliz’den tam not -> ValueError: cümle yarım kalmış: '— Aynı dön'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-22T23:29 HABAŞ katliamına İngiliz’den tam not -> ValueError: cümle yarım kalmış: '— Aynı dön'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-23T00:36 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
+  "2026-11-23T00:36 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
+  "2026-11-23T00:36 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
+  "2026-11-23T00:36 Kredi adımı zengine yaradı -> ValueError: yanıt okunamadı",
+  "2026-11-23T00:36 Kredi adımı zengine yaradı -> ValueError: cümle yarım kalmış: '“Bu karar kiracıyı ev sah”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-23T00:36 Kredi adımı zengine yaradı -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
  ],
  "x": {
   "bpthaber": {
