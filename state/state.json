@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "binad",
-    "katlı",
-    "küçük",
-    "var",
-    "yangı",
-    "yaral"
-   ],
-   "tok": [
-    "akif",
-    "anlat",
-    "araşt",
-    "avşar",
-    "başla",
-    "binad",
-    "binan",
-    "bodru",
-    "bölün",
-    "daire",
-    "duman",
-    "edere",
-    "ekipl",
-    "ercan",
-    "esnaf",
-    "facia",
-    "gece",
-    "geldi",
-    "görüy",
-    "hasta",
-    "ihtim",
-    "ilçes",
-    "incel",
-    "itfai",
-    "kalan",
-    "katlı",
-    "katta",
-    "katın",
-    "kiray",
-    "kunda",
-    "kurta",
-    "küçük",
-    "mahal",
-    "mahsu",
-    "mehme",
-    "müdah",
-    "ndeki",
-    "odala",
-    "olabi",
-    "olay",
-    "olayı",
-    "saat",
-    "sağlı",
-    "sonuc",
-    "söndü",
-    "sürdü",
-    "sürül",
-    "sıral",
-    "tedav",
-    "var",
-    "veril",
-    "yangı",
-    "yarıs",
-    "yerin",
-    "zehir",
-    "çıkan",
-    "çıkmı",
-    "çıktı",
-    "öne",
-    "öğren"
-   ],
-   "at": "2026-11-22T07:01:33.689360+00:00"
-  },
-  {
-   "fp": [
     "3",
     "36",
     "alına",
@@ -10453,22 +10379,54 @@
     "ımıza"
    ],
    "at": "2026-11-23T18:59:40.591583+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "hayva",
+    "kavga",
+    "pazar",
+    "silah",
+    "yaral",
+    "ölü"
+   ],
+   "tok": [
+    "altın",
+    "alınd",
+    "alını",
+    "arası",
+    "başla",
+    "biri",
+    "bıçak",
+    "can",
+    "diğer",
+    "dönüş",
+    "emir",
+    "grup",
+    "hasta",
+    "hayva",
+    "ilçes",
+    "kaldı",
+    "karde",
+    "kavga",
+    "kayse",
+    "kaçan",
+    "melik",
+    "nin",
+    "pazar",
+    "silah",
+    "sonuc",
+    "tartı",
+    "tedav",
+    "yaşın",
+    "çalış",
+    "çocuk",
+    "çıkan"
+   ],
+   "at": "2026-11-23T19:12:18.203725+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ea1b31c75e",
-   "post_id": "529346797199852_1475787861327588",
-   "title": "Galatasaray zirvede hata yapmadı: 2-1",
-   "at": "2026-11-21T15:15:43.565536+00:00",
-   "yazim": "claude",
-   "metin": "Galatasaray, Trendyol Süper Lig'in 12. haftasında Samsunspor'u 2-1 yenerek liderliğini sürdürdü.\n\nSarı-kırmızılılar, ilk yarıyı Torreira'nın golüyle 1-0 önde kapattı. İkinci yarıda Yunus Akgün ile farkı ikiye çıkardı. Bayo'nun golü konuk ekibe umut verdi ama skor değişmedi.\n\n— Bu galibiyetle Galatasaray ligde üst üste altıncı galibiyetini aldı ve puanını 31'e yükseltti.\n\n— İç sahadaki yenilmezlik serisi 42 maça çıktı. Bu, kulüp tarihinin en uzun iç saha serisi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/live-galatasaray-2-1-samsunspor-mac-ozeti-aslan-basaksehirde-rekor-kirdi-3496119",
-    "Evrensel: https://www.evrensel.net/haber/6010574/galatasaray-samsunspor-2-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/spor-haberleri/galatasaray-zirvede-hata-yapmadi-2-1-2085493"
-   ]
-  },
   {
    "id": "a9b7a4f837",
    "post_id": "529346797199852_1475802487992792",
@@ -13032,6 +12990,19 @@
     "BirGün: https://www.birgun.net/haber/tbb-baskani-yuceer-ne-bir-korku-ne-de-kisisel-ikbal-yonlendirmesiyle-bu-karari-almis-degiliz-748037",
     "Diken: https://www.diken.com.tr/akpye-gecen-candan-yuceerin-en-buyuk-motivasyonu-hizmetmis/?utm_source=rss&utm_medium=rss&utm_campaign=akpye-gecen-candan-yuceerin-en-buyuk-motivasyonu-hizmetmis"
    ]
+  },
+  {
+   "id": "3c0913efcb",
+   "post_id": "529346797199852_1478156557757385",
+   "title": "Kayseri'de iki grup arasında bıçaklı kavga: 1'i çocuk 2 kardeş yaralandı",
+   "at": "2026-11-23T19:12:18.203725+00:00",
+   "yazim": "claude",
+   "metin": "Kayseri'nin Melikgazi ilçesinde iki grup arasındaki tartışma bıçaklı kavgaya dönüştü, 2 kardeş yaralandı.\n\nYaralanan kardeşlerden biri 20 yaşında, diğeri 16 yaşında. Hastaneye kaldırılan iki kardeş tedavi altına alındı.\n\n— Kavgadan sonra kaçan şüphelileri yakalamak için çalışma başlatıldı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/hayvan-pazarinda-silahli-kavga-1-olu-1-yarali-43388458",
+    "Habertürk: https://www.haberturk.com/gundem/corum-da-hayvan-pazarinda-silahli-kavga-1-olu-1-yarali-3929548",
+    "BirGün: https://www.birgun.net/haber/kayseri-de-iki-grup-arasinda-bicakli-kavga-1-i-cocuk-2-kardes-yaralandi-748032"
+   ]
   }
  ],
  "fails": {
@@ -13199,12 +13170,10 @@
   "029faaa319": 1,
   "2ea4df4853": 1,
   "dca172d446": 2,
-  "f218cc5a7d": 1
+  "f218cc5a7d": 1,
+  "520ac2ba5b": 1
  },
  "fail_log": [
-  "2026-11-23T05:21 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
-  "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
-  "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
   "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
   "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
   "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
@@ -13241,12 +13210,15 @@
   "2026-11-23T15:56 Cumhurbaşkanı Erdoğan: Bunlar sadece başlangıç. -> ValueError: yanıt okunamadı",
   "2026-11-23T15:56 Cumhurbaşkanı Erdoğan: Bunlar sadece başlangıç. -> ValueError: yanıt okunamadı",
   "2026-11-23T15:56 Cumhurbaşkanı Erdoğan: Bunlar sadece başlangıç. -> ValueError: yanıt okunamadı",
-  "2026-11-23T18:47 Silvan’da \"ölüm mağarası\" bulundu: Başsavcılığa acil soruştu -> ValueError: metin çok uzun"
+  "2026-11-23T18:47 Silvan’da \"ölüm mağarası\" bulundu: Başsavcılığa acil soruştu -> ValueError: metin çok uzun",
+  "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı",
+  "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı",
+  "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124940229882593770",
+   "since_id": "2124942636247310727",
    "started": true
   },
   "ajansmuhbir1923": {
