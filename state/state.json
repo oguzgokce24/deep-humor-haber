@@ -2,72 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "36",
-    "alına",
-    "endon",
-    "fabri",
-    "işçi",
-    "kayıp",
-    "kişi",
-    "kişid",
-    "yangı",
-    "öldü",
-    "şeker"
-   ],
-   "tok": [
-    "ajans",
-    "alevl",
-    "alına",
-    "arama",
-    "atışt",
-    "bante",
-    "bazlı",
-    "bazı",
-    "başla",
-    "bunla",
-    "bölge",
-    "bölüm",
-    "cakar",
-    "ekipl",
-    "endon",
-    "etkis",
-    "eyale",
-    "fabri",
-    "fazla",
-    "geçme",
-    "işçi",
-    "işçid",
-    "işçiy",
-    "kayıp",
-    "kişid",
-    "komşu",
-    "kurta",
-    "nın",
-    "rağme",
-    "saatt",
-    "sardı",
-    "sürdü",
-    "süre",
-    "sürüy",
-    "süt",
-    "ulaşm",
-    "ulusa",
-    "yangı",
-    "yaşam",
-    "yitir",
-    "çalış",
-    "çıkan",
-    "çıktı",
-    "ünün",
-    "ürete",
-    "üzeri",
-    "şeker"
-   ],
-   "at": "2026-11-22T07:14:10.535034+00:00"
-  },
-  {
-   "fp": [
     "12",
     "yaşın",
     "çocuk"
@@ -10424,21 +10358,92 @@
     "çıkan"
    ],
    "at": "2026-11-23T19:12:18.203725+00:00"
+  },
+  {
+   "fp": [
+    "gazze",
+    "israi",
+    "zehir"
+   ],
+   "tok": [
+    "akden",
+    "akıyo",
+    "altın",
+    "amita",
+    "arazi",
+    "arıtm",
+    "arıtı",
+    "asbes",
+    "atıks",
+    "ağır",
+    "behar",
+    "bekle",
+    "belir",
+    "bugün",
+    "bular",
+    "bölge",
+    "büyük",
+    "dan",
+    "deki",
+    "deniz",
+    "devam",
+    "devre",
+    "dioks",
+    "dönüş",
+    "dışı",
+    "edili",
+    "eleşt",
+    "enkaz",
+    "etmes",
+    "fazla",
+    "filis",
+    "gazze",
+    "gelec",
+    "göre",
+    "görül",
+    "hem",
+    "ifade",
+    "ingil",
+    "israi",
+    "kaldı",
+    "kalın",
+    "kanal",
+    "karış",
+    "kirli",
+    "kurul",
+    "metal",
+    "neden",
+    "oluşt",
+    "onlar",
+    "oxfam",
+    "patla",
+    "profe",
+    "rapor",
+    "stand",
+    "sular",
+    "suyu",
+    "sürdü",
+    "sızıy",
+    "tamam",
+    "tehdi",
+    "tesis",
+    "topra",
+    "undan",
+    "uzman",
+    "yardı",
+    "yeral",
+    "yüzde",
+    "yıl",
+    "zehir",
+    "çevir",
+    "çevre",
+    "çorak",
+    "şöyle"
+   ],
+   "at": "2026-11-23T19:39:55.388933+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a9b7a4f837",
-   "post_id": "529346797199852_1475802487992792",
-   "title": "30 yıllık el emeği kış öncesi vatandaşın imdadına yetişiyor: Yüksekovalı usta geleneksel zanaatı yaşatıyor!",
-   "at": "2026-11-21T15:32:28.464705+00:00",
-   "yazim": "claude",
-   "metin": "Hakkari'nin Yüksekova ilçesinde yaklaşık 30 yıldır ayakkabı tamiri yapan Lokman İyinç, kış öncesi vatandaşların yıpranmış bot ve ayakkabılarını yeniden kullanıma kazandırıyor.\n\nLokman İyinç, masrafların artışını anlatırken:\n\n“Önümüz kış ve bu mevsimde masraflar vatandaşlara biraz daha ağır geliyor. İnsanlar çocuklarına bot ve kışlık ihtiyaçlarını alacak.”\n\n— Usta İyinç, günde ortalama 20 ila 30 çift ayakkabının dikim ve onarımını yapıyor.\n— Sıfır ürün almakta zorlanan vatandaşlar için eski ayakkabıları tamir edip yeniden giyilebilir hale getiriyor.\n— Makinelerle seri üretimin yaygınlaştığı bir dönemde el emeğini sürdürüyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/turkiye/yuksekovada-30-yillik-ayakkabi-ustaligi-fabrikasyona-karsi-el-emegini-yasatiyor-3496244",
-    "Karar: https://www.karar.com/insan-haberleri/30-yillik-el-emegi-kis-oncesi-vatandasin-imdadina-yetisiyor-yuksekovali-2085492"
-   ]
-  },
   {
    "id": "fa30479607",
    "post_id": "529346797199852_1475813117991729",
@@ -13003,6 +13008,18 @@
     "Habertürk: https://www.haberturk.com/gundem/corum-da-hayvan-pazarinda-silahli-kavga-1-olu-1-yarali-3929548",
     "BirGün: https://www.birgun.net/haber/kayseri-de-iki-grup-arasinda-bicakli-kavga-1-i-cocuk-2-kardes-yaralandi-748032"
    ]
+  },
+  {
+   "id": "3acaa4f462",
+   "post_id": "529346797199852_1478186884421019",
+   "title": "Oxfam: İsrail saldırıları Gazze'yi 'zehirli bir çorak araziye' dönüştürdü",
+   "at": "2026-11-23T19:39:55.388933+00:00",
+   "yazim": "claude",
+   "metin": "Oxfam'ın yeni raporuna göre İsrail'in saldırıları Gazze'yi zehirli bir çorak araziye çevirdi. Bölgenin yüzde 99'undan fazlasında çevre kirliliği görülüyor.\n\n— Raporda ağır metaller, patlayıcı kalıntıları, asbest ve dioksinlerin Filistinliler için tehdit oluşturduğu belirtiliyor.\n\n— Bu tehdidin hem bugün sürdüğü hem de gelecek onlarca yıl devam etmesinin beklendiği ifade ediliyor.\n\n— Gazze'deki altı atıksu arıtma tesisinin tamamı devre dışı kaldığı için arıtılmamış kanalizasyon suyu yeraltı sularına ve Akdeniz'e karışıyor.\n\n— Oxfam'dan Amitabh Behar şöyle dedi: “Arıtılmamış kanalizasyon suyu denize akıyor, toprağa sızıyor.”\n\n— İsrail'in İngiltere Büyükelçiliği raporu “profesyonel standartların altında” bularak eleştirdi.",
+   "sources": [
+    "BBC Türkçe: https://www.bbc.com/turkce/articles/c6174rxvk8pgo?at_medium=RSS&at_campaign=rss",
+    "Diken: https://www.diken.com.tr/uzmanlar-israil-gazzeyi-zehirli-bir-enkaza-cevirdi/?utm_source=rss&utm_medium=rss&utm_campaign=uzmanlar-israil-gazzeyi-zehirli-bir-enkaza-cevirdi"
+   ]
   }
  ],
  "fails": {
@@ -13174,7 +13191,6 @@
   "520ac2ba5b": 1
  },
  "fail_log": [
-  "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
   "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
   "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
   "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
@@ -13213,12 +13229,13 @@
   "2026-11-23T18:47 Silvan’da \"ölüm mağarası\" bulundu: Başsavcılığa acil soruştu -> ValueError: metin çok uzun",
   "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı",
   "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı",
-  "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı"
+  "2026-11-23T19:12 GTA 6 sızıntılarıyla tanınan Cyberleek, \"Erken Noel hediyesi -> ValueError: yanıt okunamadı",
+  "2026-11-23T19:40 Oxfam: İsrail saldırıları Gazze'yi 'zehirli bir çorak araziy -> ValueError: cümle yarım kalmış: 'evresel savaş suçları” işlemekle suçladı'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124942636247310727",
+   "since_id": "2124950913257210212",
    "started": true
   },
   "ajansmuhbir1923": {
