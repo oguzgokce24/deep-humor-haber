@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "artık",
-    "başka"
-   ],
-   "tok": [
-    "artık",
-    "bakıy",
-    "güç",
-    "kimli",
-    "korku",
-    "tedir",
-    "yıl",
-    "çatış",
-    "şekil"
-   ],
-   "at": "2026-11-22T02:14:32.719263+00:00"
-  },
-  {
-   "fp": [
-    "alaca",
-    "ayakt",
-    "gaspı",
-    "hak",
-    "işçil",
-    "sürüy",
-    "tekst"
-   ],
-   "tok": [
-    "alaca",
-    "ayakt",
-    "belir",
-    "bin",
-    "birik",
-    "bulun",
-    "dahil",
-    "devam",
-    "değil",
-    "eylem",
-    "fabri",
-    "fazla",
-    "gaspı",
-    "hak",
-    "isted",
-    "işçil",
-    "kyr",
-    "maaş",
-    "mesai",
-    "olmad",
-    "sürüy",
-    "tabu",
-    "tazmi",
-    "tekst",
-    "topla",
-    "tutar",
-    "yakla",
-    "yapıl",
-    "çalış",
-    "ödeme",
-    "ödenm"
-   ],
-   "at": "2026-11-22T02:14:38.026962+00:00"
-  },
-  {
-   "fp": [
     "akp",
     "bağla",
     "fon",
@@ -10536,22 +10473,101 @@
     "şoför"
    ],
    "at": "2026-11-23T14:13:58.593018+00:00"
+  },
+  {
+   "fp": [
+    "adı",
+    "bulun",
+    "cinay",
+    "emniy",
+    "eski",
+    "evind",
+    "genel",
+    "genna",
+    "geçiy",
+    "giann",
+    "mafya",
+    "müdür",
+    "soruş",
+    "ölü"
+   ],
+   "tok": [
+    "adı",
+    "alınm",
+    "arası",
+    "bağla",
+    "başla",
+    "bekle",
+    "birli",
+    "borse",
+    "bulun",
+    "cinay",
+    "cosa",
+    "daki",
+    "doğru",
+    "emniy",
+    "engel",
+    "eski",
+    "etmiş",
+    "ettiğ",
+    "evind",
+    "genel",
+    "genna",
+    "gerçe",
+    "geçiy",
+    "giann",
+    "gitmi",
+    "gross",
+    "görev",
+    "hafta",
+    "hapsi",
+    "ilişk",
+    "intih",
+    "ise",
+    "isten",
+    "italy",
+    "itira",
+    "karşı",
+    "konuy",
+    "kır",
+    "mafya",
+    "manfr",
+    "mücad",
+    "müdür",
+    "nostr",
+    "nun",
+    "nın",
+    "olabi",
+    "onunl",
+    "oynay",
+    "oğlu",
+    "paolo",
+    "parça",
+    "redde",
+    "rol",
+    "savcı",
+    "taleb",
+    "tanın",
+    "teşvi",
+    "toska",
+    "yakın",
+    "yapmı",
+    "yaşın",
+    "yetki",
+    "yürüt",
+    "yılla",
+    "yılın",
+    "çalış",
+    "öldür",
+    "ölümü",
+    "öneml",
+    "önümü",
+    "şunla"
+   ],
+   "at": "2026-11-23T14:26:35.890989+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2eeac5bf45",
-   "post_id": "529346797199852_1475516981354676",
-   "title": "Bedriye'nin ölümünde düğümü çözecek ifade: Son sözlerini anlattı",
-   "at": "2026-11-21T10:34:07.516963+00:00",
-   "yazim": "claude",
-   "metin": "Midyat'ta beşinci kattan düşen 27 yaşındaki bir kadının eşi, kasten öldürme suçlamasıyla yargılanıyor.\n\n— Olay 11 Ağustos'ta Mardin'in Midyat ilçesinde yaşandı. Kadın, oturduğu binanın beşinci katındaki dairenin penceresinden düşerek hayatını kaybetti.\n\n— Sanık, suçlamayı reddetti. Tartışma sırasında eşini tutmaya çalıştığını ama engelleyemediğini savundu.\n\n— Alt komşu H.A., sanığın merdivende \"Onu aşağı attım\" dediğini anlattı.\n\n— Ailenin avukatı, \"Bedriye Naz pencereden atlamadı. Naz, pencereden atıldı.\" dedi.\n\n— Mahkeme tutukluluğun devamına karar verdi. Duruşma 30 Kasım'a ertelendi.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/galeri-bedriyenin-olumunde-dugumu-cozecek-ifade-son-sozlerini-anlatti-1751899",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/bedriye-naz-davasinda-sanik-suclamalari-reddetti-4875121",
-    "Evrensel: https://www.evrensel.net/haber/6010530/bedriye-naz-in-olumune-iliskin-davada-tanik-ifadeleri-sanik-levent-naz-onu-asagi-attim-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "e4f6c26e70",
    "post_id": "529346797199852_1475528758020165",
@@ -13104,6 +13120,17 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/urla/urladaki-is-insani-cinayetinde-kizi-dahil-4-kisi-tutuklandi-3497047",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/is-insani-bekir-kayabasi-nin-oldurulmesi-kizi-dahil-4-kisi-tutuklandi-2558686",
     "Evrensel: https://www.evrensel.net/haber/6010831/tekstil-patronunun-cinayetinde-kizi-dahil-4-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "bb1d7d7e27",
+   "post_id": "529346797199852_1477902951116079",
+   "title": "Mafya cinayeti soruşturmasında adı geçiyordu: Eski Emniyet Genel Müdürü Gianni De Gennaro evinde ölü bulundu",
+   "at": "2026-11-23T14:26:35.890989+00:00",
+   "yazim": "claude",
+   "metin": "İtalya'nın eski Emniyet Genel Müdürü Gianni De Gennaro, Toskana'daki kır evinde ölü bulundu.\n\n78 yaşındaki De Gennaro, 2000-2007 yılları arasında Emniyet Genel Müdürü olarak görev yapmış ve Cosa Nostra mafyasına karşı yürüttüğü operasyonlarla tanınmıştı.\n\n— Paolo Borsellino'nun 1992'de öldürülmesine ilişkin soruşturmada ev hapsine alınması istenmişti. Mahkeme bu talebi reddetmişti.\n— Savcılar, karara itiraz etmişti. İtirazın önümüzdeki haftalarda karara bağlanması bekleniyordu.\n— Konuya yakın bir yetkili, ölümün intihar olduğunu doğruladı. Grosseto savcıları intihara teşvik şüphesiyle soruşturma başlattı.\n\nBorsellino'nun oğlu Manfredi Borsellino ise şunları söyledi:\n\n“Gerçeğin bir parçası daha onunla birlikte gitmiş olabilir.”",
+   "sources": [
+    "Karar: https://www.karar.com/dunya-haberleri/mafya-cinayeti-sorusturmasinda-adi-geciyordu-eski-emniyet-genel-muduru-2085796"
    ]
   }
  ],
