@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "500",
-    "81",
-    "baskı",
-    "bin",
-    "ele",
-    "geçir",
-    "hap",
-    "izmir",
-    "opera",
-    "sente",
-    "uyuşt",
-    "zehir"
-   ],
-   "tok": [
-    "adres",
-    "alınd",
-    "ardın",
-    "ayrıc",
-    "baskı",
-    "basım",
-    "belir",
-    "bin",
-    "borno",
-    "boş",
-    "bulun",
-    "düzen",
-    "dışı",
-    "ecza",
-    "ekipl",
-    "emniy",
-    "evde",
-    "evdek",
-    "eve",
-    "hamma",
-    "hap",
-    "ilçes",
-    "imala",
-    "istih",
-    "izmir",
-    "işlem",
-    "kapsü",
-    "kilo",
-    "kimya",
-    "mücad",
-    "müdür",
-    "narko",
-    "ortay",
-    "plaka",
-    "sente",
-    "sorgu",
-    "suçla",
-    "sürdü",
-    "tacir",
-    "tüfek",
-    "uyuşt",
-    "yapıl",
-    "yasa",
-    "zaman",
-    "zehir",
-    "çalış",
-    "çiğli",
-    "çıktı",
-    "üreti"
-   ],
-   "at": "2026-11-22T06:36:17.265628+00:00"
-  },
-  {
-   "fp": [
     "17",
     "9",
     "ara",
@@ -10460,24 +10392,81 @@
     "üzeri"
    ],
    "at": "2026-11-23T18:34:22.785153+00:00"
+  },
+  {
+   "fp": [
+    "acil",
+    "başsa",
+    "bulun",
+    "mağar",
+    "silva",
+    "soruş",
+    "çağrı",
+    "ölüm"
+   ],
+   "tok": [
+    "acil",
+    "adli",
+    "ait",
+    "akden",
+    "alanı",
+    "altın",
+    "alınm",
+    "andır",
+    "ateşl",
+    "avuka",
+    "açılm",
+    "baros",
+    "bazı",
+    "başsa",
+    "başvu",
+    "bulun",
+    "delik",
+    "derne",
+    "diyar",
+    "dna",
+    "fırat",
+    "gönde",
+    "gördü",
+    "hakla",
+    "heyet",
+    "hukuk",
+    "ihd",
+    "ilçes",
+    "incel",
+    "insan",
+    "isted",
+    "izini",
+    "kafat",
+    "kalın",
+    "kasım",
+    "kayıp",
+    "kemik",
+    "kemiğ",
+    "korum",
+    "kurum",
+    "küçük",
+    "mağar",
+    "olabi",
+    "oluşa",
+    "sayıd",
+    "silah",
+    "silva",
+    "talep",
+    "tıp",
+    "yakın",
+    "çağrı",
+    "çocuk",
+    "ölüm",
+    "örgüt",
+    "örneğ",
+    "özgür",
+    "şubes"
+   ],
+   "at": "2026-11-23T18:47:06.577945+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "08ebf4b15e",
-   "post_id": "529346797199852_1475756351330739",
-   "title": "Temel kazısında toprak kayması. Bir işçi toprak altında kaldı",
-   "at": "2026-11-21T14:51:27.466981+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Güngören'de temel kazısında toprak kayması oldu, bir işçi toprak altında kaldı.\n\n— Bölgeye çok sayıda ekip yöneldi, ekipler işçiyi çıkarmak için çalışmaya başladı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/gungorende-temel-kazisinda-gocuk-bir-isci-toprak-altinda-kaldi-7705182",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-gungorende-temel-kazisinda-gocuk-3496254",
-    "NTV: https://www.ntv.com.tr/turkiye/temel-kazisinda-toprak-kaymasi-bir-isci-toprak-altinda-kaldi-1751946",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/gungorende-temel-kazisinda-toprak-kaymasi-1-isci-toprak-altinda-kaldi-4875247",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/gungorende-temel-kazisinda-gocuk-bir-isci-toprak-altinda-kaldi-7705182"
-   ]
-  },
   {
    "id": "87cb622150",
    "post_id": "529346797199852_1475767677996273",
@@ -13038,6 +13027,17 @@
     "BirGün: https://www.birgun.net/haber/iran-ordusu-duyurdu-basra-korfezi-nde-abd-ye-ait-iha-dusuruldu-748033",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/iran-ordusu-duyurdu-abdye-ait-iha-hurmuzde-dusuruldu-7706467"
    ]
+  },
+  {
+   "id": "ce9c1e67cd",
+   "post_id": "529346797199852_1478136321092742",
+   "title": "Silvan’da \"ölüm mağarası\" bulundu: Başsavcılığa acil soruşturma çağrısı",
+   "at": "2026-11-23T18:47:06.577945+00:00",
+   "yazim": "claude",
+   "metin": "Diyarbakır'ın Silvan ilçesinde bir mağarada çok sayıda insan kafatası ve kemiği bulundu.\n\nİnsan hakları örgütleri ve avukatlar, Silvan Cumhuriyet Başsavcılığına başvurarak soruşturma açılmasını ve alanın koruma altına alınmasını istedi.\n\n— İHD, Diyarbakır Barosu ve Özgürlük İçin Hukukçular Derneği Diyarbakır Şubesinden oluşan heyet, 19 Kasım'da mağarayı inceledi.\n\n— Heyetteki Fırat Akdeniz, bazı kafataslarında ateşli silah izini andıran delikler ve çocuklara ait olabilecek küçük kafataslar gördüklerini söyledi.\n\n— Kurumlar, kalıntıların Adli Tıp Kurumuna gönderilmesini ve kayıp yakınlarından DNA örneği alınmasını talep etti.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010877/silvan-da-olum-magarasi-bulundu-bassavciliga-acil-sorusturma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13209,7 +13209,6 @@
  },
  "fail_log": [
   "2026-11-23T05:21 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
-  "2026-11-23T05:21 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
   "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
   "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
   "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
@@ -13247,12 +13246,13 @@
   "2026-11-23T15:06 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
   "2026-11-23T15:56 Cumhurbaşkanı Erdoğan: Bunlar sadece başlangıç. -> ValueError: yanıt okunamadı",
   "2026-11-23T15:56 Cumhurbaşkanı Erdoğan: Bunlar sadece başlangıç. -> ValueError: yanıt okunamadı",
-  "2026-11-23T15:56 Cumhurbaşkanı Erdoğan: Bunlar sadece başlangıç. -> ValueError: yanıt okunamadı"
+  "2026-11-23T15:56 Cumhurbaşkanı Erdoğan: Bunlar sadece başlangıç. -> ValueError: yanıt okunamadı",
+  "2026-11-23T18:47 Silvan’da \"ölüm mağarası\" bulundu: Başsavcılığa acil soruştu -> ValueError: metin çok uzun"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124932805432144012",
+   "since_id": "2124935414427328840",
    "started": true
   },
   "ajansmuhbir1923": {
