@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ekmek",
-    "eğiti",
-    "özgür"
-   ],
-   "tok": [
-    "anma",
-    "asker",
-    "atina",
-    "bulun",
-    "cunta",
-    "diren",
-    "doldu",
-    "ekmek",
-    "eleft",
-    "eylem",
-    "eğiti",
-    "haykı",
-    "iktid",
-    "işgal",
-    "karşı",
-    "kasım",
-    "ndeki",
-    "pedia",
-    "psomi",
-    "selan",
-    "sloga",
-    "sokak",
-    "tekni",
-    "tören",
-    "ulusa",
-    "yaşam",
-    "yitir",
-    "yönet",
-    "yıl",
-    "özgür",
-    "ünive"
-   ],
-   "at": "2026-11-22T04:17:33.247777+00:00"
-  },
-  {
-   "fp": [
     "artık",
     "başka"
    ],
@@ -10542,22 +10501,70 @@
     "çocuk"
    ],
    "at": "2026-11-23T16:13:52.591158+00:00"
+  },
+  {
+   "fp": [
+    "dümen",
+    "erdoğ",
+    "faşiz",
+    "gelme",
+    "hayır",
+    "kuran",
+    "muhal",
+    "ülkey"
+   ],
+   "tok": [
+    "aktör",
+    "ardın",
+    "açıka",
+    "bazı",
+    "bulun",
+    "bütçe",
+    "demok",
+    "deste",
+    "değin",
+    "diyen",
+    "dümen",
+    "eleşt",
+    "erdoğ",
+    "faşiz",
+    "fon",
+    "fırsa",
+    "gelme",
+    "görüş",
+    "hayır",
+    "hesap",
+    "ifade",
+    "ilişk",
+    "kabin",
+    "konuş",
+    "kulla",
+    "kuran",
+    "köste",
+    "mille",
+    "muhal",
+    "nın",
+    "olanl",
+    "peşin",
+    "savun",
+    "sesle",
+    "siyas",
+    "sürec",
+    "sıkıl",
+    "terör",
+    "topla",
+    "tutum",
+    "verec",
+    "veren",
+    "yapıl",
+    "yumru",
+    "ülkey",
+    "şov"
+   ],
+   "at": "2026-11-23T16:26:32.857257+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "88cccbc3d7",
-   "post_id": "529346797199852_1475623144677393",
-   "title": "Malezya'dan \"10 bin mülteci gelecek\" iddiası: İletişim Başkanlığı'ndan açıklama",
-   "at": "2026-11-21T12:31:33.872403+00:00",
-   "yazim": "claude",
-   "metin": "Malezya'dan 10 bin Rohingyalının Türkiye'ye yerleştirileceği iddiaları asılsız çıktı.\n\nİletişim Başkanlığına bağlı Dezenformasyonla Mücadele Merkezi, bazı uluslararası basın kuruluşlarında ve sosyal medya hesaplarında dolaşan bu iddiaları yalanladı.\n\nMerkez, konuyla ilgili şunları söyledi:\n\nDezenformasyonla Mücadele Merkezi:\n\n“10.000 Rohingyalının Türkiye’ye yerleştirileceğine yönelik iddialar asılsızdır.”\n\nMerkez, kamuoyundan gerçek dışı içeriklere itibar etmemesini istedi.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/malezyadan-10-bin-rohingyalinin-turkiyeye-yerlestirilecegi-iddiasina-yalanlama-1751931",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/rohingyalilarin-turkiyeye-yerlestirilecegi-iddiasi-asilsiz-4875196",
-    "BirGün: https://www.birgun.net/haber/malezya-dan-10-bin-multeci-gelecek-iddiasi-iletisim-baskanligi-ndan-aciklama-747660"
-   ]
-  },
   {
    "id": "79fe2eb470",
    "post_id": "529346797199852_1475644068008634",
@@ -13107,6 +13114,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/genclerbirligi-baskani-acikladi-galatasarayli-iki-oyuncuya-talibiz-2558710",
     "Evrensel: https://www.evrensel.net/haber/6010859/galatasaray-dan-iki-oyuncuyu-istiyorlar-biri-icin-10-yil-oynar-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Sözcü Spor: https://www.sozcu.com.tr/super-lig-baskani-acikladi-hedefinde-galatasarayli-iki-futbolcu-var-p383799"
+   ]
+  },
+  {
+   "id": "738547159f",
+   "post_id": "529346797199852_1478010617771979",
+   "title": "Erdoğan: Faşizme dümen kuran muhalefetten ülkeye hayır gelmez",
+   "at": "2026-11-23T16:26:32.857257+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı Erdoğan, muhalefete seslendi:\n\n“Sıkılı yumruklarla demokratik siyaset yapılmaz. (...) İlk fırsatta faşizme dümen kuran muhalefetten ülkeye hayır gelmez.”\n\n— Kabine toplantısının ardından konuşan Erdoğan, Terörsüz Türkiye sürecinde muhalefetin tutumunu eleştirdi.\n— Erdoğan, sürece destek verenlerle köstek olanların milletine hesap vereceğini söyledi.\n— 2027 bütçe görüşmelerine de değinen Erdoğan, bazı muhalefet aktörlerinin şov peşinde olduğunu savundu.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/erdogan-fasizme-dumen-kuran-muhalefetten-ulkeye-hayir-gelmez-2085811"
    ]
   }
  ],
