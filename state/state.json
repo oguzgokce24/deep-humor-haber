@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "5",
-    "ceyla",
-    "feci",
-    "kaza",
-    "otomo",
-    "var",
-    "yaral",
-    "çarpı",
-    "ölü",
-    "şanlı"
-   ],
-   "tok": [
-    "akşam",
-    "altın",
-    "alınd",
-    "ağır",
-    "başla",
-    "bilin",
-    "biri",
-    "can",
-    "ceyla",
-    "devle",
-    "diğer",
-    "ekipl",
-    "feci",
-    "geldi",
-    "gelen",
-    "hasta",
-    "henüz",
-    "ilgil",
-    "ilçes",
-    "incel",
-    "ise",
-    "kadın",
-    "kafa",
-    "kafay",
-    "kazay",
-    "kurta",
-    "kızıl",
-    "mahal",
-    "mardi",
-    "meyda",
-    "müdah",
-    "nde",
-    "neden",
-    "nın",
-    "otomo",
-    "pazar",
-    "rağme",
-    "saatl",
-    "saraç",
-    "sevk",
-    "sonuc",
-    "sürüc",
-    "tedav",
-    "var",
-    "yaşan",
-    "yaşın",
-    "çarpı",
-    "çocuk",
-    "ölenl",
-    "şanlı"
-   ],
-   "at": "2026-11-21T19:26:56.476431+00:00"
-  },
-  {
-   "fp": [
     "1",
     "83",
     "bin",
@@ -11070,20 +11002,83 @@
     "şampi"
    ],
    "at": "2026-11-23T07:22:14.850348+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "bakır",
+    "bina",
+    "binad",
+    "katlı",
+    "kısmi",
+    "metru",
+    "çökme",
+    "çöktü"
+   ],
+   "tok": [
+    "anıtl",
+    "bakır",
+    "bağlı",
+    "belir",
+    "bina",
+    "binad",
+    "biri",
+    "bulun",
+    "devri",
+    "düşen",
+    "edile",
+    "ekipl",
+    "enkaz",
+    "geldi",
+    "gelme",
+    "geçen",
+    "halin",
+    "henüz",
+    "ihbar",
+    "ilçes",
+    "itfai",
+    "kaldı",
+    "kapsa",
+    "katlı",
+    "kimse",
+    "kopan",
+    "kurul",
+    "kısme",
+    "kısmi",
+    "metru",
+    "meyda",
+    "moloz",
+    "ndan",
+    "neden",
+    "olay",
+    "onay",
+    "otomo",
+    "park",
+    "parça",
+    "sakin",
+    "sevk",
+    "sokak",
+    "sürdü",
+    "sürüy",
+    "sırad",
+    "tesci",
+    "yanık",
+    "yapı",
+    "yaşan",
+    "yenim",
+    "yerin",
+    "yoktu",
+    "yolda",
+    "çalış",
+    "çevre",
+    "çökme",
+    "çöktü",
+    "şansl"
+   ],
+   "at": "2026-11-23T07:34:57.137192+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "895439cffa",
-   "post_id": "529346797199852_1475278764711831",
-   "title": "Donald Trump: \"Rusya'ya karşı iyi duygular beslediğimi söylüyorlar. Putin ile harika ilişkilerim var. Bu çok iyi... Bu sayede ülkemiz güvende.\"",
-   "at": "2026-11-21T05:13:53.476198+00:00",
-   "yazim": "claude",
-   "metin": "Donald Trump, Rusya'ya yakınlık iddialarına yanıt verdi:\n\n“Rusya'ya karşı iyi duygular beslediğimi söylüyorlar.\n\nPutin ile harika ilişkilerim var. Bu çok iyi... Bu sayede ülkemiz güvende.”\n\nTrump, Rusya lideri Putin ile iyi ilişkileri olduğunu ve bunun ülkesinin güvenliğine katkı sağladığını savundu.",
-   "sources": [
-    "BPT (X): https://x.com/bpthaber/status/2124006480407892398"
-   ]
-  },
   {
    "id": "46b271bb81",
    "post_id": "529346797199852_1475290538043987",
@@ -13604,6 +13599,22 @@
     "BirGün: https://www.birgun.net/haber/sampiyonlar-ligi-nde-5-inci-haftanin-programi-747901",
     "BirGün: https://www.birgun.net/haber/galatasaray-aston-villa-karsisinda-serisini-surdurmek-istiyor-747892"
    ]
+  },
+  {
+   "id": "08f79f8b2d",
+   "post_id": "529346797199852_1477518057821235",
+   "title": "İstanbul Bakırköy'de metruk bina çöktü: Enkaz 2 aracın üzerine devrildi!",
+   "at": "2026-11-23T07:34:57.137192+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Bakırköy ilçesinde 2 katlı metruk bir bina kısmen çöktü, düşen moloz park halindeki araçların üzerine devrildi.\n\n— Olay Yenimahalle Yanıkses Sokak'ta yaşandı. Bina henüz belirlenemeyen bir nedenle çöktü.\n\n— Çevredekilerin 112'ye ihbarı üzerine itfaiye ve polis ekipleri olay yerine sevk edildi. Ekipler enkaz kaldırma çalışmalarını sürdürüyor.\n\n— Bina tescilli yapı kapsamında olduğu için enkazın kaldırılması Anıtlar Kurulu'ndan onay gelmesine bağlı.\n\n— Sokak sakinlerinden biri, \"Çok şanslıyız ki o sırada yoldan geçen kimse yoktu.\" dedi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/bakirkoyde-iki-katli-metruk-binada-kismi-cokme/4133969",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/bakirkoyde-2-katli-metruk-binada-kismi-cokme-meydana-geldi-43387526",
+    "NTV: https://www.ntv.com.tr/turkiye/video-bakirkoyde-2-katli-metruk-binada-kismi-cokme-meydana-geldi-1752149",
+    "NTV: https://www.ntv.com.tr/turkiye/istanbul-bakirkoyde-2-katli-bina-coktu-ekipler-olay-yerinde-1752143",
+    "Habertürk: https://www.haberturk.com/gundem/2-katli-metruk-binada-kismi-cokme-3929317",
+    "Sözcü: https://www.sozcu.com.tr/bakirkoy-de-2-katli-metruk-binada-kismi-cokme-p383593"
+   ]
   }
  ],
  "fails": {
@@ -13770,12 +13781,10 @@
   "2248710424": 1,
   "508dd6fd67": 1,
   "029faaa319": 1,
-  "2ea4df4853": 1
+  "2ea4df4853": 1,
+  "90eafe8309": 1
  },
  "fail_log": [
-  "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
   "2026-11-23T03:02 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
   "2026-11-23T03:02 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
   "2026-11-23T03:02 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
@@ -13812,12 +13821,15 @@
   "2026-11-23T05:46 Yarım asırdır ateşle dans ediyor: 70 yaşındaki demirci ustas -> ValueError: yanıt okunamadı",
   "2026-11-23T05:46 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
   "2026-11-23T05:46 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
-  "2026-11-23T05:46 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı"
+  "2026-11-23T05:46 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
+  "2026-11-23T07:35 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-23T07:35 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-23T07:35 T.C. SİLVAN İCRA DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124763097634361388",
+   "since_id": "2124767598458085443",
    "started": true
   },
   "ajansmuhbir1923": {
