@@ -2,106 +2,6 @@
  "seen": [
   {
    "fp": [
-    "artık",
-    "başka"
-   ],
-   "tok": [
-    "artık",
-    "bakıy",
-    "güç",
-    "kimli",
-    "korku",
-    "tedir",
-    "yıl",
-    "çatış",
-    "şekil"
-   ],
-   "at": "2026-11-21T22:24:00.898827+00:00"
-  },
-  {
-   "fp": [
-    "4",
-    "aylık",
-    "bıçak",
-    "hamil",
-    "ifade",
-    "kadın",
-    "saldı"
-   ],
-   "tok": [
-    "aldı",
-    "aldığ",
-    "alınc",
-    "aylık",
-    "bazen",
-    "bebeğ",
-    "ben",
-    "beni",
-    "bildi",
-    "bulun",
-    "bursa",
-    "bıçak",
-    "cevap",
-    "cezae",
-    "dondu",
-    "durum",
-    "ekim",
-    "etmek",
-    "geliy",
-    "gemli",
-    "gölge",
-    "gördü",
-    "görme",
-    "görüy",
-    "halis",
-    "hamil",
-    "hasta",
-    "iade",
-    "ifade",
-    "ilaç",
-    "ilçes",
-    "isted",
-    "istey",
-    "istiy",
-    "iyi",
-    "kadın",
-    "kaldı",
-    "kan",
-    "kendi",
-    "konuş",
-    "kulla",
-    "kısa",
-    "mağaz",
-    "nın",
-    "olay",
-    "olums",
-    "onlar",
-    "ortay",
-    "psiko",
-    "saatl",
-    "sabah",
-    "satın",
-    "savcı",
-    "sağlı",
-    "süre",
-    "tehli",
-    "telef",
-    "yanım",
-    "yaşan",
-    "yüzün",
-    "zaman",
-    "çalış",
-    "çekiy",
-    "çizik",
-    "çıktı",
-    "öğled",
-    "öğren",
-    "şehir"
-   ],
-   "at": "2026-11-21T22:24:10.564203+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "bilgi",
     "bulun",
@@ -10532,20 +10432,66 @@
     "ırak"
    ],
    "at": "2026-11-23T10:14:56.475067+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "gözal",
+    "izmir"
+   ],
+   "tok": [
+    "adres",
+    "ailed",
+    "aldı",
+    "aldığ",
+    "alınd",
+    "annes",
+    "babas",
+    "başla",
+    "başsa",
+    "bulun",
+    "buçuk",
+    "ceyla",
+    "cinse",
+    "dijit",
+    "diken",
+    "dolan",
+    "edili",
+    "fizik",
+    "göza",
+    "iddia",
+    "ilçes",
+    "izmir",
+    "işlem",
+    "kadın",
+    "karde",
+    "kendi",
+    "konul",
+    "kız",
+    "mater",
+    "mehdi",
+    "müdah",
+    "nın",
+    "post",
+    "suçla",
+    "sürül",
+    "sürüy",
+    "tanıt",
+    "the",
+    "uyuşt",
+    "vaadi",
+    "yakla",
+    "yaşın",
+    "çocuğ",
+    "öne",
+    "şanlı",
+    "şifa",
+    "şifac"
+   ],
+   "at": "2026-11-23T10:27:38.620583+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8a234f5106",
-   "post_id": "529346797199852_1475348401371534",
-   "title": "CHP'den Yavaş'a açık kapı: ''Cumhurbaşkanı adaylığında kendini ancak burada ifade edebilir''",
-   "at": "2026-11-21T06:58:11.602923+00:00",
-   "yazim": "claude",
-   "metin": "CHP Ankara İl Başkanı Fahri Yıldırım, bağımsız siyaset kararı alan Mansur Yavaş'a partinin kapısının açık olduğunu söyledi.\n\n— Yıldırım, Yavaş'ın partiyle ilişkisinin kesilmediğini savundu.\n\n— Cumhurbaşkanı adaylığı için CHP'yi işaret eden Yıldırım, \"Mansur Bey'in dokusuna da uygun bir parti\" dedi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/chp-den-yavas-a-acik-kapi-cumhurbaskani-adayliginda-kendini-ancak-burada-ifade-edebilir-747578"
-   ]
-  },
   {
    "id": "51ae030c26",
    "post_id": "529346797199852_1475362744703433",
@@ -13091,6 +13037,18 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/23/hakurkta-14-barinma-alani-bosaltildi",
     "NTV: https://www.ntv.com.tr/turkiye/pkk-hakurkta-14-kampi-bosaltti-1752203"
    ]
+  },
+  {
+   "id": "128e17cf89",
+   "post_id": "529346797199852_1477646694475038",
+   "title": "İzmir'de 'şifacı Mehdi': Cinsel saldırı suçlamasıyla dört gözaltı",
+   "at": "2026-11-23T10:27:38.620583+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'de kendini \"şifacı Mehdi\" olarak tanıtan bir kişi, şifa vaadiyle dolandırıcılık ve cinsel saldırı suçlamasıyla soruşturuluyor; dört kişi gözaltına alındı.\n\n— Soruşturmayı İzmir Başsavcılığı başlattı. Şüphelinin şifa vaadiyle bir aileden yaklaşık 3 milyon lira aldığı iddia ediliyor.\n\n— Bir kadına cinsel saldırıda bulunduğu, üç buçuk yaşındaki bir çocuğa da fiziksel müdahalede bulunduğu öne sürülüyor.\n\n— Polis şüpheliyi Şanlıurfa'nın Ceylanpınar ilçesinde gözaltına aldı. Babası, annesi ve kız kardeşi de gözaltına alındı.\n\n— Adresteki dijital materyallere el konuldu. Gözaltındakilerin işlemleri sürüyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/bornova/izmirde-uyusturucu-operasyonu-4-gozalti-3496910",
+    "Diken: https://www.diken.com.tr/izmirde-sifaci-mehdi-cinsel-saldiri-suclamasiyla-dort-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=izmirde-sifaci-mehdi-cinsel-saldiri-suclamasiyla-dort-gozalti"
+   ]
   }
  ],
  "fails": {
@@ -13304,7 +13262,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124808344451838050",
+   "since_id": "2124811171492728905",
    "started": true
   },
   "ajansmuhbir1923": {
