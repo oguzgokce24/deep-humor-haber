@@ -2,53 +2,6 @@
  "seen": [
   {
    "fp": [
-    "boca",
-    "junio",
-    "kazan",
-    "kupas",
-    "sudam"
-   ],
-   "tok": [
-    "ardın",
-    "atlet",
-    "boca",
-    "brezi",
-    "ekibi",
-    "enner",
-    "eski",
-    "fener",
-    "final",
-    "fred",
-    "futbo",
-    "geldi",
-    "girdi",
-    "ikinc",
-    "ise",
-    "junio",
-    "kaldı",
-    "karşı",
-    "kazan",
-    "kez",
-    "kupas",
-    "kupay",
-    "mağlu",
-    "minei",
-    "oynad",
-    "oynar",
-    "oyuna",
-    "sudam",
-    "ten",
-    "ulaşt",
-    "valen",
-    "yarıd",
-    "yener",
-    "üçünc",
-    "şampi"
-   ],
-   "at": "2026-11-22T09:18:00.953618+00:00"
-  },
-  {
-   "fp": [
     "akom",
     "dan",
     "düşec",
@@ -13178,16 +13131,12 @@
   "83268ed62e": 2,
   "f4d3025c52": 2,
   "a518460188": 2,
-  "b3019fa7e3": 1
+  "b3019fa7e3": 1,
+  "bc82a36818": 1,
+  "f073626435": 1,
+  "25b0e7074a": 1
  },
  "fail_log": [
-  "2026-11-23T13:27 2026 KPSS Ortaöğretim (Lise) Taban Puanları: KPSS 55, 58, 60 -> ValueError: yanıt okunamadı",
-  "2026-11-23T13:27 DEM Parti: 'Yeni Partinin komisyon kararı kent uzlaşısını et -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-23T13:27 DEM Parti: 'Yeni Partinin komisyon kararı kent uzlaşısını et -> ValueError: cümle yarım kalmış: 'anı'nı kastettiğini düşündüğünü belirtti'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-23T14:01 Vicdansızlığın böylesi: 7 yaşındaki kızın bisikletini yere v -> ValueError: yanıt okunamadı",
-  "2026-11-23T14:01 Vicdansızlığın böylesi: 7 yaşındaki kızın bisikletini yere v -> ValueError: yanıt okunamadı",
-  "2026-11-23T14:52 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
-  "2026-11-23T14:52 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
   "2026-11-23T14:52 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
   "2026-11-23T15:06 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
   "2026-11-23T15:06 İddia: Fon soruşturmasında Gazeteci Dilek Güngör şüpheli sıf -> ValueError: yanıt okunamadı",
@@ -13220,12 +13169,19 @@
   "2026-11-23T20:59 KESK yöneticileri Kocaeli'den çağırdı: \"12 Aralık'ta Ankara' -> ValueError: yanıt okunamadı",
   "2026-11-23T21:15 \"Gelecek gençlerin, gençler ise öğretmenlerin eseridir.\" Baş -> ValueError: yanıt okunamadı",
   "2026-11-23T21:15 \"Gelecek gençlerin, gençler ise öğretmenlerin eseridir.\" Baş -> ValueError: yanıt okunamadı",
-  "2026-11-23T21:15 \"Gelecek gençlerin, gençler ise öğretmenlerin eseridir.\" Baş -> ValueError: yanıt okunamadı"
+  "2026-11-23T21:15 \"Gelecek gençlerin, gençler ise öğretmenlerin eseridir.\" Baş -> ValueError: yanıt okunamadı",
+  "2026-11-23T21:28 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
+  "2026-11-23T21:28 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
+  "2026-11-23T21:28 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
+  "2026-11-23T21:28 Eğitim-İş araştırması: Öğretmenlerin yüzde 63,82'sinin en bü -> ValueError: yanıt okunamadı",
+  "2026-11-23T21:28 Birçok geliştirici, GTA 6'nın sızdırılan Xbox dosyalarını ya -> ValueError: yanıt okunamadı",
+  "2026-11-23T21:28 Birçok geliştirici, GTA 6'nın sızdırılan Xbox dosyalarını ya -> ValueError: yanıt okunamadı",
+  "2026-11-23T21:28 Birçok geliştirici, GTA 6'nın sızdırılan Xbox dosyalarını ya -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124972972201193595",
+   "since_id": "2124977475243647255",
    "started": true
   },
   "ajansmuhbir1923": {
