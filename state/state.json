@@ -2,88 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "2",
-    "galat",
-    "samsu"
-   ],
-   "tok": [
-    "akgün",
-    "aldı",
-    "altın",
-    "aslan",
-    "bayo",
-    "başak",
-    "değiş",
-    "edere",
-    "ekibe",
-    "ekibi",
-    "farkı",
-    "galat",
-    "galib",
-    "getir",
-    "golle",
-    "golü",
-    "golün",
-    "golüy",
-    "hafta",
-    "hata",
-    "ikinc",
-    "ikiye",
-    "kapat",
-    "kayde",
-    "konuk",
-    "korud",
-    "kulüp",
-    "kırdı",
-    "kırmı",
-    "lider",
-    "lig",
-    "ligde",
-    "lucas",
-    "maç",
-    "maça",
-    "mağlu",
-    "moham",
-    "nun",
-    "nın",
-    "puanı",
-    "rekor",
-    "saha",
-    "sahad",
-    "samsu",
-    "sarı",
-    "seris",
-    "skor",
-    "süper",
-    "sürdü",
-    "tarih",
-    "tek",
-    "torre",
-    "trend",
-    "umut",
-    "uzun",
-    "verdi",
-    "yapma",
-    "yarıd",
-    "yarıy",
-    "yener",
-    "yenil",
-    "yerin",
-    "yunus",
-    "yükse",
-    "zirve",
-    "çıkar",
-    "çıktı",
-    "önde",
-    "özeti",
-    "üst",
-    "üste"
-   ],
-   "at": "2026-11-21T15:15:43.565536+00:00"
-  },
-  {
-   "fp": [
     "30",
     "emeği",
     "yaşat",
@@ -11428,20 +11346,62 @@
     "özell"
    ],
    "at": "2026-11-23T03:15:28.760084+00:00"
+  },
+  {
+   "fp": [
+    "bekle",
+    "devri",
+    "kırmı",
+    "otomo",
+    "sakar",
+    "tır",
+    "ışıkt"
+   ],
+   "tok": [
+    "adapa",
+    "ambul",
+    "ardın",
+    "başla",
+    "bekle",
+    "bilec",
+    "devle",
+    "devri",
+    "gece",
+    "hafif",
+    "hasta",
+    "ilgil",
+    "ilçes",
+    "incel",
+    "kaldı",
+    "kara",
+    "kazay",
+    "kontr",
+    "kırmı",
+    "mahal",
+    "mekec",
+    "müdah",
+    "nde",
+    "nın",
+    "olay",
+    "otomo",
+    "pamuk",
+    "saat",
+    "sakar",
+    "sular",
+    "ticar",
+    "trafi",
+    "tır",
+    "yaşan",
+    "yerin",
+    "yolun",
+    "çıkan",
+    "ışıkl",
+    "ışıkt"
+   ],
+   "at": "2026-11-23T03:28:15.510124+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0a2931f630",
-   "post_id": "529346797199852_1475145481391826",
-   "title": "Fon mağdurları Cumhuriyet'e konuştu: ‘Paramızı hırsızın keyfine göre mi alacağız?’",
-   "at": "2026-11-21T02:00:40.609197+00:00",
-   "yazim": "claude",
-   "metin": "Fon mağduru Murat Galip Alparslan:\n\n“Bizi devlet eliyle soydular. Kamu yetkililerinin gücüyle soydular.”\n\n— Fon mağdurları, Ankara'da SPK önünde eylem yaptı.\n— Mağdurlar, ana paranın yüzde 8'ini ancak alabildiklerini söylüyor.\n— Cumhurbaşkanı Erdoğan ise mağdurların yüzde 80'inin ana parasının ödendiğini söylemişti.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-magdurlari-cumhuriyet-e-konustu-paramizi-hirsizin-keyfine-gore-mi-alacagiz-2557934"
-   ]
-  },
   {
    "id": "205e55dad8",
    "post_id": "529346797199852_1475165438056497",
@@ -13942,6 +13902,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/ozellestirme-iddialariyla-gundemdeki-tcddnin-hazine-borcu-6-2-milyar-tl-ye-dayandi-747858"
    ]
+  },
+  {
+   "id": "ab890b4376",
+   "post_id": "529346797199852_1477345314505176",
+   "title": "Sakarya'da tır, kırmızı ışıkta bekleyen aracın üzerine devrildi",
+   "at": "2026-11-23T03:28:15.510124+00:00",
+   "yazim": "claude",
+   "metin": "Sakarya'nın Pamukova ilçesinde tır, kırmızı ışıkta bekleyen hafif ticari aracın üzerine devrildi; kazada 2 kişi yaralandı.\n\n— Kaza gece saat 23.30 sularında Bilecik-Adapazarı D-650 kara yolunun Mekece Mahallesi'nde yaşandı.\n\n— Yaralılar olay yerinde yapılan ilk müdahalenin ardından ambulansla Pamukova Devlet Hastanesi'ne kaldırıldı.\n\n— Kazayla ilgili inceleme başlatıldı.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6010714/sakarya-da-tir-kirmizi-isikta-bekleyen-aracin-uzerine-devrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -14105,12 +14076,10 @@
   "af06c12650": 1,
   "c39ef5a494": 1,
   "df41502e98": 1,
-  "2248710424": 1
+  "2248710424": 1,
+  "e3d66f88ad": 1
  },
  "fail_log": [
-  "2026-11-22T23:15 ABD'de bebek partisine silahlı saldırı: 3 kişi öldü, 1 kişi  -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:29 Her gün ‘bugün son’ stresiyle işe geliyoruz -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:29 Her gün ‘bugün son’ stresiyle işe geliyoruz -> ValueError: yanıt okunamadı",
   "2026-11-22T23:29 Her gün ‘bugün son’ stresiyle işe geliyoruz -> ValueError: yanıt okunamadı",
   "2026-11-22T23:29 HABAŞ katliamına İngiliz’den tam not -> ValueError: cümle yarım kalmış: '— Aynı dön'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-23T00:36 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
@@ -14147,7 +14116,10 @@
   "2026-11-23T03:15 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
   "2026-11-23T03:15 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
   "2026-11-23T03:15 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
-  "2026-11-23T03:15 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı"
+  "2026-11-23T03:15 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:28 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:28 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı",
+  "2026-11-23T03:28 Erzincan’da 6 aylık emek hasada dönüştü: Çiftçi gece bile ta -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
