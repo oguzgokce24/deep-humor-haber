@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ceza",
-    "dere",
-    "derey",
-    "deşar",
-    "kesil",
-    "kontr",
-    "kırmı",
-    "rize",
-    "tesis",
-    "tespi",
-    "yapan"
-   ],
-   "tok": [
-    "akan",
-    "aktı",
-    "alarm",
-    "belir",
-    "boyay",
-    "ceza",
-    "cezas",
-    "dere",
-    "deren",
-    "derey",
-    "deşar",
-    "döndü",
-    "dönme",
-    "dönün",
-    "edile",
-    "gerçe",
-    "idari",
-    "iddia",
-    "kayna",
-    "kesil",
-    "kirle",
-    "kontr",
-    "kırmı",
-    "para",
-    "rengi",
-    "rize",
-    "sebeb",
-    "tesis",
-    "tespi",
-    "verdi",
-    "yapan",
-    "yapma",
-    "yaptı",
-    "yağdı"
-   ],
-   "at": "2026-11-21T17:38:25.735580+00:00"
-  },
-  {
-   "fp": [
     "düşen",
     "inşaa",
     "işçi",
@@ -11054,6 +11002,57 @@
     "üçünc"
    ],
    "at": "2026-11-23T05:33:56.254459+00:00"
+  },
+  {
+   "fp": [
+    "akciğ",
+    "bekle",
+    "belir",
+    "bilin",
+    "kanse",
+    "karşı",
+    "kriti",
+    "riski",
+    "uyarı"
+   ],
+   "tok": [
+    "akciğ",
+    "ardı",
+    "bekle",
+    "belir",
+    "bilin",
+    "edilm",
+    "erken",
+    "etken",
+    "faktö",
+    "gerek",
+    "göz",
+    "göğüs",
+    "güler",
+    "hasta",
+    "isim",
+    "kanse",
+    "karşı",
+    "kriti",
+    "kurta",
+    "maruz",
+    "mesle",
+    "oynad",
+    "payla",
+    "pek",
+    "risk",
+    "riski",
+    "rol",
+    "sigar",
+    "sinya",
+    "teşhi",
+    "uyarı",
+    "uzm",
+    "uzman",
+    "vurgu",
+    "yürek"
+   ],
+   "at": "2026-11-23T05:46:44.814159+00:00"
   }
  ],
  "posted": [
@@ -13736,16 +13735,11 @@
   "c39ef5a494": 1,
   "df41502e98": 1,
   "2248710424": 1,
-  "2aef300c00": 2,
-  "508dd6fd67": 1
+  "508dd6fd67": 1,
+  "029faaa319": 1,
+  "2ea4df4853": 1
  },
  "fail_log": [
-  "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:49 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:49 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:49 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
   "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
   "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
   "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
@@ -13779,12 +13773,18 @@
   "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
   "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
   "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
-  "2026-11-23T05:34 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı"
+  "2026-11-23T05:34 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:46 Yarım asırdır ateşle dans ediyor: 70 yaşındaki demirci ustas -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:46 Yarım asırdır ateşle dans ediyor: 70 yaşındaki demirci ustas -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:46 Yarım asırdır ateşle dans ediyor: 70 yaşındaki demirci ustas -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:46 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:46 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:46 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124736741953192033",
+   "since_id": "2124740966225691050",
    "started": true
   },
   "ajansmuhbir1923": {
