@@ -11534,6 +11534,43 @@
     "çalış"
    ],
    "at": "2026-11-23T01:11:31.938310+00:00"
+  },
+  {
+   "fp": [
+    "aşama",
+    "geliş",
+    "neden",
+    "size",
+    "söyle",
+    "yalan",
+    "zihin",
+    "çocuğ",
+    "öneml"
+   ],
+   "tok": [
+    "alışk",
+    "ancak",
+    "açık",
+    "aşama",
+    "doğru",
+    "düşün",
+    "ediyo",
+    "geliş",
+    "gerek",
+    "kaygı",
+    "nasıl",
+    "neden",
+    "olma",
+    "size",
+    "sizi",
+    "söyle",
+    "temsi",
+    "yalan",
+    "zihin",
+    "çocuğ",
+    "öneml"
+   ],
+   "at": "2026-11-23T01:27:16.744638+00:00"
   }
  ],
  "posted": [
@@ -14210,13 +14247,9 @@
   "19e6cbaa28": 1,
   "af06c12650": 1,
   "c39ef5a494": 1,
-  "7c25cc4400": 2,
   "df41502e98": 1
  },
  "fail_log": [
-  "2026-11-22T21:45 \"Bangladeş’te tekstil işçilerini eski rejim değil aşırı sömü -> ValueError: yanıt okunamadı",
-  "2026-11-22T21:58 Kaçan aslan Abdülkerim Bardakcı'nın mı? Gece yarısı yaptığı  -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-22T22:35 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-22T22:35 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-22T22:35 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-22T22:59 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
@@ -14253,7 +14286,10 @@
   "2026-11-23T01:11 Trump yine İran'ı hedef aldı: \"Yeni yıldan sonra askeri sald -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-23T01:23 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
   "2026-11-23T01:23 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
-  "2026-11-23T01:23 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı"
+  "2026-11-23T01:23 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
+  "2026-11-23T01:27 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
+  "2026-11-23T01:27 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
+  "2026-11-23T01:27 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
