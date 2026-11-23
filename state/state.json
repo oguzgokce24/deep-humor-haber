@@ -10489,21 +10489,70 @@
     "şifac"
    ],
    "at": "2026-11-23T10:27:38.620583+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "hayat",
+    "kaybe",
+    "tamir",
+    "trakt"
+   ],
+   "tok": [
+    "adam",
+    "altın",
+    "ambul",
+    "anide",
+    "arif",
+    "bilin",
+    "bozov",
+    "büyük",
+    "devle",
+    "dokto",
+    "ederk",
+    "ekipl",
+    "enver",
+    "etmes",
+    "etmey",
+    "ettiğ",
+    "gönde",
+    "harek",
+    "hasta",
+    "ihbar",
+    "ilçes",
+    "kalan",
+    "kaldı",
+    "kurta",
+    "mahal",
+    "müdah",
+    "nde",
+    "neden",
+    "nın",
+    "olay",
+    "rağme",
+    "saatl",
+    "sabah",
+    "sağlı",
+    "sonuc",
+    "sürüc",
+    "tamir",
+    "trakt",
+    "urfa",
+    "yaşam",
+    "yaşan",
+    "yaşın",
+    "yerin",
+    "yitir",
+    "yıldı",
+    "çalış",
+    "çevre",
+    "çiçek",
+    "şanlı"
+   ],
+   "at": "2026-11-23T10:40:13.088555+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "51ae030c26",
-   "post_id": "529346797199852_1475362744703433",
-   "title": "ABD'de Çin'e çip ihracatı tartışması: Schumer, Trump'ı ulusal güvenliği tehlikeye atmakla suçladı",
-   "at": "2026-11-21T07:10:57.446041+00:00",
-   "yazim": "claude",
-   "metin": "Demokrat Senatör Chuck Schumer, Çin'e çip satışına izin veren Trump yönetimi için:\n\n“Trump ve Lutnick, kendileri ve milyarder dostları için çabuk para kazanmak uğruna Amerika'nın ulusal güvenliğini sattılar.”\n\n— ABD Ticaret Bakanlığı, Aralık 2025 ile Mayıs 2026 arasında Çinli şirketlere 879 bin 868 gelişmiş Nvidia ve AMD çipinin ihracatına izin verdi.\n\n— Alibaba, Tencent, Baidu ve BYD'nin de aralarında olduğu şirketler, Savunma Bakanlığının Çin ordusuyla bağlantılı olduğu iddia edilen listede yer alıyor.\n\n— Schumer, Kongreden yapay zeka çiplerinin ihracatını sıkılaştıracak üç yasa tasarısını kabul etmesini istedi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/demokrat-senator-schumer-trumpi-cine-yapay-zeka-cipleri-satarak-ulusal-guvenligi-tehlikeye-atmakla-sucladi/4132688",
-    "Evrensel: https://www.evrensel.net/haber/6010505/abd-de-cin-e-cip-ihracati-tartismasi-schumer-trump-i-ulusal-guvenligi-tehlikeye-atmakla-sucladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "7650b534ac",
    "post_id": "529346797199852_1475372971369077",
@@ -13049,6 +13098,18 @@
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/bornova/izmirde-uyusturucu-operasyonu-4-gozalti-3496910",
     "Diken: https://www.diken.com.tr/izmirde-sifaci-mehdi-cinsel-saldiri-suclamasiyla-dort-gozalti/?utm_source=rss&utm_medium=rss&utm_campaign=izmirde-sifaci-mehdi-cinsel-saldiri-suclamasiyla-dort-gozalti"
    ]
+  },
+  {
+   "id": "fbdc5be5e4",
+   "post_id": "529346797199852_1477655664474141",
+   "title": "Tamir etmeye çalıştığı traktörün altında kaldı: 62 yaşındaki Arif Çiçek hayatını kaybetti",
+   "at": "2026-11-23T10:40:13.088555+00:00",
+   "yazim": "claude",
+   "metin": "Şanlıurfa'nın Bozova ilçesinde tamir ettiği traktörün altında kalan 62 yaşındaki bir adam hayatını kaybetti.\n\nOlay sabah saatlerinde Büyükhan Mahallesi'nde yaşandı. Traktör, adam tamir ederken bilinmeyen bir nedenle aniden hareket etti ve altında kalan adam yaralandı.\n\n— Çevredekilerin ihbarı üzerine sağlık ekipleri olay yerine gönderildi.\n— Adam ambulansla Bozova Enver Yıldırım Devlet Hastanesi'ne kaldırıldı.\n— Doktorların tüm müdahalelerine rağmen kurtarılamadı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/sanliurfa/sanliurfada-tamir-ettigi-traktorun-altinda-kalan-surucu-hayatini-kaybetti-3496896",
+    "Evrensel: https://www.evrensel.net/haber/6010780/tamir-etmeye-calistigi-traktorun-altinda-kaldi-62-yasindaki-arif-cicek-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13262,7 +13323,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124811171492728905",
+   "since_id": "2124813917989793965",
    "started": true
   },
   "ajansmuhbir1923": {
