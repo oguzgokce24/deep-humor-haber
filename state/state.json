@@ -2,79 +2,6 @@
  "seen": [
   {
    "fp": [
-    "5",
-    "akp",
-    "ankar",
-    "atik",
-    "başka",
-    "beled",
-    "fatih",
-    "geçiy",
-    "isiml",
-    "temsi",
-    "tgrt"
-   ],
-   "tok": [
-    "ahmet",
-    "akp",
-    "arala",
-    "aras",
-    "atik",
-    "ayrıl",
-    "bağım",
-    "bekle",
-    "beled",
-    "belir",
-    "besim",
-    "bodru",
-    "bulun",
-    "büyük",
-    "chp",
-    "dan",
-    "den",
-    "devam",
-    "dosya",
-    "dutlu",
-    "edece",
-    "fatih",
-    "genel",
-    "geçeb",
-    "geçec",
-    "geçiy",
-    "geçiş",
-    "göre",
-    "görev",
-    "iddia",
-    "ileri",
-    "ise",
-    "isiml",
-    "katıl",
-    "manda",
-    "manis",
-    "marma",
-    "mente",
-    "muğla",
-    "nun",
-    "olabi",
-    "olası",
-    "redde",
-    "söyle",
-    "sürdü",
-    "sürpr",
-    "tamer",
-    "temas",
-    "temsi",
-    "tgrt",
-    "yönün",
-    "yürüt",
-    "öne",
-    "özel",
-    "özgür"
-   ],
-   "at": "2026-11-21T15:57:39.842872+00:00"
-  },
-  {
-   "fp": [
     "cezas",
     "cürmü",
     "erdoğ",
@@ -11307,20 +11234,50 @@
     "ıbiri"
    ],
    "at": "2026-11-23T03:53:32.027290+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "4",
+    "açıkl",
+    "büyük",
+    "deniz",
+    "depre",
+    "ege",
+    "nde"
+   ],
+   "tok": [
+    "bilgi",
+    "bodru",
+    "büyük",
+    "deniz",
+    "depre",
+    "derin",
+    "ege",
+    "geldi",
+    "gelme",
+    "göre",
+    "hasar",
+    "herha",
+    "ilçes",
+    "kayde",
+    "kilom",
+    "mesaf",
+    "meyda",
+    "muğla",
+    "nde",
+    "nın",
+    "olums",
+    "saat",
+    "sarsı",
+    "uzakl",
+    "yakla",
+    "üssü"
+   ],
+   "at": "2026-11-23T04:05:57.885698+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "faa9a76788",
-   "post_id": "529346797199852_1475181761388198",
-   "title": "TÜİK verileri ortaya koydu: Çocukların yüzde 73,3’ü akranlarının siber zorbalığına uğruyor",
-   "at": "2026-11-21T02:55:16.943586+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'de çocukların yüzde 10,2'si siber zorbalığa maruz kalıyor.\n\n— 11-17 yaş grubunda siber zorbalığı yapanların yüzde 73,3'ü akranları oluyor.\n— Veriler TÜİK'in 2026 araştırmasından geliyor.\n— 20 Kasım Dünya Çocuk Hakları Günü'nde Eğitim Sen, Eğitim-İş ve TTB, çocuk yoksulluğu ve işçiliğine son verilmesi çağrısı yaptı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tuik-verileri-ortaya-koydu-cocuklarin-yuzde-73-3u-akranlarinin-siber-zorbaligina-ugruyor-747537"
-   ]
-  },
   {
    "id": "510b3bc1da",
    "post_id": "529346797199852_1475190568053984",
@@ -13819,6 +13776,22 @@
    "metin": "Kolombiya Cumhurbaşkanı Abelardo de la Espriella, La Jagua de Ibirico'daki askeri tabura İHA saldırısı için:\n\n“Narkoteröristler, güvenlik güçlerimize ve sivil halkımıza yönelik bu ve benzeri tüm saldırıların bedelini kanla ödeyecek.”\n\n— Cesar bölgesindeki La Jagua de Ibirico kasabasında bir askeri tabur, patlayıcı yüklü insansız hava aracıyla hedef alındı.\n\n— Saldırıda 1 asker hayatını kaybetti, 12 asker yaralandı.\n\n— Belediye Başkanı Leo Hernandez, sağlık hizmetlerinin yetersiz kaldığını söyleyerek çevre hastanelerden ambulans desteği istedi.",
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6010716/kolombiya-da-askeri-tabura-iha-saldirisi-1-kisi-yasamini-yitirdi-12-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "8385a17dfc",
+   "post_id": "529346797199852_1477371431169231",
+   "title": "Bodrum açıklarında 4.2 büyüklüğünde deprem",
+   "at": "2026-11-23T04:05:57.885698+00:00",
+   "yazim": "claude",
+   "metin": "Muğla'nın Bodrum ilçesi açıklarında, Ege Denizi'nde 4,2 büyüklüğünde deprem meydana geldi.\n\n— Sarsıntı saat 02.42'de oldu ve merkez üssü Bodrum'a yaklaşık 66 kilometre uzaklıktaydı.\n\n— Deprem yaklaşık 9,43 kilometre derinlikte kaydedildi.\n\n— İlk bilgilere göre depremde herhangi bir olumsuzluk ya da hasar bilgisi gelmedi.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/ege-denizinde-4-2-buyuklugunde-deprem-43387485",
+    "NTV: https://www.ntv.com.tr/turkiye/mugla-aciklarinda-42-buyuklugunde-deprem-1752118",
+    "Habertürk: https://www.haberturk.com/gundem/ege-denizi-nde-4-2-buyuklugunde-deprem-3929286",
+    "Sözcü: https://www.sozcu.com.tr/flas-p383553",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/ege-denizinde-42-buyuklugunde-deprem-4875560",
+    "Evrensel: https://www.evrensel.net/haber/6010713/bodrum-aciklarinda-4-2-buyuklugunde-deprem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
