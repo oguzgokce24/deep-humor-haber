@@ -2,76 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "10",
-    "15",
-    "2",
-    "5",
-    "ağır",
-    "hatay",
-    "karış",
-    "kaza",
-    "kişi",
-    "otomo",
-    "yaral",
-    "zinci",
-    "ölü"
-   ],
-   "tok": [
-    "akşam",
-    "anne",
-    "antak",
-    "araşt",
-    "ağır",
-    "babas",
-    "başla",
-    "birbi",
-    "dan",
-    "durum",
-    "ekinc",
-    "ekipl",
-    "elif",
-    "eğiti",
-    "fazla",
-    "geces",
-    "geldi",
-    "girdi",
-    "götür",
-    "hasta",
-    "hatay",
-    "iddia",
-    "ilgil",
-    "ilçes",
-    "itfai",
-    "kabus",
-    "karış",
-    "kayga",
-    "kazay",
-    "kurta",
-    "küçük",
-    "kız",
-    "kızın",
-    "mahal",
-    "meyda",
-    "nde",
-    "neden",
-    "otomo",
-    "reyha",
-    "saatl",
-    "sıkış",
-    "yağış",
-    "yaşın",
-    "yolda",
-    "zinci",
-    "çarpı",
-    "çocuğ",
-    "örez",
-    "öğren"
-   ],
-   "at": "2026-11-22T06:23:44.445251+00:00"
-  },
-  {
-   "fp": [
     "500",
     "81",
     "baskı",
@@ -10474,22 +10404,65 @@
     "örgüt"
    ],
    "at": "2026-11-23T18:21:25.792661+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "ait",
+    "boğaz",
+    "duyur",
+    "düşür",
+    "geril",
+    "hürmü",
+    "iha",
+    "iran",
+    "lucas",
+    "nda",
+    "ordus",
+    "tipi"
+   ],
+   "tok": [
+    "abd",
+    "ait",
+    "alınd",
+    "basra",
+    "belir",
+    "birim",
+    "boğaz",
+    "doğus",
+    "duyur",
+    "düşür",
+    "geril",
+    "göre",
+    "halkl",
+    "hava",
+    "hedef",
+    "hürmü",
+    "iha",
+    "ilişk",
+    "imha",
+    "insan",
+    "iran",
+    "körfe",
+    "lucas",
+    "nda",
+    "nde",
+    "nin",
+    "nın",
+    "ordus",
+    "otomo",
+    "savun",
+    "siste",
+    "tipi",
+    "vurul",
+    "yerli",
+    "ülken",
+    "üzeri"
+   ],
+   "at": "2026-11-23T18:34:22.785153+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ff7aabd9dd",
-   "post_id": "529346797199852_1475745684665139",
-   "title": "Mansur Yavaş’tan İmamoğlu sorusuna yanıt: “Biz buraya park açılışına geldik”",
-   "at": "2026-11-21T14:38:53.746593+00:00",
-   "yazim": "claude",
-   "metin": "Mansur Yavaş, İmamoğlu'na siyasi yasak sorulunca:\n\n“Biz buraya park açılışına geldik.”\n\n— Ankara Büyükşehir Belediye Başkanı Yavaş, Adıyaman'da Atatürk Parkı'nın açılışında gazetecilerin sorusunu bu sözle geçiştirdi.\n— CHP'nin 38. Olağan Kurultayı'ndaki \"oylamaya hile karıştırma\" davasında İmamoğlu da dahil 8 kişi 2 yıl 6 ay hapis cezasına çarptırıldı.\n— Mahkeme, hüküm kurulanlar hakkında seçme ve seçilme hakkı dahil bazı haklardan yoksun bırakılmaya karar verdi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010593/mansur-yavas-imamoglu-na-siyasi-yasak-kararina-iliskin-soruyu-yanitsiz-birakti-biz-buraya-park-acilisina-geldik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Medyascope: https://medyascope.tv/2026/11/21/yavastan-imamoglu-sorusuna-yanit-buraya-park-acilisina-geldik/",
-    "BirGün: https://www.birgun.net/haber/mansur-yavas-imamoglu-na-siyasi-yasak-sorusuna-yanit-vermedi-biz-buraya-park-acilisina-geldik-747674"
-   ]
-  },
   {
    "id": "08ebf4b15e",
    "post_id": "529346797199852_1475756351330739",
@@ -13049,6 +13022,22 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/baygaralara-darbe-13-ilde-baskin-90-tutuklama-4875807",
     "Evrensel: https://www.evrensel.net/haber/6010873/adana-merkezli-13-ilde-baygaralar-operasyonu-90-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "8402966c70",
+   "post_id": "529346797199852_1478126251093749",
+   "title": "İran ordusu duyurdu: Basra Körfezi'nde ABD'ye ait İHA düşürüldü",
+   "at": "2026-11-23T18:34:22.785153+00:00",
+   "yazim": "claude",
+   "metin": "İran ordusu, Hürmüz Boğazı'nın doğusunda ABD'ye ait \"LUCAS\" tipi bir insansız hava aracını düşürdüğünü duyurdu.\n\nİran Ordusu Halkla İlişkiler Birimi'nin açıklamasına göre İHA, ülkenin yerli hava savunma sistemleri tarafından vurularak imha edildi. Aracın Basra Körfezi üzerinde hedef alındığı belirtildi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazi-nin-dogusunda-abdye-ait-lucas-tipi-iha-dusuruldu/4134992",
+    "Milliyet: https://www.milliyet.com.tr/dunya/iran-ordusu-duyurdu-abdye-ait-iha-hurmuzde-dusuruldu-7706467",
+    "Habertürk: https://www.haberturk.com/dunya/iran-ordusu-hurmuz-bogazinin-dogusunda-abd-ye-ait-lucas-tipi-iha-dusuruldu-3929547",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/iran-hurmuz-bogazi-nda-abd-ye-ait-lucas-tipi-iha-dusuruldu-2558748",
+    "BirGün: https://www.birgun.net/haber/iran-ordusu-duyurdu-basra-korfezi-nde-abd-ye-ait-iha-dusuruldu-748033",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/iran-ordusu-duyurdu-abdye-ait-iha-hurmuzde-dusuruldu-7706467"
+   ]
   }
  ],
  "fails": {
@@ -13263,7 +13252,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124924698509119922",
+   "since_id": "2124932805432144012",
    "started": true
   },
   "ajansmuhbir1923": {
