@@ -2,48 +2,6 @@
  "seen": [
   {
    "fp": [
-    "beyko",
-    "bıçak",
-    "iett",
-    "otobü",
-    "tehdi",
-    "yakal",
-    "yolcu",
-    "zanlı"
-   ],
-   "tok": [
-    "aldı",
-    "alınd",
-    "arası",
-    "beyko",
-    "bulun",
-    "bıçak",
-    "durağ",
-    "durdu",
-    "ekipl",
-    "geçti",
-    "gizle",
-    "harek",
-    "iett",
-    "ihbar",
-    "ilçes",
-    "içeri",
-    "içind",
-    "kavac",
-    "korku",
-    "kıyaf",
-    "otobü",
-    "sakla",
-    "saçtı",
-    "tehdi",
-    "yapıl",
-    "yolcu",
-    "zanlı"
-   ],
-   "at": "2026-11-21T19:01:47.819629+00:00"
-  },
-  {
-   "fp": [
     "108",
     "ahmet",
     "dünya",
@@ -11077,20 +11035,64 @@
     "şifre"
    ],
    "at": "2026-11-23T06:57:16.666614+00:00"
+  },
+  {
+   "fp": [
+    "bölge",
+    "nın",
+    "rusya",
+    "saldı",
+    "ukray"
+   ],
+   "tok": [
+    "acil",
+    "apart",
+    "arama",
+    "ardın",
+    "bildi",
+    "binad",
+    "bölge",
+    "can",
+    "dan",
+    "devle",
+    "dimer",
+    "dnipr",
+    "dsns",
+    "durum",
+    "duyur",
+    "düzen",
+    "enkaz",
+    "farkl",
+    "hava",
+    "iha",
+    "ilçel",
+    "kasab",
+    "katlı",
+    "kayıp",
+    "kiev",
+    "kurta",
+    "marke",
+    "nın",
+    "olayd",
+    "ordus",
+    "rus",
+    "rusya",
+    "servi",
+    "sivil",
+    "sürüy",
+    "ukray",
+    "uğrad",
+    "vyshn",
+    "yaşam",
+    "yerle",
+    "yitir",
+    "yönel",
+    "çalış"
+   ],
+   "at": "2026-11-23T07:09:45.219749+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "281a4efec9",
-   "post_id": "529346797199852_1475259731380401",
-   "title": "Saatte 60 kilometre hızla geliyor: 6 derece çakılacak",
-   "at": "2026-11-21T04:48:45.791749+00:00",
-   "yazim": "claude",
-   "metin": "Marmara'nın kuzeyi, İç Ege ve Karadeniz'de sağanak yağış bekleniyor, rüzgar saatte 60 kilometreye kadar çıkacak.\n\n— Doğu Karadeniz'in yüksek kesimleri ile Doğu Anadolu'nun kuzeydoğusunda karla karışık yağmur ve yer yer kar yağacak.\n— İstanbul'un kuzey ve doğu kesimlerinde sağanak görülecek.\n— Ankara, Eskişehir ve Kırıkkale'nin kuzey ilçelerinde yağış kuvvetli olacak.\n— Kuzey ve iç kesimlerde hava sıcaklıkları 2 ila 6 derece düşecek.\n\nMeteoroloji, ani sel, su baskını, yıldırım ve ulaşım aksamalarına karşı dikkatli olunmasını istedi.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/saatte-60-kilometre-hizla-geliyor-sicakliklar-6-derece-cakilacak-p383144"
-   ]
-  },
   {
    "id": "c2f2f74745",
    "post_id": "529346797199852_1475269621379412",
@@ -13605,6 +13607,18 @@
     "NTV: https://www.ntv.com.tr/turkiye/galeri-jandarma-uzman-erbas-alimi-basvuru-ekrani-2027-9-bin-uzman-erbas-alimi-basvurusu-nasil-yapilir-1752139",
     "Habertürk: https://www.haberturk.com/gundem/jandarma-9-bin-uzman-erbas-alimi-yapacak-3929294"
    ]
+  },
+  {
+   "id": "ec96b8bdf2",
+   "post_id": "529346797199852_1477499694489738",
+   "title": "Ukrayna: Rusya'nın farklı bölgelere düzenlediği saldırılarda 5 kişi hayatını kaybetti",
+   "at": "2026-11-23T07:09:45.219749+00:00",
+   "yazim": "claude",
+   "metin": "Rusya'nın Kiev ve Dnipropetrovsk bölgelerine düzenlediği hava saldırılarında 5 sivil hayatını kaybetti.\n\n— Kiev bölgesinin Vyshneve yerleşiminde bir markete İHA ile saldırı düzenlendi. Olayda 1 kişi öldü, 5 kişi yaralandı.\n\n— Dnipropetrovsk bölgesindeki ilçelere yönelik hava saldırılarında 1 kişi öldü, 9 kişi yaralandı.\n\n— Kiev bölgesinin Dimer kasabasında 5 katlı bir apartman saldırıya uğradı. Binada 3 kişi hayatını kaybetti ve enkazda arama kurtarma çalışmaları sürüyor.\n\nUkrayna Devlet Acil Durum Servisi (DSNS) açıklamasında bu saldırıların ardından bölgedeki can kayıplarını ve yaralıları duyurdu.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/dunya/rusyadan-ukraynanin-kiev-bolgesine-saldiri-15-olu-3496761",
+    "Evrensel: https://www.evrensel.net/haber/6010726/ukrayna-rusya-nin-farkli-bolgelere-duzenledigi-saldirilarda-5-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13818,7 +13832,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124753812770746672",
+   "since_id": "2124760198732791867",
    "started": true
   },
   "ajansmuhbir1923": {
