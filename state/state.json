@@ -2,45 +2,6 @@
  "seen": [
   {
    "fp": [
-    "diyan",
-    "kanal",
-    "kayyu",
-    "milyo",
-    "muhal"
-   ],
-   "tok": [
-    "aktar",
-    "alınd",
-    "alını",
-    "ayınd",
-    "baskı",
-    "bütçe",
-    "diyan",
-    "dönem",
-    "ekipm",
-    "harca",
-    "kamu",
-    "kanal",
-    "kasım",
-    "kayna",
-    "kayyu",
-    "lik",
-    "liral",
-    "muhal",
-    "nin",
-    "sürdü",
-    "sürer",
-    "telev",
-    "topla",
-    "yakla",
-    "yapıl",
-    "yatır",
-    "yönel"
-   ],
-   "at": "2026-11-22T03:26:09.970767+00:00"
-  },
-  {
-   "fp": [
     "artık",
     "başka"
    ],
@@ -10553,24 +10514,68 @@
     "şefin"
    ],
    "at": "2026-11-23T15:19:07.335516+00:00"
+  },
+  {
+   "fp": [
+    "ara",
+    "emre",
+    "futbo",
+    "mor",
+    "neden",
+    "sağlı",
+    "verdi"
+   ],
+   "tok": [
+    "anlaş",
+    "ara",
+    "artık",
+    "asist",
+    "ayrıl",
+    "bırak",
+    "dinle",
+    "duyma",
+    "emre",
+    "forma",
+    "futbo",
+    "geldi",
+    "gerek",
+    "geçic",
+    "gol",
+    "imzal",
+    "kanat",
+    "kariy",
+    "karşı",
+    "kayde",
+    "kulüp",
+    "maça",
+    "milli",
+    "mor",
+    "nec",
+    "neden",
+    "nijme",
+    "nokta",
+    "odakl",
+    "oyunc",
+    "peki",
+    "saygı",
+    "sağlı",
+    "sorun",
+    "sözle",
+    "sınır",
+    "temmu",
+    "tutma",
+    "verdi",
+    "vücud",
+    "yaşın",
+    "yolla",
+    "yıllı",
+    "çıktı",
+    "öncel"
+   ],
+   "at": "2026-11-23T15:31:38.612539+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "3fdfdb0aa3",
-   "post_id": "529346797199852_1475568401349534",
-   "title": "Galatasaray'dan Samsunspor maçının VAR hakemine tepki",
-   "at": "2026-11-21T11:41:03.122682+00:00",
-   "yazim": "claude",
-   "metin": "Galatasaray Başkan Vekili Maruf Güneş, Samsunspor maçının VAR hakemi Erkan Engin için:\n\n“Ama VAR’ın görevi zaten bu hataları düzeltmek. (...) Erkan Engin’deki bu ısrarın sebebi nedir?”\n\n— Güneş, Gençlerbirliği maçında çok net bir penaltıda Erkan Engin'in orta hakemi uyarmadığını söyledi.\n— Ona göre Engin'in Samsunspor maçına atanması, TFF Başkanı İbrahim Hacıosmanoğlu'nun \"VAR'daki hatayı kabul etmiyorum\" sözleriyle çelişiyor.\n— Güneş, bu sezon ilk kez Galatasaray'ın bir iç saha maçına yabancı VAR hakemi atanmadığına dikkat çekti.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/galatasaraydan-var-atamasina-tepki-3496210",
-    "Habertürk: https://www.haberturk.com/spor/galatasaray-sportif-as-baskan-vekili-maruf-gunes-tum-tartismalara-ragmen-ayni-erkan-engini-samsunspor-macimiza-da-atamislar-3929001",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/galatasaray-dan-samsunspor-macinin-var-hakemine-tepki-2558072",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/juan-mata-dan-galatasaray-itirafi-2558057",
-    "Sözcü Spor: https://www.sozcu.com.tr/galatasaraydan-samsunspor-maci-oncesi-var-tepkisi-p383235"
-   ]
-  },
   {
    "id": "f6a07836ae",
    "post_id": "529346797199852_1475583518014689",
@@ -13118,6 +13123,21 @@
     "BirGün: https://www.birgun.net/haber/polis-memuru-ifadesinde-anlatti-gulistan-doku-dosyasinda-zarfla-para-trafigi-748021",
     "Karar: https://www.karar.com/guncel-haberler/gulistan-doku-sorusturmasinda-tutuklu-polis-hakan-yalcinin-ifadesi-2085803"
    ]
+  },
+  {
+   "id": "3aba845a67",
+   "post_id": "529346797199852_1477961504443557",
+   "title": "Emre Mor futbola ara mı verdi? Emre Mor futbola neden ara verdi?",
+   "at": "2026-11-23T15:31:38.612539+00:00",
+   "yazim": "claude",
+   "metin": "NEC Nijmegen ile yolları ayrılan Emre Mor, sağlık sorunları nedeniyle futbola geçici ara verdi.\n\nEmre Mor, kararını açıklarken:\n\n“Artık vücudumu dinlemem, sınırlarıma saygı duymam ve sağlığımı öncelikli tutmam gereken bir noktaya geldim.”\n\n— Temmuzda iki yıllık sözleşme imzalayan 29 yaşındaki kanat oyuncusu, kulüpten karşılıklı anlaşmayla ayrıldı.\n\n— Emre, NEC formasıyla yedi maça çıktı ve bir gol, bir asist kaydetti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/emre-mor-futbola-ara-mi-verdi-emre-mor-futbola-neden-ara-verdi-2558680",
+    "BirGün: https://www.birgun.net/haber/emre-mor-saglik-sorunlari-nedeniyle-futbola-ara-verdi-748013",
+    "Karar: https://www.karar.com/spor-haberleri/emre-mor-futbolu-birakti-2085788",
+    "Diken: https://www.diken.com.tr/emre-mor-futbola-ara-verdi-sagligina-odaklanacak/?utm_source=rss&utm_medium=rss&utm_campaign=emre-mor-futbola-ara-verdi-sagligina-odaklanacak",
+    "Sözcü Spor: https://www.sozcu.com.tr/milli-futbolcudan-flas-karar-29-yasinda-kariyerine-ara-verdi-p383776"
+   ]
   }
  ],
  "fails": {
@@ -13331,7 +13351,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124881670042255605",
+   "since_id": "2124885748092387357",
    "started": true
   },
   "ajansmuhbir1923": {
