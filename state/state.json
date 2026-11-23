@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açılı",
-    "biz",
-    "buray",
-    "geldi",
-    "imamo",
-    "mansu",
-    "park",
-    "siyas",
-    "sorus",
-    "yanıt",
-    "yasak",
-    "yavaş"
-   ],
-   "tok": [
-    "adıya",
-    "atatü",
-    "açılı",
-    "bazı",
-    "beled",
-    "biz",
-    "buray",
-    "büyük",
-    "bırak",
-    "cezas",
-    "chp",
-    "dahil",
-    "davas",
-    "ekrem",
-    "gazet",
-    "geldi",
-    "gelen",
-    "geçiş",
-    "hakkı",
-    "hakla",
-    "hapis",
-    "hile",
-    "hüküm",
-    "ilgil",
-    "ilişk",
-    "imamo",
-    "karış",
-    "katıl",
-    "kurul",
-    "mansu",
-    "medya",
-    "ndaki",
-    "nin",
-    "nın",
-    "olağa",
-    "oylam",
-    "park",
-    "parkı",
-    "seçil",
-    "seçme",
-    "siyas",
-    "sorul",
-    "sorus",
-    "soruy",
-    "sözle",
-    "tan",
-    "verdi",
-    "verme",
-    "yanıt",
-    "yasak",
-    "yavaş",
-    "yoksu",
-    "yorum",
-    "yıl",
-    "çarpt"
-   ],
-   "at": "2026-11-21T14:38:53.746593+00:00"
-  },
-  {
-   "fp": [
     "altın",
     "göçük",
     "güngö",
@@ -11336,20 +11262,67 @@
     "ışığı"
    ],
    "at": "2026-11-23T02:37:03.966156+00:00"
+  },
+  {
+   "fp": [
+    "bürok",
+    "eski",
+    "ihale",
+    "liste",
+    "milya",
+    "yok"
+   ],
+   "tok": [
+    "adı",
+    "ahmet",
+    "ailes",
+    "akp",
+    "alan",
+    "alıyo",
+    "ayrın",
+    "bağla",
+    "bürok",
+    "dan",
+    "eski",
+    "fon",
+    "fonla",
+    "genel",
+    "ihale",
+    "ilgil",
+    "insan",
+    "isted",
+    "isten",
+    "kamu",
+    "kapsa",
+    "kişil",
+    "liral",
+    "liste",
+    "mal",
+    "mille",
+    "milya",
+    "müzek",
+    "ortay",
+    "payla",
+    "savcı",
+    "sekre",
+    "talip",
+    "tbmm",
+    "tedbi",
+    "tip",
+    "uygul",
+    "uzun",
+    "varlı",
+    "yer",
+    "yok",
+    "yönet",
+    "zapsu",
+    "çıktı",
+    "şık"
+   ],
+   "at": "2026-11-23T02:49:53.341734+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "df418c0aa0",
-   "post_id": "529346797199852_1475117191394655",
-   "title": "Tuzla tersanelerinde işçi yaşamı: Tahtakurusu yüzünden cami avlusunda yatmak",
-   "at": "2026-11-21T01:22:05.327332+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Tuzla ilçesinde tersanelerde çalışan bazı işçiler, tahtakurusu ve rutubet yüzünden geceyi cami avlusunda geçirmek zorunda kalıyor.\n\n— Taşeronların işlettiği pansiyonlarda kalabalık odalar, rutubet ve tahtakurusu var.\n— Bir işçi, bir pansiyonda kişi başı aylık ücretin 6 bin lira olduğunu, bazı yerlerde 7-8 bin liraya çıktığını anlatıyor.\n— İşçiler, barınma sorununun iş güvenliğini de tehdit ettiğine dikkat çekiyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/tuzla-tersanelerinde-isci-yasami-tahtakurusu-yuzunden-cami-avlusunda-yatmak-2557914"
-   ]
-  },
   {
    "id": "da9f546e34",
    "post_id": "529346797199852_1475124988060542",
@@ -13850,6 +13823,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/afet-konutlarinda-3-aydir-elektrik-yok-belediye-sorumluluk-kabul-etmiyor-747856"
    ]
+  },
+  {
+   "id": "710187767c",
+   "post_id": "529346797199852_1477319611174413",
+   "title": "Milyarlık ihalecilerden eski bürokratlara: Listede yok yok",
+   "at": "2026-11-23T02:49:53.341734+00:00",
+   "yazim": "claude",
+   "metin": "Fonla ilgili soruşturmada mal varlıklarına tedbir istenen 108 kişilik listenin ayrıntıları ortaya çıktı.\n\n— TİP İstanbul Milletvekili Ahmet Şık, savcılık müzekkeresini paylaştı.\n\n— Listede eski TBMM Genel Sekreteri Talip Uzun ve Zapsu ailesi yer alıyor.\n\n— AKP'li eski yöneticilerle bağlantılı, milyarlarca liralık kamu ihalesi alan iş insanlarının adı da listede.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/milyarlik-ihalecilerden-eski-burokratlara-listede-yok-yok-747862"
+   ]
   }
  ],
  "fails": {
@@ -14013,15 +13997,11 @@
   "af06c12650": 1,
   "c39ef5a494": 1,
   "df41502e98": 1,
-  "2248710424": 1
+  "2248710424": 1,
+  "e509d68d8d": 1,
+  "a122548bb3": 1
  },
  "fail_log": [
-  "2026-11-22T22:59 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
-  "2026-11-22T22:59 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
-  "2026-11-22T22:59 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-22T22:59 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-22T22:59 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-22T23:12 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
   "2026-11-22T23:12 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
   "2026-11-22T23:12 Fas'taki sürreal heykel parkı: dünyayı çocuk gözünden yenide -> ValueError: yanıt okunamadı",
   "2026-11-22T23:12 T.C. ERZİNCAN 4. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
@@ -14055,7 +14035,13 @@
   "2026-11-23T01:27 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
   "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
   "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
-  "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı"
+  "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
+  "2026-11-23T02:49 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
+  "2026-11-23T02:49 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
+  "2026-11-23T02:49 Sırbistan'dan Dalia Koler BirGün'e konuştu: \"İktidar değişim -> ValueError: yanıt okunamadı",
+  "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
+  "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı",
+  "2026-11-23T02:49 Kolombiya’da petrol projeleri yeniden rafta: Yaşam savunucul -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
