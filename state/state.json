@@ -10348,20 +10348,71 @@
     "şikay"
    ],
    "at": "2026-11-23T21:44:39.805530+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "boğaz",
+    "hürmü",
+    "iran",
+    "nda",
+    "patla",
+    "petro",
+    "tanke"
+   ],
+   "tok": [
+    "abd",
+    "alaca",
+    "aldığ",
+    "alev",
+    "altın",
+    "ardın",
+    "başla",
+    "belir",
+    "bildi",
+    "boğaz",
+    "diğer",
+    "doğus",
+    "duyur",
+    "dışın",
+    "engel",
+    "gemil",
+    "geçen",
+    "güney",
+    "güzer",
+    "hava",
+    "hedef",
+    "hürmü",
+    "ikisi",
+    "iran",
+    "izin",
+    "kapat",
+    "kulla",
+    "kıyıl",
+    "mayın",
+    "nda",
+    "nin",
+    "olayl",
+    "ordu",
+    "ordus",
+    "patla",
+    "petro",
+    "refak",
+    "rota",
+    "tahra",
+    "tanke",
+    "tekra",
+    "temmu",
+    "veril",
+    "verme",
+    "yaşan",
+    "yenid",
+    "çarpı"
+   ],
+   "at": "2026-11-23T21:55:32.152550+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1afc30c107",
-   "post_id": "529346797199852_1475908787982162",
-   "title": "Burhaniye’de “Toprak da bizim, gelecek de” mitingi: “Sandığı bekle diyenler bizi eve hapsetmek istiyor”",
-   "at": "2026-11-21T17:25:56.548745+00:00",
-   "yazim": "claude",
-   "metin": "TİP Genel Başkanı Erkan Baş, Burhaniye'deki mitingde:\n\n“Türkiye zenginleşiyor ama biz hepimiz eskisine göre daha yoksuluz.”\n\n— Balıkesir'in Burhaniye ilçesinde TİP'in “Toprak da bizim, gelecek de” mitingi yapıldı.\n— Baş, emekçilerin eskisine göre daha uzun saat çalışmasına rağmen yoksullaştığını söyledi.\n— Baş, iktidardan kurtuluşun yalnızca seçim gününü beklemekle olmayacağını, örgütlü mücadele gerektiğini savundu.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010610/burhaniye-de-toprak-da-bizim-gelecek-de-mitingi-sandigi-bekle-diyenler-bizi-eve-hapsetmek-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "0d245fe957",
    "post_id": "529346797199852_1475918277981213",
@@ -12929,6 +12980,19 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6010827/odtu-refika-aksoy-yurdunda-ogrenciler-eylemde-yurt-ucretlerine-yapilan-zammi-odemeyecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "df727234ec",
+   "post_id": "529346797199852_1478276774412030",
+   "title": "İran ordusu duyurdu: Hürmüz'de 3 petrol tankerinde patlama",
+   "at": "2026-11-23T21:55:32.152550+00:00",
+   "yazim": "claude",
+   "metin": "İran ordusu, Hürmüz Boğazı'nda 3 petrol tankerinin mayınlara çarpıp alev aldığını duyurdu.\n\nOrdu, tankerlerin izin verilmeyen bir güzergahı kullandığını söyledi. Bir tankerin boğazın güney kıyılarında, diğer ikisinin doğusunda patladığı bildirildi.\n\n— Ordu, tankerlerin ABD'nin hava refakati altında olduğunu da belirtti: \"ABD ordusunun hava refakati bu olayların yaşanmasını engelleyemedi.\"\n\n— İran, 8 Temmuz'da ABD'nin saldırılarının yeniden başlamasının ardından 12 Temmuz'da Hürmüz Boğazı'nı tekrar kapatmıştı.\n\n— Tahran daha önce, belirlediği rota dışında geçen gemileri hedef alacağını açıklamıştı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-3-petrol-tankerinde-patlama-964239.html",
+    "Evrensel: https://www.evrensel.net/haber/6010892/hurmuz-bogazi-nda-iran-in-izin-vermedigi-guzergahi-kullanan-3-petrol-tankerinde-patlama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/hurmuz-bogazi-nda-3-petrol-tankerinde-patlama-p383848"
+   ]
   }
  ],
  "fails": {
@@ -13152,7 +13216,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124979900763304250",
+   "since_id": "2124982460827959800",
    "started": true
   },
   "ajansmuhbir1923": {
