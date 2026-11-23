@@ -2,79 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bekle",
-    "bizi",
-    "bizim",
-    "burha",
-    "diyen",
-    "eve",
-    "gelec",
-    "hapse",
-    "istiy",
-    "mitin",
-    "sandı",
-    "topra"
-   ],
-   "tok": [
-    "balık",
-    "baş",
-    "bekle",
-    "bilin",
-    "biz",
-    "bizi",
-    "bizim",
-    "bunla",
-    "burha",
-    "deki",
-    "diyen",
-    "diyor",
-    "emekç",
-    "erkan",
-    "eskis",
-    "etmey",
-    "eve",
-    "evimi",
-    "evind",
-    "gelec",
-    "gelin",
-    "genel",
-    "gerek",
-    "göre",
-    "günün",
-    "hapse",
-    "hepim",
-    "iktid",
-    "ilçes",
-    "istiy",
-    "işçi",
-    "kim",
-    "kurtu",
-    "mahkû",
-    "mitin",
-    "mücad",
-    "olmay",
-    "oturm",
-    "parti",
-    "rağme",
-    "saat",
-    "sandı",
-    "savun",
-    "seçim",
-    "size",
-    "tip",
-    "topra",
-    "uzun",
-    "yalnı",
-    "yapıl",
-    "yoksu",
-    "zengi",
-    "çalış",
-    "örgüt"
-   ],
-   "at": "2026-11-21T17:25:56.548745+00:00"
-  },
-  {
-   "fp": [
     "ceza",
     "dere",
     "derey",
@@ -11061,20 +10988,75 @@
     "ülkey"
    ],
    "at": "2026-11-23T05:21:15.239532+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "banka",
+    "bırak",
+    "chas",
+    "değer",
+    "dünya",
+    "gerid",
+    "jpmor",
+    "rakib",
+    "topla"
+   ],
+   "tok": [
+    "abd",
+    "agric",
+    "alman",
+    "alıyo",
+    "avrup",
+    "bank",
+    "banka",
+    "bbva",
+    "belir",
+    "bırak",
+    "chas",
+    "chase",
+    "china",
+    "const",
+    "dan",
+    "den",
+    "değer",
+    "dörde",
+    "dünya",
+    "frans",
+    "gerid",
+    "girdi",
+    "girem",
+    "göre",
+    "hsbc",
+    "ikinc",
+    "ingil",
+    "ise",
+    "jpmor",
+    "kasım",
+    "korur",
+    "liste",
+    "milya",
+    "piyas",
+    "rakib",
+    "santa",
+    "sırad",
+    "sıral",
+    "topla",
+    "ubs",
+    "unicr",
+    "veril",
+    "yakın",
+    "yedin",
+    "yer",
+    "yerin",
+    "yükse",
+    "çin",
+    "üçünc"
+   ],
+   "at": "2026-11-23T05:33:56.254459+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "27f4ec6e41",
-   "post_id": "529346797199852_1475206524719055",
-   "title": "Gençliğin öfkesi kıtayı sardı: Binler savaş bütçelerine ve geleceksizliğe karşı sokakta",
-   "at": "2026-11-21T03:31:36.846585+00:00",
-   "yazim": "claude",
-   "metin": "Avrupa'da gençler savaş bütçelerine ve geleceksizliğe karşı sokakta.\n\nAlmanya'dan İtalya'ya, İspanya'dan İngiltere'ye yüzlerce kentte gençler dersleri boykot etti ve grev yaptı.\n\n— Protestocular kemer sıkma politikalarına, otoriterleşmeye ve savaş bütçelerine karşı çıkıyor.\n— Binlerce genç, bu öfkeyi sokaklara taşıdı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/gencligin-ofkesi-kitayi-sardi-binler-savas-butcelerine-ve-geleceksizlige-karsi-sokakta-747548"
-   ]
-  },
   {
    "id": "7bd8efe965",
    "post_id": "529346797199852_1475215811384793",
@@ -13579,6 +13561,17 @@
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/29-ulkeye-vizesiz-seyahat-icin-adim-atildi-duzenleme-meclis-e-geliyor-p383562"
    ]
+  },
+  {
+   "id": "caa6a2f69c",
+   "post_id": "529346797199852_1477432064496501",
+   "title": "Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki rakibinin toplamını geride bıraktı",
+   "at": "2026-11-23T05:33:56.254459+00:00",
+   "yazim": "claude",
+   "metin": "ABD merkezli JPMorgan Chase, piyasa değeri sıralamasında ikinci ve üçüncü sıradaki iki Çin bankasının toplamını geride bıraktı.\n\n— JPMorgan Chase'in piyasa değeri 910,4 milyar dolar. İkinci sıradaki China Construction Bank 470,7 milyar, üçüncü sıradaki Agricultural Bank of China 380,7 milyar dolar.\n\n— İlk 10'da ABD ve Çin'den dörder banka yer alıyor. İngiltere'den HSBC yedinci sırada.\n\n— Avrupa'dan Santander, UBS, BBVA ve UniCredit ilk 25'e girdi. Fransız ve Alman bankaları ise listeye giremedi.",
+   "sources": [
+    "Karar: https://www.karar.com/dunya-haberleri/dunyanin-en-degerli-bankalari-belli-oldu-jpmorgan-chas-iki-rakibinin-2085636"
+   ]
   }
  ],
  "fails": {
@@ -13743,14 +13736,10 @@
   "c39ef5a494": 1,
   "df41502e98": 1,
   "2248710424": 1,
-  "2aef300c00": 1,
+  "2aef300c00": 2,
   "508dd6fd67": 1
  },
  "fail_log": [
-  "2026-11-23T01:23 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
-  "2026-11-23T01:27 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
-  "2026-11-23T01:27 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
-  "2026-11-23T01:27 Çocuğunuzun size yalan söylemesi neden zihinsel gelişimin ön -> ValueError: yanıt okunamadı",
   "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
   "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
   "2026-11-23T02:37 Telegram’ın kurucusu Pavel Durov: -> ValueError: yanıt okunamadı",
@@ -13786,12 +13775,16 @@
   "2026-11-23T05:21 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
   "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
   "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
-  "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı"
+  "2026-11-23T05:21 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:34 Akciğer kanserine karşı kritik uyarı: \"Belirtiyi beklemeyin, -> ValueError: yanıt okunamadı",
+  "2026-11-23T05:34 Dünyanın en değerli bankaları belli oldu: JPMorgan Chas, iki -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124733497822568451",
+   "since_id": "2124736741953192033",
    "started": true
   },
   "ajansmuhbir1923": {
