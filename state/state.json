@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akp",
-    "bağla",
-    "fon",
-    "serma",
-    "siyas",
-    "uzana",
-    "vurgu"
-   ],
-   "tok": [
-    "akp",
-    "ayrı",
-    "bağla",
-    "bekle",
-    "bekli",
-    "bürok",
-    "dosya",
-    "fon",
-    "günde",
-    "henüz",
-    "hâlâ",
-    "iktid",
-    "ilgil",
-    "ilişk",
-    "isiml",
-    "işlem",
-    "kamu",
-    "kurum",
-    "liral",
-    "liste",
-    "mille",
-    "milya",
-    "nasıl",
-    "nin",
-    "parti",
-    "serma",
-    "siyas",
-    "skand",
-    "sorul",
-    "sürül",
-    "taşıd",
-    "uzana",
-    "vurgu",
-    "yakın",
-    "yanıt",
-    "yapıl",
-    "çevre",
-    "öne",
-    "özlal",
-    "ümit"
-   ],
-   "at": "2026-11-22T02:27:26.235359+00:00"
-  },
-  {
-   "fp": [
     "2",
     "4",
     "hatay",
@@ -10565,25 +10511,80 @@
     "şunla"
    ],
    "at": "2026-11-23T14:26:35.890989+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "kapsü",
+    "sokma",
+    "tutuk",
+    "uyuşt",
+    "yutar",
+    "çalış",
+    "ülkey",
+    "şüphe"
+   ],
+   "tok": [
+    "afyon",
+    "aldı",
+    "almış",
+    "arama",
+    "arası",
+    "ayrı",
+    "birli",
+    "boşlu",
+    "bulgu",
+    "bulun",
+    "cezae",
+    "dan",
+    "değer",
+    "değiş",
+    "ekipl",
+    "gelen",
+    "gram",
+    "gönde",
+    "görün",
+    "gümrü",
+    "güven",
+    "halin",
+    "harek",
+    "haval",
+    "herha",
+    "iran",
+    "iranl",
+    "izlem",
+    "işlem",
+    "kalab",
+    "kamer",
+    "kapsü",
+    "karış",
+    "kayıt",
+    "kurye",
+    "nda",
+    "rastl",
+    "sakız",
+    "sokma",
+    "sonra",
+    "tamam",
+    "taşıy",
+    "tespi",
+    "topla",
+    "uyruk",
+    "uyuşt",
+    "uçakl",
+    "valiz",
+    "vücut",
+    "yapıl",
+    "yaşla",
+    "yutar",
+    "çalış",
+    "çıkma",
+    "ülkey"
+   ],
+   "at": "2026-11-23T14:39:12.207020+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e4f6c26e70",
-   "post_id": "529346797199852_1475528758020165",
-   "title": "Anthropic'ten matematikçi Alpöge: yapay zekayla Riemann hipotezini çözdüğünü öne sürüyor",
-   "at": "2026-11-21T10:50:22.752817+00:00",
-   "yazim": "claude",
-   "metin": "Anthropic'te çalışan Türk matematikçi Levent Alpöge:\n\n“Claude ile birlikte çalışarak Riemann Hipotezi'nin bir kanıtını bulduğuma inanıyorum.”\n\n— Alpöge, 1859'dan beri çözülemeyen ve asal sayıların dağılımıyla ilgili bu problemin çözümünü yapay zeka modeli Claude ile bulduğunu öne sürüyor.\n— Dört sayfalık notunda, yöntemini Genelleştirilmiş Riemann Hipotezi'ni de kapsayacak şekilde genişlettiğini iddia ediyor.\n— Brian Conrey, iddiayı “insanlık tarihinde çok büyük bir an” diye niteledi.\n— Clay Enstitüsü'nün 1 milyon dolarlık ödülü için çözümün hakemli bir dergide yayımlanıp iki yıllık incelemeden geçmesi gerekiyor.",
-   "sources": [
-    "Euronews: https://tr.euronews.com/2026/11/21/anthropicten-matematikci-alpoge-yapay-zekayla-riemann-hipotezini-cozdugunu-one-suruyor",
-    "Habertürk: https://www.haberturk.com/ekonomi/son-dakika-haberi-turk-matematikci-levent-alpoge-167-yillik-riemann-hipotezini-yapay-zekayla-cozdu-3929007",
-    "BirGün: https://www.birgun.net/haber/turk-arastirmaci-167-yillik-matematik-problemini-yapay-zeka-yardimiyla-cozdu-747637",
-    "Karar: https://www.karar.com/teknoloji-haberleri/turk-bilim-insani-1-milyon-dolarlik-problemi-yapay-zekayla-cozdu-2085440",
-    "Serbestiyet: https://serbestiyet.com/haberler/bilim-teknoloji/levent-alpoge-167-yillik-riemann-hipotezini-claudela-kanitladigini-duyurdu-253996/",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/turk-matematikci-levent-alpoge-riemann-hipotezini-cozdugunu-acikladi-43385886"
-   ]
-  },
   {
    "id": "4e21c64901",
    "post_id": "529346797199852_1475538968019144",
@@ -13132,6 +13133,20 @@
    "sources": [
     "Karar: https://www.karar.com/dunya-haberleri/mafya-cinayeti-sorusturmasinda-adi-geciyordu-eski-emniyet-genel-muduru-2085796"
    ]
+  },
+  {
+   "id": "e472059138",
+   "post_id": "529346797199852_1477914041114970",
+   "title": "Uyuşturucu kapsüllerini yutarak ülkeye sokmaya çalıştılar: 4 tutuklama",
+   "at": "2026-11-23T14:39:12.207020+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Havalimanı'nda, vücutlarında 1934 gram afyon sakızı taşıyan 4 İranlı şüpheli tutuklandı.\n\nPolis, İran'dan uçakla gelen 4 kişiyi şüphe üzerine izlemeye almıştı. Valizlerinde uyuşturucu çıkmayınca vücutlarında görüntüleme yapıldı.\n\n— Şüpheliler, güvenlik kamerası kayıtlarında birlikte görünmemek için ayrı ayrı hareket etti ve gümrükte kalabalığın arasına karıştı.\n— Polis, dört kişinin uyuşturucu kuryesi olduğunu değerlendirdi.\n— Vücut boşluklarında 280 kapsül halinde toplam 1934 gram afyon sakızı bulundu.\n— Yaşları 31 ile 43 arasında değişen 4 kişi, işlemleri tamamlanınca tutuklanarak cezaevine gönderildi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/arnavutkoy/uyusturucu-kapsullerini-yutarak-ulkeye-sokmaya-calistilar-4-supheli-tutuklandi-3497069",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/uyusturucu-kapsullerini-yutarak-ulkeye-sokmaya-calistilar-4-tutuklama-2558695",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/uyusturucuyu-yutarak-ulkeye-sokmaya-calistilar-4-supheli-tutuklandi-4875764",
+    "Karar: https://www.karar.com/guncel-haberler/uyusturucu-kapsullerini-yutarak-ulkeye-sokmaya-calistilar-4-supheli-2085795"
+   ]
   }
  ],
  "fails": {
@@ -13344,7 +13359,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2124867591696978375",
+   "since_id": "2124874550114402597",
    "started": true
   },
   "ajansmuhbir1923": {
