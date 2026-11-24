@@ -10720,25 +10720,71 @@
     "ömer"
    ],
    "at": "2026-11-24T20:16:50.932176+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "alınd",
+    "arala",
+    "dahil",
+    "deniz",
+    "gözal",
+    "isim",
+    "opera",
+    "uyuşt",
+    "var",
+    "yönel",
+    "çakır",
+    "özcan",
+    "ünlül"
+   ],
+   "tok": [
+    "alına",
+    "alınd",
+    "alıyo",
+    "arala",
+    "arası",
+    "ayrın",
+    "aşama",
+    "başsa",
+    "bekle",
+    "bozku",
+    "bulun",
+    "cem",
+    "dahil",
+    "deniz",
+    "erdal",
+    "ilerl",
+    "isim",
+    "isiml",
+    "kapsa",
+    "kapsı",
+    "karcı",
+    "kulla",
+    "liste",
+    "nca",
+    "netle",
+    "oyunc",
+    "suçla",
+    "temin",
+    "ticar",
+    "uyuşt",
+    "var",
+    "yer",
+    "yönel",
+    "yönet",
+    "yürüt",
+    "çakır",
+    "çıkar",
+    "özcan",
+    "öğren",
+    "ünlül",
+    "şarkı"
+   ],
+   "at": "2026-11-24T20:29:31.685987+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cb45d10c2f",
-   "post_id": "529346797199852_1476889687884072",
-   "title": "Gökçeada ve Bozcaada feribot seferlerine fırtına engeli",
-   "at": "2026-11-22T16:12:49.742684+00:00",
-   "yazim": "claude",
-   "metin": "Çanakkale'de Gökçeada ve Bozcaada feribot seferlerinin bir kısmı fırtına nedeniyle iptal edildi.\n\nEge'nin kuzeyindeki kötü hava koşulları yüzünden GESTAŞ, yarın bazı seferlerin yapılmayacağını açıkladı.\n\n— Kabatepe-Gökçeada hattında Kabatepe'den 09.00, 13.00 ve 17.00, Gökçeada'dan 07.00, 11.00 ve 15.00 seferleri yapılmayacak.\n— Geyikli-Bozcaada hattında Geyikli'den 08.00, 11.00 ve 15.00, Bozcaada'dan 07.00, 10.00 ve 14.00 seferleri iptal edildi.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/bozcaada-ve-gokceada-hattindaki-bazi-feribot-seferleri-iptal-edildi-43387240",
-    "Milliyet: https://www.milliyet.com.tr/gundem/bozcaada-ve-gokceadada-bazi-feribot-seferlerine-hava-engeli-7705767",
-    "CNN Türk: https://www.cnnturk.com/turkiye/bozcaada-ve-gokceadada-bazi-feribot-seferlerine-hava-engeli-3496636",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/gokceada-ve-bozcaada-feribot-seferleri-iptal-edildi-4875482",
-    "Evrensel: https://www.evrensel.net/haber/6010699/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/bozcaada-ve-gokceadada-bazi-feribot-seferlerine-hava-engeli-7705767"
-   ]
-  },
   {
    "id": "b79ed99fe3",
    "post_id": "529346797199852_1476900224549685",
@@ -13344,6 +13390,21 @@
     "Sözcü: https://www.sozcu.com.tr/omer-celik-yeni-parti-sloganlara-tepki-p384094",
     "Karar: https://www.karar.com/guncel-haberler/yeni-partiden-bakan-uralogluna-sert-cikis-barisin-yolu-diyarbakirdan-2086051"
    ]
+  },
+  {
+   "id": "8858cf3cc7",
+   "post_id": "529346797199852_1479321010974273",
+   "title": "Ünlülere yönelik uyuşturucu operasyonu! Aralarında Özcan Deniz ve Deniz Çakır da var",
+   "at": "2026-11-24T20:29:31.685987+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da ünlülere yönelik uyuşturucu soruşturmasında 35 şüpheli hakkında gözaltı kararı çıkarıldı.\n\n— Şarkıcı Özcan Deniz ve oyuncu Deniz Çakır'ın da aralarında olduğu öğrenildi. Listede yönetmen Cem Karcı ile Erdal Bozkuş da yer alıyor.\n\n— Soruşturma uyuşturucu ticareti, temini ile uyuşturucu kullanma ve bulundurma suçlamalarını kapsıyor.\n\n— Soruşturmanın ilerleyen aşamalarında ayrıntıların netleşmesi bekleniyor.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/deniz-cakir-ozcan-deniz-gozaltina-mi-alindi-p384124",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-istanbul-da-yeni-unlulere-yonelik-uyusturucu-operasyonu-gozaltina-alinan-isimler-arasinda-ozcan-deniz-de-var-2559119",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-4876205",
+    "Karar: https://www.karar.com/hayat-haberleri/son-dakika-ozcan-deniz-gozaltinda-2086064",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/deniz-cakir-ozcan-deniz-gozaltina-mi-alindi-p384124"
+   ]
   }
  ],
  "fails": {
@@ -13584,7 +13645,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125319558676226380",
+   "since_id": "2125322915214204989",
    "started": true
   },
   "ajansmuhbir1923": {
