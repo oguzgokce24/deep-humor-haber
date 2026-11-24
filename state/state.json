@@ -2,90 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ağrı",
-    "nuh",
-    "tarih",
-    "tufan",
-    "yaşı"
-   ],
-   "tok": [
-    "abd",
-    "ahşab",
-    "ahşap",
-    "anali",
-    "andre",
-    "anlam",
-    "arası",
-    "araşt",
-    "atill",
-    "ağrı",
-    "aşıld",
-    "bin",
-    "bireb",
-    "bulun",
-    "bunun",
-    "burad",
-    "bölge",
-    "cenke",
-    "daki",
-    "deki",
-    "den",
-    "detay",
-    "doğru",
-    "doğub",
-    "durup",
-    "ekibi",
-    "eşik",
-    "forma",
-    "gelen",
-    "gelme",
-    "gemis",
-    "heyec",
-    "ikide",
-    "ilçes",
-    "ise",
-    "isviç",
-    "jones",
-    "karbo",
-    "kesin",
-    "kitap",
-    "kutsa",
-    "kömür",
-    "labor",
-    "milat",
-    "nda",
-    "nuh",
-    "nın",
-    "ortay",
-    "parça",
-    "prof",
-    "sonuç",
-    "sürül",
-    "taki",
-    "tam",
-    "tarih",
-    "testi",
-    "tufan",
-    "tübit",
-    "uyuşt",
-    "vurgu",
-    "vuruy",
-    "yakla",
-    "yaşı",
-    "yaşın",
-    "yürüt",
-    "yıl",
-    "yılla",
-    "çıkar",
-    "çıkıy",
-    "öne",
-    "örnek",
-    "örtüş"
-   ],
-   "at": "2026-11-22T15:47:54.880940+00:00"
-  },
-  {
-   "fp": [
     "bastı",
     "bingö",
     "sağan",
@@ -10155,20 +10071,56 @@
     "üzere"
    ],
    "at": "2026-11-24T03:36:09.260507+00:00"
+  },
+  {
+   "fp": [
+    "dağıt",
+    "deste",
+    "fatur",
+    "serve",
+    "yoksu",
+    "şirke"
+   ],
+   "tok": [
+    "aydın",
+    "belir",
+    "boyut",
+    "bütçe",
+    "dağıt",
+    "deki",
+    "deste",
+    "elekt",
+    "enerj",
+    "fatur",
+    "göste",
+    "hane",
+    "kez",
+    "konul",
+    "muhta",
+    "nın",
+    "oluşu",
+    "ortay",
+    "rakam",
+    "sayıs",
+    "serve",
+    "sokak",
+    "sunum",
+    "sını",
+    "topla",
+    "tutar",
+    "tüket",
+    "ulaşt",
+    "veril",
+    "yoksu",
+    "yüzde",
+    "yılı",
+    "ödene",
+    "şirke"
+   ],
+   "at": "2026-11-24T03:48:50.706290+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bb87c38fa2",
-   "post_id": "529346797199852_1476142594625448",
-   "title": "Türk Toraks Derneği’nden kritik nikotin uyarıları: 'Ülkenin beka sorunu'",
-   "at": "2026-11-21T23:09:31.101040+00:00",
-   "yazim": "claude",
-   "metin": "Türk Toraks Derneği'nden Oğuz Kılınç, nikotin ve elektronik sigara için:\n\n“Biz bunu ülkenin beka sorunu olarak görüyoruz. Gençlerimizi, çocuklarımızı tehdit ediyor. Ömrü kısaltıyor.”\n\n— Dernek, Ankara'da bir otelde basın toplantısı düzenleyerek ülkedeki tütün ve elektronik sigara kullanımını ele aldı.\n— Dernek Başkanı Prof. Dr. Çağlar Çuhadaroğlu, “Elektronik sigara en az normal sigara kadar zararlıdır” dedi.\n— Kılınç'a göre nikotin, bağımlılık gücü açısından eroin ve kokaine eş değer görülüyor.\n— Ethem Yıldız'a göre çocuklar arasında 5 çocuktan biri elektronik sigarayı denemiş.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/turk-toraks-dernegi-nden-kritik-nikotin-uyarilari-ulkenin-beka-sorunu-2558232"
-   ]
-  },
   {
    "id": "ce60cdf971",
    "post_id": "529346797199852_1476149884624719",
@@ -12709,6 +12661,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/gunde-30-ton-toplaniyor-japonya-bol-bol-aliyor-fekede-kilosu-300-tlye-2085838"
    ]
+  },
+  {
+   "id": "4f5d90782f",
+   "post_id": "529346797199852_1478518017721239",
+   "title": "Yoksula fatura desteği, dağıtım şirketlerine servet",
+   "at": "2026-11-24T03:48:50.706290+00:00",
+   "yazim": "claude",
+   "metin": "Enerji Bakanlığı'nın 2027 yılı bütçe sunumunda, elektrik tüketim desteğine muhtaç hane sayısı 3,5 milyon olarak açıklandı.\n\n— Bakanlığın toplam bütçesinin yüzde 46'sı, sokak aydınlatmaları için şirketlere ödenecek tutardan oluşuyor.\n\n— Sunumda bu rakamlar, Türkiye'deki yoksulluğun boyutunu gösteren veriler olarak ortaya konuldu.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/yoksula-fatura-destegi-dagitim-sirketlerine-servet-748052"
+   ]
   }
  ],
  "fails": {
@@ -12886,12 +12849,10 @@
   "5d53452057": 2,
   "61f7d54f2f": 1,
   "e15157f5a4": 1,
-  "29bb9c9fa1": 1
+  "29bb9c9fa1": 1,
+  "4a2cdcf217": 1
  },
  "fail_log": [
-  "2026-11-24T01:39 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:43 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:43 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
   "2026-11-24T01:43 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
   "2026-11-24T01:43 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
   "2026-11-24T01:43 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
@@ -12928,7 +12889,10 @@
   "2026-11-24T03:21 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
   "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
   "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı"
+  "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
