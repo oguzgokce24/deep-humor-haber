@@ -2,73 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "12",
-    "asker",
-    "iha",
-    "kişi",
-    "kolom",
-    "saldı",
-    "tabur",
-    "yaral",
-    "yaşam",
-    "yitir"
-   ],
-   "tok": [
-    "abela",
-    "alınd",
-    "ambul",
-    "ardın",
-    "asker",
-    "bedel",
-    "beled",
-    "benze",
-    "bölge",
-    "cesar",
-    "daki",
-    "deste",
-    "düzen",
-    "espri",
-    "güven",
-    "güçle",
-    "halkı",
-    "hasta",
-    "hava",
-    "hedef",
-    "herna",
-    "hizme",
-    "iha",
-    "insan",
-    "isted",
-    "isten",
-    "jagua",
-    "kaldı",
-    "kanla",
-    "kasab",
-    "kolom",
-    "leo",
-    "narko",
-    "nın",
-    "otomo",
-    "patla",
-    "sağlı",
-    "sivil",
-    "söyle",
-    "tabur",
-    "yaşam",
-    "yeter",
-    "yitir",
-    "yönel",
-    "yönet",
-    "yüklü",
-    "çevre",
-    "ödeye",
-    "ıbiri"
-   ],
-   "at": "2026-11-23T03:53:32.027290+00:00"
-  },
-  {
-   "fp": [
     "2",
     "4",
     "açıkl",
@@ -10305,22 +10238,63 @@
     "şirke"
    ],
    "at": "2026-11-24T15:42:31.747191+00:00"
+  },
+  {
+   "fp": [
+    "dan",
+    "dünya",
+    "kupas",
+    "monte",
+    "vince"
+   ],
+   "tok": [
+    "adam",
+    "altın",
+    "anlat",
+    "ardın",
+    "ayrıl",
+    "ağır",
+    "baskı",
+    "bekle",
+    "belir",
+    "bozul",
+    "büyü",
+    "dan",
+    "değer",
+    "dünya",
+    "futbo",
+    "italy",
+    "itira",
+    "kaldı",
+    "kalmı",
+    "karşı",
+    "kupas",
+    "maruz",
+    "milli",
+    "monte",
+    "nda",
+    "ndan",
+    "nin",
+    "olabi",
+    "oyunc",
+    "sal",
+    "sert",
+    "sonra",
+    "sürec",
+    "takım",
+    "tekni",
+    "tepki",
+    "turnu",
+    "vince",
+    "yuhal",
+    "yönel",
+    "şahıs",
+    "şekil"
+   ],
+   "at": "2026-11-24T15:55:18.043417+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "68498bcec9",
-   "post_id": "529346797199852_1476657367907304",
-   "title": "DEM Parti İmralı Heyeti, Öcalan ile görüşmek üzere adaya gitti",
-   "at": "2026-11-22T11:45:43.187561+00:00",
-   "yazim": "claude",
-   "metin": "DEM Parti İmralı Heyeti, Abdullah Öcalan ile görüşmek için İmralı Adası'na gitti.\n\nHeyette Pervin Buldan, Mithat Sancar ve Özgür Faik Erol yer alıyor.\n\n— Heyetin Öcalan ile son görüşmesi 13 Eylül'dü, aradan iki aydan fazla süre geçmişti.\n— Görüşmenin içeriği ve süresi, heyet adadan döndükten sonra açıklanacak.\n— Ziyaret, TBMM'de kurulması planlanan İzleme Komisyonu'nun kısa sürede çalışmaya başlayacağının söylendiği bir dönemde geliyor.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/dem-parti-heyetinden-imraliya-yeni-ziyaret-1752059",
-    "Evrensel: https://www.evrensel.net/haber/6010671/dem-parti-imrali-heyeti-ocalan-ile-gorusmek-icin-adaya-gitti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/guncel-haberler/dem-parti-imrali-heyeti-ocalan-ile-gorusmek-uzere-adaya-gitti-2085572"
-   ]
-  },
   {
    "id": "a80beddad0",
    "post_id": "529346797199852_1476668341239540",
@@ -12931,6 +12905,18 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/ingiltere-ic-istihbarat-teskilati-mi5-savunma-sirketlerine-rusya-kaynakli-saldiri-uyarisinda-bulundu/4136063",
     "Diken: https://www.diken.com.tr/britanyada-mi5-uyardi-rusya-savunma-sirketlerini-hedef-aldi/?utm_source=rss&utm_medium=rss&utm_campaign=britanyada-mi5-uyardi-rusya-savunma-sirketlerini-hedef-aldi"
    ]
+  },
+  {
+   "id": "346aef4290",
+   "post_id": "529346797199852_1479098404329867",
+   "title": "Vincenzo Montella’dan Milli Takım'dan ayrılış sürecini anlattı: \"Dünya Kupası'ndan sonra büyü bozuldu\"",
+   "at": "2026-11-24T15:55:18.043417+00:00",
+   "yazim": "claude",
+   "metin": "Vincenzo Montella, Dünya Kupası sonrasındaki tepkiler için:\n\n“Futbolcular ağır şekilde yuhalandı, şahıslarına yönelik sert saldırılara maruz kaldı.”\n\n— Montella, Türkiye'nin Dünya Kupası'nda beklentileri karşılayamadığını belirtti.\n— Futbolcuların baskı altında kalmış olabileceğini söyledi.\n— Milli Takım'dan ayrılış sürecini de anlattı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/vincenzo-montelladan-milli-takim-dan-ayrilis-surecini-anlatti-dunya-kupasi-ndan-sonra-buyu-bozuldu-748200",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/vincenzo-montelladan-dunya-kupasi-itirafi-43389706"
+   ]
   }
  ],
  "fails": {
@@ -13116,7 +13102,7 @@
   "c3b5fd5506": 1,
   "a3f9c39a40": 1,
   "7eb8ff7cd5": 1,
-  "74f8838fd8": 2,
+  "74f8838fd8": 3,
   "23e5225887": 1
  },
  "fail_log": [
@@ -13164,7 +13150,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125252526127583608",
+   "since_id": "2125255720690135452",
    "started": true
   },
   "ajansmuhbir1923": {
