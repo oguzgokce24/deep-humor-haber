@@ -10878,6 +10878,30 @@
     "çıktı"
    ],
    "at": "2026-11-24T23:32:27.997098+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "asliy",
+    "hakim",
+    "hukuk",
+    "istan",
+    "mahke"
+   ],
+   "tok": [
+    "antal",
+    "asliy",
+    "bartı",
+    "ceza",
+    "hakim",
+    "hukuk",
+    "kozan",
+    "kütah",
+    "salih",
+    "siver",
+    "yayla"
+   ],
+   "at": "2026-11-24T23:36:07.871957+00:00"
   }
  ],
  "posted": [
@@ -13697,20 +13721,10 @@
   "da3edcf821": 2,
   "f47bf3c8e4": 1,
   "4c634fdecc": 1,
-  "c851ce6256": 1,
-  "5e8b438f51": 2,
-  "3f2934d32d": 1
+  "c851ce6256": 2,
+  "3f2934d32d": 2
  },
  "fail_log": [
-  "2026-11-24T21:47 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
-  "2026-11-24T21:47 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
-  "2026-11-24T21:47 Arda Güler'in PSV karşılaşmasındaki 2. -> ValueError: yanıt okunamadı",
-  "2026-11-24T21:47 Arda Güler'in PSV karşılaşmasındaki 2. -> ValueError: yanıt okunamadı",
-  "2026-11-24T21:47 Arda Güler'in PSV karşılaşmasındaki 2. -> ValueError: yanıt okunamadı",
-  "2026-11-24T21:47 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
-  "2026-11-24T21:47 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
-  "2026-11-24T21:47 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
-  "2026-11-24T22:37 Bir geliştirici, GTA 6'yı bilgisayarda 2 FPS ile çalıştırmay -> ValueError: yanıt okunamadı",
   "2026-11-24T22:37 Bir geliştirici, GTA 6'yı bilgisayarda 2 FPS ile çalıştırmay -> ValueError: yanıt okunamadı",
   "2026-11-24T22:37 Bir geliştirici, GTA 6'yı bilgisayarda 2 FPS ile çalıştırmay -> ValueError: yanıt okunamadı",
   "2026-11-24T22:37 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
@@ -13741,7 +13755,16 @@
   "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:32 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-24T23:32 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-24T23:36 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:36 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:36 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:36 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:36 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:36 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
