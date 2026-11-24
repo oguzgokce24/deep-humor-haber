@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "91",
-    "aldı",
-    "bandr",
-    "gelir",
-    "halk",
-    "kazan",
-    "lik",
-    "milya",
-    "trt"
-   ],
-   "tok": [
-    "adıyl",
-    "aldı",
-    "alışv",
-    "arası",
-    "bandr",
-    "dönem",
-    "elekt",
-    "eleşt",
-    "fırla",
-    "gelir",
-    "gerek",
-    "getir",
-    "halk",
-    "hesap",
-    "iken",
-    "ise",
-    "kazan",
-    "lik",
-    "milya",
-    "nin",
-    "taraf",
-    "topla",
-    "trt",
-    "ulaşt",
-    "yayın",
-    "yerin",
-    "yurtt",
-    "yükse",
-    "yüküm"
-   ],
-   "at": "2026-11-23T02:02:35.890881+00:00"
-  },
-  {
-   "fp": [
     "3",
     "afet",
     "aydır",
@@ -10180,21 +10134,77 @@
     "şerid"
    ],
    "at": "2026-11-24T13:58:05.517521+00:00"
+  },
+  {
+   "fp": [
+    "arabi",
+    "başke",
+    "daki",
+    "finan",
+    "merke",
+    "riyad",
+    "saldı",
+    "suudi",
+    "uğrad"
+   ],
+   "tok": [
+    "arabi",
+    "arap",
+    "başke",
+    "belir",
+    "birim",
+    "birin",
+    "bulun",
+    "bölge",
+    "can",
+    "daki",
+    "duyur",
+    "düzen",
+    "finan",
+    "gerçe",
+    "hasar",
+    "henüz",
+    "husil",
+    "incel",
+    "kalbi",
+    "koali",
+    "kule",
+    "kulel",
+    "kuley",
+    "kulla",
+    "malik",
+    "müdah",
+    "nasıl",
+    "nde",
+    "nitel",
+    "nun",
+    "olay",
+    "olayı",
+    "oluşa",
+    "riyad",
+    "silah",
+    "sorum",
+    "suudi",
+    "sözcü",
+    "sürdü",
+    "terör",
+    "turki",
+    "tümge",
+    "uğrad",
+    "vurdu",
+    "vurul",
+    "yapıl",
+    "yaşan",
+    "yerin",
+    "yetki",
+    "yine",
+    "çalış",
+    "öncül"
+   ],
+   "at": "2026-11-24T14:10:34.297992+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "91adbeda31",
-   "post_id": "529346797199852_1476576464582061",
-   "title": "Killa Hakan’ın sağlık durumuyla ilgili açıklama: Konseri iptal edildi",
-   "at": "2026-11-22T09:59:58.924897+00:00",
-   "yazim": "claude",
-   "metin": "Almanya'da yoğun bakımda tedavi gören rapçi Killa Hakan'ın sağlık durumunda iyileşme olduğu açıklandı.\n\nAvukatı Şükrü Sarıdere, sanatçının henüz yoğun bakımdan çıkmadığını ancak tedavide olumlu gelişmeler yaşandığını söyledi.\n\n— Sarıdere'ye göre Hakan Durmuş'un genel sağlık durumu iyiye gidiyor.\n— 12 Aralık'ta verilmesi planlanan konser sağlık nedeniyle iptal edildi.\n— Killa Hakan, geçtiğimiz haftalarda ciddi sağlık sorunları nedeniyle Almanya'da hastaneye kaldırılmıştı.",
-   "sources": [
-    "Karar: https://www.karar.com/hayat-haberleri/killa-hakanin-saglik-durumuyla-ilgili-aciklama-konseri-iptal-edildi-2085525",
-    "BPT (X): https://x.com/bpthaber/status/2124442157645811739"
-   ]
-  },
   {
    "id": "e022ac8f49",
    "post_id": "529346797199852_1476585891247785",
@@ -12792,6 +12802,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/israil-den-gazze-ye-hava-saldirisi-hamas-in-ust-duzey-guvenlik-yetkilisi-olduruldu-2558955",
     "Karar: https://www.karar.com/dunya-haberleri/ingiltereden-husilere-ve-4-ust-duzey-yetkilisine-yaptirim-karari-2085989"
    ]
+  },
+  {
+   "id": "9f695f661e",
+   "post_id": "529346797199852_1479002481006126",
+   "title": "Riyad'daki Finans Merkezi'nde kuleye saldırı",
+   "at": "2026-11-24T14:10:34.297992+00:00",
+   "yazim": "claude",
+   "metin": "Suudi Arabistan'ın başkenti Riyad'daki Finans Merkezi'nde bulunan bir kuleye saldırı düzenlendi.\n\nSuudi Arabistan öncülüğündeki Arap Koalisyonu'nun Sözcüsü Tümgeneral Turki el-Maliki, saldırıyı \"terör saldırısı\" olarak nitelendirdi.\n\n— Maliki, yetkili birimlerin olayın yaşandığı bölgede müdahale ve inceleme çalışmalarını sürdürdüğünü belirtti.\n— Saldırının sorumluları, kullanılan silahlar ve oluşan hasar hakkında henüz bir açıklama yapılmadı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/-arap-koalisyonu-riyaddaki-finans-merkezinde-bir-kule-saldiriya-ugradi/4135894",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/suudi-arabistanin-baskentindeki-finans-merkezi-saldiriya-ugradi-964332.html",
+    "Milliyet: https://www.milliyet.com.tr/dunya/son-dakika-suudi-arabistanin-baskenti-riyaddaki-finans-merkezine-saldiri-7707028",
+    "CNN Türk: https://www.cnnturk.com/dunya/son-dakika-suudi-arabistanin-kalbindeki-finans-merkezi-yine-vuruldu-3497533",
+    "Habertürk: https://www.haberturk.com/dunya/son-dakika-riyad-daki-finans-merkezi-kulelerine-saldiri-3929787",
+    "Karar: https://www.karar.com/dunya-haberleri/riyaddaki-finans-merkezinde-kuleye-saldiri-2086011"
+   ]
   }
  ],
  "fails": {
@@ -13023,7 +13049,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125224686950961224",
+   "since_id": "2125228443293905048",
    "started": true
   },
   "ajansmuhbir1923": {
