@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "afet",
-    "aydır",
-    "beled",
-    "elekt",
-    "etmiy",
-    "kabul",
-    "konut",
-    "sorum",
-    "yok"
-   ],
-   "tok": [
-    "afet",
-    "aile",
-    "ailel",
-    "anlat",
-    "ardın",
-    "aydır",
-    "bekle",
-    "beled",
-    "deki",
-    "ders",
-    "elde",
-    "elekt",
-    "eseny",
-    "etmiy",
-    "evler",
-    "gider",
-    "heyel",
-    "hürri",
-    "ise",
-    "istiy",
-    "kabul",
-    "kalıc",
-    "kesin",
-    "konut",
-    "mahal",
-    "mağdu",
-    "mum",
-    "ndeki",
-    "olmad",
-    "oturu",
-    "prefa",
-    "savun",
-    "sorum",
-    "veril",
-    "yakla",
-    "yaşıy",
-    "yerle",
-    "yok",
-    "yurtt",
-    "yıkad",
-    "yılla",
-    "çalış",
-    "çamaş",
-    "çocuk",
-    "ışığı"
-   ],
-   "at": "2026-11-23T02:37:03.966156+00:00"
-  },
-  {
-   "fp": [
     "bürok",
     "eski",
     "ihale",
@@ -10367,20 +10305,91 @@
     "şoför"
    ],
    "at": "2026-11-24T14:35:27.215577+00:00"
+  },
+  {
+   "fp": [
+    "kate",
+    "krali",
+    "prens",
+    "willi"
+   ],
+   "tok": [
+    "ailes",
+    "alarm",
+    "alınm",
+    "alını",
+    "anmer",
+    "arazi",
+    "asıl",
+    "batıs",
+    "başla",
+    "belir",
+    "bildi",
+    "değil",
+    "dinle",
+    "düğün",
+    "eliza",
+    "evde",
+    "evden",
+    "evi",
+    "evine",
+    "eşi",
+    "eşya",
+    "gelme",
+    "gerçe",
+    "girdi",
+    "giril",
+    "giriş",
+    "güven",
+    "hall",
+    "hediy",
+    "henüz",
+    "hırsı",
+    "ikame",
+    "ilgil",
+    "ingil",
+    "izins",
+    "kate",
+    "kimli",
+    "kişil",
+    "konut",
+    "krali",
+    "kulla",
+    "kır",
+    "kısa",
+    "londr",
+    "malik",
+    "middl",
+    "nasıl",
+    "nden",
+    "netle",
+    "norfo",
+    "nın",
+    "odalı",
+    "olay",
+    "olayl",
+    "olmad",
+    "ortay",
+    "prens",
+    "resmi",
+    "sandr",
+    "sıras",
+    "taki",
+    "tatil",
+    "veril",
+    "willi",
+    "winds",
+    "yatak",
+    "çift",
+    "çifti",
+    "çocuk",
+    "çocuğ",
+    "çıktı"
+   ],
+   "at": "2026-11-24T14:48:11.333932+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "49d19005a9",
-   "post_id": "529346797199852_1476604701245904",
-   "title": "Yeni Partili Sümer'den ekonomi tepkisi: 'Çiftçi üretimden çekiliyor, işçiler geçinemiyor'",
-   "at": "2026-11-22T10:37:40.490102+00:00",
-   "yazim": "claude",
-   "metin": "Adana Milletvekili Orhan Sümer, ekonomi politikaları için:\n\n“Esnaf siftah yapamıyor, çiftçinin ürünü dalında kalıyor, işçimiz geçinemiyor. Üretmek isteyen finansmana ulaşamıyor, borcunu ödemek isteyen yüksek faiz yükünün altında eziliyor.”\n\n— Sümer, artan maliyet ve yüksek faizin üreticileri zorladığını söyledi.\n— Emeklilerin temel ihtiyaçlarını karşılamakta güçlük çektiğini belirtti.\n— Verilen krediye “Nefes Kredisi” adı konulmasını da eleştirdi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010660/yeni-partili-sumer-den-ekonomi-tepkisi-ciftci-uretimden-cekiliyor-isciler-gecinemiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "b49f9f1e2c",
    "post_id": "529346797199852_1476614411244933",
@@ -12989,6 +12998,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/izmir-de-ambulansa-saldiri-cami-kirildi-soforu-darbedildi-2559025",
     "Yeni Şafak: https://www.yenisafak.com/gundem/izmirde-ambulansa-saldiri-sofor-darbedildi-4876129"
    ]
+  },
+  {
+   "id": "1696023dac",
+   "post_id": "529346797199852_1479037601002614",
+   "title": "İngiliz kraliyet ailesinde güvenlik alarmı: Prens William ve Kate'in evine girildi",
+   "at": "2026-11-24T14:48:11.333932+00:00",
+   "yazim": "claude",
+   "metin": "İngiltere'de Prens William ve Kate Middleton'ın Norfolk'taki kır evine kimliği belirsiz kişiler izinsiz girdi.\n\nPolis olayla ilgili soruşturma başlattı. Çift ve üç çocukları olay sırasında evde değildi.\n\n— Konut, Sandringham arazisindeki 10 yatak odalı Anmer Hall. Ev, 2011'de Kraliçe II. Elizabeth tarafından düğün hediyesi olarak verilmişti.\n— Çift bu evi tatillerde ve kısa dinlenmelerde kullanıyor. Asıl ikametgâhları Londra'nın batısındaki Windsor'da.\n— Norfolk Polisi'nden henüz resmi bir açıklama gelmedi. İzinsiz girişin nasıl gerçekleştiği ve evden eşya alınıp alınmadığı netleşmedi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/ingiliz-kraliyet-ailesinde-guvenlik-alarmi-prens-william-ve-kate-in-evine-girildi-2559007",
+    "BPT (X): https://x.com/bpthaber/status/2125237464277156276"
+   ]
   }
  ],
  "fails": {
@@ -13220,7 +13241,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125235364411617615",
+   "since_id": "2125239979341193361",
    "started": true
   },
   "ajansmuhbir1923": {
