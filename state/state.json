@@ -10076,20 +10076,73 @@
     "şirke"
    ],
    "at": "2026-11-24T03:48:50.706290+00:00"
+  },
+  {
+   "fp": [
+    "2027",
+    "değer",
+    "ehliy",
+    "kimli",
+    "nin",
+    "oranı",
+    "pasap",
+    "yenid",
+    "ücret"
+   ],
+   "tok": [
+    "artır",
+    "artış",
+    "azalt",
+    "bazı",
+    "belir",
+    "beyan",
+    "cezal",
+    "değer",
+    "dönem",
+    "ehliy",
+    "etkil",
+    "gayri",
+    "gazet",
+    "gelir",
+    "geçic",
+    "harç",
+    "harçl",
+    "hazin",
+    "hazır",
+    "idare",
+    "idari",
+    "iradı",
+    "kimli",
+    "maliy",
+    "menku",
+    "nin",
+    "nın",
+    "olaca",
+    "oran",
+    "oranı",
+    "para",
+    "pasap",
+    "refer",
+    "resmi",
+    "sahip",
+    "serma",
+    "sınır",
+    "tebli",
+    "temet",
+    "tutar",
+    "uygul",
+    "vergi",
+    "yayım",
+    "yenid",
+    "yetki",
+    "yüzde",
+    "yılın",
+    "ücret"
+   ],
+   "at": "2026-11-24T04:05:15.861780+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ce60cdf971",
-   "post_id": "529346797199852_1476149884624719",
-   "title": "Lviv'de Rus füze ve İHA saldırısı: araç kamerası patlama anını kaydetti",
-   "at": "2026-11-21T23:22:00.634206+00:00",
-   "yazim": "claude",
-   "metin": "Rusya'nın Lviv kentine ve çevresine düzenlediği füze ve insansız hava aracı saldırısında iki kişi hayatını kaybetti, en az 10 kişi yaralandı.\n\n— Zaliznychnyi ilçesinde konut blokları ve garajlarda yangınlar çıktı. Sknyliv tren istasyonundaki bir bilet terminali de zarar gördü.\n— Yakındaki Zolochiv ilçesinde düşürülen bir Rus insansız hava aracının parçaları üç eve ve bir araca zarar verdi, bir kişi daha yaralandı.\n— Bir sürücünün araç kamerasına, bir mühimmatın aracının hemen önündeki binaya isabet ettiği an yansıdı.\n— Zelenskiy, Rusya'nın bu geniş çaplı saldırıda 400'den fazla insansız hava aracı ve 110'dan fazla füze fırlattığını söyledi.",
-   "sources": [
-    "Euronews: https://tr.euronews.com/video/2026/11/22/lvivde-rus-fuze-ve-iha-saldirisi-arac-kamerasi-patlama-anini-kaydetti"
-   ]
-  },
   {
    "id": "380ace1687",
    "post_id": "529346797199852_1476156451290729",
@@ -12630,6 +12683,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/yoksula-fatura-destegi-dagitim-sirketlerine-servet-748052"
    ]
+  },
+  {
+   "id": "6948f8ad7c",
+   "post_id": "529346797199852_1478538167719224",
+   "title": "Yeniden değerleme oranı belli oldu: İşte 2027'nin yeni ehliyet, pasaport ve kimlik ücretleri",
+   "at": "2026-11-24T04:05:15.861780+00:00",
+   "yazim": "claude",
+   "metin": "Vergi ve harç tutarlarını artıracak yeniden değerleme oranı yüzde 27,83 olarak belli oldu.\n\nHazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı'nın hazırladığı tebliğ Resmi Gazete'de yayımlandı. Oran, 2026'nın son geçici vergi döneminde de uygulanacak.\n\n— Bu oran, 2027 yılında vergi, harç ve idari para cezalarının belirlenmesinde referans olacak.\n— Ücret ve temettü gelirlerinde ile menkul ve gayrimenkul sermaye iradında beyan sınırları da bu artıştan etkilenecek.\n— Cumhurbaşkanı, bazı vergi ve harçlarda bu oranı artırma ya da azaltma yetkisine sahip.",
+   "sources": [
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/yeniden-degerleme-orani-belli-oldu-iste-2027-nin-yeni-ehliyet-pasaport-ve-kimlik-ucretleri-p383851"
+   ]
   }
  ],
  "fails": {
@@ -12809,13 +12873,10 @@
   "e15157f5a4": 1,
   "29bb9c9fa1": 1,
   "4a2cdcf217": 2,
-  "45c6410404": 1,
+  "45c6410404": 2,
   "aa12852a8d": 1
  },
  "fail_log": [
-  "2026-11-24T02:00 İstanbul'da iki günlük kış. Atkı, bere ve eldivenler erken ç -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-24T03:14 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:14 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
   "2026-11-24T03:14 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
   "2026-11-24T03:14 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
   "2026-11-24T03:14 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
@@ -12852,7 +12913,10 @@
   "2026-11-24T04:01 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
   "2026-11-24T04:01 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
   "2026-11-24T04:01 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
-  "2026-11-24T04:01 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı"
+  "2026-11-24T04:01 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:05 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:05 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:05 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
