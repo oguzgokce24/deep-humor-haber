@@ -2,48 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bastı",
-    "bingö",
-    "sağan",
-    "yerle"
-   ],
-   "tok": [
-    "altın",
-    "ardın",
-    "bastı",
-    "bazı",
-    "başla",
-    "beled",
-    "bingö",
-    "birli",
-    "debis",
-    "deren",
-    "ekipl",
-    "etkil",
-    "geçen",
-    "gider",
-    "ilçed",
-    "ilçes",
-    "kaldı",
-    "katla",
-    "kayma",
-    "mağdu",
-    "neden",
-    "sağan",
-    "solha",
-    "sular",
-    "taşan",
-    "yağış",
-    "yerle",
-    "yükse",
-    "zemin",
-    "çalış",
-    "çevre"
-   ],
-   "at": "2026-11-22T16:00:24.783757+00:00"
-  },
-  {
-   "fp": [
     "bazı",
     "bozca",
     "engel",
@@ -12850,18 +12808,11 @@
   "61f7d54f2f": 1,
   "e15157f5a4": 1,
   "29bb9c9fa1": 1,
-  "4a2cdcf217": 1
+  "4a2cdcf217": 2,
+  "45c6410404": 1,
+  "aa12852a8d": 1
  },
  "fail_log": [
-  "2026-11-24T01:43 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:43 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:43 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:43 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
-  "2026-11-24T02:00 Adana’da toplanan çöplerin arasında toplumsal çürümenin izi: -> ValueError: yanıt okunamadı",
-  "2026-11-24T02:00 Adana’da toplanan çöplerin arasında toplumsal çürümenin izi: -> ValueError: yanıt okunamadı",
-  "2026-11-24T02:00 Adana’da toplanan çöplerin arasında toplumsal çürümenin izi: -> ValueError: yanıt okunamadı",
-  "2026-11-24T02:00 İstanbul'da iki günlük kış. Atkı, bere ve eldivenler erken ç -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-24T02:00 İstanbul'da iki günlük kış. Atkı, bere ve eldivenler erken ç -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-24T02:00 İstanbul'da iki günlük kış. Atkı, bere ve eldivenler erken ç -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-24T03:14 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
   "2026-11-24T03:14 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
@@ -12892,7 +12843,16 @@
   "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
   "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
   "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı"
+  "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
+  "2026-11-24T04:01 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
