@@ -10773,22 +10773,67 @@
     "şirke"
    ],
    "at": "2026-11-24T21:59:39.424642+00:00"
+  },
+  {
+   "fp": [
+    "14",
+    "41",
+    "değiş",
+    "gazet",
+    "ilin",
+    "karar",
+    "merke",
+    "vali",
+    "valis",
+    "yayım",
+    "çekil"
+   ],
+   "tok": [
+    "afad",
+    "akbıy",
+    "ali",
+    "arala",
+    "arası",
+    "atama",
+    "atand",
+    "ağrı",
+    "balık",
+    "bozku",
+    "bulun",
+    "dayan",
+    "değiş",
+    "erdoğ",
+    "gazet",
+    "getir",
+    "hamza",
+    "hatay",
+    "idris",
+    "ilin",
+    "imzal",
+    "ise",
+    "ismai",
+    "izmir",
+    "kasım",
+    "muğla",
+    "nin",
+    "pehli",
+    "recep",
+    "resmi",
+    "resmî",
+    "tayyi",
+    "ustao",
+    "vali",
+    "valil",
+    "valis",
+    "var",
+    "yayım",
+    "çekil",
+    "önder"
+   ],
+   "at": "2026-11-24T22:12:17.370369+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6ea3c2dce0",
-   "post_id": "529346797199852_1476955444544163",
-   "title": "81 gün sonra 'ümit yok' denildi: Kayıp denizcilerin ailelerinden aramanın yeniden başlatılması talebi",
-   "at": "2026-11-22T17:28:37.593668+00:00",
-   "yazim": "claude",
-   "metin": "Silivri açıklarında batan Tuğberk İmamoğlu gemisindeki 8 denizcinin aileleri, 81 gün sonra durdurulan aramanın yeniden başlatılmasını istedi.\n\nAilelerin açıklamasında şöyle deniliyor: “Biz yakınlarımızı bütçe gerekçelerine, sigorta şirketlerine ve bürokratik engellere terk etmek istemiyoruz.”\n\n— Gemi 2 Eylül'de bir tanker ile çarpışarak Marmara Denizi'nde battı. 10 mürettebattan 2'sinin naaşına ulaşıldı, 8 denizci hâlâ kayıp.\n— Ulaştırma ve Altyapı Bakanlığı, \"makul bir kurtarma ümidi olmadığı\" gerekçesiyle aramayı sonlandırdı.\n— Aileler, İstanbul, İzmir, Samsun ve Mersin'de eş zamanlı açıklama yaparak yakınlarının naaşlarının çıkarılmasını talep etti.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-calismalari-yeniden-baslatilmali-2558393",
-    "Evrensel: https://www.evrensel.net/haber/6010700/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-ve-cikarma-calismalari-yeniden-baslatilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/81-gun-sonra-umit-yok-denildi-kayip-denizcilerin-ailelerinden-aramanin-yeniden-baslatilmasi-talebi-747831"
-   ]
-  },
   {
    "id": "5f56a7efa1",
    "post_id": "529346797199852_1476967854542922",
@@ -13401,6 +13446,20 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/bilim-teknoloji/axios-anthropic-ve-openai-henuz-yayimlamadiklari-cok-daha-gelismis-yapay-zeka-sistemlerine-sahip/4136389",
     "TRT Haber: https://www.trthaber.com/haber/dunya/axios-anthropic-ve-openai-henuz-yayimlamadiklari-cok-daha-gelismis-yapay-zeka-sistemlerine-sahip-964357.html",
     "Diken: https://www.diken.com.tr/axios-openai-ve-anthropic-kendi-modellerini-kontrol-edemiyor/?utm_source=rss&utm_medium=rss&utm_campaign=axios-openai-ve-anthropic-kendi-modellerini-kontrol-edemiyor"
+   ]
+  },
+  {
+   "id": "db00e3137a",
+   "post_id": "529346797199852_1479392237633817",
+   "title": "Atama kararları yayımlandı. 41 ilin valisi değişti, 14 vali merkeze çekildi",
+   "at": "2026-11-24T22:12:17.370369+00:00",
+   "yazim": "claude",
+   "metin": "Resmi Gazete'de yayımlanan kararnameyle 14 vali merkeze çekildi, 41 ilin valisi değişti.\n\n— Kararname, Cumhurbaşkanı Recep Tayyip Erdoğan'ın 24 Kasım'da imzaladığı atama kararına dayanıyor.\n\n— Merkeze çekilen valiler arasında Muğla Valisi İdris Akbıyık da var.\n\n— İzmir'e Balıkesir Valisi İsmail Ustaoğlu atandı. Hatay Valiliğine ise AFAD Başkanı Ali Hamza Pehlivan getirildi.\n\n— AFAD Başkanlığına da Ağrı Valisi Önder Bozkurt atandı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/41-ilin-valisi-degisti-14-vali-merkeze-cekildi-964375.html",
+    "NTV: https://www.ntv.com.tr/turkiye/cok-sayida-valinin-gorev-yeri-degisti-1752438",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-resmi-gazete-de-yayimlandi-14-ilin-valisi-merkeze-cekildi-41-ile-vali-atandi-2559127",
+    "Karar: https://www.karar.com/guncel-haberler/son-dakika-valiler-kararnamesi-yayimlandi-2086069"
    ]
   }
  ],
