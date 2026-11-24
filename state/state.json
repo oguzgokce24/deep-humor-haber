@@ -2,91 +2,6 @@
  "seen": [
   {
    "fp": [
-    "akıma",
-    "duman",
-    "kapıl",
-    "prizd",
-    "çıkan"
-   ],
-   "tok": [
-    "adam",
-    "adamı",
-    "adres",
-    "akıma",
-    "akımı",
-    "aldı",
-    "alına",
-    "ambul",
-    "antal",
-    "ağır",
-    "banyo",
-    "başla",
-    "blok",
-    "boyun",
-    "buldu",
-    "daire",
-    "duman",
-    "durdu",
-    "edere",
-    "ederk",
-    "ekipl",
-    "elekt",
-    "etmek",
-    "fark",
-    "girdi",
-    "harek",
-    "hasta",
-    "ihbar",
-    "ilgil",
-    "ilçes",
-    "incel",
-    "istey",
-    "kalbi",
-    "kaldı",
-    "kalp",
-    "kapıl",
-    "katın",
-    "masaj",
-    "murat",
-    "müdah",
-    "nabzı",
-    "neden",
-    "nın",
-    "olay",
-    "olayl",
-    "olmas",
-    "prizd",
-    "prizi",
-    "saat",
-    "sağlı",
-    "sevk",
-    "siten",
-    "suni",
-    "sürül",
-    "sıral",
-    "tenef",
-    "tutma",
-    "yakla",
-    "yangı",
-    "yapar",
-    "yapıl",
-    "yarım",
-    "yatar",
-    "yaşan",
-    "yaşın",
-    "yenid",
-    "yerle",
-    "çıkan",
-    "çıktı",
-    "öne",
-    "ıslak",
-    "şahsı",
-    "şahıs"
-   ],
-   "at": "2026-11-22T22:59:35.776481+00:00"
-  },
-  {
-   "fp": [
     "asliy",
     "hukuk",
     "mahke"
@@ -9947,23 +9862,78 @@
     "şidde"
    ],
    "at": "2026-11-24T10:51:00.048219+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "annes",
+    "babas",
+    "cinay",
+    "kadın",
+    "kayın",
+    "nihal",
+    "tekir",
+    "çağla",
+    "çocuk",
+    "öldür"
+   ],
+   "tok": [
+    "adliy",
+    "adlı",
+    "adres",
+    "akşam",
+    "ancak",
+    "annes",
+    "arası",
+    "ağır",
+    "babas",
+    "belir",
+    "büyüy",
+    "bıçak",
+    "cinay",
+    "devle",
+    "dün",
+    "ekipl",
+    "erkeğ",
+    "evde",
+    "evdek",
+    "evli",
+    "eşini",
+    "gelin",
+    "gider",
+    "hasta",
+    "henüz",
+    "ihbar",
+    "ilçes",
+    "kadın",
+    "kaldı",
+    "katle",
+    "kayın",
+    "kurta",
+    "kızıl",
+    "mahal",
+    "mehme",
+    "ndeki",
+    "neden",
+    "nihal",
+    "olay",
+    "sağlı",
+    "sevk",
+    "tartı",
+    "tekir",
+    "tesli",
+    "yaşan",
+    "yaşın",
+    "çağla",
+    "çerke",
+    "çocuk",
+    "çıktı",
+    "öldür"
+   ],
+   "at": "2026-11-24T11:03:47.853934+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4dd01cc59a",
-   "post_id": "529346797199852_1476439454595762",
-   "title": "Ara tatil sonrası ilk ders yarın: 17 milyon öğrenci okula dönüyor",
-   "at": "2026-11-22T06:48:53.296262+00:00",
-   "yazim": "claude",
-   "metin": "Ara tatil bitti, yaklaşık 17 milyon öğrenci yarın yeniden dersbaşı yapacak.\n\nMilli Eğitim Bakanlığına bağlı ilk ve ortaöğretim okullarında 16-20 Kasım tarihleri arasında uygulanan ara tatil sona erdi. Tüm ilçelerde eğitim kaldığı yerden devam edecek.\n\n— Yaklaşık 1,2 milyon öğretmen de yarın sınıflara dönecek.\n— Öğretmenler kasım dönemi mesleki çalışmalarını ÖBA üzerinden bugün saat 23.59'a kadar tamamlayabilecek.\n— Birinci dönem 22 Ocak 2027'de sona erecek ve yarıyıl tatili 25 Ocak-5 Şubat tarihleri arasında olacak.\n— İkinci dönem 8 Şubat'ta başlayacak, ara tatil 8-12 Mart'ta yapılacak ve yıl 25 Haziran 2027'de bitecek.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/17-milyon-ogrenci-okula-donuyor-9-gunluk-tatil-bitti-43386629",
-    "Evrensel: https://www.evrensel.net/haber/6010639/ara-tatil-sonrasi-ilk-ders-yarin-17-milyon-ogrenci-okula-donuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/guncel-haberler/ara-tatil-sona-erdi-milyonlarca-ogrenci-yarin-dersbasi-yapacak-2085524",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/17-milyon-ogrenci-okula-donuyor-9-gunluk-tatil-bitti-43386629"
-   ]
-  },
   {
    "id": "2ffff3505f",
    "post_id": "529346797199852_1476447751261599",
@@ -12543,6 +12513,20 @@
     "Evrensel: https://www.evrensel.net/haber/6010949/vietnam-in-baskenti-hanoi-de-patlama-6-kisi-hayatini-kaybetti-10-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/dunya-haberleri/vietnamin-baskenti-hanoide-restoranda-patlama-6-olu-10-yarali-2085911"
    ]
+  },
+  {
+   "id": "67cae84626",
+   "post_id": "529346797199852_1478836901022684",
+   "title": "Çerkezköy'de kadın cinayeti: Nihal Çağlar, eşinin babası tarafından öldürüldü",
+   "at": "2026-11-24T11:03:47.853934+00:00",
+   "yazim": "claude",
+   "metin": "Çerkezköy'de 43 yaşındaki üç çocuk annesi bir kadın, kayınpederi tarafından bıçaklanarak öldürüldü.\n\nOlay dün akşam Kızılpınar Mahallesi'ndeki evde yaşandı. Kayınpeder ile gelini arasında henüz nedeni belirlenemeyen bir tartışma çıktı. Tartışma büyüyünce kayınpeder kadını bıçakladı.\n\n— Ağır yaralanan kadın Çerkezköy Devlet Hastanesi'ne kaldırıldı ancak kurtarılamadı.\n— Evdekilerin ihbarı üzerine adrese sağlık ekipleri sevk edildi.\n— Saldırgan jandarmaya giderek teslim oldu ve adliyeye sevk edildi.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/uc-cocuk-annesi-nihal-caglari-kayinpederi-oldurdu-p383991",
+    "Evrensel: https://www.evrensel.net/haber/6010947/cerkezkoy-de-kadin-cinayeti-nihal-caglar-esinin-babasi-tarafindan-olduruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/tekirdag-da-kadin-cinayeti-nihal-caglar-evli-oldugu-erkegin-babasi-tarafindan-katledildi-748160",
+    "Karar: https://www.karar.com/guncel-haberler/tekirdagda-kadin-cinayeti-uc-cocuk-annesi-nihal-caglari-kayinpederi-2085931"
+   ]
   }
  ],
  "fails": {
@@ -12726,12 +12710,10 @@
   "f1dadb7f9c": 1,
   "4414347d8b": 1,
   "c3b5fd5506": 1,
-  "a3f9c39a40": 1
+  "a3f9c39a40": 1,
+  "7eb8ff7cd5": 1
  },
  "fail_log": [
-  "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
   "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
   "2026-11-24T04:01 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
   "2026-11-24T04:01 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
@@ -12768,12 +12750,15 @@
   "2026-11-24T09:36 California'da helikopter kazası: 2 kişi hayatını kaybetti -> ValueError: yanıt okunamadı",
   "2026-11-24T09:36 Tutuklanan Tera Yatırım YK Başkanvekili Sarpyener'in ifadesi -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-24T10:51 Vietnam'ın başkenti Hanoi'de restoranda patlama: 6 ölü, 10 y -> ValueError: yanıt okunamadı",
-  "2026-11-24T10:51 Vietnam'ın başkenti Hanoi'de restoranda patlama: 6 ölü, 10 y -> ValueError: yanıt okunamadı"
+  "2026-11-24T10:51 Vietnam'ın başkenti Hanoi'de restoranda patlama: 6 ölü, 10 y -> ValueError: yanıt okunamadı",
+  "2026-11-24T11:03 Tam liste: Araçlara göre 2027 MTV tutarları -> ValueError: yanıt okunamadı",
+  "2026-11-24T11:03 Tam liste: Araçlara göre 2027 MTV tutarları -> ValueError: yanıt okunamadı",
+  "2026-11-24T11:03 Tam liste: Araçlara göre 2027 MTV tutarları -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125179959979241888",
+   "since_id": "2125182618010530129",
    "started": true
   },
   "ajansmuhbir1923": {
