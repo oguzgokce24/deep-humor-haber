@@ -10202,21 +10202,86 @@
     "öncül"
    ],
    "at": "2026-11-24T14:10:34.297992+00:00"
+  },
+  {
+   "fp": [
+    "ankar",
+    "avm",
+    "düştü",
+    "hafri",
+    "kamyo",
+    "otopa",
+    "yol",
+    "çukur",
+    "çöktü"
+   ],
+   "tok": [
+    "acity",
+    "alınd",
+    "alışv",
+    "ardın",
+    "avm",
+    "açık",
+    "belir",
+    "bulun",
+    "bölge",
+    "bölüm",
+    "düştü",
+    "getir",
+    "göçük",
+    "göçüğ",
+    "güven",
+    "hafri",
+    "havay",
+    "henüz",
+    "ilçes",
+    "imkan",
+    "içind",
+    "içine",
+    "kabin",
+    "kalan",
+    "kalkt",
+    "kamyo",
+    "kendi",
+    "kepçe",
+    "kurta",
+    "mahsu",
+    "makin",
+    "neden",
+    "nin",
+    "nın",
+    "olay",
+    "oluşa",
+    "oluşt",
+    "otomo",
+    "otopa",
+    "sonuc",
+    "sürüc",
+    "tahli",
+    "yardı",
+    "yenim",
+    "yerin",
+    "yol",
+    "yolun",
+    "yönet",
+    "zemin",
+    "çalış",
+    "çekti",
+    "çukur",
+    "çöken",
+    "çökme",
+    "çöktü",
+    "çıkam",
+    "çıkar",
+    "önlem",
+    "önünd",
+    "şekil",
+    "şerid"
+   ],
+   "at": "2026-11-24T14:22:59.258320+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e022ac8f49",
-   "post_id": "529346797199852_1476585891247785",
-   "title": "AKINCI'dan bir ilk daha: Milli torpido ORKA denizin altındaki hedefi böyle vurdu",
-   "at": "2026-11-22T10:12:31.057650+00:00",
-   "yazim": "claude",
-   "metin": "Bayraktar AKINCI, ROKETSAN'ın ORKA torpidosunu Saros Körfezi üzerinde havadan bıraktı ve test başarılı oldu.\n\n— Torpido, AKINCI'nın kanat altından güvenle ayrıldı ve belirlenen noktada suya indi.\n— ORKA, denizaltı hedeflerine karşı kullanılmak üzere geliştirilen yeni nesil bir hafif torpido. Bir insansız hava aracından bırakılması ilk kez gerçekleşti.\n— Aktif ve pasif sonar başlığıyla su altındaki hedefleri tespit edebiliyor.\n\nROKETSAN Genel Müdürü Murat İkinci testin ardından şunu söyledi:\n\n“Gök vatandan Mavi Vatan'a uzanan önemli bir başarı.”",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/bilim-teknoloji/milli-torpido-orka-bayraktar-akinci-ile-denizle-bulustu/4133381",
-    "Karar: https://www.karar.com/guncel-haberler/akincidan-bir-ilk-daha-milli-torpido-orka-denizin-altindaki-hedefi-2085557"
-   ]
-  },
   {
    "id": "2d528c577e",
    "post_id": "529346797199852_1476595341246840",
@@ -12818,6 +12883,21 @@
     "Habertürk: https://www.haberturk.com/dunya/son-dakika-riyad-daki-finans-merkezi-kulelerine-saldiri-3929787",
     "Karar: https://www.karar.com/dunya-haberleri/riyaddaki-finans-merkezinde-kuleye-saldiri-2086011"
    ]
+  },
+  {
+   "id": "a5827bfaa1",
+   "post_id": "529346797199852_1479015481004826",
+   "title": "Ankara'da AVM otoparkında göçük: Hafriyat kamyonu çukura düştü",
+   "at": "2026-11-24T14:22:59.258320+00:00",
+   "yazim": "claude",
+   "metin": "Ankara'nın Yenimahalle ilçesinde bir AVM'nin açık otoparkında yol çöktü, hafriyat kamyonu çukura düştü.\n\n— Kamyonun kabini havaya kalktı, içindeki sürücü kendi imkanlarıyla çıkamadı.\n— Sürücü, bölgeye getirilen iş makinesinin kepçesiyle güvenli şekilde tahliye edildi.\n— Çökmenin nedeni henüz belirlenemedi.\n— AVM yönetimi göçüğün olduğu bölümde güvenlik şeridi çekti. Kamyon çalışmaların ardından çukurdan çıkarıldı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/ankarada-coken-yolun-olusturdugu-cukura-hafriyat-kamyonu-dustu/4135879",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/ankarada-avm-otoparkinda-yol-coktu-kamyonet-icine-dustu-964330.html",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ankara-da-avm-otoparkinda-yol-coktu-hafriyat-kamyonu-cukura-dustu-surucu-kepceyle-kurtarildi-2559032",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/ankarada-zemin-coktu-hafriyat-kamyonu-cukura-dustu-ankara-haberleri-4876097",
+    "Karar: https://www.karar.com/sehir-haberleri/ankarada-avm-otoparkinda-gocuk-hafriyat-kamyonu-cukura-dustu-2086015"
+   ]
   }
  ],
  "fails": {
@@ -13049,7 +13129,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125228443293905048",
+   "since_id": "2125233603873231129",
    "started": true
   },
   "ajansmuhbir1923": {
