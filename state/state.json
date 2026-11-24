@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "111",
-    "904",
-    "açıkl",
-    "bakan",
-    "bin",
-    "den",
-    "gazze",
-    "insan",
-    "malze",
-    "ton",
-    "ulaşt",
-    "yardı",
-    "çiftç"
-   ],
-   "tok": [
-    "afad",
-    "ayakt",
-    "bildi",
-    "bin",
-    "birli",
-    "bugün",
-    "den",
-    "duyur",
-    "edile",
-    "ekim",
-    "eli",
-    "gayre",
-    "gazze",
-    "gemi",
-    "gönde",
-    "gün",
-    "insan",
-    "içişl",
-    "kurul",
-    "kızıl",
-    "malze",
-    "musta",
-    "onuru",
-    "sivil",
-    "sunul",
-    "sıcak",
-    "tedar",
-    "ten",
-    "ton",
-    "topla",
-    "toplu",
-    "tutma",
-    "ulaşt",
-    "uzana",
-    "uçak",
-    "vicda",
-    "yana",
-    "yardı",
-    "yemek",
-    "yerel",
-    "çalış",
-    "çiftç"
-   ],
-   "at": "2026-11-22T18:51:10.097889+00:00"
-  },
-  {
-   "fp": [
     "anlam",
     "açıkl",
     "den",
@@ -10181,20 +10119,81 @@
     "öne"
    ],
    "at": "2026-11-24T06:41:10.354225+00:00"
+  },
+  {
+   "fp": [
+    "500",
+    "calif",
+    "cezas",
+    "den",
+    "fazla",
+    "hafif",
+    "idam",
+    "itira",
+    "mahku",
+    "tan",
+    "trump"
+   ],
+   "tok": [
+    "abd",
+    "aldı",
+    "ameri",
+    "asla",
+    "ayın",
+    "başın",
+    "biz",
+    "bugün",
+    "calif",
+    "ceza",
+    "cezas",
+    "daki",
+    "den",
+    "diyor",
+    "donal",
+    "duyur",
+    "düzey",
+    "edece",
+    "fazla",
+    "feder",
+    "gavin",
+    "geniş",
+    "götür",
+    "hafif",
+    "halkı",
+    "hapse",
+    "idam",
+    "imkân",
+    "indir",
+    "itira",
+    "işi",
+    "kalif",
+    "kapsa",
+    "katil",
+    "mahku",
+    "müebb",
+    "newso",
+    "nitel",
+    "olmay",
+    "siyas",
+    "sizin",
+    "sonun",
+    "tahli",
+    "talim",
+    "tan",
+    "trump",
+    "valis",
+    "verdi",
+    "yanın",
+    "yapıl",
+    "yer",
+    "çevir",
+    "çevri",
+    "şartl"
+   ],
+   "at": "2026-11-24T06:54:00.345211+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c675721948",
-   "post_id": "529346797199852_1476253681281006",
-   "title": "Hak gaspı sürüyor: Tekstil işçileri alacakları için ayakta",
-   "at": "2026-11-22T02:14:38.026962+00:00",
-   "yazim": "claude",
-   "metin": "KYR ve TABU Tekstil işçileri, ödenmeyen maaş, fazla mesai ve tazminatları için eylem yaptı.\n\n— 28 çalışanın toplam 2 milyon 66 bin TL alacağı olduğunu açıkladılar.\n— Fabrikada çalışmaya devam eden yaklaşık 100 kişinin birikmiş alacakları bu tutara dahil değil.\n— İşçiler, bu ödemelerin yapılmasını istedi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/hak-gaspi-suruyor-tekstil-iscileri-alacaklari-icin-ayakta-747715"
-   ]
-  },
   {
    "id": "66c2475da0",
    "post_id": "529346797199852_1476262044613503",
@@ -12724,6 +12723,22 @@
     "Evrensel: https://www.evrensel.net/haber/6010906/akp-kulislerinde-baskin-secim-hesabi-mayis-2027-ye-isaret-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/akp-kulislerinde-secim-hareketliligi-erdogan-icin-yeni-formul-arayisi-748090"
    ]
+  },
+  {
+   "id": "0358676b9e",
+   "post_id": "529346797199852_1478654841040890",
+   "title": "Trump, 500'den fazla idam mahkumunun cezasının hafifletilmesine itiraz edecek",
+   "at": "2026-11-24T06:54:00.345211+00:00",
+   "yazim": "claude",
+   "metin": "Trump, Newsom'un 500'den fazla idam cezasını müebbete çevirme kararına itiraz edecek:\n\n“O (Newsom), katillerin yanında yer aldı ama bugün biz diyoruz ki Amerikan halkı sizin yanınızda. (...) Bu işi sonuna kadar götüreceğiz.”\n\n— Newsom, bu ayın başında Kaliforniya'daki 500'den fazla idam mahkumunun cezasını şartlı tahliye imkânı olmayan müebbet hapse çevirmişti.\n— Trump, federal düzeyde idam cezasının kapsamını genişletmek için talimat verdiğini söyledi.\n— Kararı \"siyasi\" olarak nitelendiren Trump, \"Asla yapılmamalıydı\" dedi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/trump-californiada-500den-fazla-idam-mahkumunun-cezasinin-hafifletilmesine-itiraz-edecek/4135241",
+    "TRT Haber: https://www.trthaber.com/haber/dunya/trumptan-500-idam-mahkumunun-cezasinin-hafifletilmesine-itiraz-964257.html",
+    "Habertürk: https://www.haberturk.com/dunya/trump-california-da-500-den-fazla-idam-mahkumunun-cezasinin-hafifletilmesine-itiraz-edecek-3929625",
+    "Evrensel: https://www.evrensel.net/haber/6010905/trump-500-den-fazla-idam-mahkumunun-cezasinin-hafifletilmesine-itiraz-edecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/california-da-500-den-fazla-mahkumun-idam-cezasi-muebbete-cevrildi-trump-tan-itiraz-748093",
+    "Karar: https://www.karar.com/dunya-haberleri/trump-californiada-500-idam-mahkumunun-cezasinin-hafifletilmesine-2085872"
+   ]
   }
  ],
  "fails": {
@@ -12910,7 +12925,6 @@
  "fail_log": [
   "2026-11-24T03:21 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
   "2026-11-24T03:21 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:21 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
   "2026-11-24T03:21 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
   "2026-11-24T03:21 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
   "2026-11-24T03:21 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
@@ -12947,12 +12961,13 @@
   "2026-11-24T05:34 Kubilay Kaan Kundakçı cinayetinde yeni gelişme: Konum detayı -> ValueError: yanıt okunamadı",
   "2026-11-24T05:34 Kubilay Kaan Kundakçı cinayetinde yeni gelişme: Konum detayı -> ValueError: yanıt okunamadı",
   "2026-11-24T05:34 Kubilay Kaan Kundakçı cinayetinde yeni gelişme: Konum detayı -> ValueError: cümle yarım kalmış: '— Aile, sanığın'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-24T06:41 AKP kulislerinde seçim hareketliliği: Erdoğan için yeni form -> ValueError: yanıt okunamadı"
+  "2026-11-24T06:41 AKP kulislerinde seçim hareketliliği: Erdoğan için yeni form -> ValueError: yanıt okunamadı",
+  "2026-11-24T06:54 Trump, 500'den fazla idam mahkumunun cezasının hafifletilmes -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125110132141064270",
+   "since_id": "2125120407246430350",
    "started": true
   },
   "ajansmuhbir1923": {
