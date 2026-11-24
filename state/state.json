@@ -2,43 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aşama",
-    "geliş",
-    "neden",
-    "size",
-    "söyle",
-    "yalan",
-    "zihin",
-    "çocuğ",
-    "öneml"
-   ],
-   "tok": [
-    "alışk",
-    "ancak",
-    "açık",
-    "aşama",
-    "doğru",
-    "düşün",
-    "ediyo",
-    "geliş",
-    "gerek",
-    "kaygı",
-    "nasıl",
-    "neden",
-    "olma",
-    "size",
-    "sizi",
-    "söyle",
-    "temsi",
-    "yalan",
-    "zihin",
-    "çocuğ",
-    "öneml"
-   ],
-   "at": "2026-11-23T01:27:16.744638+00:00"
-  },
-  {
-   "fp": [
     "1",
     "91",
     "aldı",
@@ -10071,22 +10034,80 @@
     "şirke"
    ],
    "at": "2026-11-24T13:14:58.664566+00:00"
+  },
+  {
+   "fp": [
+    "bizi",
+    "dursu",
+    "etmiş",
+    "galat",
+    "netan",
+    "uefa",
+    "özbek",
+    "şikay"
+   ],
+   "tok": [
+    "amacı",
+    "aston",
+    "avrup",
+    "açtığ",
+    "basın",
+    "belir",
+    "bizi",
+    "bodo",
+    "dayan",
+    "deste",
+    "değiş",
+    "dikka",
+    "durdu",
+    "dursu",
+    "duydu",
+    "ekibi",
+    "etmem",
+    "etmiş",
+    "filis",
+    "galat",
+    "glimt",
+    "halkı",
+    "hazır",
+    "hüküm",
+    "ingil",
+    "israi",
+    "isted",
+    "itiba",
+    "karşı",
+    "konus",
+    "koreo",
+    "kulüb",
+    "kupal",
+    "ligi",
+    "maç",
+    "maçın",
+    "nde",
+    "neden",
+    "netan",
+    "nın",
+    "panka",
+    "soykı",
+    "söyle",
+    "taraf",
+    "ten",
+    "tepki",
+    "tutum",
+    "uefa",
+    "villa",
+    "çeken",
+    "çekmi",
+    "önünd",
+    "özbek",
+    "şampi",
+    "şikay",
+    "şikây"
+   ],
+   "at": "2026-11-24T13:27:32.927933+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "2959dc1cea",
-   "post_id": "529346797199852_1476555911250783",
-   "title": "AKOM'dan İstanbul'a lodos ve sağanak uyarısı: Sıcaklıklar sert düşecek",
-   "at": "2026-11-22T09:30:24.899887+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da pazartesi günü lodos fırtınası ve akşam sağanağı bekleniyor, salı günü sıcaklıklar belirgin biçimde düşecek.\n\nKenti, Orta Akdeniz'den gelen alçak basınç sistemleri ve Balkanlar üzerinden gelecek serin, yağışlı hava dalgası etkileyecek.\n\n— Pazartesi gündüz sıcaklık 12 ile 20 derece arasında olacak. Metrekareye 5 ila 15 kilogram yağış düşmesi bekleniyor.\n\n— Salı günü en yüksek sıcaklık 9 dereceye gerileyecek, sabah saatlerinde yağış etkili olacak.\n\n— Çarşamba ve perşembe yağış beklenmiyor, geceler 4 dereceye kadar soğuyacak. Cuma günü sağanak yağış yeniden etkili olacak.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/akom-dan-istanbul-a-lodos-ve-saganak-uyarisi-sicakliklar-sert-dusecek-p383360",
-    "Karar: https://www.karar.com/sehir-haberleri/akomdan-istanbula-firtina-ve-saganak-uyarisi-sicakliklar-sert-dusecek-2085549",
-    "Karar: https://www.karar.com/guncel-haberler/sari-kodlu-uyari-verilen-iller-hangileri-saganak-ve-firtina-hangi-2085544"
-   ]
-  },
   {
    "id": "9d6242ffb9",
    "post_id": "529346797199852_1476564824583225",
@@ -12680,6 +12701,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/yasam/spotify-neden-acilmiyor-spotify-coktu-mu-2558961",
     "Karar: https://www.karar.com/guncel-haberler/spotifyda-erisim-sorunu-binlerce-kullanici-hesabina-giris-yapamadi-2085992"
    ]
+  },
+  {
+   "id": "527a9377bc",
+   "post_id": "529346797199852_1478963541010020",
+   "title": "Dursun Özbek'ten flaş açıklama: 'Netanyahu, Galatasaray'ı şikayet etti'",
+   "at": "2026-11-24T13:27:32.927933+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray Başkanı Dursun Özbek:\n\n“Duyduk ki Netanyahu hükümeti, taraftarımızın Filistin halkına destek amacıyla açtığı pankartlar nedeniyle kulübümüzü UEFA'ya şikâyet etmiş.”\n\n— Şikâyetin, taraftarların Avrupa kupalarında açtığı Filistin destekli pankartlara dayandığı belirtildi.\n\n— Özbek, kulübün Filistin konusundaki tutumunun değişmeyeceğini söyleyerek UEFA'nın bu şikâyete itibar etmemesini istedi.\n\n— Galatasaray taraftarlarının Bodo/Glimt maçında hazırladığı “Soykırımı durdurun” koreografisi de İsrail basınında tepki çekmişti.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/galatasaray-baskani-dursun-ozbek-netanyahu-bizi-uefaya-sikayet-etmis-3497525",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/dursun-ozbek-ten-dikkat-ceken-aciklama-netanyahu-bizi-uefa-ya-sikayet-etmis-2559001",
+    "BirGün: https://www.birgun.net/haber/dursun-ozbek-netanyahu-bizi-uefa-ya-sikayet-etti-748205",
+    "Karar: https://www.karar.com/dunya-haberleri/netanyahu-galatasarayi-uefaya-sikayet-etti-2085990",
+    "Diken: https://www.diken.com.tr/netanyahu-galatasarayi-uefaya-sikayet-etmis/?utm_source=rss&utm_medium=rss&utm_campaign=netanyahu-galatasarayi-uefaya-sikayet-etmis",
+    "Sözcü Spor: https://www.sozcu.com.tr/dursun-ozbek-ten-flas-aciklama-israil-galatasaray-i-sikayet-etti-p384054"
+   ]
   }
  ],
  "fails": {
@@ -12911,7 +12948,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125211341036323149",
+   "since_id": "2125217154027094469",
    "started": true
   },
   "ajansmuhbir1923": {
