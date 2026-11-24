@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "altın",
-    "hayat",
-    "kaybe",
-    "tamir",
-    "trakt"
-   ],
-   "tok": [
-    "adam",
-    "altın",
-    "ambul",
-    "anide",
-    "arif",
-    "bilin",
-    "bozov",
-    "büyük",
-    "devle",
-    "dokto",
-    "ederk",
-    "ekipl",
-    "enver",
-    "etmes",
-    "etmey",
-    "ettiğ",
-    "gönde",
-    "harek",
-    "hasta",
-    "ihbar",
-    "ilçes",
-    "kalan",
-    "kaldı",
-    "kurta",
-    "mahal",
-    "müdah",
-    "nde",
-    "neden",
-    "nın",
-    "olay",
-    "rağme",
-    "saatl",
-    "sabah",
-    "sağlı",
-    "sonuc",
-    "sürüc",
-    "tamir",
-    "trakt",
-    "urfa",
-    "yaşam",
-    "yaşan",
-    "yaşın",
-    "yerin",
-    "yitir",
-    "yıldı",
-    "çalış",
-    "çevre",
-    "çiçek",
-    "şanlı"
-   ],
-   "at": "2026-11-23T10:40:13.088555+00:00"
-  },
-  {
-   "fp": [
     "3",
     "50",
     "avm",
@@ -10796,23 +10735,95 @@
     "şekil"
    ],
    "at": "2026-11-24T22:24:46.751084+00:00"
+  },
+  {
+   "fp": [
+    "000",
+    "70",
+    "750",
+    "8",
+    "arazi",
+    "atıyo",
+    "balık",
+    "dev",
+    "dönüm",
+    "imza",
+    "milas",
+    "tonlu",
+    "topra",
+    "üreti"
+   ],
+   "tok": [
+    "aile",
+    "aktar",
+    "altın",
+    "arazi",
+    "artez",
+    "atıl",
+    "atıyo",
+    "avşar",
+    "balık",
+    "balığ",
+    "birli",
+    "bölge",
+    "böyle",
+    "deniz",
+    "dev",
+    "dikka",
+    "durdu",
+    "dönüm",
+    "ekina",
+    "ekono",
+    "elekt",
+    "faali",
+    "grany",
+    "havuz",
+    "havza",
+    "hem",
+    "ilçes",
+    "imza",
+    "işlet",
+    "kapsa",
+    "kazan",
+    "kuyul",
+    "küçük",
+    "levre",
+    "milas",
+    "muham",
+    "muğla",
+    "nın",
+    "olmad",
+    "ortal",
+    "savra",
+    "sulam",
+    "suyun",
+    "söylü",
+    "sürdü",
+    "tarla",
+    "tarım",
+    "toguç",
+    "ton",
+    "tonlu",
+    "topra",
+    "tuzlu",
+    "uygun",
+    "yakla",
+    "yapıl",
+    "yer",
+    "yetiş",
+    "yüzde",
+    "yılda",
+    "çekiy",
+    "çipur",
+    "çorak",
+    "çıkar",
+    "özell",
+    "üreti"
+   ],
+   "at": "2026-11-24T22:41:02.509988+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e0e5eb7386",
-   "post_id": "529346797199852_1476977777875263",
-   "title": "Titanik yolcularının eşyaları 1 milyon sterline alıcı buldu",
-   "at": "2026-11-22T17:57:03.628135+00:00",
-   "yazim": "claude",
-   "metin": "İngiltere'de düzenlenen bir müzayedede, Titanik'te hayatını kaybeden yolculara ait 100'den fazla eşya toplam 1 milyon sterline satıldı.\n\n— Cep saati 250 bin sterline alıcı buldu.\n— Pırlanta yüzük ise 140 bin sterline satıldı.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/dunya/batan-geminin-mallarina-rekor-fiyat-titanik-muzayedesinde-1-milyon-sterlinlik-satis-7705749",
-    "CNN Türk: https://www.cnnturk.com/dunya/batan-geminin-mallarina-rekor-fiyat-114-yillik-hatiralar-servete-donustu-3496650",
-    "BirGün: https://www.birgun.net/haber/titanik-yolcularinin-esyalari-1-milyon-sterline-alici-buldu-747824",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/batan-geminin-mallarina-rekor-fiyat-titanik-muzayedesinde-1-milyon-sterlinlik-satis-7705749"
-   ]
-  },
   {
    "id": "0ae2cda887",
    "post_id": "529346797199852_1476987637874277",
@@ -13423,6 +13434,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/uc-cocugunun-onunde-kadin-cinayeti-esini-oldurup-kendisini-eve-kilitledi-2086074"
    ]
+  },
+  {
+   "id": "ef30eb20b9",
+   "post_id": "529346797199852_1479410964298611",
+   "title": "70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk dev üretime imza atıyor!",
+   "at": "2026-11-24T22:41:02.509988+00:00",
+   "yazim": "claude",
+   "metin": "Muğla'nın Milas ilçesinde tarla balıkçılığıyla yılda ortalama 8.750 ton deniz balığı üretiliyor.\n\n— Avşar, Ekinambarı ve Savran bölgelerindeki toprak havuzlarda levrek, çipura ve granyöz yetiştiriliyor.\n\n— Yer altındaki tuzlu su artezyen kuyularıyla çıkarılıp elektrikle havuzlara aktarılıyor.\n\n— Üretim yaklaşık 70.000 dönümlük bir havzada yapılıyor ve işletmelerin yüzde 85'i küçük aile işletmesi.\n\n— Birlik Başkanı Muhammet Toguç, bu tuzlu suyun tarımsal sulamaya uygun olmadığını ve atıl durduğunu, böylece hem suyun hem çorak arazilerin ekonomiye kazandırıldığını söylüyor.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/70-000-donum-arazide-toprak-balikciligi-milas-8-750-tonluk-dev-uretime-2086073"
+   ]
   }
  ],
  "fails": {
@@ -13624,8 +13646,6 @@
   "4c634fdecc": 1
  },
  "fail_log": [
-  "2026-11-24T10:51 Vietnam'ın başkenti Hanoi'de restoranda patlama: 6 ölü, 10 y -> ValueError: yanıt okunamadı",
-  "2026-11-24T10:51 Vietnam'ın başkenti Hanoi'de restoranda patlama: 6 ölü, 10 y -> ValueError: yanıt okunamadı",
   "2026-11-24T11:03 Tam liste: Araçlara göre 2027 MTV tutarları -> ValueError: yanıt okunamadı",
   "2026-11-24T11:03 Tam liste: Araçlara göre 2027 MTV tutarları -> ValueError: yanıt okunamadı",
   "2026-11-24T11:03 Tam liste: Araçlara göre 2027 MTV tutarları -> ValueError: yanıt okunamadı",
@@ -13663,7 +13683,9 @@
   "2026-11-24T22:37 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
   "2026-11-24T22:37 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
   "2026-11-24T22:37 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
-  "2026-11-24T22:37 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı"
+  "2026-11-24T22:37 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
+  "2026-11-24T22:41 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
+  "2026-11-24T22:41 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
