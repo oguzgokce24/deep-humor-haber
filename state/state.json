@@ -10245,21 +10245,86 @@
     "üssü"
    ],
    "at": "2026-11-24T16:27:37.101334+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "depre",
+    "düzey",
+    "fon",
+    "hayat",
+    "ikinc",
+    "istif",
+    "yazıc",
+    "üst"
+   ],
+   "tok": [
+    "adı",
+    "akp",
+    "akşam",
+    "alına",
+    "ardın",
+    "betül",
+    "boşal",
+    "dan",
+    "depre",
+    "duyur",
+    "düzey",
+    "edilm",
+    "eski",
+    "ettiğ",
+    "eylül",
+    "fatma",
+    "fon",
+    "gelen",
+    "gelmi",
+    "genel",
+    "görev",
+    "günde",
+    "hapsi",
+    "hesab",
+    "iddia",
+    "ifade",
+    "ikinc",
+    "ilişk",
+    "istif",
+    "iyi",
+    "kapsa",
+    "kasım",
+    "kaya",
+    "kez",
+    "konuş",
+    "medya",
+    "musta",
+    "nin",
+    "nın",
+    "odası",
+    "odatv",
+    "oğlu",
+    "parti",
+    "sayan",
+    "sorus",
+    "soruy",
+    "sosya",
+    "sürül",
+    "tahli",
+    "ulaşt",
+    "verdi",
+    "vurgu",
+    "yanıt",
+    "yardı",
+    "yazıc",
+    "yönet",
+    "çağrı",
+    "öne",
+    "üst",
+    "şartı",
+    "şöyle"
+   ],
+   "at": "2026-11-24T16:40:17.722848+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "56d151dd03",
-   "post_id": "529346797199852_1476688571237517",
-   "title": "Yandaş medyada fon kavgası: Sabah yazarından Yeni Şafak'a \"yamama\" cevabı",
-   "at": "2026-11-22T12:23:51.933217+00:00",
-   "yazim": "claude",
-   "metin": "Fon soruşturmasında adı geçen Şahap Kavcıoğlu yüzünden Sabah ve Yeni Şafak yazarları birbirine girdi.\n\n— Yeni Şafak yazarı Aydın Ünal, Turkuvaz çevresinin Kavcıoğlu'nu Yeni Şafak'a yamamaya çalıştığını ve asıl olarak onun \"kabilesini\" perdelediğini söyledi.\n— Sabah yazarı Melih Altınok ise Ünal'ı adıyla anmadan yanıt verdi: \"Kendi yazarlarını başka yere yamama telaşına düşenlerin amacı nedir?\"\n— Altınok, Kavcıoğlu'nun 2023'te Merkez Bankası'ndan alınıp BDDK Başkanlığına atandığını ve Berat Albayrak'ın görevden ayrılmasından 4,5 ay sonra Merkez Bankası Başkanlığına getirildiğini hatırlattı.\n— İstanbul Cumhuriyet Başsavcılığı, Kavcıoğlu hakkında soruşturma izni için 18 Kasım'da Hazine ve Maliye Bakanlığına yazı gönderdi. Kavcıoğlu'na yurt dışı çıkış yasağı da getirildi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010675/sabah-ve-yeni-safak-arasinda-fon-kavgasi-kendi-yazarlarini-baska-yere-yamama-telasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/yandas-medyada-fon-kavgasi-sabah-yazarindan-yeni-safak-a-yamama-cevabi-747771"
-   ]
-  },
   {
    "id": "ed608461bd",
    "post_id": "529346797199852_1476714804568227",
@@ -12869,6 +12934,19 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/mugla-milasta-4-6-buyuklugunde-deprem-3497673",
     "NTV: https://www.ntv.com.tr/gundem/muglada-46-buyuklugunde-deprem-1752419"
    ]
+  },
+  {
+   "id": "555a262bc9",
+   "post_id": "529346797199852_1479139200992454",
+   "title": "AKP’de ikinci üst düzey ‘fon’ depremi: Hayati Yazıcı istifa mı etti?",
+   "at": "2026-11-24T16:40:17.722848+00:00",
+   "yazim": "claude",
+   "metin": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı'nın görevinden istifa ettiği öne sürüldü.\n\n— Yazıcı'nın oğlu Mustafa Yazıcı, fon vurgunu soruşturması kapsamında iki kez ifadeye çağrıldı.\n\n— Yazıcı'nın genel merkezdeki odasını boşalttığı ve istifa kararını sosyal medya hesabından duyuracağı iddia edildi.\n\n— Odatv'nin ulaştığı Yazıcı, istifa sorusuna şöyle yanıt verdi: “Konuşuruz, konuşuruz, iyi akşamlar.”\n\n— Ne Yazıcı ne de parti yönetimi istifayı resmen açıklamadı.\n\n— Fon soruşturmasının ardından partideki ilk istifa, eylülde eski Bakan Fatma Betül Sayan Kaya'dan gelmişti. Kaya, kasımda tutuklanmış, 24 Kasım'da ev hapsi şartıyla tahliye edilmişti.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/akp-de-ikinci-ust-duzey-fon-depremi-hayati-yazici-istifa-sorusuna-ne-yanit-verdi-2559065",
+    "Evrensel: https://www.evrensel.net/haber/6011028/fon-vurgunu-sorusturmasinda-adi-gundeme-gelen-hayati-yazici-hakkinda-istifa-iddiasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/akpde-ikinci-ust-duzey-fon-depremi-hayati-yazici-istifa-mi-etti-748237"
+   ]
   }
  ],
  "fails": {
@@ -13102,7 +13180,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125263637673619673",
+   "since_id": "2125266172513771976",
    "started": true
   },
   "ajansmuhbir1923": {
