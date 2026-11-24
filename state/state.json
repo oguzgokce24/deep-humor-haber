@@ -10268,6 +10268,91 @@
     "şimşe"
    ],
    "at": "2026-11-24T01:23:03.652142+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "cumhu",
+    "gevşe",
+    "hüküm",
+    "kaçın",
+    "siste",
+    "tartı"
+   ],
+   "tok": [
+    "akp",
+    "açtı",
+    "bazı",
+    "belir",
+    "durul",
+    "erdoğ",
+    "formü",
+    "geniş",
+    "gevşe",
+    "hüküm",
+    "itiba",
+    "ittif",
+    "işley",
+    "kaldı",
+    "kaybı",
+    "kaçın",
+    "korun",
+    "liler",
+    "nin",
+    "ortad",
+    "seçim",
+    "siste",
+    "söyle",
+    "tartı",
+    "yenid",
+    "yetki",
+    "zorun",
+    "üzeri"
+   ],
+   "at": "2026-11-24T01:43:10.131633+00:00"
+  },
+  {
+   "fp": [
+    "anıtk",
+    "baros",
+    "demok",
+    "laikl",
+    "ordu",
+    "vurgu"
+   ],
+   "tok": [
+    "adale",
+    "anıtk",
+    "atatü",
+    "baros",
+    "birse",
+    "defte",
+    "demok",
+    "devle",
+    "değer",
+    "eşitl",
+    "genel",
+    "heyet",
+    "hukuk",
+    "inci",
+    "kurul",
+    "laikl",
+    "mesaj",
+    "mozol",
+    "olağa",
+    "ordu",
+    "savun",
+    "seçil",
+    "sunan",
+    "uçar",
+    "vurgu",
+    "yazdı",
+    "yenid",
+    "ziyar",
+    "çelen",
+    "özel"
+   ],
+   "at": "2026-11-24T01:43:23.203192+00:00"
   }
  ],
  "posted": [
@@ -13005,17 +13090,9 @@
   "98b0bca999": 1,
   "5d53452057": 2,
   "61f7d54f2f": 1,
-  "80e608c90c": 2,
-  "2b1d0d4725": 2,
-  "12c0eee101": 2
+  "2b1d0d4725": 3
  },
  "fail_log": [
-  "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:59 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:59 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:59 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
-  "2026-11-23T23:13 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
-  "2026-11-23T23:13 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
   "2026-11-23T23:13 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
   "2026-11-23T23:13 Eğitim-İş araştırması: Öğretmenlerin yüzde 63,82'sinin en bü -> ValueError: yanıt okunamadı",
   "2026-11-23T23:13 Eğitim-İş araştırması: Öğretmenlerin yüzde 63,82'sinin en bü -> ValueError: yanıt okunamadı",
@@ -13049,7 +13126,13 @@
   "2026-11-24T01:39 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
   "2026-11-24T01:39 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
   "2026-11-24T01:39 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:39 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı"
+  "2026-11-24T01:39 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:43 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:43 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:43 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:43 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:43 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:43 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
