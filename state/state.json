@@ -12791,20 +12791,11 @@
   "61f7d54f2f": 1,
   "e15157f5a4": 1,
   "29bb9c9fa1": 1,
-  "1ac0dc833e": 1,
-  "de5ac7373d": 1,
-  "d3219c1cb0": 1
+  "1ac0dc833e": 2,
+  "de5ac7373d": 2,
+  "d3219c1cb0": 2
  },
  "fail_log": [
-  "2026-11-24T00:18 Eğitim Sen: Süslü övgülerin havada uçuştuğu bir 24 Kasım'ı d -> ValueError: yanıt okunamadı",
-  "2026-11-24T00:22 Eğitim Sen: Süslü övgülerin havada uçuştuğu bir 24 Kasım'ı d -> ValueError: yanıt okunamadı",
-  "2026-11-24T00:22 Eğitim Sen: Süslü övgülerin havada uçuştuğu bir 24 Kasım'ı d -> ValueError: yanıt okunamadı",
-  "2026-11-24T00:22 Eğitim Sen: Süslü övgülerin havada uçuştuğu bir 24 Kasım'ı d -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:10 Öğretmenler, günlerini umutsuz karşılıyor: ‘Yüzde 99’u mesle -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:10 Öğretmenler, günlerini umutsuz karşılıyor: ‘Yüzde 99’u mesle -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:10 Öğretmenler, günlerini umutsuz karşılıyor: ‘Yüzde 99’u mesle -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:35 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:35 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
   "2026-11-24T01:35 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
   "2026-11-24T01:35 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
   "2026-11-24T01:35 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
@@ -12835,7 +12826,16 @@
   "2026-11-24T03:14 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
   "2026-11-24T03:14 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
   "2026-11-24T03:14 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:14 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı"
+  "2026-11-24T03:14 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 Şiddet her yerde, adalete erişim yok: Kadınlar \"Aile Yılı\" p -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 Güvencesizlik, düşük ücret ve atama çıkmazı: Öğretmenlikte ç -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
+  "2026-11-24T03:18 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
