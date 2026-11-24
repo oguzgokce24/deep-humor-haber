@@ -2,47 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "4",
-    "açıkl",
-    "büyük",
-    "deniz",
-    "depre",
-    "ege",
-    "nde"
-   ],
-   "tok": [
-    "bilgi",
-    "bodru",
-    "büyük",
-    "deniz",
-    "depre",
-    "derin",
-    "ege",
-    "geldi",
-    "gelme",
-    "göre",
-    "hasar",
-    "herha",
-    "ilçes",
-    "kayde",
-    "kilom",
-    "mesaf",
-    "meyda",
-    "muğla",
-    "nde",
-    "nın",
-    "olums",
-    "saat",
-    "sarsı",
-    "uzakl",
-    "yakla",
-    "üssü"
-   ],
-   "at": "2026-11-23T04:05:57.885698+00:00"
-  },
-  {
-   "fp": [
     "6",
     "aylık",
     "bile",
@@ -10292,22 +10251,62 @@
     "şekil"
    ],
    "at": "2026-11-24T15:55:18.043417+00:00"
+  },
+  {
+   "fp": [
+    "alını",
+    "artvi",
+    "davas",
+    "ertel",
+    "gazet",
+    "götür",
+    "gözal",
+    "imza",
+    "kalkt",
+    "şartı"
+   ],
+   "tok": [
+    "adli",
+    "alınd",
+    "alını",
+    "ardın",
+    "artvi",
+    "başla",
+    "bugün",
+    "davas",
+    "devam",
+    "dışın",
+    "edece",
+    "ertel",
+    "gazet",
+    "geçen",
+    "görül",
+    "götür",
+    "heyet",
+    "imza",
+    "ise",
+    "kaldı",
+    "kalkt",
+    "kontr",
+    "sanık",
+    "savun",
+    "sene",
+    "tarih",
+    "tedbi",
+    "verdi",
+    "yasağ",
+    "yurt",
+    "yurtd",
+    "yıl",
+    "çıkma",
+    "şartl",
+    "şartı",
+    "şubat"
+   ],
+   "at": "2026-11-24T16:14:43.815168+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a80beddad0",
-   "post_id": "529346797199852_1476668341239540",
-   "title": "Belçika'da yarın ulusal grev günü: Tüm uçuşlar iptal",
-   "at": "2026-11-22T11:58:29.631496+00:00",
-   "yazim": "claude",
-   "metin": "Belçika'da hükümetin kemer sıkma politikalarına karşı yarın ulusal grev yapılacak, tüm uçuşlar iptal edilecek.\n\n— Üç büyük sendika, Başbakan Bart De Wever'in hükümeti göreve geldiğinden beri 11. ulusal grevini düzenliyor. Sendikalar hükümetle müzakerelerde baskıyı artırmak istiyor.\n\n— Hava trafiği yerel saatle 07.00-21.00 arasında durdurulacak. Sadece acil durumlar ve kritik uçuşlar için asgari hizmet sürecek.\n\n— Flaman Bölgesi'nde toplu taşımanın yüzde 40'ı yapılmayacak. Brüksel toplu taşıma şirketi MIVB, pazartesi günü ciddi aksamalar olabileceği konusunda uyardı.\n\n— Brüksel'de çok sayıda belediyede çöp toplama hizmetleri aksayabilir.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/belcikada-ulusal-grev-nedeniyle-yarin-tum-ucuslar-iptal-edilecek/4133453",
-    "TRT Haber: https://www.trthaber.com/haber/dunya/belcikada-ulusal-grev-nedeniyle-yarin-tum-ucuslar-iptal-edilecek-964134.html",
-    "Evrensel: https://www.evrensel.net/haber/6010672/belcika-da-yarin-ulusal-grev-gunu-tum-ucuslar-iptal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "7f2fea05b4",
    "post_id": "529346797199852_1476678634571844",
@@ -12917,6 +12916,17 @@
     "BirGün: https://www.birgun.net/haber/vincenzo-montelladan-milli-takim-dan-ayrilis-surecini-anlatti-dunya-kupasi-ndan-sonra-buyu-bozuldu-748200",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/vincenzo-montelladan-dunya-kupasi-itirafi-43389706"
    ]
+  },
+  {
+   "id": "d45acacfc5",
+   "post_id": "529346797199852_1479116184328089",
+   "title": "Gözaltına alınıp Artvin’e götürülmüşlerdi: Gazetecilerin davası ertelendi, imza şartı kalktı",
+   "at": "2026-11-24T16:14:43.815168+00:00",
+   "yazim": "claude",
+   "metin": "Geçen yıl gözaltına alınıp Artvin'e götürülen 6 gazetecinin davası ertelendi.\n\n— Mahkeme, sanıkların imza şartlı adli kontrolünü kaldırdı.\n— Yurt dışına çıkma yasağı ise devam edecek.\n— Dava 25 Şubat 2027 tarihine ertelendi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/gozaltina-alinip-artvine-goturulmuslerdi-gazetecilerin-davasi-ertelendi-imza-sarti-kalkti-748234"
+   ]
   }
  ],
  "fails": {
@@ -13150,7 +13160,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125255720690135452",
+   "since_id": "2125257883520733192",
    "started": true
   },
   "ajansmuhbir1923": {
