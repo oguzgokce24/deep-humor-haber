@@ -2,117 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bürok",
-    "eski",
-    "ihale",
-    "liste",
-    "milya",
-    "yok"
-   ],
-   "tok": [
-    "adı",
-    "ahmet",
-    "ailes",
-    "akp",
-    "alan",
-    "alıyo",
-    "ayrın",
-    "bağla",
-    "bürok",
-    "dan",
-    "eski",
-    "fon",
-    "fonla",
-    "genel",
-    "ihale",
-    "ilgil",
-    "insan",
-    "isted",
-    "isten",
-    "kamu",
-    "kapsa",
-    "kişil",
-    "liral",
-    "liste",
-    "mal",
-    "mille",
-    "milya",
-    "müzek",
-    "ortay",
-    "payla",
-    "savcı",
-    "sekre",
-    "talip",
-    "tbmm",
-    "tedbi",
-    "tip",
-    "uygul",
-    "uzun",
-    "varlı",
-    "yer",
-    "yok",
-    "yönet",
-    "zapsu",
-    "çıktı",
-    "şık"
-   ],
-   "at": "2026-11-23T02:49:53.341734+00:00"
-  },
-  {
-   "fp": [
-    "bugün",
-    "emekl",
-    "fon",
-    "günde",
-    "kabin",
-    "maaşl",
-    "soruş",
-    "topla",
-    "var"
-   ],
-   "tok": [
-    "akp",
-    "alına",
-    "alıyo",
-    "asgar",
-    "bekle",
-    "bugün",
-    "deki",
-    "düzen",
-    "emekl",
-    "erdoğ",
-    "fon",
-    "gazze",
-    "geliş",
-    "gelme",
-    "görüş",
-    "günde",
-    "iran",
-    "kabin",
-    "maaşl",
-    "masay",
-    "nin",
-    "olaca",
-    "piyas",
-    "rusya",
-    "savaş",
-    "serma",
-    "sıra",
-    "tayyi",
-    "topla",
-    "ukray",
-    "var",
-    "yanı",
-    "yer",
-    "yönel",
-    "yılı",
-    "öncel",
-    "ücret"
-   ],
-   "at": "2026-11-23T03:02:40.907790+00:00"
-  },
-  {
-   "fp": [
     "birgü",
     "dalia",
     "dan",
@@ -10387,20 +10276,57 @@
     "çıktı"
    ],
    "at": "2026-11-24T14:48:11.333932+00:00"
+  },
+  {
+   "fp": [
+    "batı",
+    "fırtı",
+    "karad",
+    "meteo",
+    "uyarı"
+   ],
+   "tok": [
+    "akden",
+    "aksam",
+    "antal",
+    "batı",
+    "bekle",
+    "bulun",
+    "bölge",
+    "dikka",
+    "doğu",
+    "esmes",
+    "etkis",
+    "fırtı",
+    "gece",
+    "genel",
+    "ila",
+    "isten",
+    "itiba",
+    "karad",
+    "kuvve",
+    "kuzey",
+    "körfe",
+    "meteo",
+    "müdür",
+    "olunm",
+    "rüzga",
+    "saat",
+    "saatl",
+    "ulaşı",
+    "uyarı",
+    "verdi",
+    "yarın",
+    "yaşan",
+    "yitir",
+    "yönle",
+    "öngör",
+    "öğle"
+   ],
+   "at": "2026-11-24T15:03:43.198080+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b49f9f1e2c",
-   "post_id": "529346797199852_1476614411244933",
-   "title": "Arınç'tan Emrullah Turanlı ve Akit'in iddialarına sert cevap: Her işinizde olduğu gibi bu da yalan",
-   "at": "2026-11-22T10:49:30.903116+00:00",
-   "yazim": "claude",
-   "metin": "Bülent Arınç, Emrullah Turanlı'nın kendisi hakkındaki iddialarına:\n\n“Benimle ilgili konunun bir kelimesi bile doğru değildir. Ben kendisiyle bir kare fotoğraf bile çektirmedim, kahve içmedim, bir araya gelmedim.”\n\n— Turanlı, Lider Haber TV'deki programda Kuzey Kıbrıs'taki havalimanı projesi üzerinden bir ortaklık anlaşmazlığını anlatmıştı.\n— Turanlı, bu süreçte kendisinden 10-15 milyon dolar istendiğini ve baskı gördüğünü öne sürmüştü.\n— Arınç, suçlamaları reddettiğini ve hukuki yollara başvuracağını açıkladı.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/arinctan-emrullah-turanli-ve-akitin-iddialarina-sert-cevap-her-isinizde-2085565"
-   ]
-  },
   {
    "id": "5ea8477861",
    "post_id": "529346797199852_1476624617910579",
@@ -13010,6 +12936,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/ingiliz-kraliyet-ailesinde-guvenlik-alarmi-prens-william-ve-kate-in-evine-girildi-2559007",
     "BPT (X): https://x.com/bpthaber/status/2125237464277156276"
    ]
+  },
+  {
+   "id": "628ab420a4",
+   "post_id": "529346797199852_1479051627667878",
+   "title": "Meteoroloji saat verdi: O bölge için fırtına uyarısı!",
+   "at": "2026-11-24T15:03:43.198080+00:00",
+   "yazim": "claude",
+   "metin": "Meteoroloji, Batı Akdeniz'de Antalya Körfezi için fırtına uyarısı yaptı.\n\n— Rüzgarın bu gece saatlerinden itibaren kuzey ve kuzeybatı yönlerden 6 ila 8 kuvvetinde fırtına olarak esmesi bekleniyor.\n\n— Fırtınanın yarın öğle saatlerinden sonra etkisini yitirmesi öngörülüyor.\n\n— Uyarıda, ulaşımda aksamalar yaşanabileceği için dikkatli olunması isteniyor.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/karadeniz-icin-firtina-uyarisi-964321.html",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-saat-verdi-o-bolge-icin-firtina-uyarisi-2559049",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/bati-ve-dogu-karadenizde-firtina-uyarisi-4876061",
+    "Karar: https://www.karar.com/guncel-haberler/meteorolojiden-bati-akdenize-firtina-uyarisi-2086026"
+   ]
   }
  ],
  "fails": {
@@ -13241,7 +13181,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125239979341193361",
+   "since_id": "2125243070837145681",
    "started": true
   },
   "ajansmuhbir1923": {
