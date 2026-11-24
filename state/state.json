@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "erken",
-    "eyüps",
-    "geçti",
-    "golle",
-    "güldü",
-    "tek",
-    "trabz"
-   ],
-   "tok": [
-    "ayrıl",
-    "açtı",
-    "dakik",
-    "dan",
-    "erken",
-    "eyüps",
-    "galip",
-    "geldi",
-    "geçti",
-    "gol",
-    "golle",
-    "güldü",
-    "hafta",
-    "henüz",
-    "kayde",
-    "kendi",
-    "konuk",
-    "lig",
-    "maçta",
-    "maçın",
-    "mücad",
-    "oynan",
-    "ozan",
-    "sahad",
-    "sahas",
-    "skoru",
-    "süper",
-    "tek",
-    "trabz",
-    "trend",
-    "tufan",
-    "yendi"
-   ],
-   "at": "2026-11-22T22:46:52.200545+00:00"
-  },
-  {
-   "fp": [
     "akıma",
     "duman",
     "kapıl",
@@ -9921,25 +9875,81 @@
     "üstle"
    ],
    "at": "2026-11-24T10:38:18.027806+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "6",
+    "başke",
+    "hanoi",
+    "hayat",
+    "kaybe",
+    "kişi",
+    "patla",
+    "resto",
+    "vietn",
+    "yaral"
+   ],
+   "tok": [
+    "arama",
+    "açark",
+    "ağır",
+    "başke",
+    "bina",
+    "binad",
+    "binal",
+    "bulun",
+    "bölge",
+    "camla",
+    "devam",
+    "dong",
+    "ediyo",
+    "ettiğ",
+    "gazın",
+    "geldi",
+    "gelen",
+    "gördü",
+    "güven",
+    "hanoi",
+    "hasar",
+    "hasta",
+    "incel",
+    "işare",
+    "kaldı",
+    "kamu",
+    "kayna",
+    "kesin",
+    "kurta",
+    "kırıl",
+    "meyda",
+    "mutfa",
+    "neden",
+    "nüfus",
+    "olabi",
+    "olay",
+    "oluşt",
+    "patla",
+    "resto",
+    "saatl",
+    "sabah",
+    "sürüy",
+    "sıral",
+    "vietn",
+    "yapıl",
+    "yaşan",
+    "yerel",
+    "yerin",
+    "yol",
+    "yoğun",
+    "çalış",
+    "çevre",
+    "şehri",
+    "şidde"
+   ],
+   "at": "2026-11-24T10:51:00.048219+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "4df853b825",
-   "post_id": "529346797199852_1476431047929936",
-   "title": "İzmir’de zehir tacirlerine baskın: 81 bin 500 sentetik hap ve 38 kilo hammadde ele geçirildi",
-   "at": "2026-11-22T06:36:17.265628+00:00",
-   "yazim": "claude",
-   "metin": "İzmir'in Çiğli ilçesindeki bir evde yasa dışı sentetik hap üretildiği ortaya çıktı; polis baskınında 81 bin 500 hap ele geçirildi.\n\n— Evde ayrıca 20 bin boş kapsül, 38 kilo kimyasal hammadde, 7 hap basım plakası ve bir tüfek bulundu.\n\n— Bornova İlçe Emniyet Müdürlüğü ile Narkotik Suçlarla Mücadele ekipleri, istihbari çalışmaların ardından adrese eş zamanlı baskın düzenledi.\n\n— Evdeki 2 şüpheli gözaltına alındı ve polis sorgu işlemlerini sürdürüyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/izmirde-uyusturucu-operasyonu-81-bin-500-hap-ele-gecirildi-7705429",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/cigli/izmirde-81-bin-500-sentetik-ecza-hap-ele-gecirildi-3496388",
-    "Sözcü: https://www.sozcu.com.tr/izmir-de-zehir-tacirlerine-baskin-81-bin-500-sentetik-hap-ve-38-kilo-hammadde-ele-gecirildi-p383363",
-    "Yeni Şafak: https://www.yenisafak.com/video/gundem/izmirde-zehir-imalathanesine-baskin-81-bin-500-sentetik-hap-ele-gecirildi-4875358",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/izmirde-81-bin-500-sentetik-hap-ele-gecirildi-4875357",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/izmirde-uyusturucu-operasyonu-81-bin-500-hap-ele-gecirildi-7705429"
-   ]
-  },
   {
    "id": "4dd01cc59a",
    "post_id": "529346797199852_1476439454595762",
@@ -12520,6 +12530,19 @@
     "Evrensel: https://www.evrensel.net/haber/6010952/besiktas-hapoel-beer-sheva-macinin-hakemi-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/besiktas-hapoel-beer-sheva-macinin-hakemi-belli-oldu-748152"
    ]
+  },
+  {
+   "id": "5e942bfaa1",
+   "post_id": "529346797199852_1478826891023685",
+   "title": "Vietnam'ın başkenti Hanoi'de restoranda patlama: 6 ölü, 10 yaralı",
+   "at": "2026-11-24T10:51:00.048219+00:00",
+   "yazim": "claude",
+   "metin": "Vietnam'ın başkenti Hanoi'de bir restoranda patlama oldu: en az 6 kişi öldü, 10 kişi yaralandı.\n\nPatlama yerel saatle sabah 08.00 sıralarında, şehrin yoğun nüfuslu Dong Da bölgesindeki restoranda meydana geldi.\n\n— Patlamanın şiddetiyle restoranın bulunduğu bina ağır hasar gördü, çevredeki binaların camları kırıldı.\n— Vietnam Kamu Güvenliği Bakanlığı, ilk incelemelerin patlamanın mutfak gazından kaynaklanmış olabileceğine işaret ettiğini açıkladı. Kesin neden için incelemeler sürüyor.\n— Yaralılar hastanelere kaldırıldı, olay yerinde arama kurtarma çalışmaları devam ediyor.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/dunya/vietnamda-restoranda-patlama-6-kisi-hayatini-kaybetti-3497476",
+    "Evrensel: https://www.evrensel.net/haber/6010949/vietnam-in-baskenti-hanoi-de-patlama-6-kisi-hayatini-kaybetti-10-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/dunya-haberleri/vietnamin-baskenti-hanoide-restoranda-patlama-6-olu-10-yarali-2085911"
+   ]
   }
  ],
  "fails": {
@@ -12707,8 +12730,6 @@
  },
  "fail_log": [
   "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
-  "2026-11-24T03:21 İzleme Komisyonu tartışması süreci kilitledi: İktidarın bölm -> ValueError: yanıt okunamadı",
   "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
   "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
   "2026-11-24T03:48 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
@@ -12745,12 +12766,14 @@
   "2026-11-24T09:36 California'da helikopter kazası: 2 kişi hayatını kaybetti -> ValueError: yanıt okunamadı",
   "2026-11-24T09:36 California'da helikopter kazası: 2 kişi hayatını kaybetti -> ValueError: yanıt okunamadı",
   "2026-11-24T09:36 California'da helikopter kazası: 2 kişi hayatını kaybetti -> ValueError: yanıt okunamadı",
-  "2026-11-24T09:36 Tutuklanan Tera Yatırım YK Başkanvekili Sarpyener'in ifadesi -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-24T09:36 Tutuklanan Tera Yatırım YK Başkanvekili Sarpyener'in ifadesi -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-24T10:51 Vietnam'ın başkenti Hanoi'de restoranda patlama: 6 ölü, 10 y -> ValueError: yanıt okunamadı",
+  "2026-11-24T10:51 Vietnam'ın başkenti Hanoi'de restoranda patlama: 6 ölü, 10 y -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125173390759580047",
+   "since_id": "2125179959979241888",
    "started": true
   },
   "ajansmuhbir1923": {
