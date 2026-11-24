@@ -2,63 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aslan",
-    "başla",
-    "ekipl",
-    "gördü",
-    "ihbar",
-    "istan",
-    "paniğ",
-    "sarıy",
-    "çalış"
-   ],
-   "tok": [
-    "almay",
-    "aslan",
-    "başla",
-    "bilin",
-    "burad",
-    "bölge",
-    "değer",
-    "dikka",
-    "dişi",
-    "ekipl",
-    "gelen",
-    "gerek",
-    "geçti",
-    "gördü",
-    "görül",
-    "görün",
-    "güven",
-    "harek",
-    "hayva",
-    "ihbar",
-    "ilçes",
-    "incel",
-    "kamer",
-    "milli",
-    "müdür",
-    "nered",
-    "olmay",
-    "paniğ",
-    "parkl",
-    "sarıy",
-    "sonra",
-    "tespi",
-    "uyarı",
-    "vatan",
-    "yansı",
-    "yapıl",
-    "yer",
-    "zabıt",
-    "çalış",
-    "çağır",
-    "önlem"
-   ],
-   "at": "2026-11-22T20:07:17.497335+00:00"
-  },
-  {
-   "fp": [
     "anlam",
     "barış",
     "değiş",
@@ -10167,20 +10110,62 @@
     "şubat"
    ],
    "at": "2026-11-24T07:58:22.923158+00:00"
+  },
+  {
+   "fp": [
+    "21",
+    "28",
+    "aliha",
+    "gözal",
+    "karar",
+    "kuriş",
+    "soruş",
+    "suç",
+    "örgüt"
+   ],
+   "tok": [
+    "adres",
+    "aklam",
+    "aliha",
+    "alınd",
+    "amaçl",
+    "anda",
+    "aynı",
+    "baskı",
+    "başsa",
+    "dolan",
+    "düzen",
+    "edili",
+    "firar",
+    "gelir",
+    "geliş",
+    "göre",
+    "ildek",
+    "isnat",
+    "kamu",
+    "kanun",
+    "kuriş",
+    "kurum",
+    "muhal",
+    "olma",
+    "suç",
+    "suçla",
+    "sürüy",
+    "usul",
+    "vergi",
+    "veril",
+    "yönel",
+    "yürüt",
+    "zarar",
+    "çalış",
+    "çıkar",
+    "örgüt",
+    "üye"
+   ],
+   "at": "2026-11-24T08:10:58.198682+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "eae333aeb4",
-   "post_id": "529346797199852_1476300871276287",
-   "title": "Diyanet TV'ye milyonlar: Muhalif kanallara kayyum",
-   "at": "2026-11-22T03:26:09.970767+00:00",
-   "yazim": "claude",
-   "metin": "Diyanet TV'ye kamu bütçesinden milyonlarca liralık kaynak aktarılıyor.\n\n— Kanal için kasım ayında yaklaşık 3 milyon TL'lik ekipman alındı.\n\n— Diyanet TV'nin 2023-2026 dönemindeki toplam yatırımı 100 milyon TL'ye yaklaştı.\n\n— Bu harcamalar, muhalif televizyon kanallarına yönelik kayyum kararlarının ve baskıların sürdüğü bir dönemde yapılıyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/diyanet-tv-ye-milyonlar-muhalif-kanallara-kayyum-747723"
-   ]
-  },
   {
    "id": "9ed4bed8ab",
    "post_id": "529346797199852_1476315931274781",
@@ -12732,6 +12717,22 @@
     "Evrensel: https://www.evrensel.net/haber/6010914/depremde-yikilan-kasaplar-apartmani-bilirkisi-raporu-donemin-belediye-baskani-da-idari-yonden-kusurlu-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/depremde-yikilan-ogretmenevi-icin-yeni-bilirkisi-raporu-donemin-il-milli-egitim-muduru-de-kusurlu-748119"
    ]
+  },
+  {
+   "id": "b9757fe61c",
+   "post_id": "529346797199852_1478707491035625",
+   "title": "Ankara merkezli 8 ilde Alihan Kuriş suç örgütüne operasyon. 21 gözaltı",
+   "at": "2026-11-24T08:10:58.198682+00:00",
+   "yazim": "claude",
+   "metin": "Ankara merkezli 8 ilde bir suç örgütüne operasyon düzenlendi, 21 şüpheli gözaltına alındı.\n\nPolis 8 ildeki 29 adrese aynı anda baskın yaptı.\n\n— Soruşturmada 28 kişi hakkında gözaltı kararı çıkarıldı. Firari 7 şüphelinin yakalanması için çalışma sürüyor.\n— Ankara Cumhuriyet Başsavcılığı'na göre şüphelilere suç örgütüne üye olma, suç gelirini aklama, kamu kurumlarının zararına dolandırıcılık ve Vergi Usul Kanunu'na muhalefet suçları isnat ediliyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-21-gozalti/4135324",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/alihan-kuris-suc-orgutu-sorusturmasinda-21-gozalti-964261.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-28-gozalti-karari-43388741",
+    "CNN Türk: https://www.cnnturk.com/turkiye/alihan-kuris-suc-orgutu-sorusturmasinda-21-gozalti-3497279",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/24/son-dakika-alihan-kuris-sorusturmasinda-yeni-gelisme-21-gozalti",
+    "NTV: https://www.ntv.com.tr/turkiye/ankara-merkezli-8-ilde-alihan-kuris-suc-orgutune-operasyon-21-gozalti-1752318"
+   ]
   }
  ],
  "fails": {
@@ -12961,7 +12962,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125134426178748841",
+   "since_id": "2125139806871277965",
    "started": true
   },
   "ajansmuhbir1923": {
