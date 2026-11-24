@@ -2,96 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bayer",
-    "iddia",
-    "kariu",
-    "kimse",
-    "konuş",
-    "münih",
-    "tan",
-    "yanıt"
-   ],
-   "tok": [
-    "bayer",
-    "haber",
-    "iddia",
-    "kalec",
-    "kariu",
-    "kimse",
-    "konuş",
-    "liste",
-    "loris",
-    "münih",
-    "nin",
-    "schal",
-    "tan",
-    "trans",
-    "yanıt",
-    "yaşın",
-    "yönün"
-   ],
-   "at": "2026-11-22T14:38:06.373959+00:00"
-  },
-  {
-   "fp": [
-    "2",
-    "birde",
-    "galat",
-    "imza",
-    "karar",
-    "ocakt",
-    "veril"
-   ],
-   "tok": [
-    "abdül",
-    "asist",
-    "atmas",
-    "attı",
-    "ayınd",
-    "baktı",
-    "barda",
-    "bekle",
-    "belir",
-    "birde",
-    "bitec",
-    "buruk",
-    "direk",
-    "futbo",
-    "galat",
-    "gol",
-    "görme",
-    "haber",
-    "imza",
-    "ise",
-    "istiy",
-    "jakob",
-    "kadro",
-    "kariy",
-    "kulüb",
-    "maçta",
-    "memnu",
-    "ocak",
-    "ocakt",
-    "okan",
-    "oynad",
-    "oyunc",
-    "perfo",
-    "savun",
-    "sezon",
-    "sonun",
-    "sözle",
-    "sürdü",
-    "sıcak",
-    "tekni",
-    "verdi",
-    "veril",
-    "yönet",
-    "ısmai"
-   ],
-   "at": "2026-11-22T14:42:29.270606+00:00"
-  },
-  {
-   "fp": [
     "2",
     "anne",
     "diyar",
@@ -10192,25 +10102,62 @@
     "ümit"
    ],
    "at": "2026-11-24T02:36:50.015621+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "açığı",
+    "binle",
+    "güven",
+    "hatip",
+    "imam",
+    "ler",
+    "okul",
+    "pansi",
+    "sırad"
+   ],
+   "tok": [
+    "acil",
+    "alıyo",
+    "açığa",
+    "açığı",
+    "belir",
+    "bin",
+    "binle",
+    "birgü",
+    "bulun",
+    "davet",
+    "durum",
+    "edild",
+    "eksik",
+    "eğiti",
+    "görüp",
+    "güven",
+    "hatip",
+    "hazır",
+    "ilgil",
+    "imam",
+    "kaldı",
+    "ler",
+    "okul",
+    "okull",
+    "pansi",
+    "rapor",
+    "sorun",
+    "sırad",
+    "tespi",
+    "ulaşt",
+    "uygun",
+    "yangı",
+    "yer",
+    "çıkar",
+    "çıktı",
+    "öğren"
+   ],
+   "at": "2026-11-24T02:49:18.766919+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "95d7faf4f8",
-   "post_id": "529346797199852_1476107067962334",
-   "title": "Şırnak'ta silah kazasında yaralanan Astsubay şehit oldu",
-   "at": "2026-11-21T22:11:31.637622+00:00",
-   "yazim": "claude",
-   "metin": "Şırnak'ta silah kazasında yaralanan İstihkam Astsubay Çavuş Yalın Gergün şehit oldu.\n\n— Kaza, 21 Kasım 2026'da Şenoba bölgesindeki 48'inci Hudut Tugay Komutanlığında meydana geldi.\n— Gergün hastaneye kaldırıldı, yapılan tüm müdahalelere rağmen hayatını kaybetti.\n— Milli Savunma Bakanı Yaşar Güler, taziye mesajında \"Kahraman silah arkadaşımız, silah kazası sonucu 21 Kasım 2026 tarihinde şehit olmuştur.\" dedi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/sirnakta-silah-kazasi-sonucu-bir-asker-sehit-oldu/4133272",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/silah-kazasinda-yaralanan-bir-askerimiz-sehit-oldu-964102.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/msb-aci-haberi-duyurdu-silah-kazasinda-yaralanan-astsubay-sehit-oldu-43386584",
-    "Milliyet: https://www.milliyet.com.tr/gundem/msb-sirnakta-silah-kazasinda-yaralanan-astsubay-cavus-yalin-gergun-sehit-oldu-7705316",
-    "CNN Türk: https://www.cnnturk.com/turkiye/aci-haber-sirnakta-silah-kazasi-sonucu-astsubay-cavus-yalin-gergun-sehit-oldu-3496341",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-msb-silah-kazasinda-bir-asker-sehit-oldu-3929135"
-   ]
-  },
   {
    "id": "bb3edfd9f5",
    "post_id": "529346797199852_1476114671294907",
@@ -12750,6 +12697,17 @@
    "metin": "Ümit Özlale, Tera Yatırım'ın Londra ve İsviçre hattında gölge hesaplar kullandığını iddia etti.\n\n— Özlale, fon vurgununda bir gecede sıfırlanan milyarlara da dikkat çekti.\n\n— Aynı dönemde HGS geçiş ihlallerine yönelik yüksek gecikme cezaları ve icra takipleri de gündemde.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/ulkeyi-esir-aldilar-fon-vurgununda-yeni-golge-hesaplar-748058"
+   ]
+  },
+  {
+   "id": "3fa3e48500",
+   "post_id": "529346797199852_1478465604393147",
+   "title": "Okul pansiyonlarında on binlerce güvenlik açığı: İmam Hatip'ler ilk sırada",
+   "at": "2026-11-24T02:49:18.766919+00:00",
+   "yazim": "claude",
+   "metin": "Yüz binlerce öğrencinin kaldığı pansiyonlu okullarda 44 bin 260 uygunsuzluk tespit edildi.\n\nHazırlanan raporda en çok sorunun İmam Hatip okullarında olduğu belirtiliyor.\n\n— 9 bin 11 eksiklik yangına davetiye çıkarıyor.\n— 3 bin 636 eksiklik acil durumlarla ilgili.\n— Raporda İmam Hatip okulları ilk sırada yer alıyor.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/okul-pansiyonlarinda-on-binlerce-guvenlik-acigi-imam-hatip-ler-ilk-sirada-748056"
    ]
   }
  ],
