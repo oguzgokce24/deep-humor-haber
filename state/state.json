@@ -2,103 +2,6 @@
  "seen": [
   {
    "fp": [
-    "9",
-    "alımı",
-    "başvu",
-    "bin",
-    "erbaş",
-    "janda",
-    "nasıl",
-    "uzman",
-    "yapac",
-    "yapıl"
-   ],
-   "tok": [
-    "adam",
-    "alaca",
-    "almak",
-    "alım",
-    "alımı",
-    "aralı",
-    "aranm",
-    "asker",
-    "ayrıl",
-    "bando",
-    "başla",
-    "başvu",
-    "belge",
-    "bin",
-    "binle",
-    "birli",
-    "branş",
-    "bünye",
-    "dağıl",
-    "den",
-    "devle",
-    "duyur",
-    "erbaş",
-    "erkek",
-    "genel",
-    "geri",
-    "gov",
-    "görev",
-    "hangi",
-    "havac",
-    "inter",
-    "isten",
-    "istey",
-    "kadro",
-    "kalan",
-    "kalfa",
-    "kapan",
-    "kasım",
-    "komut",
-    "konte",
-    "kpss",
-    "kurba",
-    "kılav",
-    "lisan",
-    "lise",
-    "lojis",
-    "mezun",
-    "muhab",
-    "myk",
-    "nasıl",
-    "neler",
-    "nered",
-    "olanl",
-    "olma",
-    "olmad",
-    "p93",
-    "p94",
-    "perso",
-    "puan",
-    "puanl",
-    "puanı",
-    "saat",
-    "sağlı",
-    "sorgu",
-    "sözle",
-    "sürec",
-    "temin",
-    "ustal",
-    "uzman",
-    "vatan",
-    "yalnı",
-    "yapac",
-    "yapmı",
-    "yapıl",
-    "yayım",
-    "yılı",
-    "üzeri",
-    "şartl",
-    "şartı",
-    "şifre"
-   ],
-   "at": "2026-11-23T06:57:16.666614+00:00"
-  },
-  {
-   "fp": [
     "bölge",
     "nın",
     "rusya",
@@ -10567,6 +10470,24 @@
     "şidde"
    ],
    "at": "2026-11-24T18:45:25.337974+00:00"
+  },
+  {
+   "fp": [
+    "987",
+    "crist",
+    "kariy",
+    "ronal"
+   ],
+   "tok": [
+    "attı",
+    "crist",
+    "gol1o",
+    "golün",
+    "https",
+    "kariy",
+    "ronal"
+   ],
+   "at": "2026-11-24T18:58:14.233921+00:00"
   }
  ],
  "posted": [
@@ -13385,12 +13306,11 @@
   "b39c5376ea": 1,
   "992e9a2e56": 1,
   "086ee6b47e": 1,
-  "0098bbe820": 1
+  "0098bbe820": 1,
+  "8691513885": 1,
+  "7cc8dbce59": 1
  },
  "fail_log": [
-  "2026-11-24T04:01 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
-  "2026-11-24T04:05 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
-  "2026-11-24T04:05 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
   "2026-11-24T04:05 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
   "2026-11-24T04:18 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
   "2026-11-24T04:18 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
@@ -13427,12 +13347,15 @@
   "2026-11-24T16:53 Bahçeli'den 'Terörsüz Türkiye' mesajı -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı",
   "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı",
-  "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı"
+  "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı",
+  "2026-11-24T18:58 Türkiye, son 1 yılda uçak/helikopter kazalarında 31 şehit ve -> ValueError: yanıt okunamadı",
+  "2026-11-24T18:58 Türkiye, son 1 yılda uçak/helikopter kazalarında 31 şehit ve -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-24T18:58 Türkiye, son 1 yılda uçak/helikopter kazalarında 31 şehit ve -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125296212752617618",
+   "since_id": "2125302645837496364",
    "started": true
   },
   "ajansmuhbir1923": {
