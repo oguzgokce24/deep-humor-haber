@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "12",
-    "23",
-    "budo",
-    "iptal",
-    "kasım",
-    "nun",
-    "sefer"
-   ],
-   "tok": [
-    "appea",
-    "budo",
-    "bugün",
-    "bursa",
-    "deniz",
-    "diken",
-    "durum",
-    "edile",
-    "etmek",
-    "first",
-    "gün",
-    "günkü",
-    "hangi",
-    "hava",
-    "iptal",
-    "istey",
-    "kapsı",
-    "kasım",
-    "kontr",
-    "kulla",
-    "linka",
-    "liste",
-    "neden",
-    "nedir",
-    "nun",
-    "otobü",
-    "pazar",
-    "post",
-    "sefer",
-    "site",
-    "tarih",
-    "the",
-    "ulaşı",
-    "şartl"
-   ],
-   "at": "2026-11-23T00:10:21.282327+00:00"
-  },
-  {
-   "fp": [
     "büyük",
     "cop31",
     "den",
@@ -9920,25 +9872,73 @@
     "üzeri"
    ],
    "at": "2026-11-24T12:07:13.327363+00:00"
+  },
+  {
+   "fp": [
+    "binna",
+    "falad",
+    "kaldı",
+    "sahib",
+    "serta",
+    "taşde",
+    "yasağ",
+    "yurt",
+    "çıkış"
+   ],
+   "tok": [
+    "adlı",
+    "aklam",
+    "ara",
+    "asliy",
+    "binna",
+    "ceza",
+    "daki",
+    "davas",
+    "devam",
+    "değer",
+    "duruş",
+    "dışı",
+    "dışın",
+    "edece",
+    "ertel",
+    "fal",
+    "falad",
+    "geliş",
+    "gerek",
+    "hapis",
+    "hükme",
+    "istem",
+    "kaldı",
+    "kara",
+    "katıl",
+    "kayna",
+    "konfe",
+    "konuş",
+    "malva",
+    "ndeki",
+    "nisan",
+    "para",
+    "sahib",
+    "serta",
+    "suçta",
+    "suçun",
+    "söyle",
+    "tan",
+    "tarih",
+    "taşde",
+    "uygul",
+    "veril",
+    "yargı",
+    "yasağ",
+    "yurt",
+    "yıl",
+    "yıla",
+    "çıkış"
+   ],
+   "at": "2026-11-24T12:19:50.199909+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "26670153ef",
-   "post_id": "529346797199852_1476499651256409",
-   "title": "Kepez Belediyesi'ne rüşvet operasyonu. 10 kişi gözaltına alındı",
-   "at": "2026-11-22T08:14:50.699076+00:00",
-   "yazim": "claude",
-   "metin": "Antalya'nın Kepez Belediyesi'ne rüşvet ve irtikap operasyonu düzenlendi, 10 şüpheli gözaltına alındı.\n\n— Gözaltına alınanlar arasında bazı belediye yöneticileri ve çalışanları var.\n\n— Belediye Başkanı Mesut Kocagöz'ün gözaltına alınanlar arasında olmadığı bildirildi.\n\n— Soruşturma, rüşvet ve irtikap iddiaları üzerine başlatıldı. Gözaltı işlemleri sürüyor.",
-   "sources": [
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/22/antalya-kepez-belediyesine-operasyon-10-gozalti",
-    "NTV: https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-10-kisi-gozaltina-alindi-1752023",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-kepez-belediyesine-rusvet-sorusturmasi-3929164",
-    "Sözcü: https://www.sozcu.com.tr/kepez-belediyesi-ne-operasyon-gozaltilar-var-p383403",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/kepez-belediyesinde-rusvet-ve-irtikap-operasyonu-cok-sayida-gozalti-var-4875380",
-    "Karar: https://www.karar.com/guncel-haberler/son-dakika-antalya-kepez-belediyesine-operasyon-10-gozalti-2085540"
-   ]
-  },
   {
    "id": "7a072a5d56",
    "post_id": "529346797199852_1476508644588843",
@@ -12524,6 +12524,22 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/omer-celikten-yeni-parti-toplantisindaki-sozlere-tepki-3497497",
     "CNN Türk: https://www.cnnturk.com/yerel-haberler/nigde/nigdede-ogretmenler-gunu-kutlandi-3497466"
    ]
+  },
+  {
+   "id": "6ee6894549",
+   "post_id": "529346797199852_1478900574349650",
+   "title": "'Faladdin'in sahibi Sertaç Taşdelen'in yurt dışı çıkış yasağı kaldırıldı",
+   "at": "2026-11-24T12:19:50.199909+00:00",
+   "yazim": "claude",
+   "metin": "Faladdin ve Binnaz uygulamalarının sahibi Sertaç Taşdelen'in İstanbul'daki davasında yurt dışına çıkış yasağı kaldırıldı.\n\nMahkeme, İstanbul 2. Asliye Ceza Mahkemesi'ndeki ara kararında bu yasağın kaldırılmasına hükmetti.\n\n— Taşdelen, yurt dışındaki konferanslara konuşmacı olarak katılması gerektiğini söyleyerek yasağın kaldırılmasını istemişti.\n— Taşdelen, \"suçtan kaynaklanan malvarlığı değerlerini aklama\" suçundan 7 yıla kadar hapis istemiyle yargılanıyor. Tutuksuz yargılanıyor.\n— Dava, duruşmanın 26 Nisan 2027 tarihine ertelenmesiyle devam edecek.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/faladdin-ve-binnazin-sahibi-sertac-tasdelen-hakkinda-yeni-karar-43389448",
+    "Sözcü: https://www.sozcu.com.tr/faladdin-ve-binnaz-adli-fal-uygulamalarinin-sahibinin-yurt-disi-cikis-yasagi-kaldirildi-p384038",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kara-para-aklamak-tan-yargilaniyordu-faladdin-ve-binnaz-in-sahibi-sertac-tasdelen-in-yasagi-kaldirildi-2558968",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/7-yil-hapis-istemiyle-yargilaniyordu-faladdinin-sahibi-hakkinda-yeni-karar-4876082",
+    "Evrensel: https://www.evrensel.net/haber/6010977/faladdin-ve-binnaz-uygulamalarinin-sahibine-verilen-yurt-disina-cikis-yasagi-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/guncel-haberler/faladdin-ve-binnaz-davasinda-yeni-gelisme-sertac-tasdelenin-yurt-disina-2085966"
+   ]
   }
  ],
  "fails": {
@@ -12755,7 +12771,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125198806488678413",
+   "since_id": "2125202022047650059",
    "started": true
   },
   "ajansmuhbir1923": {
