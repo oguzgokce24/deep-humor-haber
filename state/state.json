@@ -13693,15 +13693,11 @@
   "da3edcf821": 2,
   "f47bf3c8e4": 1,
   "4c634fdecc": 1,
-  "1ca9231f2a": 2
+  "1ca9231f2a": 3,
+  "b42444205a": 1,
+  "c851ce6256": 1
  },
  "fail_log": [
-  "2026-11-24T15:29 Ahmet Şık’tan Sayan Kaya’nın tahliyesi sonrası açıklama: “Şa -> ValueError: yanıt okunamadı",
-  "2026-11-24T15:29 Ahmet Şık’tan Sayan Kaya’nın tahliyesi sonrası açıklama: “Şa -> ValueError: cümle yarım kalmış: '— Kaya, fon ve his'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-24T15:42 Gazeteciler hâkim karşısında: “Suçsuz bir insanı 25 saat boy -> ValueError: yanıt okunamadı",
-  "2026-11-24T16:53 Fenerbahçe’de 2011 yılından beri görev yapan personelin işin -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-24T16:53 Bahçeli'den 'Terörsüz Türkiye' mesajı -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı",
   "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı",
   "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı",
   "2026-11-24T18:58 Türkiye, son 1 yılda uçak/helikopter kazalarında 31 şehit ve -> ValueError: yanıt okunamadı",
@@ -13735,7 +13731,13 @@
   "2026-11-24T22:59 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
   "2026-11-24T22:59 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
   "2026-11-24T22:59 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:12 Okan Buruk'tan Aston Villa maçı değerlendirmesi: 'Taktiksel  -> ValueError: yanıt okunamadı"
+  "2026-11-24T23:12 Okan Buruk'tan Aston Villa maçı değerlendirmesi: 'Taktiksel  -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:25 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:25 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:25 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:25 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:25 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:25 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
