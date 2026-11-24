@@ -10483,20 +10483,68 @@
     "öneri"
    ],
    "at": "2026-11-24T18:19:34.237427+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "2026",
+    "2027",
+    "30",
+    "atama",
+    "bin",
+    "cumhu",
+    "erdoğ",
+    "yapıl",
+    "öğret"
+   ],
+   "tok": [
+    "adayl",
+    "akade",
+    "alaca",
+    "alım",
+    "atama",
+    "ayınd",
+    "başla",
+    "bekle",
+    "bin",
+    "branş",
+    "dan",
+    "dağıl",
+    "duyur",
+    "dönem",
+    "erdoğ",
+    "eylül",
+    "eğiti",
+    "gelec",
+    "giriş",
+    "göre",
+    "görev",
+    "hafta",
+    "içeri",
+    "milli",
+    "müjde",
+    "nde",
+    "okul",
+    "ortam",
+    "recep",
+    "sonuç",
+    "sınav",
+    "takvi",
+    "tanıy",
+    "tayyi",
+    "tekin",
+    "topla",
+    "uygul",
+    "yapıl",
+    "yusuf",
+    "yılla",
+    "zaman",
+    "öğret"
+   ],
+   "at": "2026-11-24T18:32:48.792333+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bd61741e94",
-   "post_id": "529346797199852_1476794981226876",
-   "title": "Fransa'da bilgi sızıntısı soruşturması: Le Pen iddiaları reddetti",
-   "at": "2026-11-22T14:25:25.081127+00:00",
-   "yazim": "claude",
-   "metin": "Fransa'da Marine Le Pen, gizli bilgi sızdırıldığı yönündeki iddiaları reddetti.\n\n— Centre-Val de Loire ve Loiret valisinin, İçişleri Bakanlığı'na ait gizli bilgileri partisi Ulusal Birlik'e (RN) sızdırdığı yönünde iddialar var.\n— Le Pen bu iddiaları kabul etmedi.\n— Le Pen, gelecek yıl yapılacak cumhurbaşkanlığı seçiminde yarışacak isimlerden biri.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/fransa-da-bilgi-sizintisi-sorusturmasi-le-pen-iddialari-reddetti-747821"
-   ]
-  },
   {
    "id": "05012560fa",
    "post_id": "529346797199852_1476810537891987",
@@ -13108,6 +13156,20 @@
     "BirGün: https://www.birgun.net/haber/muhalefet-fon-skandalina-karisan-milletvekillerinin-hesaplari-arastirilsin-dedi-akp-ve-mhp-reddetti-748248",
     "BirGün: https://www.birgun.net/haber/muhalefet-fon-dolandiriciligi-arastirilsin-dedi-akp-ve-mhp-reddetti-gonullu-iadeler-devam-ediyor-748245"
    ]
+  },
+  {
+   "id": "48d35c9836",
+   "post_id": "529346797199852_1479231100983264",
+   "title": "Erdoğan'dan 2026 ve 2027 döneminde 30 bin öğretmene atama müjdesi",
+   "at": "2026-11-24T18:32:48.792333+00:00",
+   "yazim": "claude",
+   "metin": "Erdoğan, 2026 ve 2027'de toplam 30 bin öğretmen ataması yapılacağını açıkladı.\n\nCumhurbaşkanı Recep Tayyip Erdoğan:\n\n“2026 Akademi Giriş Sınavı sonuçlarına göre 15 bin öğretmen alım duyurusu ve branş dağılımı Milli Eğitim Bakanlığımız tarafından bu hafta içerisinde açıklanacak.”\n\n— Erdoğan, 2027'de de 15 bin öğretmen ataması daha yapılacağını söyledi.\n— Öğretmen adaylarının gelecek eylül ayında Milli Eğitim Akademileri'nde eğitime başlaması bekleniyor.\n— Milli Eğitim Bakanı Yusuf Tekin, akademi eğitiminde adayların göreve başlamadan önce okul ortamını tanıyacağını ve uygulamalı eğitim alacağını söyledi.",
+   "sources": [
+    "Euronews: https://tr.euronews.com/2026/11/24/erdogandan-2026-ve-2027-doneminde-30-bin-ogretmene-atama-mujdesi",
+    "CNN Türk: https://www.cnnturk.com/turkiye/30-bin-ogretmen-atamasi-son-dakika-15-bin-ogretmen-atamasi-ne-zaman-yapilacak-brans-dagilimi-belli-oldu-mu-3497691",
+    "Sözcü: https://www.sozcu.com.tr/cumhurbaskani-erdogan-dan-onemli-aciklamalar-p384097",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/30-bin-ogretmen-atama-takvimi-2026-2027-cumhurbaskani-erdogan-mujdeyi-verdi-2026-2027-ogretmen-atamalari-ne-zaman-basvurular-hangi-tarihte-son-dakika-aciklamalar-4876172"
+   ]
   }
  ],
  "fails": {
@@ -13344,7 +13406,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125293001467711684",
+   "since_id": "2125296212752617618",
    "started": true
   },
   "ajansmuhbir1923": {
