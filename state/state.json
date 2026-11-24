@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "amode",
-    "anthr",
-    "ceo",
-    "dario",
-    "insan",
-    "işsiz",
-    "kalan",
-    "oyunl",
-    "sakin",
-    "sürük",
-    "yapay",
-    "yüzün",
-    "zeka",
-    "önerd"
-   ],
-   "tok": [
-    "aktar",
-    "amacı",
-    "amaçl",
-    "amode",
-    "anthr",
-    "ceo",
-    "dario",
-    "dikka",
-    "etkis",
-    "gelen",
-    "göste",
-    "gücü",
-    "https",
-    "insan",
-    "işsiz",
-    "kalan",
-    "ljyoz",
-    "oyunl",
-    "sakin",
-    "sayed",
-    "siyas",
-    "sürük",
-    "tartı",
-    "tepki",
-    "wsj",
-    "yapay",
-    "yüzün",
-    "zeka",
-    "zekan",
-    "çekti",
-    "önerd",
-    "öneri",
-    "üzeri"
-   ],
-   "at": "2026-11-22T19:28:46.103332+00:00"
-  },
-  {
-   "fp": [
     "iran",
     "sinya",
     "tan",
@@ -10174,20 +10120,78 @@
     "zanet"
    ],
    "at": "2026-11-24T07:20:38.174887+00:00"
+  },
+  {
+   "fp": [
+    "açıkl",
+    "cevde",
+    "cumhu",
+    "dan",
+    "emekl",
+    "enfla",
+    "iyile",
+    "yapac",
+    "yapıl",
+    "yardı",
+    "yılma",
+    "zam",
+    "üzeri"
+   ],
+   "tok": [
+    "anlat",
+    "ardın",
+    "artır",
+    "artış",
+    "aylık",
+    "bildi",
+    "bitme",
+    "bitmi",
+    "cevde",
+    "dan",
+    "değil",
+    "düzen",
+    "emekl",
+    "enfla",
+    "esas",
+    "göre",
+    "gün",
+    "henüz",
+    "ilişk",
+    "iyile",
+    "kabin",
+    "maaşl",
+    "maaşı",
+    "mecli",
+    "nın",
+    "planl",
+    "prim",
+    "sayıs",
+    "sağla",
+    "sunac",
+    "sunul",
+    "tbmm",
+    "topla",
+    "unsur",
+    "yapac",
+    "yapan",
+    "yapma",
+    "yapıl",
+    "yardı",
+    "yaş",
+    "yaşın",
+    "yıl",
+    "yılba",
+    "yılma",
+    "zam",
+    "zammı",
+    "çalış",
+    "öneml",
+    "üzeri"
+   ],
+   "at": "2026-11-24T07:33:14.335685+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c221bed84d",
-   "post_id": "529346797199852_1476269974612710",
-   "title": "Hatay'da zeytinliklere konut imarı: 2,4 milyarlık satış",
-   "at": "2026-11-22T02:40:15.800925+00:00",
-   "yazim": "claude",
-   "metin": "Hatay Büyükşehir Belediyesi, 17 taşınmazı 2,4 milyar TL bedelle satışa çıkardı.\n\nSatış listesinde zeytinlik vasfındaki arazilere konut imarı verildiği de ortaya çıktı.\n\n— Depremzedelerin mülklerine yönelik kamulaştırmalar sürüyor.\n— Bu arada zeytinlik olan bazı arazilerin konut yapılabilecek şekilde imarlandığı belirtiliyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/hatay-da-zeytinliklere-konut-imari-2-4-milyarlik-satis-747711"
-   ]
-  },
   {
    "id": "859f7ee435",
    "post_id": "529346797199852_1476278487945192",
@@ -12727,6 +12731,21 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/bakan-kurumdan-cop31-elestirilerine-cevap-turkiye-dayatmalara-boyun-egmez-4875944",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/ekonomi/bakan-kurumdan-abye-cop31-tepkisi-birilerine-sirin-gozukecegiz-diye-adim-atmayiz-7706681"
    ]
+  },
+  {
+   "id": "e52b1b5d35",
+   "post_id": "529346797199852_1478681767704864",
+   "title": "Cevdet Yılmaz'dan emekli maaşı açıklaması: Enflasyonun üzerinde zam yapacağız, yılbaşından önce Meclis'e sunacağız",
+   "at": "2026-11-24T07:33:14.335685+00:00",
+   "yazim": "claude",
+   "metin": "Cevdet Yılmaz, emekli maaşı düzenlemesi için:\n\n“Esas olan enflasyonun üzerinde emeklimize iyileştirme yapmak. Çalışma henüz bitmiş değil.”\n\n— Cumhurbaşkanı Yardımcısı Yılmaz, Kabine Toplantısı'nın ardından emekli aylıklarında artış sağlayacak düzenlemeyi anlattı.\n— Düzenlemenin yıl bitmeden TBMM'ye sunulması planlanıyor.\n— Yılmaz, prim gün sayısı ve yaşın düzenlemede önemli unsurlar olduğunu söyledi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/cevdet-yilmaz-emeklilerimize-iyilestirme-ve-enflasyonun-uzerinde-artis-yapilacak-964260.html",
+    "CNN Türk: https://www.cnnturk.com/ekonomi/son-dakika-cumhurbaskani-yardimcisi-cevdet-yilmaz-enflasyonun-uzerinde-zam-yapacagiz-3497290",
+    "Evrensel: https://www.evrensel.net/haber/6010915/cevdet-yilmaz-dan-emekli-maasi-aciklamasi-enflasyonun-uzerinde-zam-yapacagiz-yilbasindan-once-meclis-e-sunacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Karar: https://www.karar.com/ekonomi-haberleri/son-dakika-cumhurbaskani-yardimcisi-yilmazdan-emekli-zammi-aciklamasi-2085878",
+    "BPT (X): https://x.com/bpthaber/status/2125127605070229949"
+   ]
   }
  ],
  "fails": {
@@ -12956,7 +12975,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125121049432129896",
+   "since_id": "2125130431594967246",
    "started": true
   },
   "ajansmuhbir1923": {
