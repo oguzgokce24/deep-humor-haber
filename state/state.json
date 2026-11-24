@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "engel",
-    "erişi",
-    "ilett",
-    "karar",
-    "kez",
-    "sağla",
-    "teleg",
-    "ıkby",
-    "ırak"
-   ],
-   "tok": [
-    "bölge",
-    "engel",
-    "erişi",
-    "gerek",
-    "getir",
-    "göste",
-    "güven",
-    "hüküm",
-    "ileti",
-    "ilett",
-    "inter",
-    "kez",
-    "kürt",
-    "medya",
-    "mesaj",
-    "ndeki",
-    "platf",
-    "sağla",
-    "sosya",
-    "teleg",
-    "ulusa",
-    "yasak",
-    "yasağ",
-    "yenid",
-    "yine",
-    "yönet",
-    "yılda",
-    "üçünc",
-    "ıkby",
-    "ırak"
-   ],
-   "at": "2026-11-22T18:22:47.063481+00:00"
-  },
-  {
-   "fp": [
     "dan",
     "hgs",
     "iktid",
@@ -10156,20 +10110,78 @@
     "üzünt"
    ],
    "at": "2026-11-24T06:15:57.621045+00:00"
+  },
+  {
+   "fp": [
+    "benzi",
+    "değiş",
+    "dizel",
+    "geril",
+    "lpg",
+    "terci",
+    "yakıt",
+    "yolla",
+    "yükse"
+   ],
+   "tok": [
+    "artar",
+    "arttı",
+    "artış",
+    "aynı",
+    "azalı",
+    "aştı",
+    "benzi",
+    "bin",
+    "dan",
+    "den",
+    "değiş",
+    "dizel",
+    "dönem",
+    "düşer",
+    "düştü",
+    "elekt",
+    "geril",
+    "göre",
+    "hibri",
+    "ise",
+    "içind",
+    "kara",
+    "kat",
+    "katet",
+    "kayıt",
+    "kilom",
+    "kulla",
+    "lpg",
+    "mesaf",
+    "milya",
+    "motor",
+    "ortal",
+    "otomo",
+    "payı",
+    "payın",
+    "sini",
+    "taşıt",
+    "ten",
+    "terci",
+    "topla",
+    "trafi",
+    "tüik",
+    "veril",
+    "yakıt",
+    "yana",
+    "yaşan",
+    "yol",
+    "yolla",
+    "yükse",
+    "yüzde",
+    "yılda",
+    "yıllı",
+    "çıktı"
+   ],
+   "at": "2026-11-24T06:28:31.614346+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "50731de08c",
-   "post_id": "529346797199852_1476233617949679",
-   "title": "Andromeda'da iki yıldız birleşti, James Webb patlamadan 47 gün sonrasını yakaladı",
-   "at": "2026-11-22T01:44:14.646540+00:00",
-   "yazim": "claude",
-   "metin": "Andromeda galaksisinde iki yıldız birleşti ve NASA'nın James Webb Teleskobu patlamadan sadece 47 gün sonra gözlem yaptı.\n\nColumbia Üniversitesi'nden Viraj Karambelkar şöyle dedi:\n\n“Webb, patlamanın zirvesinden sadece 47 gün sonra Bao'yu gözlemledi. Bu, böyle bir olayın bugüne kadarki en erken takibiydi.”\n\n— Küçük yıldız, Güneş'ten 18 bin kat parlak bir süperdevin dış katmanlarına sürtünerek girdi. Sonunda iki yıldız birleşti.\n— Yıldızların birleşmeden önce binlerce yıl birbirinin etrafında dönmesi, birleşmenin neden bu kadar nadir olduğunu gösteriyor.\n— Astronomlar, birleşmenin ardından ortaya çıkan yıldızı uzun süreli verilerle geriye dönük izledi. Yıldızın \"gençleşmiş\" olabileceği düşünülüyor.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010628/andromeda-da-iki-yildiz-birlesti-james-webb-patlamadan-47-gun-sonrasini-yakaladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "e664bc171d",
    "post_id": "529346797199852_1476240977948943",
@@ -12697,6 +12709,17 @@
    "metin": "Mardin'in Artuklu ilçesine bağlı Ahmetli köyünde yaşayan 105 yaşındaki bir kadın hayatını kaybetti.\n\n— Ömrü boyunca Türkiye'nin yakın tarihine tanıklık etti: Mustafa Kemal Atatürk'ten Recep Tayyip Erdoğan'a kadar 12 cumhurbaşkanı, 1920-2018 arasında görev yapan 27 başbakan ve 66 hükümet gördü.\n— Hastanede yapılan tüm müdahalelere rağmen kurtarılamadı. Ailesi ve köy halkı derin bir üzüntü yaşıyor.\n— Cenazesi öğle namazının ardından kılınan cenaze namazının ardından Ahmetli köyü mezarlığında toprağa verildi.",
    "sources": [
     "Karar: https://www.karar.com/insan-haberleri/mardinde-asirlik-cinar-hayata-veda-etti-tam-12-cumhurbaskani-ve-66-2085854"
+   ]
+  },
+  {
+   "id": "3f807cc0ec",
+   "post_id": "529346797199852_1478637361042638",
+   "title": "Yollarda yakıt tercihi değişiyor: Dizel ve LPG geriledi, benzinli yükseldi",
+   "at": "2026-11-24T06:28:31.614346+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'de otomobillerin yakıt tercihi değişiyor: dizel ve LPG'li araçların payı düşerken benzinli araçların payı yükseldi.\n\n— TÜİK verilerine göre, 2025'te trafiğe kayıtlı motorlu kara taşıtları toplam 395 milyar 264 milyon kilometre yol yaptı.\n\n— Otomobiller bu mesafenin yüzde 57,7'sini kat etti. Otomobillerin toplam kilometresi 2015'ten bu yana yüzde 68 arttı.\n\n— Dizel otomobillerin toplam mesafedeki payı yüzde 43,82'den yüzde 37,20'ye geriledi.\n\n— LPG'li otomobillerin payı yüzde 35,50'den yüzde 26,96'ya düştü.\n\n— Benzinli otomobillerin payı ise yüzde 20,66'dan yüzde 29,44'e yükseldi. Yıllık ortalama kullanım mesafesi de 9 bin 701 kilometreden 13 bin 61 kilometreye çıktı.",
+   "sources": [
+    "Karar: https://www.karar.com/ekonomi-haberleri/yollarda-yakit-tercihi-degisiyor-dizel-ve-lpg-geriledi-benzinli-2085857"
    ]
   }
  ],
