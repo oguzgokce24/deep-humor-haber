@@ -2,76 +2,6 @@
  "seen": [
   {
    "fp": [
-    "7",
-    "9",
-    "alınd",
-    "dolan",
-    "gözal",
-    "harek",
-    "ilde",
-    "merke",
-    "milyo",
-    "opera",
-    "para",
-    "tespi",
-    "zongu",
-    "şüphe"
-   ],
-   "tok": [
-    "adana",
-    "adıya",
-    "aklam",
-    "alınd",
-    "alını",
-    "ardın",
-    "aşan",
-    "belir",
-    "bulun",
-    "den",
-    "diğer",
-    "dolan",
-    "duyur",
-    "düzen",
-    "edild",
-    "evind",
-    "fazla",
-    "gelir",
-    "halde",
-    "harek",
-    "hesap",
-    "ilçes",
-    "karde",
-    "lik",
-    "mardi",
-    "mağdu",
-    "mersi",
-    "milya",
-    "musa",
-    "neden",
-    "nitel",
-    "olayı",
-    "otops",
-    "para",
-    "suç",
-    "suçla",
-    "sürüy",
-    "tespi",
-    "tufan",
-    "var",
-    "yapıl",
-    "yaşın",
-    "yönel",
-    "yürüt",
-    "zaman",
-    "zongu",
-    "çalış",
-    "ölüm",
-    "şanlı"
-   ],
-   "at": "2026-11-23T11:28:52.769056+00:00"
-  },
-  {
-   "fp": [
     "camiy",
     "giden",
     "sürüc",
@@ -10874,6 +10804,37 @@
     "öngör"
    ],
    "at": "2026-11-24T23:12:32.058096+00:00"
+  },
+  {
+   "fp": [
+    "buruk",
+    "fizik",
+    "iyi",
+    "maçım",
+    "okan",
+    "takti"
+   ],
+   "tok": [
+    "ardın",
+    "aston",
+    "bulun",
+    "buruk",
+    "değer",
+    "direk",
+    "fizik",
+    "galat",
+    "iyi",
+    "kazan",
+    "maçı",
+    "maçım",
+    "maçın",
+    "okan",
+    "takti",
+    "tan",
+    "tekni",
+    "villa"
+   ],
+   "at": "2026-11-24T23:28:52.532439+00:00"
   }
  ],
  "posted": [
@@ -13693,15 +13654,11 @@
   "da3edcf821": 2,
   "f47bf3c8e4": 1,
   "4c634fdecc": 1,
-  "1ca9231f2a": 3,
-  "b42444205a": 1,
-  "c851ce6256": 1
+  "b42444205a": 2,
+  "c851ce6256": 1,
+  "5e8b438f51": 1
  },
  "fail_log": [
-  "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı",
-  "2026-11-24T17:41 Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve e -> ValueError: yanıt okunamadı",
-  "2026-11-24T18:58 Türkiye, son 1 yılda uçak/helikopter kazalarında 31 şehit ve -> ValueError: yanıt okunamadı",
-  "2026-11-24T18:58 Türkiye, son 1 yılda uçak/helikopter kazalarında 31 şehit ve -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-24T18:58 Türkiye, son 1 yılda uçak/helikopter kazalarında 31 şehit ve -> ValueError: yanıt okunamadı",
   "2026-11-24T19:38 Emre Belözoğlu'ndan Arda Turan'a yanıt: 'Fenerbahçe favori'  -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-24T19:38 Emre Belözoğlu'ndan Arda Turan'a yanıt: 'Fenerbahçe favori'  -> ValueError: cümle yarım kalmış: '— Fener'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
@@ -13737,7 +13694,11 @@
   "2026-11-24T23:25 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:25 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:25 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:25 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
+  "2026-11-24T23:25 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:29 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
