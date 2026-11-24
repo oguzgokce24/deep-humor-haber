@@ -13005,17 +13005,11 @@
   "98b0bca999": 1,
   "5d53452057": 2,
   "61f7d54f2f": 1,
-  "80e608c90c": 1,
-  "2b1d0d4725": 1,
-  "12c0eee101": 1
+  "80e608c90c": 2,
+  "2b1d0d4725": 2,
+  "12c0eee101": 2
  },
  "fail_log": [
-  "2026-11-23T22:21 Finale adım adım: MasterChef Türkiye'de yeni haftanın kaptan -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:33 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:33 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:33 Hasat için günlük 110 km yol gidiyorlar: Konya’dan 80 ile gö -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
-  "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
   "2026-11-23T22:46 SpaceX'in Starship roketinin inişi sırasında yakın bir açıda -> ValueError: yanıt okunamadı",
   "2026-11-23T22:59 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
   "2026-11-23T22:59 ABD'nin California eyaletinde helikopter düştü: 2 kişi yaşam -> ValueError: yanıt okunamadı",
@@ -13049,7 +13043,13 @@
   "2026-11-24T01:35 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
   "2026-11-24T01:35 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
   "2026-11-24T01:35 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
-  "2026-11-24T01:35 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı"
+  "2026-11-24T01:35 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:39 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:39 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:39 AKP’de Cumhurbaşkanlığı Hükümet Sistemi tartışması: ‘Gevşeti -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:39 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:39 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı",
+  "2026-11-24T01:39 Ordu Barosu Anıtkabir’de: Demokrasi ve laiklik vurgusu -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
