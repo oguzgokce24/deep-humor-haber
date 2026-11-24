@@ -10902,20 +10902,112 @@
     "yayla"
    ],
    "at": "2026-11-24T23:36:07.871957+00:00"
+  },
+  {
+   "fp": [
+    "bursa",
+    "daire",
+    "gayri",
+    "icra",
+    "müdür",
+    "satış",
+    "vergi"
+   ],
+   "tok": [
+    "antal",
+    "beşik",
+    "bursa",
+    "daire",
+    "gayri",
+    "gazie",
+    "icra",
+    "karat",
+    "kurum",
+    "memur",
+    "müdür",
+    "satış",
+    "vergi"
+   ],
+   "at": "2026-11-24T23:39:32.670881+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "banka",
+    "beraa",
+    "dolan",
+    "huawe",
+    "mahku",
+    "suç",
+    "suçla",
+    "sır",
+    "ticar",
+    "örgüt"
+   ],
+   "tok": [
+    "abd",
+    "ardın",
+    "avuka",
+    "ağır",
+    "banka",
+    "başar",
+    "beraa",
+    "brian",
+    "buldu",
+    "bölge",
+    "dayan",
+    "devi",
+    "dolan",
+    "doğru",
+    "doğu",
+    "edece",
+    "etmiy",
+    "göste",
+    "hafta",
+    "heber",
+    "hiçbi",
+    "huawe",
+    "hırsı",
+    "iddia",
+    "ise",
+    "itira",
+    "jüri",
+    "kabul",
+    "mahku",
+    "nde",
+    "new",
+    "nin",
+    "olgus",
+    "olmad",
+    "racke",
+    "suç",
+    "suçla",
+    "suçlu",
+    "süren",
+    "sır",
+    "tekno",
+    "temel",
+    "ticar",
+    "tutar",
+    "tutum",
+    "ulaşm",
+    "yanlı",
+    "yapar",
+    "yaptı",
+    "yargı",
+    "yoksu",
+    "york",
+    "yılda",
+    "çalma",
+    "çete",
+    "çinli",
+    "örgüt",
+    "şirke"
+   ],
+   "at": "2026-11-24T23:39:39.475250+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "352b995a46",
-   "post_id": "529346797199852_1477006317872409",
-   "title": "Yeni Partili Karasu'dan HGS tepkisi: \"Bu talanın siyasi sorumlusu iktidardır\"",
-   "at": "2026-11-22T18:35:25.879894+00:00",
-   "yazim": "claude",
-   "metin": "Ulaş Karasu, HGS icra takipleri soruşturmasına ilişkin Adalet Bakanı Akın Gürlek'e seslendi:\n\n“Sayın Bakan, talanının siyasi sorumlusu sizin iktidarınızdır! (...) Bu soygun düzeninin hesabını, millete vermek zorundasınız!”\n\n— Gürlek, HGS borçlarına ilişkin icra takiplerinin hukuka aykırı yollarla haksız kazanç aracına dönüştürüldüğü iddiaları üzerine İstanbul Cumhuriyet Başsavcılığı'nın soruşturma başlattığını açıkladı.\n\n— Karasu, düzeni kimlerin kurup denetimsiz bıraktığını sordu. Eski bakanların, AKP milletvekillerinin ve yakınlarının adının geçtiği bir ilişkiler ağından söz etti.\n\n— Haksız tahsil edilen paraların iade edilmesini ve bağlantıların açığa çıkarılmasını talep etti.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010706/yeni-partili-karasu-dan-hgs-tepkisi-bu-talanin-siyasi-sorumlusu-iktidardir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "3b74025dc4",
    "post_id": "529346797199852_1477018477871193",
@@ -13523,6 +13615,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/istanbul-0-dereceyi-gorecek-19-ile-sari-kodlu-kar-ve-firtina-uyarisi-2086068"
    ]
+  },
+  {
+   "id": "a061e914c1",
+   "post_id": "529346797199852_1479451774294530",
+   "title": "Huawei: ABD'de ticari sır ve banka dolandırıcılığı suçlarından mahkum, suç örgütü suçlamasından beraat",
+   "at": "2026-11-24T23:39:39.475250+00:00",
+   "yazim": "claude",
+   "metin": "ABD'de bir jüri, Çinli teknoloji devi Huawei'yi ticari sır çalmak ve banka dolandırıcılığından suçlu buldu.\n\nŞirket, daha ağır olan suç örgütü (racketeering) suçlamasından ise beraat etti.\n\n— Karar, New York Doğu Bölgesi ABD Bölge Mahkemesi'nde 11 hafta süren yargılamanın ardından açıklandı.\n— Huawei hiçbir yanlış yaptığını kabul etmiyor. Şirket, beraat kararının suçlamaların \"olgusal bir dayanağı olmadığını\" gösterdiğini söyledi.\n— Huawei'nin avukatı Brian Heberlig, \"Huawei başarıya hırsızlık yaparak ulaşmadı,\" dedi.\n— Şirket, mahkumiyet kararlarına itiraz edeceğini açıkladı.",
+   "sources": [
+    "Euronews: https://tr.euronews.com/2026/11/24/huawei-abdde-ticari-sir-ve-banka-dolandiriciligi-suclarindan-mahkum-suc-orgutu-suclamasind"
+   ]
   }
  ],
  "fails": {
@@ -13721,11 +13824,9 @@
   "da3edcf821": 2,
   "f47bf3c8e4": 1,
   "4c634fdecc": 1,
-  "c851ce6256": 2,
-  "3f2934d32d": 2
+  "c851ce6256": 2
  },
  "fail_log": [
-  "2026-11-24T22:37 Bir geliştirici, GTA 6'yı bilgisayarda 2 FPS ile çalıştırmay -> ValueError: yanıt okunamadı",
   "2026-11-24T22:37 Bir geliştirici, GTA 6'yı bilgisayarda 2 FPS ile çalıştırmay -> ValueError: yanıt okunamadı",
   "2026-11-24T22:37 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
   "2026-11-24T22:37 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
@@ -13764,7 +13865,8 @@
   "2026-11-24T23:36 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı"
+  "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:39 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
