@@ -10488,25 +10488,84 @@
     "ronal"
    ],
    "at": "2026-11-24T18:58:14.233921+00:00"
+  },
+  {
+   "fp": [
+    "dev",
+    "gece",
+    "indir",
+    "motor",
+    "tabel",
+    "yansı",
+    "yarın"
+   ],
+   "tok": [
+    "akary",
+    "ancak",
+    "aralı",
+    "artış",
+    "aşan",
+    "bağlı",
+    "bekle",
+    "belir",
+    "benzi",
+    "bilgi",
+    "brent",
+    "civar",
+    "den",
+    "dev",
+    "devre",
+    "değiş",
+    "düzen",
+    "düşme",
+    "edini",
+    "farkl",
+    "fiyat",
+    "gece",
+    "geldi",
+    "gelme",
+    "geçer",
+    "girme",
+    "göre",
+    "göste",
+    "günü",
+    "indir",
+    "istas",
+    "itiba",
+    "izmir",
+    "kasım",
+    "kayna",
+    "kuru",
+    "kısa",
+    "lik",
+    "liray",
+    "litre",
+    "motor",
+    "olmak",
+    "perşe",
+    "petro",
+    "pompa",
+    "rahat",
+    "sektö",
+    "sevin",
+    "sür",
+    "sürer",
+    "sürüc",
+    "tabel",
+    "vergi",
+    "yansı",
+    "yarın",
+    "yarıs",
+    "zam",
+    "öngör",
+    "ötv",
+    "üzere",
+    "şekil"
+   ],
+   "at": "2026-11-24T19:02:01.661975+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e81f1236f1",
-   "post_id": "529346797199852_1476821921224182",
-   "title": "Diyarbakır’da bir eve yıldırım düştü: Anne ve 2 çocuğu yaralandı",
-   "at": "2026-11-22T14:55:40.384994+00:00",
-   "yazim": "claude",
-   "metin": "Diyarbakır'ın Ergani ilçesinde bir eve yıldırım düştü, evdeki anne ve iki çocuğu yaralandı.\n\n— Olay Aşağıbitikçi Mahallesi'ndeki kırsal bir evde yaşandı.\n\n— Yaralılar 28 yaşındaki bir anne ile 9 ve 8 yaşındaki çocukları. Ekipler ihbar üzerine olay yerine yönlendirildi.\n\n— Yaralılar traktörle ana yola çıkarıldı ve burada sağlık görevlilerine teslim edildi.\n\n— Üçü de ambulanslarla Gazi Yaşargil Eğitim ve Araştırma Hastanesi'ne götürülerek tedaviye alındı.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/diyarbakirda-eve-yildirim-dustu-yarali-anne-ve-2-cocugu-traktorle-yola-cikarildi-43387151",
-    "Milliyet: https://www.milliyet.com.tr/gundem/diyarbakirda-yildirim-faciasi-anne-ve-2-cocugu-yaralandi-7705715",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/diyarbakir/diyarbakirda-eve-yildirim-dustu-anne-ve-2-cocugu-yaralandi-3496611",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-eve-yildirim-dustu-anne-ve-2-cocugu-yaralandi-3929222",
-    "Karar: https://www.karar.com/guncel-haberler/diyarbakirda-bir-eve-yildirim-dustu-anne-ve-2-cocugu-yaralandi-2085604",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/diyarbakirda-yildirim-faciasi-anne-ve-2-cocugu-yaralandi-7705715"
-   ]
-  },
   {
    "id": "ca374b95b4",
    "post_id": "529346797199852_1476833231223051",
@@ -13117,6 +13176,17 @@
     "Evrensel: https://www.evrensel.net/haber/6011041/beyoglu-kaymakamligi-25-kasim-kadina-yonelik-siddete-karsi-mucadele-gunu-yuruyuslerini-yasakladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/birlesik-metal-is-ten-25-kasim-cagrisi-siddete-tacize-ve-esitsizlige-karsi-orgutlu-mucadeleye-748238"
    ]
+  },
+  {
+   "id": "c0d4bb9c2e",
+   "post_id": "529346797199852_1479253797647661",
+   "title": "Motorine dev indirim: Yarın gece tabelaya yansıyacak",
+   "at": "2026-11-24T19:02:01.661975+00:00",
+   "yazim": "claude",
+   "metin": "Motorinde 4,05 TL indirim bekleniyor, 26 Kasım Perşembe günü 00.01'den itibaren pompaya yansıyacak.\n\n— İstanbul'da 89 lira civarındaki, Ankara ve İzmir'de 90 lirayı aşan motorin fiyatlarının belirgin şekilde düşmesi bekleniyor.\n\n— Ancak 1 Aralık'ta devreye girmesi beklenen ÖTV artışıyla motorine 3,60 TL, benzine 4,15 TL zam gelmesi öngörülüyor.\n\nAkaryakıt fiyatları Brent petrol, dolar kuru ve vergi düzenlemelerine bağlı olarak değişiyor. İstasyonlara göre fiyatlar farklılık gösterebilir.",
+   "sources": [
+    "Karar: https://www.karar.com/ekonomi-haberleri/motorine-dev-indirim-yarin-gece-tabelaya-yansiyacak-2086050"
+   ]
   }
  ],
  "fails": {
@@ -13308,7 +13378,8 @@
   "086ee6b47e": 1,
   "0098bbe820": 1,
   "8691513885": 1,
-  "7cc8dbce59": 1
+  "7cc8dbce59": 2,
+  "9123c8519b": 1
  },
  "fail_log": [
   "2026-11-24T04:05 Uzmanlar uyardı: HPV ağız ve boğaz bölgesini de etkiliyor -> ValueError: yanıt okunamadı",
