@@ -13516,18 +13516,12 @@
   "7cc8dbce59": 2,
   "9123c8519b": 1,
   "7e52e8e1f6": 1,
-  "cc071ed250": 1
+  "cc071ed250": 1,
+  "da3edcf821": 1,
+  "f47bf3c8e4": 1,
+  "4979cff879": 1
  },
  "fail_log": [
-  "2026-11-24T04:18 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
-  "2026-11-24T04:18 Resim Heykel Müzesi 29 Kasım'a dek ücretsiz gezilebilecek -> ValueError: yanıt okunamadı",
-  "2026-11-24T04:18 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
-  "2026-11-24T04:18 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
-  "2026-11-24T04:18 Geçim kaygısı kıskacındaki müzisyenler düşük ücrete mahkum e -> ValueError: yanıt okunamadı",
-  "2026-11-24T05:21 \"Leyla\" dizisi, 54. Uluslararası Emmy Ödülleri'nde \"En İyi T -> ValueError: yanıt okunamadı",
-  "2026-11-24T05:21 \"Leyla\" dizisi, 54. Uluslararası Emmy Ödülleri'nde \"En İyi T -> ValueError: yanıt okunamadı",
-  "2026-11-24T05:21 \"Leyla\" dizisi, 54. Uluslararası Emmy Ödülleri'nde \"En İyi T -> ValueError: yanıt okunamadı",
-  "2026-11-24T05:34 Kubilay Kaan Kundakçı cinayetinde yeni gelişme: Konum detayı -> ValueError: yanıt okunamadı",
   "2026-11-24T05:34 Kubilay Kaan Kundakçı cinayetinde yeni gelişme: Konum detayı -> ValueError: yanıt okunamadı",
   "2026-11-24T05:34 Kubilay Kaan Kundakçı cinayetinde yeni gelişme: Konum detayı -> ValueError: cümle yarım kalmış: '— Aile, sanığın'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-24T06:41 AKP kulislerinde seçim hareketliliği: Erdoğan için yeni form -> ValueError: yanıt okunamadı",
@@ -13558,12 +13552,21 @@
   "2026-11-24T19:38 Emre Belözoğlu'ndan Arda Turan'a yanıt: 'Fenerbahçe favori'  -> ValueError: cümle yarım kalmış: '— Fener'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-24T20:04 Axios: OpenAI ve Anthropic kendi modellerini kontrol edemiyo -> ValueError: yanıt okunamadı",
   "2026-11-24T20:04 Axios: OpenAI ve Anthropic kendi modellerini kontrol edemiyo -> ValueError: yanıt okunamadı",
-  "2026-11-24T20:04 Axios: OpenAI ve Anthropic kendi modellerini kontrol edemiyo -> ValueError: yanıt okunamadı"
+  "2026-11-24T20:04 Axios: OpenAI ve Anthropic kendi modellerini kontrol edemiyo -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 Arda Güler'in PSV karşılaşmasındaki 2. -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 Arda Güler'in PSV karşılaşmasındaki 2. -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 Arda Güler'in PSV karşılaşmasındaki 2. -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
+  "2026-11-24T21:47 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125341005733933532",
+   "since_id": "2125344183229771825",
    "started": true
   },
   "ajansmuhbir1923": {
