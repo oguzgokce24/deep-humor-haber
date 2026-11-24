@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "anne",
-    "diyar",
-    "düştü",
-    "eve",
-    "facia",
-    "trakt",
-    "yaral",
-    "yola",
-    "yıldı",
-    "çocuğ",
-    "çıkar"
-   ],
-   "tok": [
-    "ailed",
-    "altın",
-    "alınd",
-    "ambul",
-    "ana",
-    "anne",
-    "araşt",
-    "aynı",
-    "aşağı",
-    "burad",
-    "diyar",
-    "düştü",
-    "ekipl",
-    "ergan",
-    "etmes",
-    "evde",
-    "evdek",
-    "eve",
-    "eğiti",
-    "facia",
-    "gazi",
-    "görev",
-    "götür",
-    "hasta",
-    "ihbar",
-    "ilçes",
-    "isabe",
-    "kaldı",
-    "kırsa",
-    "mahal",
-    "ndeki",
-    "olay",
-    "sağlı",
-    "sonuc",
-    "tedav",
-    "tesli",
-    "trakt",
-    "yaşan",
-    "yaşar",
-    "yaşla",
-    "yaşın",
-    "yerin",
-    "yola",
-    "yönle",
-    "yıldı",
-    "çocuk",
-    "çocuğ",
-    "çıkar",
-    "üçü"
-   ],
-   "at": "2026-11-22T14:55:40.384994+00:00"
-  },
-  {
-   "fp": [
     "380",
     "bin",
     "ceza",
@@ -10155,21 +10087,46 @@
     "öğren"
    ],
    "at": "2026-11-24T02:49:18.766919+00:00"
+  },
+  {
+   "fp": [
+    "kadın",
+    "marke",
+    "mersi",
+    "saldı",
+    "silah",
+    "yaral",
+    "çalış"
+   ],
+   "tok": [
+    "ateş",
+    "bacak",
+    "başla",
+    "belir",
+    "edere",
+    "giren",
+    "hasta",
+    "ilçes",
+    "kadın",
+    "kaldı",
+    "kaçan",
+    "kimli",
+    "marke",
+    "mersi",
+    "onu",
+    "silah",
+    "silif",
+    "sürer",
+    "sürüy",
+    "taban",
+    "tedav",
+    "zinci",
+    "çalış"
+   ],
+   "at": "2026-11-24T03:01:46.300446+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bb3edfd9f5",
-   "post_id": "529346797199852_1476114671294907",
-   "title": "4 aylık hamile kadını bıçaklayan saldırgandan kan donduran ifade: 'Daha çok kan görmek istiyorum'",
-   "at": "2026-11-21T22:24:10.564203+00:00",
-   "yazim": "claude",
-   "metin": "Gemlik'te 4 aylık hamile kadını bıçaklayan şüpheli, savcılık ifadesinde:\n\n“Kan gördüğüm zaman kan beni çekiyor, daha çok kan görmek istiyorum.\n\nHalisünasyon görüyorum. Yanıma bazen gölgeler geliyor, ben onlarla konuşuyorum.”\n\n— Olay 22 Ekim'de Bursa'nın Gemlik ilçesinde, bir telefon mağazasında yaşandı.\n— Şüpheli, aldığı telefonu iade etmek istedi. Olumsuz cevap alınca mağazada çalışan hamile kadına bıçakla saldırdı.\n— Kadın yüzünden çizikler aldı. Bursa Şehir Hastanesi'ne kaldırıldı. Kendisinin ve bebeğinin sağlık durumunun iyi olduğu, hayati tehlikesinin bulunmadığı bildirildi.\n— Şüphelinin kısa süre önce cezaevinden çıktığı ve psikolojik ilaç kullandığı öğrenildi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/4-aylik-hamile-kadini-bicaklayan-saldirgandan-kan-donduran-ifade-daha-cok-kan-gormek-istiyorum-2558205",
-    "BPT (X): https://x.com/bpthaber/status/2124267217713770750"
-   ]
-  },
   {
    "id": "42c2c08513",
    "post_id": "529346797199852_1476126667960374",
@@ -12708,6 +12665,17 @@
    "metin": "Yüz binlerce öğrencinin kaldığı pansiyonlu okullarda 44 bin 260 uygunsuzluk tespit edildi.\n\nHazırlanan raporda en çok sorunun İmam Hatip okullarında olduğu belirtiliyor.\n\n— 9 bin 11 eksiklik yangına davetiye çıkarıyor.\n— 3 bin 636 eksiklik acil durumlarla ilgili.\n— Raporda İmam Hatip okulları ilk sırada yer alıyor.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/okul-pansiyonlarinda-on-binlerce-guvenlik-acigi-imam-hatip-ler-ilk-sirada-748056"
+   ]
+  },
+  {
+   "id": "3197ef43f1",
+   "post_id": "529346797199852_1478474671058907",
+   "title": "Mersin'de silahlı saldırı: Market çalışanı kadın yaralandı",
+   "at": "2026-11-24T03:01:46.300446+00:00",
+   "yazim": "claude",
+   "metin": "Mersin'in Silifke ilçesinde bir markete tabancayla giren şüpheli, market çalışanı bir kadına iki el ateş ederek onu bacaklarından yaraladı.\n\n— Hastaneye kaldırılan kadının tedavisi sürüyor.\n— Polis, kaçan şüpheliyi yakalamak için çalışma başlattı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/mersin-de-silahli-saldiri-market-calisani-kadin-yaralandi-748078"
    ]
   }
  ],
