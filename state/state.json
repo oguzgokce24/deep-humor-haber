@@ -10835,6 +10835,49 @@
     "villa"
    ],
    "at": "2026-11-24T23:28:52.532439+00:00"
+  },
+  {
+   "fp": [
+    "aşama",
+    "ben",
+    "güzel",
+    "kendi",
+    "rocky",
+    "yapım"
+   ],
+   "tok": [
+    "aklı",
+    "aşama",
+    "başar",
+    "ben",
+    "dan",
+    "dir",
+    "düşle",
+    "fikri",
+    "göste",
+    "güzel",
+    "işi",
+    "kendi",
+    "kimse",
+    "koşul",
+    "kutla",
+    "rocky",
+    "senar",
+    "sinem",
+    "stall",
+    "sylve",
+    "süsle",
+    "tanım",
+    "yapma",
+    "yapım",
+    "yaşay",
+    "yaşın",
+    "yıl",
+    "zor",
+    "çıkan",
+    "çıktı"
+   ],
+   "at": "2026-11-24T23:32:27.997098+00:00"
   }
  ],
  "posted": [
@@ -13654,18 +13697,11 @@
   "da3edcf821": 2,
   "f47bf3c8e4": 1,
   "4c634fdecc": 1,
-  "b42444205a": 2,
   "c851ce6256": 1,
-  "5e8b438f51": 1
+  "5e8b438f51": 2,
+  "3f2934d32d": 1
  },
  "fail_log": [
-  "2026-11-24T18:58 Türkiye, son 1 yılda uçak/helikopter kazalarında 31 şehit ve -> ValueError: yanıt okunamadı",
-  "2026-11-24T19:38 Emre Belözoğlu'ndan Arda Turan'a yanıt: 'Fenerbahçe favori'  -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-24T19:38 Emre Belözoğlu'ndan Arda Turan'a yanıt: 'Fenerbahçe favori'  -> ValueError: cümle yarım kalmış: '— Fener'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-24T20:04 Axios: OpenAI ve Anthropic kendi modellerini kontrol edemiyo -> ValueError: yanıt okunamadı",
-  "2026-11-24T20:04 Axios: OpenAI ve Anthropic kendi modellerini kontrol edemiyo -> ValueError: yanıt okunamadı",
-  "2026-11-24T20:04 Axios: OpenAI ve Anthropic kendi modellerini kontrol edemiyo -> ValueError: yanıt okunamadı",
-  "2026-11-24T21:47 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
   "2026-11-24T21:47 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
   "2026-11-24T21:47 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
   "2026-11-24T21:47 Arda Güler'in PSV karşılaşmasındaki 2. -> ValueError: yanıt okunamadı",
@@ -13698,7 +13734,14 @@
   "2026-11-24T23:29 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
+  "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:32 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:32 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:32 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-24T23:32 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
