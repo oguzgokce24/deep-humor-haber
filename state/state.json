@@ -2,61 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aksar",
-    "devri",
-    "kara",
-    "nevşe",
-    "otobü",
-    "sayıd",
-    "var",
-    "yaral",
-    "yolcu",
-    "yolun"
-   ],
-   "tok": [
-    "afad",
-    "aksar",
-    "aldı",
-    "ambul",
-    "ardın",
-    "belir",
-    "bölge",
-    "devri",
-    "ekibi",
-    "ekipl",
-    "gönde",
-    "göre",
-    "gören",
-    "hasta",
-    "henüz",
-    "ihbar",
-    "incel",
-    "kara",
-    "kazan",
-    "kazay",
-    "kontr",
-    "müdah",
-    "neden",
-    "nevşe",
-    "olay",
-    "otobü",
-    "sayıd",
-    "sağlı",
-    "sevk",
-    "sonuc",
-    "sürüc",
-    "var",
-    "yerin",
-    "yetki",
-    "yolcu",
-    "yolun",
-    "çıktı",
-    "çıkıp"
-   ],
-   "at": "2026-11-24T11:29:16.837478+00:00"
-  },
-  {
-   "fp": [
     "1",
     "245",
     "26",
@@ -10516,25 +10461,66 @@
     "ışid"
    ],
    "at": "2026-11-25T23:27:20.427374+00:00"
+  },
+  {
+   "fp": [
+    "12pun",
+    "engel",
+    "erişi",
+    "hesab",
+    "nun",
+    "ınsta"
+   ],
+   "tok": [
+    "12pun",
+    "almış",
+    "atanm",
+    "başta",
+    "bildi",
+    "bin",
+    "darbe",
+    "den",
+    "duyur",
+    "engel",
+    "erişi",
+    "etkil",
+    "fon",
+    "gazet",
+    "gelmi",
+    "göste",
+    "günde",
+    "güven",
+    "halk",
+    "hesab",
+    "hesap",
+    "inter",
+    "kapat",
+    "kayyı",
+    "konul",
+    "medya",
+    "nun",
+    "nın",
+    "olmak",
+    "payla",
+    "punto",
+    "siber",
+    "sites",
+    "sosya",
+    "sözcü",
+    "sözle",
+    "t24",
+    "takip",
+    "taleb",
+    "tele",
+    "tepki",
+    "vurgu",
+    "üzere",
+    "ınsta"
+   ],
+   "at": "2026-11-25T23:39:52.641910+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "df689de52e",
-   "post_id": "529346797199852_1478116211094753",
-   "title": "Adana merkezli 13 ilde 'Bayğaralar' operasyonu: 90 kişi tutuklandı",
-   "at": "2026-11-23T18:21:25.792661+00:00",
-   "yazim": "claude",
-   "metin": "Adana merkezli 13 ilde \"Bayğaralar\" silahlı suç örgütüne yönelik operasyonda gözaltına alınan 105 kişiden 90'ı tutuklandı.\n\n— Operasyon 20 Kasım'da 135 adrese eş zamanlı düzenlendi. Şüphelilerden 15'i hakkında adli kontrol kararı verildi.\n\n— Soruşturmada örgütün yağma, tehdit, kişiyi hürriyetinden yoksun bırakma, kasten öldürme ve yaralama gibi suçları işlediği değerlendiriliyor.\n\n— Örgüt lideri ve yöneticilerinin yurt dışında olduğu belirlendi.\n\n— Adreslerde 8 ruhsatsız tabanca, 2 AK-47 ve 421 fişek ele geçirildi.\n\n— Ayrıca örgütle bağlantılı kişilerin malvarlığına 6 gayrimenkul ve 24 araç için el konuldu. Toplam değerinin yaklaşık 46 milyon 200 bin lira olduğu belirtildi.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/baygaralar-suc-orgutu-operasyonunda-90-tutuklama-964231.html",
-    "Milliyet: https://www.milliyet.com.tr/gundem/baygaralar-suc-orgutune-yonelik-operasyon-yakalanan-105-zanlidan-90i-tutuklandi-7706464",
-    "Habertürk: https://www.haberturk.com/gundem/adana-merkezli-baygaralar-operasyonunda-90-tutuklama-3929544",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/baygaralar-sorusturmasinda-90-supheli-tutuklandi-2558744",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/baygaralara-darbe-13-ilde-baskin-90-tutuklama-4875807",
-    "Evrensel: https://www.evrensel.net/haber/6010873/adana-merkezli-13-ilde-baygaralar-operasyonu-90-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "8402966c70",
    "post_id": "529346797199852_1478126251093749",
@@ -13150,6 +13136,19 @@
    "metin": "Suriye'nin Haseke kentinde İç Güvenlik Güçleri Merkezi'ne düzenlenen saldırıda 2 kişi hayatını kaybetti, 5 güvenlik görevlisi yaralandı.\n\n— Saldırıyı iki IŞİD üyesinin düzenlediği belirtiliyor. Biri motosikletle saldırıya girişti, diğeri kapının önünde üzerindeki patlayıcıyı infilak ettirdi.\n\n— Olayın ardından Müşeyrfe Mahallesi'ndeki olay yeri çevresi güvenlik çemberine alındı.",
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6011233/haseke-de-isid-saldirisi-2-olu-5-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
+  },
+  {
+   "id": "0e9be911b2",
+   "post_id": "529346797199852_1480526537520387",
+   "title": "12punto’nun 330 bin takipçili Instagram hesabına erişim engeli",
+   "at": "2026-11-25T23:39:52.641910+00:00",
+   "yazim": "claude",
+   "metin": "Haber sitesi 12punto'nun 330 bin takipçili Instagram hesabı, Siber Güvenlik Başkanlığı'nın talebiyle Türkiye'den erişime kapatıldı.\n\n— Engeli 12punto, X hesabından duyurdu ve \"Gazeteciliğe bir darbe daha\" sözleriyle tepki gösterdi.\n\n— Hesap, fon vurgunu soruşturması başta olmak üzere gündemdeki konuları paylaşarak milyonlarca etkileşim almıştı.\n\n— Daha önce T24'ün internet sitesine erişim engeli gelmiş, TELE 1, Halk TV ve Sözcü'ye kayyım atanmıştı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/12-punto-nun-sosyal-medya-hesabina-erisim-engeli-2559494",
+    "Evrensel: https://www.evrensel.net/haber/6011232/12punto-nun-instagram-hesabina-erisim-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/12puntonun-330-bin-takipcili-instagram-hesabina-erisim-engeli-748489"
    ]
   }
  ],
