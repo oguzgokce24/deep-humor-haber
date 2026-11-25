@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "boğaz",
-    "hürmü",
-    "iran",
-    "nda",
-    "patla",
-    "petro",
-    "tanke"
-   ],
-   "tok": [
-    "abd",
-    "alaca",
-    "aldığ",
-    "alev",
-    "altın",
-    "ardın",
-    "başla",
-    "belir",
-    "bildi",
-    "boğaz",
-    "diğer",
-    "doğus",
-    "duyur",
-    "dışın",
-    "engel",
-    "gemil",
-    "geçen",
-    "güney",
-    "güzer",
-    "hava",
-    "hedef",
-    "hürmü",
-    "ikisi",
-    "iran",
-    "izin",
-    "kapat",
-    "kulla",
-    "kıyıl",
-    "mayın",
-    "nda",
-    "nin",
-    "olayl",
-    "ordu",
-    "ordus",
-    "patla",
-    "petro",
-    "refak",
-    "rota",
-    "tahra",
-    "tanke",
-    "tekra",
-    "temmu",
-    "veril",
-    "verme",
-    "yaşan",
-    "yenid",
-    "çarpı"
-   ],
-   "at": "2026-11-23T21:55:32.152550+00:00"
-  },
-  {
-   "fp": [
     "abd",
     "geril",
     "iran",
@@ -10787,20 +10725,67 @@
     "wonsa"
    ],
    "at": "2026-11-25T09:50:46.650499+00:00"
+  },
+  {
+   "fp": [
+    "myk",
+    "parti",
+    "takım",
+    "özel",
+    "özgür"
+   ],
+   "tok": [
+    "alaca",
+    "anıtk",
+    "belir",
+    "birli",
+    "böke",
+    "deki",
+    "diğer",
+    "genel",
+    "getir",
+    "girdi",
+    "görev",
+    "idari",
+    "ise",
+    "isim",
+    "işler",
+    "kadro",
+    "kez",
+    "kişil",
+    "kurul",
+    "mecli",
+    "myk",
+    "nin",
+    "olağa",
+    "onayl",
+    "parti",
+    "polit",
+    "salih",
+    "sayek",
+    "sekre",
+    "selin",
+    "siyas",
+    "sonra",
+    "sözcü",
+    "takım",
+    "topla",
+    "uzun",
+    "ydk",
+    "yenid",
+    "yine",
+    "yönet",
+    "yürüt",
+    "ziyar",
+    "örgüt",
+    "özel",
+    "özgür",
+    "üyele"
+   ],
+   "at": "2026-11-25T10:03:20.928052+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ab890b4376",
-   "post_id": "529346797199852_1477345314505176",
-   "title": "Sakarya'da tır, kırmızı ışıkta bekleyen aracın üzerine devrildi",
-   "at": "2026-11-23T03:28:15.510124+00:00",
-   "yazim": "claude",
-   "metin": "Sakarya'nın Pamukova ilçesinde tır, kırmızı ışıkta bekleyen hafif ticari aracın üzerine devrildi; kazada 2 kişi yaralandı.\n\n— Kaza gece saat 23.30 sularında Bilecik-Adapazarı D-650 kara yolunun Mekece Mahallesi'nde yaşandı.\n\n— Yaralılar olay yerinde yapılan ilk müdahalenin ardından ambulansla Pamukova Devlet Hastanesi'ne kaldırıldı.\n\n— Kazayla ilgili inceleme başlatıldı.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010714/sakarya-da-tir-kirmizi-isikta-bekleyen-aracin-uzerine-devrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "df14aa99b7",
    "post_id": "529346797199852_1477354244504283",
@@ -13429,6 +13414,22 @@
     "Euronews: https://tr.euronews.com/2026/11/25/kuzey-kore-isvicreli-diplomati-sinir-disi-etme-karari-aldi-yeni-ofisin-kapatilmasini-emret",
     "CNN Türk: https://www.cnnturk.com/dunya/kuzey-koreden-isvicreli-diplomata-48-saat-icinde-ulkeyi-terk-et-3497968"
    ]
+  },
+  {
+   "id": "bd755bb0ee",
+   "post_id": "529346797199852_1479887304250977",
+   "title": "Yeni Parti'de Kurultay sonrası ilk Parti Meclisi toplandı: MYK belirlenecek",
+   "at": "2026-11-25T10:03:20.928052+00:00",
+   "yazim": "claude",
+   "metin": "Yeni Parti Genel Başkanı Özgür Özel, 28 kişilik Merkez Yönetim Kurulu'nu (MYK) belirledi.\n\n— Parti Meclisi'nin oy birliğiyle onayladığı kadroda Genel Sekreter yine Selin Sayek Böke oldu.\n\n— Parti Sözcülüğü'ne ise Salih Uzun getirildi.\n\n— MYK üyelerinin 14'ü partinin siyasi, örgütsel ve idari işlerini yürütecek, diğer 14'ü ise politika kurullarında görev alacak.\n\n— Kadroda 6 isim yeniden görevlendirilirken 9 kişi ilk kez MYK'ya girdi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-yeni-parti-genel-baskani-ozgur-ozelin-a-takimi-belli-oldu-3497992",
+    "NTV: https://www.ntv.com.tr/turkiye/yeni-parti-myk-uyelerini-belirledi-iste-ozgur-ozelin-a-takimi-1752544",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-yeni-parti-myk-belli-oldu-3930003",
+    "Sözcü: https://www.sozcu.com.tr/yeni-parti-de-28-kisilik-myk-belli-oldu-p384293",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-ozgur-ozel-in-yeni-parti-deki-a-takimi-belli-oldu-2559293",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/ozgur-ozelin-yeni-a-takimi-belli-oldu-4876387"
+   ]
   }
  ],
  "fails": {
@@ -13686,7 +13687,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125527008335511718",
+   "since_id": "2125529720859099444",
    "started": true
   },
   "ajansmuhbir1923": {
