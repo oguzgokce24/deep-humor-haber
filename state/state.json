@@ -2,76 +2,6 @@
  "seen": [
   {
    "fp": [
-    "açıkl",
-    "cumhu",
-    "dan",
-    "erdoğ",
-    "fon"
-   ],
-   "tok": [
-    "adale",
-    "adıml",
-    "adını",
-    "akp",
-    "ancak",
-    "atıla",
-    "başla",
-    "belir",
-    "birik",
-    "birço",
-    "biz",
-    "bunla",
-    "bürok",
-    "dair",
-    "dan",
-    "değin",
-    "doğru",
-    "düzen",
-    "ediyo",
-    "ejder",
-    "ekono",
-    "erdoğ",
-    "fon",
-    "geri",
-    "gider",
-    "harit",
-    "ilgil",
-    "ilişk",
-    "isted",
-    "istiy",
-    "kabin",
-    "karış",
-    "konuş",
-    "kurma",
-    "kurul",
-    "kısa",
-    "kızıl",
-    "mağdu",
-    "mesaj",
-    "mesel",
-    "nasıl",
-    "sadec",
-    "siyas",
-    "skand",
-    "somut",
-    "sonra",
-    "sürdü",
-    "takip",
-    "takvi",
-    "topla",
-    "vurgu",
-    "yakın",
-    "yol",
-    "zaman",
-    "çalış",
-    "çözül",
-    "ödene",
-    "öneml"
-   ],
-   "at": "2026-11-23T17:56:30.518992+00:00"
-  },
-  {
-   "fp": [
     "atıyo",
     "bulut",
     "engel",
@@ -10715,6 +10645,44 @@
     "ıea"
    ],
    "at": "2026-11-25T05:54:27.649256+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "beytu",
+    "israi",
+    "macit",
+    "milli",
+    "saniy",
+    "sporc",
+    "yenen"
+   ],
+   "tok": [
+    "8tjj6",
+    "aynıs",
+    "beytu",
+    "deki",
+    "diren",
+    "düşün",
+    "gazze",
+    "gerek",
+    "göste",
+    "https",
+    "israi",
+    "karde",
+    "karşı",
+    "macit",
+    "milli",
+    "niwxs",
+    "olsa",
+    "saniy",
+    "sporc",
+    "tekra",
+    "yapar",
+    "yenen",
+    "zulme"
+   ],
+   "at": "2026-11-25T06:07:32.386335+00:00"
   }
  ],
  "posted": [
@@ -13535,15 +13503,10 @@
   "0882f18a26": 2,
   "6fdf3cb4cd": 1,
   "c705e0ab9f": 1,
-  "d52f6d346f": 1
+  "d52f6d346f": 2,
+  "01f92df5ed": 1
  },
  "fail_log": [
-  "2026-11-25T04:18 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:21 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:21 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:21 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:21 Mehmet Nuri Özdemir: Yeni Parti'nin süreçle arasına mesafe k -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:21 Mehmet Nuri Özdemir: Yeni Parti'nin süreçle arasına mesafe k -> ValueError: yanıt okunamadı",
   "2026-11-25T04:21 Mehmet Nuri Özdemir: Yeni Parti'nin süreçle arasına mesafe k -> ValueError: yanıt okunamadı",
   "2026-11-25T04:21 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı",
   "2026-11-25T04:21 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı",
@@ -13577,12 +13540,18 @@
   "2026-11-25T04:32 Erhan Aslanoğlu: Dünyanın ancak büyük afetlerden sonra belir -> ValueError: yanıt okunamadı",
   "2026-11-25T05:54 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-25T05:54 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-25T05:54 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
+  "2026-11-25T05:54 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-25T06:07 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-25T06:07 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-25T06:07 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-25T06:07 Doğada yetişiyor, saç pidesine yolculuk yapıyor: Sarıgöl’de  -> ValueError: yanıt okunamadı",
+  "2026-11-25T06:07 Doğada yetişiyor, saç pidesine yolculuk yapıyor: Sarıgöl’de  -> ValueError: yanıt okunamadı",
+  "2026-11-25T06:07 Doğada yetişiyor, saç pidesine yolculuk yapıyor: Sarıgöl’de  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125463192495095816",
+   "since_id": "2125471196133425446",
    "started": true
   },
   "ajansmuhbir1923": {
