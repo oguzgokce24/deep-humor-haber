@@ -10504,6 +10504,90 @@
     "özgür"
    ],
    "at": "2026-11-25T04:14:29.914244+00:00"
+  },
+  {
+   "fp": [
+    "boy",
+    "dilek",
+    "göste",
+    "güçle",
+    "küres",
+    "leble",
+    "teker"
+   ],
+   "tok": [
+    "appea",
+    "araya",
+    "ağırl",
+    "boy",
+    "diken",
+    "dilek",
+    "diplo",
+    "first",
+    "getir",
+    "göste",
+    "güçle",
+    "küres",
+    "leble",
+    "lider",
+    "linka",
+    "pekin",
+    "post",
+    "sahip",
+    "site",
+    "teker",
+    "the",
+    "çin"
+   ],
+   "at": "2026-11-25T04:18:05.489482+00:00"
+  },
+  {
+   "fp": [
+    "ağır",
+    "bari",
+    "cezae",
+    "demey",
+    "elif",
+    "gerek",
+    "hasta",
+    "kadar",
+    "mahku",
+    "sağlı",
+    "varke",
+    "yapma",
+    "yüzle",
+    "çakır"
+   ],
+   "tok": [
+    "ağır",
+    "bari",
+    "betül",
+    "cezae",
+    "demey",
+    "diken",
+    "elif",
+    "fatma",
+    "gere",
+    "gerek",
+    "hapsi",
+    "hasta",
+    "kadar",
+    "kaya",
+    "mahku",
+    "neden",
+    "post",
+    "sayan",
+    "sağlı",
+    "sorun",
+    "tahli",
+    "the",
+    "varke",
+    "yapma",
+    "yüzle",
+    "çakır",
+    "şartı"
+   ],
+   "at": "2026-11-25T04:18:11.165188+00:00"
   }
  ],
  "posted": [
@@ -13314,19 +13398,9 @@
   "e7f00f7762": 2,
   "867dddbd14": 1,
   "760d8e645e": 1,
-  "d58c1257a4": 2,
-  "07e9a11f62": 2
+  "c5c29469f7": 1
  },
  "fail_log": [
-  "2026-11-25T02:53 \"Hesap soracağız\" masalı 19 gün sürdü -> ValueError: yanıt okunamadı",
-  "2026-11-25T02:53 \"Hesap soracağız\" masalı 19 gün sürdü -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-25T02:53 Şehir hastanelerinde görevde yükselmede liyakat krizi: Akade -> ValueError: yanıt okunamadı",
-  "2026-11-25T02:53 Şehir hastanelerinde görevde yükselmede liyakat krizi: Akade -> ValueError: yanıt okunamadı",
-  "2026-11-25T02:53 Şehir hastanelerinde görevde yükselmede liyakat krizi: Akade -> ValueError: yanıt okunamadı",
-  "2026-11-25T02:57 'Domuz' oyunu bugün izleyiciyle buluşuyor -> ValueError: yanıt okunamadı",
-  "2026-11-25T02:57 'Domuz' oyunu bugün izleyiciyle buluşuyor -> ValueError: yanıt okunamadı",
-  "2026-11-25T02:57 'Domuz' oyunu bugün izleyiciyle buluşuyor -> ValueError: yanıt okunamadı",
-  "2026-11-25T02:57 \"Hesap soracağız\" masalı 19 gün sürdü -> ValueError: yanıt okunamadı",
   "2026-11-25T02:57 \"Hesap soracağız\" masalı 19 gün sürdü -> ValueError: yanıt okunamadı",
   "2026-11-25T02:57 \"Hesap soracağız\" masalı 19 gün sürdü -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-25T02:57 Şehir hastanelerinde görevde yükselmede liyakat krizi: Akade -> ValueError: yanıt okunamadı",
@@ -13357,7 +13431,16 @@
   "2026-11-25T04:14 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
   "2026-11-25T04:14 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
   "2026-11-25T04:14 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:14 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı"
+  "2026-11-25T04:14 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:18 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
