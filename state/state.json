@@ -13350,20 +13350,13 @@
   "4c2fb24f3c": 2,
   "c6c54fba1f": 2,
   "e7f00f7762": 2,
-  "33463f32a1": 1,
+  "33463f32a1": 2,
   "867dddbd14": 1,
-  "760d8e645e": 1
+  "760d8e645e": 1,
+  "d58c1257a4": 1,
+  "07e9a11f62": 1
  },
  "fail_log": [
-  "2026-11-25T01:15 Şehir hastanelerinde görevde yükselmede liyakat krizi: Akade -> ValueError: yanıt okunamadı",
-  "2026-11-25T01:15 Şehir hastanelerinde görevde yükselmede liyakat krizi: Akade -> ValueError: yanıt okunamadı",
-  "2026-11-25T01:28 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
-  "2026-11-25T01:28 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
-  "2026-11-25T01:28 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
-  "2026-11-25T01:53 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
-  "2026-11-25T01:53 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
-  "2026-11-25T01:53 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
-  "2026-11-25T02:40 'Domuz' oyunu bugün izleyiciyle buluşuyor -> ValueError: yanıt okunamadı",
   "2026-11-25T02:40 'Domuz' oyunu bugün izleyiciyle buluşuyor -> ValueError: yanıt okunamadı",
   "2026-11-25T02:40 'Domuz' oyunu bugün izleyiciyle buluşuyor -> ValueError: yanıt okunamadı",
   "2026-11-25T02:40 \"Hesap soracağız\" masalı 19 gün sürdü -> ValueError: yanıt okunamadı",
@@ -13394,7 +13387,16 @@
   "2026-11-25T04:07 Hakkı Özdal: Sayan Kaya'nın tahliye edilmesiyle birlikte yen -> ValueError: yanıt okunamadı",
   "2026-11-25T04:07 Çiğdem Toker: Fatma Betül Sayan Kaya serbest -> ValueError: yanıt okunamadı",
   "2026-11-25T04:07 Çiğdem Toker: Fatma Betül Sayan Kaya serbest -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:07 Çiğdem Toker: Fatma Betül Sayan Kaya serbest -> ValueError: yanıt okunamadı"
+  "2026-11-25T04:07 Çiğdem Toker: Fatma Betül Sayan Kaya serbest -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Abdulkadir Selvi: Görünen o ki Özgür Özel kararından geri ad -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Abdulkadir Selvi: Görünen o ki Özgür Özel kararından geri ad -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Abdulkadir Selvi: Görünen o ki Özgür Özel kararından geri ad -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:11 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
