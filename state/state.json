@@ -2,35 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "9",
-    "afad",
-    "büyük",
-    "depre",
-    "duyur",
-    "erzur"
-   ],
-   "tok": [
-    "afad",
-    "büyük",
-    "depre",
-    "derin",
-    "duyur",
-    "erzur",
-    "geldi",
-    "gerçe",
-    "ilçes",
-    "kilom",
-    "meyda",
-    "saat",
-    "yerin",
-    "çat",
-    "ölçül"
-   ],
-   "at": "2026-11-23T21:02:36.823554+00:00"
-  },
-  {
-   "fp": [
     "dönem",
     "maden",
     "rant",
@@ -10690,20 +10661,102 @@
     "şubat"
    ],
    "at": "2026-11-25T08:53:18.029426+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "ayakl",
+    "bağlı",
+    "bulun",
+    "cesed",
+    "deniz",
+    "eller",
+    "erkek",
+    "evde",
+    "evden",
+    "gidil",
+    "gözal",
+    "ihbar",
+    "kavga",
+    "korku",
+    "kurta",
+    "linçt",
+    "olay",
+    "polis",
+    "çıktı",
+    "ölü",
+    "şekil",
+    "şüphe"
+   ],
+   "tok": [
+    "adres",
+    "alınd",
+    "alını",
+    "ayakl",
+    "bağlı",
+    "başla",
+    "belir",
+    "bindi",
+    "boğuş",
+    "bulun",
+    "bölge",
+    "cesed",
+    "daire",
+    "deniz",
+    "dondu",
+    "edere",
+    "ekip",
+    "ekipl",
+    "eller",
+    "erkek",
+    "evde",
+    "evden",
+    "fedai",
+    "geniş",
+    "gidil",
+    "gitme",
+    "gürül",
+    "halde",
+    "ihbar",
+    "ilgil",
+    "ilçes",
+    "isted",
+    "kadın",
+    "kan",
+    "karag",
+    "karşı",
+    "kavga",
+    "korku",
+    "kurta",
+    "linçt",
+    "maktu",
+    "merme",
+    "müdah",
+    "neden",
+    "nin",
+    "olay",
+    "olayl",
+    "ortay",
+    "otomo",
+    "otops",
+    "sabah",
+    "sesi",
+    "ustas",
+    "uzakl",
+    "yakın",
+    "yapıl",
+    "yaşın",
+    "çaplı",
+    "çıktı",
+    "öleni",
+    "ölümü",
+    "üçünü",
+    "şekil"
+   ],
+   "at": "2026-11-25T09:12:54.662145+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "485a81032a",
-   "post_id": "529346797199852_1477310894508618",
-   "title": "Afet konutlarında 3 aydır elektrik yok: Belediye sorumluluk kabul etmiyor",
-   "at": "2026-11-23T02:37:03.966156+00:00",
-   "yazim": "claude",
-   "metin": "Esenyurt'ta 2007 heyelanının ardından verilen prefabrik evlerde 6 aile yaklaşık 3 aydır elektriksiz yaşıyor.\n\nAileler, kalıcı konut bekledikleri yıllardır bu evlerde oturuyor.\n\n— Yurttaşlar, çocuklarının mum ışığında ders çalıştığını ve çamaşırlarını elde yıkadıklarını anlatıyor.\n\n— Aileler mağduriyetlerinin giderilmesini istiyor.\n\n— Esenyurt Belediyesi ise kesintilerden sorumlu olmadığını savunuyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/afet-konutlarinda-3-aydir-elektrik-yok-belediye-sorumluluk-kabul-etmiyor-747856"
-   ]
-  },
   {
    "id": "710187767c",
    "post_id": "529346797199852_1477319611174413",
@@ -13323,6 +13376,22 @@
     "BirGün: https://www.birgun.net/haber/depremde-112-kisiye-mezar-olmustu-kusur-atfedilen-afad-yetkilileri-sanik-olarak-eklensin-748323",
     "Karar: https://www.karar.com/guncel-haberler/112-kisinin-oldugu-arikan-sitesi-davasi-afad-yetkilileri-sanik-olarak-2086127"
    ]
+  },
+  {
+   "id": "c6cbe086f2",
+   "post_id": "529346797199852_1479847660921608",
+   "title": "Denizli'de kan donduran olay: Gürültü ihbarı yapılan evden erkek cesedi çıktı",
+   "at": "2026-11-25T09:12:54.662145+00:00",
+   "yazim": "claude",
+   "metin": "Denizli'nin Merkezefendi ilçesinde bir evde elleri ve ayakları bağlı erkek cesedi bulundu.\n\n— Olay, sabaha karşı gürültü ve boğuşma sesi ihbarı üzerine polisin adrese gitmesiyle ortaya çıktı.\n— Hayatını kaybeden kişi 49 yaşındaki mermer ustası.\n— Evde bulunan 1'i kadın 3 kişi gözaltına alındı.\n— Ölenin yakınları şüphelilere saldırmak istedi. Polis müdahale ederek üçünü ekip aracına bindirip bölgeden uzaklaştırdı.\n— Ölümün nedenini belirlemek için otopsi yapılacak. Olayla ilgili geniş çaplı soruşturma başlatıldı.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/denizlide-korkunc-olay-kavga-ihbari-uzerine-gidilen-evde-elleri-ve-ayaklari-bagli-sekilde-olu-bulundu-3-supheli-gozaltinda-43390340",
+    "Milliyet: https://www.milliyet.com.tr/gundem/denizlide-elleri-ve-ayaklari-bagli-erkek-cesedi-bulundu-3-supheliyi-lincten-polis-kurtardi-7707617",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/denizli-de-dehset-evden-elleri-ve-ayaklari-bagli-cesedi-cikti-2559269",
+    "Karar: https://www.karar.com/sehir-haberleri/denizlide-kan-donduran-olay-gurultu-ihbari-yapilan-evden-erkek-cesedi-2086152",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/denizlide-elleri-ve-ayaklari-bagli-erkek-cesedi-bulundu-3-supheliyi-lincten-polis-kurtardi-7707617",
+    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/denizlide-korkunc-olay-kavga-ihbari-uzerine-gidilen-evde-elleri-ve-ayaklari-bagli-sekilde-olu-bulundu-3-supheli-gozaltinda-43390340"
+   ]
   }
  ],
  "fails": {
@@ -13580,7 +13649,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125512070393438620",
+   "since_id": "2125515400922177766",
    "started": true
   },
   "ajansmuhbir1923": {
