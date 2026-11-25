@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "21",
-    "28",
-    "aliha",
-    "gözal",
-    "karar",
-    "kuriş",
-    "soruş",
-    "suç",
-    "örgüt"
-   ],
-   "tok": [
-    "adres",
-    "aklam",
-    "aliha",
-    "alınd",
-    "amaçl",
-    "anda",
-    "aynı",
-    "baskı",
-    "başsa",
-    "dolan",
-    "düzen",
-    "edili",
-    "firar",
-    "gelir",
-    "geliş",
-    "göre",
-    "ildek",
-    "isnat",
-    "kamu",
-    "kanun",
-    "kuriş",
-    "kurum",
-    "muhal",
-    "olma",
-    "suç",
-    "suçla",
-    "sürüy",
-    "usul",
-    "vergi",
-    "veril",
-    "yönel",
-    "yürüt",
-    "zarar",
-    "çalış",
-    "çıkar",
-    "örgüt",
-    "üye"
-   ],
-   "at": "2026-11-24T08:10:58.198682+00:00"
-  },
-  {
-   "fp": [
     "akkay",
     "alınd",
     "başka",
@@ -10278,23 +10225,96 @@
     "şirke"
    ],
    "at": "2026-11-25T19:58:44.759533+00:00"
+  },
+  {
+   "fp": [
+    "800",
+    "alman",
+    "istis",
+    "nda",
+    "pisko",
+    "trier",
+    "uğrad",
+    "çocuk"
+   ],
+   "tok": [
+    "alman",
+    "arası",
+    "araşt",
+    "bazı",
+    "belir",
+    "bilin",
+    "ceza",
+    "cinse",
+    "daki",
+    "den",
+    "devam",
+    "diken",
+    "din",
+    "dönem",
+    "dışın",
+    "erkek",
+    "fail",
+    "faill",
+    "farkl",
+    "fazla",
+    "genci",
+    "genç",
+    "gönde",
+    "görev",
+    "görme",
+    "herma",
+    "istis",
+    "josef",
+    "kaldı",
+    "kapsı",
+    "katol",
+    "kenti",
+    "kilis",
+    "konuş",
+    "kurul",
+    "küçük",
+    "leo",
+    "maruz",
+    "mağdu",
+    "nda",
+    "nın",
+    "ortay",
+    "otomo",
+    "pisko",
+    "post",
+    "rahip",
+    "rakam",
+    "rapor",
+    "sayıs",
+    "schwa",
+    "spita",
+    "süren",
+    "süres",
+    "tarih",
+    "tespi",
+    "the",
+    "trier",
+    "ulusl",
+    "uğrad",
+    "vakal",
+    "yakla",
+    "yalnı",
+    "yardı",
+    "yaşın",
+    "yurt",
+    "yüzde",
+    "yıl",
+    "çocuk",
+    "çocuğ",
+    "çıkab",
+    "çıktı",
+    "ünive"
+   ],
+   "at": "2026-11-25T20:11:17.314789+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e472059138",
-   "post_id": "529346797199852_1477914041114970",
-   "title": "Uyuşturucu kapsüllerini yutarak ülkeye sokmaya çalıştılar: 4 tutuklama",
-   "at": "2026-11-23T14:39:12.207020+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Havalimanı'nda, vücutlarında 1934 gram afyon sakızı taşıyan 4 İranlı şüpheli tutuklandı.\n\nPolis, İran'dan uçakla gelen 4 kişiyi şüphe üzerine izlemeye almıştı. Valizlerinde uyuşturucu çıkmayınca vücutlarında görüntüleme yapıldı.\n\n— Şüpheliler, güvenlik kamerası kayıtlarında birlikte görünmemek için ayrı ayrı hareket etti ve gümrükte kalabalığın arasına karıştı.\n— Polis, dört kişinin uyuşturucu kuryesi olduğunu değerlendirdi.\n— Vücut boşluklarında 280 kapsül halinde toplam 1934 gram afyon sakızı bulundu.\n— Yaşları 31 ile 43 arasında değişen 4 kişi, işlemleri tamamlanınca tutuklanarak cezaevine gönderildi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/istanbul/arnavutkoy/uyusturucu-kapsullerini-yutarak-ulkeye-sokmaya-calistilar-4-supheli-tutuklandi-3497069",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/uyusturucu-kapsullerini-yutarak-ulkeye-sokmaya-calistilar-4-tutuklama-2558695",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/uyusturucuyu-yutarak-ulkeye-sokmaya-calistilar-4-supheli-tutuklandi-4875764",
-    "Karar: https://www.karar.com/guncel-haberler/uyusturucu-kapsullerini-yutarak-ulkeye-sokmaya-calistilar-4-supheli-2085795"
-   ]
-  },
   {
    "id": "9d05fa716e",
    "post_id": "529346797199852_1477925894447118",
@@ -12925,6 +12945,18 @@
    "sources": [
     "Karar: https://www.karar.com/ekonomi-haberleri/spden-nvidiaya-kotu-haber-kredi-notu-dusurulebilir-2086271"
    ]
+  },
+  {
+   "id": "90f6882023",
+   "post_id": "529346797199852_1480396730866701",
+   "title": "Rapor: Almanya'daki Trier Piskoposluğu'nda 800 çocuk istismara uğradı",
+   "at": "2026-11-25T20:11:17.314789+00:00",
+   "yazim": "claude",
+   "metin": "Almanya'nın Trier kentindeki Katolik Piskoposluğu'nda 1946-2021 arasında yaklaşık 800 çocuk ve genç, rahiplerin cinsel istismarına uğradı.\n\nTrier Üniversitesi tarihçilerinin dört yıl süren araştırması, bu dönemde 250'den fazla fail ve şüpheli tespit etti. Rakam yalnızca ortaya çıkabilen vakaları kapsıyor, konuşamayan mağdurların sayısı bilinmiyor.\n\n— Mağdurların yüzde 70'i 14 yaşından küçük erkek çocuk.\n— 35 fail, en az 438 çocuğu istismar etti.\n— Bazı failler üç farklı piskoposun görev süresinde ceza görmeden istismara devam etti.\n— Piskopos Hermann Josef Spital döneminde yardımcı piskopos Leo Schwarz, istismarcı din görevlilerini uluslararası kilise kuruluşları aracılığıyla yurt dışına gönderdi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/almanyanin-trier-katolik-piskoposlugunda-yaklasik-800-cocuk-ve-gencin-cinsel-istismara-ugradigi-belirlendi/4137928",
+    "Diken: https://www.diken.com.tr/rapor-almanyadaki-trier-piskoposlugunda-800-cocuk-istismara-ugradi/?utm_source=rss&utm_medium=rss&utm_campaign=rapor-almanyadaki-trier-piskoposlugunda-800-cocuk-istismara-ugradi"
+   ]
   }
  ],
  "fails": {
@@ -13187,7 +13219,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125677853719347580",
+   "since_id": "2125683200806604934",
    "started": true
   },
   "ajansmuhbir1923": {
