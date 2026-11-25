@@ -2,71 +2,6 @@
  "seen": [
   {
    "fp": [
-    "banka",
-    "başka",
-    "dan",
-    "dezen",
-    "enfla",
-    "görün",
-    "karah",
-    "merke",
-    "mesaj",
-    "olaca"
-   ],
-   "tok": [
-    "adıml",
-    "altın",
-    "amacı",
-    "ana",
-    "arz",
-    "atıla",
-    "ayı",
-    "ayınd",
-    "banka",
-    "belir",
-    "bize",
-    "dan",
-    "deste",
-    "dezen",
-    "ekim",
-    "enfla",
-    "etkil",
-    "ettiğ",
-    "eğili",
-    "fatih",
-    "finan",
-    "geril",
-    "görün",
-    "güçle",
-    "ilave",
-    "ilişk",
-    "istik",
-    "itiba",
-    "iyile",
-    "işare",
-    "karah",
-    "liras",
-    "mesaj",
-    "mevcu",
-    "olaca",
-    "para",
-    "polit",
-    "puan",
-    "seviy",
-    "söyle",
-    "söylü",
-    "takdi",
-    "tcmb",
-    "verdi",
-    "vurgu",
-    "yönlü",
-    "yüzde",
-    "yıllı"
-   ],
-   "at": "2026-11-23T12:06:45.395330+00:00"
-  },
-  {
-   "fp": [
     "aym",
     "görüş",
     "günde",
@@ -10939,20 +10874,72 @@
     "şeref"
    ],
    "at": "2026-11-25T00:05:06.885506+00:00"
+  },
+  {
+   "fp": [
+    "9",
+    "den",
+    "kulüp",
+    "lig",
+    "pfdk",
+    "sevk",
+    "süper"
+   ],
+   "tok": [
+    "adalı",
+    "alıyo",
+    "amed",
+    "arala",
+    "arası",
+    "arca",
+    "barış",
+    "beşik",
+    "bulun",
+    "den",
+    "disip",
+    "edile",
+    "eren",
+    "faali",
+    "farkl",
+    "feder",
+    "fener",
+    "futbo",
+    "galat",
+    "gazia",
+    "göktü",
+    "gönde",
+    "güneş",
+    "hukuk",
+    "kocae",
+    "konya",
+    "kulüb",
+    "kulüp",
+    "kurul",
+    "lig",
+    "liste",
+    "maruf",
+    "müşav",
+    "nahit",
+    "neden",
+    "pfdk",
+    "profe",
+    "samsu",
+    "serda",
+    "sev",
+    "sevk",
+    "sport",
+    "süper",
+    "tff",
+    "vekil",
+    "yer",
+    "yükse",
+    "yıldı",
+    "çorum"
+   ],
+   "at": "2026-11-25T00:17:56.021756+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "10ba3c88ab",
-   "post_id": "529346797199852_1477036504536057",
-   "title": "İsrail'de Eisenkot ile Netanyahu'nun partileri arasında ikinci tur olası \"birlik hükümeti\" müzakeresi",
-   "at": "2026-11-22T19:16:15.341682+00:00",
-   "yazim": "claude",
-   "metin": "İsrail'de Gadi Eisenkot'un Yashar Partisi ile geçici Başbakan Binyamin Netanyahu'nun Likud Partisi, ulusal birlik hükümeti kurmak için bir araya geldi.\n\n— Görüşme yaklaşık 4,5 saat sürdü.\n\n— Taraflar arasında ikinci tur görüşmelerin olası olduğu konuşuluyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/israil-de-eisenkot-ile-netanyahu-nun-partileri-arasinda-ikinci-tur-olasi-birlik-hukumeti-muzakeresi-747843"
-   ]
-  },
   {
    "id": "0f2d95707c",
    "post_id": "529346797199852_1477044831201891",
@@ -13555,6 +13542,19 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/amasya-da-otomobil-evin-bahcesine-savruldu-5-yarali-2559131"
    ]
+  },
+  {
+   "id": "54ad644f5b",
+   "post_id": "529346797199852_1479476107625430",
+   "title": "Süper Lig'de 9 kulüp PFDK'ye sevk edildi",
+   "at": "2026-11-25T00:17:56.021756+00:00",
+   "yazim": "claude",
+   "metin": "Federasyon, Süper Lig'den 9 kulübü Profesyonel Futbol Disiplin Kurulu'na sevk etti.\n\n— Listede Galatasaray, Fenerbahçe, Beşiktaş, Samsunspor, Gaziantep FK, Kocaelispor, Konyaspor, Amed Sportif Faaliyetler ve Arca Çorum FK yer alıyor.\n— Beşiktaş Kulübü Başkanı Serdal Adalı, Fenerbahçe Başkan Vekili Barış Göktürk ve Galatasaray Sportif AŞ Başkan Vekili Maruf Güneş de sevk edilenler arasında.\n— Samsunspor Kulübü Başkanı Yüksel Yıldırım ile Amed Sportif Faaliyetler Başkanı Nahit Eren de farklı nedenlerle disiplin kuruluna gönderildi.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/super-ligden-9-kulup-pfdkye-sevk-edildi/4136475",
+    "Habertürk: https://www.haberturk.com/spor/super-lig-den-9-kulup-pfdk-ya-sevk-edildi-3929885",
+    "Sözcü Spor: https://www.sozcu.com.tr/super-lig-de-9-kulup-pfdk-ye-sevk-edildi-p384131"
+   ]
   }
  ],
  "fails": {
@@ -13754,13 +13754,10 @@
   "f47bf3c8e4": 1,
   "4c634fdecc": 1,
   "c851ce6256": 2,
-  "4c2fb24f3c": 2
+  "4c2fb24f3c": 2,
+  "b1927077f2": 1
  },
  "fail_log": [
-  "2026-11-24T22:37 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
-  "2026-11-24T22:41 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
-  "2026-11-24T22:41 70.000 dönüm arazide toprak balıkçılığı: Milas 8.750 tonluk  -> ValueError: yanıt okunamadı",
-  "2026-11-24T22:59 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
   "2026-11-24T22:59 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
   "2026-11-24T22:59 Tekstilden markete, depodan hastaneye: İşçiler 29 Kasım’da K -> ValueError: yanıt okunamadı",
   "2026-11-24T23:12 Okan Buruk'tan Aston Villa maçı değerlendirmesi: 'Taktiksel  -> ValueError: yanıt okunamadı",
@@ -13796,7 +13793,11 @@
   "2026-11-24T23:52 Antisemitizm suçlamasında birleştiler: Almanya’da Vanessa Em -> ValueError: yanıt okunamadı",
   "2026-11-25T00:05 Antisemitizm suçlamasında birleştiler: Almanya’da Vanessa Em -> ValueError: yanıt okunamadı",
   "2026-11-25T00:05 Antisemitizm suçlamasında birleştiler: Almanya’da Vanessa Em -> ValueError: yanıt okunamadı",
-  "2026-11-25T00:05 Antisemitizm suçlamasında birleştiler: Almanya’da Vanessa Em -> ValueError: yanıt okunamadı"
+  "2026-11-25T00:05 Antisemitizm suçlamasında birleştiler: Almanya’da Vanessa Em -> ValueError: yanıt okunamadı",
+  "2026-11-25T00:18 İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-25T00:18 İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı -> ValueError: yanıt okunamadı",
+  "2026-11-25T00:18 İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-25T00:18 Süper Lig'de 9 kulüp PFDK'ye sevk edildi -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
