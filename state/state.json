@@ -10376,21 +10376,70 @@
     "ımbab"
    ],
    "at": "2026-11-25T20:23:47.204744+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "birli",
+    "dahil",
+    "hazır",
+    "kerkü",
+    "konuş",
+    "kriz",
+    "savun",
+    "vilay",
+    "ırak"
+   ],
+   "tok": [
+    "ajans",
+    "ali",
+    "altın",
+    "alınm",
+    "asker",
+    "ayrıc",
+    "bazı",
+    "başba",
+    "belir",
+    "bildi",
+    "birli",
+    "bölge",
+    "dahil",
+    "emir",
+    "emret",
+    "hazır",
+    "ilişk",
+    "isted",
+    "kapat",
+    "kaçak",
+    "kerkü",
+    "kontr",
+    "konuş",
+    "kriz",
+    "kulla",
+    "nin",
+    "olduk",
+    "ordus",
+    "petro",
+    "resul",
+    "savun",
+    "stabi",
+    "sözcü",
+    "talim",
+    "teki",
+    "tuğge",
+    "uygul",
+    "vilay",
+    "yahya",
+    "yolla",
+    "zeydi",
+    "ülken",
+    "ına",
+    "ırak"
+   ],
+   "at": "2026-11-25T20:35:45.972213+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "47d6dbebb8",
-   "post_id": "529346797199852_1477938294445878",
-   "title": "Muş merkezli tefecilik operasyonu: 34 şüpheli yakalandı",
-   "at": "2026-11-23T15:06:30.138754+00:00",
-   "yazim": "claude",
-   "metin": "Muş merkezli operasyonda, tefecilik suçundan 34 şüpheli Muş, Bursa, Çanakkale, Diyarbakır ve Manisa'da yakalandı.\n\n— Operasyon \"tefecilik\" ve \"senet yağması\" suçlamalarıyla eş zamanlı düzenlendi.\n— 37 şüpheli hedefteydi, 3 kişinin yakalanması için çalışmalar sürüyor.\n— 34 ikamet ve 15 iş yerinde yapılan aramalarda 15 ruhsatsız tabanca ve 9 ruhsatsız tüfek ele geçirildi.\n\nGözaltına alınan şüphelilerin emniyetteki işlemleri sürüyor.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/mus/mus-merkezli-tefecilik-operasyonunda-34-supheli-yakalandi-3497077",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mus-merkezli-tefecilik-operasyonu-34-supheli-yakalandi-2558707"
-   ]
-  },
   {
    "id": "c2b709533d",
    "post_id": "529346797199852_1477949437778097",
@@ -13021,6 +13070,19 @@
     "Habertürk: https://www.haberturk.com/dunya/misir-da-yakit-tankerinde-yangin-faciasi-30-olu-3930149",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/misir-da-petrol-urunleri-tasiyan-tankerde-yangin-cikti-30-kisi-oldu-15-kisi-yaralandi-2559486"
    ]
+  },
+  {
+   "id": "e7959e141e",
+   "post_id": "529346797199852_1480412684198439",
+   "title": "Irak Savunma Bakanlığı: Kerkük dahil tüm vilayetlerde birlik konuşlandırmaya hazırız",
+   "at": "2026-11-25T20:35:45.972213+00:00",
+   "yazim": "claude",
+   "metin": "Irak Savunma Bakanlığı, Kerkük dahil tüm vilayetlerde birlik konuşlandırmaya hazır olduklarını açıkladı.\n\n— Başbakan Ali Zeydi, askeri birliklerin Kerkük dahil tüm vilayetlerde konuşlandırılmasını ve bazı bölgelerin kontrol altına alınmasını emretti.\n— Savunma Bakanlığı Sözcüsü Tuğgeneral Yahya Resul, bu talimatı uygulamaya hazır olduklarını Irak haber ajansı INA'ya söyledi.\n— Zeydi ayrıca petrol kaçakçılığında kullanılan stabilize yolların kapatılmasını istedi.\n— Kerkük'teki Irak ordusu birliklerinin de Zeydi'nin emir ve talimatlarını uyguladığı belirtildi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/dunya/irakta-kriz-irak-savunma-bakanligi-kerkuk-dahil-tum-vilayetlerde-birlik-konuslandirmaya-haziriz-7708012",
+    "Evrensel: https://www.evrensel.net/haber/6011219/irak-savunma-bakanligi-kerkuk-dahil-tum-vilayetlerde-birlik-konuslandirmaya-haziriz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/irakta-kriz-irak-savunma-bakanligi-kerkuk-dahil-tum-vilayetlerde-birlik-konuslandirmaya-haziriz-7708012"
+   ]
   }
  ],
  "fails": {
@@ -13283,7 +13345,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125686159938593099",
+   "since_id": "2125688351353409937",
    "started": true
   },
   "ajansmuhbir1923": {
