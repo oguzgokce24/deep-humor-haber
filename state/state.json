@@ -10622,20 +10622,77 @@
     "şehir"
    ],
    "at": "2026-11-25T08:40:42.989954+00:00"
+  },
+  {
+   "fp": [
+    "112",
+    "afad",
+    "atfed",
+    "eklen",
+    "kusur",
+    "sanık",
+    "yetki"
+   ],
+   "tok": [
+    "afad",
+    "alınm",
+    "ancak",
+    "anned",
+    "arzu",
+    "arıka",
+    "atfed",
+    "atılg",
+    "bekle",
+    "belir",
+    "belli",
+    "bilir",
+    "binan",
+    "blokl",
+    "bulun",
+    "dahil",
+    "davas",
+    "davay",
+    "depre",
+    "dosya",
+    "duruş",
+    "edilm",
+    "eklen",
+    "ertel",
+    "evlad",
+    "göre",
+    "hatır",
+    "ilçes",
+    "isted",
+    "istiy",
+    "kahra",
+    "kişil",
+    "konud",
+    "kusur",
+    "mezar",
+    "nde",
+    "nin",
+    "nisan",
+    "olmuş",
+    "oniki",
+    "rapor",
+    "sanık",
+    "sites",
+    "sorum",
+    "verdi",
+    "yetki",
+    "yurda",
+    "yıkıl",
+    "çağrı",
+    "çocuğ",
+    "öldüğ",
+    "önlem",
+    "öğret",
+    "şubat"
+   ],
+   "at": "2026-11-25T08:53:18.029426+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fbcf4efdc7",
-   "post_id": "529346797199852_1477287484510959",
-   "title": "Halk aldı TRT kazandı: 91,1 milyar TL'lik bandrol geliri",
-   "at": "2026-11-23T02:02:35.890881+00:00",
-   "yazim": "claude",
-   "metin": "TRT, yurttaşların elektronik alışverişlerinden bandrol adıyla 2021-2025 arasında 91,1 milyar TL gelir topladı.\n\n— TRT, tarafsız yayıncılık yükümlülüğünü yerine getirmediği gerekçesiyle eleştiriliyor.\n\n— Bandrol geliri 2024'te 25,8 milyar TL iken 2025'te 35,7 milyar TL'ye yükseldi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/halk-aldi-trt-kazandi-91-1-milyar-tl-lik-bandrol-geliri-747864"
-   ]
-  },
   {
    "id": "485a81032a",
    "post_id": "529346797199852_1477310894508618",
@@ -13253,6 +13310,19 @@
     "Karar: https://www.karar.com/guncel-haberler/esini-15-yasindaki-2-cocuga-oldurttuler-korkudan-sehir-degistirdik-2086148",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/gundem/15lik-katiller-oldurdu-azmettirenler-ailenin-kabusu-oldu-korkudan-sehir-degistirdik-43390200"
    ]
+  },
+  {
+   "id": "7da3da0769",
+   "post_id": "529346797199852_1479833230923051",
+   "title": "112 kişinin öldüğü Arıkan Sitesi davası: 'AFAD yetkilileri sanık olarak eklensin'",
+   "at": "2026-11-25T08:53:18.029426+00:00",
+   "yazim": "claude",
+   "metin": "Arıkan Sitesi davasında Arzu Yurdal Atılgan, AFAD yetkilileri için:\n\n“AFAD raporuna göre binanın yıkılacağı belliymiş ancak önlem alınmamış. Bu konuda sorumluluğu bulunan kişilerin dosyaya sanık olarak eklenmesini istiyorum.”\n\n— Kahramanmaraş'ın Onikişubat ilçesinde 6 Şubat depremlerinde Arıkan Sitesi'nin A ve B blokları yıkıldı, 112 kişi hayatını kaybetti.\n— Depremde iki çocuğunu kaybeden öğretmen Atılgan, dosyadaki bilirkişi raporunda AFAD'a da kusur atfedildiğini hatırlattı.\n— Mahkeme, bilirkişi raporunun beklenmesine karar verdi ve duruşmayı 27 Nisan 2027'ye erteledi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/6-subat-ta-iki-evladini-kaybeden-anneden-cagri-kusur-atfedilen-afad-yetkilileri-sanik-olarak-eklensin-2559220",
+    "BirGün: https://www.birgun.net/haber/depremde-112-kisiye-mezar-olmustu-kusur-atfedilen-afad-yetkilileri-sanik-olarak-eklensin-748323",
+    "Karar: https://www.karar.com/guncel-haberler/112-kisinin-oldugu-arikan-sitesi-davasi-afad-yetkilileri-sanik-olarak-2086127"
+   ]
   }
  ],
  "fails": {
@@ -13510,7 +13580,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125504286763209098",
+   "since_id": "2125512070393438620",
    "started": true
   },
   "ajansmuhbir1923": {
