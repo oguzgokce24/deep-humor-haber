@@ -2,77 +2,6 @@
  "seen": [
   {
    "fp": [
-    "emery",
-    "galat",
-    "iyi",
-    "unai"
-   ],
-   "tok": [
-    "akşam",
-    "aston",
-    "aynı",
-    "basın",
-    "belir",
-    "benim",
-    "bizim",
-    "bunun",
-    "değiş",
-    "direk",
-    "durum",
-    "düzen",
-    "düzey",
-    "emery",
-    "farkl",
-    "galat",
-    "görüş",
-    "hafta",
-    "hem",
-    "hücum",
-    "iyi",
-    "karşı",
-    "kendi",
-    "konuğ",
-    "koyac",
-    "koydu",
-    "ligi",
-    "mazer",
-    "maçı",
-    "maçın",
-    "nasıl",
-    "nin",
-    "olaca",
-    "olmas",
-    "olmay",
-    "olsan",
-    "ortay",
-    "oynan",
-    "oyun",
-    "oyunc",
-    "oyunu",
-    "park",
-    "rams",
-    "saat",
-    "savun",
-    "taki",
-    "takti",
-    "takım",
-    "tekni",
-    "topla",
-    "unai",
-    "var",
-    "villa",
-    "yarın",
-    "zemin",
-    "çünkü",
-    "önces",
-    "öneml",
-    "şampi",
-    "şey"
-   ],
-   "at": "2026-11-23T17:44:01.706224+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "cumhu",
     "dan",
@@ -10716,20 +10645,79 @@
     "şimdi"
    ],
    "at": "2026-11-25T05:41:33.929362+00:00"
+  },
+  {
+   "fp": [
+    "90",
+    "brent",
+    "dolar",
+    "fiyat",
+    "geril",
+    "petro",
+    "sınır",
+    "yenid"
+   ],
+   "tok": [
+    "abd",
+    "ajans",
+    "artır",
+    "arz",
+    "aşağı",
+    "batı",
+    "bekle",
+    "boğaz",
+    "brent",
+    "daki",
+    "dan",
+    "düşüş",
+    "endiş",
+    "enerj",
+    "fazla",
+    "fiyat",
+    "gemil",
+    "geril",
+    "günün",
+    "ham",
+    "hürmü",
+    "ihrac",
+    "ilişk",
+    "indi",
+    "işlem",
+    "konus",
+    "küres",
+    "nin",
+    "oluşa",
+    "ortad",
+    "petro",
+    "riskl",
+    "sevki",
+    "sınır",
+    "teksa",
+    "topar",
+    "türü",
+    "ulusl",
+    "varil",
+    "wtı",
+    "yanda",
+    "yenid",
+    "yönel",
+    "yükse",
+    "yüzde",
+    "yılın",
+    "çeker",
+    "çekiy",
+    "çevre",
+    "çeyre",
+    "öncek",
+    "öngör",
+    "öte",
+    "üzeri",
+    "ıea"
+   ],
+   "at": "2026-11-25T05:54:27.649256+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bba8709286",
-   "post_id": "529346797199852_1477169251189449",
-   "title": "Trabzonspor erken golle güldü: Eyüpspor'u tek golle geçti",
-   "at": "2026-11-22T22:46:52.200545+00:00",
-   "yazim": "claude",
-   "metin": "Trabzonspor, kendi sahasında Eyüpspor'u 1-0 yendi. Trendyol Süper Lig'in 12. haftasında oynanan maçta gol, Ozan Tufan'dan geldi.\n\n— Ozan Tufan, maçın henüz 5. dakikasında skoru açtı.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/trabzonspor-erken-golle-guldu-eyupspor-u-tek-golle-gecti-747867"
-   ]
-  },
   {
    "id": "c1ac623ed0",
    "post_id": "529346797199852_1477176124522095",
@@ -13329,6 +13317,17 @@
    "sources": [
     "Diken: https://www.diken.com.tr/frank-hoogerbeets-istanbul-icin-yakin-tarihte-buyuk-deprem-riski-var/?utm_source=rss&utm_medium=rss&utm_campaign=frank-hoogerbeets-istanbul-icin-yakin-tarihte-buyuk-deprem-riski-var"
    ]
+  },
+  {
+   "id": "f9fe550dfc",
+   "post_id": "529346797199852_1479708710935503",
+   "title": "Petrol fiyatları yeniden geriledi: Brent petrol 90 dolar sınırında",
+   "at": "2026-11-25T05:54:27.649256+00:00",
+   "yazim": "claude",
+   "metin": "Brent petrolün varil fiyatı yüzde 1,31 düşüşle 90,09 dolara geriledi.\n\n— ABD Batı Teksas türü (WTI) ham petrolün varili de yüzde 1,33 düşüşle 80,77 dolara indi.\n— İki petrol türü de bir önceki işlem gününde yüzde 2'nin üzerinde yükselmişti.\n— Uluslararası Enerji Ajansı (IEA), Ortadoğu'dan ihracatın toparlanmasıyla yılın son çeyreğinde arz fazlası oluşabileceğini öngörüyor. Bu beklenti fiyatları aşağı çekiyor.\n— Öte yandan Hürmüz Boğazı çevresinde gemilere yönelik saldırılar, petrol sevkiyatı konusundaki endişeleri artırıyor.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6011070/petrol-fiyatlari-yeniden-geriledi-brent-petrol-90-dolar-sinirinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13535,12 +13534,10 @@
   "760d8e645e": 1,
   "0882f18a26": 2,
   "6fdf3cb4cd": 1,
-  "c705e0ab9f": 1
+  "c705e0ab9f": 1,
+  "d52f6d346f": 1
  },
  "fail_log": [
-  "2026-11-25T04:18 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:18 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:18 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
   "2026-11-25T04:18 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
   "2026-11-25T04:21 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
   "2026-11-25T04:21 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
@@ -13577,7 +13574,10 @@
   "2026-11-25T04:32 Toros Korkmaz: DEM Parti'nin stratejik ikilemi, müzakere ile -> ValueError: yanıt okunamadı",
   "2026-11-25T04:32 Erhan Aslanoğlu: Dünyanın ancak büyük afetlerden sonra belir -> ValueError: yanıt okunamadı",
   "2026-11-25T04:32 Erhan Aslanoğlu: Dünyanın ancak büyük afetlerden sonra belir -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:32 Erhan Aslanoğlu: Dünyanın ancak büyük afetlerden sonra belir -> ValueError: yanıt okunamadı"
+  "2026-11-25T04:32 Erhan Aslanoğlu: Dünyanın ancak büyük afetlerden sonra belir -> ValueError: yanıt okunamadı",
+  "2026-11-25T05:54 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-25T05:54 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-25T05:54 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
  ],
  "x": {
   "bpthaber": {
