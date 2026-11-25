@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "20",
-    "3",
-    "adale",
-    "ankar",
-    "bakan",
-    "faali",
-    "fetö",
-    "gözal",
-    "ilde",
-    "ilişk",
-    "merke",
-    "nün",
-    "opera",
-    "perso",
-    "soruş",
-    "yerle"
-   ],
-   "tok": [
-    "adale",
-    "albat",
-    "alınd",
-    "appea",
-    "başla",
-    "başsa",
-    "bildi",
-    "bilgi",
-    "diken",
-    "düzen",
-    "edile",
-    "elde",
-    "faali",
-    "fetö",
-    "first",
-    "gizli",
-    "göre",
-    "ilişk",
-    "karşı",
-    "nün",
-    "odakl",
-    "perso",
-    "post",
-    "sürdü",
-    "tamam",
-    "tan",
-    "tanık",
-    "the",
-    "titiz",
-    "veril",
-    "yerle",
-    "yönel",
-    "yönlü",
-    "zaman",
-    "çıkar"
-   ],
-   "at": "2026-11-24T07:45:45.821274+00:00"
-  },
-  {
-   "fp": [
     "apart",
     "başka",
     "beled",
@@ -10285,22 +10227,60 @@
     "şube"
    ],
    "at": "2026-11-25T19:33:23.352194+00:00"
+  },
+  {
+   "fp": [
+    "basın",
+    "düzen",
+    "fon",
+    "ilgil",
+    "ilişk",
+    "mesel",
+    "ortak",
+    "soruş",
+    "topla"
+   ],
+   "tok": [
+    "adale",
+    "akın",
+    "ardın",
+    "basın",
+    "başla",
+    "cevde",
+    "durum",
+    "düzen",
+    "fon",
+    "gözle",
+    "gürle",
+    "hazin",
+    "iktid",
+    "ilgil",
+    "ilişk",
+    "kurma",
+    "külli",
+    "maliy",
+    "mehme",
+    "mensu",
+    "mesel",
+    "nda",
+    "ortak",
+    "saat",
+    "salon",
+    "sorul",
+    "topla",
+    "vurgu",
+    "yanıt",
+    "yapıl",
+    "yardı",
+    "yarın",
+    "yılma",
+    "çevri",
+    "şimşe"
+   ],
+   "at": "2026-11-25T19:45:56.931542+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f0cf5317a7",
-   "post_id": "529346797199852_1477890727783968",
-   "title": "İş insanı Bekir Kayabaşı'nın öldürülmesi: Kızı dahil 4 kişi tutuklandı",
-   "at": "2026-11-23T14:13:58.593018+00:00",
-   "yazim": "claude",
-   "metin": "İzmir'in Urla ilçesinde 72 yaşındaki tekstil patronunun öldürülmesi olayında, miras için cinayeti planladığı ortaya çıkan kızı dahil 4 şüpheli tutuklandı.\n\n— Olay 10 Kasım'da Urla'daki bir villada yaşandı. Yakınları, ulaşamadıkları iş insanını evinde hayatını kaybetmiş halde buldu.\n\n— Soruşturmaya göre cinayeti kız, erkek arkadaşı ve bir başka kişiyle anlaşarak planladı. Erkek arkadaş, öldürülen iş insanının özel şoförüymüş.\n\n— Polis 16 Kasım'da operasyon düzenledi. Gözaltına alınan dört şüpheli adliyeye sevk edildi ve tutuklandı.\n\n— Şüphelilerden biri yakalanmamak için cep telefonunu kırıp denize attı. Güvenlik kamerasına yansıyan görüntülerde telefon dalgıçlar tarafından denizden çıkarıldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/urla/urladaki-is-insani-cinayetinde-kizi-dahil-4-kisi-tutuklandi-3497047",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/is-insani-bekir-kayabasi-nin-oldurulmesi-kizi-dahil-4-kisi-tutuklandi-2558686",
-    "Evrensel: https://www.evrensel.net/haber/6010831/tekstil-patronunun-cinayetinde-kizi-dahil-4-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "bb1d7d7e27",
    "post_id": "529346797199852_1477902951116079",
@@ -12928,6 +12908,22 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/ormanlik-alanda-silahli-tuzak-5-supheli-sucustu-yakalandi-3498209",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/santaj-cetesine-operasyon-ormana-cagirip-silah-zoruyla-tehdit-etmisler-5-kisi-yakalandi-2559456",
     "BPT (X): https://x.com/bpthaber/status/2125670531357638869"
+   ]
+  },
+  {
+   "id": "3d910dfa5e",
+   "post_id": "529346797199852_1480378937535147",
+   "title": "Gözler o toplantıya çevrildi: Fon soruşturmasına ilişkin basın açıklaması yapılacak",
+   "at": "2026-11-25T19:45:56.931542+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek, yarın Ankara'da fon soruşturmasına ilişkin ortak basın toplantısı düzenleyecek.\n\n— Toplantı saat 19.00'da Cumhurbaşkanlığı Külliyesi Basın Salonu'nda başlayacak.\n— Bakanlar fon meselesindeki son durumu açıklayacak.\n— Açıklamaların ardından basın mensuplarının sorularını yanıtlayacaklar.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-duzenlenecek-43391202",
+    "Milliyet: https://www.milliyet.com.tr/gundem/fon-meselesine-iliskin-ortak-basin-toplantisi-duzenlenecek-7707987",
+    "CNN Türk: https://www.cnnturk.com/turkiye/fon-meselesine-iliskin-ortak-basin-toplantisi-duzenlenecek-3498215",
+    "Habertürk: https://www.haberturk.com/gundem/fon-meselesi-hakkinda-ortak-basin-toplantisi-duzenlenecek-3930142",
+    "Sözcü: https://www.sozcu.com.tr/gozler-o-toplantiya-cevrildi-fon-sorusturmasina-iliskin-basin-aciklamasi-yapilacak-p384418",
+    "Evrensel: https://www.evrensel.net/haber/6011215/fon-vurgunu-sorusturmasi-iktidar-kurmaylari-yarin-ortak-basin-toplantisi-duzenleyecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
