@@ -2,62 +2,6 @@
  "seen": [
   {
    "fp": [
-    "abd",
-    "ait",
-    "boğaz",
-    "duyur",
-    "düşür",
-    "geril",
-    "hürmü",
-    "iha",
-    "iran",
-    "lucas",
-    "nda",
-    "ordus",
-    "tipi"
-   ],
-   "tok": [
-    "abd",
-    "ait",
-    "alınd",
-    "basra",
-    "belir",
-    "birim",
-    "boğaz",
-    "doğus",
-    "duyur",
-    "düşür",
-    "geril",
-    "göre",
-    "halkl",
-    "hava",
-    "hedef",
-    "hürmü",
-    "iha",
-    "ilişk",
-    "imha",
-    "insan",
-    "iran",
-    "körfe",
-    "lucas",
-    "nda",
-    "nde",
-    "nin",
-    "nın",
-    "ordus",
-    "otomo",
-    "savun",
-    "siste",
-    "tipi",
-    "vurul",
-    "yerli",
-    "ülken",
-    "üzeri"
-   ],
-   "at": "2026-11-23T18:34:22.785153+00:00"
-  },
-  {
-   "fp": [
     "acil",
     "başsa",
     "bulun",
@@ -10672,21 +10616,62 @@
     "şarkı"
    ],
    "at": "2026-11-25T06:32:23.734509+00:00"
+  },
+  {
+   "fp": [
+    "187",
+    "ele",
+    "eser",
+    "evde",
+    "evden",
+    "geçir",
+    "izmir",
+    "tarih",
+    "çıktı"
+   ],
+   "tok": [
+    "alınd",
+    "amacı",
+    "appea",
+    "baskı",
+    "başla",
+    "bizan",
+    "bulun",
+    "diken",
+    "düzen",
+    "eser",
+    "eserl",
+    "evde",
+    "evden",
+    "evin",
+    "first",
+    "ilçes",
+    "izmir",
+    "içind",
+    "işlem",
+    "kanun",
+    "kaçak",
+    "korum",
+    "kültü",
+    "linka",
+    "menem",
+    "muhal",
+    "osman",
+    "post",
+    "sayıl",
+    "site",
+    "tabia",
+    "tarih",
+    "the",
+    "varlı",
+    "yapıl",
+    "çıktı",
+    "önlem"
+   ],
+   "at": "2026-11-25T06:44:58.546704+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "da3230f81f",
-   "post_id": "529346797199852_1477185091187865",
-   "title": "ABD'de bebek partisine silahlı saldırı: 3 kişi öldü, 1 kişi yaralandı",
-   "at": "2026-11-22T23:15:48.100564+00:00",
-   "yazim": "claude",
-   "metin": "ABD'nin Ohio eyaletinin Parma şehrinde bir bebek partisine silahlı saldırı düzenlendi; 3 kişi öldü, 1 kişi yaralandı.\n\n— Yerel polisin açıklamasına göre saldırı, bir mekanda düzenlenen bebek partisinde yaşandı.\n— İhbar üzerine olay yerine yerel kolluk kuvvetleri sevk edildi.\n— Soruşturmada saldırının \"aile içi bir anlaşmazlık kaynaklı\" olabileceği üzerinde duruluyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abdde-bir-bebek-partisinde-silahli-saldiriya-ugrayan-3-kisi-hayatini-kaybetti/4133825",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/abd-de-bebek-partisine-silahli-saldiri-3-kisi-oldu-1-kisi-yaralandi-2558431"
-   ]
-  },
   {
    "id": "0f22556505",
    "post_id": "529346797199852_1477191931187181",
@@ -13284,6 +13269,21 @@
    "sources": [
     "Karar: https://www.karar.com/hayat-haberleri/ufuk-beydemirin-babalik-heyecani-25-haftalik-dogan-kizinin-ismini-2086096"
    ]
+  },
+  {
+   "id": "02c10386d7",
+   "post_id": "529346797199852_1479740837598957",
+   "title": "İzmir'de bir evden 187 tarihi eser çıktı",
+   "at": "2026-11-25T06:44:58.546704+00:00",
+   "yazim": "claude",
+   "metin": "İzmir polisi, Menemen ilçesindeki bir evde düzenlediği operasyonda 187 tarihi eser ele geçirdi.\n\nOperasyon, tarihi eser kaçakçılığını önlemek amacıyla yapıldı.\n\n— Evde bulunan bir şüpheli gözaltına alındı.\n— Şüpheli hakkında 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma Kanunu'na muhalefetten işlem başlatıldı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/izmirde-bir-evden-187-tarihi-eser-cikti-964395.html",
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/izmir/izmirde-bir-evde-187-tarihi-eser-ele-gecirildi-3497876",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/evin-icinden-tarih-cikti-bizans-ve-osmanli-eserleri-ele-gecirildi-4876289",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/izmirde-bir-evde-187-tarihi-eser-ele-gecirildi-4876285",
+    "Diken: https://www.diken.com.tr/izmirde-bir-evden-187-tarihi-eser-cikti/?utm_source=rss&utm_medium=rss&utm_campaign=izmirde-bir-evden-187-tarihi-eser-cikti"
+   ]
   }
  ],
  "fails": {
@@ -13539,7 +13539,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125475989853716596",
+   "since_id": "2125479827704844386",
    "started": true
   },
   "ajansmuhbir1923": {
