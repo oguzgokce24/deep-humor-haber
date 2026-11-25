@@ -10763,20 +10763,123 @@
     "yürüt"
    ],
    "at": "2026-11-25T01:40:36.156180+00:00"
+  },
+  {
+   "fp": [
+    "buluş",
+    "eşitl",
+    "gazet",
+    "güven",
+    "hak",
+    "işsiz",
+    "kadın",
+    "medya",
+    "sarma",
+    "şidde"
+   ],
+   "tok": [
+    "alınd",
+    "buluş",
+    "cemiy",
+    "daral",
+    "deney",
+    "dili",
+    "dün",
+    "düzen",
+    "ekono",
+    "eşitl",
+    "gazet",
+    "güven",
+    "haber",
+    "hak",
+    "istih",
+    "işsiz",
+    "kadın",
+    "komis",
+    "medya",
+    "mesle",
+    "nun",
+    "sarma",
+    "sektö",
+    "sorun",
+    "tgc",
+    "topla",
+    "veril",
+    "yönel",
+    "şidde"
+   ],
+   "at": "2026-11-25T01:53:07.828455+00:00"
+  },
+  {
+   "fp": [
+    "astro",
+    "ekibi",
+    "istas",
+    "tieng",
+    "uzay",
+    "yolla",
+    "çin"
+   ],
+   "tok": [
+    "alan",
+    "ali",
+    "astro",
+    "aynı",
+    "ciuçü",
+    "devam",
+    "dünya",
+    "edip",
+    "ekibi",
+    "ekipl",
+    "ekipt",
+    "fırla",
+    "gök",
+    "görev",
+    "hongb",
+    "insan",
+    "ise",
+    "istas",
+    "katıl",
+    "kez",
+    "kişil",
+    "kurdu",
+    "mekiğ",
+    "muham",
+    "nda",
+    "nden",
+    "pakis",
+    "pilot",
+    "progr",
+    "saray",
+    "tamam",
+    "tang",
+    "tiang",
+    "tieng",
+    "uydu",
+    "uzay",
+    "var",
+    "vatan",
+    "yaban",
+    "yangc",
+    "yapac",
+    "yer",
+    "yola",
+    "yolla",
+    "yörün",
+    "yılı",
+    "zaman",
+    "zişan",
+    "çin",
+    "çinli",
+    "çıkan",
+    "çıktı",
+    "üstle",
+    "şınco"
+   ],
+   "at": "2026-11-25T01:53:15.957348+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fcad20b557",
-   "post_id": "529346797199852_1477079201198454",
-   "title": "Yeni Parti’li Murat Emir: “İzleme Komisyonu kararı, barış irademizde bir değişiklik anlamına gelmez”",
-   "at": "2026-11-22T20:19:50.139514+00:00",
-   "yazim": "claude",
-   "metin": "Murat Emir, İzleme Komisyonu kararı için:\n\n“İzleme Komisyonu kararı, barış irademizde bir değişiklik anlamına gelmez.”\n\n— Yeni Parti, Meclis bünyesinde kurulması planlanan İzleme Komisyonu'na üye vermeme kararı aldı.\n— Emir, \"Barışa verdiğimiz destek, iktidarın her tercihine peşinen verilmiş onay olarak anlaşılamaz.\" dedi.\n— Emir, raporda milletvekillerinden oluşacak yeni bir izleme komisyonu önerisi bulunmadığını söyledi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010711/yeni-parti-li-murat-emir-izleme-komisyonu-karari-baris-irademizde-bir-degisiklik-anlamina-gelmez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "699c7fe1e3",
    "post_id": "529346797199852_1477087007864340",
@@ -13373,6 +13476,17 @@
     "Evrensel: https://www.evrensel.net/haber/6011058/polis-akademisi-baskani-prof-dr-murat-balci-gorevden-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/polis-akademisi-baskani-gorevden-alindi-yerine-yeni-isim-atandi-748292"
    ]
+  },
+  {
+   "id": "c9a59047ea",
+   "post_id": "529346797199852_1479540094285698",
+   "title": "Çin, Tiengong Uzay İstasyonu'na yeni astronot ekibini yolladı",
+   "at": "2026-11-25T01:53:15.957348+00:00",
+   "yazim": "claude",
+   "metin": "Çin, Tiangong (Gök Sarayı) Uzay İstasyonu'na üç kişilik yeni ekibi Ciuçüen Uydu Merkezi'nden fırlattı.\n\nEkipte iki Çinli astronot ve Pakistanlı Muhammed Zişan Ali var. Ali, Çin'in insanlı uzay programında yer alan ilk yabancı astronot oldu.\n\n— Ali aynı zamanda Dünya yörüngesine çıkan ilk Pakistan vatandaşı.\n— Uzay mekiğinin pilotluğunu Tang Hongbo üstleniyor. Vu Yi ise ilk kez insanlı uzay görevine katılıyor.\n— Şıncou-23 ekibinden Cu Yangcu, yeni ekiple görevine devam edip istasyonda bir yılı tamamlayacak.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/cin-tiengong-uzay-istasyonuna-yeni-astronot-ekibini-yolladi-1752448"
+   ]
   }
  ],
  "fails": {
@@ -13575,13 +13689,9 @@
   "4c2fb24f3c": 2,
   "c6c54fba1f": 2,
   "e7f00f7762": 2,
-  "e47611301a": 2,
   "52c944c703": 1
  },
  "fail_log": [
-  "2026-11-24T23:36 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:36 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:39 GAZİEMİR VERGİ DAİRESİ MÜDÜRLÜĞÜ -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-24T23:52 Antisemitizm suçlamasında birleştiler: Almanya’da Vanessa Em -> ValueError: yanıt okunamadı",
@@ -13618,7 +13728,10 @@
   "2026-11-25T01:15 Şehir hastanelerinde görevde yükselmede liyakat krizi: Akade -> ValueError: yanıt okunamadı",
   "2026-11-25T01:28 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
   "2026-11-25T01:28 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
-  "2026-11-25T01:28 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı"
+  "2026-11-25T01:28 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
+  "2026-11-25T01:53 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
+  "2026-11-25T01:53 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı",
+  "2026-11-25T01:53 Medyada şiddet ve işsizlik sarmalı: Kadın gazeteciler hak, g -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
