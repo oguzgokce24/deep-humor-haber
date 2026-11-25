@@ -10636,20 +10636,75 @@
     "üreti"
    ],
    "at": "2026-11-25T05:16:24.999729+00:00"
+  },
+  {
+   "fp": [
+    "bahçe",
+    "boşal",
+    "evin",
+    "freni",
+    "girdi",
+    "kirem",
+    "tır",
+    "yüklü",
+    "üsküd"
+   ],
+   "tok": [
+    "aldı",
+    "ancak",
+    "bahçe",
+    "başla",
+    "boşal",
+    "cadde",
+    "daldı",
+    "durab",
+    "duvar",
+    "edere",
+    "edile",
+    "edip",
+    "evin",
+    "facia",
+    "freni",
+    "geldi",
+    "girdi",
+    "gördü",
+    "güven",
+    "halin",
+    "harek",
+    "hasar",
+    "iddia",
+    "ilgil",
+    "ilçes",
+    "incel",
+    "kazay",
+    "kimse",
+    "kirem",
+    "küçük",
+    "mahal",
+    "meyda",
+    "nde",
+    "olay",
+    "olmaz",
+    "park",
+    "saat",
+    "sabah",
+    "sürül",
+    "sıral",
+    "tır",
+    "tırda",
+    "yaşan",
+    "yüklü",
+    "yıkar",
+    "ölen",
+    "ölmed",
+    "öne",
+    "önlem",
+    "üsküd"
+   ],
+   "at": "2026-11-25T05:28:56.484909+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "312e69281d",
-   "post_id": "529346797199852_1477154757857565",
-   "title": "Guterres'ten COP31 sonrası çağrı: \"Hükümetlerden ve şirketlerden hesap sorun\"",
-   "at": "2026-11-22T22:23:08.222694+00:00",
-   "yazim": "claude",
-   "metin": "BM Genel Sekreteri Antonio Guterres, Antalya'daki COP31 sonrası:\n\n“Hükümetleri ve şirketleri hesap vermeye zorlayın ve iklim adaleti mücadelesinden asla vazgeçmeyin.\n\nHer adımda yanınızda olacağım.”\n\n— Çağrı, Antalya'da düzenlenen COP31 iklim zirvesinin sona ermesinin ardından yapıldı.\n— Guterres, sivil toplum kuruluşları, gençler, yerli halklar, bilim insanları ve iklim krizinden doğrudan etkilenen topluluklara seslendi.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/guterres-ten-cop31-sonrasi-cagri-hukumetlerden-ve-sirketlerden-hesap-sorun-747865"
-   ]
-  },
   {
    "id": "c9f72b3c65",
    "post_id": "529346797199852_1477162107856830",
@@ -13244,6 +13299,22 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/tuccarlarin-dusuk-fiyatina-kooperatif-darbesi-bursada-230-tlyle-2086087"
    ]
+  },
+  {
+   "id": "cddb1ee750",
+   "post_id": "529346797199852_1479691184270589",
+   "title": "Üsküdar'da freni boşalan kiremit yüklü tır evin bahçesine girdi",
+   "at": "2026-11-25T05:28:56.484909+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Üsküdar ilçesinde kiremit yüklü bir TIR, park halindeyken hareket edip bir evin bahçesine girdi.\n\n— Olay sabah saat 06.15 sıralarında Küçüksu Mahallesi'nde yaşandı.\n— TIR'ın freninin boşaldığı öne sürüldü.\n— Kazada kimse ölmedi ya da yaralanmadı, ancak TIR ile bahçe duvarı hasar gördü.\n— Polis caddede güvenlik önlemi aldı ve kazayla ilgili inceleme başlattı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/freni-bosalan-kiremit-yuklu-tir-bahce-duvarini-yikarak-durabildi-964389.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/uskudarda-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi-43390122",
+    "Habertürk: https://www.haberturk.com/gundem/tir-evin-bahcesine-daldi-3929912",
+    "Sözcü: https://www.sozcu.com.tr/istanbulda-kiremit-yuklu-tir-evin-bahcesine-girdi-p384163",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/uskudarda-facia-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi-4876269",
+    "Evrensel: https://www.evrensel.net/haber/6011067/uskudar-da-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13497,7 +13568,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125458182445396170",
+   "since_id": "2125459615668179442",
    "started": true
   },
   "ajansmuhbir1923": {
