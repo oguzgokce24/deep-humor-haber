@@ -10868,6 +10868,44 @@
     "çorum"
    ],
    "at": "2026-11-25T00:17:56.021756+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "8",
+    "bolu",
+    "bursa",
+    "feci",
+    "hafif",
+    "işçi",
+    "kaza",
+    "otomo",
+    "servi",
+    "ticar",
+    "yaral",
+    "çarpı"
+   ],
+   "tok": [
+    "bolu",
+    "bursa",
+    "direk",
+    "düştü",
+    "feci",
+    "hafif",
+    "ilçes",
+    "işçi",
+    "karış",
+    "kavşa",
+    "minib",
+    "nilüf",
+    "nın",
+    "otomo",
+    "servi",
+    "sonuc",
+    "ticar",
+    "çarpı"
+   ],
+   "at": "2026-11-25T00:34:25.234635+00:00"
   }
  ],
  "posted": [
@@ -13686,19 +13724,10 @@
   "4c634fdecc": 1,
   "c851ce6256": 2,
   "4c2fb24f3c": 2,
-  "b1927077f2": 2,
-  "c6c54fba1f": 1,
-  "e7f00f7762": 1
+  "c6c54fba1f": 2,
+  "e7f00f7762": 2
  },
  "fail_log": [
-  "2026-11-24T23:25 T.C. ADANA 7. SULH HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:29 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:29 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:32 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:32 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
-  "2026-11-24T23:32 Yapım aşamaları kendinden daha güzel: ‘Ben Rocky’ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-24T23:32 T.C. SALİHLİ 1. ASLİYE HUKUK MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
@@ -13730,7 +13759,15 @@
   "2026-11-25T00:31 Benzin ve motorine indirim ne zaman gelecek? 1 Aralık akarya -> ValueError: yanıt okunamadı",
   "2026-11-25T00:31 Benzin ve motorine indirim ne zaman gelecek? 1 Aralık akarya -> ValueError: yanıt okunamadı",
   "2026-11-25T00:31 Vurgunun simgesine jet tahliye -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-25T00:31 Vurgunun simgesine jet tahliye -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-25T00:31 Vurgunun simgesine jet tahliye -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-25T00:34 İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-25T00:34 İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı -> ValueError: yanıt okunamadı",
+  "2026-11-25T00:34 İşçi servisi ile hafif ticari araç çarpıştı: 8 yaralı -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
+  "2026-11-25T00:34 Benzin ve motorine indirim ne zaman gelecek? 1 Aralık akarya -> ValueError: yanıt okunamadı",
+  "2026-11-25T00:34 Benzin ve motorine indirim ne zaman gelecek? 1 Aralık akarya -> ValueError: yanıt okunamadı",
+  "2026-11-25T00:34 Benzin ve motorine indirim ne zaman gelecek? 1 Aralık akarya -> ValueError: yanıt okunamadı",
+  "2026-11-25T00:34 Vurgunun simgesine jet tahliye -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-25T00:34 Vurgunun simgesine jet tahliye -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
