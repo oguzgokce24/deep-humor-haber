@@ -2,78 +2,6 @@
  "seen": [
   {
    "fp": [
-    "10",
-    "6",
-    "başke",
-    "hanoi",
-    "hayat",
-    "kaybe",
-    "kişi",
-    "patla",
-    "resto",
-    "vietn",
-    "yaral"
-   ],
-   "tok": [
-    "arama",
-    "açark",
-    "ağır",
-    "başke",
-    "bina",
-    "binad",
-    "binal",
-    "bulun",
-    "bölge",
-    "camla",
-    "devam",
-    "dong",
-    "ediyo",
-    "ettiğ",
-    "gazın",
-    "geldi",
-    "gelen",
-    "gördü",
-    "güven",
-    "hanoi",
-    "hasar",
-    "hasta",
-    "incel",
-    "işare",
-    "kaldı",
-    "kamu",
-    "kayna",
-    "kesin",
-    "kurta",
-    "kırıl",
-    "meyda",
-    "mutfa",
-    "neden",
-    "nüfus",
-    "olabi",
-    "olay",
-    "oluşt",
-    "patla",
-    "resto",
-    "saatl",
-    "sabah",
-    "sürüy",
-    "sıral",
-    "vietn",
-    "yapıl",
-    "yaşan",
-    "yerel",
-    "yerin",
-    "yol",
-    "yoğun",
-    "çalış",
-    "çevre",
-    "şehri",
-    "şidde"
-   ],
-   "at": "2026-11-24T10:51:00.048219+00:00"
-  },
-  {
-   "fp": [
     "3",
     "annes",
     "babas",
@@ -10458,24 +10386,64 @@
     "şirke"
    ],
    "at": "2026-11-25T22:38:51.057008+00:00"
+  },
+  {
+   "fp": [
+    "beyko",
+    "dönüş",
+    "opera",
+    "seras",
+    "uyuşt",
+    "villa"
+   ],
+   "tok": [
+    "aldı",
+    "arama",
+    "ayrıc",
+    "belir",
+    "beyko",
+    "bin",
+    "buldu",
+    "bulun",
+    "değer",
+    "dönüş",
+    "düzen",
+    "ekipl",
+    "ekipm",
+    "esrar",
+    "gram",
+    "hint",
+    "ilgil",
+    "ilçes",
+    "katlı",
+    "kenev",
+    "klima",
+    "kulla",
+    "kök",
+    "lamba",
+    "led",
+    "madde",
+    "mahal",
+    "nakit",
+    "ndeki",
+    "olayl",
+    "ortay",
+    "para",
+    "riva",
+    "sayıd",
+    "seras",
+    "sürüy",
+    "uyuşt",
+    "vanti",
+    "villa",
+    "yetiş",
+    "çıktı",
+    "üreti"
+   ],
+   "at": "2026-11-25T22:51:36.952306+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "96a77f46cb",
-   "post_id": "529346797199852_1478066727766368",
-   "title": "Kuzey Marmara Otoyolu'nda kamyon ile otomobil çarpıştı: 3 ağır yaralı",
-   "at": "2026-11-23T17:31:32.572865+00:00",
-   "yazim": "claude",
-   "metin": "Kocaeli'nin Kuzey Marmara Otoyolu T3 Tüneli'nde kamyonla çarpışan otomobilde sıkışan 3 kişi ağır yaralandı.\n\n— Kaza saat 16.00 sıralarında İstanbul yönündeki tünelde yaşandı. Aynı yönde ilerleyen kamyon ile otomobil birbirine çarptı.\n\n— Çarpışmanın etkisiyle otomobil kullanılamaz hale geldi. İtfaiye ekipleri, sıkışan 3 kişiyi araçtan çıkardı.\n\n— Yaralılar hastanelere kaldırıldı. Hayati tehlikenin sürdüğü bildirildi.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/kuzey-marmara-otoyolunda-feci-kaza-kamyon-ile-otomobil-carpisti-3-agir-yarali-43388298",
-    "Habertürk: https://www.haberturk.com/gundem/kocaeli-de-kamyonla-carpisan-otomobildeki-3-kisi-agir-yaralandi-3929524",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/kuzey-marmara-otoyolunda-kaza-3-kisi-agir-yaralandi-4875761",
-    "Evrensel: https://www.evrensel.net/haber/6010857/kuzey-marmara-otoyolu-nda-kamyon-ile-otomobil-carpisti-3-kisi-agir-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/kuzey-marmara-otoyolu-nda-kamyon-ile-otomobil-carpisti-3-agir-yarali-748027"
-   ]
-  },
   {
    "id": "b8172b5a83",
    "post_id": "529346797199852_1478081537764887",
@@ -13103,6 +13071,19 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/bu-neyin-faturasi-odedigimiz-faturanin-sadece-yuzde-15ini-tuketilen-2086274"
    ]
+  },
+  {
+   "id": "fcfbb6ebfa",
+   "post_id": "529346797199852_1480496164190091",
+   "title": "Beykoz’da operasyon: Üç katlı villayı uyuşturucu serasına dönüştürmüşler",
+   "at": "2026-11-25T22:51:36.952306+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Beykoz ilçesinde üç katlı bir villada uyuşturucu yetiştirildiği ortaya çıktı, polis bir şüpheliyi gözaltına aldı.\n\n— Riva Mahallesi'ndeki villada yapılan aramada 536 kök Hint keneviri ve 150 gram esrar bulundu.\n— Polis ayrıca 5 bin lira nakit para, 79 LED lamba, 19 vantilatör ve 6 klima da buldu.\n\nOlayla ilgili soruşturma sürüyor.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/beykozda-villaya-operasyon-uyusturucu-serasina-donusturmus-7708055",
+    "Karar: https://www.karar.com/guncel-haberler/beykozda-operasyon-uc-katli-villayi-uyusturucu-serasina-donusturmusler-2086288",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/beykozda-villaya-operasyon-uyusturucu-serasina-donusturmus-7708055"
+   ]
   }
  ],
  "fails": {
@@ -13321,12 +13302,10 @@
   "e7883b29b6": 1,
   "c02e72c944": 1,
   "62a37292e4": 1,
-  "cd8f12063f": 1
+  "cd8f12063f": 1,
+  "f860003b35": 1
  },
  "fail_log": [
-  "2026-11-25T06:32 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-25T06:32 Almanya: \"Depresyon hastalarının %38'i yapay zekadan destek  -> ValueError: yanıt okunamadı",
-  "2026-11-25T06:32 Almanya: \"Depresyon hastalarının %38'i yapay zekadan destek  -> ValueError: yanıt okunamadı",
   "2026-11-25T06:32 Almanya: \"Depresyon hastalarının %38'i yapay zekadan destek  -> ValueError: yanıt okunamadı",
   "2026-11-25T08:15 ABD'de küçük uçak denize düştü: 2'si çocuk 6 kişi öldü -> ValueError: yanıt okunamadı",
   "2026-11-25T08:15 ABD'de küçük uçak denize düştü: 2'si çocuk 6 kişi öldü -> ValueError: yanıt okunamadı",
@@ -13363,12 +13342,15 @@
   "2026-11-25T22:38 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
   "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
   "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı"
+  "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125716923342115278",
+   "since_id": "2125721835019063528",
    "started": true
   },
   "ajansmuhbir1923": {
