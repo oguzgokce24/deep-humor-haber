@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "beer",
-    "beşik",
-    "danim",
-    "hakem",
-    "hapoe",
-    "maçın",
-    "sheva"
-   ],
-   "tok": [
-    "arası",
-    "avar",
-    "avrup",
-    "batum",
-    "beer",
-    "beşik",
-    "brams",
-    "danim",
-    "dinam",
-    "dördü",
-    "görev",
-    "günü",
-    "gürci",
-    "hafta",
-    "hakem",
-    "hapoe",
-    "jacob",
-    "jakob",
-    "karls",
-    "karşı",
-    "kasım",
-    "kehle",
-    "kenti",
-    "kriti",
-    "krogh",
-    "ligi",
-    "maçı",
-    "maçın",
-    "morte",
-    "nda",
-    "nin",
-    "olaca",
-    "oynan",
-    "perşe",
-    "putro",
-    "saat",
-    "sandi",
-    "sheva",
-    "skytt",
-    "stady",
-    "steff",
-    "uefa",
-    "var",
-    "victo",
-    "yapac",
-    "yardı",
-    "yönet",
-    "zorlu",
-    "üstle"
-   ],
-   "at": "2026-11-24T10:38:18.027806+00:00"
-  },
-  {
-   "fp": [
     "10",
     "6",
     "başke",
@@ -10451,20 +10388,79 @@
     "üzeri"
    ],
    "at": "2026-11-25T22:26:18.376035+00:00"
+  },
+  {
+   "fp": [
+    "15",
+    "bedel",
+    "elekt",
+    "fatur",
+    "ini",
+    "neyin",
+    "oluşt",
+    "sadec",
+    "tüket",
+    "yüzde",
+    "ödedi"
+   ],
+   "tok": [
+    "arası",
+    "ardın",
+    "arttı",
+    "aynı",
+    "bedel",
+    "bilin",
+    "bugün",
+    "dağıt",
+    "dönem",
+    "dörtt",
+    "düşer",
+    "elekt",
+    "enerj",
+    "enfla",
+    "fatur",
+    "fon",
+    "gitti",
+    "göre",
+    "günüm",
+    "harca",
+    "hgs",
+    "indi",
+    "ini",
+    "ise",
+    "kadar",
+    "kalıy",
+    "lirad",
+    "liray",
+    "milya",
+    "neyin",
+    "oluşt",
+    "oranı",
+    "paran",
+    "payı",
+    "sadec",
+    "skand",
+    "tahsi",
+    "tüik",
+    "tüket",
+    "ulaşt",
+    "vatan",
+    "vurgu",
+    "yansı",
+    "yatır",
+    "yüzde",
+    "yılda",
+    "çıktı",
+    "ödedi",
+    "ücret",
+    "üçü",
+    "şimdi",
+    "şirke"
+   ],
+   "at": "2026-11-25T22:38:51.057008+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "53a045ebdd",
-   "post_id": "529346797199852_1478042327768808",
-   "title": "Savcılık tedbir istedi ama 5,25 milyon hisse sattı: Eski bakan yardımcısının eşinden 166 milyonluk yeni hamle",
-   "at": "2026-11-23T17:04:25.695388+00:00",
-   "yazim": "claude",
-   "metin": "Fon soruşturmasında mal varlığının dondurulması istenen Neslihan Mumcu, talepten birkaç gün sonra Lydia Holding hisselerini sattı.\n\n— İstanbul Cumhuriyet Başsavcılığı 7 Kasım'da Mumcu'nun sermaye piyasası araçlarının dondurulmasını istemişti. Mumcu 18 ve 19 Kasım'da yaklaşık 5,25 milyon payı sattı, satışların büyüklüğü 118 milyon ile 160 milyon lira arasında hesaplanıyor.\n\n— Satışların ardından Mumcu'nun Lydia Holding'deki ortaklık oranı yüzde 4,44'ten yüzde 2,95'e düştü.\n\n— 23 Kasım'da Mumcu'nun 8 milyon 214 bin liralık nominal değerli paylarının borsada işlem gören tipe dönüştürülmesi için başvuru yapıldı. Bu payların piyasa değeri yaklaşık 166 milyon lira. Prof. Dr. Yalçın Karatepe, paylarının dondurulmadığını belirtti ve bu başvurunun kalan hisselerin de satılmasının önünü açabileceğini söyledi.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/savcilik-tedbir-istedi-ama-525-milyon-hisse-satti-eski-bakan-2085812"
-   ]
-  },
   {
    "id": "96a77f46cb",
    "post_id": "529346797199852_1478066727766368",
@@ -13096,6 +13092,17 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/turgutluda-telefon-dolandiriciligi-suphelisi-tutuklandi-4876567",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/manisada-3-5-milyon-tllik-telefon-dolandiriciligi-1-kisi-tutuklandi-7708046"
    ]
+  },
+  {
+   "id": "033fd9e663",
+   "post_id": "529346797199852_1480489137524127",
+   "title": "Bu neyin faturası: Ödediğimiz faturanın sadece yüzde 15’ini tüketilen elektriğin bedeli oluşturuyor",
+   "at": "2026-11-25T22:38:51.057008+00:00",
+   "yazim": "claude",
+   "metin": "Elektrik faturasının yüzde 75'ini dağıtım bedeli oluşturuyor, tüketilen enerjinin payı ise yüzde 15'te kalıyor.\n\n— Dağıtım bedelinin faturadaki payı 2022'de yüzde 19'du, bugün yüzde 75'e ulaştı.\n\n— Son beş yılda dağıtım ücreti yüzde 880 arttı. Aynı dönemde TÜİK'e göre enflasyon yüzde 656 oldu.\n\n— 21 dağıtım şirketinin tahsilatı 2023-25 arasında 113 milyar liradan 359 milyar liraya çıktı.\n\n— Şirketlerin yatırım harcamaları ise 2024'te yüzde 37,91 düşerek 52 milyar 465 milyon liraya indi.\n\n— Vatandaşın ödediği paranın ne kadarının yatırıma gittiği bilinmiyor.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/bu-neyin-faturasi-odedigimiz-faturanin-sadece-yuzde-15ini-tuketilen-2086274"
+   ]
   }
  ],
  "fails": {
@@ -13312,15 +13319,11 @@
   "44bf33a197": 2,
   "a20803c07c": 2,
   "e7883b29b6": 1,
-  "c02e72c944": 1
+  "c02e72c944": 1,
+  "62a37292e4": 1,
+  "cd8f12063f": 1
  },
  "fail_log": [
-  "2026-11-25T06:07 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-25T06:07 Doğada yetişiyor, saç pidesine yolculuk yapıyor: Sarıgöl’de  -> ValueError: yanıt okunamadı",
-  "2026-11-25T06:07 Doğada yetişiyor, saç pidesine yolculuk yapıyor: Sarıgöl’de  -> ValueError: yanıt okunamadı",
-  "2026-11-25T06:07 Doğada yetişiyor, saç pidesine yolculuk yapıyor: Sarıgöl’de  -> ValueError: yanıt okunamadı",
-  "2026-11-25T06:32 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-25T06:32 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-25T06:32 Meteoroloji açıkladı: 25 Kasım 2026 hava durumu raporu... Bu -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-25T06:32 Almanya: \"Depresyon hastalarının %38'i yapay zekadan destek  -> ValueError: yanıt okunamadı",
   "2026-11-25T06:32 Almanya: \"Depresyon hastalarının %38'i yapay zekadan destek  -> ValueError: yanıt okunamadı",
@@ -13354,7 +13357,13 @@
   "2026-11-25T22:13 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı",
   "2026-11-25T22:26 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı",
   "2026-11-25T22:26 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:26 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı"
+  "2026-11-25T22:26 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:38 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:38 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:38 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
+  "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
