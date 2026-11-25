@@ -2,56 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "alına",
-    "fon",
-    "gözal",
-    "nda",
-    "soruş",
-    "taleb",
-    "tutuk",
-    "şüphe"
-   ],
-   "tok": [
-    "adli",
-    "adliy",
-    "aklam",
-    "alına",
-    "ardın",
-    "başsa",
-    "büros",
-    "bırak",
-    "ceza",
-    "emniy",
-    "finan",
-    "fon",
-    "getir",
-    "gönde",
-    "hakim",
-    "ifade",
-    "ise",
-    "istem",
-    "işlem",
-    "kapsa",
-    "kontr",
-    "nda",
-    "piyas",
-    "savcı",
-    "serbe",
-    "serma",
-    "sevk",
-    "sulh",
-    "suçla",
-    "taleb",
-    "tamam",
-    "terör",
-    "yönel",
-    "yürüt"
-   ],
-   "at": "2026-11-23T21:32:02.282266+00:00"
-  },
-  {
-   "fp": [
     "aksoy",
     "eylem",
     "odtü",
@@ -10733,20 +10683,102 @@
     "ücret"
    ],
    "at": "2026-11-25T09:25:29.898253+00:00"
+  },
+  {
+   "fp": [
+    "ayarı",
+    "bozuk",
+    "ceza",
+    "diyen",
+    "ellem",
+    "servi"
+   ],
+   "tok": [
+    "alın",
+    "ayarı",
+    "aykır",
+    "belge",
+    "birde",
+    "bizim",
+    "bozuk",
+    "bulun",
+    "ceza",
+    "dediğ",
+    "demiş",
+    "denet",
+    "değiş",
+    "diyen",
+    "diğer",
+    "duyul",
+    "ekipl",
+    "eksik",
+    "ellem",
+    "etike",
+    "fiyat",
+    "fişi",
+    "garan",
+    "gelen",
+    "gerek",
+    "geçme",
+    "gitti",
+    "görün",
+    "günde",
+    "halde",
+    "hizme",
+    "idari",
+    "iddia",
+    "ileti",
+    "ilçes",
+    "incel",
+    "işine",
+    "işlet",
+    "kamer",
+    "karış",
+    "kayde",
+    "kazan",
+    "kesin",
+    "kez",
+    "konuş",
+    "kurul",
+    "lasti",
+    "liste",
+    "mevzu",
+    "müdür",
+    "müşte",
+    "neden",
+    "olaya",
+    "ona",
+    "oto",
+    "otomo",
+    "payla",
+    "rekla",
+    "sahib",
+    "servi",
+    "sevk",
+    "sorun",
+    "söyle",
+    "tamam",
+    "teri",
+    "terid",
+    "tespi",
+    "ticar",
+    "usuls",
+    "uygul",
+    "verdi",
+    "yalnı",
+    "yansı",
+    "yanıl",
+    "yaptı",
+    "yoktu",
+    "yönün",
+    "çalış",
+    "çözüm",
+    "şişli"
+   ],
+   "at": "2026-11-25T09:38:06.660955+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5946e6a51f",
-   "post_id": "529346797199852_1477328771173497",
-   "title": "Kabine bugün toplanıyor: Gündemde emekli maaşları ve fon soruşturması var",
-   "at": "2026-11-23T03:02:40.907790+00:00",
-   "yazim": "claude",
-   "metin": "Cumhurbaşkanı Erdoğan başkanlığındaki Kabine bugün toplanıyor. Toplantının öncelikli gündemi emekli maaşlarına yönelik yeni bir düzenleme.\n\n— Toplantıda 2027 yılı asgari ücret görüşmeleri de ele alınacak.\n\n— Sermaye piyasalarındaki fon soruşturması da gündemde yer alıyor.\n\n— Rusya-Ukrayna savaşı, İran ve Gazze'deki gelişmelerin de masaya gelmesi bekleniyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/kabine-bugun-toplaniyor-gundemde-emekli-maaslari-ve-fon-sorusturmasi-var-747877"
-   ]
-  },
   {
    "id": "017bee3bd2",
    "post_id": "529346797199852_1477336994506008",
@@ -13372,6 +13404,19 @@
     "TRT Haber: https://www.trthaber.com/haber/gundem/ankara-halinde-esnafi-tehdit-eden-gruba-operasyon-27-gozalti-964426.html",
     "Karar: https://www.karar.com/guncel-haberler/ankara-sebze-ve-meyve-halinde-nitelikli-yagma-operasyonu-26-gozalti-2086147"
    ]
+  },
+  {
+   "id": "aa24bb981d",
+   "post_id": "529346797199852_1479865814253126",
+   "title": "'Ayarı elleme, bozuk de' diyen servise ceza: 'Kazancımızın tamamı alın teri'",
+   "at": "2026-11-25T09:38:06.660955+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Şişli ilçesindeki bir otomotiv servisine, müşteriyi yanıltma iddiaları nedeniyle idari yaptırım uygulandı.\n\n— Bir müşteri lastik sorununa çözüm için servise gitti. Ona yalnızca bir lastiğinin değişmesi gerektiği halde dört lastiğinin birden değişmesi gerektiği söylendi.\n\n— Müşteri, araç kamerasına kaydedilen konuşmaları paylaştı. Görüntülerde bir çalışanın diğerine \"Ayarı elleme, bozuk de\" dediği duyuldu.\n\n— Denetimde fiyat listesi, garanti belgesi ve servis fişi eksiklikleri tespit edildi. Müşterinin yanıltıldığı yönündeki iddialar da Reklam Kurulu'na sevk edildi.\n\n— İşletme sahibi, olaya karışan çalışanların işine son verdiklerini söyledi.\n\n\"Bizim usulsüz bir ticaretimiz yoktur, kesinlikle bizim kazancımızın tamamı alın teridir.\"",
+   "sources": [
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/sislide-ayari-elleme-bozuk-de-diyen-oto-servisin-sahibi-ilk-kez-konustu-musteri-bizimle-iletisime-gecmedi-4876372",
+    "BirGün: https://www.birgun.net/haber/ayari-elleme-bozuk-de-demisti-otomotiv-servisine-ceza-748314",
+    "Karar: https://www.karar.com/guncel-haberler/ayari-elleme-bozuk-de-diyen-servise-ceza-kazancimizin-tamami-alin-teri-2086131"
+   ]
   }
  ],
  "fails": {
@@ -13629,7 +13674,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125515400922177766",
+   "since_id": "2125523445735886914",
    "started": true
   },
   "ajansmuhbir1923": {
