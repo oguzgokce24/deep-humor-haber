@@ -10588,6 +10588,45 @@
     "şartı"
    ],
    "at": "2026-11-25T04:18:11.165188+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "bülen",
+    "galat",
+    "hanes",
+    "puanı",
+    "rakib",
+    "tunca",
+    "uyuta",
+    "yazdı"
+   ],
+   "tok": [
+    "anda",
+    "appea",
+    "aston",
+    "bülen",
+    "diken",
+    "ekip",
+    "first",
+    "galat",
+    "geçen",
+    "hanes",
+    "ligde",
+    "linka",
+    "post",
+    "puanı",
+    "rakib",
+    "sezon",
+    "site",
+    "the",
+    "tunca",
+    "uyuta",
+    "villa",
+    "yazdı",
+    "şampi"
+   ],
+   "at": "2026-11-25T04:25:22.755043+00:00"
   }
  ],
  "posted": [
@@ -13398,20 +13437,10 @@
   "e7f00f7762": 2,
   "867dddbd14": 1,
   "760d8e645e": 1,
-  "c5c29469f7": 2,
-  "228d18475c": 1,
-  "ede44d226f": 1
+  "228d18475c": 2,
+  "ede44d226f": 2
  },
  "fail_log": [
-  "2026-11-25T04:07 Hakkı Özdal: Sayan Kaya'nın tahliye edilmesiyle birlikte yen -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:07 Çiğdem Toker: Fatma Betül Sayan Kaya serbest -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:07 Çiğdem Toker: Fatma Betül Sayan Kaya serbest -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:07 Çiğdem Toker: Fatma Betül Sayan Kaya serbest -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:11 Abdulkadir Selvi: Görünen o ki Özgür Özel kararından geri ad -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:11 Abdulkadir Selvi: Görünen o ki Özgür Özel kararından geri ad -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:11 Abdulkadir Selvi: Görünen o ki Özgür Özel kararından geri ad -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:11 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:11 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
   "2026-11-25T04:11 Dilek Leblebici Teker: Küresel güçler boy gösterisi yaptı -> ValueError: yanıt okunamadı",
   "2026-11-25T04:11 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
   "2026-11-25T04:11 Elif Çakır: Cezaevinde yüzlerce ağır hasta mahkum varken bar -> ValueError: yanıt okunamadı",
@@ -13442,7 +13471,16 @@
   "2026-11-25T04:21 Mehmet Nuri Özdemir: Yeni Parti'nin süreçle arasına mesafe k -> ValueError: yanıt okunamadı",
   "2026-11-25T04:21 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı",
   "2026-11-25T04:21 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı",
-  "2026-11-25T04:21 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı"
+  "2026-11-25T04:21 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Bülent Tuncay: Galatasaray 'rakibini uyutarak' üç puanı hane -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Mehmet Nuri Özdemir: Yeni Parti'nin süreçle arasına mesafe k -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Mehmet Nuri Özdemir: Yeni Parti'nin süreçle arasına mesafe k -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Mehmet Nuri Özdemir: Yeni Parti'nin süreçle arasına mesafe k -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı",
+  "2026-11-25T04:25 Ayça Söylemez: Kız çocuklarının yeni nesil çetelerdeki varlı -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
