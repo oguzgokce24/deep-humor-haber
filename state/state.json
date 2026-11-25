@@ -10317,23 +10317,74 @@
     "önces"
    ],
    "at": "2026-11-25T14:01:47.178277+00:00"
+  },
+  {
+   "fp": [
+    "arpag",
+    "muhab",
+    "safi",
+    "tan"
+   ],
+   "tok": [
+    "alene",
+    "ali",
+    "arpag",
+    "açılm",
+    "belir",
+    "bildi",
+    "bilgi",
+    "birgü",
+    "bulun",
+    "devam",
+    "diyan",
+    "duyur",
+    "dönem",
+    "elini",
+    "emniy",
+    "erbaş",
+    "eşi",
+    "gazet",
+    "gözet",
+    "haber",
+    "hakar",
+    "halkı",
+    "hatic",
+    "ifade",
+    "ilgil",
+    "isted",
+    "istem",
+    "işler",
+    "kamu",
+    "karak",
+    "kendi",
+    "kurum",
+    "muhab",
+    "musta",
+    "nda",
+    "neden",
+    "saatl",
+    "sabah",
+    "safi",
+    "suç",
+    "suçla",
+    "tan",
+    "verdi",
+    "verir",
+    "yanıl",
+    "yapma",
+    "yaptı",
+    "yapıl",
+    "yarar",
+    "yayma",
+    "çanka",
+    "çekin",
+    "çıkan",
+    "üzeri"
+   ],
+   "at": "2026-11-25T14:14:20.542419+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "cfc303fe6f",
-   "post_id": "529346797199852_1477563567816684",
-   "title": "23 Kasım 2026 Benzin, Motorin, LPG Fiyatları: İndirim veya Zam Var mı? Güncel Akaryakıt Fiyatları",
-   "at": "2026-11-23T08:39:38.848907+00:00",
-   "yazim": "claude",
-   "metin": "Motorinin litre fiyatı 20 Kasım'da yaklaşık 6,50 TL, benzinin litre fiyatı 21 Kasım'da yaklaşık 2,90 TL düştü.\n\n— İki indirim, hem benzinli hem dizel araç kullanan sürücüleri ilgilendiriyor.\n— Akaryakıt fiyatları illere ve dağıtım şirketlerine göre farklılık gösteriyor.\n— 23 Kasım'da İstanbul'da benzinin litre fiyatı 68,20 TL, Ankara'da 69,40 TL, İzmir'de 69,60 TL.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/ekonomi/akaryakit-fiyatlari-son-dakika-benzin-ve-motorinde-zam-indirim-var-mi-23-kasim-guncel-benzin-motorin-ve-lpg-fiyatlari-3496767",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/benzin-motorin-ve-lpg-fiyatlari-ne-kadar-oldu-kac-tl-23-kasim-2026-pazartesi-istanbul-ankara-izmir-guncel-akaryakit-fiyatlari-2558499",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/iski-acikladi-23-kasim-2026-istanbul-baraj-doluluk-oranlari-yuzde-kac-oldu-barajlarda-son-durum-2558493",
-    "BirGün: https://www.birgun.net/haber/23-kasim-2026-benzin-motorin-lpg-fiyatlari-indirim-veya-zam-var-mi-guncel-akaryakit-fiyatlari-747914"
-   ]
-  },
   {
    "id": "e040012d05",
    "post_id": "529346797199852_1477572604482447",
@@ -12980,6 +13031,18 @@
     "Sabah: https://www.sabah.com.tr/gundem/2026/11/25/baskan-erdogan-hafteri-kabul-etti",
     "Sözcü: https://www.sozcu.com.tr/cumhurbaskani-erdogan-libya-ulusal-ordusu-genel-komutani-hafter-i-kabul-etti-p384370"
    ]
+  },
+  {
+   "id": "9cfcaeaf63",
+   "post_id": "529346797199852_1480101144229593",
+   "title": "Diyanet İşleri Başkanı Safi Arpaguş'tan BirGün muhabirine suç duyurusu",
+   "at": "2026-11-25T14:14:20.542419+00:00",
+   "yazim": "claude",
+   "metin": "Diyanet İşleri Başkanı Safi Arpaguş, BirGün muhabiri Mustafa Bildircin hakkında suç duyurusunda bulundu.\n\n— Arpaguş ve eşi, Diyanet ile ilgili haberler nedeniyle \"halkı yanıltıcı bilgiyi alenen yayma\" ve \"hakaret\" suçlamalarıyla dava açılmasını istedi.\n— Bildircin, ifade verdiği Ankara Çankaya Karakolu'nda haberlerinin kamu yararı gözetilerek yapıldığını söyledi.\n— Bildircin, Ali Erbaş döneminde de kurumla ilgili çok haber yaptığını, o dönemde kendisi hakkında dava açılmadığını belirtti.\n\nMustafa Bildircin:\n\n“Gazetecilerin üzerinden elinizi çekin.”",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/diyanet-isleri-baskani-safi-arpagus-tan-birgun-muhabirine-suc-duyurusu-2559380",
+    "BirGün: https://www.birgun.net/haber/safi-arpagustan-muhabirimize-dava-istemi-748436"
+   ]
   }
  ],
  "fails": {
@@ -13239,7 +13302,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125587855984464122",
+   "since_id": "2125593598389628958",
    "started": true
   },
   "ajansmuhbir1923": {
