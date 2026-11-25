@@ -2,75 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "annes",
-    "babas",
-    "cinay",
-    "kadın",
-    "kayın",
-    "nihal",
-    "tekir",
-    "çağla",
-    "çocuk",
-    "öldür"
-   ],
-   "tok": [
-    "adliy",
-    "adlı",
-    "adres",
-    "akşam",
-    "ancak",
-    "annes",
-    "arası",
-    "ağır",
-    "babas",
-    "belir",
-    "büyüy",
-    "bıçak",
-    "cinay",
-    "devle",
-    "dün",
-    "ekipl",
-    "erkeğ",
-    "evde",
-    "evdek",
-    "evli",
-    "eşini",
-    "gelin",
-    "gider",
-    "hasta",
-    "henüz",
-    "ihbar",
-    "ilçes",
-    "kadın",
-    "kaldı",
-    "katle",
-    "kayın",
-    "kurta",
-    "kızıl",
-    "mahal",
-    "mehme",
-    "ndeki",
-    "neden",
-    "nihal",
-    "olay",
-    "sağlı",
-    "sevk",
-    "tartı",
-    "tekir",
-    "tesli",
-    "yaşan",
-    "yaşın",
-    "çağla",
-    "çerke",
-    "çocuk",
-    "çıktı",
-    "öldür"
-   ],
-   "at": "2026-11-24T11:03:47.853934+00:00"
-  },
-  {
-   "fp": [
     "aksar",
     "devri",
     "kara",
@@ -10441,21 +10372,59 @@
     "üreti"
    ],
    "at": "2026-11-25T22:51:36.952306+00:00"
+  },
+  {
+   "fp": [
+    "kadık",
+    "oynad",
+    "sanki"
+   ],
+   "tok": [
+    "aldık",
+    "atan",
+    "aşkım",
+    "ben",
+    "bugün",
+    "bunu",
+    "depla",
+    "diyer",
+    "donet",
+    "eve",
+    "eşine",
+    "fener",
+    "golün",
+    "götür",
+    "kadık",
+    "kriti",
+    "kutla",
+    "maçta",
+    "maçın",
+    "mesaj",
+    "muriq",
+    "nin",
+    "oynad",
+    "oyunc",
+    "puan",
+    "sanki",
+    "senin",
+    "shakh",
+    "tak",
+    "taraf",
+    "tek",
+    "teşek",
+    "tur",
+    "vedat",
+    "yendi",
+    "çıktı",
+    "ödülü",
+    "önemd",
+    "özel",
+    "üst"
+   ],
+   "at": "2026-11-25T23:04:24.390596+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b8172b5a83",
-   "post_id": "529346797199852_1478081537764887",
-   "title": "Unai Emery: Galatasaray'ın hücum ve savunmada çok iyi oyuncuları var",
-   "at": "2026-11-23T17:44:01.706224+00:00",
-   "yazim": "claude",
-   "metin": "Aston Villa Teknik Direktörü Unai Emery, yarın Galatasaray maçı öncesi Rams Park'taki zemin için:\n\n“Zeminin maçın oynanabileceği düzeyde olması önemli. Bizim kendi görüşlerimizi ya da oyunumuzu zeminin durumu değiştirmeyecek.”\n\n— Aston Villa, Şampiyonlar Ligi 5. haftasında yarın saat 20.45'te Galatasaray'ın konuğu olacak.\n— Emery, zeminin iki takım için de aynı olduğunu ve bunun bir mazeret olmayacağını söyledi.\n— Galatasaray'ın hem hücumda hem savunmada çok iyi oyuncuları olduğunu belirtti.",
-   "sources": [
-    "Karar: https://www.karar.com/spor-haberleri/unai-emery-galatasarayin-hucum-ve-savunmada-cok-iyi-oyunculari-var-2085800",
-    "Hürriyet Anasayfa: https://www.hurriyet.com.tr/sporarena/unai-emery-galatasaray-farkli-turkiyenin-en-iyi-takimi-43388478"
-   ]
-  },
   {
    "id": "f0e1800421",
    "post_id": "529346797199852_1478095811096793",
@@ -13084,6 +13053,18 @@
     "Karar: https://www.karar.com/guncel-haberler/beykozda-operasyon-uc-katli-villayi-uyusturucu-serasina-donusturmusler-2086288",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/beykozda-villaya-operasyon-uyusturucu-serasina-donusturmus-7708055"
    ]
+  },
+  {
+   "id": "ae3219242a",
+   "post_id": "529346797199852_1480504807522560",
+   "title": "Vedat Muriqi: \"Sanki Kadıköy'de oynadık\"",
+   "at": "2026-11-25T23:04:24.390596+00:00",
+   "yazim": "claude",
+   "metin": "Vedat Muriqi, ödülü eşine özel bir mesajla kutladı:\n\n“Aşkım bu senin için! Ben bunu eve götüreceğim.”\n\n— Muriqi, üst tur için hayati önemdeki maçtan \"Kritik bir 3 puan aldık\" diyerek çıktığını söyledi.\n— Taraftarlara teşekkür eden Muriqi, \"sanki Kadıköy'de oynadık\" dedi.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/spor/vedat-muriqi-bugun-sanki-kadikoy-de-oynadik-3930175",
+    "Sözcü Spor: https://www.sozcu.com.tr/vedat-muriqi-sanki-kadikoyde-oynadik-p384442"
+   ]
   }
  ],
  "fails": {
@@ -13306,7 +13287,6 @@
   "f860003b35": 1
  },
  "fail_log": [
-  "2026-11-25T06:32 Almanya: \"Depresyon hastalarının %38'i yapay zekadan destek  -> ValueError: yanıt okunamadı",
   "2026-11-25T08:15 ABD'de küçük uçak denize düştü: 2'si çocuk 6 kişi öldü -> ValueError: yanıt okunamadı",
   "2026-11-25T08:15 ABD'de küçük uçak denize düştü: 2'si çocuk 6 kişi öldü -> ValueError: yanıt okunamadı",
   "2026-11-25T08:15 ABD'de küçük uçak denize düştü: 2'si çocuk 6 kişi öldü -> ValueError: yanıt okunamadı",
@@ -13345,7 +13325,8 @@
   "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
   "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı",
   "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı"
+  "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı",
+  "2026-11-25T23:04 Vedat Muriqi: \"Sanki Kadıköy'de oynadık\" -> ValueError: cümle yarım kalmış: '— Kocaelispor be'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
