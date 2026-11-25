@@ -10358,20 +10358,79 @@
     "üzeri"
    ],
    "at": "2026-11-25T21:48:10.694647+00:00"
+  },
+  {
+   "fp": [
+    "dolan",
+    "tutuk",
+    "vaadi",
+    "şifa"
+   ],
+   "tok": [
+    "adli",
+    "adliy",
+    "ailed",
+    "ailes",
+    "ailey",
+    "aktar",
+    "alına",
+    "annes",
+    "babas",
+    "belir",
+    "biri",
+    "birli",
+    "bulun",
+    "büyül",
+    "bır",
+    "bırak",
+    "ceyla",
+    "cinse",
+    "daki",
+    "dolan",
+    "dördü",
+    "edild",
+    "edile",
+    "edili",
+    "hesab",
+    "iddia",
+    "ilişk",
+    "ilçes",
+    "istis",
+    "izmir",
+    "kadın",
+    "karde",
+    "kasım",
+    "kendi",
+    "kişid",
+    "kontr",
+    "küçük",
+    "kız",
+    "mehdi",
+    "nın",
+    "otomo",
+    "paras",
+    "sattı",
+    "satış",
+    "serbe",
+    "sevk",
+    "suçla",
+    "tanıt",
+    "uygul",
+    "vaadi",
+    "vatan",
+    "yakla",
+    "yaşın",
+    "yönel",
+    "çocuğ",
+    "çıkar",
+    "şanlı",
+    "şidde",
+    "şifa"
+   ],
+   "at": "2026-11-25T22:00:49.964954+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "738547159f",
-   "post_id": "529346797199852_1478010617771979",
-   "title": "Erdoğan: Faşizme dümen kuran muhalefetten ülkeye hayır gelmez",
-   "at": "2026-11-23T16:26:32.857257+00:00",
-   "yazim": "claude",
-   "metin": "Cumhurbaşkanı Erdoğan, muhalefete seslendi:\n\n“Sıkılı yumruklarla demokratik siyaset yapılmaz. (...) İlk fırsatta faşizme dümen kuran muhalefetten ülkeye hayır gelmez.”\n\n— Kabine toplantısının ardından konuşan Erdoğan, Terörsüz Türkiye sürecinde muhalefetin tutumunu eleştirdi.\n— Erdoğan, sürece destek verenlerle köstek olanların milletine hesap vereceğini söyledi.\n— 2027 bütçe görüşmelerine de değinen Erdoğan, bazı muhalefet aktörlerinin şov peşinde olduğunu savundu.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/erdogan-fasizme-dumen-kuran-muhalefetten-ulkeye-hayir-gelmez-2085811"
-   ]
-  },
   {
    "id": "6c19f8b478",
    "post_id": "529346797199852_1478021734437534",
@@ -13001,6 +13060,18 @@
    "sources": [
     "Karar: https://www.karar.com/ekonomi-haberleri/motorinin-ardindan-lpgye-rekor-indirim-geliyor-otogazda-9-liralik-2086285"
    ]
+  },
+  {
+   "id": "368cc68ffc",
+   "post_id": "529346797199852_1480466034193104",
+   "title": "'Mehdi' olarak tanıttı, 'şifa' vaadiyle dolandırdı: Ailesiyle birlikte tutuklandı",
+   "at": "2026-11-25T22:00:49.964954+00:00",
+   "yazim": "claude",
+   "metin": "İzmir'de kendisini \"Mehdi\" olarak tanıtan 30 yaşındaki bir şüpheli ve ailesinden üç kişi tutuklandı.\n\n— Şüpheliye, \"şifa\" vaadiyle bir aileyi yaklaşık 3 milyon lira dolandırmak ve aileden bir kadına cinsel istismarda bulunmak suçlaması yöneltildi. Küçük bir çocuğa şiddet uyguladığı da iddia ediliyor.\n\n— Bir vatandaşın aracını \"büyülü\" olduğu iddiasıyla sattırdığı ve satış parasını kendi hesabına aktardığı belirlendi.\n\n— 23 Kasım'daki operasyonda Şanlıurfa'nın Ceylanpınar ilçesinde gözaltına alınan beş kişiden dördü adliyeye sevk edildikten sonra tutuklandı. Biri adli kontrolle serbest bırakıldı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/mehdi-olarak-tanitti-sifa-vaadiyle-dolandirdi-ailesiyle-birlikte-tutuklandi-2559502",
+    "Evrensel: https://www.evrensel.net/haber/6011228/izmir-de-sifa-vaadiyle-dolandiricilik-ve-cinsel-saldiri-iddialarina-iliskin-4-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13265,7 +13336,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125706283865284987",
+   "since_id": "2125711034765771053",
    "started": true
   },
   "ajansmuhbir1923": {
