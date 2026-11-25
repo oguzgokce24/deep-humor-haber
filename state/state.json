@@ -2,70 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başka",
-    "canda",
-    "karar",
-    "katıl",
-    "parti",
-    "tekir",
-    "yücee"
-   ],
-   "tok": [
-    "akp",
-    "almış",
-    "anlat",
-    "appea",
-    "açık",
-    "beled",
-    "büyük",
-    "canda",
-    "chp",
-    "deleg",
-    "den",
-    "değil",
-    "diken",
-    "etmek",
-    "fazla",
-    "first",
-    "gerek",
-    "getir",
-    "geçen",
-    "geçiş",
-    "göste",
-    "hizme",
-    "ihale",
-    "ikbal",
-    "istif",
-    "istiy",
-    "kasım",
-    "katıl",
-    "kişis",
-    "korku",
-    "kurul",
-    "motiv",
-    "neden",
-    "oranı",
-    "parti",
-    "post",
-    "rozet",
-    "seçil",
-    "takan",
-    "tbb",
-    "tehdi",
-    "tekir",
-    "tepki",
-    "the",
-    "trans",
-    "yazıl",
-    "yönle",
-    "yücee",
-    "yüzde",
-    "ımıza"
-   ],
-   "at": "2026-11-23T18:59:40.591583+00:00"
-  },
-  {
-   "fp": [
     "1",
     "hayva",
     "kavga",
@@ -10670,20 +10606,84 @@
     "şubat"
    ],
    "at": "2026-11-25T06:57:53.580457+00:00"
+  },
+  {
+   "fp": [
+    "2026",
+    "25",
+    "altın",
+    "başla",
+    "borsa",
+    "gram",
+    "güne",
+    "kasım",
+    "nasıl",
+    "yükse"
+   ],
+   "tok": [
+    "abd",
+    "altın",
+    "alış",
+    "avro",
+    "ayrış",
+    "ayın",
+    "banka",
+    "başla",
+    "bekle",
+    "bin",
+    "borsa",
+    "cuma",
+    "değer",
+    "düşük",
+    "düşüş",
+    "endek",
+    "enfla",
+    "etkil",
+    "faiz",
+    "fed",
+    "fiyat",
+    "geril",
+    "gram",
+    "göste",
+    "gözün",
+    "güne",
+    "günü",
+    "günün",
+    "ilişk",
+    "inmiş",
+    "ise",
+    "içind",
+    "işlem",
+    "kasım",
+    "liray",
+    "nasıl",
+    "nin",
+    "nın",
+    "ons",
+    "pce",
+    "piyas",
+    "polit",
+    "satıl",
+    "satış",
+    "seviy",
+    "ulusl",
+    "ver",
+    "verin",
+    "veris",
+    "yatır",
+    "yurt",
+    "yön",
+    "yükse",
+    "yüzde",
+    "çevir",
+    "çeyre",
+    "çıktı",
+    "şekil"
+   ],
+   "at": "2026-11-25T07:10:30.544417+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "abd7ad1239",
-   "post_id": "529346797199852_1477201794519528",
-   "title": "Kayıp olarak aranıyorlardı: 2 çocuk ormanlık alanda bulundu",
-   "at": "2026-11-22T23:45:09.321040+00:00",
-   "yazim": "claude",
-   "metin": "Bursa'nın İnegöl ilçesinde kaybolan iki çocuk ormanlık alanda bulundu.\n\n13 ve 11 yaşındaki çocuklar bisikletleriyle gezerken yollarını kaybetti. Ailelerinin ihbarının ardından jandarma arama başlattı.\n\n— Çocuklar çamur içinde ve üşümüş halde bulundu. Jandarma ekipleri montlarını vererek onları ısıttı.\n— Hastanedeki kontrolde sağlık durumlarının iyi olduğu öğrenildi.\n— İki çocuk işlemlerin ardından ailelerine teslim edildi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kayip-olarak-araniyorlardi-2-cocuk-ormanlik-alanda-bulundu-2558433"
-   ]
-  },
   {
    "id": "a616ab60b8",
    "post_id": "529346797199852_1477208574518850",
@@ -13286,6 +13286,22 @@
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranla-savasi-istedigimiz-zaman-bitirebiliriz/4136637",
     "Karar: https://www.karar.com/dunya-haberleri/trumptan-iran-aciklamasi-bu-savasi-istedigimiz-zaman-bitirebiliriz-2086113"
    ]
+  },
+  {
+   "id": "da065b57ee",
+   "post_id": "529346797199852_1479758520930522",
+   "title": "Altın fiyatlarında yön ayrıştı: Gram altın yükseldi, ons altın geriledi",
+   "at": "2026-11-25T07:10:30.544417+00:00",
+   "yazim": "claude",
+   "metin": "Yurt içinde gram altın güne yükselişle başladı, alış fiyatı 5 bin 808,86 liraya çıktı.\n\n— Çeyrek altının alış fiyatı 9 bin 902 lira, satış fiyatı 10 bin 144 lira.\n— Uluslararası piyasada ons altın yüzde 0,3 düşüşle 3 bin 548,85 dolara geriledi.\n— Ons altın cuma günü 3 bin 502,9 dolara kadar inmişti; bu, son 14 ayın en düşük seviyesi oldu.\n— Yatırımcılar gözünü ABD'nin PCE fiyat endeksi verisine çevirdi, bu verinin Fed'in faiz beklentilerini etkilemesi bekleniyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4136668",
+    "Evrensel: https://www.evrensel.net/haber/6011073/altin-gune-yukselisle-basladi-gram-ceyrek-ve-cumhuriyet-altini-ne-kadar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/gram-altin-ne-kadar-oldu-748304",
+    "Karar: https://www.karar.com/ekonomi-haberleri/altin-fiyatlarinda-yon-ayristi-gram-altin-yukseldi-ons-altin-geriledi-2086100",
+    "Diken: https://www.diken.com.tr/borsa-gune-nasil-basladi-25-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=borsa-gune-nasil-basladi-25-kasim-2026",
+    "Diken: https://www.diken.com.tr/gram-altin-gune-nasil-basladi-25-kasim-2026/?utm_source=rss&utm_medium=rss&utm_campaign=gram-altin-gune-nasil-basladi-25-kasim-2026"
+   ]
   }
  ],
  "fails": {
@@ -13541,7 +13557,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125482508170981845",
+   "since_id": "2125486375990329508",
    "started": true
   },
   "ajansmuhbir1923": {
