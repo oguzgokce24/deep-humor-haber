@@ -10544,23 +10544,68 @@
     "ısına"
    ],
    "at": "2026-11-26T05:13:24.081415+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "ankar",
+    "başke",
+    "fetö",
+    "firar",
+    "opera",
+    "yakal"
+   ],
+   "tok": [
+    "adres",
+    "alına",
+    "anaya",
+    "arana",
+    "aranı",
+    "ardın",
+    "baskı",
+    "başke",
+    "bulun",
+    "cezae",
+    "cezas",
+    "diğer",
+    "düzen",
+    "edile",
+    "ekipl",
+    "emniy",
+    "fetul",
+    "fetö",
+    "firar",
+    "fizik",
+    "hakla",
+    "hapis",
+    "hüküm",
+    "ikisi",
+    "işlem",
+    "kaldı",
+    "kişil",
+    "olmak",
+    "ortad",
+    "sakla",
+    "silah",
+    "takip",
+    "tekni",
+    "terör",
+    "tesli",
+    "tespi",
+    "teşeb",
+    "vakti",
+    "yönel",
+    "yıl",
+    "yıldı",
+    "yılla",
+    "örgüt",
+    "üye",
+    "şafak"
+   ],
+   "at": "2026-11-26T05:25:57.522426+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ea820fce62",
-   "post_id": "529346797199852_1478316341074740",
-   "title": "Büyükçekmece'de depoda çıkan yangın hasara neden oldu",
-   "at": "2026-11-23T22:59:37.185040+00:00",
-   "yazim": "claude",
-   "metin": "Büyükçekmece'de bir binanın giriş bölümündeki depoda yangın çıktı, alevler itfaiye ekiplerince söndürüldü.\n\nYangın, elektrik malzemelerinin tutulduğu depoda henüz belirlenemeyen bir nedenle başladı. Alevleri fark edenlerin ihbarıyla olay yerine itfaiye, polis ve sağlık ekipleri yönlendirildi.\n\n— Bölgeye kısa sürede ulaşan itfaiye ekipleri alevlere müdahale etti.\n— Yangın depoda maddi hasara yol açtı.\n— Yangının çıkış nedeni için inceleme yapılması bekleniyor.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/istanbul-buyukcekmecede-korkutan-yangin-7706559",
-    "Sözcü: https://www.sozcu.com.tr/buyukcekmece-de-depoda-cikan-yangin-hasara-neden-oldu-p383849",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/buyukcekmecede-depoda-yangin-maddi-hasar-olustu-4875844",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/istanbul-buyukcekmecede-korkutan-yangin-7706559"
-   ]
-  },
   {
    "id": "9fdc8a17ee",
    "post_id": "529346797199852_1478324934407214",
@@ -13147,6 +13192,21 @@
     "Sözcü: https://www.sozcu.com.tr/meteorolojiden-uyari-geldi-goz-gozu-gormeyecek-p384473",
     "Evrensel: https://www.evrensel.net/haber/6011237/sicakliklar-4-derece-artacak-meteoroloji-den-sis-ve-pus-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "ccdbe17da8",
+   "post_id": "529346797199852_1480763347496706",
+   "title": "Başkentte FETÖ firarilerine şafak baskını: Yıllardır aranan 3 hükümlü yakalandı",
+   "at": "2026-11-26T05:25:57.522426+00:00",
+   "yazim": "claude",
+   "metin": "Ankara'da FETÖ firarisi 3 hükümlü şafak vakti yakalandı.\n\nPolis, saklandıkları adresleri teknik ve fiziki takiple tespit etti. Yakalananlar, silahlı terör örgütüne üye olmaktan ve anayasal düzeni ortadan kaldırmaya teşebbüsten aranan kişiler.\n\n— Hakkında 18 yıl hapis cezası bulunan bir hükümlü 1 yıldır, diğer ikisi 3 ve 7 yıldır firari olarak aranıyordu.\n— Gözaltına alınan 3 hükümlü, emniyetteki işlemlerinin ardından cezaevine teslim edilecek.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/baskentteki-feto-operasyonunda-3-firari-yakalandi/4138157",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/firari-3-fetocu-ankarada-yakalandi-964494.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/ankarada-feto-operasyonu-3-firari-yakalandi-43391361",
+    "Habertürk: https://www.haberturk.com/gundem/ankara-da-feto-operasyonu-3930200",
+    "Sözcü: https://www.sozcu.com.tr/baskentte-feto-firarilerine-safak-baskini-yillardir-aranan-3-hukumlu-yakalandi-p384482"
+   ]
   }
  ],
  "fails": {
@@ -13418,7 +13478,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125817687855202605",
+   "since_id": "2125822503511597172",
    "started": true
   },
   "ajansmuhbir1923": {
