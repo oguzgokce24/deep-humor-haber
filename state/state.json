@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "demir",
-    "duman",
-    "etkil",
-    "fabri",
-    "işçi",
-    "yangı",
-    "çelik"
-   ],
-   "tok": [
-    "altın",
-    "alıp",
-    "ambul",
-    "başla",
-    "belir",
-    "demir",
-    "duman",
-    "ekipl",
-    "etkil",
-    "fabri",
-    "ilgil",
-    "ilçes",
-    "incel",
-    "itfai",
-    "işçi",
-    "işçiy",
-    "kayna",
-    "kontr",
-    "konus",
-    "mahal",
-    "müdah",
-    "nasıl",
-    "ndeki",
-    "neden",
-    "saatt",
-    "sanay",
-    "sites",
-    "söndü",
-    "sıras",
-    "tekir",
-    "velik",
-    "yakla",
-    "yangı",
-    "çalış",
-    "çelik",
-    "çerke",
-    "çıkan",
-    "çıktı",
-    "çıkış"
-   ],
-   "at": "2026-11-24T21:09:26.791564+00:00"
-  },
-  {
-   "fp": [
     "hava",
     "ihlal",
     "neden",
@@ -10402,21 +10348,84 @@
     "öğütü"
    ],
    "at": "2026-11-26T09:08:53.318460+00:00"
+  },
+  {
+   "fp": [
+    "adli",
+    "başla",
+    "deki",
+    "den",
+    "eskiş",
+    "helik",
+    "ilgil",
+    "kazal",
+    "malat",
+    "msb"
+   ],
+   "tok": [
+    "adli",
+    "ait",
+    "alına",
+    "arayl",
+    "araşt",
+    "asker",
+    "başla",
+    "bildi",
+    "dair",
+    "deki",
+    "den",
+    "derhâ",
+    "dikka",
+    "düşen",
+    "düştü",
+    "ekipl",
+    "eskiş",
+    "eğiti",
+    "gerçe",
+    "gün",
+    "hava",
+    "helik",
+    "heyet",
+    "idari",
+    "ilgil",
+    "ilişk",
+    "incel",
+    "kalkı",
+    "kamuo",
+    "kara",
+    "kasım",
+    "kazal",
+    "kuvve",
+    "kırım",
+    "kısa",
+    "malat",
+    "milli",
+    "msb",
+    "nda",
+    "neden",
+    "olası",
+    "payla",
+    "savcı",
+    "savun",
+    "sonuç",
+    "sürdü",
+    "süre",
+    "süreç",
+    "sürüy",
+    "tahki",
+    "tamam",
+    "tepeb",
+    "titiz",
+    "türlü",
+    "uçuşu",
+    "uğrad",
+    "yeşil",
+    "şehit"
+   ],
+   "at": "2026-11-26T09:21:27.668543+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e0cd0bee48",
-   "post_id": "529346797199852_1478493477723693",
-   "title": "Yem karma makinesine düşen çoban hayatını kaybetti",
-   "at": "2026-11-24T03:24:50.289106+00:00",
-   "yazim": "claude",
-   "metin": "Şanlıurfa'nın Siverek ilçesinde bir çiftlikte, yem karma makinesine düşen 22 yaşındaki Afgan çoban hayatını kaybetti.\n\nOlay yerine sağlık ve jandarma ekipleri gitti. Ekipler çobanın öldüğünü belirledi.\n\n— Çoban olarak çalışan genç, Aşağıyalankoz Mahallesi'ndeki çiftlikte makineye düştü.\n— Olayla ilgili inceleme başlatıldı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/yem-karma-makinesine-dusen-coban-hayatini-kaybetti-p383859",
-    "Evrensel: https://www.evrensel.net/haber/6010897/urfa-da-is-cinayeti-yem-karma-makinesine-dusen-22-yasindaki-gocmen-coban-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "5c5d9527e7",
    "post_id": "529346797199852_1478503697722671",
@@ -13048,6 +13057,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/yeni-parti-milletvekili-namik-tan-in-oglu-aras-tan-gozaltina-alindi-2559580",
     "Yeni Şafak: https://www.yenisafak.com/gundem/yeni-partili-namik-tanin-ogluna-uyusturucu-gozaltisi-4876704"
    ]
+  },
+  {
+   "id": "ca5fe28583",
+   "post_id": "529346797199852_1480925170813857",
+   "title": "Son dakika... MSB'den helikopter kazalarıyla ilgili açıklama",
+   "at": "2026-11-26T09:21:27.668543+00:00",
+   "yazim": "claude",
+   "metin": "Malatya ve Eskişehir'de 12 gün arayla düşen iki askeri helikopterde 9 asker şehit oldu.\n\n— 12 Kasım'da Malatya Yeşilyurt'ta Kara Kuvvetleri'ne ait S-70 helikopteri kalkıştan kısa süre sonra kaza kırıma uğradı, 4 asker şehit oldu.\n— 24 Kasım'da Eskişehir Tepebaşı'nda eğitim uçuşundaki Hava Kuvvetleri'ne ait AS-532 helikopteri düştü, 5 asker şehit oldu.\n— MSB, idari tahkikat heyetlerinin ve kaza kırım ekiplerinin incelemesinin sürdüğünü, savcılıkların da iki kaza için soruşturma başlattığını bildirdi.\n— Bakanlık, kazaların nedenlerinin \"her türlü olasılık dikkate alınarak\" araştırıldığını, sonuçların tamamlanınca kamuoyuyla paylaşılacağını açıkladı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/gundem/msb-malatya-ve-eskisehirdeki-helikopter-kazalariyla-ilgili-adli-sorusturma-baslatildi-964523.html",
+    "Milliyet: https://www.milliyet.com.tr/gundem/malatya-ve-eskisehirdeki-helikopter-kazalariyla-ilgili-msbden-aciklama-7708412",
+    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-msb-helikopter-kazalari-arastiriliyor-3498475",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/26/msbden-helikopter-kazalarina-iliskin-aciklama-derhal-adli-ve-idari-surecler-baslatilmistir",
+    "NTV: https://www.ntv.com.tr/turkiye/msbden-helikopter-kazalarina-iliskin-aciklama-1752701",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-msb-601-kisi-yakalandi-3930288"
+   ]
   }
  ],
  "fails": {
@@ -13319,7 +13344,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125878145379336516",
+   "since_id": "2125881934702096636",
    "started": true
   },
   "ajansmuhbir1923": {
