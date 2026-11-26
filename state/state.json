@@ -2,68 +2,6 @@
  "seen": [
   {
    "fp": [
-    "kaçtı",
-    "kesen",
-    "koval",
-    "nefes",
-    "otomo",
-    "polis",
-    "saat",
-    "sürdü",
-    "yarım",
-    "çarpı"
-   ],
-   "tok": [
-    "anlar",
-    "ardın",
-    "başla",
-    "belir",
-    "buldu",
-    "cadde",
-    "dur",
-    "durdu",
-    "ekipl",
-    "gerçe",
-    "görül",
-    "görün",
-    "götür",
-    "hisar",
-    "ihtar",
-    "kamer",
-    "kapıö",
-    "kayse",
-    "kaçan",
-    "kaçma",
-    "kaçtı",
-    "kesen",
-    "koval",
-    "kıran",
-    "mahal",
-    "nde",
-    "nefes",
-    "numar",
-    "otomo",
-    "plaka",
-    "saat",
-    "sahte",
-    "sürdü",
-    "süren",
-    "sürüc",
-    "takib",
-    "takip",
-    "takıl",
-    "uymay",
-    "yakla",
-    "yansı",
-    "yarım",
-    "çalış",
-    "çarpa",
-    "çarpı"
-   ],
-   "at": "2026-11-25T01:28:09.553723+00:00"
-  },
-  {
-   "fp": [
     "akade",
     "alınd",
     "başka",
@@ -10381,25 +10319,87 @@
     "ölümü"
    ],
    "at": "2026-11-26T13:17:00.516467+00:00"
+  },
+  {
+   "fp": [
+    "geliş",
+    "hazır",
+    "ortak",
+    "rusya",
+    "türki"
+   ],
+   "tok": [
+    "alanı",
+    "aldı",
+    "aleks",
+    "alpar",
+    "alınd",
+    "ayrıc",
+    "açıla",
+    "açılı",
+    "bayra",
+    "başba",
+    "başlı",
+    "birli",
+    "biçim",
+    "bölge",
+    "cevde",
+    "deki",
+    "devam",
+    "dönem",
+    "ekono",
+    "enerj",
+    "etmey",
+    "fabri",
+    "gebze",
+    "geliş",
+    "giriş",
+    "görüş",
+    "güven",
+    "hazır",
+    "ihtis",
+    "ikili",
+    "ilişk",
+    "istik",
+    "işbir",
+    "kapsa",
+    "karma",
+    "karşı",
+    "katıl",
+    "kayna",
+    "kazan",
+    "kimya",
+    "kocae",
+    "komis",
+    "konuş",
+    "malei",
+    "nda",
+    "nde",
+    "novak",
+    "nun",
+    "nın",
+    "ortak",
+    "petro",
+    "planl",
+    "rusya",
+    "sanay",
+    "saygı",
+    "sonuç",
+    "tabii",
+    "temas",
+    "temel",
+    "ticar",
+    "topla",
+    "tür",
+    "yardı",
+    "yılma",
+    "ziyar",
+    "çalış"
+   ],
+   "at": "2026-11-26T13:29:32.546921+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f43d9d4001",
-   "post_id": "529346797199852_1478690624370645",
-   "title": "Adalet Bakanlığı odaklı 'FETÖ' operasyonu: 20 gözaltı",
-   "at": "2026-11-24T07:45:45.821274+00:00",
-   "yazim": "claude",
-   "metin": "Ankara merkezli operasyonda, FETÖ'nün Adalet Bakanlığı'na personel yerleştirme faaliyetine yönelik soruşturmada 20 şüpheli gözaltına alındı.\n\n— Gözaltı kararları, gizli tanık Albatros'tan elde edilen verilere göre çıkarıldı.\n— Operasyon Ankara merkezli üç ilde eş zamanlı olarak düzenlendi ve şüphelilerin tamamı gözaltına alındı.\n— Ankara Cumhuriyet Başsavcılığı, soruşturmanın çok yönlü ve titizlikle sürdürüldüğünü bildirdi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/fetonun-adalet-bakanligina-personel-yerlestirme-faaliyetine-iliskin-sorusturmada-20-gozalti/4135307",
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/ankara-merkezli-feto-operasyonu-20-gozalti-964264.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/gizli-tanik-albatros-verileriyle-feto-3-ilde-operasyon-20-gozalti-43388812",
-    "Milliyet: https://www.milliyet.com.tr/gundem/ankara-merkezli-3-ilde-feto-operasyonu-20-supheli-gozaltina-alindi-7706695",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-3-ilde-feto-operasyonu-20-gozalti-3929631",
-    "Sözcü: https://www.sozcu.com.tr/son-dakika-ankara-merkezli-3-ilde-feto-operasyonu-20-gozalti-p383932"
-   ]
-  },
   {
    "id": "e237094aa0",
    "post_id": "529346797199852_1478698561036518",
@@ -13070,6 +13070,19 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/sakarya-da-20-kopek-olu-bulundu-valilikten-aciklama-geldi-2559606",
     "Evrensel: https://www.evrensel.net/haber/6011298/kaynarca-da-barinakta-20-kopegin-olumune-iliskin-sorusturma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "6b181b3b07",
+   "post_id": "529346797199852_1481134197459621",
+   "title": "Rusya: Türkiye ile ortaklığı geliştirmeye hazırız",
+   "at": "2026-11-26T13:29:32.546921+00:00",
+   "yazim": "claude",
+   "metin": "Rusya Başbakan Yardımcısı Aleksandr Novak, Türkiye ile ortaklık için:\n\n“Bu tür girişimleri birlikte sonuçlandırabilmemiz ilişkilerimize istikrar kazandırıyor. Rusya, karşılıklı saygı ve güven temelinde bu ortaklığı geliştirmeye devam etmeye hazır.”\n\n— Novak, Türkiye'deki çalışma ziyareti kapsamında Cumhurbaşkanı Yardımcısı Cevdet Yılmaz ve Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar ile görüştü.\n— Görüşmelerde ticaret, ekonomi ve enerji alanındaki işbirliği ele alındı.\n— Novak, Türkiye-Rusya Karma Ekonomik Komisyonu'nun 20. Dönem Toplantısı'nda ikili ilişkilerin tüm başlıklarını kapsamlı biçimde konuşmayı planladıklarını söyledi.\n— Novak ayrıca Kocaeli'deki Gebze Kimya İhtisas Sanayi Bölgesi'nde açılan TN Maleik Petrokimya Fabrikası'nın açılışına katıldı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/rusya-turkiye-ile-ortakligi-gelistirmeye-haziriz/4138720",
+    "CNN Türk: https://www.cnnturk.com/dunya/rusya-basbakan-yardimcisi-novak-turkiye-ile-ortakligi-gelistirmeye-haziriz-3498647",
+    "Karar: https://www.karar.com/guncel-haberler/rusya-turkiye-ile-ortakligi-gelistirmeye-haziriz-2086412"
+   ]
   }
  ],
  "fails": {
@@ -13342,7 +13355,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125939465382183282",
+   "since_id": "2125943265233174920",
    "started": true
   },
   "ajansmuhbir1923": {
