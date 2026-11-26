@@ -2,109 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bursa",
-    "daire",
-    "gayri",
-    "icra",
-    "müdür",
-    "satış",
-    "vergi"
-   ],
-   "tok": [
-    "antal",
-    "beşik",
-    "bursa",
-    "daire",
-    "gayri",
-    "gazie",
-    "icra",
-    "karat",
-    "kurum",
-    "memur",
-    "müdür",
-    "satış",
-    "vergi"
-   ],
-   "at": "2026-11-24T23:39:32.670881+00:00"
-  },
-  {
-   "fp": [
-    "abd",
-    "banka",
-    "beraa",
-    "dolan",
-    "huawe",
-    "mahku",
-    "suç",
-    "suçla",
-    "sır",
-    "ticar",
-    "örgüt"
-   ],
-   "tok": [
-    "abd",
-    "ardın",
-    "avuka",
-    "ağır",
-    "banka",
-    "başar",
-    "beraa",
-    "brian",
-    "buldu",
-    "bölge",
-    "dayan",
-    "devi",
-    "dolan",
-    "doğru",
-    "doğu",
-    "edece",
-    "etmiy",
-    "göste",
-    "hafta",
-    "heber",
-    "hiçbi",
-    "huawe",
-    "hırsı",
-    "iddia",
-    "ise",
-    "itira",
-    "jüri",
-    "kabul",
-    "mahku",
-    "nde",
-    "new",
-    "nin",
-    "olgus",
-    "olmad",
-    "racke",
-    "suç",
-    "suçla",
-    "suçlu",
-    "süren",
-    "sır",
-    "tekno",
-    "temel",
-    "ticar",
-    "tutar",
-    "tutum",
-    "ulaşm",
-    "yanlı",
-    "yapar",
-    "yaptı",
-    "yargı",
-    "yoksu",
-    "york",
-    "yılda",
-    "çalma",
-    "çete",
-    "çinli",
-    "örgüt",
-    "şirke"
-   ],
-   "at": "2026-11-24T23:39:39.475250+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "bırak",
     "fonza",
@@ -10329,20 +10226,72 @@
     "ülkel"
    ],
    "at": "2026-11-26T11:38:04.797722+00:00"
+  },
+  {
+   "fp": [
+    "arana",
+    "cesed",
+    "kayıp",
+    "kütah",
+    "çoban"
+   ],
+   "tok": [
+    "acil",
+    "acı",
+    "adam",
+    "afad",
+    "alama",
+    "arama",
+    "arana",
+    "ardın",
+    "bağlı",
+    "belde",
+    "beled",
+    "beri",
+    "beyoğ",
+    "bildi",
+    "bulun",
+    "cesed",
+    "deres",
+    "devam",
+    "durum",
+    "dün",
+    "dünde",
+    "ekipl",
+    "evind",
+    "gönde",
+    "hasta",
+    "hayva",
+    "ilçes",
+    "incel",
+    "kayıp",
+    "kütah",
+    "mehme",
+    "mevki",
+    "morgu",
+    "naaşı",
+    "nın",
+    "ondan",
+    "otlat",
+    "oğlak",
+    "sabah",
+    "tavşa",
+    "tunçb",
+    "ulaşı",
+    "uzun",
+    "yakın",
+    "yapan",
+    "yaşın",
+    "yılla",
+    "çalış",
+    "çağrı",
+    "çoban",
+    "çıkmı"
+   ],
+   "at": "2026-11-26T11:50:40.101079+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9b0845024f",
-   "post_id": "529346797199852_1478620547710986",
-   "title": "GTA 6'yı sızdıran hacker'a 7 yıl hapis cezası: Otel odasından milyonluk saldırı yaptı",
-   "at": "2026-11-24T06:03:08.689958+00:00",
-   "yazim": "claude",
-   "metin": "İngiltere'de GTA 6'nın videolarını ele geçiren 21 yaşındaki bir hackere 7 yıl hapis cezası verildi.\n\n— Londra'daki Woolwich Kraliyet Mahkemesi, büyük teknoloji ve oyun şirketlerine yönelik saldırıları kabul eden gence bu cezayı verdi.\n\n— Genç, 2021-2022 yılları arasında Rockstar Games, BT/EE, Revolut ve Uber'in sistemlerine saldırdı. Koruma altında tutulduğu bir otel odasından da saldırılarını sürdürdü.\n\n— Rockstar Games'e doğrudan maliyeti 1,5 milyon dolar olan saldırıda, GTA 6'ya ait 90 video ele geçirildi.\n\n— Yargıç Mark Turner, gence şöyle seslendi: \"Çok yetenekli bir genç olduğun açık. Bu yeteneklerini hayatının geri kalanını hapishaneye girip çıkarak harcamak için kullanma.\"",
-   "sources": [
-    "Karar: https://www.karar.com/dunya-haberleri/gta-6yi-sizdiran-hackera-7-yil-hapis-cezasi-otel-odasindan-milyonluk-2085852"
-   ]
-  },
   {
    "id": "ec2557a01d",
    "post_id": "529346797199852_1478629264376781",
@@ -13008,6 +12957,19 @@
     "BirGün: https://www.birgun.net/haber/turkiye-ab-vize-serbestisinde-yeni-asama-kritik-duzenleme-yolda-748586",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/avrupaya-vizesiz-seyahat-icin-son-6-adim-43391721"
    ]
+  },
+  {
+   "id": "b8c6ced1ac",
+   "post_id": "529346797199852_1481042857468755",
+   "title": "Kütahya'da kayıp olarak aranan çobanın cansız bedenine ulaşıldı",
+   "at": "2026-11-26T11:50:40.101079+00:00",
+   "yazim": "claude",
+   "metin": "Kütahya'nın Tavşanlı ilçesinde dünden beri kayıp aranan 55 yaşındaki bir çobanın cansız bedenine ulaşıldı.\n\nTunçbilek beldesine bağlı Beyoğlu Deresi Oğlaktaşı mevkisinde uzun yıllardır çobanlık yapan adam, dün sabah hayvanlarını otlatmak için evinden çıkmıştı. Yakınları ondan haber alamayınca durumu 112 Acil Çağrı Merkezi'ne bildirdi.\n\n— AFAD, jandarma ve Tunçbilek Belediyesi ekipleri aramaya devam etti.\n— Arama çalışmalarında çobanın cansız bedeni bulundu.\n— Naaşı incelemelerin ardından hastane morguna gönderildi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/yerel-haberler/kutahya/kutahyada-kayip-olarak-aranan-cobanin-cesedi-bulundu-3498546",
+    "Habertürk: https://www.haberturk.com/gundem/kutahya-da-kayip-cobandan-aci-haber-3930325",
+    "Evrensel: https://www.evrensel.net/haber/6011310/kutahya-da-kayip-olarak-aranan-cobanin-cansiz-bedenine-ulasildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13280,7 +13242,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125914993321533620",
+   "since_id": "2125920005737029892",
    "started": true
   },
   "ajansmuhbir1923": {
