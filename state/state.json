@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "batı",
-    "fırtı",
-    "karad",
-    "meteo",
-    "uyarı"
-   ],
-   "tok": [
-    "akden",
-    "aksam",
-    "antal",
-    "batı",
-    "bekle",
-    "bulun",
-    "bölge",
-    "dikka",
-    "doğu",
-    "esmes",
-    "etkis",
-    "fırtı",
-    "gece",
-    "genel",
-    "ila",
-    "isten",
-    "itiba",
-    "karad",
-    "kuvve",
-    "kuzey",
-    "körfe",
-    "meteo",
-    "müdür",
-    "olunm",
-    "rüzga",
-    "saat",
-    "saatl",
-    "ulaşı",
-    "uyarı",
-    "verdi",
-    "yarın",
-    "yaşan",
-    "yitir",
-    "yönle",
-    "öngör",
-    "öğle"
-   ],
-   "at": "2026-11-24T15:03:43.198080+00:00"
-  },
-  {
-   "fp": [
     "6",
     "antal",
     "heyel",
@@ -13245,19 +13197,11 @@
   "f860003b35": 1,
   "c7531d98af": 2,
   "d2ce64f093": 1,
-  "81eed19780": 2,
-  "9d3fcdba21": 1,
-  "fe7b38d14a": 1
+  "81eed19780": 3,
+  "9d3fcdba21": 2,
+  "fe7b38d14a": 2
  },
  "fail_log": [
-  "2026-11-25T23:52 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
-  "2026-11-25T23:52 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
-  "2026-11-25T23:52 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
-  "2026-11-25T23:52 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
-  "2026-11-25T23:52 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
-  "2026-11-25T23:52 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
-  "2026-11-26T00:05 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
-  "2026-11-26T00:05 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
   "2026-11-26T00:05 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-26T00:05 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
   "2026-11-26T00:05 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
@@ -13289,7 +13233,15 @@
   "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı"
+  "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:04 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:04 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:04 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:04 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:04 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:04 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:04 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:04 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
