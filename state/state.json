@@ -10414,6 +10414,77 @@
     "şanta"
    ],
    "at": "2026-11-26T04:02:51.256177+00:00"
+  },
+  {
+   "fp": [
+    "altın",
+    "dalga",
+    "dev",
+    "evler",
+    "gelgi",
+    "kaldı",
+    "kalif",
+    "kıyıl",
+    "sokak",
+    "sular"
+   ],
+   "tok": [
+    "altın",
+    "beled",
+    "bölüm",
+    "dev",
+    "etkis",
+    "evler",
+    "fırtı",
+    "gelgi",
+    "iskel",
+    "kaldı",
+    "kalif",
+    "kalır",
+    "kıyıl",
+    "olağa",
+    "pacif",
+    "sokak",
+    "sular",
+    "yükse",
+    "çöktü"
+   ],
+   "at": "2026-11-26T04:06:42.801255+00:00"
+  },
+  {
+   "fp": [
+    "alkol",
+    "arası",
+    "bindi",
+    "devre",
+    "değiş",
+    "hakem",
+    "kalec",
+    "küple",
+    "milli"
+   ],
+   "tok": [
+    "alan",
+    "alkol",
+    "arası",
+    "bindi",
+    "davet",
+    "desta",
+    "devre",
+    "değiş",
+    "ersin",
+    "forma",
+    "hakem",
+    "jazir",
+    "kalec",
+    "kulüb",
+    "küple",
+    "maçta",
+    "milli",
+    "serge",
+    "yalçı"
+   ],
+   "at": "2026-11-26T04:06:51.775117+00:00"
   }
  ],
  "posted": [
@@ -13240,13 +13311,9 @@
   "f860003b35": 1,
   "c7531d98af": 2,
   "d2ce64f093": 1,
-  "bb9271d2f5": 2,
-  "ed01893b2f": 2
+  "ed01893b2f": 3
  },
  "fail_log": [
-  "2026-11-26T03:00 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
@@ -13283,7 +13350,10 @@
   "2026-11-26T04:02 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
   "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
   "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı"
+  "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
