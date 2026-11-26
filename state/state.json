@@ -13245,18 +13245,11 @@
   "f860003b35": 1,
   "c7531d98af": 2,
   "d2ce64f093": 1,
-  "81eed19780": 1
+  "81eed19780": 2,
+  "9d3fcdba21": 1,
+  "fe7b38d14a": 1
  },
  "fail_log": [
-  "2026-11-25T22:38 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:38 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:38 TÜMTİS’ten 29 Kasım çağrısı: “Ortak sorunlarımız etrafında m -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı",
-  "2026-11-25T22:51 Emre Belözoğlu: \"Arda Turan kardeşim diye söylemiyorum çok i -> ValueError: yanıt okunamadı",
-  "2026-11-25T23:04 Vedat Muriqi: \"Sanki Kadıköy'de oynadık\" -> ValueError: cümle yarım kalmış: '— Kocaelispor be'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-25T23:52 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
   "2026-11-25T23:52 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
   "2026-11-25T23:52 Kuraklık etkilemiyor, yağı ve küspesi kazandırıyor: Üreticin -> ValueError: yanıt okunamadı",
@@ -13287,7 +13280,16 @@
   "2026-11-26T02:49 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
   "2026-11-26T02:49 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
   "2026-11-26T02:49 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
-  "2026-11-26T02:49 10 kanun tek teklifte toplandı: Görüşmeler başladı -> ValueError: cümle yarım kalmış: '“Torba altında çorba”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-26T02:49 10 kanun tek teklifte toplandı: Görüşmeler başladı -> ValueError: cümle yarım kalmış: '“Torba altında çorba”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-26T03:00 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:00 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:00 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
