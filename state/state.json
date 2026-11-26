@@ -10518,6 +10518,49 @@
     "üçünc"
    ],
    "at": "2026-11-26T04:43:18.056648+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "aydın",
+    "boşal",
+    "erdoğ",
+    "etraf",
+    "işlem",
+    "kapıs",
+    "kilit",
+    "nin",
+    "vurma",
+    "yapıl",
+    "yaşar"
+   ],
+   "tok": [
+    "akp",
+    "aydın",
+    "bloku",
+    "boşal",
+    "devam",
+    "diken",
+    "erdoğ",
+    "etraf",
+    "grup",
+    "grupl",
+    "iktid",
+    "işlem",
+    "kapıs",
+    "kazan",
+    "kilit",
+    "nin",
+    "post",
+    "seçim",
+    "the",
+    "vedal",
+    "vermi",
+    "vurma",
+    "yapıl",
+    "yaşar"
+   ],
+   "at": "2026-11-26T04:46:40.507124+00:00"
   }
  ],
  "posted": [
@@ -13343,18 +13386,10 @@
   "d2ce64f093": 1,
   "628d88af6f": 1,
   "af4ae44181": 1,
-  "a963bfcdb6": 2
+  "76d473b6cf": 1,
+  "6dc3bb7c7f": 1
  },
  "fail_log": [
-  "2026-11-26T03:49 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:49 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:49 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:02 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:02 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:02 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
   "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
   "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
   "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
@@ -13385,7 +13420,16 @@
   "2026-11-26T04:43 Murat Muratoğlu: Türkiye'de adaletin kantarı -> ValueError: yanıt okunamadı",
   "2026-11-26T04:43 Esfender Korkmaz: 100 milyar dolar döviz girişi olmazsa dış  -> ValueError: yanıt okunamadı",
   "2026-11-26T04:43 Esfender Korkmaz: 100 milyar dolar döviz girişi olmazsa dış  -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:43 Esfender Korkmaz: 100 milyar dolar döviz girişi olmazsa dış  -> ValueError: yanıt okunamadı"
+  "2026-11-26T04:43 Esfender Korkmaz: 100 milyar dolar döviz girişi olmazsa dış  -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Yaşar Aydın: Erdoğan'ın etrafını boşaltma işlemi AKP'nin kap -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Yaşar Aydın: Erdoğan'ın etrafını boşaltma işlemi AKP'nin kap -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Yaşar Aydın: Erdoğan'ın etrafını boşaltma işlemi AKP'nin kap -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Atilla Özsever: 29 Kasım'daki Kartal mitingi işçi sınıfı örg -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Atilla Özsever: 29 Kasım'daki Kartal mitingi işçi sınıfı örg -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Atilla Özsever: 29 Kasım'daki Kartal mitingi işçi sınıfı örg -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Alaattin Aktaş: Fon krizi ekonomiyi durdurmaya doğru gidiyor -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Alaattin Aktaş: Fon krizi ekonomiyi durdurmaya doğru gidiyor -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:46 Alaattin Aktaş: Fon krizi ekonomiyi durdurmaya doğru gidiyor -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
