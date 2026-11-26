@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "alını",
-    "artvi",
-    "davas",
-    "ertel",
-    "gazet",
-    "götür",
-    "gözal",
-    "imza",
-    "kalkt",
-    "şartı"
-   ],
-   "tok": [
-    "adli",
-    "alınd",
-    "alını",
-    "ardın",
-    "artvi",
-    "başla",
-    "bugün",
-    "davas",
-    "devam",
-    "dışın",
-    "edece",
-    "ertel",
-    "gazet",
-    "geçen",
-    "görül",
-    "götür",
-    "heyet",
-    "imza",
-    "ise",
-    "kaldı",
-    "kalkt",
-    "kontr",
-    "sanık",
-    "savun",
-    "sene",
-    "tarih",
-    "tedbi",
-    "verdi",
-    "yasağ",
-    "yurt",
-    "yurtd",
-    "yıl",
-    "çıkma",
-    "şartl",
-    "şartı",
-    "şubat"
-   ],
-   "at": "2026-11-24T16:14:43.815168+00:00"
-  },
-  {
-   "fp": [
     "4",
     "6",
     "büyük",
@@ -10570,22 +10517,61 @@
     "çıktı"
    ],
    "at": "2026-11-26T04:10:34.846434+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "313",
+    "bin",
+    "gündü",
+    "hapis",
+    "kaval",
+    "osman"
+   ],
+   "tok": [
+    "aktiv",
+    "alına",
+    "appea",
+    "aralı",
+    "avrup",
+    "bin",
+    "bırak",
+    "cezae",
+    "daval",
+    "derha",
+    "diken",
+    "edilm",
+    "ekim",
+    "farkl",
+    "first",
+    "gazia",
+    "gönde",
+    "gündü",
+    "hakla",
+    "hapis",
+    "insan",
+    "itiba",
+    "kasım",
+    "kaval",
+    "linka",
+    "nın",
+    "osman",
+    "post",
+    "rağme",
+    "serbe",
+    "siliv",
+    "site",
+    "sivil",
+    "tahli",
+    "the",
+    "toplu",
+    "verdi",
+    "yenid"
+   ],
+   "at": "2026-11-26T04:23:16.256540+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "fb8f5d5017",
-   "post_id": "529346797199852_1478291944410513",
-   "title": "Finale adım adım: MasterChef Türkiye'de yeni haftanın kaptanı belli oldu!",
-   "at": "2026-11-23T22:20:54.753684+00:00",
-   "yazim": "claude",
-   "metin": "MasterChef Türkiye'de kaptanlık oyununu Muhammed kazandı ve mavi takımın kaptanı oldu. Şeflerin değerlendirmesinden en başarılı tabağı çıkaran Muhammed, bu hafta takımını yönetecek.\n\n— Mavi takımın kaptanı, karşı takımın kaptanını da kendisi seçti. Seçilen isim Eyyüp Can oldu.\n— Bölüm 23 Kasım Pazartesi akşamı yayımlandı.\n— Bir önceki hafta, 22 Kasım akşamı Şükran yarışmaya veda etti.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/bilgi/masterchef-kim-elendi-kim-gitti-22-kasim-2026-masterchef-turkiye-de-elenen-isim-aciklandi-mi-3929270",
-    "Habertürk: https://www.haberturk.com/bilgi/foto/masterchef-kaptanlik-oyununu-kim-kazandi-23-kasim-masterchef-turkiye-kirmizi-ve-mavi-takim-kaptani-kim-oldu-3929575",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-kaptanlik-oyunu-kim-kazandi-23-kasim-pazartesi-masterchef-turkiye-haftanin-takimlari-2558790"
-   ]
-  },
   {
    "id": "de85718432",
    "post_id": "529346797199852_1478300111076363",
@@ -13175,6 +13161,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/asrin-vurgunu-iktidarin-ayagina-dolandi-748508"
    ]
+  },
+  {
+   "id": "92d5725981",
+   "post_id": "529346797199852_1480719674167740",
+   "title": "Osman Kavala 3 bin 313 gündür hapiste",
+   "at": "2026-11-26T04:23:16.256540+00:00",
+   "yazim": "claude",
+   "metin": "Sivil toplum ve insan hakları aktivisti Osman Kavala 3 bin 313 gündür tutuklu.\n\nKavala, 26 Kasım 2026 itibarıyla bu kadar gündür cezaevinde.\n\n— 18 Ekim 2017'de Gaziantep'te gözaltına alınan Kavala, 1 Kasım'da tutuklanarak Silivri Cezaevi'ne gönderildi.\n— Avrupa İnsan Hakları Mahkemesi, 10 Aralık 2019'da Kavala'nın derhal serbest bırakılmasına karar verdi.\n— Bu karara rağmen tahliye edilmedi, farklı davalarda yeniden tutuklandı.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/osman-kavala-3-bin-313-gundur-hapiste/?utm_source=rss&utm_medium=rss&utm_campaign=osman-kavala-3-bin-313-gundur-hapiste"
+   ]
   }
  ],
  "fails": {
@@ -13398,7 +13395,6 @@
   "628d88af6f": 1
  },
  "fail_log": [
-  "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
@@ -13437,7 +13433,8 @@
   "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
   "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
   "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı"
+  "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:23 Osman Kavala 3 bin 313 gündür hapiste -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
