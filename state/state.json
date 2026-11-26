@@ -13341,15 +13341,11 @@
   "ebfdee55f4": 1,
   "9e3d32e862": 1,
   "1b5914a474": 1,
-  "6aadca8b10": 1
+  "6aadca8b10": 2,
+  "19b51bed12": 1,
+  "d4073ef647": 1
  },
  "fail_log": [
-  "2026-11-26T11:13 Türkiye'nin güneş enerjisi kurulu gücünün yüzde 10'u Konya'd -> ValueError: yanıt okunamadı",
-  "2026-11-26T11:13 Türkiye'nin güneş enerjisi kurulu gücünün yüzde 10'u Konya'd -> ValueError: yanıt okunamadı",
-  "2026-11-26T11:13 Küresel sıcaklıkta tarihi rekor: Dünya 2 derece eşiğinin üze -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-26T12:16 İsrail'den İran'a açık saldırı tehdidi: ABD olmadan da hazır -> ValueError: cümle yarım kalmış: 'KATEGORİ: DÜNYA'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-26T14:37 YÖK’ten kayıt hakkını kullanamayan öğrencilere yeni hak -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-26T14:37 YÖK’ten kayıt hakkını kullanamayan öğrencilere yeni hak -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-26T14:50 Bangkok'ta petrol tesisinde patlama: 4'ü ağır, 7 kişi yarala -> ValueError: yanıt okunamadı",
   "2026-11-26T14:50 Bangkok'ta petrol tesisinde patlama: 4'ü ağır, 7 kişi yarala -> ValueError: yanıt okunamadı",
   "2026-11-26T14:50 Bangkok'ta petrol tesisinde patlama: 4'ü ağır, 7 kişi yarala -> ValueError: yanıt okunamadı",
@@ -13383,12 +13379,18 @@
   "2026-11-26T19:00 SON DAKİKA | Galatasaray, Beşiktaş’ın yanında olduğunu açıkl -> ValueError: yanıt okunamadı",
   "2026-11-26T19:00 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı",
   "2026-11-26T19:00 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı",
-  "2026-11-26T19:00 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı"
+  "2026-11-26T19:00 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı",
+  "2026-11-26T19:04 YENİ Parti’nin süreç kararı neden doğru: Burak Bilgehan Özpe -> ValueError: yanıt okunamadı",
+  "2026-11-26T19:04 YENİ Parti’nin süreç kararı neden doğru: Burak Bilgehan Özpe -> ValueError: yanıt okunamadı",
+  "2026-11-26T19:04 YENİ Parti’nin süreç kararı neden doğru: Burak Bilgehan Özpe -> ValueError: yanıt okunamadı",
+  "2026-11-26T19:04 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı",
+  "2026-11-26T19:04 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı",
+  "2026-11-26T19:04 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126026497668321617",
+   "since_id": "2126028678710911269",
    "started": true
   },
   "ajansmuhbir1923": {
