@@ -2,86 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ahmet",
-    "alınd",
-    "bürün",
-    "gözal",
-    "kaya",
-    "nın",
-    "sabah",
-    "sayan",
-    "sedas",
-    "sessi",
-    "sonra",
-    "tahli",
-    "tan",
-    "tayya",
-    "yazar",
-    "şamil",
-    "şık"
-   ],
-   "tok": [
-    "ahmet",
-    "aile",
-    "alınd",
-    "ayağı",
-    "belir",
-    "betül",
-    "birin",
-    "bürün",
-    "büyük",
-    "durum",
-    "edilm",
-    "ekono",
-    "eleşt",
-    "eski",
-    "fatma",
-    "fon",
-    "gazet",
-    "göre",
-    "görün",
-    "gün",
-    "hapsi",
-    "hisse",
-    "ifade",
-    "isten",
-    "kaldı",
-    "kaya",
-    "kılın",
-    "mille",
-    "nın",
-    "parça",
-    "polit",
-    "sabah",
-    "savun",
-    "sayan",
-    "sağlı",
-    "sedas",
-    "sessi",
-    "siyas",
-    "sonra",
-    "sosya",
-    "soygu",
-    "tahli",
-    "tan",
-    "tarih",
-    "tayya",
-    "tip",
-    "verdi",
-    "yalnı",
-    "yazar",
-    "çabas",
-    "örtül",
-    "ülke",
-    "üzeri",
-    "şamil",
-    "şartı",
-    "şık"
-   ],
-   "at": "2026-11-24T15:29:38.226934+00:00"
-  },
-  {
-   "fp": [
     "mı5",
     "rusya",
     "savun",
@@ -10533,22 +10453,63 @@
     "öğret"
    ],
    "at": "2026-11-26T03:24:18.319622+00:00"
+  },
+  {
+   "fp": [
+    "bakan",
+    "halin",
+    "ihrac",
+    "rekor",
+    "unutt",
+    "yumak",
+    "çiftç",
+    "övünd",
+    "üreti"
+   ],
+   "tok": [
+    "adana",
+    "ayhan",
+    "ayrıl",
+    "barut",
+    "borç",
+    "bütçe",
+    "deste",
+    "değil",
+    "faizc",
+    "faize",
+    "halin",
+    "ibrah",
+    "ihrac",
+    "ithal",
+    "katı",
+    "kazan",
+    "komis",
+    "konuş",
+    "kopma",
+    "mille",
+    "net",
+    "orman",
+    "parti",
+    "payın",
+    "rakam",
+    "rekor",
+    "söylü",
+    "tam",
+    "tarım",
+    "terci",
+    "umut",
+    "unutt",
+    "veril",
+    "yumak",
+    "çiftç",
+    "övünd",
+    "üreti",
+    "üzüle"
+   ],
+   "at": "2026-11-26T03:36:57.067138+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "df727234ec",
-   "post_id": "529346797199852_1478276774412030",
-   "title": "İran ordusu duyurdu: Hürmüz'de 3 petrol tankerinde patlama",
-   "at": "2026-11-23T21:55:32.152550+00:00",
-   "yazim": "claude",
-   "metin": "İran ordusu, Hürmüz Boğazı'nda 3 petrol tankerinin mayınlara çarpıp alev aldığını duyurdu.\n\nOrdu, tankerlerin izin verilmeyen bir güzergahı kullandığını söyledi. Bir tankerin boğazın güney kıyılarında, diğer ikisinin doğusunda patladığı bildirildi.\n\n— Ordu, tankerlerin ABD'nin hava refakati altında olduğunu da belirtti: \"ABD ordusunun hava refakati bu olayların yaşanmasını engelleyemedi.\"\n\n— İran, 8 Temmuz'da ABD'nin saldırılarının yeniden başlamasının ardından 12 Temmuz'da Hürmüz Boğazı'nı tekrar kapatmıştı.\n\n— Tahran daha önce, belirlediği rota dışında geçen gemileri hedef alacağını açıklamıştı.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/dunya/hurmuz-bogazinda-3-petrol-tankerinde-patlama-964239.html",
-    "Evrensel: https://www.evrensel.net/haber/6010892/hurmuz-bogazi-nda-iran-in-izin-vermedigi-guzergahi-kullanan-3-petrol-tankerinde-patlama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/hurmuz-bogazi-nda-3-petrol-tankerinde-patlama-p383848"
-   ]
-  },
   {
    "id": "1f85fd241f",
    "post_id": "529346797199852_1478284501077924",
@@ -13141,6 +13102,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/15-yillik-ogretmenligi-birakti-arabasini-satti-amasyada-ciftliginde-2086290"
    ]
+  },
+  {
+   "id": "f291081edb",
+   "post_id": "529346797199852_1480687734170934",
+   "title": "Bakan Yumaklı çiftçinin halini unuttu, üretim ve ihracat rekorlarıyla övündü",
+   "at": "2026-11-26T03:36:57.067138+00:00",
+   "yazim": "claude",
+   "metin": "Tarım ve Orman Bakanı İbrahim Yumaklı, bütçe komisyonunda üretim ve ihracat rekorlarıyla övündü.\n\nYENİ Parti Adana Milletvekili Ayhan Barut, bütçe için:\n\n“Üzülerek söylüyorum, bu bütçe umut değil, borç ve üretimden kopma bütçesidir. Faize ayrılan rakam tarıma verilen desteğin tam 17 katı.\n\nTercih çok net, faizci kazanıyor, çiftçi kaybediyor.”\n\n— Barut, bütçede faize ayrılan payın tarım desteğinin 17 katı olduğunu söyledi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/bakan-yumakli-ciftcinin-halini-unuttu-uretim-ve-ihracat-rekorlariyla-ovundu-748506"
+   ]
   }
  ],
  "fails": {
@@ -13360,12 +13332,10 @@
   "c02e72c944": 1,
   "f860003b35": 1,
   "c7531d98af": 2,
-  "d2ce64f093": 1
+  "d2ce64f093": 1,
+  "26c8c655a7": 1
  },
  "fail_log": [
-  "2026-11-26T00:28 MasterChef dokunulmazlık oyunu kim kazandı? 25 Kasım Çarşamb -> ValueError: yanıt okunamadı",
-  "2026-11-26T00:28 MasterChef dokunulmazlık oyunu kim kazandı? 25 Kasım Çarşamb -> ValueError: yanıt okunamadı",
-  "2026-11-26T00:28 MasterChef dokunulmazlık oyunu kim kazandı? 25 Kasım Çarşamb -> ValueError: yanıt okunamadı",
   "2026-11-26T00:28 Çevre Bakanlığı bütçesi: Bin liranın sadece biri doğayı koru -> ValueError: yanıt okunamadı",
   "2026-11-26T00:53 Vedat Muriqi'ten maç sonrası eşine mesaj: 'Futboldan çok anl -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-26T01:06 BBC'de işten çıkarmalara tepki: Gazeteciler grev kararı için -> ValueError: yanıt okunamadı",
@@ -13402,7 +13372,10 @@
   "2026-11-26T03:08 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:08 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:08 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:24 15 yıllık öğretmenliği bıraktı arabasını sattı: Amasya’da çi -> ValueError: yanıt okunamadı"
+  "2026-11-26T03:24 15 yıllık öğretmenliği bıraktı arabasını sattı: Amasya’da çi -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:37 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:37 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
+  "2026-11-26T03:37 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
