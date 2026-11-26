@@ -2,87 +2,6 @@
  "seen": [
   {
    "fp": [
-    "24",
-    "açılm",
-    "erişi",
-    "kasım",
-    "neden",
-    "sorun",
-    "spoti",
-    "çöktü"
-   ],
-   "tok": [
-    "aksak",
-    "aldık",
-    "ayrın",
-    "açılm",
-    "bildi",
-    "binde",
-    "binle",
-    "bulun",
-    "dair",
-    "deki",
-    "dene",
-    "dijit",
-    "downd",
-    "duyur",
-    "ekran",
-    "erişi",
-    "farkı",
-    "fazla",
-    "gider",
-    "giriş",
-    "girme",
-    "günde",
-    "günü",
-    "hata",
-    "hesab",
-    "hesap",
-    "incel",
-    "ise",
-    "kasım",
-    "kesin",
-    "kulla",
-    "kısa",
-    "medya",
-    "mesaj",
-    "müzik",
-    "neden",
-    "oluşt",
-    "otoma",
-    "platf",
-    "saatl",
-    "salı",
-    "sayıd",
-    "siyah",
-    "sorun",
-    "sosya",
-    "spoti",
-    "spotı",
-    "süre",
-    "taşıd",
-    "tekni",
-    "tekra",
-    "ulaşt",
-    "uyarı",
-    "yakla",
-    "yapam",
-    "yapma",
-    "yapıl",
-    "yaşan",
-    "yenid",
-    "çalış",
-    "çöktü",
-    "çıkıy",
-    "çıkış",
-    "öğle",
-    "üzeri",
-    "şirke"
-   ],
-   "at": "2026-11-24T13:14:58.664566+00:00"
-  },
-  {
-   "fp": [
     "bizi",
     "dursu",
     "etmiş",
@@ -10503,21 +10422,65 @@
     "özgür"
    ],
    "at": "2026-11-26T01:06:18.367837+00:00"
+  },
+  {
+   "fp": [
+    "bbc",
+    "gazet",
+    "grev",
+    "işten",
+    "karar",
+    "kulla",
+    "tepki",
+    "çıkar"
+   ],
+   "tok": [
+    "artan",
+    "bbc",
+    "belir",
+    "bütçe",
+    "büyük",
+    "deste",
+    "değil",
+    "düzen",
+    "eylem",
+    "gazet",
+    "grev",
+    "grevd",
+    "grevi",
+    "göste",
+    "henüz",
+    "ingil",
+    "işten",
+    "karşı",
+    "kesin",
+    "kulla",
+    "nin",
+    "nuj",
+    "nın",
+    "oylam",
+    "sendi",
+    "sterl",
+    "tarih",
+    "tepki",
+    "ulusa",
+    "verdi",
+    "yana",
+    "yanlı",
+    "yapıl",
+    "yükün",
+    "yüzde",
+    "zaman",
+    "zorun",
+    "çalış",
+    "çoğun",
+    "çıkar",
+    "üyele"
+   ],
+   "at": "2026-11-26T01:18:53.455717+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f068e3e1d8",
-   "post_id": "529346797199852_1478203444419363",
-   "title": "Avrupa Birliği'nin hedefinde yine Rusya var: Yeni yaptırımlara hazırlanıyor",
-   "at": "2026-11-23T20:05:04.337933+00:00",
-   "yazim": "claude",
-   "metin": "Ursula von der Leyen, Ukrayna savaşında görev yapmış Ruslar için:\n\n“Eski Rus savaşçılar Avrupa için bir güvenlik riski oluşturmaktadır. Ülkelerimizde serbestçe dolaşmalarına izin verilemez. Dolayısıyla, AB'ye girişleri yasaklanacaktır.”\n\n— AB Komisyonu, Rusya'ya yönelik 22. yaptırım paketinin teklifini açıkladı.\n— Pakette yaklaşık 60 Rus bankasına işlem yasağı getirilmesi ve bu bankaların SWIFT sisteminden çıkarılması yer alıyor.\n— Rusya'nın gölge filosuna bağlı 70'ten fazla gemi daha yaptırım listesine eklenecek.\n— Paket, AB Konseyinde oy birliğiyle kabul edilirse Resmi Gazete'de yayımlanmasının ardından yürürlüğe girecek.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/dunya/ab-rusyaya-yeni-yaptirimlara-hazirlaniyor-3497117",
-    "Karar: https://www.karar.com/dunya-haberleri/avrupa-birliginin-hedefinde-yine-rusya-var-yeni-yaptirimlara-2085810"
-   ]
-  },
   {
    "id": "61ff8b0fa2",
    "post_id": "529346797199852_1478211894418518",
@@ -13122,6 +13085,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/yeni-parti-lideri-ozel-yeni-yonetim-kadrosunu-acikladi-farkli-tabanlara-ulasacak-bir-kadro-2559429",
     "Yeni Şafak: https://www.yenisafak.com/gundem/yeni-parti-eski-kadro-4876624"
    ]
+  },
+  {
+   "id": "dbde9efde0",
+   "post_id": "529346797199852_1480588740847500",
+   "title": "BBC'de işten çıkarmalara tepki: Gazeteciler grev kararı için oy kullandı",
+   "at": "2026-11-26T01:18:53.455717+00:00",
+   "yazim": "claude",
+   "metin": "İngiltere'de BBC'de çalışan gazeteciler, grev kararı için yapılan oylamada büyük çoğunlukla grevden yana oy kullandı.\n\n— Ulusal Gazeteciler Sendikası'nın (NUJ) oylamasında üyelerin yüzde 79,38'i grev yanlısı oy verdi.\n— Gazeteciler, BBC'nin 500 milyon sterlinlik bütçe kesintilerine, zorunlu işten çıkarmalara ve artan iş yüküne tepki gösteriyor.\n— Grevin ne zaman yapılacağı henüz belli değil.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/bbc-de-isten-cikarmalara-tepki-gazeteciler-grev-karari-icin-oy-kullandi-748521"
+   ]
   }
  ],
  "fails": {
@@ -13344,7 +13318,6 @@
   "d2ce64f093": 1
  },
  "fail_log": [
-  "2026-11-25T22:13 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı",
   "2026-11-25T22:26 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı",
   "2026-11-25T22:26 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı",
   "2026-11-25T22:26 ABD'nin New Jersey eyaletinde fırtına öncesi olağanüstü hal  -> ValueError: yanıt okunamadı",
@@ -13383,7 +13356,8 @@
   "2026-11-26T00:53 Vedat Muriqi'ten maç sonrası eşine mesaj: 'Futboldan çok anl -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-26T01:06 BBC'de işten çıkarmalara tepki: Gazeteciler grev kararı için -> ValueError: yanıt okunamadı",
   "2026-11-26T01:06 BBC'de işten çıkarmalara tepki: Gazeteciler grev kararı için -> ValueError: yanıt okunamadı",
-  "2026-11-26T01:06 BBC'de işten çıkarmalara tepki: Gazeteciler grev kararı için -> ValueError: yanıt okunamadı"
+  "2026-11-26T01:06 BBC'de işten çıkarmalara tepki: Gazeteciler grev kararı için -> ValueError: yanıt okunamadı",
+  "2026-11-26T01:18 BBC'de işten çıkarmalara tepki: Gazeteciler grev kararı için -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
