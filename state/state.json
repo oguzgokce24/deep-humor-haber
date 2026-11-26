@@ -2,52 +2,6 @@
  "seen": [
   {
    "fp": [
-    "4",
-    "6",
-    "büyük",
-    "depre",
-    "milas",
-    "muğla"
-   ],
-   "tok": [
-    "afad",
-    "ana",
-    "aydın",
-    "bildi",
-    "büyük",
-    "deniz",
-    "depre",
-    "derin",
-    "durum",
-    "duyur",
-    "geldi",
-    "gerçe",
-    "hisse",
-    "iller",
-    "ilçes",
-    "izmir",
-    "kilom",
-    "manis",
-    "meyda",
-    "milas",
-    "muğla",
-    "nın",
-    "olmad",
-    "olums",
-    "saat",
-    "saha",
-    "sarsı",
-    "sürüy",
-    "taram",
-    "yerin",
-    "çalış",
-    "çevre",
-    "üssü"
-   ],
-   "at": "2026-11-24T16:27:37.101334+00:00"
-  },
-  {
-   "fp": [
     "akp",
     "depre",
     "düzey",
@@ -13392,18 +13346,12 @@
   "f860003b35": 1,
   "c7531d98af": 2,
   "d2ce64f093": 1,
-  "628d88af6f": 1
+  "628d88af6f": 1,
+  "af4ae44181": 1,
+  "35cf685040": 1,
+  "64cce5abd2": 1
  },
  "fail_log": [
-  "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:00 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:04 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:04 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:04 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:04 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:04 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:04 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:04 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:04 1Password'a siber saldırı: Müşteri bilgileri ele geçirildi -> ValueError: yanıt okunamadı",
   "2026-11-26T03:08 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
@@ -13434,7 +13382,16 @@
   "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
   "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
   "2026-11-26T04:06 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
-  "2026-11-26T04:23 Osman Kavala 3 bin 313 gündür hapiste -> ValueError: yanıt okunamadı"
+  "2026-11-26T04:23 Osman Kavala 3 bin 313 gündür hapiste -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Meteoroloji uyardı: Soğuk hava ve sis etkili olacak -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Meteoroloji uyardı: Soğuk hava ve sis etkili olacak -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Meteoroloji uyardı: Soğuk hava ve sis etkili olacak -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Murat Muratoğlu: Türkiye'de adaletin kantarı -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Murat Muratoğlu: Türkiye'de adaletin kantarı -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Murat Muratoğlu: Türkiye'de adaletin kantarı -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Esfender Korkmaz: 100 milyar dolar döviz girişi olmazsa dış  -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Esfender Korkmaz: 100 milyar dolar döviz girişi olmazsa dış  -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:36 Esfender Korkmaz: 100 milyar dolar döviz girişi olmazsa dış  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
