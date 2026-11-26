@@ -10530,21 +10530,72 @@
     "şimdi"
    ],
    "at": "2026-11-26T20:34:12.438525+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "kazas",
+    "maden",
+    "ocağı",
+    "yaral",
+    "zongu"
+   ],
+   "tok": [
+    "ait",
+    "akşam",
+    "ambul",
+    "ardın",
+    "arkad",
+    "atatü",
+    "bölge",
+    "devle",
+    "durum",
+    "ekipl",
+    "eksi",
+    "geldi",
+    "gelen",
+    "gelik",
+    "hasta",
+    "ihbar",
+    "iyi",
+    "işlet",
+    "işçi",
+    "kaldı",
+    "karad",
+    "katla",
+    "kazas",
+    "kurum",
+    "kömür",
+    "maden",
+    "meyda",
+    "müdah",
+    "müdür",
+    "müess",
+    "ocakt",
+    "ocağı",
+    "olay",
+    "saatl",
+    "sağlı",
+    "sıras",
+    "tavan",
+    "taşkö",
+    "ttk",
+    "yardı",
+    "yaşan",
+    "yaşla",
+    "yer",
+    "yığın",
+    "zongu",
+    "çalış",
+    "çıkar",
+    "öğren",
+    "üreti",
+    "üstün"
+   ],
+   "at": "2026-11-26T20:50:23.605732+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1696023dac",
-   "post_id": "529346797199852_1479037601002614",
-   "title": "İngiliz kraliyet ailesinde güvenlik alarmı: Prens William ve Kate'in evine girildi",
-   "at": "2026-11-24T14:48:11.333932+00:00",
-   "yazim": "claude",
-   "metin": "İngiltere'de Prens William ve Kate Middleton'ın Norfolk'taki kır evine kimliği belirsiz kişiler izinsiz girdi.\n\nPolis olayla ilgili soruşturma başlattı. Çift ve üç çocukları olay sırasında evde değildi.\n\n— Konut, Sandringham arazisindeki 10 yatak odalı Anmer Hall. Ev, 2011'de Kraliçe II. Elizabeth tarafından düğün hediyesi olarak verilmişti.\n— Çift bu evi tatillerde ve kısa dinlenmelerde kullanıyor. Asıl ikametgâhları Londra'nın batısındaki Windsor'da.\n— Norfolk Polisi'nden henüz resmi bir açıklama gelmedi. İzinsiz girişin nasıl gerçekleştiği ve evden eşya alınıp alınmadığı netleşmedi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/dunya/ingiliz-kraliyet-ailesinde-guvenlik-alarmi-prens-william-ve-kate-in-evine-girildi-2559007",
-    "BPT (X): https://x.com/bpthaber/status/2125237464277156276"
-   ]
-  },
   {
    "id": "628ab420a4",
    "post_id": "529346797199852_1479051627667878",
@@ -13161,6 +13212,18 @@
    "sources": [
     "Diken: https://www.diken.com.tr/kutahya-milletvekili-kasap-100-bine-yakin-kisi-arsenikli-su-iciyor/?utm_source=rss&utm_medium=rss&utm_campaign=kutahya-milletvekili-kasap-100-bine-yakin-kisi-arsenikli-su-iciyor"
    ]
+  },
+  {
+   "id": "a1f5e4e1b5",
+   "post_id": "529346797199852_1481510974088610",
+   "title": "Zonguldak'ta maden ocağındaki iş kazasında 2 işçi yaralandı",
+   "at": "2026-11-26T20:50:23.605732+00:00",
+   "yazim": "claude",
+   "metin": "Zonguldak'ta TTK'ye ait bir maden ocağında üretim sırasında tavandan kömür yığını geldi, 2 madenci yaralandı.\n\nOlay akşam saatlerinde, ocağın eksi 360 ve eksi 460 katlarında yaşandı.\n\n— Yaralanan 33 ve 23 yaşlarında iki madenci, ocakta çalışan arkadaşlarının yardımıyla yer üstüne çıkarıldı.\n— İhbarın ardından sağlık ekipleri bölgeye geldi, ilk müdahalenin ardından iki işçi ambulansla Zonguldak Atatürk Devlet Hastanesi'ne kaldırıldı.\n— Yaralı madencilerin sağlık durumlarının iyi olduğu öğrenildi.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/zonguldak-ta-maden-ocaginda-is-kazasi-2-madenci-yaralandi-p384728",
+    "Evrensel: https://www.evrensel.net/haber/6011386/zonguldak-ta-maden-ocagindaki-is-kazasinda-2-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13398,15 +13461,12 @@
   "19b51bed12": 2,
   "d4073ef647": 1,
   "9061e56664": 1,
-  "0d383f2534": 1,
+  "0d383f2534": 2,
   "1b1440b1a3": 1,
   "5622cf0499": 1,
   "248a8d9361": 1
  },
  "fail_log": [
-  "2026-11-26T16:14 Avengers: Doomsday ne zaman çıkacak? Avengers: Doomsday konu -> ValueError: yanıt okunamadı",
-  "2026-11-26T16:14 Avengers: Doomsday ne zaman çıkacak? Avengers: Doomsday konu -> ValueError: yanıt okunamadı",
-  "2026-11-26T17:33 Konuşmazsak Olmaz (50) | Gazeteci Sorel Dağıstanlı: “İktidar -> ValueError: yanıt okunamadı",
   "2026-11-26T17:33 Konuşmazsak Olmaz (50) | Gazeteci Sorel Dağıstanlı: “İktidar -> ValueError: yanıt okunamadı",
   "2026-11-26T17:33 Konuşmazsak Olmaz (50) | Gazeteci Sorel Dağıstanlı: “İktidar -> ValueError: yanıt okunamadı",
   "2026-11-26T18:35 DEM Parti’den IKBY açıklaması: Sorunlar anayasal çerçevede ç -> ValueError: yanıt okunamadı",
@@ -13443,12 +13503,15 @@
   "2026-11-26T20:46 Kassoum Ouattara: \"Tüm ezilen insanlar için...\" -> ValueError: yanıt okunamadı",
   "2026-11-26T20:46 Türkiye sizinle gurur duyuyor. -> ValueError: yanıt okunamadı",
   "2026-11-26T20:46 Türkiye sizinle gurur duyuyor. -> ValueError: yanıt okunamadı",
-  "2026-11-26T20:46 Türkiye sizinle gurur duyuyor. -> ValueError: yanıt okunamadı"
+  "2026-11-26T20:46 Türkiye sizinle gurur duyuyor. -> ValueError: yanıt okunamadı",
+  "2026-11-26T20:50 Fındığa en kazançlı alternatif oldu: Ünye’de hasat başladı! -> ValueError: yanıt okunamadı",
+  "2026-11-26T20:50 Fındığa en kazançlı alternatif oldu: Ünye’de hasat başladı! -> ValueError: yanıt okunamadı",
+  "2026-11-26T20:50 Fındığa en kazançlı alternatif oldu: Ünye’de hasat başladı! -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126054821455180019",
+   "since_id": "2126055490559832325",
    "started": true
   },
   "ajansmuhbir1923": {
