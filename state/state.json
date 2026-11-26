@@ -13258,20 +13258,12 @@
   "5622cf0499": 1,
   "248a8d9361": 1,
   "c728dc4d10": 1,
-  "43bf83e0c5": 1,
-  "fa6aac4fb1": 1,
-  "a0a4ab6d38": 1
+  "43bf83e0c5": 2,
+  "fa6aac4fb1": 2,
+  "a0a4ab6d38": 1,
+  "e7a795bb26": 1
  },
  "fail_log": [
-  "2026-11-26T19:04 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı",
-  "2026-11-26T19:04 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı",
-  "2026-11-26T19:04 Kilosu 165.000 TL’den satılıyor: Türkiye’de sadece 2 ilde ür -> ValueError: yanıt okunamadı",
-  "2026-11-26T19:08 YENİ Parti’nin süreç kararı neden doğru: Burak Bilgehan Özpe -> ValueError: yanıt okunamadı",
-  "2026-11-26T19:08 YENİ Parti’nin süreç kararı neden doğru: Burak Bilgehan Özpe -> ValueError: yanıt okunamadı",
-  "2026-11-26T19:08 YENİ Parti’nin süreç kararı neden doğru: Burak Bilgehan Özpe -> ValueError: yanıt okunamadı",
-  "2026-11-26T19:46 Merkez Bankası’ndan gece yarısı iki kritik hamle: Örtülü fai -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-26T20:08 Beşiktaş'ın ofsayt gerekçesiyle iptal edilen golü: -> ValueError: yanıt okunamadı",
-  "2026-11-26T20:08 Beşiktaş'ın ofsayt gerekçesiyle iptal edilen golü: -> ValueError: yanıt okunamadı",
   "2026-11-26T20:08 Beşiktaş'ın ofsayt gerekçesiyle iptal edilen golü: -> ValueError: yanıt okunamadı",
   "2026-11-26T20:08 Fındığa en kazançlı alternatif oldu: Ünye’de hasat başladı! -> ValueError: yanıt okunamadı",
   "2026-11-26T20:08 Fındığa en kazançlı alternatif oldu: Ünye’de hasat başladı! -> ValueError: yanıt okunamadı",
@@ -13302,7 +13294,16 @@
   "2026-11-26T21:41 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
   "2026-11-26T21:41 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T21:41 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:41 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
+  "2026-11-26T21:41 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:45 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
