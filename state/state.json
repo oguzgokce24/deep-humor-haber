@@ -10433,21 +10433,81 @@
     "öğren"
    ],
    "at": "2026-11-26T22:09:37.736897+00:00"
+  },
+  {
+   "fp": [
+    "başma",
+    "birli",
+    "deki",
+    "emri",
+    "facia",
+    "gemi",
+    "gemid",
+    "ikinc",
+    "kapta",
+    "kaçtı",
+    "kktc",
+    "konuş",
+    "tahli",
+    "verme"
+   ],
+   "tok": [
+    "ali",
+    "ağust",
+    "bağım",
+    "başma",
+    "birin",
+    "birli",
+    "davad",
+    "deki",
+    "dinle",
+    "direk",
+    "doğa",
+    "duruş",
+    "emri",
+    "facia",
+    "filo",
+    "gemi",
+    "gemid",
+    "gemin",
+    "girne",
+    "ifade",
+    "ikinc",
+    "ilişk",
+    "jet",
+    "kapta",
+    "kaçtı",
+    "kefil",
+    "kktc",
+    "konuş",
+    "kuzey",
+    "kıbrı",
+    "merve",
+    "müret",
+    "nde",
+    "nin",
+    "nur",
+    "olama",
+    "olay",
+    "savcı",
+    "savun",
+    "seras",
+    "tahli",
+    "temin",
+    "tokay",
+    "veren",
+    "verme",
+    "yargı",
+    "yaşan",
+    "çalış",
+    "öldüğ",
+    "özdül",
+    "şirke"
+   ],
+   "at": "2026-11-26T22:32:08.559596+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "58a1342510",
-   "post_id": "529346797199852_1479087687664272",
-   "title": "Britanya'da MI5 uyardı: Rusya savunma şirketlerini hedef aldı",
-   "at": "2026-11-24T15:42:31.747191+00:00",
-   "yazim": "claude",
-   "metin": "Britanya Silahlı Kuvvetlerden Sorumlu Devlet Bakanı Louise Sandher-Jones, Rusya'nın savunma şirketlerine yönelik tehdidi için:\n\n“Rusya ve diğer düşmanca aktörler, silahlı kuvvetlerimizi donatan ve destekleyen şirketler için giderek artan bir tehdit oluşturuyor.”\n\n— İç istihbarat teşkilatı MI5, Rusya'nın İngiliz savunma şirketlerini hedef aldığını duyurdu ve güvenlik önlemlerinin artırılmasını istedi.\n\n— Uyarı, Ukrayna'ya malzeme sağlayan şirketlere yapıldı. Şirketlerden siber saldırı, sabotaj ve dezenformasyona karşı acil önlem almaları istendi.\n\n— 24-25 Kasım'da bakanlar ve istihbarat yetkilileri şirketlerin üst düzey yöneticilerine güvenlik brifingi verecek. Toplantı basına kapalı olacak.\n\n— Güvenlikten Sorumlu Devlet Bakanı Dan Jarvis, Avrupa genelindeki sabotaj girişimlerinin tehdidin ciddiyetini ortaya koyduğunu söyledi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/ingiltere-ic-istihbarat-teskilati-mi5-savunma-sirketlerine-rusya-kaynakli-saldiri-uyarisinda-bulundu/4136063",
-    "Diken: https://www.diken.com.tr/britanyada-mi5-uyardi-rusya-savunma-sirketlerini-hedef-aldi/?utm_source=rss&utm_medium=rss&utm_campaign=britanyada-mi5-uyardi-rusya-savunma-sirketlerini-hedef-aldi"
-   ]
-  },
   {
    "id": "346aef4290",
    "post_id": "529346797199852_1479098404329867",
@@ -13062,6 +13122,17 @@
     "Sözcü: https://www.sozcu.com.tr/motosikletle-gelip-cocuklara-ates-actilar-2-cocuk-yaralandi-p384741",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/motosikletle-gelip-kursun-yagdirdilar-2-cocuk-yaralandi-2559789"
    ]
+  },
+  {
+   "id": "c6cb7695b9",
+   "post_id": "529346797199852_1481576730748701",
+   "title": "KKTC’deki gemi faciasında ikinci kaptan konuştu: 'Kaptan, tahliye emri vermeden başmakinist ile birlikte gemiden kaçtı'",
+   "at": "2026-11-26T22:32:08.559596+00:00",
+   "yazim": "claude",
+   "metin": "KKTC'de 28 kişinin öldüğü Filo Jet faciasında ikinci kaptan Merve Nur Seraslan:\n\n“Kaptan, tahliye emri vermeden başmakinist ile birlikte gemiden kaçtı.”\n\n— Olay, 30 Ağustos'ta KKTC'nin Girne açıklarında yaşandı ve 28 kişi hayatını kaybetti.\n— Davada geminin birinci ve ikinci kaptanı ile 6 mürettebat yargılanıyor.\n— Teminat duruşmasında, şirket direktörü Ali Özdülger'in kefilleri de dinlendi. Savcı Doğa Tokay, kefillerden birinin şirkette çalıştığı için bağımsız olamayacağını savundu.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kktc-deki-gemi-faciasinda-ikinci-kaptan-konustu-kaptan-tahliye-emri-vermeden-basmakinist-ile-birlikte-gemiden-kacti-2559783"
+   ]
   }
  ],
  "fails": {
@@ -13306,15 +13377,10 @@
   "c728dc4d10": 1,
   "a0a4ab6d38": 1,
   "456294a7c8": 1,
-  "f352fb04e0": 1
+  "f352fb04e0": 2,
+  "2e63f2dd22": 1
  },
  "fail_log": [
-  "2026-11-26T21:29 Hastaneye götürülmüştü: Vincenzo Italiano'dan Emirhan Topçu  -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-26T21:29 Hastaneye götürülmüştü: Vincenzo Italiano'dan Emirhan Topçu  -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:41 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:41 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:41 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:41 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
   "2026-11-26T21:41 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
   "2026-11-26T21:41 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
   "2026-11-26T21:41 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
@@ -13348,12 +13414,18 @@
   "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T21:57 Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin  -> ValueError: metin çok kısa, bağlam yok",
-  "2026-11-26T21:57 Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin  -> ValueError: yanıt okunamadı"
+  "2026-11-26T21:57 Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin  -> ValueError: yanıt okunamadı",
+  "2026-11-26T22:32 Kassoum Ouattara: \"Özgür Kongo, özgür Filistin, özgür Uygurl -> ValueError: yanıt okunamadı",
+  "2026-11-26T22:32 Kassoum Ouattara: \"Özgür Kongo, özgür Filistin, özgür Uygurl -> ValueError: yanıt okunamadı",
+  "2026-11-26T22:32 Kassoum Ouattara: \"Özgür Kongo, özgür Filistin, özgür Uygurl -> ValueError: yanıt okunamadı",
+  "2026-11-26T22:32 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-26T22:32 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-26T22:32 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126075823363170308",
+   "since_id": "2126080965214687483",
    "started": true
   },
   "ajansmuhbir1923": {
