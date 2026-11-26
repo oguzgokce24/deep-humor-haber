@@ -10412,20 +10412,71 @@
     "şeyim"
    ],
    "at": "2026-11-26T09:46:39.484112+00:00"
+  },
+  {
+   "fp": [
+    "atama",
+    "aylar",
+    "açıkl",
+    "bahar",
+    "bakan",
+    "başla",
+    "den",
+    "görev",
+    "tekin",
+    "öğret"
+   ],
+   "tok": [
+    "adayı",
+    "ags",
+    "akade",
+    "alına",
+    "atama",
+    "atana",
+    "aylar",
+    "ayınd",
+    "bahar",
+    "başla",
+    "belir",
+    "bin",
+    "bine",
+    "böyle",
+    "den",
+    "değiş",
+    "duyur",
+    "eylül",
+    "eğiti",
+    "giriş",
+    "gören",
+    "görev",
+    "ilgil",
+    "kapsa",
+    "mayıs",
+    "milli",
+    "nde",
+    "nin",
+    "nın",
+    "olaca",
+    "sayı",
+    "sayıs",
+    "sınav",
+    "tamam",
+    "tarih",
+    "tekin",
+    "temmu",
+    "topla",
+    "ulaşa",
+    "yapıl",
+    "yerin",
+    "yusuf",
+    "yılın",
+    "zaman",
+    "öğret"
+   ],
+   "at": "2026-11-26T09:59:18.086119+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6948f8ad7c",
-   "post_id": "529346797199852_1478538167719224",
-   "title": "Yeniden değerleme oranı belli oldu: İşte 2027'nin yeni ehliyet, pasaport ve kimlik ücretleri",
-   "at": "2026-11-24T04:05:15.861780+00:00",
-   "yazim": "claude",
-   "metin": "Vergi ve harç tutarlarını artıracak yeniden değerleme oranı yüzde 27,83 olarak belli oldu.\n\nHazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı'nın hazırladığı tebliğ Resmi Gazete'de yayımlandı. Oran, 2026'nın son geçici vergi döneminde de uygulanacak.\n\n— Bu oran, 2027 yılında vergi, harç ve idari para cezalarının belirlenmesinde referans olacak.\n— Ücret ve temettü gelirlerinde ile menkul ve gayrimenkul sermaye iradında beyan sınırları da bu artıştan etkilenecek.\n— Cumhurbaşkanı, bazı vergi ve harçlarda bu oranı artırma ya da azaltma yetkisine sahip.",
-   "sources": [
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/yeniden-degerleme-orani-belli-oldu-iste-2027-nin-yeni-ehliyet-pasaport-ve-kimlik-ucretleri-p383851"
-   ]
-  },
   {
    "id": "7bd95b7f96",
    "post_id": "529346797199852_1478550387718002",
@@ -13069,6 +13120,21 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/mersindeki-cinayet-davasinda-sanigin-savunmasi-diyecek-bir-seyim-yok-mersin-haberleri-4876716",
     "Evrensel: https://www.evrensel.net/haber/6011286/mersin-de-iki-kadini-olduren-failden-piskin-savunma-diyecek-bir-seyim-yok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "c71078d1c0",
+   "post_id": "529346797199852_1480955274144180",
+   "title": "Son Dakika... Bakan Tekin duyurdu: Öğretmen atamaları ne zaman olacak?",
+   "at": "2026-11-26T09:59:18.086119+00:00",
+   "yazim": "claude",
+   "metin": "Bakan Yusuf Tekin, 2026 Akademi Giriş Sınavı ile 15 bin öğretmen adayı alınacağını açıkladı.\n\n— Milli Eğitim Akademisi'nde şu an eğitim gören 10 bin öğretmen, eğitimini bahar aylarında tamamlayınca atanacak.\n— 2027 Akademi Giriş Sınavı'nın tarihi değiştirildi. Bu sınav temmuz yerine mayıs ayında yapılacak, böylece eğitimi tamamlayanların atamaları eylül ayında zamanında yapılabilecek.\n— 2027 sınavıyla da 15 bin öğretmen adayı alınacak. Toplam sayı 40 bine ulaşacak.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/bakan-tekinden-ogretmen-atamasi-aciklamasi-43391638",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-meb-bakani-tekin-den-ogretmen-atamasi-aciklamasi-3930267",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-bakan-tekin-duyurdu-ogretmen-atamalari-ne-zaman-olacak-2559571",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/bakan-tekinden-ogretmen-atamalariyla-ilgili-flas-aciklama-4876691",
+    "Evrensel: https://www.evrensel.net/haber/6011282/bakan-tekin-den-ogretmen-atamasi-aciklamasi-10-bin-ogretmen-bahar-aylarinda-goreve-baslayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13340,7 +13406,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125886046730608661",
+   "since_id": "2125890688063856841",
    "started": true
   },
   "ajansmuhbir1923": {
