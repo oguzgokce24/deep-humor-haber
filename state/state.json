@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "6",
-    "atv",
-    "kurta",
-    "sürüc",
-    "uçuru",
-    "yuvar"
-   ],
-   "tok": [
-    "araşt",
-    "ardın",
-    "atv",
-    "bağlı",
-    "bulun",
-    "bölge",
-    "direk",
-    "dün",
-    "edile",
-    "ekipl",
-    "eğiti",
-    "hakim",
-    "halin",
-    "hasta",
-    "ilçes",
-    "kalan",
-    "kaldı",
-    "kurta",
-    "mahsu",
-    "mevki",
-    "nın",
-    "saat",
-    "saatl",
-    "saatt",
-    "sevk",
-    "seyir",
-    "sular",
-    "süren",
-    "sürüc",
-    "tehli",
-    "terma",
-    "ulaşt",
-    "uçuru",
-    "yakla",
-    "yalov",
-    "yuvar",
-    "çalış",
-    "öğren",
-    "üvezp"
-   ],
-   "at": "2026-11-25T03:25:53.637415+00:00"
-  },
-  {
-   "fp": [
     "abdul",
     "adım",
     "atmay",
@@ -10325,25 +10273,87 @@
     "çekiy"
    ],
    "at": "2026-11-26T15:15:44.987249+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "hayat",
+    "iha",
+    "italy",
+    "kaybe",
+    "kuvey",
+    "saldı",
+    "yönel"
+   ],
+   "tok": [
+    "abd",
+    "aldığ",
+    "anten",
+    "appea",
+    "açmak",
+    "bahre",
+    "bakım",
+    "başba",
+    "başla",
+    "başsa",
+    "belir",
+    "bildi",
+    "biri",
+    "deki",
+    "diken",
+    "diled",
+    "düzen",
+    "dışiş",
+    "ettiğ",
+    "fir",
+    "giorg",
+    "girdi",
+    "hava",
+    "hedef",
+    "iddia",
+    "iha",
+    "ikisi",
+    "insan",
+    "iran",
+    "ise",
+    "israi",
+    "italy",
+    "kriti",
+    "kuvey",
+    "körfe",
+    "melon",
+    "müdah",
+    "ordus",
+    "otomo",
+    "pakis",
+    "post",
+    "redde",
+    "sahas",
+    "savaş",
+    "savun",
+    "sayıd",
+    "siste",
+    "skygu",
+    "suçlu",
+    "tahra",
+    "tekni",
+    "tesis",
+    "tespi",
+    "the",
+    "topra",
+    "vatan",
+    "vuruy",
+    "yana",
+    "yapan",
+    "yönel",
+    "öldüğ",
+    "ölenl",
+    "şubat"
+   ],
+   "at": "2026-11-26T15:36:39.618262+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c71d2a7a80",
-   "post_id": "529346797199852_1478761034363604",
-   "title": "Kartal Belediyesi'ne kentsel dönüşüm operasyonu: 10 şüpheli gözaltında",
-   "at": "2026-11-24T09:23:12.044021+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'un Kartal ilçesindeki belediyeye yönelik kentsel dönüşüm soruşturmasında 10 şüpheli gözaltına alındı.\n\nŞüpheliler arasında Kartal Belediyesi Kentsel Dönüşüm Müdürü ve belediye mühendisleri var. Firma yetkilileri de gözaltına alındı.\n\n— Riskli binaların ölçümlerinde usulsüzlük yapıldığı ve bu yolla maddi menfaat sağlandığı iddia ediliyor.\n— Sekiz riskli binada toplam inşaat alanının 400 ila 1.000 metrekare arasında fazla gösterildiği ileri sürülüyor.\n— Belediye yetkililerinin binalara gitmeden firmaların raporlarını onayladığı iddia ediliyor.\n— Suçlamalar arasında resmi belgede sahtecilik, suç işlemek amacıyla örgüt kurma ve üye olma ile rüşvet yer alıyor.\n— Şüphelilerin banka hesaplarında yüksek miktarda işlem hacmi tespit edildi.",
-   "sources": [
-    "Euronews: https://tr.euronews.com/2026/11/24/kartal-belediyesine-kentsel-donusum-operasyonu-10-supheli-gozaltinda",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/kartal-belediyesine-operasyon-10-gozalti-43388688",
-    "NTV: https://www.ntv.com.tr/turkiye/kartal-belediyesine-kentsel-donusum-operasyonu-10-supheli-gozaltinda-1752285",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-kartal-belediyesine-operasyon-3929611",
-    "Sözcü: https://www.sozcu.com.tr/son-dakika-kartal-belediyesi-ne-rusvet-operasyonu-10-kisi-gozaltina-alindi-p383893",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/kartal-belediyesi-hangi-partide-kartal-belediye-baskani-kim-2558816"
-   ]
-  },
   {
    "id": "adc5cd09c1",
    "post_id": "529346797199852_1478770934362614",
@@ -13003,6 +13013,19 @@
     "Euronews: https://tr.euronews.com/2026/11/26/gazzede-menenjit-salgini-272-yeni-vaka-kaydedildi",
     "Diken: https://www.diken.com.tr/gazzede-menenjit-salgini-vakalarin-yuzde-71i-bebeklerde/?utm_source=rss&utm_medium=rss&utm_campaign=gazzede-menenjit-salgini-vakalarin-yuzde-71i-bebeklerde"
    ]
+  },
+  {
+   "id": "377fa94779",
+   "post_id": "529346797199852_1481261467446894",
+   "title": "İtalya: İran'ın Kuveyt'e düzenlediği saldırıda iki İtalyan öldü",
+   "at": "2026-11-26T15:36:39.618262+00:00",
+   "yazim": "claude",
+   "metin": "Kuveyt'te İran'ın düzenlediği İHA saldırısında iki İtalyan teknisyen hayatını kaybetti.\n\nKuveyt ordusu, İran'ın kritik bir tesisi insansız hava araçlarıyla hedef aldığını açıkladı. İtalya Dışişleri Bakanlığı, ölenlerin Kuveyt ordusunun Skyguard hava savunma sistemindeki tespit antenlerinde bakım yapan teknisyenler olduğunu bildirdi. Başbakan Giorgia Meloni de başsağlığı diledi.\n\n— Saldırıda biri Kuveyt, biri Pakistan vatandaşı ve ikisi İtalyan dört kişi daha yaralandı.\n\n— Kuveyt hava sahasına çok sayıda İHA girdiğini, hava savunma sistemlerinin müdahale ettiğini belirtti.\n\n— Şubat 2026'da ABD ve İsrail'in İran'a saldırısıyla başlayan savaştan bu yana İran, Körfez'deki hedefleri vuruyor. Tahran, Kuveyt ve Bahreyn'i ABD operasyonlarına topraklarını açmakla suçluyor. Kuveyt ise bu iddiayı reddediyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/italya-kuveyte-yonelik-iha-saldirisinda-2-italyan-hayatini-kaybetti/4139095",
+    "CNN Türk: https://www.cnnturk.com/dunya/kuveyte-yonelik-iha-saldirisinda-2-italyan-hayatini-kaybetti-3498719",
+    "Diken: https://www.diken.com.tr/italya-iranin-kuveyte-duzenledigi-saldirida-iki-italyan-oldu/?utm_source=rss&utm_medium=rss&utm_campaign=italya-iranin-kuveyte-duzenledigi-saldirida-iki-italyan-oldu"
+   ]
   }
  ],
  "fails": {
@@ -13276,7 +13299,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125969917094854657",
+   "since_id": "2125975435028595199",
    "started": true
   },
   "ajansmuhbir1923": {
