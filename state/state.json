@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "187",
-    "ele",
-    "eser",
-    "evde",
-    "evden",
-    "geçir",
-    "izmir",
-    "tarih",
-    "çıktı"
-   ],
-   "tok": [
-    "alınd",
-    "amacı",
-    "appea",
-    "baskı",
-    "başla",
-    "bizan",
-    "bulun",
-    "diken",
-    "düzen",
-    "eser",
-    "eserl",
-    "evde",
-    "evden",
-    "evin",
-    "first",
-    "ilçes",
-    "izmir",
-    "içind",
-    "işlem",
-    "kanun",
-    "kaçak",
-    "korum",
-    "kültü",
-    "linka",
-    "menem",
-    "muhal",
-    "osman",
-    "post",
-    "sayıl",
-    "site",
-    "tabia",
-    "tarih",
-    "the",
-    "varlı",
-    "yapıl",
-    "çıktı",
-    "önlem"
-   ],
-   "at": "2026-11-25T06:44:58.546704+00:00"
-  },
-  {
-   "fp": [
     "bitir",
     "iran",
     "isted",
@@ -10503,25 +10450,90 @@
     "öneri"
    ],
    "at": "2026-11-26T18:35:52.288471+00:00"
+  },
+  {
+   "fp": [
+    "acıma",
+    "anne",
+    "attı",
+    "bebeğ",
+    "cezas",
+    "edilm",
+    "hapis",
+    "iddia",
+    "müebb",
+    "çöpe"
+   ],
+   "tok": [
+    "acıma",
+    "akrab",
+    "aldığ",
+    "anlaş",
+    "anne",
+    "annes",
+    "arama",
+    "attı",
+    "attığ",
+    "avuka",
+    "başvu",
+    "bebeğ",
+    "beraa",
+    "bildi",
+    "cezae",
+    "cezal",
+    "cezas",
+    "doğdu",
+    "doğum",
+    "doğur",
+    "durum",
+    "edilm",
+    "ekim",
+    "etkis",
+    "evind",
+    "gizle",
+    "hamil",
+    "hapis",
+    "hasta",
+    "iddia",
+    "ifade",
+    "ilaçl",
+    "ilkad",
+    "ilçes",
+    "ise",
+    "isted",
+    "kadın",
+    "kalma",
+    "kaste",
+    "kendi",
+    "konte",
+    "müebb",
+    "samsu",
+    "sanığ",
+    "savun",
+    "suçun",
+    "söyle",
+    "tahli",
+    "ulaşı",
+    "verdi",
+    "veril",
+    "yakın",
+    "yapan",
+    "yaptı",
+    "yargı",
+    "yaşın",
+    "yenid",
+    "yeri",
+    "çarpt",
+    "çocuk",
+    "çocuğ",
+    "çöp",
+    "çöpe",
+    "öldür"
+   ],
+   "at": "2026-11-26T18:48:29.521245+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "711b92e9ab",
-   "post_id": "529346797199852_1478926737680367",
-   "title": "CSKA Sofya-Trabzonspor maçını Jeremie Pignard yönetecek",
-   "at": "2026-11-24T12:49:54.737243+00:00",
-   "yazim": "claude",
-   "metin": "Trabzonspor'un CSKA Sofya deplasmanını Fransız hakem Jeremie Pignard yönetecek.\n\n— Konferans Ligi'nin 4. haftasında oynanacak maç 26 Kasım Perşembe günü, Türkiye saatiyle 23.00'te başlayacak.\n— UEFA'nın açıkladığına göre yardımcı hakemler Fransa Futbol Federasyonu'ndan Aurelien Drouet ile Hicham Zakrani olacak.\n— Dördüncü hakem ise yine Fransız Marc Bollengier olacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/cska-sofya-trabzonspor-macini-fransiz-hakem-jeremie-pignard-yonetecek/4135617",
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/cska-sofya-trabzonspor-macini-jeremie-pignard-yonetecek-3497475",
-    "Habertürk: https://www.haberturk.com/spor/cska-sofya-trabzonspor-macinda-jeremie-pignard-duduk-calacak-3929711",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/cska-sofya-trabzonspor-macinin-hakemi-belli-oldu-2558921",
-    "Evrensel: https://www.evrensel.net/haber/6010962/cska-sofya-trabzonspor-macini-jeremie-pignard-yonetecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/trabzonsporun-cska-sofya-macina-fransiz-hakem-748176"
-   ]
-  },
   {
    "id": "8b78aed91e",
    "post_id": "529346797199852_1478941224345585",
@@ -13158,6 +13170,17 @@
    "sources": [
     "Euronews: https://tr.euronews.com/2026/11/26/netanyahunun-yolsuzluk-davasi-hakimlerden-kritik-suclamalarin-dusurulmesi-cagrisi"
    ]
+  },
+  {
+   "id": "6bdb25be38",
+   "post_id": "529346797199852_1481422537430787",
+   "title": "Bebeğini çöpe attı iddia edilmişti: Acımasız anne müebbet hapis cezası",
+   "at": "2026-11-26T18:48:29.521245+00:00",
+   "yazim": "claude",
+   "metin": "Samsun'un İlkadım ilçesinde hamileliğini gizleyip evinde doğum yapan ve bebeğini çöpe attığı iddiasıyla yargılanan 42 yaşındaki kadına müebbet hapis cezası verildi.\n\n— Mahkeme, tutuklu sanığın cezaevinde kalmasına karar verdi. Kararda, kendini savunamayacak durumdaki yakın akrabasını öldürmek suçundan cezalandırıldı.\n\n— Kadın, 14 Ekim 2025'te hastaneye başvurdu. Doğum yaptığı anlaşılınca bebeğin yeri polise bildirildi, çöp konteynerlerinde yapılan aramada ise bebeğe ulaşılamadı.\n\n— Savunmasında kadın, bebeğinin ölü doğduğunu söyleyerek tahliye ve beraat istedi. Avukatı ise ilk ifadenin hastanede aldığı ilaçların etkisiyle verildiğini savundu.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/bebegini-cope-atti-iddia-edilmisti-acimasiz-anne-muebbet-hapis-cezasi-2086473"
+   ]
   }
  ],
  "fails": {
@@ -13435,7 +13458,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126020796996816990",
+   "since_id": "2126023816648298771",
    "started": true
   },
   "ajansmuhbir1923": {
