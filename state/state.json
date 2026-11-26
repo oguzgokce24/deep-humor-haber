@@ -10399,24 +10399,49 @@
     "sulh"
    ],
    "at": "2026-11-26T21:53:07.821968+00:00"
+  },
+  {
+   "fp": [
+    "bebek",
+    "hacıo",
+    "katil",
+    "oynay",
+    "topra"
+   ],
+   "tok": [
+    "ardın",
+    "avrup",
+    "bebek",
+    "beer",
+    "beşik",
+    "bozdu",
+    "bulun",
+    "geçti",
+    "hacıo",
+    "hafta",
+    "hapoe",
+    "ibrah",
+    "israi",
+    "katil",
+    "ligi",
+    "maç",
+    "maçın",
+    "nin",
+    "olayl",
+    "oynay",
+    "sessi",
+    "sheva",
+    "takım",
+    "tff",
+    "topra",
+    "uefa",
+    "yendi",
+    "ülken"
+   ],
+   "at": "2026-11-26T21:57:04.854732+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "dcfd8947b3",
-   "post_id": "529346797199852_1479062807666760",
-   "title": "Serik’te heyelan nedeniyle 6 ev tahliye edildi",
-   "at": "2026-11-24T15:16:22.704388+00:00",
-   "yazim": "claude",
-   "metin": "Antalya'nın Serik ilçesinde heyelan nedeniyle 6 ev tedbir amaçlı tahliye edildi.\n\n— Olay, Sarıabalı Mahallesi'nde inşaatı süren tünelin yakınında, dün akşam yağışın da etkisiyle yaşandı.\n— Evlerden birinde hafif çapta hasar oluştu. Olay yerine gelen jandarma inceleme yaptıktan sonra ayrıldı.\n— Bucakköy, Akbaş ve Karataş mahallelerine giden grup yolu tedbir amacıyla kapatıldı. Bu yolu kullananlar alternatif güzergâhlara yönlendirildi.\n— Mahalle muhtarı, tahliye edilen evlerde yaşayanların inşaatı yapan firmanın tuttuğu evlere yerleştirileceğini söyledi.\n\nBölge sakinlerinden Mustafa Kula, \"Gece saatlerinde hafiften kayma oldu. Tedbir amaçlı yollar kapatıldı.\" dedi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/antalya/serik/antalya-serikte-heyelan-nedeniyle-6-ev-tahliye-edildi-3497631",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/antalya/serik/serikte-heyelan-nedeniyle-6-ev-tahliye-edildi-3497613",
-    "Habertürk: https://www.haberturk.com/gundem/serik-te-6-ev-tahliye-edildi-3929813",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/antalya-serik-te-heyelan-6-ev-tahliye-edildi-2559023",
-    "Evrensel: https://www.evrensel.net/haber/6011006/serik-te-heyelan-nedeniyle-6-ev-tahliye-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "ff9a8710e3",
    "post_id": "529346797199852_1479075830998791",
@@ -13030,6 +13055,18 @@
     "Sözcü Spor: https://www.sozcu.com.tr/italiano-emirhan-topcunun-son-durumunu-acikladi-p384735",
     "Sözcü Spor: https://www.sozcu.com.tr/besiktas-a-kotu-haber-bas-donmesi-yasadi-devam-edemedi-p384722"
    ]
+  },
+  {
+   "id": "488de48e96",
+   "post_id": "529346797199852_1481552807417760",
+   "title": "Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin takımı bu topraklarda oynayamaz!'",
+   "at": "2026-11-26T21:57:04.854732+00:00",
+   "yazim": "claude",
+   "metin": "Hacıosmanoğlu, İsrail takımları için:\n\n“Bebek katili bir ülkenin takımı bu topraklarda oynayamaz!”\n\n— Beşiktaş, UEFA Avrupa Ligi'nin 5. haftasında Hapoel Beer Sheva'yı 2-1 yendi, maç olaylı geçti.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/ibrahim-haciosmanoglu-bebek-katili-israil-bu-topraklarda-oynayamaz-3498779",
+    "Sözcü Spor: https://www.sozcu.com.tr/haciosmanoglu-sessizligini-bozdu-bebek-katili-bir-ulkenin-takimi-bu-topraklarda-oynayamaz-p384742"
+   ]
   }
  ],
  "fails": {
@@ -13277,8 +13314,6 @@
   "f352fb04e0": 1
  },
  "fail_log": [
-  "2026-11-26T21:29 Orkun Kökçü: \"Biz bir olduğumuzda dünyada kimse bize bir şey -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:29 Orkun Kökçü: \"Biz bir olduğumuzda dünyada kimse bize bir şey -> ValueError: yanıt okunamadı",
   "2026-11-26T21:29 Hastaneye götürülmüştü: Vincenzo Italiano'dan Emirhan Topçu  -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-26T21:29 Hastaneye götürülmüştü: Vincenzo Italiano'dan Emirhan Topçu  -> ValueError: yanıt okunamadı",
   "2026-11-26T21:41 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
@@ -13316,12 +13351,14 @@
   "2026-11-26T21:53 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
   "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı"
+  "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
+  "2026-11-26T21:57 Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin  -> ValueError: metin çok kısa, bağlam yok",
+  "2026-11-26T21:57 Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126066871354953967",
+   "since_id": "2126072437393510588",
    "started": true
   },
   "ajansmuhbir1923": {
