@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "dan",
-    "dünya",
-    "kupas",
-    "monte",
-    "vince"
-   ],
-   "tok": [
-    "adam",
-    "altın",
-    "anlat",
-    "ardın",
-    "ayrıl",
-    "ağır",
-    "baskı",
-    "bekle",
-    "belir",
-    "bozul",
-    "büyü",
-    "dan",
-    "değer",
-    "dünya",
-    "futbo",
-    "italy",
-    "itira",
-    "kaldı",
-    "kalmı",
-    "karşı",
-    "kupas",
-    "maruz",
-    "milli",
-    "monte",
-    "nda",
-    "ndan",
-    "nin",
-    "olabi",
-    "oyunc",
-    "sal",
-    "sert",
-    "sonra",
-    "sürec",
-    "takım",
-    "tekni",
-    "tepki",
-    "turnu",
-    "vince",
-    "yuhal",
-    "yönel",
-    "şahıs",
-    "şekil"
-   ],
-   "at": "2026-11-24T15:55:18.043417+00:00"
-  },
-  {
-   "fp": [
     "alını",
     "artvi",
     "davas",
@@ -10424,6 +10370,50 @@
     "üzüle"
    ],
    "at": "2026-11-26T03:36:57.067138+00:00"
+  },
+  {
+   "fp": [
+    "elind",
+    "fail",
+    "kız",
+    "mağdu",
+    "çetel",
+    "çocuk"
+   ],
+   "tok": [
+    "avuka",
+    "ağına",
+    "başın",
+    "birço",
+    "bırak",
+    "daral",
+    "elind",
+    "fail",
+    "gayri",
+    "itili",
+    "işi",
+    "koçak",
+    "kız",
+    "mağdu",
+    "mecbu",
+    "olana",
+    "sebep",
+    "sonuc",
+    "suç",
+    "söyle",
+    "tehdi",
+    "tek",
+    "toplu",
+    "yapma",
+    "yelda",
+    "yoksu",
+    "çetel",
+    "çocuk",
+    "örgüt",
+    "üretm",
+    "şanta"
+   ],
+   "at": "2026-11-26T04:02:51.256177+00:00"
   }
  ],
  "posted": [
@@ -13250,17 +13240,10 @@
   "f860003b35": 1,
   "c7531d98af": 2,
   "d2ce64f093": 1,
-  "26c8c655a7": 2,
-  "bb9271d2f5": 1,
-  "ed01893b2f": 1
+  "bb9271d2f5": 2,
+  "ed01893b2f": 2
  },
  "fail_log": [
-  "2026-11-26T02:49 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
-  "2026-11-26T02:49 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
-  "2026-11-26T02:49 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
-  "2026-11-26T02:49 10 kanun tek teklifte toplandı: Görüşmeler başladı -> ValueError: cümle yarım kalmış: '“Torba altında çorba”'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-26T03:00 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:00 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 İnsanca yaşam için meydanlara: \"29 Kasım’da Kartal'dayız\" -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
   "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
@@ -13294,7 +13277,13 @@
   "2026-11-26T03:49 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
   "2026-11-26T03:49 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
   "2026-11-26T03:49 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
-  "2026-11-26T03:49 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı"
+  "2026-11-26T03:49 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:02 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:02 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:02 Kaliforniya kıyılarında gelgit ve dev dalgalar: Evler ve sok -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı",
+  "2026-11-26T04:02 Çetelerin elindeki kız çocukları: Mağdur ve fail -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
