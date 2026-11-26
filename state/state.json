@@ -10485,21 +10485,94 @@
     "yalçı"
    ],
    "at": "2026-11-26T04:06:51.775117+00:00"
+  },
+  {
+   "fp": [
+    "büyüm",
+    "karar",
+    "kasta",
+    "küçül",
+    "maden",
+    "orman"
+   ],
+   "tok": [
+    "acaci",
+    "arazi",
+    "açmas",
+    "açıld",
+    "ağacı",
+    "bulun",
+    "büyüm",
+    "hanön",
+    "kasta",
+    "kesil",
+    "kurul",
+    "küçül",
+    "maden",
+    "orman",
+    "planl",
+    "proje",
+    "tamam",
+    "tesis",
+    "yakla",
+    "önü"
+   ],
+   "at": "2026-11-26T04:10:20.544027+00:00"
+  },
+  {
+   "fp": [
+    "asrın",
+    "ayağı",
+    "dolan",
+    "iktid",
+    "vurgu"
+   ],
+   "tok": [
+    "akp",
+    "ardın",
+    "asrın",
+    "ayağı",
+    "betül",
+    "büyür",
+    "dolan",
+    "eski",
+    "etmek",
+    "ettiğ",
+    "fatma",
+    "fon",
+    "geldi",
+    "genel",
+    "gitgi",
+    "görev",
+    "gün",
+    "hakkı",
+    "hapis",
+    "iddia",
+    "iktid",
+    "istif",
+    "kaya",
+    "krizl",
+    "musta",
+    "mücad",
+    "nın",
+    "oğlu",
+    "parti",
+    "sayan",
+    "vurgu",
+    "yardı",
+    "yattı",
+    "yatıp",
+    "yazıc",
+    "yaşıy",
+    "zorla",
+    "zorlu",
+    "çıkma",
+    "çıktı"
+   ],
+   "at": "2026-11-26T04:10:34.846434+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1f85fd241f",
-   "post_id": "529346797199852_1478284501077924",
-   "title": "Katar: Ortadoğu ABD-İran arasında yeni bir gerilimi kaldıramaz",
-   "at": "2026-11-23T22:08:04.366491+00:00",
-   "yazim": "claude",
-   "metin": "Katar Başbakanı ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani, Ortadoğu'nun ABD ile İran arasında yeni bir gerilimi kaldıramayacağını söyledi.\n\n— Al Sani, Al Jazeera'ya yaptığı açıklamada iki ülkeyle de müzakere sürecini yeniden canlandırmak için çalıştıklarını belirtti.\n\n— ABD ile stratejik diyaloğun Katar'ın ilişkilerinde temel önemde olduğunu ve savunma alanındaki işbirliğini güçlendirmek istediklerini söyledi.\n\n— Katar hem İran hem ABD ile temaslarını sürdürüyor. Ülke, iki taraf arasındaki görüş ayrılıklarını gidermek ve bölgedeki çatışmaları sona erdirmek için diplomatik girişimlerde aktif arabulucu rolü üstleniyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/katar-basbakani-ve-disisleri-bakani-al-sani-orta-dogu-yeni-bir-abd-iran-gerilimini-kaldiramaz/4135177",
-    "Evrensel: https://www.evrensel.net/haber/6010893/katar-ortadogu-abd-iran-arasinda-yeni-bir-gerilimi-kaldiramaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "fb8f5d5017",
    "post_id": "529346797199852_1478291944410513",
@@ -13091,6 +13164,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/bakan-yumakli-ciftcinin-halini-unuttu-uretim-ve-ihracat-rekorlariyla-ovundu-748506"
    ]
+  },
+  {
+   "id": "7f366501fe",
+   "post_id": "529346797199852_1480710844168623",
+   "title": "Asrın vurgunu iktidarın ayağına dolandı",
+   "at": "2026-11-26T04:10:34.846434+00:00",
+   "yazim": "claude",
+   "metin": "AK Parti Genel Başkan Yardımcısı Hayati Yazıcı, partideki görevlerinden istifa ettiğini açıkladı.\n\n— İstifa, oğlu Mustafa Yazıcı hakkındaki iddiaların ardından geldi.\n— Fon vurgunu büyürken iktidar bu krizle mücadelede zorlanıyor.\n— Eski Bakan ve AK Parti Genel Başkan Yardımcısı Fatma Betül Sayan Kaya da 19 gün hapis yattıktan sonra çıktı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/asrin-vurgunu-iktidarin-ayagina-dolandi-748508"
+   ]
   }
  ],
  "fails": {
@@ -13311,7 +13395,7 @@
   "f860003b35": 1,
   "c7531d98af": 2,
   "d2ce64f093": 1,
-  "ed01893b2f": 3
+  "628d88af6f": 1
  },
  "fail_log": [
   "2026-11-26T03:00 Halkın sofrası her gün eksiliyor: Gıda erişimi lüks haline g -> ValueError: yanıt okunamadı",
