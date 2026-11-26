@@ -2,88 +2,6 @@
  "seen": [
   {
    "fp": [
-    "25",
-    "karşı",
-    "kasım",
-    "mücad",
-    "şidde"
-   ],
-   "tok": [
-    "barış",
-    "basın",
-    "beyoğ",
-    "birle",
-    "bozab",
-    "bulun",
-    "cadde",
-    "dikka",
-    "dolay",
-    "düzen",
-    "eşits",
-    "gerek",
-    "gezi",
-    "giriş",
-    "göste",
-    "gün",
-    "günü",
-    "hesap",
-    "istik",
-    "itiba",
-    "içind",
-    "kadın",
-    "kaldı",
-    "kamu",
-    "kapat",
-    "karşı",
-    "kasım",
-    "kayma",
-    "komis",
-    "kontr",
-    "medya",
-    "metal",
-    "meyda",
-    "mücad",
-    "nde",
-    "nun",
-    "onayl",
-    "otomo",
-    "parkı",
-    "saat",
-    "sayıl",
-    "sendi",
-    "sosya",
-    "sömür",
-    "sözle",
-    "sürey",
-    "sınır",
-    "sıras",
-    "taciz",
-    "taksi",
-    "ten",
-    "topla",
-    "toplu",
-    "trafi",
-    "tünel",
-    "ulusl",
-    "yapmı",
-    "yaptı",
-    "yapıl",
-    "yasak",
-    "yaya",
-    "yaşam",
-    "yönel",
-    "yürüy",
-    "çalış",
-    "çağrı",
-    "çekti",
-    "örgüt",
-    "ılo",
-    "şidde"
-   ],
-   "at": "2026-11-24T18:45:25.337974+00:00"
-  },
-  {
-   "fp": [
     "987",
     "crist",
     "kariy",
@@ -10541,20 +10459,57 @@
     "ırak"
    ],
    "at": "2026-11-26T06:43:55.153685+00:00"
+  },
+  {
+   "fp": [
+    "13",
+    "hafta",
+    "lig",
+    "süper",
+    "yarın"
+   ],
+   "tok": [
+    "alany",
+    "açıla",
+    "açılı",
+    "ağırl",
+    "başla",
+    "başlı",
+    "beşik",
+    "derbi",
+    "dikka",
+    "edece",
+    "galat",
+    "gelec",
+    "gözle",
+    "günü",
+    "hafta",
+    "heyec",
+    "ise",
+    "karşı",
+    "kasım",
+    "konuk",
+    "konya",
+    "lig",
+    "maçla",
+    "ndaki",
+    "oynan",
+    "pazar",
+    "perde",
+    "rizes",
+    "saat",
+    "stadı",
+    "süper",
+    "tüpra",
+    "yarın",
+    "çayku",
+    "çeken",
+    "üncü"
+   ],
+   "at": "2026-11-26T06:56:17.385976+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "046fcc257f",
-   "post_id": "529346797199852_1478364867736554",
-   "title": "Balıkesir'de şiddetli yağış: Belediyeye 545 ihbar ulaştı",
-   "at": "2026-11-24T00:22:23.183933+00:00",
-   "yazim": "claude",
-   "metin": "Balıkesir'de akşam başlayan şiddetli yağmur sonrası belediyeye 545 ihbar ulaştı.\n\n— Büyükşehir Belediyesi itfaiye, BASKİ ve İlçe Hizmetleri ekipleri ilçe belediyeleri ve jandarmayla birlikte çalışıyor.\n— Başkan Ahmet Akın, ekiplerin yağış başlar başlamaz sahaya çıktığını ve ihtiyaç olan her noktaya müdahale edildiğini söyledi.\n— Yağıştan etkilenen yurttaşlar BASKİ ALO 185 ve Yakın Çözüm Çağrı Merkezi 444 40 10 numaralarından yardım talep edebilecek.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6010887/balikesir-de-siddetli-yagis-belediyeye-545-ihbar-ulasti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "a6f84e848f",
    "post_id": "529346797199852_1478371897735851",
@@ -13160,6 +13115,18 @@
     "BirGün: https://www.birgun.net/haber/mgk-bugun-toplaniyor-gundemde-neler-var-748531",
     "Karar: https://www.karar.com/guncel-haberler/yilin-son-mgk-toplantisi-bugun-yapilacak-2086299"
    ]
+  },
+  {
+   "id": "e412750192",
+   "post_id": "529346797199852_1480822937490747",
+   "title": "Süper Lig’de 13’üncü hafta heyecanı yarın başlıyor: Gözler Beşiktaş-Galatasaray derbisinde",
+   "at": "2026-11-26T06:56:17.385976+00:00",
+   "yazim": "claude",
+   "metin": "Süper Lig'in 13. haftası başlıyor, gözler Beşiktaş-Galatasaray derbisinde.\n\nHaftanın açılış maçlarında Alanyaspor, Konyaspor'u; Çaykur Rizespor ise Kasımpaşa'yı konuk edecek. Bu iki karşılaşma saat 20.00'de başlayacak.\n\n— Beşiktaş, 30 Kasım Pazartesi Galatasaray'ı ağırlayacak.\n— Tüpraş Stadı'ndaki derbi saat 21.00'de başlayacak.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/super-ligde-13-haftanin-perdesi-yarin-acilacak/4138190",
+    "Evrensel: https://www.evrensel.net/haber/6011253/super-lig-de-13-uncu-hafta-heyecani-yarin-basliyor-gozler-besiktas-galatasaray-derbisinde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13431,7 +13398,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2125842808577593482",
+   "since_id": "2125845547307135230",
    "started": true
   },
   "ajansmuhbir1923": {
