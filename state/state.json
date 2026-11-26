@@ -2,64 +2,6 @@
  "seen": [
   {
    "fp": [
-    "myk",
-    "parti",
-    "takım",
-    "özel",
-    "özgür"
-   ],
-   "tok": [
-    "alaca",
-    "anıtk",
-    "belir",
-    "birli",
-    "böke",
-    "deki",
-    "diğer",
-    "genel",
-    "getir",
-    "girdi",
-    "görev",
-    "idari",
-    "ise",
-    "isim",
-    "işler",
-    "kadro",
-    "kez",
-    "kişil",
-    "kurul",
-    "mecli",
-    "myk",
-    "nin",
-    "olağa",
-    "onayl",
-    "parti",
-    "polit",
-    "salih",
-    "sayek",
-    "sekre",
-    "selin",
-    "siyas",
-    "sonra",
-    "sözcü",
-    "takım",
-    "topla",
-    "uzun",
-    "ydk",
-    "yenid",
-    "yine",
-    "yönet",
-    "yürüt",
-    "ziyar",
-    "örgüt",
-    "özel",
-    "özgür",
-    "üyele"
-   ],
-   "at": "2026-11-25T10:03:20.928052+00:00"
-  },
-  {
-   "fp": [
     "5",
     "hsk",
     "isim",
@@ -10439,20 +10381,61 @@
     "ülken"
    ],
    "at": "2026-11-26T21:57:04.854732+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "gelip",
+    "motos",
+    "yaral",
+    "çocuk"
+   ],
+   "tok": [
+    "akşam",
+    "ambul",
+    "ateş",
+    "açtı",
+    "açtıl",
+    "bağcı",
+    "boş",
+    "buldu",
+    "bulun",
+    "gelen",
+    "gelip",
+    "hasta",
+    "ikisi",
+    "ilçes",
+    "kaldı",
+    "kaçan",
+    "kovan",
+    "kurşu",
+    "mahal",
+    "marke",
+    "motos",
+    "nde",
+    "olay",
+    "plaka",
+    "saat",
+    "silah",
+    "sürüy",
+    "sıral",
+    "tehli",
+    "yağdı",
+    "yaşan",
+    "yaşın",
+    "yerin",
+    "yüzyı",
+    "çalış",
+    "çevre",
+    "çocuk",
+    "önünd",
+    "önüne",
+    "öğren"
+   ],
+   "at": "2026-11-26T22:09:37.736897+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ff9a8710e3",
-   "post_id": "529346797199852_1479075830998791",
-   "title": "Ahmet Şık’tan Sayan Kaya’nın tahliyesi sonrası açıklama: “Şamil Tayyar sessizliğe büründü, Sabah yazarı sessiz sedasız gözaltına alındı”",
-   "at": "2026-11-24T15:29:38.226934+00:00",
-   "yazim": "claude",
-   "metin": "TİP İstanbul Milletvekili Ahmet Şık, eski Aile ve Sosyal Politikalar Bakanı Fatma Betül Sayan Kaya'nın ev hapsiyle tahliye edilmesini eleştirdi.\n\n— Sayan Kaya, fon ve hisse soruşturmasında 19 gün tutuklu kaldıktan sonra ev hapsi şartıyla tahliye edildi.\n\n— Şık, tahliyenin yalnızca sağlık durumuyla açıklanamayacağını ve soruşturmanın siyasi ayağının görünmez kılınmak istendiğini savundu.\n\n— Şık, Şamil Tayyar'ın şüpheli olarak ifade verdikten sonra sessizliğe büründüğünü belirtti.\n\n— Şık'a göre bir Sabah gazetesi ekonomi yazarı da sessiz sedasız gözaltına alındı ve şüpheli olarak ifade verdi.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6011021/ahmet-sik-tan-sayan-kaya-nin-tahliyesi-sonrasi-aciklama-samil-tayyar-sessizlige-burundu-sabah-yazari-sessiz-sedasiz-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "58a1342510",
    "post_id": "529346797199852_1479087687664272",
@@ -13067,6 +13050,18 @@
     "CNN Türk: https://www.cnnturk.com/spor/futbol/ibrahim-haciosmanoglu-bebek-katili-israil-bu-topraklarda-oynayamaz-3498779",
     "Sözcü Spor: https://www.sozcu.com.tr/haciosmanoglu-sessizligini-bozdu-bebek-katili-bir-ulkenin-takimi-bu-topraklarda-oynayamaz-p384742"
    ]
+  },
+  {
+   "id": "9b34e80039",
+   "post_id": "529346797199852_1481562350750139",
+   "title": "Motosikletle gelip çocuklara ateş açtılar: 2 çocuk yaralandı",
+   "at": "2026-11-26T22:09:37.736897+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'un Bağcılar ilçesinde motosikletle gelen iki şüpheli ateş açtı, 16 ve 12 yaşındaki iki çocuk yaralandı.\n\n— Olay akşam saat 21.30 sıralarında Yüzyıl Mahallesi'nde yaşandı. Şüpheliler bir iş yerinin önünde bulunanlara silahla ateş açtı.\n\n— Yaralı çocukların hayati tehlikesinin bulunmadığı öğrenildi. İkisi de ambulansla hastaneye kaldırıldı.\n\n— Polis, olay yerinde 4 boş kovan buldu. Kaçan şüphelileri yakalamak için çalışma sürüyor.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/motosikletle-gelip-cocuklara-ates-actilar-2-cocuk-yaralandi-p384741",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/motosikletle-gelip-kursun-yagdirdilar-2-cocuk-yaralandi-2559789"
+   ]
   }
  ],
  "fails": {
@@ -13358,7 +13353,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126072437393510588",
+   "since_id": "2126075823363170308",
    "started": true
   },
   "ajansmuhbir1923": {
