@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "313",
-    "bin",
-    "gündü",
-    "hapis",
-    "kaval",
-    "osman"
-   ],
-   "tok": [
-    "aktiv",
-    "alına",
-    "appea",
-    "aralı",
-    "avrup",
-    "bin",
-    "bırak",
-    "cezae",
-    "daval",
-    "derha",
-    "diken",
-    "edilm",
-    "ekim",
-    "farkl",
-    "first",
-    "gazia",
-    "gönde",
-    "gündü",
-    "hakla",
-    "hapis",
-    "insan",
-    "itiba",
-    "kasım",
-    "kaval",
-    "linka",
-    "nın",
-    "osman",
-    "post",
-    "rağme",
-    "serbe",
-    "siliv",
-    "site",
-    "sivil",
-    "tahli",
-    "the",
-    "toplu",
-    "verdi",
-    "yenid"
-   ],
-   "at": "2026-11-26T04:23:16.256540+00:00"
-  },
-  {
-   "fp": [
     "adale",
     "kanta",
     "murat",
@@ -10492,20 +10440,60 @@
     "şartı"
    ],
    "at": "2026-11-27T16:17:36.622321+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "37",
+    "altın",
+    "arttı",
+    "gram",
+    "hafta",
+    "tablo",
+    "yatır",
+    "yüzde"
+   ],
+   "tok": [
+    "altın",
+    "appea",
+    "arası",
+    "artar",
+    "arttı",
+    "avro",
+    "borsa",
+    "bıst",
+    "değer",
+    "diken",
+    "düştü",
+    "emekl",
+    "endek",
+    "first",
+    "fonla",
+    "gram",
+    "hafta",
+    "ise",
+    "kazan",
+    "linka",
+    "liray",
+    "para",
+    "piyas",
+    "post",
+    "puand",
+    "seçen",
+    "site",
+    "tablo",
+    "tamam",
+    "tek",
+    "the",
+    "yatır",
+    "yükse",
+    "yüzde",
+    "çıktı"
+   ],
+   "at": "2026-11-27T16:30:12.822982+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f7722aca25",
-   "post_id": "529346797199852_1479954814244226",
-   "title": "Tutuklu gazeteci Derya Okatan’dan mektup: Gizli olmayan belgelerin 'gizli' olduğu iddiasıyla tutuklandım",
-   "at": "2026-11-25T11:28:39.936589+00:00",
-   "yazim": "claude",
-   "metin": "Tutuklu gazeteci Derya Okatan, cezaevinden yazdığı mektupta:\n\n“Bu günün benim için ayrı bir önemi var. 14 Ocak’ta oğlum 5 yaşına girecek. O gün kavuşabilirsek ikimize de en güzel hediye olacak.”\n\n— Okatan yaklaşık 2 aydır tutuklu bulunuyor.\n— Tutuklanmasına neden olan belgelerin \"gizli\" olduğuna dair iddianamede hiçbir bilgi olmadığını belirtiyor.\n— Davanın ilk duruşması 14 Ocak'ta görülecek.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/tutuklu-gazeteci-derya-okatandan-mektup-gizli-olmayan-belgelerin-gizli-oldugu-iddiasiyla-tutuklandim-748398"
-   ]
-  },
   {
    "id": "4b29f610b2",
    "post_id": "529346797199852_1479965067576534",
@@ -13137,6 +13125,17 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/suleymancilar-sorusturmasinda-karar-18-kisi-tutuklandi-4-kisiye-adli-2086685"
    ]
+  },
+  {
+   "id": "7930d6b6c6",
+   "post_id": "529346797199852_1482398030666571",
+   "title": "Yatırımda haftalık tablo: Gram altın yüzde 2,37 arttı",
+   "at": "2026-11-27T16:30:12.822982+00:00",
+   "yazim": "claude",
+   "metin": "Gram altın bu hafta yüzde 2,37 yükseldi, Borsa İstanbul ise yüzde 1,39 değer kaybetti.\n\n— Dolar yüzde 0,40 artarak 50,7830 liraya, avro yüzde 0,02 artarak 55,6690 liraya çıktı.\n\n— BIST 100 endeksi haftayı 10.977,01 puandan tamamladı.\n\n— Yatırım fonları yüzde 1,93, emeklilik fonları yüzde 2,32 değer kaybetti. Yatırım fonları arasında tek kazandıran, yüzde 0,4 ile para piyasası fonları oldu.",
+   "sources": [
+    "Diken: https://www.diken.com.tr/yatirimda-haftalik-tablo-gram-altin-yuzde-237-artti/?utm_source=rss&utm_medium=rss&utm_campaign=yatirimda-haftalik-tablo-gram-altin-yuzde-237-artti"
+   ]
   }
  ],
  "fails": {
@@ -13445,7 +13444,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126346391660486703",
+   "since_id": "2126350107927007542",
    "started": true
   },
   "ajansmuhbir1923": {
