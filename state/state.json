@@ -10521,20 +10521,59 @@
     "üye"
    ],
    "at": "2026-11-27T02:23:09.653205+00:00"
+  },
+  {
+   "fp": [
+    "100",
+    "binle",
+    "derin",
+    "dışın",
+    "eğiti",
+    "kopuş",
+    "çocuk"
+   ],
+   "tok": [
+    "artıy",
+    "açıkö",
+    "bine",
+    "binle",
+    "derin",
+    "devam",
+    "dışın",
+    "erg",
+    "eğiti",
+    "geçen",
+    "giriş",
+    "hızla",
+    "kaldı",
+    "kalıy",
+    "kopuş",
+    "koydu",
+    "lisel",
+    "mesle",
+    "nin",
+    "okul",
+    "oranı",
+    "ortay",
+    "rapor",
+    "refor",
+    "sınıf",
+    "tablo",
+    "tekra",
+    "tırma",
+    "ulaşt",
+    "uncu",
+    "yakın",
+    "yüzde",
+    "yıldı",
+    "çocuk",
+    "çocuğ",
+    "örgün"
+   ],
+   "at": "2026-11-27T02:35:57.839313+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1f8f74162c",
-   "post_id": "529346797199852_1479290047644036",
-   "title": "Kilosu 1 milyon 400 bin liraya dayandı: Safranbolu’da en değerli hasat sona erdi!",
-   "at": "2026-11-24T19:51:21.771036+00:00",
-   "yazim": "claude",
-   "metin": "Karabük'ün Safranbolu ilçesinde safran hasadı bitti, kilosu 800 bin ile 1 milyon 400 bin lira arasında satılıyor.\n\n— Çiçeklerin kırmızı tepecikleri tek tek ayrılıp kurutuluyor, ürün şimdi tüketime hazırlanıyor.\n— Bu sezon 56 kilogram rekolte bekleniyor.\n— Avrupa Birliği coğrafi işaret tescili olan Safranbolu safranı, rengi ve aromasıyla hem yurt içinde hem yurt dışında yoğun talep görüyor.\n— Dünyanın en pahalı baharatı olarak biliniyor.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/kilosu-1-milyon-400-bin-liraya-dayandi-safranboluda-en-degerli-hasat-2086058"
-   ]
-  },
   {
    "id": "3b21b6143c",
    "post_id": "529346797199852_1479302244309483",
@@ -13128,6 +13167,17 @@
     "BirGün: https://www.birgun.net/haber/2-trilyon-avroluk-butcede-kriz-ab-liderleri-uzlasamadi-748714",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/ab-liderleri-yeni-butcede-anlasma-saglayamadi-43392625"
    ]
+  },
+  {
+   "id": "34799b3a89",
+   "post_id": "529346797199852_1481741060732268",
+   "title": "Eğitimde kopuş derinleşiyor: Yüz binlerce çocuk eğitim dışında",
+   "at": "2026-11-27T02:35:57.839313+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'de 580 bine yakın çocuk okul dışında kalıyor, örgün eğitimden kopuş hızlanıyor.\n\nEğitim Reformu Girişimi'nin (ERG) 2026 raporu bu tabloyu ortaya koydu.\n\n— Meslek liselerinde devamsızlık ve sınıf tekrarı son üç yıldır artıyor.\n— 9. sınıfta açıköğretime geçenlerin oranı yüzde 61'e ulaştı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/egitimde-kopus-derinlesiyor-yuz-binlerce-cocuk-egitim-disinda-748689"
+   ]
   }
  ],
  "fails": {
@@ -13376,15 +13426,10 @@
   "2e63f2dd22": 1,
   "375b7dd3a0": 1,
   "62965dea54": 2,
-  "523aca88bc": 1
+  "523aca88bc": 2,
+  "c61729f565": 1
  },
  "fail_log": [
-  "2026-11-26T21:49 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:49 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:49 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:49 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:49 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:49 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
   "2026-11-26T21:49 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
   "2026-11-26T21:49 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
   "2026-11-26T21:49 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
@@ -13418,7 +13463,13 @@
   "2026-11-27T01:23 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
   "2026-11-27T02:10 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
   "2026-11-27T02:10 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
-  "2026-11-27T02:10 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı"
+  "2026-11-27T02:10 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:36 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:36 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:36 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:36 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:36 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:36 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
