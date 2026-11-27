@@ -2,53 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "5",
-    "hasek",
-    "saldı",
-    "yaral",
-    "ölü",
-    "ışid"
-   ],
-   "tok": [
-    "alınd",
-    "ardın",
-    "belir",
-    "biri",
-    "diğer",
-    "düzen",
-    "ettir",
-    "giriş",
-    "görev",
-    "güven",
-    "güçle",
-    "hasek",
-    "infil",
-    "kapın",
-    "kenti",
-    "mahal",
-    "mensu",
-    "motos",
-    "müşey",
-    "nde",
-    "ndeki",
-    "nin",
-    "olay",
-    "olayı",
-    "patla",
-    "suriy",
-    "yeri",
-    "çembe",
-    "çevre",
-    "önünd",
-    "üyesi",
-    "üzeri",
-    "ışid"
-   ],
-   "at": "2026-11-25T23:27:20.427374+00:00"
-  },
-  {
-   "fp": [
     "12pun",
     "engel",
     "erişi",
@@ -10610,20 +10563,59 @@
     "ınsta"
    ],
    "at": "2026-11-27T11:25:19.061313+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "malte",
+    "opera",
+    "tutuk",
+    "uyuşt",
+    "şüphe"
+   ],
+   "tok": [
+    "adli",
+    "alına",
+    "alınd",
+    "arama",
+    "aydın",
+    "bin",
+    "deste",
+    "dron",
+    "dükka",
+    "düzen",
+    "edirn",
+    "efele",
+    "ekip",
+    "gram",
+    "görev",
+    "hafta",
+    "hap",
+    "hassa",
+    "ilçes",
+    "içişl",
+    "kapsa",
+    "katıl",
+    "kilo",
+    "kilog",
+    "kokor",
+    "kontr",
+    "köpeğ",
+    "malte",
+    "mücad",
+    "narko",
+    "perso",
+    "teraz",
+    "ton",
+    "uygul",
+    "uyuşt",
+    "yakla",
+    "ünlül"
+   ],
+   "at": "2026-11-27T11:38:08.243120+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f9fe550dfc",
-   "post_id": "529346797199852_1479708710935503",
-   "title": "Petrol fiyatları yeniden geriledi: Brent petrol 90 dolar sınırında",
-   "at": "2026-11-25T05:54:27.649256+00:00",
-   "yazim": "claude",
-   "metin": "Brent petrolün varil fiyatı yüzde 1,31 düşüşle 90,09 dolara geriledi.\n\n— ABD Batı Teksas türü (WTI) ham petrolün varili de yüzde 1,33 düşüşle 80,77 dolara indi.\n— İki petrol türü de bir önceki işlem gününde yüzde 2'nin üzerinde yükselmişti.\n— Uluslararası Enerji Ajansı (IEA), Ortadoğu'dan ihracatın toparlanmasıyla yılın son çeyreğinde arz fazlası oluşabileceğini öngörüyor. Bu beklenti fiyatları aşağı çekiyor.\n— Öte yandan Hürmüz Boğazı çevresinde gemilere yönelik saldırılar, petrol sevkiyatı konusundaki endişeleri artırıyor.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6011070/petrol-fiyatlari-yeniden-geriledi-brent-petrol-90-dolar-sinirinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "ec7dce33e8",
    "post_id": "529346797199852_1479733107599730",
@@ -13247,6 +13239,22 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6011464/tgc-erisim-engeli-yayin-durdurma-gozalti-ve-tutuklulukla-gazetecilik-yapilmaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "495701f0dc",
+   "post_id": "529346797199852_1482129964026711",
+   "title": "Maltepe'de uyuşturucu operasyonu: 3 şüpheli tutuklandı",
+   "at": "2026-11-27T11:38:08.243120+00:00",
+   "yazim": "claude",
+   "metin": "İçişleri Bakanlığı, son iki haftada 73 ilde yapılan uyuşturucu operasyonlarında 1017 şüpheliyi tutukladı.\n\nOperasyonlarda 2 ton 761 kilogram uyuşturucu ile yaklaşık 2 milyon uyuşturucu hap ele geçirildi.\n\n— Operasyonlara 2 bin 431 ekip ve 3 bin 889 personel katıldı, 35 narkotik köpeği de görev yaptı.\n— Yakalanan 1870 şüpheliden 291'i hakkında adli kontrol uygulandı.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/73-ilde-uyusturucu-operasyonu-bin-17-tutuklama-1752828",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-unlulere-uyusturu-operasyonu-3-tutuklama-3930489",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/maltepe-de-uyusturucu-operasyonu-3-supheli-tutuklandi-2559860",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/edirnede-kokorecci-dukkaninda-uyusturucu-ele-gecirildi-4877097",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/aydin-efelerde-uyusturucu-operasyonu-2-supheli-yakalandi-aydin-haberleri-4877053",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/maltepede-dron-destekli-uyusturucu-operasyonu-3-tutuklama-4877049"
+   ]
   }
  ],
  "fails": {
@@ -13551,7 +13559,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126270518324277376",
+   "since_id": "2126278506825023810",
    "started": true
   },
   "ajansmuhbir1923": {
