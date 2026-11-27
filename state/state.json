@@ -10582,22 +10582,73 @@
     "üçünc"
    ],
    "at": "2026-11-27T03:36:32.623380+00:00"
+  },
+  {
+   "fp": [
+    "beşik",
+    "büyük",
+    "deste",
+    "nın",
+    "stand",
+    "tepki",
+    "uefa",
+    "yağıy",
+    "çifte"
+   ],
+   "tok": [
+    "bazı",
+    "başak",
+    "beşik",
+    "bildi",
+    "büyük",
+    "deste",
+    "değer",
+    "değil",
+    "ettiğ",
+    "fener",
+    "galat",
+    "gerek",
+    "gürci",
+    "güven",
+    "güçle",
+    "hasta",
+    "ilgil",
+    "kaldı",
+    "kendi",
+    "kulüp",
+    "kınad",
+    "maçı",
+    "maçın",
+    "müdah",
+    "nın",
+    "olayl",
+    "orant",
+    "oynam",
+    "oynan",
+    "saha",
+    "sahad",
+    "sahas",
+    "savun",
+    "stand",
+    "sıras",
+    "taraf",
+    "tepki",
+    "trabz",
+    "uefa",
+    "vermi",
+    "yaptı",
+    "yağıy",
+    "yaşan",
+    "yenid",
+    "yönel",
+    "çifte",
+    "önces",
+    "ışığı"
+   ],
+   "at": "2026-11-27T03:49:05.019170+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0ff2eb3cc0",
-   "post_id": "529346797199852_1479348067638234",
-   "title": "Demir çelik fabrikasında yangın: 2 işçi dumandan etkilendi",
-   "at": "2026-11-24T21:09:26.791564+00:00",
-   "yazim": "claude",
-   "metin": "Tekirdağ'ın Çerkezköy ilçesinde bir demir çelik fabrikasında yangın çıktı; dumandan etkilenen 2 işçi ambulansta müdahale edildi.\n\n— Yangın, kaynak çalışması sırasında çıktığı belirtilen fabrikada, Veliköy Mahallesi'ndeki sanayi sitesinde çıktı.\n\n— İtfaiye ekipleri yaklaşık 1 saatte yangını kontrol altına alıp söndürdü.\n\n— Yangının nasıl çıktığı konusunda inceleme başlatıldı.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/tekirdag/cerkezkoy/tekirdagda-demir-celik-fabrikasinda-yangin-2-kisi-dumandan-etkilendi-3497805",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/demir-celik-fabrikasinda-yangin-2-isci-dumandan-etkilendi-2559117",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/cerkezkoyde-demir-celik-fabrikasinda-yangin-cikti-4876187"
-   ]
-  },
   {
    "id": "221f709028",
    "post_id": "529346797199852_1479356354304072",
@@ -13177,6 +13228,17 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ekrem-imamoglu-cumhuriyet-e-konustu-28-aylik-demokrasi-seferberligi-ilan-edelim-gerisi-kolay-2559773"
    ]
+  },
+  {
+   "id": "703360b063",
+   "post_id": "529346797199852_1481794304060277",
+   "title": "Beşiktaş'a destek yağıyor! UEFA'nın çifte standardına büyük tepki",
+   "at": "2026-11-27T03:49:05.019170+00:00",
+   "yazim": "claude",
+   "metin": "Beşiktaş'ın Gürcistan'da oynanan maçı öncesinde ve sırasında taraftarlara güvenlik güçlerinin müdahale ettiği, bazı taraftarların yaralanarak hastaneye kaldırıldığı bildirildi.\n\n— UEFA, Beşiktaş'ın iç saha maçını kendi sahasında değil tarafsız sahada oynamasına karar vermişti.\n— Trabzonspor, Fenerbahçe, Galatasaray ve Başakşehir, güvenlik güçlerinin orantısız müdahalesini kınadı.\n— Fenerbahçe, UEFA'nın bu kararının yaşanan olaylar ışığında yeniden değerlendirilmesi gerektiğini savundu.",
+   "sources": [
+    "Sözcü Spor: https://www.sozcu.com.tr/besiktas-a-destek-yagiyor-uefa-nin-cifte-standardina-buyuk-tepki-p384710"
+   ]
   }
  ],
  "fails": {
@@ -13425,12 +13487,9 @@
   "2e63f2dd22": 1,
   "375b7dd3a0": 1,
   "62965dea54": 2,
-  "20ce4238c7": 1
+  "20ce4238c7": 2
  },
  "fail_log": [
-  "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
-  "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
-  "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
   "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
   "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: cümle yarım kalmış: 'r tutuklu olduğu Silivri'den yanıtladığı'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
@@ -13467,7 +13526,10 @@
   "2026-11-27T03:36 Torba işkolunda sendikal haklar çıkmazda: Barajlara karşı or -> ValueError: yanıt okunamadı",
   "2026-11-27T03:36 Torba işkolunda sendikal haklar çıkmazda: Barajlara karşı or -> ValueError: yanıt okunamadı",
   "2026-11-27T03:36 Torba işkolunda sendikal haklar çıkmazda: Barajlara karşı or -> ValueError: yanıt okunamadı",
-  "2026-11-27T03:36 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı"
+  "2026-11-27T03:36 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
+  "2026-11-27T03:49 Torba işkolunda sendikal haklar çıkmazda: Barajlara karşı or -> ValueError: yanıt okunamadı",
+  "2026-11-27T03:49 Torba işkolunda sendikal haklar çıkmazda: Barajlara karşı or -> ValueError: yanıt okunamadı",
+  "2026-11-27T03:49 Torba işkolunda sendikal haklar çıkmazda: Barajlara karşı or -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
