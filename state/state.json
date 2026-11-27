@@ -2,54 +2,6 @@
  "seen": [
   {
    "fp": [
-    "13",
-    "hafta",
-    "lig",
-    "süper",
-    "yarın"
-   ],
-   "tok": [
-    "alany",
-    "açıla",
-    "açılı",
-    "ağırl",
-    "başla",
-    "başlı",
-    "beşik",
-    "derbi",
-    "dikka",
-    "edece",
-    "galat",
-    "gelec",
-    "gözle",
-    "günü",
-    "hafta",
-    "heyec",
-    "ise",
-    "karşı",
-    "kasım",
-    "konuk",
-    "konya",
-    "lig",
-    "maçla",
-    "ndaki",
-    "oynan",
-    "pazar",
-    "perde",
-    "rizes",
-    "saat",
-    "stadı",
-    "süper",
-    "tüpra",
-    "yarın",
-    "çayku",
-    "çeken",
-    "üncü"
-   ],
-   "at": "2026-11-26T06:56:17.385976+00:00"
-  },
-  {
-   "fp": [
     "alınd",
     "burak",
     "gözal",
@@ -13285,16 +13237,12 @@
   "f24404efe7": 1,
   "4b2c1d6f80": 2,
   "8756889e44": 2,
-  "10c6f8b4a0": 1
+  "10c6f8b4a0": 1,
+  "786838d9d7": 1,
+  "86db156766": 1,
+  "b21b853a89": 1
  },
  "fail_log": [
-  "2026-11-27T11:00 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
-  "2026-11-27T12:03 'Yeşil' ve Çakıcı'yla anılıyordu: Selim Işık Üsküdar'da yaka -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-27T12:48 86 milyonun cebine özel doktor geliyor: \"Ritmik\" dönemi başl -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
-  "2026-11-27T13:26 İngiltere ve Galler'de yargıya yapay zeka uyarısı: En az 25  -> ValueError: yanıt okunamadı",
-  "2026-11-27T13:26 İngiltere ve Galler'de yargıya yapay zeka uyarısı: En az 25  -> ValueError: yanıt okunamadı",
-  "2026-11-27T13:26 İngiltere ve Galler'de yargıya yapay zeka uyarısı: En az 25  -> ValueError: yanıt okunamadı",
-  "2026-11-27T13:26 DİSK, KESK, TMMOB ve TTB'den 12 Aralık mitingine çağrı: “Bu  -> ValueError: yanıt okunamadı",
   "2026-11-27T13:26 DİSK, KESK, TMMOB ve TTB'den 12 Aralık mitingine çağrı: “Bu  -> ValueError: yanıt okunamadı",
   "2026-11-27T13:26 DİSK, KESK, TMMOB ve TTB'den 12 Aralık mitingine çağrı: “Bu  -> ValueError: yanıt okunamadı",
   "2026-11-27T14:09 İngiltere ve Galler'de yargıya yapay zeka uyarısı: En az 25  -> ValueError: yanıt okunamadı",
@@ -13327,12 +13275,19 @@
   "2026-11-27T17:39 Gözde Şeker yazdı | Kartal’a doğru: Emeğin ittifakı yeni bir -> ValueError: yanıt okunamadı",
   "2026-11-27T17:39 Gözde Şeker yazdı | Kartal’a doğru: Emeğin ittifakı yeni bir -> ValueError: yanıt okunamadı",
   "2026-11-27T17:39 Gözde Şeker yazdı | Kartal’a doğru: Emeğin ittifakı yeni bir -> ValueError: yanıt okunamadı",
-  "2026-11-27T17:55 Fon vurgunu soruşturmasında bir tahliye daha: Prof. Dr. Ali  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-27T17:55 Fon vurgunu soruşturmasında bir tahliye daha: Prof. Dr. Ali  -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-27T19:02 İrfan Can Kahveci'nin eşi Gözde Kahveci'nin, Yunus Akgün ve  -> ValueError: yanıt okunamadı",
+  "2026-11-27T19:02 İrfan Can Kahveci'nin eşi Gözde Kahveci'nin, Yunus Akgün ve  -> ValueError: yanıt okunamadı",
+  "2026-11-27T19:02 İrfan Can Kahveci'nin eşi Gözde Kahveci'nin, Yunus Akgün ve  -> ValueError: yanıt okunamadı",
+  "2026-11-27T19:02 Erenköy’de İtalyan esintisi: Olio Brasserie’de lezzet, sanat -> ValueError: yanıt okunamadı",
+  "2026-11-27T19:02 Erenköy’de İtalyan esintisi: Olio Brasserie’de lezzet, sanat -> ValueError: yanıt okunamadı",
+  "2026-11-27T19:02 Erenköy’de İtalyan esintisi: Olio Brasserie’de lezzet, sanat -> ValueError: yanıt okunamadı",
+  "2026-11-27T19:02 Siirt'te jandarma ekipleri, şehit Jandarma Uzman Çavuş Kürşa -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126384266514751875",
+   "since_id": "2126390249966260295",
    "started": true
   },
   "ajansmuhbir1923": {
