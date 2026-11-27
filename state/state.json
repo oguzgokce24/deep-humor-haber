@@ -10515,23 +10515,49 @@
     "üzerl"
    ],
    "at": "2026-11-27T00:44:48.919939+00:00"
+  },
+  {
+   "fp": [
+    "3",
+    "9",
+    "afad",
+    "antal",
+    "açıkl",
+    "büyük",
+    "depre",
+    "duyur",
+    "kaş"
+   ],
+   "tok": [
+    "afad",
+    "alıyo",
+    "antal",
+    "büyük",
+    "deniz",
+    "depre",
+    "derin",
+    "duyur",
+    "geldi",
+    "göre",
+    "ilçes",
+    "kayde",
+    "kaş",
+    "kilom",
+    "meyda",
+    "nın",
+    "saat",
+    "sarsı",
+    "uzakl",
+    "veril",
+    "yakla",
+    "yer",
+    "yerin",
+    "üssü"
+   ],
+   "at": "2026-11-27T00:57:30.414765+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f8ec8e826c",
-   "post_id": "529346797199852_1479220937650947",
-   "title": "Çarpıcı araştırma sonucu: İşte 'fon vurgununun' AKP'ye etkisi! Yüzde 4.1'i eridi!",
-   "at": "2026-11-24T18:19:34.237427+00:00",
-   "yazim": "claude",
-   "metin": "TBMM Genel Kurulunda, fon skandalına karışan milletvekillerinin hesaplarının araştırılması önergesi AKP ve MHP oylarıyla reddedildi.\n\n— İYİ Parti'nin verdiği önergede, fonlardaki tüm milletvekillerinin işlemleri, para kaynakları ve kazançlarının incelenmesi isteniyordu.\n\n— İYİ Parti Grup Başkanvekili Uğur Poyraz, bugüne kadar bu konuda yaklaşık 21 önerge verildiğini ama hiçbirinin kabul edilmediğini söyledi.\n\n— Poyraz: “Bu önerge bizim için değil, bu önerge sizin için.”\n\n— CHP'li Selma Aliye Kavaf da bütün partilerin temsil edildiği bir komisyon kurulmasını istedi.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/carpici-arastirma-sonucu-iste-fon-vurgununun-akp-ye-etkisi-yuzde-4-1-i-eridi-2559076",
-    "Evrensel: https://www.evrensel.net/haber/6011033/fon-vurgununda-milletvekillerinin-hesaplarinin-arastirilmasi-onerisine-akp-ve-mhp-den-ret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/muhalefet-fon-skandalina-karisan-milletvekillerinin-hesaplari-arastirilsin-dedi-akp-ve-mhp-reddetti-748248",
-    "BirGün: https://www.birgun.net/haber/muhalefet-fon-dolandiriciligi-arastirilsin-dedi-akp-ve-mhp-reddetti-gonullu-iadeler-devam-ediyor-748245"
-   ]
-  },
   {
    "id": "48d35c9836",
    "post_id": "529346797199852_1479231100983264",
@@ -13133,6 +13159,19 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/bakan-ciftci-skandal-detayi-anlatti-besiktas-taraftarinin-elinden-filistin-bayraklarini-uefa-yetkilileri-almis-3498778",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/gurcistan-polisinden-sert-mudahale-besiktasli-taraftarlar-yasananlari-anlatti-bir-anda-ustumuze-cullandilar-tek-yaptigimiz-filistin-bayragi-acmakti-2559787"
    ]
+  },
+  {
+   "id": "2c1b60b5e4",
+   "post_id": "529346797199852_1481671530739221",
+   "title": "Kaş açıklarında 3,9 büyüklüğünde deprem",
+   "at": "2026-11-27T00:57:30.414765+00:00",
+   "yazim": "claude",
+   "metin": "Antalya'nın Kaş ilçesi açıklarında, denizde 3,9 büyüklüğünde bir deprem meydana geldi.\n\n— AFAD verilerine göre merkez üssü Kaş'a yaklaşık 80 kilometre uzaklıkta yer alıyor.\n— Sarsıntı yerin 16,93 kilometre derinliğinde kaydedildi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/afad-duyurdu-antalya-kas-aciklarinda-3-9-buyuklugunde-deprem-7708892",
+    "Sözcü: https://www.sozcu.com.tr/kas-aciklarinda-39-buyuklugunde-deprem-p384758",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/afad-duyurdu-antalya-kas-aciklarinda-3-9-buyuklugunde-deprem-7708892"
+   ]
   }
  ],
  "fails": {
@@ -13378,12 +13417,10 @@
   "a0a4ab6d38": 1,
   "456294a7c8": 1,
   "f352fb04e0": 2,
-  "2e63f2dd22": 1
+  "2e63f2dd22": 1,
+  "375b7dd3a0": 1
  },
  "fail_log": [
-  "2026-11-26T21:41 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:41 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:41 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
@@ -13420,7 +13457,10 @@
   "2026-11-26T22:32 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T22:32 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T23:59 Kervanpınar’da tel örgülerin ardında 1 ay: ‘Toprağımız bize  -> ValueError: yanıt okunamadı",
-  "2026-11-26T23:59 Kervanpınar’da tel örgülerin ardında 1 ay: ‘Toprağımız bize  -> ValueError: yanıt okunamadı"
+  "2026-11-26T23:59 Kervanpınar’da tel örgülerin ardında 1 ay: ‘Toprağımız bize  -> ValueError: yanıt okunamadı",
+  "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
+  "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
+  "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
