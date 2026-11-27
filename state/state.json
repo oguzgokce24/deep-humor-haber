@@ -2,65 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "ankar",
-    "başke",
-    "fetö",
-    "firar",
-    "opera",
-    "yakal"
-   ],
-   "tok": [
-    "adres",
-    "alına",
-    "anaya",
-    "arana",
-    "aranı",
-    "ardın",
-    "baskı",
-    "başke",
-    "bulun",
-    "cezae",
-    "cezas",
-    "diğer",
-    "düzen",
-    "edile",
-    "ekipl",
-    "emniy",
-    "fetul",
-    "fetö",
-    "firar",
-    "fizik",
-    "hakla",
-    "hapis",
-    "hüküm",
-    "ikisi",
-    "işlem",
-    "kaldı",
-    "kişil",
-    "olmak",
-    "ortad",
-    "sakla",
-    "silah",
-    "takip",
-    "tekni",
-    "terör",
-    "tesli",
-    "tespi",
-    "teşeb",
-    "vakti",
-    "yönel",
-    "yıl",
-    "yıldı",
-    "yılla",
-    "örgüt",
-    "üye",
-    "şafak"
-   ],
-   "at": "2026-11-26T05:25:57.522426+00:00"
-  },
-  {
-   "fp": [
     "1",
     "19",
     "6",
@@ -10473,23 +10414,73 @@
     "şartı"
    ],
    "at": "2026-11-27T17:13:33.793655+00:00"
+  },
+  {
+   "fp": [
+    "akp",
+    "antal",
+    "başka",
+    "beled",
+    "büyük",
+    "büşra",
+    "den",
+    "geced",
+    "geçen",
+    "karar",
+    "rahat",
+    "sabah",
+    "verme",
+    "vicda",
+    "özdem"
+   ],
+   "tok": [
+    "akp",
+    "antal",
+    "aydır",
+    "beled",
+    "ben",
+    "büyük",
+    "büşra",
+    "chp",
+    "den",
+    "emin",
+    "ercan",
+    "ettiğ",
+    "geced",
+    "gerek",
+    "geçen",
+    "geçiş",
+    "grup",
+    "gülen",
+    "ihtiy",
+    "ilişk",
+    "içind",
+    "mecli",
+    "nden",
+    "nın",
+    "olun",
+    "parti",
+    "rahat",
+    "sabah",
+    "siyas",
+    "sordu",
+    "sorus",
+    "soruy",
+    "sözcü",
+    "topla",
+    "vekil",
+    "verdi",
+    "verme",
+    "vicda",
+    "yanıt",
+    "yönel",
+    "yıldı",
+    "özdem"
+   ],
+   "at": "2026-11-27T17:26:22.776519+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e98aeb05e6",
-   "post_id": "529346797199852_1479997724239935",
-   "title": "Diyarbakır’da bir mağarada çok sayıda kafatası ve kemik bulundu",
-   "at": "2026-11-25T12:18:35.680843+00:00",
-   "yazim": "claude",
-   "metin": "Diyarbakır'ın Silvan ilçesinde, kırsaldaki Boyunlu Mahallesi'ndeki bir mağarada insana ait olduğu belirtilen çok sayıda kafatası ve kemik bulundu. Savcılık soruşturma başlattı.\n\n— Olay, 23 Kasım'daki bir ihbarın ardından ortaya çıktı. Olay yeri muhafaza altına alındı.\n\n— Jandarma, AFAD ekipleri ve savcının katılımıyla mağarada keşif yapıldı.\n\n— Bulunan kafatası ve kemikler incelenmek üzere Adli Tıp Kurumu Grup Başkanlığı'na gönderilecek.\n\n— Silvan, 1990'lı yıllarda JİTEM ve Hizbullah bağlantılı faili meçhul cinayetlerin ve zorla kaybetmelerin yaşandığı ilçeler arasında yer alıyor.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/diyarbakir-da-bir-magarada-cok-sayida-kafatasi-ve-kemik-bulundu-p384330",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/magaradan-kafatasi-ve-kemikler-cikmisti-diyarbakir-daki-esrarengiz-olaya-sorusturma-2559310",
-    "BirGün: https://www.birgun.net/haber/diyarbakir-da-magarada-bulunan-kafatasi-ve-kemikler-icin-sorusturma-baslatildi-748389",
-    "Karar: https://www.karar.com/guncel-haberler/faili-mechul-cinayetlerle-anilan-silvanda-magarada-kafataslari-bulundu-2086205"
-   ]
-  },
   {
    "id": "eab28309e6",
    "post_id": "529346797199852_1480057674233940",
@@ -13119,6 +13110,19 @@
     "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-alihan-kuris-suc-orgutune-8-ilde-operasyon-18-tutuklama-3498966",
     "Habertürk: https://www.haberturk.com/gundem/ankara-merkezli-8-ilde-duzenlenen-alihan-kuris-suc-orgutu-operasyonunda-18-tutuklama-3930690"
    ]
+  },
+  {
+   "id": "83ff00beba",
+   "post_id": "529346797199852_1482451910661183",
+   "title": "CHP’den AKP’ye geçen Antalya Büyükşehir Belediye Başkanvekili’nden açıklama",
+   "at": "2026-11-27T17:26:22.776519+00:00",
+   "yazim": "claude",
+   "metin": "Antalya Büyükşehir Belediye Başkan Vekili Büşra Özdemir, AKP'ye geçişine ilişkin meclis toplantısında soruya yanıt verdi.\n\nBüşra Özdemir:\n\n“Vicdanım çok rahat. Emin olun ben geceden sabaha bir karar vermedim.”\n\n— Soruyu YENİ Parti Grup Sözcüsü Gülen Ercan sordu. Özdemir, kararını Antalya'nın ihtiyaçlarıyla gerekçelendirdi.\n\n— Özdemir, 20 yıldır siyasetin içinde olduğunu ve 17 aydır Antalya Büyükşehir Belediyesi'ne başkanlık ettiğini söyledi.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/akp-ye-gecen-antalya-buyuksehir-belediyesi-baskan-vekili-busra-ozdemir-vicdanim-cok-rahat-geceden-sabaha-bir-karar-vermedim-2559999",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/baskanvekili-ozdemirden-antalya-meclisinde-vicdan-yaniti-4877245",
+    "BirGün: https://www.birgun.net/haber/chpden-akpye-gecen-antalya-buyuksehir-belediye-baskanvekilinden-aciklama-748846"
+   ]
   }
  ],
  "fails": {
@@ -13380,15 +13384,11 @@
   "98d773cdec": 1,
   "fca54daf56": 1,
   "b5f050605a": 1,
-  "f24404efe7": 1
+  "f24404efe7": 1,
+  "4b2c1d6f80": 1,
+  "8756889e44": 1
  },
  "fail_log": [
-  "2026-11-27T08:37 Emirhan Topçu: \"Valla iki gündür başımıza gelmeyen kalmadı.  -> ValueError: yanıt okunamadı",
-  "2026-11-27T08:37 Emirhan Topçu: \"Valla iki gündür başımıza gelmeyen kalmadı.  -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
-  "2026-11-27T09:22 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
-  "2026-11-27T09:22 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
-  "2026-11-27T09:22 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
-  "2026-11-27T10:01 Doğan Alemdar: Tüm Türk milleti arkamızda durdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-27T10:47 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
   "2026-11-27T10:47 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
   "2026-11-27T10:47 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
@@ -13422,12 +13422,18 @@
   "2026-11-27T14:26 İngiltere ve Galler'de yargıya yapay zeka uyarısı: En az 25  -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-27T14:59 'Hayata Dönüş' davasında zamanaşımı kararı kesinleşti: Yargı -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-27T15:12 \"Ayarı ellemeden bozuk de\" skandalında yeni gelişme: İşletme -> ValueError: yanıt okunamadı",
-  "2026-11-27T15:12 \"Ayarı ellemeden bozuk de\" skandalında yeni gelişme: İşletme -> ValueError: yanıt okunamadı"
+  "2026-11-27T15:12 \"Ayarı ellemeden bozuk de\" skandalında yeni gelişme: İşletme -> ValueError: yanıt okunamadı",
+  "2026-11-27T17:26 Balıkçılar lodos engelini fırsata çevirdi: Lüfer ve hamsi mü -> ValueError: yanıt okunamadı",
+  "2026-11-27T17:26 Balıkçılar lodos engelini fırsata çevirdi: Lüfer ve hamsi mü -> ValueError: yanıt okunamadı",
+  "2026-11-27T17:26 Balıkçılar lodos engelini fırsata çevirdi: Lüfer ve hamsi mü -> ValueError: yanıt okunamadı",
+  "2026-11-27T17:26 Gözde Şeker yazdı | Kartal’a doğru: Emeğin ittifakı yeni bir -> ValueError: yanıt okunamadı",
+  "2026-11-27T17:26 Gözde Şeker yazdı | Kartal’a doğru: Emeğin ittifakı yeni bir -> ValueError: yanıt okunamadı",
+  "2026-11-27T17:26 Gözde Şeker yazdı | Kartal’a doğru: Emeğin ittifakı yeni bir -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126362513503855055",
+   "since_id": "2126366304336502899",
    "started": true
   },
   "ajansmuhbir1923": {
