@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "birli",
-    "dahil",
-    "hazır",
-    "kerkü",
-    "konuş",
-    "kriz",
-    "savun",
-    "vilay",
-    "ırak"
-   ],
-   "tok": [
-    "ajans",
-    "ali",
-    "altın",
-    "alınm",
-    "asker",
-    "ayrıc",
-    "bazı",
-    "başba",
-    "belir",
-    "bildi",
-    "birli",
-    "bölge",
-    "dahil",
-    "emir",
-    "emret",
-    "hazır",
-    "ilişk",
-    "isted",
-    "kapat",
-    "kaçak",
-    "kerkü",
-    "kontr",
-    "konuş",
-    "kriz",
-    "kulla",
-    "nin",
-    "olduk",
-    "ordus",
-    "petro",
-    "resul",
-    "savun",
-    "stabi",
-    "sözcü",
-    "talim",
-    "teki",
-    "tuğge",
-    "uygul",
-    "vilay",
-    "yahya",
-    "yolla",
-    "zeydi",
-    "ülken",
-    "ına",
-    "ırak"
-   ],
-   "at": "2026-11-25T20:35:45.972213+00:00"
-  },
-  {
-   "fp": [
     "957",
     "değiş",
     "engin",
@@ -10604,21 +10543,91 @@
     "yürür"
    ],
    "at": "2026-11-27T08:24:58.383446+00:00"
+  },
+  {
+   "fp": [
+    "ittif",
+    "mansu",
+    "selvi",
+    "yavaş"
+   ],
+   "tok": [
+    "abdul",
+    "adayl",
+    "attı",
+    "etraf",
+    "hürri",
+    "iddia",
+    "ittif",
+    "iyip",
+    "kurma",
+    "kurul",
+    "mansu",
+    "parti",
+    "selvi",
+    "temel",
+    "yavaş",
+    "yazar",
+    "yazdı",
+    "yönel",
+    "zafer",
+    "özel",
+    "özgür"
+   ],
+   "at": "2026-11-27T08:37:26.304217+00:00"
+  },
+  {
+   "fp": [
+    "ales",
+    "hafta",
+    "sonu",
+    "yapıl",
+    "ykds",
+    "yök"
+   ],
+   "tok": [
+    "aday",
+    "ales",
+    "aralı",
+    "başvu",
+    "bin",
+    "cumar",
+    "dokto",
+    "duyur",
+    "düzen",
+    "elekt",
+    "eğiti",
+    "geçer",
+    "giriş",
+    "günü",
+    "hafta",
+    "ise",
+    "itiba",
+    "kasım",
+    "katıl",
+    "kez",
+    "kulla",
+    "lisan",
+    "nde",
+    "olaca",
+    "ortam",
+    "pazar",
+    "sonu",
+    "sonuç",
+    "sınav",
+    "tarih",
+    "uygul",
+    "yapıl",
+    "yarın",
+    "ykds",
+    "yök",
+    "yıl",
+    "ösym"
+   ],
+   "at": "2026-11-27T08:37:40.987161+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "6afa32ba75",
-   "post_id": "529346797199852_1479530147620026",
-   "title": "Polis Akademisi Başkanı görevden alındı: Yerine yeni isim atandı",
-   "at": "2026-11-25T01:40:36.156180+00:00",
-   "yazim": "claude",
-   "metin": "Polis Akademisi Başkanı Prof. Dr. Murat Balcı görevden alındı, yerine Doç. Dr. Mehmet İlker Haktankaçmaz atandı.\n\nKarar Resmi Gazete'de yayımlandı ve Cumhurbaşkanı Erdoğan'ın imzasını taşıyor.\n\n— Balcı, Kasım 2024'te Polis Akademisi Başkanlığına atanmıştı.\n— Balcı, Türkiye Emlak Katılım Bankası Yönetim Kurulu Başkan Vekilliği ve Katılım Finans Kefalet AŞ Yönetim Kurulu Başkanlığı görevlerini de yürütüyordu.\n— Ceza ve spor hukuku alanlarında tanınan Balcı, 2012-2022 arasında Türkiye Futbol Federasyonu Tahkim Kurulu'nda başkanlık yapmıştı.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6011058/polis-akademisi-baskani-prof-dr-murat-balci-gorevden-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/polis-akademisi-baskani-gorevden-alindi-yerine-yeni-isim-atandi-748292"
-   ]
-  },
   {
    "id": "c9a59047ea",
    "post_id": "529346797199852_1479540094285698",
@@ -13219,6 +13228,19 @@
     "Sözcü: https://www.sozcu.com.tr/aym-den-sermaye-piyasalarindaki-iki-birlige-iptal-karari-disiplin-yetkileri-anayasa-ya-aykiri-p384846",
     "BirGün: https://www.birgun.net/haber/sermaye-piyasasinda-disiplin-duzenlemesi-aym-iki-hukmu-iptal-etti-748741"
    ]
+  },
+  {
+   "id": "088a73f5f2",
+   "post_id": "529346797199852_1481989117374129",
+   "title": "ÖSYM duyurdu: YÖK-YKDS ve ALES hafta sonu yapılacak",
+   "at": "2026-11-27T08:37:40.987161+00:00",
+   "yazim": "claude",
+   "metin": "Doktora başvurusu için YÖK-YKDS cumartesi Ankara'da, ALES pazar günü 81 ilde yapılacak.\n\n— YÖK-YKDS 28 Kasım Cumartesi günü Ankara ÖSYM Elektronik Sınav Merkezi'nde elektronik ortamda yapılacak. ÖSYM bu sınavı ilk kez uyguluyor ve sınava 936 aday başvurdu.\n\n— ALES 29 Kasım Pazar günü 92 sınav merkezinde yapılacak. Sınava 187 bin 664 aday katılacak.\n\n— YÖK-YKDS sonuçları 24 Aralık'ta, ALES sonuçları 17 Aralık'ta açıklanacak. ALES sonuçları lisansüstü eğitime girişte kullanılacak ve açıklandığı tarihten itibaren 5 yıl geçerli olacak.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/yok-ykds-ve-ales-hafta-sonu-yapilacak/4139998",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/osym-duyurdu-yok-ykds-ve-ales-hafta-sonu-yapilacak-2559855",
+    "Karar: https://www.karar.com/guncel-haberler/yok-ykds-ve-ales-hafta-sonu-yapilacak-2086557"
+   ]
   }
  ],
  "fails": {
@@ -13475,13 +13497,9 @@
   "86a6ce062e": 1,
   "55617cde22": 1,
   "9bba301ced": 1,
-  "887cd64b0e": 2
+  "3b1e66a7c5": 1
  },
  "fail_log": [
-  "2026-11-27T04:58 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:58 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:16 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:16 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
   "2026-11-27T05:16 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
   "2026-11-27T05:16 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
   "2026-11-27T05:16 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
@@ -13517,12 +13535,16 @@
   "2026-11-27T08:12 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
   "2026-11-27T08:25 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
   "2026-11-27T08:25 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
-  "2026-11-27T08:25 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı"
+  "2026-11-27T08:25 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
+  "2026-11-27T08:37 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
+  "2026-11-27T08:37 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-27T08:37 Emirhan Topçu: \"Valla iki gündür başımıza gelmeyen kalmadı.  -> ValueError: yanıt okunamadı",
+  "2026-11-27T08:37 Emirhan Topçu: \"Valla iki gündür başımıza gelmeyen kalmadı.  -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126224310134030833",
+   "since_id": "2126232431464493124",
    "started": true
   },
   "ajansmuhbir1923": {
