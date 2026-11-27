@@ -2,70 +2,6 @@
  "seen": [
   {
    "fp": [
-    "30",
-    "facia",
-    "hayat",
-    "kaybe",
-    "kişi",
-    "mısır",
-    "onlar",
-    "tanke",
-    "yakıt",
-    "yangı",
-    "çıkan"
-   ],
-   "tok": [
-    "aldı",
-    "alev",
-    "altın",
-    "alınd",
-    "ambul",
-    "basın",
-    "bildi",
-    "bölge",
-    "değil",
-    "ekipl",
-    "facia",
-    "genel",
-    "gize",
-    "götür",
-    "halin",
-    "hasta",
-    "henüz",
-    "katıl",
-    "kontr",
-    "kurta",
-    "mısır",
-    "neden",
-    "nüfus",
-    "onlar",
-    "petro",
-    "savun",
-    "sağlı",
-    "seyir",
-    "sivil",
-    "sonuc",
-    "tanke",
-    "taşıy",
-    "uzman",
-    "vilay",
-    "waraq",
-    "yakıt",
-    "yangı",
-    "yerel",
-    "yolun",
-    "zayed",
-    "çalış",
-    "çevre",
-    "çıkan",
-    "çıktı",
-    "ürünl",
-    "ımbab"
-   ],
-   "at": "2026-11-25T20:23:47.204744+00:00"
-  },
-  {
-   "fp": [
     "bakan",
     "birli",
     "dahil",
@@ -10592,20 +10528,85 @@
     "yakla"
    ],
    "at": "2026-11-27T08:12:21.359774+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "aym",
+    "birli",
+    "den",
+    "disip",
+    "iptal",
+    "karar",
+    "piyas",
+    "serma",
+    "yetki"
+   ],
+   "tok": [
+    "anaya",
+    "aykır",
+    "aym",
+    "açıkç",
+    "baktı",
+    "başvu",
+    "belir",
+    "benze",
+    "birli",
+    "bular",
+    "buldu",
+    "bulun",
+    "bunu",
+    "cezan",
+    "cezas",
+    "daire",
+    "danış",
+    "davad",
+    "den",
+    "değer",
+    "disip",
+    "durum",
+    "düzen",
+    "eczac",
+    "etmiş",
+    "fiile",
+    "fiill",
+    "gerek",
+    "girec",
+    "güven",
+    "hangi",
+    "hukuk",
+    "hükmü",
+    "idare",
+    "idari",
+    "ilişk",
+    "ipt",
+    "iptal",
+    "kanun",
+    "kesin",
+    "keyfi",
+    "kurul",
+    "mesle",
+    "nin",
+    "odala",
+    "olmad",
+    "piyas",
+    "sayıl",
+    "sağla",
+    "serma",
+    "sınır",
+    "takdi",
+    "tanın",
+    "uygul",
+    "uzman",
+    "verme",
+    "vurgu",
+    "yetki",
+    "yürür"
+   ],
+   "at": "2026-11-27T08:24:58.383446+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ea593b29af",
-   "post_id": "529346797199852_1479520884287619",
-   "title": "Polis aracına çarpıp kaçtı: Nefes kesen kovalamaca yarım saat sürdü",
-   "at": "2026-11-25T01:28:09.553723+00:00",
-   "yazim": "claude",
-   "metin": "Polis aracına çarpıp kaçan sürücü, yaklaşık yarım saat süren kovalamacanın ardından durduruldu.\n\n— Takip Hisarcık Mahallesi'nde başladı, Kıranardı Mahallesi Kapıönü Caddesi'nde son buldu.\n— Otomobilde 34 JN 575 numaralı sahte plaka takılıydı. Aracın gerçek plakasının 38 J 0063 olduğu belirlendi.\n— Polis ekiplerinin takip anları kameraya yansıdı. Görüntülerde sürücünün polisten kaçmaya çalıştığı görüldü.\n— Ş.T. polis merkezine götürüldü.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/polis-aracina-carpip-kacti-650-bin-tl-ceza-p384150"
-   ]
-  },
   {
    "id": "6afa32ba75",
    "post_id": "529346797199852_1479530147620026",
@@ -13205,6 +13206,19 @@
     "Evrensel: https://www.evrensel.net/haber/6011419/silvan-da-magarada-bulunan-9-kafatasi-ile-kemik-parcalari-istanbul-a-gonderildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "Karar: https://www.karar.com/guncel-haberler/diyarbakirdaki-magara-sorusturmasinda-yeni-gelisme-kafatasi-ile-kemik-2086555"
    ]
+  },
+  {
+   "id": "22143d9d8a",
+   "post_id": "529346797199852_1481980260708348",
+   "title": "Sermaye piyasasında disiplin düzenlemesi: AYM iki hükmü iptal etti",
+   "at": "2026-11-27T08:24:58.383446+00:00",
+   "yazim": "claude",
+   "metin": "Anayasa Mahkemesi, sermaye piyasası ve değerleme uzmanlarının meslek birliklerinin disiplin cezası verme yetkilerini düzenleyen iki hükmü iptal etti.\n\n— Gerekçe, disiplin fiillerine hangi cezanın uygulanacağının kanunda belirtilmemesi. Bu durumda idareye sınırsız takdir yetkisi tanınıyordu ve AYM bunu hukuki güvence sayılmayacak kadar keyfi buldu.\n— İptal başvurusunu Danıştay İdari Dava Daireleri Kurulu, baktığı bir davada yaptı.\n— Mahkeme, daha önce eczacı odalarının disiplin yetkisine ilişkin benzer bir hükmü de \"belirli bir açıklık ve kesinlikte olmadığı\" gerekçesiyle iptal etmişti.\n— İptal kararları 9 ay sonra yürürlüğe girecek.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/aymden-sermaye-piyasalari-birligi-ile-degerleme-uzmanlari-birliginin-disiplin-yetkilerine-iliskin-iptal-karari/4139991",
+    "Sözcü: https://www.sozcu.com.tr/aym-den-sermaye-piyasalarindaki-iki-birlige-iptal-karari-disiplin-yetkileri-anayasa-ya-aykiri-p384846",
+    "BirGün: https://www.birgun.net/haber/sermaye-piyasasinda-disiplin-duzenlemesi-aym-iki-hukmu-iptal-etti-748741"
+   ]
   }
  ],
  "fails": {
@@ -13461,12 +13475,9 @@
   "86a6ce062e": 1,
   "55617cde22": 1,
   "9bba301ced": 1,
-  "887cd64b0e": 1
+  "887cd64b0e": 2
  },
  "fail_log": [
-  "2026-11-27T04:58 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:58 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:58 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
   "2026-11-27T04:58 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
   "2026-11-27T04:58 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
   "2026-11-27T05:16 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
@@ -13503,7 +13514,10 @@
   "2026-11-27T06:33 ABD'de şiddetli fırtına: 835 binden fazla hane elektriksiz k -> ValueError: yanıt okunamadı",
   "2026-11-27T08:12 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
   "2026-11-27T08:12 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
-  "2026-11-27T08:12 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı"
+  "2026-11-27T08:12 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
+  "2026-11-27T08:25 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
+  "2026-11-27T08:25 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı",
+  "2026-11-27T08:25 Selvi: Özgür Özel, Mansur Yavaş’ın adaylığı için yeni ittifa -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
