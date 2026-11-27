@@ -2,80 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başla",
-    "bulun",
-    "diyar",
-    "kafat",
-    "kemik",
-    "mağar",
-    "soruş"
-   ],
-   "tok": [
-    "adli",
-    "afad",
-    "ait",
-    "altın",
-    "alınd",
-    "alıyo",
-    "anıla",
-    "arası",
-    "ardın",
-    "bağla",
-    "bağlı",
-    "başla",
-    "başsa",
-    "belir",
-    "boyun",
-    "bulun",
-    "cinay",
-    "daki",
-    "değer",
-    "diyar",
-    "ekipl",
-    "esrar",
-    "faili",
-    "grup",
-    "gönde",
-    "hizbu",
-    "ihbar",
-    "ilçel",
-    "ilçes",
-    "incel",
-    "insan",
-    "jitem",
-    "kafat",
-    "kasım",
-    "katıl",
-    "kemik",
-    "keşif",
-    "kurum",
-    "kırsa",
-    "mahal",
-    "mağar",
-    "meçhu",
-    "muhaf",
-    "ndeki",
-    "olay",
-    "olaya",
-    "ortay",
-    "savcı",
-    "sayıd",
-    "silva",
-    "tıp",
-    "yapıl",
-    "yaşan",
-    "yer",
-    "yeri",
-    "yılla",
-    "zorla",
-    "çıkmı",
-    "çıktı",
-    "üzere"
-   ],
-   "at": "2026-11-25T12:18:35.680843+00:00"
-  },
-  {
-   "fp": [
     "24",
     "adliy",
     "opera",
@@ -10449,25 +10375,54 @@
     "şimdi"
    ],
    "at": "2026-11-27T00:11:26.388690+00:00"
+  },
+  {
+   "fp": [
+    "değiş",
+    "düzen",
+    "girdi",
+    "güven",
+    "hesab",
+    "yönet",
+    "yürür"
+   ],
+   "tok": [
+    "belir",
+    "dağıl",
+    "denet",
+    "değiş",
+    "düzen",
+    "emekl",
+    "gazet",
+    "girdi",
+    "güven",
+    "hazin",
+    "hazır",
+    "hesab",
+    "ili",
+    "ilişk",
+    "kişil",
+    "komit",
+    "kurum",
+    "müste",
+    "nın",
+    "resmi",
+    "resmî",
+    "sigor",
+    "tanım",
+    "temsi",
+    "yayım",
+    "yenid",
+    "yetki",
+    "yönet",
+    "yürür",
+    "özel",
+    "şirke"
+   ],
+   "at": "2026-11-27T00:32:11.361910+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bcabe44d1a",
-   "post_id": "529346797199852_1479201527652888",
-   "title": "Eskişehir'de askeri helikopter düştü: Enkaza ulaşıldı, arama çalışmaları sürüyor",
-   "at": "2026-11-24T17:54:23.939812+00:00",
-   "yazim": "claude",
-   "metin": "Eskişehir'de Hava Kuvvetleri'ne ait AS-532 tipi askeri helikopter düştü.\n\n— Eğitim uçuşu için salı günü Eskişehir'den havalanan helikopter Yörükakçayır Mahallesi sınırları içinde düştü.\n\n— Milli Savunma Bakanlığı enkaza ulaşıldığını, arama kurtarma çalışmalarının sürdüğünü bildirdi.\n\n— Bölgeye çok sayıda ekip sevk edildi, itfaiye düşen helikopterde soğutma çalışması başlattı.\n\n— Kaza, 12 Kasım'da Malatya'da S-70 tipi bir helikopterin düşmesinin ardından yaşandı. O kazada 4 asker hayatını kaybetmişti.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi/4136211",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/egitim-icin-havalanan-helikopter-eskisehirde-dustu-964351.html",
-    "Euronews: https://tr.euronews.com/2026/11/24/eskisehirde-askeri-helikopter-dustu-enkaza-ulasildi-arama-calismalari-suruyor",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/msb-duyurdu-egitim-maksadiyla-havalanan-helikopter-kaza-kirima-ugradi-43389840",
-    "Milliyet: https://www.milliyet.com.tr/gundem/live-son-dakika-msb-aci-haberi-duyurdu-eskisehirde-askeri-helikopter-dustu-7707206",
-    "CNN Türk: https://www.cnnturk.com/turkiye/son-dakika-msb-duyurdu-askeri-helikopter-kaza-kirima-ugradi-3497686"
-   ]
-  },
   {
    "id": "eb1dbeea9f",
    "post_id": "529346797199852_1479211617651879",
@@ -13072,6 +13027,17 @@
    "metin": "Trabzonspor Teknik Direktörü Thomas Reis, CSKA Sofya galibiyeti için:\n\n“Zor bir maçtan önemli bir galibiyet aldık.”\n\n— Trabzonspor, UEFA Konferans Ligi'nin 4. haftasında deplasmanda CSKA Sofya'yı 2-1 yendi.\n— Galibiyet golü 90+3. dakikada geldi ve bordo-mavililer bu sonuçla Konferans Ligi'nde 9 puana ulaştı.\n— Reis, ilk yarıda istediği oyunu çıkaramadıklarını ama ikinci yarıda daha güçlü olduklarını söyledi.\n— Sıradaki maç Göztepe. Reis, takımın şimdi bu maça odaklanıp dinlenmesi gerektiğini belirtti.",
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/thomas-reis-tan-cska-sofya-galibiyeti-aciklamasi-bizim-icin-kolay-degildi-ama-2559799"
+   ]
+  },
+  {
+   "id": "88aab6c3d7",
+   "post_id": "529346797199852_1481654887407552",
+   "title": "Güvence Hesabı Yönetmeliği değişti: Yeni düzenleme yürürlüğe girdi",
+   "at": "2026-11-27T00:32:11.361910+00:00",
+   "yazim": "claude",
+   "metin": "Güvence Hesabı'nın yönetim komitesindeki dağılımını değiştiren yönetmelik Resmi Gazete'de yayımlandı.\n\nSigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu hazırladığı değişikliği Resmi Gazete'de yayımladı.\n\n— Beş kişilik komitede sigorta şirketlerinin ve kurum temsilcilerinin dağılımı yeniden belirlendi.\n\n— Yönetmelikte Hazine Müsteşarlığı'na ilişkin yetki ve kurum tanımları da değiştirildi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/guvence-hesabi-yonetmeligi-degisti-yeni-duzenleme-yururluge-girdi-748705"
    ]
   }
  ],
