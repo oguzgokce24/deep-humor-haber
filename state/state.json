@@ -2,79 +2,6 @@
  "seen": [
   {
    "fp": [
-    "eren",
-    "kaşık",
-    "maste",
-    "neden",
-    "nın",
-    "otops",
-    "rapor",
-    "çıktı",
-    "ölüm"
-   ],
-   "tok": [
-    "adını",
-    "alkol",
-    "atero",
-    "ayrıc",
-    "açan",
-    "beyin",
-    "bilin",
-    "birli",
-    "bulun",
-    "damar",
-    "daral",
-    "derec",
-    "diyab",
-    "duyur",
-    "eren",
-    "evind",
-    "hasta",
-    "ileri",
-    "izler",
-    "kalp",
-    "kanse",
-    "kanın",
-    "kayde",
-    "kaşık",
-    "kesin",
-    "kumkö",
-    "kızıl",
-    "lakap",
-    "madde",
-    "mahal",
-    "maste",
-    "ndeki",
-    "neden",
-    "netle",
-    "nin",
-    "nın",
-    "ortay",
-    "otops",
-    "plakl",
-    "rapor",
-    "rastl",
-    "sakal",
-    "sarıy",
-    "tamam",
-    "tanın",
-    "tespi",
-    "tiroi",
-    "uyarı",
-    "uyuşt",
-    "yarış",
-    "yaşın",
-    "yol",
-    "çıktı",
-    "ölüm",
-    "ünlü",
-    "şampi",
-    "şef"
-   ],
-   "at": "2026-11-26T10:47:59.235666+00:00"
-  },
-  {
-   "fp": [
     "12",
     "5",
     "aştı",
@@ -10756,22 +10683,86 @@
     "ölçüm"
    ],
    "at": "2026-11-27T22:44:46.279966+00:00"
+  },
+  {
+   "fp": [
+    "00",
+    "10",
+    "15",
+    "19",
+    "alına",
+    "bilgi",
+    "birim",
+    "chp",
+    "gülse",
+    "ilgil",
+    "itiba",
+    "neden",
+    "otomo",
+    "saat",
+    "ten",
+    "veril"
+   ],
+   "tok": [
+    "alına",
+    "ayten",
+    "bilgi",
+    "birim",
+    "bolu",
+    "bulun",
+    "chp",
+    "daki",
+    "diye",
+    "dönüş",
+    "evler",
+    "genel",
+    "gezi",
+    "gezis",
+    "gölcü",
+    "görev",
+    "gülse",
+    "güven",
+    "ihmal",
+    "ilgil",
+    "ilişk",
+    "irtib",
+    "isted",
+    "itiba",
+    "kadın",
+    "kalan",
+    "kesil",
+    "kimin",
+    "kimli",
+    "kocae",
+    "kolla",
+    "kız",
+    "müdür",
+    "nde",
+    "neden",
+    "olayı",
+    "ortay",
+    "otomo",
+    "parkı",
+    "saat",
+    "sites",
+    "sordu",
+    "tabia",
+    "taşıy",
+    "ten",
+    "varsa",
+    "veril",
+    "yaptı",
+    "yedig",
+    "yönle",
+    "çocuk",
+    "çocuğ",
+    "çıkar",
+    "önlem"
+   ],
+   "at": "2026-11-27T22:57:30.222368+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d7cd846109",
-   "post_id": "529346797199852_1480333687539672",
-   "title": "Belçika'da belediyelere siber saldırı: 1,2 milyon kişinin verisi çalındı",
-   "at": "2026-11-25T18:42:52.998885+00:00",
-   "yazim": "claude",
-   "metin": "Belçika'nın Flaman Bölgesi'ndeki 82 belediyeye yapay zeka destekli bir siber saldırıda yaklaşık 1,2 milyon kişinin verisi çalındı.\n\n— Saldırı 6-15 Kasım arasında yapıldı, siber güvenlik şirketleri Secutec ve SOCRadar bunu açıkladı.\n— Çalınan veriler arasında ad, adres, doğum tarihi, kimlik numaraları ve IBAN bilgileri var.\n— Saldırgan, belediyelerin geri dönüşüm merkezlerine hizmet veren bir şirketin yeterince korunmayan sunucusuna girdi.\n— Saldırıda DeepSeek modelini kullanan bir yapay zeka aracının kullanıldığı belirtildi.\n— Doğu Flandre savcılığı olayla ilgili soruşturma başlattı.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/belcikada-yapay-zeka-destekli-siber-saldirida-yaklasik-1-2-milyon-kisinin-verileri-calindi/4137902",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/bilim-teknoloji/belcika-da-yapay-zekali-siber-saldiri-milyonlarca-kisinin-verisi-calindi-2559447",
-    "Diken: https://www.diken.com.tr/belcikada-belediyelere-siber-saldiri-12-milyon-kisinin-verisi-calindi/?utm_source=rss&utm_medium=rss&utm_campaign=belcikada-belediyelere-siber-saldiri-12-milyon-kisinin-verisi-calindi"
-   ]
-  },
   {
    "id": "7063c75fec",
    "post_id": "529346797199852_1480343867538654",
@@ -13391,6 +13382,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/kartal-belediyesi-ne-operasyon-10-kisi-tutuklandi-2560067",
     "BirGün: https://www.birgun.net/haber/kartal-belediyesi-sorusturmasi-10-kisi-tutuklandi-748881"
    ]
+  },
+  {
+   "id": "7a68c850a2",
+   "post_id": "529346797199852_1482685060637868",
+   "title": "CHP'li Gülsever: Araçtan saat 15.00’ten itibaren haber alınamazken ilgili birimlere neden 19.10’da bilgi verildi?",
+   "at": "2026-11-27T22:57:30.222368+00:00",
+   "yazim": "claude",
+   "metin": "CHP Kadın Kolları Genel Başkanı Ayten Gülsever, Bolu'da irtibatı kesilen araç için:\n\n“Araçtan saat 15.00’ten itibaren haber alınamazken ilgili birimlere neden 19.10’da bilgi verildi?”\n\n— Araçta, Kocaeli Çocuk Evleri Sitesi Müdürlüğü'nde kalan 10 kız çocuğu ile 3 görevli bulunuyordu.\n— Araç, Bolu'daki Yedigöller ve Gölcük Tabiat Parkı gezisinin dönüşünde irtibatını kaybetti.\n— Gülsever, gezi görevlendirmesini kimin yaptığını, görevlilerin kimliklerini ve alınan güvenlik önlemlerini de sordu.\n— Olayın tüm yönleriyle açıklanmasını ve varsa ihmallerin ortaya çıkarılmasını istedi.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6011539/chp-li-gulsever-aractan-saat-1500-ten-itibaren-haber-alinamazken-ilgili-birimlere-neden-1910-da-bilgi-verildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13662,11 +13664,10 @@
   "5b9e11872f": 1,
   "cf0b9972fe": 1,
   "7e0345bb61": 1,
-  "1ea7f54c47": 1
+  "1ea7f54c47": 1,
+  "76ffb41cf3": 1
  },
  "fail_log": [
-  "2026-11-27T17:39 Haftaya Bakış (342): Fon krizi sahiden çözüldü mü? | Çözüm s -> ValueError: yanıt okunamadı",
-  "2026-11-27T17:39 Haftaya Bakış (342): Fon krizi sahiden çözüldü mü? | Çözüm s -> ValueError: yanıt okunamadı",
   "2026-11-27T17:39 Haftaya Bakış (342): Fon krizi sahiden çözüldü mü? | Çözüm s -> ValueError: yanıt okunamadı",
   "2026-11-27T17:39 Balıkçılar lodos engelini fırsata çevirdi: Lüfer ve hamsi mü -> ValueError: yanıt okunamadı",
   "2026-11-27T17:39 Balıkçılar lodos engelini fırsata çevirdi: Lüfer ve hamsi mü -> ValueError: yanıt okunamadı",
@@ -13704,12 +13705,14 @@
   "2026-11-27T21:49 Tahir Elçi cinayetinde 11 yıl: Kayıp 13 saniye, karartılan d -> ValueError: yanıt okunamadı",
   "2026-11-27T21:49 Tahir Elçi cinayetinde 11 yıl: Kayıp 13 saniye, karartılan d -> ValueError: yanıt okunamadı",
   "2026-11-27T21:49 Tahir Elçi cinayetinde 11 yıl: Kayıp 13 saniye, karartılan d -> ValueError: yanıt okunamadı",
-  "2026-11-27T21:49 Konya’da iki farklı hasat: Biri günde 10.000 ton sevk ediliy -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz"
+  "2026-11-27T21:49 Konya’da iki farklı hasat: Biri günde 10.000 ton sevk ediliy -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-27T22:57 AKINCI İHA'nın bölgede yaptığı aramadan görüntüler. -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-27T22:57 CHP'li Gülsever: Araçtan saat 15.00’ten itibaren haber alına -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126445613675917619",
+   "since_id": "2126447292781580468",
    "started": true
   },
   "ajansmuhbir1923": {
