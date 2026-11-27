@@ -2,62 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1",
-    "2",
-    "bağcı",
-    "kaldı",
-    "otomo",
-    "yaral",
-    "yayal",
-    "çarpt",
-    "ölü"
-   ],
-   "tok": [
-    "alınd",
-    "ambul",
-    "ağır",
-    "bahçe",
-    "bağcı",
-    "baş",
-    "burdu",
-    "cadde",
-    "cip",
-    "devle",
-    "direk",
-    "eren",
-    "erkek",
-    "feci",
-    "geldi",
-    "hafif",
-    "hakim",
-    "hasta",
-    "kadın",
-    "kafa",
-    "kafay",
-    "kaldı",
-    "koçma",
-    "mahal",
-    "meyda",
-    "musta",
-    "nde",
-    "olay",
-    "otomo",
-    "saat",
-    "sürüc",
-    "sürül",
-    "sıral",
-    "temmu",
-    "yayal",
-    "yaşın",
-    "yerin",
-    "çarpt",
-    "çarpı",
-    "öne"
-   ],
-   "at": "2026-11-26T10:35:20.677751+00:00"
-  },
-  {
-   "fp": [
     "eren",
     "kaşık",
     "maste",
@@ -10741,21 +10685,80 @@
     "çıkar"
    ],
    "at": "2026-11-27T22:32:03.938449+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "beled",
+    "bina",
+    "karta",
+    "kişi",
+    "nde",
+    "onayl",
+    "soruş",
+    "tutuk",
+    "usuls",
+    "yönel",
+    "ölçüm",
+    "şüphe"
+   ],
+   "tok": [
+    "adres",
+    "alanı",
+    "alına",
+    "anado",
+    "arası",
+    "bazı",
+    "başsa",
+    "beled",
+    "belir",
+    "bin",
+    "bina",
+    "binad",
+    "binal",
+    "bulun",
+    "daki",
+    "derin",
+    "dönüş",
+    "düzen",
+    "fazla",
+    "forml",
+    "göre",
+    "görev",
+    "göste",
+    "hazır",
+    "iddia",
+    "ilgil",
+    "ilişk",
+    "incel",
+    "inşaa",
+    "kapsa",
+    "karta",
+    "kents",
+    "kontr",
+    "metre",
+    "nde",
+    "ndeki",
+    "onayl",
+    "rapor",
+    "riskl",
+    "sorum",
+    "süreç",
+    "tarih",
+    "tespi",
+    "topla",
+    "tutul",
+    "usuls",
+    "yapıl",
+    "yetki",
+    "yönel",
+    "yürüt",
+    "ölçüm"
+   ],
+   "at": "2026-11-27T22:44:46.279966+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "bb4fe18b76",
-   "post_id": "529346797199852_1480323290874045",
-   "title": "'Toplu tecavüzü tasvir ediyor': New York'ta yapay zeka destekli oyuncak satışı yasaklandı",
-   "at": "2026-11-25T18:30:19.282627+00:00",
-   "yazim": "claude",
-   "metin": "ABD'nin New York eyaletinde, yapay zekalı sohbet robotu içeren oyuncakların üretimi, dağıtımı ve satışı beş yıllığına yasaklandı.\n\n— Yasak, çocuklarla sohbet edebilen pelüş oyuncakları, bebekleri ve robotları kapsıyor.\n\n— Vali Kathy Hochul, ailelerin \"oyuncak kılığına girmiş tehlikeli sohbet robotları\" yüzünden endişelenmemesi gerektiğini söyledi.\n\n— Bir araştırmada, üç yaşındaki çocuklar için satılan bir pelüş kedinin uygunsuz konularda konuşabildiği ortaya çıktı.\n\n— Bazı oyuncaklarda ebeveyn denetimi çok sınırlı ya da hiç yok; sohbet uzadıkça güvenlik sınırları da zayıflıyor.\n\n— Başsavcı Letitia James, yasayı tereddütsüz uygulayacağını söyledi. Yasa 90 gün sonra yürürlüğe girecek ve ihlal edenlere günlük 15 bin dolara varan para cezası verilecek.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/new-yorkta-yapay-zeka-destekli-sohbet-robotu-iceren-oyuncaklarin-satisi-5-yil-sureyle-yasaklandi/4137862",
-    "Diken: https://www.diken.com.tr/toplu-tecavuzu-tasvir-ediyordu-new-yorkta-yapay-zeka-destekli-oyuncak-satisi-yasaklandi/?utm_source=rss&utm_medium=rss&utm_campaign=toplu-tecavuzu-tasvir-ediyordu-new-yorkta-yapay-zeka-destekli-oyuncak-satisi-yasaklandi"
-   ]
-  },
   {
    "id": "d7cd846109",
    "post_id": "529346797199852_1480333687539672",
@@ -13372,6 +13375,22 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/ekonomi/spk-yeni-bultenini-yayimladi-167-kisiye-suc-duyurusu-milyonlarca-liralik-para-cezalari-2560083",
     "BirGün: https://www.birgun.net/haber/spk-den-3-gercek-7-tuzel-kisiye-55-3-milyon-liralik-idari-para-cezasi-748896"
    ]
+  },
+  {
+   "id": "5f2cd58578",
+   "post_id": "529346797199852_1482677817305259",
+   "title": "Kartal Belediyesi'ne soruşturma: 10 şüpheli tutuklandı",
+   "at": "2026-11-27T22:44:46.279966+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Kartal Belediyesi'ne yönelik kentsel dönüşüm soruşturmasında gözaltına alınan 10 şüpheli tutuklandı.\n\n— Soruşturma, Kartal'daki riskli binaların dönüşüm süreçlerinde usulsüzlük yapıldığı iddiasıyla yürütülüyor.\n— Tespitlere göre 8 riskli binada toplam inşaat alanı 400 ile bin metrekare arasında fazla gösterildi.\n— Şüpheliler, riskli bina raporu inceleme formlarını düzenlemekle sorumlu tutuluyor. Formlardaki kontrol tarihlerinde belediye yetkililerinin ilgili adreslerde bulunmadığı belirlendi.\n\nİstanbul Anadolu Cumhuriyet Başsavcılığı, soruşturmanın derinleştirildiğini açıkladı.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/kartal-belediyesine-yonelik-usulsuz-bina-olcumleri-sorusturmasinda-10-kisi-tutuklandi-964706.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/kartal-belediyesine-yonelik-sorusturmada-10-supheli-tutuklandi-43393789",
+    "Milliyet: https://www.milliyet.com.tr/gundem/kartal-belediyesinde-usulsuz-bina-olcumlerinin-onaylanmasina-yonelik-sorusturma-10-supheli-tutuklandi-7709557",
+    "Sözcü: https://www.sozcu.com.tr/kartal-belediyesi-ne-sorusturma-10-supheli-tutuklandi-p384995",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/kartal-belediyesi-ne-operasyon-10-kisi-tutuklandi-2560067",
+    "BirGün: https://www.birgun.net/haber/kartal-belediyesi-sorusturmasi-10-kisi-tutuklandi-748881"
+   ]
   }
  ],
  "fails": {
@@ -13642,7 +13661,8 @@
   "b21b853a89": 1,
   "5b9e11872f": 1,
   "cf0b9972fe": 1,
-  "7e0345bb61": 1
+  "7e0345bb61": 1,
+  "1ea7f54c47": 1
  },
  "fail_log": [
   "2026-11-27T17:39 Haftaya Bakış (342): Fon krizi sahiden çözüldü mü? | Çözüm s -> ValueError: yanıt okunamadı",
@@ -13689,7 +13709,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126435672911134832",
+   "since_id": "2126445613675917619",
    "started": true
   },
   "ajansmuhbir1923": {
