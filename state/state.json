@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "63",
-    "abone",
-    "indir",
-    "izmir",
-    "konut",
-    "suya",
-    "tarif",
-    "yapıl",
-    "yüzde"
-   ],
-   "tok": [
-    "abone",
-    "akp",
-    "alırı",
-    "atık",
-    "beled",
-    "belir",
-    "birim",
-    "birli",
-    "burad",
-    "büyük",
-    "ciddi",
-    "den",
-    "değer",
-    "dikka",
-    "düşür",
-    "fiyat",
-    "geliy",
-    "genel",
-    "geçer",
-    "grubu",
-    "grup",
-    "hakan",
-    "indir",
-    "isted",
-    "itiba",
-    "izmir",
-    "izsu",
-    "kabul",
-    "komis",
-    "konut",
-    "koydu",
-    "kulla",
-    "kurul",
-    "liray",
-    "metre",
-    "ocak",
-    "olaca",
-    "ortay",
-    "parti",
-    "sayın",
-    "suya",
-    "taleb",
-    "tarif",
-    "tüket",
-    "uygul",
-    "varan",
-    "vekil",
-    "yapıl",
-    "yüzde",
-    "yıldı",
-    "zaten",
-    "öneri"
-   ],
-   "at": "2026-11-25T17:39:26.432314+00:00"
-  },
-  {
-   "fp": [
     "avust",
     "ceza",
     "devle",
@@ -10793,20 +10725,70 @@
     "ındic"
    ],
    "at": "2026-11-27T05:27:22.159406+00:00"
+  },
+  {
+   "fp": [
+    "18",
+    "getir",
+    "türki",
+    "vize",
+    "şartı"
+   ],
+   "tok": [
+    "adımı",
+    "alınd",
+    "anlaş",
+    "arası",
+    "attı",
+    "avrup",
+    "başla",
+    "birli",
+    "bitti",
+    "dan",
+    "dikka",
+    "durdu",
+    "erdi",
+    "erdoğ",
+    "gazet",
+    "getir",
+    "giriş",
+    "güne",
+    "imzal",
+    "istem",
+    "istey",
+    "itiba",
+    "kalab",
+    "kapsa",
+    "karad",
+    "karşı",
+    "kasım",
+    "nin",
+    "polit",
+    "resmi",
+    "sağla",
+    "seyah",
+    "sona",
+    "sürec",
+    "tarih",
+    "türkl",
+    "uygul",
+    "uyum",
+    "vatan",
+    "vize",
+    "vizes",
+    "yayım",
+    "yla",
+    "yönel",
+    "yıl",
+    "yıllı",
+    "zorun",
+    "çeken",
+    "şartı"
+   ],
+   "at": "2026-11-27T05:40:06.337077+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "929c1a6c7d",
-   "post_id": "529346797199852_1479400634299644",
-   "title": "Üç çocuğunun önünde kadın cinayeti: Eşini öldürüp kendisini eve kilitledi",
-   "at": "2026-11-24T22:24:46.751084+00:00",
-   "yazim": "claude",
-   "metin": "Çorum'da boşanma aşamasındaki eşini tabancayla vurduğu belirtilen bir adam, ardından kendisini eve kilitledi.\n\nOlay, Bahçelievler Mahallesi Çamlık Caddesi'nde, üç çocuğunun gözü önünde yaşandı. Kadının hayatını kaybettiği bildirildi. Çift 20 yıldır evliydi.\n\n— Olay yerine çok sayıda polis ekibi sevk edildi. Çocuklar evden güvenli şekilde çıkarıldı.\n\n— Şüpheli evden çıkmayı reddediyor. Polisin ikna çalışmaları yaklaşık 6 saattir sürüyor.\n\n— İkna sonuç vermeyince Çankırı'dan özel harekât polisleri Çorum'a gönderildi. Ekipler apartmanın dördüncü katında görüşmelere başladı.\n\n— Cinayetin nedeni henüz belirlenemedi.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/uc-cocugunun-onunde-kadin-cinayeti-esini-oldurup-kendisini-eve-kilitledi-2086074"
-   ]
-  },
   {
    "id": "ef30eb20b9",
    "post_id": "529346797199852_1479410964298611",
@@ -13375,6 +13357,18 @@
    "sources": [
     "Karar: https://www.karar.com/ekonomi-haberleri/ikinci-el-otomobilde-tercihler-degisiyor-suvlara-ilgi-artiyor-2086507"
    ]
+  },
+  {
+   "id": "1be412ea81",
+   "post_id": "529346797199852_1481868630719511",
+   "title": "Türk vatandaşlarına vize şartı getirmişlerdi: Türkiye de 18 yıl sonra vize isteyecek",
+   "at": "2026-11-27T05:40:06.337077+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye ile Karadağ arasındaki karşılıklı vizesiz seyahat anlaşması sona erdi. Karadağ, Türk vatandaşlarından vize istemeye başlayınca Türkiye de karşılık olarak Karadağ vatandaşlarının vizesiz girişini sağlayan anlaşmayı durdurdu.\n\n— Resmi Gazete'de yayımlanan 27 Kasım tarihli Cumhurbaşkanı Kararı'yla, 2008'de imzalanan anlaşmanın uygulaması durduruldu.\n\n— Karadağ, 1 Kasım'dan itibaren Türk vatandaşlarına vize zorunluluğu getirmişti. Bu tarihten önce Türkler 30 güne kadar vizesiz kalabiliyordu.\n\n— Karadağ bu adımı, Avrupa Birliği'nin vize politikasına uyum süreci kapsamında attı.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-18-yillik-anlasma-bitti-turklere-vize-sarti-getirdiler-turkiye-de-vize-istemeye-basladi-1752803",
+    "Sözcü: https://www.sozcu.com.tr/turk-vatandaslarina-vize-sarti-getirmislerdi-turkiye-de-18-yil-sonra-vize-isteyecek-p384773"
+   ]
   }
  ],
  "fails": {
@@ -13628,12 +13622,10 @@
   "58bcbcb8a8": 1,
   "42993c969b": 1,
   "577b14a673": 1,
-  "86a6ce062e": 1
+  "86a6ce062e": 1,
+  "55617cde22": 1
  },
  "fail_log": [
-  "2026-11-27T04:54 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
   "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
   "2026-11-27T04:58 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
   "2026-11-27T04:58 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
@@ -13670,12 +13662,15 @@
   "2026-11-27T05:23 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
   "2026-11-27T05:23 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
   "2026-11-27T05:23 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:23 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı"
+  "2026-11-27T05:23 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:40 Gürcistan'dan Türkiye'ye dönen Beşiktaş taraftarları, lokuml -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:40 Gürcistan'dan Türkiye'ye dönen Beşiktaş taraftarları, lokuml -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:40 Gürcistan'dan Türkiye'ye dönen Beşiktaş taraftarları, lokuml -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126184336454242588",
+   "since_id": "2126187108867960966",
    "started": true
   },
   "ajansmuhbir1923": {
