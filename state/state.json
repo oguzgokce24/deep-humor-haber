@@ -10555,23 +10555,78 @@
     "üssü"
    ],
    "at": "2026-11-27T00:57:30.414765+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "adalı",
+    "serda",
+    "yaral"
+   ],
+   "tok": [
+    "adalı",
+    "aldı",
+    "almas",
+    "alınd",
+    "araya",
+    "ardın",
+    "arkad",
+    "batum",
+    "beer",
+    "beşik",
+    "bilgi",
+    "cnn",
+    "daki",
+    "den",
+    "değil",
+    "dönec",
+    "erdoğ",
+    "ertes",
+    "fazla",
+    "galat",
+    "göre",
+    "görüp",
+    "gün",
+    "gürci",
+    "güç",
+    "hapoe",
+    "hasta",
+    "hoş",
+    "kafil",
+    "kara",
+    "konuş",
+    "kulla",
+    "kulüb",
+    "maçı",
+    "maçın",
+    "olayl",
+    "ondan",
+    "orant",
+    "oyunc",
+    "panik",
+    "puan",
+    "recep",
+    "rize",
+    "serda",
+    "sheva",
+    "takım",
+    "taraf",
+    "tayyi",
+    "tedav",
+    "ulaşt",
+    "umduğ",
+    "var",
+    "vardı",
+    "yaşan",
+    "yendi",
+    "yolcu",
+    "yoluy",
+    "çıktı"
+   ],
+   "at": "2026-11-27T01:10:30.350033+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "48d35c9836",
-   "post_id": "529346797199852_1479231100983264",
-   "title": "Erdoğan'dan 2026 ve 2027 döneminde 30 bin öğretmene atama müjdesi",
-   "at": "2026-11-24T18:32:48.792333+00:00",
-   "yazim": "claude",
-   "metin": "Erdoğan, 2026 ve 2027'de toplam 30 bin öğretmen ataması yapılacağını açıkladı.\n\nCumhurbaşkanı Recep Tayyip Erdoğan:\n\n“2026 Akademi Giriş Sınavı sonuçlarına göre 15 bin öğretmen alım duyurusu ve branş dağılımı Milli Eğitim Bakanlığımız tarafından bu hafta içerisinde açıklanacak.”\n\n— Erdoğan, 2027'de de 15 bin öğretmen ataması daha yapılacağını söyledi.\n— Öğretmen adaylarının gelecek eylül ayında Milli Eğitim Akademileri'nde eğitime başlaması bekleniyor.\n— Milli Eğitim Bakanı Yusuf Tekin, akademi eğitiminde adayların göreve başlamadan önce okul ortamını tanıyacağını ve uygulamalı eğitim alacağını söyledi.",
-   "sources": [
-    "Euronews: https://tr.euronews.com/2026/11/24/erdogandan-2026-ve-2027-doneminde-30-bin-ogretmene-atama-mujdesi",
-    "CNN Türk: https://www.cnnturk.com/turkiye/30-bin-ogretmen-atamasi-son-dakika-15-bin-ogretmen-atamasi-ne-zaman-yapilacak-brans-dagilimi-belli-oldu-mu-3497691",
-    "Sözcü: https://www.sozcu.com.tr/cumhurbaskani-erdogan-dan-onemli-aciklamalar-p384097",
-    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/30-bin-ogretmen-atama-takvimi-2026-2027-cumhurbaskani-erdogan-mujdeyi-verdi-2026-2027-ogretmen-atamalari-ne-zaman-basvurular-hangi-tarihte-son-dakika-aciklamalar-4876172"
-   ]
-  },
   {
    "id": "0b30984b07",
    "post_id": "529346797199852_1479240584315649",
@@ -13172,6 +13227,18 @@
     "Sözcü: https://www.sozcu.com.tr/kas-aciklarinda-39-buyuklugunde-deprem-p384758",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/afad-duyurdu-antalya-kas-aciklarinda-3-9-buyuklugunde-deprem-7708892"
    ]
+  },
+  {
+   "id": "f3b1fdece0",
+   "post_id": "529346797199852_1481680647404976",
+   "title": "Serdal Adalı: İki taraftarımız yaralandı, ondan fazla taraftarımız gözaltına alındı",
+   "at": "2026-11-27T01:10:30.350033+00:00",
+   "yazim": "claude",
+   "metin": "Serdal Adalı, Gürcistan'daki olaylar için:\n\n“Gürcistan polisinin orantısız güç kullanması hoş değildi. İki yaralı taraftarımız vardı, tedavilerini görüp hastaneden çıktılar. Ondan fazla taraftarımız gözaltına alındı.”\n\n— Adalı'ya göre kafilenin yolculuğunda da panik yaşandı. Takım Rize'den kara yoluyla Batum'a ulaştı.\n\n— Cumhurbaşkanı Recep Tayyip Erdoğan, olaylardan sonra kulübü arayarak bilgi aldı.\n\n— Kafile ertesi gün Türkiye'ye dönecek. Adalı, Galatasaray maçı için oyuncuların üç puan almasını umduğunu söyledi.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/video/spor/futbol/serdal-adali-cnn-turke-konustu-2-yarali-arkadasimiz-var-3498772",
+    "Sözcü Spor: https://www.sozcu.com.tr/adali-iki-taraftarimiz-yaralandi-ondan-fazla-taraftarimiz-gozaltina-alindi-p384739"
+   ]
   }
  ],
  "fails": {
@@ -13418,12 +13485,10 @@
   "456294a7c8": 1,
   "f352fb04e0": 2,
   "2e63f2dd22": 1,
-  "375b7dd3a0": 1
+  "375b7dd3a0": 1,
+  "62965dea54": 1
  },
  "fail_log": [
-  "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:45 Kilosu 55.000 TL’yi buldu: Pazaryeri’nde yılda sadece 3 haft -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
@@ -13460,7 +13525,10 @@
   "2026-11-26T23:59 Kervanpınar’da tel örgülerin ardında 1 ay: ‘Toprağımız bize  -> ValueError: yanıt okunamadı",
   "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
   "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
-  "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı"
+  "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
+  "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
+  "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: cümle yarım kalmış: 'r tutuklu olduğu Silivri'den yanıtladığı'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
