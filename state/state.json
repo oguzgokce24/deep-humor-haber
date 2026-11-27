@@ -2,81 +2,6 @@
  "seen": [
   {
    "fp": [
-    "adli",
-    "başla",
-    "deki",
-    "den",
-    "eskiş",
-    "helik",
-    "ilgil",
-    "kazal",
-    "malat",
-    "msb"
-   ],
-   "tok": [
-    "adli",
-    "ait",
-    "alına",
-    "arayl",
-    "araşt",
-    "asker",
-    "başla",
-    "bildi",
-    "dair",
-    "deki",
-    "den",
-    "derhâ",
-    "dikka",
-    "düşen",
-    "düştü",
-    "ekipl",
-    "eskiş",
-    "eğiti",
-    "gerçe",
-    "gün",
-    "hava",
-    "helik",
-    "heyet",
-    "idari",
-    "ilgil",
-    "ilişk",
-    "incel",
-    "kalkı",
-    "kamuo",
-    "kara",
-    "kasım",
-    "kazal",
-    "kuvve",
-    "kırım",
-    "kısa",
-    "malat",
-    "milli",
-    "msb",
-    "nda",
-    "neden",
-    "olası",
-    "payla",
-    "savcı",
-    "savun",
-    "sonuç",
-    "sürdü",
-    "süre",
-    "süreç",
-    "sürüy",
-    "tahki",
-    "tamam",
-    "tepeb",
-    "titiz",
-    "türlü",
-    "uçuşu",
-    "uğrad",
-    "yeşil",
-    "şehit"
-   ],
-   "at": "2026-11-26T09:21:27.668543+00:00"
-  },
-  {
-   "fp": [
     "açıkl",
     "başka",
     "dan",
@@ -10606,22 +10531,51 @@
     "çıkış"
    ],
    "at": "2026-11-27T21:17:20.093421+00:00"
+  },
+  {
+   "fp": [
+    "95",
+    "başta",
+    "iktid",
+    "medya",
+    "olmak",
+    "parti",
+    "tekel",
+    "trt",
+    "yüzde",
+    "çakır",
+    "ülked",
+    "üzere"
+   ],
+   "tok": [
+    "başta",
+    "belir",
+    "eskiş",
+    "gerçe",
+    "ifade",
+    "iktid",
+    "inin",
+    "isten",
+    "kanal",
+    "medya",
+    "mille",
+    "olmak",
+    "parti",
+    "sayıd",
+    "sustu",
+    "söyle",
+    "tekel",
+    "trt",
+    "utku",
+    "yüzde",
+    "çakır",
+    "ülked",
+    "üzere"
+   ],
+   "at": "2026-11-27T21:32:26.737540+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8d129a1d9e",
-   "post_id": "529346797199852_1480271444212563",
-   "title": "Zeytin çok, kapasite yok: Üreticilere 'Hasada ara verin' çağrısı",
-   "at": "2026-11-25T17:26:44.786097+00:00",
-   "yazim": "claude",
-   "metin": "Manisa'da zeytin sıkım fabrikaları doldu, üreticilerden hasada birkaç gün ara vermeleri istendi.\n\nİzmir Ticaret Borsası Başkanı Ömer Gökhan Tuncer, \"Yoğunluktan dolayı ürünler fabrikalarda bekliyor ve kalitesi bozuluyor\" dedi.\n\n— Bu sezon zeytin rekoltesi çok yüksek. Kentte yaklaşık 850 bin ton zeytin ve 90 bin ton zeytinyağı üretimi bekleniyor.\n— Fabrikalar 24 saat çalışsa da hasat hızına yetişemiyor, ürünler tesislerde bekliyor.\n— Tuncer, zeytinin ağaçta bir-iki gün kalmasında sorun olmadığını söyledi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/zeytinyagi-fabrikalarindaki-yogunluk-nedeniyle-ureticilere-hasada-ara-verin-cagrisi-/4137643",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/manisada-zeytin-ureticisine-dikkat-ceken-cagri-hasada-ara-verin-4876513",
-    "Diken: https://www.diken.com.tr/zeytin-cok-kapasite-yok-ureticilere-hasada-ara-verin-cagrisi/?utm_source=rss&utm_medium=rss&utm_campaign=zeytin-cok-kapasite-yok-ureticilere-hasada-ara-verin-cagrisi"
-   ]
-  },
   {
    "id": "41fc927e79",
    "post_id": "529346797199852_1480280927544948",
@@ -13241,6 +13195,18 @@
    "sources": [
     "Karar: https://www.karar.com/guncel-haberler/hasar-cok-buyuk-fon-soygunu-piyasalari-vurdu-yuz-binlerce-yatirimci-2086699"
    ]
+  },
+  {
+   "id": "c711432f97",
+   "post_id": "529346797199852_1482632907309750",
+   "title": "YENİ Partili Çakırözer: \"TRT başta olmak üzere ülkedeki medyanın yüzde 95'i iktidarın tekelinde\"",
+   "at": "2026-11-27T21:32:26.737540+00:00",
+   "yazim": "claude",
+   "metin": "YENİ Parti Eskişehir Milletvekili Utku Çakırözer, medya için:\n\n“TRT başta olmak üzere ülkedeki medyanın yüzde 95'i iktidarın tekelinde.”\n\n— Çakırözer, gerçeği söyleyen az sayıdaki kanalın da susturulmak istendiğini ifade etti.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/yeni-partili-cakirozer-trt-basta-olmak-uzere-ulkedeki-medyanin-yuzde-95-i-iktidarin-tekelinde-748872",
+    "BirGün: https://www.birgun.net/haber/yeni-partili-cakirozer-trt-basta-olmak-uzere-ulkedeki-medyanin-yuzde-95-inin-iktidarin-tekelinde-748869"
+   ]
   }
  ],
  "fails": {
@@ -13510,14 +13476,11 @@
   "86db156766": 2,
   "b21b853a89": 1,
   "5b9e11872f": 1,
-  "cf0b9972fe": 1
+  "cf0b9972fe": 1,
+  "4c9ca0103f": 1,
+  "d3bb1a0317": 1
  },
  "fail_log": [
-  "2026-11-27T14:22 Mauricio Pochettino: \"Ben iyi biri değilim ama iyi olmaya ça -> ValueError: yanıt okunamadı",
-  "2026-11-27T14:22 Mauricio Pochettino: \"Ben iyi biri değilim ama iyi olmaya ça -> ValueError: yanıt okunamadı",
-  "2026-11-27T14:22 Önder Özen: \"Bizim elde ettiğimiz dokümanları UEFA'ya iletti -> ValueError: yanıt okunamadı",
-  "2026-11-27T14:22 Önder Özen: \"Bizim elde ettiğimiz dokümanları UEFA'ya iletti -> ValueError: yanıt okunamadı",
-  "2026-11-27T14:22 Önder Özen: \"Bizim elde ettiğimiz dokümanları UEFA'ya iletti -> ValueError: yanıt okunamadı",
   "2026-11-27T14:26 İngiltere ve Galler'de yargıya yapay zeka uyarısı: En az 25  -> ValueError: yanıt okunamadı",
   "2026-11-27T14:26 İngiltere ve Galler'de yargıya yapay zeka uyarısı: En az 25  -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
   "2026-11-27T14:59 'Hayata Dönüş' davasında zamanaşımı kararı kesinleşti: Yargı -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
@@ -13552,7 +13515,12 @@
   "2026-11-27T20:39 \"Süleymancılar\"a yönelik operasyonda 18 kişi tutuklandı -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
   "2026-11-27T21:17 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
   "2026-11-27T21:17 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
-  "2026-11-27T21:17 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı"
+  "2026-11-27T21:17 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
+  "2026-11-27T21:32 Tahir Elçi cinayetinde 11 yıl: Kayıp 13 saniye, karartılan d -> ValueError: yanıt okunamadı",
+  "2026-11-27T21:32 Tahir Elçi cinayetinde 11 yıl: Kayıp 13 saniye, karartılan d -> ValueError: yanıt okunamadı",
+  "2026-11-27T21:32 Tahir Elçi cinayetinde 11 yıl: Kayıp 13 saniye, karartılan d -> ValueError: yanıt okunamadı",
+  "2026-11-27T21:32 Konya’da iki farklı hasat: Biri günde 10.000 ton sevk ediliy -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
+  "2026-11-27T21:32 YENİ Partili Çakırözer: \"TRT başta olmak üzere ülkedeki medy -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
  ],
  "x": {
   "bpthaber": {
