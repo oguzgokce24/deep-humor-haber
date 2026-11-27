@@ -10624,21 +10624,86 @@
     "çıktı"
    ],
    "at": "2026-11-27T01:10:30.350033+00:00"
+  },
+  {
+   "fp": [
+    "adil",
+    "atama",
+    "buldu",
+    "gerçe",
+    "ihtiy",
+    "kadro",
+    "sayıs",
+    "yeter",
+    "öğret"
+   ],
+   "tok": [
+    "adale",
+    "adil",
+    "ags",
+    "akade",
+    "alınm",
+    "ancak",
+    "atama",
+    "atana",
+    "ayınd",
+    "açığı",
+    "bahar",
+    "bekle",
+    "bekli",
+    "bin",
+    "bine",
+    "branş",
+    "bulan",
+    "buldu",
+    "bulun",
+    "buluy",
+    "dağıl",
+    "dağıt",
+    "dikka",
+    "duyur",
+    "ediyo",
+    "emekç",
+    "erdoğ",
+    "eğiti",
+    "gerçe",
+    "görül",
+    "gözle",
+    "günü",
+    "hüküm",
+    "ihtiy",
+    "iktid",
+    "ise",
+    "istiy",
+    "kadro",
+    "kasım",
+    "kavuş",
+    "konte",
+    "milli",
+    "nde",
+    "ndeki",
+    "nın",
+    "recep",
+    "sayıl",
+    "sayıs",
+    "sayıy",
+    "talep",
+    "tayyi",
+    "tekin",
+    "topla",
+    "yakla",
+    "yapac",
+    "yapıl",
+    "yeter",
+    "yusuf",
+    "öğren",
+    "öğret",
+    "ücret"
+   ],
+   "at": "2026-11-27T01:23:10.778803+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0b30984b07",
-   "post_id": "529346797199852_1479240584315649",
-   "title": "Birleşik Metal-İş'ten 25 Kasım çağrısı: Şiddete, tacize ve eşitsizliğe karşı örgütlü mücadeleye",
-   "at": "2026-11-24T18:45:25.337974+00:00",
-   "yazim": "claude",
-   "metin": "Beyoğlu Kaymakamlığı, 25 Kasım'da ilçe sınırları içinde toplantı, gösteri yürüyüşü ve basın açıklamalarını 24 saat süreyle yasakladı.\n\n— Kadınlar bu gün için Taksim Tünel'de saat 19.30'da toplanma çağrısı yapmıştı.\n\n— Kaymakamlık, sosyal medya hesaplarındaki toplanma çağrılarının kamu düzenini ve toplumsal barışı bozabileceğini gerekçe gösterdi.\n\n— Saat 15.00'ten itibaren Taksim Meydanı, İstiklal Caddesi, Tünel Meydanı, Gezi Parkı ve Sıraselviler Caddesi'nde araç ve yaya trafiği kapatılacak, gerekirse kontrollü giriş yapılacak.",
-   "sources": [
-    "Evrensel: https://www.evrensel.net/haber/6011041/beyoglu-kaymakamligi-25-kasim-kadina-yonelik-siddete-karsi-mucadele-gunu-yuruyuslerini-yasakladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "BirGün: https://www.birgun.net/haber/birlesik-metal-is-ten-25-kasim-cagrisi-siddete-tacize-ve-esitsizlige-karsi-orgutlu-mucadeleye-748238"
-   ]
-  },
   {
    "id": "c0d4bb9c2e",
    "post_id": "529346797199852_1479253797647661",
@@ -13239,6 +13304,17 @@
     "CNN Türk: https://www.cnnturk.com/video/spor/futbol/serdal-adali-cnn-turke-konustu-2-yarali-arkadasimiz-var-3498772",
     "Sözcü Spor: https://www.sozcu.com.tr/adali-iki-taraftarimiz-yaralandi-ondan-fazla-taraftarimiz-gozaltina-alindi-p384739"
    ]
+  },
+  {
+   "id": "ea681d0d39",
+   "post_id": "529346797199852_1481688404070867",
+   "title": "Öğretmenler atama sayısını yetersiz buldu: Gerçek ihtiyaca adil kadro!",
+   "at": "2026-11-27T01:23:10.778803+00:00",
+   "yazim": "claude",
+   "metin": "Hükümet 2026 AGS'de 15 bin öğretmen ataması yapacağını açıkladı, ancak öğretmenler bu sayıyı yetersiz buluyor.\n\n— Cumhurbaşkanı Recep Tayyip Erdoğan, 24 Kasım Öğretmenler Günü'nde atama duyurusunu ve branş dağılımını Milli Eğitim Bakanlığı'nın açıklayacağını söyledi.\n\n— Milli Eğitim Bakanı Yusuf Tekin, Milli Eğitim Akademisi'ndeki 10 bin öğretmenin bahar ayında atanacağını, 2026 ve 2027 AGS ile de 15'er bin öğretmenle toplam 40 bin atama yapılacağını açıkladı.\n\n— Sayıları yüz bine yaklaşan ücretli öğretmen bulunuyor. Atama bekleyenler, kontenjanların adil dağıtılmasını ve gerçek öğretmen açığının dikkate alınmasını istiyor.\n\n— Öğretmenler 2026 AGS için 50 bin atama yapılmasını talep ediyor.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ogretmenler-atama-sayisini-yetersiz-buldu-gercek-ihtiyaca-adil-kadro-2559710"
+   ]
   }
  ],
  "fails": {
@@ -13486,12 +13562,9 @@
   "f352fb04e0": 2,
   "2e63f2dd22": 1,
   "375b7dd3a0": 1,
-  "62965dea54": 1
+  "62965dea54": 2
  },
  "fail_log": [
-  "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:45 Sinemalarda ikisi yerli 11 yeni film vizyonda: Evlilik kurum -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
   "2026-11-26T21:45 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
@@ -13528,7 +13601,10 @@
   "2026-11-27T00:57 DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene -> ValueError: yanıt okunamadı",
   "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
   "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: cümle yarım kalmış: 'r tutuklu olduğu Silivri'den yanıtladığı'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı"
+  "2026-11-27T01:10 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
+  "2026-11-27T01:23 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
+  "2026-11-27T01:23 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı",
+  "2026-11-27T01:23 Ekrem İmamoğlu, Cumhuriyet’e konuştu: '28 aylık Demokrasi Se -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
