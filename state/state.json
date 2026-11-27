@@ -10675,6 +10675,37 @@
     "ziyad"
    ],
    "at": "2026-11-27T05:16:40.311375+00:00"
+  },
+  {
+   "fp": [
+    "artıy",
+    "emekl",
+    "hayat",
+    "küçül",
+    "maaşı",
+    "murat"
+   ],
+   "tok": [
+    "appea",
+    "artıy",
+    "bozul",
+    "diken",
+    "emekl",
+    "firs",
+    "hesap",
+    "küçül",
+    "maaşl",
+    "maaşı",
+    "makin",
+    "murat",
+    "oranl",
+    "post",
+    "the",
+    "zam",
+    "çarşı",
+    "çıkıy"
+   ],
+   "at": "2026-11-27T05:20:04.439515+00:00"
   }
  ],
  "posted": [
@@ -13511,22 +13542,12 @@
   "f1402ed117": 2,
   "ea7b2845f7": 1,
   "58bcbcb8a8": 1,
-  "5e6feb851f": 1,
+  "5e6feb851f": 2,
   "42993c969b": 1,
   "577b14a673": 1,
-  "c50722e659": 1,
-  "fcf658f061": 2
+  "c50722e659": 2
  },
  "fail_log": [
-  "2026-11-27T04:47 Bayazıt İlhan: Bu bütçe halkın sağlık hakkını ve sağlık çalı -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:47 Elif Turgut: 25 Kasım eylemlerine genç kadınların katılımı o -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:47 Elif Turgut: 25 Kasım eylemlerine genç kadınların katılımı o -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:47 Elif Turgut: 25 Kasım eylemlerine genç kadınların katılımı o -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:51 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:51 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:51 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:51 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:51 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
   "2026-11-27T04:51 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
   "2026-11-27T04:51 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
   "2026-11-27T04:51 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
@@ -13557,7 +13578,16 @@
   "2026-11-27T05:16 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
   "2026-11-27T05:16 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
   "2026-11-27T05:16 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:16 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı"
+  "2026-11-27T05:16 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
