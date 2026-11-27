@@ -2,76 +2,6 @@
  "seen": [
   {
    "fp": [
-    "15",
-    "bedel",
-    "elekt",
-    "fatur",
-    "ini",
-    "neyin",
-    "oluşt",
-    "sadec",
-    "tüket",
-    "yüzde",
-    "ödedi"
-   ],
-   "tok": [
-    "arası",
-    "ardın",
-    "arttı",
-    "aynı",
-    "bedel",
-    "bilin",
-    "bugün",
-    "dağıt",
-    "dönem",
-    "dörtt",
-    "düşer",
-    "elekt",
-    "enerj",
-    "enfla",
-    "fatur",
-    "fon",
-    "gitti",
-    "göre",
-    "günüm",
-    "harca",
-    "hgs",
-    "indi",
-    "ini",
-    "ise",
-    "kadar",
-    "kalıy",
-    "lirad",
-    "liray",
-    "milya",
-    "neyin",
-    "oluşt",
-    "oranı",
-    "paran",
-    "payı",
-    "sadec",
-    "skand",
-    "tahsi",
-    "tüik",
-    "tüket",
-    "ulaşt",
-    "vatan",
-    "vurgu",
-    "yansı",
-    "yatır",
-    "yüzde",
-    "yılda",
-    "çıktı",
-    "ödedi",
-    "ücret",
-    "üçü",
-    "şimdi",
-    "şirke"
-   ],
-   "at": "2026-11-25T22:38:51.057008+00:00"
-  },
-  {
-   "fp": [
     "beyko",
     "dönüş",
     "opera",
@@ -10520,21 +10450,63 @@
     "öne"
    ],
    "at": "2026-11-27T10:33:52.497487+00:00"
+  },
+  {
+   "fp": [
+    "afp",
+    "kapat",
+    "platf",
+    "saldı",
+    "siber"
+   ],
+   "tok": [
+    "abone",
+    "afp",
+    "ajans",
+    "aldığ",
+    "ardın",
+    "açıla",
+    "başla",
+    "belir",
+    "değil",
+    "diğer",
+    "düzen",
+    "ekipl",
+    "erişi",
+    "forum",
+    "fotoğ",
+    "frans",
+    "gerçe",
+    "geçic",
+    "gönde",
+    "görün",
+    "güven",
+    "henüz",
+    "indir",
+    "içeri",
+    "kapat",
+    "kimin",
+    "kulla",
+    "müdah",
+    "olası",
+    "paris",
+    "platf",
+    "posta",
+    "saati",
+    "sağla",
+    "siber",
+    "ulusl",
+    "yenid",
+    "zaman",
+    "zarar",
+    "çalış",
+    "önlem",
+    "üzeri"
+   ],
+   "at": "2026-11-27T10:47:00.831054+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "5fc8b5a3ee",
-   "post_id": "529346797199852_1479663320940042",
-   "title": "Kolombiya'da rehine krizi: Süpermarkette alıkonulan 30 kişiden 10'u serbest bırakıldı",
-   "at": "2026-11-25T04:49:03.848164+00:00",
-   "yazim": "claude",
-   "metin": "Kolombiya'nın Cartagena kentinde silahlı kişiler bir süpermarkette 30 kişiyi rehin aldı, bunların 10'u serbest bırakıldı.\n\n— Olay yerel saatle 08.00'de La Castellana Mahallesi'ndeki süpermarkette başladı.\n— Cumhurbaşkanı Abelardo de la Espriella, krizin bir para nakil aracını soymak isteyen adi suçluların girişiminden çıktığını söyledi.\n— De la Espriella olayı şöyle anlattı: “Güvenlik kameraları şüphelileri tespit etti, operatörler panik butonlarına bastı ve polis hemen olay yerine geldi. Kaçacak yer bulamayınca bir iş yerine sığınarak 5'i yaşlı 30 kişiyi rehin aldılar”.\n— Polis, olay yerinde çalışmalarını sürdürüyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/kolombiyada-silahli-kisiler-tarafindan-supermarkette-alikonulan-30-kisiden-10u-serbest-birakildi/4136560",
-    "Evrensel: https://www.evrensel.net/haber/6011066/kolombiya-da-rehine-krizi-supermarkette-alikonulan-30-kisiden-10-u-serbest-birakildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "854e489468",
    "post_id": "529346797199852_1479682410938133",
@@ -13158,6 +13130,18 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/domuz-avinda-basindan-vuruldu-5-arkadasi-gozaltinda-2559909",
     "Evrensel: https://www.evrensel.net/haber/6011456/avda-supheli-olum-kazara-vuruldugu-one-surulen-kisi-oldu-5-arkadasi-gozaltinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "215f8ac32b",
+   "post_id": "529346797199852_1482087437364297",
+   "title": "AFP’ye siber saldırı düzenlendi: Haber platformu erişime kapatıldı",
+   "at": "2026-11-27T10:47:00.831054+00:00",
+   "yazim": "claude",
+   "metin": "Fransa merkezli haber ajansı AFP'ye siber saldırı düzenlendi ve abonelerin içerik aldığı AFP Forum platformu erişime kapatıldı.\n\nSaldırının Paris saatiyle 01.30'da başladığı, ajansın çalışanlarına gönderdiği iç e-postada belirtildi.\n\n— AFP Forum üzerinden aboneler haber, fotoğraf ve diğer içerikleri görüntüleyip indirebiliyordu.\n— Güvenlik ekipleri saldırıya müdahale etti ve olası zararları önlemek için platform kapatıldı.\n— Saldırıyı kimin gerçekleştirdiği henüz açıklanmadı. Platformun ne zaman yeniden açılacağı da belli değil.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/afpye-siber-saldiri-duzenlendi-haber-platformu-erisime-kapatildi-748778",
+    "Karar: https://www.karar.com/dunya-haberleri/afpye-siber-saldiri-abonelerin-kullandigi-platform-kapatildi-2086613"
+   ]
   }
  ],
  "fails": {
@@ -13415,17 +13399,10 @@
   "55617cde22": 1,
   "9bba301ced": 1,
   "3b1e66a7c5": 1,
-  "3c90a8d020": 1
+  "3c90a8d020": 2,
+  "3a52fcfd4f": 1
  },
  "fail_log": [
-  "2026-11-27T05:16 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:16 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:16 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:20 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:20 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:20 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:20 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:20 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
   "2026-11-27T05:20 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
   "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
   "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
@@ -13457,12 +13434,20 @@
   "2026-11-27T09:22 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
   "2026-11-27T09:22 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
   "2026-11-27T09:22 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
-  "2026-11-27T10:01 Doğan Alemdar: Tüm Türk milleti arkamızda durdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt"
+  "2026-11-27T10:01 Doğan Alemdar: Tüm Türk milleti arkamızda durdu -> ValueError: cümle yarım kalmış: 'KATEGORİ: SPOR'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
+  "2026-11-27T10:47 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
+  "2026-11-27T10:47 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
+  "2026-11-27T10:47 Kudretli bir Başsavcı’nın hikayesi: Dört ilde başsavcılık ve -> ValueError: yanıt okunamadı",
+  "2026-11-27T10:47 MESAM 40’ıncı yıl dönümünü kutladı: 35 ödül sahiplerini buld -> ValueError: yanıt okunamadı",
+  "2026-11-27T10:47 MESAM 40’ıncı yıl dönümünü kutladı: 35 ödül sahiplerini buld -> ValueError: yanıt okunamadı",
+  "2026-11-27T10:47 MESAM 40’ıncı yıl dönümünü kutladı: 35 ödül sahiplerini buld -> ValueError: yanıt okunamadı",
+  "2026-11-27T10:47 AFP’ye siber saldırı düzenlendi: Haber platformu erişime kap -> ValueError: yanıt okunamadı",
+  "2026-11-27T10:47 AFP’ye siber saldırı düzenlendi: Haber platformu erişime kap -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126260246628692478",
+   "since_id": "2126264081091047775",
    "started": true
   },
   "ajansmuhbir1923": {
