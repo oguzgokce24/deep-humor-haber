@@ -10706,6 +10706,88 @@
     "çıkıy"
    ],
    "at": "2026-11-27T05:20:04.439515+00:00"
+  },
+  {
+   "fp": [
+    "görem",
+    "hayrı",
+    "oğuz",
+    "ülkey",
+    "ürete",
+    "ürett",
+    "şeref"
+   ],
+   "tok": [
+    "appea",
+    "berek",
+    "bize",
+    "diken",
+    "fayda",
+    "first",
+    "görem",
+    "hayrı",
+    "hisse",
+    "linka",
+    "oğuz",
+    "post",
+    "site",
+    "sundu",
+    "the",
+    "topra",
+    "ülkey",
+    "ürete",
+    "ürett",
+    "şeref"
+   ],
+   "at": "2026-11-27T05:23:50.636366+00:00"
+  },
+  {
+   "fp": [
+    "anlat",
+    "bekle",
+    "bile",
+    "cesed",
+    "fizik",
+    "hasta",
+    "kadın",
+    "karag",
+    "mekan",
+    "yağmu"
+   ],
+   "tok": [
+    "anlat",
+    "ayrın",
+    "bekle",
+    "bile",
+    "buluş",
+    "cesed",
+    "derle",
+    "diken",
+    "eltah",
+    "femin",
+    "fizik",
+    "hasta",
+    "kad",
+    "kadın",
+    "karag",
+    "lanet",
+    "mekan",
+    "mona",
+    "ndan",
+    "nin",
+    "okurl",
+    "olsun",
+    "post",
+    "the",
+    "türkç",
+    "uygun",
+    "yayın",
+    "yazar",
+    "yağmu",
+    "çevir",
+    "özlem"
+   ],
+   "at": "2026-11-27T05:23:56.055199+00:00"
   }
  ],
  "posted": [
@@ -13542,21 +13624,11 @@
   "f1402ed117": 2,
   "ea7b2845f7": 1,
   "58bcbcb8a8": 1,
-  "5e6feb851f": 2,
   "42993c969b": 1,
   "577b14a673": 1,
-  "c50722e659": 2
+  "86a6ce062e": 1
  },
  "fail_log": [
-  "2026-11-27T04:51 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:51 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:51 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:51 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:54 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:54 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:54 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:54 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:54 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
   "2026-11-27T04:54 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
   "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
   "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
@@ -13587,12 +13659,21 @@
   "2026-11-27T05:20 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
   "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
   "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
-  "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı"
+  "2026-11-27T05:20 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Rapçi Blok 3'ü taklit eden bir kişi telefonla bağlandığı tel -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Rapçi Blok 3'ü taklit eden bir kişi telefonla bağlandığı tel -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Rapçi Blok 3'ü taklit eden bir kişi telefonla bağlandığı tel -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Şeref Oğuz: Üreten ülkeyiz ama ürettiğimizin hayrını göremiy -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı",
+  "2026-11-27T05:23 Yağmur Karagöz: Hastanenin fiziksel mekanı bile kadın bedeni -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126179826017145152",
+   "since_id": "2126184336454242588",
    "started": true
   },
   "ajansmuhbir1923": {
