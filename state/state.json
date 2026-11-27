@@ -2,74 +2,6 @@
  "seen": [
   {
    "fp": [
-    "batum",
-    "beşik",
-    "engel",
-    "hava",
-    "ineme",
-    "kafil",
-    "uçak"
-   ],
-   "tok": [
-    "aktar",
-    "artvi",
-    "atmay",
-    "avrup",
-    "batum",
-    "beer",
-    "beşik",
-    "bulun",
-    "daki",
-    "dan",
-    "devam",
-    "ediyo",
-    "ekibi",
-    "ekip",
-    "engel",
-    "geçec",
-    "gidec",
-    "gürci",
-    "hafta",
-    "hakem",
-    "hapoe",
-    "hava",
-    "havad",
-    "haval",
-    "inece",
-    "ineme",
-    "iniş",
-    "kabus",
-    "kafil",
-    "kara",
-    "karşı",
-    "koşul",
-    "krogh",
-    "ligi",
-    "maçın",
-    "morte",
-    "muhal",
-    "neden",
-    "nin",
-    "olums",
-    "orada",
-    "oynan",
-    "rize",
-    "sheva",
-    "taşıy",
-    "trabz",
-    "tur",
-    "uefa",
-    "uçak",
-    "uçağı",
-    "yapam",
-    "yoluy",
-    "zorun",
-    "şartl"
-   ],
-   "at": "2026-11-25T15:22:47.340443+00:00"
-  },
-  {
-   "fp": [
     "iran",
     "planı",
     "suika",
@@ -10585,24 +10517,66 @@
     "önlen"
    ],
    "at": "2026-11-27T03:11:35.939300+00:00"
+  },
+  {
+   "fp": [
+    "1",
+    "düzce",
+    "patpa",
+    "uçuru",
+    "yaral",
+    "yuvar",
+    "ölü"
+   ],
+   "tok": [
+    "akbaş",
+    "altın",
+    "alınd",
+    "ambul",
+    "buldu",
+    "dere",
+    "deres",
+    "direk",
+    "dönen",
+    "düzce",
+    "düştü",
+    "ekipl",
+    "gece",
+    "geldi",
+    "hakim",
+    "halde",
+    "hasta",
+    "hızar",
+    "ilhan",
+    "ilçes",
+    "kaldı",
+    "kontr",
+    "köye",
+    "köyü",
+    "kırık",
+    "metre",
+    "meyda",
+    "nin",
+    "orman",
+    "otomo",
+    "patpa",
+    "saatl",
+    "sürüc",
+    "sürül",
+    "tedav",
+    "uçuru",
+    "yakın",
+    "yatağ",
+    "yuvar",
+    "yükse",
+    "yığıl",
+    "çıkan",
+    "öne"
+   ],
+   "at": "2026-11-27T03:23:58.687761+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "8858cf3cc7",
-   "post_id": "529346797199852_1479321010974273",
-   "title": "Ünlülere yönelik uyuşturucu operasyonu! Aralarında Özcan Deniz ve Deniz Çakır da var",
-   "at": "2026-11-24T20:29:31.685987+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da ünlülere yönelik uyuşturucu soruşturmasında 35 şüpheli hakkında gözaltı kararı çıkarıldı.\n\n— Şarkıcı Özcan Deniz ve oyuncu Deniz Çakır'ın da aralarında olduğu öğrenildi. Listede yönetmen Cem Karcı ile Erdal Bozkuş da yer alıyor.\n\n— Soruşturma uyuşturucu ticareti, temini ile uyuşturucu kullanma ve bulundurma suçlamalarını kapsıyor.\n\n— Soruşturmanın ilerleyen aşamalarında ayrıntıların netleşmesi bekleniyor.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/deniz-cakir-ozcan-deniz-gozaltina-mi-alindi-p384124",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/son-dakika-istanbul-da-yeni-unlulere-yonelik-uyusturucu-operasyonu-gozaltina-alinan-isimler-arasinda-ozcan-deniz-de-var-2559119",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/unlulere-yonelik-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-4876205",
-    "Karar: https://www.karar.com/hayat-haberleri/son-dakika-ozcan-deniz-gozaltinda-2086064",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/deniz-cakir-ozcan-deniz-gozaltina-mi-alindi-p384124"
-   ]
-  },
   {
    "id": "9266d474fa",
    "post_id": "529346797199852_1479338894305818",
@@ -13188,6 +13162,17 @@
    "metin": "Milli Eğitim Bakanlığı'nın değerlendirme raporuna göre 2023-2025 döneminde okullarda ve eğitim kurumlarında 10 bin 616 iş kazası yaşandı.\n\nRaporda, okullardaki iş kazalarının boyutu ortaya konuyor.\n\n— Aynı dönemde 629 olay “kazaya ramak kala” önlendi.",
    "sources": [
     "BirGün: https://www.birgun.net/haber/okullarda-3-yilda-10-bin-616-is-kazasi-748691"
+   ]
+  },
+  {
+   "id": "ff67b172c2",
+   "post_id": "529346797199852_1481775750728799",
+   "title": "Düzce'de patpat uçuruma yuvarlandı: 1 ölü, 1 yaralı",
+   "at": "2026-11-27T03:23:58.687761+00:00",
+   "yazim": "claude",
+   "metin": "Düzce'nin Yığılca ilçesinde kontrolden çıkan patpat uçuruma yuvarlandı, sürücü hayatını kaybetti.\n\nKaza gece saatlerinde Kırık köyü yakınlarında meydana geldi. Ormandan köye dönen patpatın sürücüsünün direksiyon hakimiyetini kaybettiği öne sürüldü.\n\n— Araçtaki 2 kişi Hızar Deresi'ne düştü.\n— Ekipler sürücüyü dere yatağında hayatını kaybetmiş halde buldu.\n— Yaralanan 1 kişi ambulansla hastaneye kaldırılarak tedavi altına alındı.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6011397/duzce-de-patpat-ucuruma-yuvarlandi-1-olu-1-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
   }
  ],
