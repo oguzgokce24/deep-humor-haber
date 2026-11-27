@@ -2,92 +2,6 @@
  "seen": [
   {
    "fp": [
-    "957",
-    "değiş",
-    "engin",
-    "görev",
-    "hakim",
-    "hsk",
-    "karar",
-    "mazer",
-    "savcı",
-    "soruş",
-    "yavuz",
-    "yenid",
-    "yeri",
-    "çetes"
-   ],
-   "tok": [
-    "adli",
-    "atama",
-    "atand",
-    "açıld",
-    "baskı",
-    "bağla",
-    "bilin",
-    "buldu",
-    "büyük",
-    "bırak",
-    "cezas",
-    "dan",
-    "den",
-    "değiş",
-    "edili",
-    "edilm",
-    "engin",
-    "eylül",
-    "gelen",
-    "görev",
-    "günde",
-    "güz",
-    "hakim",
-    "hapis",
-    "hsk",
-    "hukuk",
-    "hâkim",
-    "idari",
-    "iddia",
-    "istin",
-    "kamer",
-    "kamuo",
-    "kapsa",
-    "kapsı",
-    "kayıt",
-    "kemal",
-    "kurma",
-    "makam",
-    "mazer",
-    "musta",
-    "nin",
-    "nın",
-    "olayd",
-    "olayl",
-    "savcı",
-    "serbe",
-    "sürer",
-    "tehdi",
-    "topla",
-    "uygun",
-    "van",
-    "veril",
-    "yansı",
-    "yapıl",
-    "yargı",
-    "yavuz",
-    "yayım",
-    "yenid",
-    "yeri",
-    "yürüt",
-    "yıl",
-    "zengi",
-    "çalış",
-    "çetes",
-    "şubat"
-   ],
-   "at": "2026-11-25T20:48:17.468853+00:00"
-  },
-  {
-   "fp": [
     "atama",
     "bile",
     "kayma",
@@ -10625,20 +10539,68 @@
     "ösym"
    ],
    "at": "2026-11-27T08:37:40.987161+00:00"
+  },
+  {
+   "fp": [
+    "6",
+    "alınd",
+    "gözal",
+    "kişi",
+    "parkt",
+    "payla",
+    "pompa",
+    "suça",
+    "tüfek",
+    "özend"
+   ],
+   "tok": [
+    "adres",
+    "alan",
+    "alına",
+    "alınd",
+    "arama",
+    "ateş",
+    "açtı",
+    "batma",
+    "başla",
+    "belir",
+    "düzen",
+    "emniy",
+    "eskiş",
+    "fişek",
+    "gençl",
+    "hedef",
+    "işlem",
+    "kartu",
+    "kulla",
+    "medya",
+    "mühim",
+    "parkt",
+    "payla",
+    "pompa",
+    "sanal",
+    "silah",
+    "suç",
+    "suça",
+    "sürüy",
+    "taban",
+    "teşvi",
+    "tüfek",
+    "yapan",
+    "yaptı",
+    "yönel",
+    "yönle",
+    "çalış",
+    "örgüt",
+    "özell",
+    "özend",
+    "üzeri",
+    "şahıs"
+   ],
+   "at": "2026-11-27T08:50:10.976028+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c9a59047ea",
-   "post_id": "529346797199852_1479540094285698",
-   "title": "Çin, Tiengong Uzay İstasyonu'na yeni astronot ekibini yolladı",
-   "at": "2026-11-25T01:53:15.957348+00:00",
-   "yazim": "claude",
-   "metin": "Çin, Tiangong (Gök Sarayı) Uzay İstasyonu'na üç kişilik yeni ekibi Ciuçüen Uydu Merkezi'nden fırlattı.\n\nEkipte iki Çinli astronot ve Pakistanlı Muhammed Zişan Ali var. Ali, Çin'in insanlı uzay programında yer alan ilk yabancı astronot oldu.\n\n— Ali aynı zamanda Dünya yörüngesine çıkan ilk Pakistan vatandaşı.\n— Uzay mekiğinin pilotluğunu Tang Hongbo üstleniyor. Vu Yi ise ilk kez insanlı uzay görevine katılıyor.\n— Şıncou-23 ekibinden Cu Yangcu, yeni ekiple görevine devam edip istasyonda bir yılı tamamlayacak.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/cin-tiengong-uzay-istasyonuna-yeni-astronot-ekibini-yolladi-1752448"
-   ]
-  },
   {
    "id": "bd3ec5a8b6",
    "post_id": "529346797199852_1479549444284763",
@@ -13241,6 +13203,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/osym-duyurdu-yok-ykds-ve-ales-hafta-sonu-yapilacak-2559855",
     "Karar: https://www.karar.com/guncel-haberler/yok-ykds-ve-ales-hafta-sonu-yapilacak-2086557"
    ]
+  },
+  {
+   "id": "7950efd105",
+   "post_id": "529346797199852_1481998357373205",
+   "title": "Batman’da suça özendirici paylaşım yapan 6 kişi gözaltına alındı",
+   "at": "2026-11-27T08:50:10.976028+00:00",
+   "yazim": "claude",
+   "metin": "Batman'da sanal medyadan gençleri suça ve silah kullanmaya özendiren paylaşım yapan 6 kişi gözaltına alındı.\n\n— Polis, suç örgütlerini ve silah kullanımını teşvik eden paylaşımlara yönelik çalışma başlattı. Özellikle gençleri hedef alan paylaşım yapan şüphelilerin adreslerine operasyon düzenlendi.\n\n— Adreslerde yapılan aramalarda 2 tabanca, 1 pompalı tüfek, 17 kartuş ve 54 fişek ele geçirildi.\n\n— Gözaltına alınan şüphelilerin emniyetteki işlemleri sürüyor.",
+   "sources": [
+    "Sözcü: https://www.sozcu.com.tr/gencleri-suca-ozendiren-paylasimlara-operasyon-6-gozalti-p384856",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/batman-da-suca-ozendirici-paylasim-yapan-6-kisi-gozaltina-alindi-2559850",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/parkta-pompali-tufekle-saldiri-7-kisi-gozaltina-alindi-2559847",
+    "BPT (X): https://x.com/bpthaber/status/2126233940188901871"
+   ]
   }
  ],
  "fails": {
@@ -13544,7 +13520,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126232431464493124",
+   "since_id": "2126236755103977618",
    "started": true
   },
   "ajansmuhbir1923": {
