@@ -10380,22 +10380,59 @@
     "özdem"
    ],
    "at": "2026-11-27T17:26:22.776519+00:00"
+  },
+  {
+   "fp": [
+    "burcu",
+    "deniz",
+    "sonuc",
+    "soruş",
+    "test",
+    "uyuşt",
+    "çakır",
+    "özber",
+    "özcan",
+    "ünlül"
+   ],
+   "tok": [
+    "adli",
+    "alına",
+    "belir",
+    "ben",
+    "burcu",
+    "bırak",
+    "daki",
+    "deniz",
+    "kapsa",
+    "kesin",
+    "kişid",
+    "kulla",
+    "kurum",
+    "nda",
+    "negat",
+    "pozit",
+    "savcı",
+    "serbe",
+    "sonuc",
+    "sının",
+    "test",
+    "testi",
+    "tıp",
+    "uyuşt",
+    "veren",
+    "yönel",
+    "yürüt",
+    "çakır",
+    "çıktı",
+    "özber",
+    "özcan",
+    "ünlül",
+    "ünün"
+   ],
+   "at": "2026-11-27T17:42:35.240639+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "eab28309e6",
-   "post_id": "529346797199852_1480057674233940",
-   "title": "Ünlülere yönelik uyuşturucu operasyonu: 10 kişi adliyede ifade verecek",
-   "at": "2026-11-25T13:24:07.140334+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da fuhuş ve uyuşturucu soruşturması kapsamında gözaltına alınan 24 şüpheli adliyeye sevk edildi.\n\nŞüpheliler arasında sanatçılar Özcan Deniz ve Deniz Çakır da yer alıyor.\n\n— Soruşturmayı İstanbul Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçlar Soruşturma Bürosu yürütüyor.\n— Soruşturmada 35 şüpheli hakkında gözaltı kararı verilmiş, 24 kişi yakalanmıştı.\n— Emniyetteki işlemleri tamamlanan şüpheliler sağlık kontrolünün ardından Çağlayan'daki İstanbul Adalet Sarayına sevk edildi.\n— Gözaltına alınanlardan 10 kişinin savcılıkta ifadesinin alınacağı, 14 kişinin ise ek ifade için emniyete götürüldüğü öğrenildi.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-unlulere-yonelik-uyusturucu-operasyonu-24-gozalti-3930020",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-deniz-cakir-da-aralarinda-24-supheli-adliyeye-sevk-edildi-2559327",
-    "BirGün: https://www.birgun.net/haber/unlulere-yonelik-uyusturucu-operasyonu-10-kisi-adliyede-ifade-verecek-748387"
-   ]
-  },
   {
    "id": "83808f174e",
    "post_id": "529346797199852_1480068610899513",
@@ -13025,6 +13062,17 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/baskanvekili-ozdemirden-antalya-meclisinde-vicdan-yaniti-4877245",
     "BirGün: https://www.birgun.net/haber/chpden-akpye-gecen-antalya-buyuksehir-belediye-baskanvekilinden-aciklama-748846"
    ]
+  },
+  {
+   "id": "28fdf91cbb",
+   "post_id": "529346797199852_1482465720659802",
+   "title": "Ünlülere uyuşturucu soruşturması. Özcan Deniz, Deniz Çakır ve Burcu Özberk'in test sonucu belli oldu",
+   "at": "2026-11-27T17:42:35.240639+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'daki ünlülere yönelik uyuşturucu soruşturmasında Özcan Deniz, Deniz Çakır ve Burcu Özberk'in uyuşturucu testi negatif çıktı.\n\n— Adli Tıp Kurumu'nda test veren 21 şüpheliden 16'sının sonucu açıklandı.\n— Bu 16 kişiden 3'ünün testi pozitif çıktı.\n— Soruşturmada gözaltına alınan 24 şüpheliden Özcan Deniz, Deniz Çakır ve Burcu Özberk serbest bırakıldı.\n— Özcan Deniz savcılıkta \"Ben kesinlikle uyuşturucu kullanmıyorum.\" dedi.",
+   "sources": [
+    "NTV: https://www.ntv.com.tr/turkiye/galeri-unlulere-yonelik-uyusturucu-sorusturmasinda-3-kisinin-testi-pozitif-cikti-1752901"
+   ]
   }
  ],
  "fails": {
@@ -13336,7 +13384,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126366304336502899",
+   "since_id": "2126370903898370409",
    "started": true
   },
   "ajansmuhbir1923": {
