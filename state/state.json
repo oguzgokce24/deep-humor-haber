@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "bakan",
-    "halin",
-    "ihrac",
-    "rekor",
-    "unutt",
-    "yumak",
-    "çiftç",
-    "övünd",
-    "üreti"
-   ],
-   "tok": [
-    "adana",
-    "ayhan",
-    "ayrıl",
-    "barut",
-    "borç",
-    "bütçe",
-    "deste",
-    "değil",
-    "faizc",
-    "faize",
-    "halin",
-    "ibrah",
-    "ihrac",
-    "ithal",
-    "katı",
-    "kazan",
-    "komis",
-    "konuş",
-    "kopma",
-    "mille",
-    "net",
-    "orman",
-    "parti",
-    "payın",
-    "rakam",
-    "rekor",
-    "söylü",
-    "tam",
-    "tarım",
-    "terci",
-    "umut",
-    "unutt",
-    "veril",
-    "yumak",
-    "çiftç",
-    "övünd",
-    "üreti",
-    "üzüle"
-   ],
-   "at": "2026-11-26T03:36:57.067138+00:00"
-  },
-  {
-   "fp": [
     "elind",
     "fail",
     "kız",
@@ -10502,25 +10448,43 @@
     "ülken"
    ],
    "at": "2026-11-27T15:24:40.154184+00:00"
+  },
+  {
+   "fp": [
+    "başka",
+    "beled",
+    "cezae",
+    "fevzi",
+    "milas",
+    "olsa",
+    "sesle",
+    "suçum",
+    "topuz",
+    "tutuk",
+    "zerre",
+    "üzülm"
+   ],
+   "tok": [
+    "ancak",
+    "beled",
+    "cezae",
+    "durum",
+    "fevzi",
+    "milas",
+    "olsa",
+    "olunc",
+    "sesle",
+    "suçsu",
+    "suçum",
+    "topuz",
+    "zerre",
+    "üzülm",
+    "üzülü"
+   ],
+   "at": "2026-11-27T15:37:06.829421+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "108866e7c1",
-   "post_id": "529346797199852_1479912414248466",
-   "title": "Hakimler ve Savcılar Kurulu, Yargıtay'a 5 üye seçti",
-   "at": "2026-11-25T10:37:18.686651+00:00",
-   "yazim": "claude",
-   "metin": "Hakimler ve Savcılar Kurulu (HSK) Genel Kurulu, Yargıtay'a beş yeni üye seçti.\n\n— Seçilenler arasında İstanbul Anadolu Cumhuriyet Başsavcısı Mehmet Beşir Güven, Ankara Bölge Adliye Mahkemesi Daire Başkanı Murat Öztürkten ve Tekirdağ Bölge Adliye Mahkemesi Daire Başkanı Leyla Taşkoparan var.\n\n— Bakırköy Cumhuriyet Başsavcısı Doç. Dr. Barış Duman ile Adalet Bakanlığı Ceza İşleri Genel Müdürlüğü Tetkik Hakimi Mehmet Tuncer de listede yer alıyor.\n\n— Adalet Bakanı Akın Gürlek, yeni üyelere görevlerinde başarılar diledi.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/hsk-yargitay-uyeligine-5-isim-secti/4136999",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/hsk-genel-kurulunca-yargitay-uyeliklerine-5-isim-secildi-964425.html",
-    "Sabah: https://www.sabah.com.tr/gundem/2026/11/25/hsk-yargitay-uyeligine-5-isim-secti",
-    "NTV: https://www.ntv.com.tr/turkiye/yargitaya-bes-yeni-uye-secildi-1752533",
-    "Habertürk: https://www.haberturk.com/gundem/hsk-5-ismi-yargitay-uyeligine-secti-3929987",
-    "Sözcü: https://www.sozcu.com.tr/hakimler-ve-savcilar-kurulu-yargitay-a-5-uye-secti-p384298"
-   ]
-  },
   {
    "id": "1130453fd6",
    "post_id": "529346797199852_1479922400914134",
@@ -13158,6 +13122,17 @@
     "Karar: https://www.karar.com/dunya-haberleri/abdde-yeni-kriz-hava-kuvvetlerinin-askeri-bulut-altyapisina-siber-2086661",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/abd-devlet-kurumlarina-yonelik-siber-saldiri-dalgasi-buyuyor-son-hedef-cloud-one-7709358"
    ]
+  },
+  {
+   "id": "22e7cb4fee",
+   "post_id": "529346797199852_1482349374004770",
+   "title": "Tutuklu Milas Belediye Başkanı Fevzi Topuz cezaevinden seslendi: “Zerre kadar suçumuz olsa üzülmeyeceğim”",
+   "at": "2026-11-27T15:37:06.829421+00:00",
+   "yazim": "claude",
+   "metin": "Tutuklu Milas Belediye Başkanı Fevzi Topuz, cezaevinden seslendi:\n\n“Zerre kadar bir suçumuz olsa üzülmeyeceğim. Ancak suçsuz bir durum olunca üzülüyoruz.”\n\n— Topuz, tutuklu olduğu cezaevinden bu açıklamayı yaptı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/tutuklu-milas-belediye-baskani-fevzi-topuz-cezaevinden-seslendi-zerre-kadar-sucumuz-olsa-uzulmeyecegim-748850"
+   ]
   }
  ],
  "fails": {
@@ -13466,7 +13441,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126330714694238319",
+   "since_id": "2126336654139072652",
    "started": true
   },
   "ajansmuhbir1923": {
