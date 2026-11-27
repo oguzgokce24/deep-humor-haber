@@ -2,69 +2,6 @@
  "seen": [
   {
    "fp": [
-    "duyur",
-    "hürmü",
-    "iran",
-    "patla",
-    "taraf"
-   ],
-   "tok": [
-    "abd",
-    "aldı",
-    "alev",
-    "almay",
-    "altın",
-    "alınm",
-    "alını",
-    "bağlı",
-    "belir",
-    "boyut",
-    "boğaz",
-    "dediğ",
-    "deniz",
-    "devri",
-    "dikka",
-    "durum",
-    "duyur",
-    "düzen",
-    "gemi",
-    "gemid",
-    "gemil",
-    "geçiş",
-    "göre",
-    "güzer",
-    "hasar",
-    "hürmü",
-    "iran",
-    "ise",
-    "israi",
-    "kapat",
-    "karşı",
-    "kontr",
-    "konum",
-    "kulla",
-    "lng",
-    "mayın",
-    "muhaf",
-    "müret",
-    "nda",
-    "oluşt",
-    "patla",
-    "riski",
-    "rotay",
-    "sahte",
-    "siste",
-    "taraf",
-    "taşıy",
-    "trafi",
-    "uyarı",
-    "yangı",
-    "çarpt"
-   ],
-   "at": "2026-11-25T18:55:27.891552+00:00"
-  },
-  {
-   "fp": [
     "3",
     "adliy",
     "dolan",
@@ -10649,20 +10586,75 @@
     "şirke"
    ],
    "at": "2026-11-27T06:45:59.554617+00:00"
+  },
+  {
+   "fp": [
+    "bursa",
+    "büyük",
+    "fabri",
+    "yangı",
+    "yem",
+    "çıktı"
+   ],
+   "tok": [
+    "alevl",
+    "almak",
+    "altın",
+    "alınd",
+    "bakım",
+    "başla",
+    "bursa",
+    "buski",
+    "bölge",
+    "büyük",
+    "dan",
+    "den",
+    "deste",
+    "ekipl",
+    "etapt",
+    "fabri",
+    "gönde",
+    "ihbar",
+    "ilçes",
+    "itfai",
+    "karac",
+    "kontr",
+    "kurut",
+    "küçük",
+    "mahal",
+    "makin",
+    "musta",
+    "müdah",
+    "müdür",
+    "nde",
+    "nden",
+    "nın",
+    "olay",
+    "onarı",
+    "otomo",
+    "saatl",
+    "sabah",
+    "sanay",
+    "söndü",
+    "sürüy",
+    "tahıl",
+    "tanke",
+    "tavşa",
+    "tesis",
+    "veriy",
+    "yangı",
+    "yem",
+    "yerin",
+    "yol",
+    "yönle",
+    "çalış",
+    "çıktı",
+    "şube"
+   ],
+   "at": "2026-11-27T06:58:33.022456+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "d6cea56599",
-   "post_id": "529346797199852_1479458967627144",
-   "title": "YENİ Partili Çiler: \"Fonzadeleri korumayı bırakın, listeyi açıklayın\"",
-   "at": "2026-11-24T23:52:18.301185+00:00",
-   "yazim": "claude",
-   "metin": "YENİ Parti Kocaeli Milletvekili Çiler, fon mağdurları için:\n\n“Bu fonzadeleri korumayı bırakın, listeyi açıklayın istiyoruz.”\n\n— Çiler, fon mağdurlarının karşısında yüksek kazanç elde edenler olduğunu savunuyor.\n\n— Bir kişinin 160 milyon lira yatırıp milyarlar kazandığını öne sürüyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/yeni-partili-ciler-fonzadeleri-korumayi-birakin-listeyi-aciklayin-748259"
-   ]
-  },
   {
    "id": "1ef6766e95",
    "post_id": "529346797199852_1479468087626232",
@@ -13239,6 +13231,22 @@
    "sources": [
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/fon-krizini-haberlestirmislerdi-gazeteciler-saban-sevinc-ve-mustafa-balci-48-gun-sonra-hakim-karsisinda-2559828"
    ]
+  },
+  {
+   "id": "84e1609cd0",
+   "post_id": "529346797199852_1481919827381058",
+   "title": "Bursa'da yem fabrikasında yangın çıktı",
+   "at": "2026-11-27T06:58:33.022456+00:00",
+   "yazim": "claude",
+   "metin": "Bursa'nın Karacabey ilçesindeki Tavşanlı Mahallesi'nde bir yem fabrikasında sabah saatlerinde yangın çıktı.\n\nİhbar üzerine ilk etapta 6 itfaiye aracı ve 2 tanker olay yerine yönlendirildi. Müdahale sürüyor.\n\n— Karacabey'den 3, Mustafakemalpaşa'dan 2, Küçük Sanayi Bölgesi'nden 1 itfaiye aracı gönderildi.\n— Yol Bakım ve Onarım Şube Müdürlüğü ile Karacabey BUSKİ ekipleri de 2 tankerle söndürme çalışmalarına destek veriyor.",
+   "sources": [
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-bursada-yem-fabrikasinda-buyuk-yangin-43392655",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-yem-fabrikasinda-buyuk-yangin-bursa-haberleri-3930485",
+    "Sözcü: https://www.sozcu.com.tr/yem-fabrikasinda-buyuk-yangin-p384799",
+    "Yeni Şafak: https://www.yenisafak.com/video/gundem/bursada-yem-fabrikasinda-yangin-cikti-4877015",
+    "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/bursada-yem-tesisinde-yangin-itfaiye-mudahale-ediyor-4877006",
+    "Evrensel: https://www.evrensel.net/haber/6011405/bursa-da-yem-fabrikasinda-yangin-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13493,7 +13501,8 @@
   "42993c969b": 1,
   "577b14a673": 1,
   "86a6ce062e": 1,
-  "55617cde22": 1
+  "55617cde22": 1,
+  "9bba301ced": 1
  },
  "fail_log": [
   "2026-11-27T04:58 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
@@ -13540,7 +13549,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126200589453332685",
+   "since_id": "2126208820363850144",
    "started": true
   },
   "ajansmuhbir1923": {
