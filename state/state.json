@@ -2,59 +2,6 @@
  "seen": [
   {
    "fp": [
-    "1379",
-    "avrup",
-    "günlü",
-    "haval",
-    "istan",
-    "nın",
-    "uçuşl",
-    "yoğun"
-   ],
-   "tok": [
-    "alırk",
-    "amste",
-    "avrup",
-    "baraj",
-    "başın",
-    "dönem",
-    "emniy",
-    "euroc",
-    "gökçe",
-    "göre",
-    "günlü",
-    "hafta",
-    "hava",
-    "haval",
-    "heath",
-    "ikinc",
-    "ilişk",
-    "izled",
-    "kasım",
-    "liste",
-    "londr",
-    "madri",
-    "nın",
-    "ortal",
-    "sabih",
-    "sekiz",
-    "seyrü",
-    "sırad",
-    "sıral",
-    "sıray",
-    "teşki",
-    "uçuş",
-    "uçuşl",
-    "veril",
-    "yer",
-    "yerle",
-    "yoğun",
-    "üçünc"
-   ],
-   "at": "2026-11-25T14:44:53.663896+00:00"
-  },
-  {
-   "fp": [
     "25",
     "274",
     "açıkl",
@@ -10571,6 +10518,51 @@
     "örgün"
    ],
    "at": "2026-11-27T02:35:57.839313+00:00"
+  },
+  {
+   "fp": [
+    "diren",
+    "karde",
+    "karşı",
+    "sesli",
+    "tekdü",
+    "türkü"
+   ],
+   "tok": [
+    "alman",
+    "arası",
+    "azeri",
+    "biçim",
+    "diren",
+    "dönem",
+    "ermen",
+    "ezgil",
+    "gelen",
+    "grup",
+    "halk",
+    "kapit",
+    "karde",
+    "karşı",
+    "kenti",
+    "kültü",
+    "kürtç",
+    "mozai",
+    "nın",
+    "sanat",
+    "sesli",
+    "siste",
+    "sürdü",
+    "tekdü",
+    "toplu",
+    "türkç",
+    "türkü",
+    "wetzl",
+    "yaşat",
+    "zazac",
+    "zorla",
+    "çalış"
+   ],
+   "at": "2026-11-27T02:48:32.899246+00:00"
   }
  ],
  "posted": [
@@ -13426,19 +13418,10 @@
   "2e63f2dd22": 1,
   "375b7dd3a0": 1,
   "62965dea54": 2,
-  "523aca88bc": 2,
-  "c61729f565": 1
+  "c61729f565": 2,
+  "c9b4103687": 1
  },
  "fail_log": [
-  "2026-11-26T21:49 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:49 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:49 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:53 Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin  -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:53 Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin  -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:53 Hacıosmanoğlu sessizliğini bozdu! 'Bebek katili bir ülkenin  -> ValueError: cümle yarım kalmış: 'lu, Hapoel Beer Sheva'nın Türkiye'ye gel'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-26T21:53 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:53 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
-  "2026-11-26T21:53 T.C. SAFRANBOLU SULH HUKUK MAHKEMESİ SATIŞ MEMURLUĞU -> ValueError: yanıt okunamadı",
   "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
   "2026-11-26T21:53 T.C. ANKARA BATI 1. ASLİYE TİCARET MAHKEMESİ HAKİMLİĞİ -> ValueError: yanıt okunamadı",
@@ -13469,7 +13452,16 @@
   "2026-11-27T02:36 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
   "2026-11-27T02:36 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı",
   "2026-11-27T02:36 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı",
-  "2026-11-27T02:36 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı"
+  "2026-11-27T02:36 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Tekdüzeliğe karşı çok sesli direniş: Türkülerin kardeşliği -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Görüşme var, somut adım yok: Top çevirmeye devam ediyorlar -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Kamusal sağlık tasfiye edildi: Yurttaşa kuyruk, sermayeye mi -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Kamusal sağlık tasfiye edildi: Yurttaşa kuyruk, sermayeye mi -> ValueError: yanıt okunamadı",
+  "2026-11-27T02:48 Kamusal sağlık tasfiye edildi: Yurttaşa kuyruk, sermayeye mi -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
