@@ -10622,6 +10622,58 @@
     "şartl"
    ],
    "at": "2026-11-27T04:34:58.718622+00:00"
+  },
+  {
+   "fp": [
+    "aile",
+    "almak",
+    "birin",
+    "ciddi",
+    "dayan",
+    "diye",
+    "dökül",
+    "efrad",
+    "karin",
+    "masum",
+    "mesel",
+    "murat",
+    "mümkü",
+    "ortay",
+    "surur",
+    "özbül"
+   ],
+   "tok": [
+    "aile",
+    "almak",
+    "bekle",
+    "birin",
+    "ciddi",
+    "dayan",
+    "diken",
+    "diye",
+    "dökül",
+    "efrad",
+    "göste",
+    "hakkı",
+    "hüküm",
+    "karin",
+    "kurul",
+    "lekel",
+    "masum",
+    "mesel",
+    "murat",
+    "mümkü",
+    "nın",
+    "ortay",
+    "peşin",
+    "post",
+    "saygı",
+    "surur",
+    "the",
+    "yazıc",
+    "özbül"
+   ],
+   "at": "2026-11-27T04:58:21.678658+00:00"
   }
  ],
  "posted": [
@@ -13461,21 +13513,12 @@
   "5e6feb851f": 1,
   "42993c969b": 1,
   "577b14a673": 1,
-  "aacca2018b": 2,
   "494ea77267": 2,
   "c50722e659": 1,
-  "79f36b10b2": 1
+  "79f36b10b2": 2,
+  "fcf658f061": 1
  },
  "fail_log": [
-  "2026-11-27T04:06 Torba işkolunda sendikal haklar çıkmazda: Barajlara karşı or -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:06 Sabah korkunun örgütlendiği sokaklarda akşam cesareti örgütl -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:06 Sabah korkunun örgütlendiği sokaklarda akşam cesareti örgütl -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:06 Sabah korkunun örgütlendiği sokaklarda akşam cesareti örgütl -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:18 Türkiye’nin en büyük su basar ormanı: 226 bitki türüyle Acar -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:18 Türkiye’nin en büyük su basar ormanı: 226 bitki türüyle Acar -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:18 Türkiye’nin en büyük su basar ormanı: 226 bitki türüyle Acar -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:18 İzmir’in geleceği için çağrı: Plansız büyüme kentin geleceği -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:18 İzmir’in geleceği için çağrı: Plansız büyüme kentin geleceği -> ValueError: yanıt okunamadı",
   "2026-11-27T04:18 İzmir’in geleceği için çağrı: Plansız büyüme kentin geleceği -> ValueError: yanıt okunamadı",
   "2026-11-27T04:18 Sabah korkunun örgütlendiği sokaklarda akşam cesareti örgütl -> ValueError: yanıt okunamadı",
   "2026-11-27T04:18 Sabah korkunun örgütlendiği sokaklarda akşam cesareti örgütl -> ValueError: yanıt okunamadı",
@@ -13506,7 +13549,16 @@
   "2026-11-27T04:54 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
   "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
   "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
-  "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı"
+  "2026-11-27T04:54 Barış Pehlivan: Devran her döndüğünde lafını yutanların elin -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Murat Muratoğlu: Emeklinin maaşı artıyor ama hayatı küçülüyo -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Ahmet Hakan: Tüm Türkiye Gülüm'ü konuşur oldu -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı",
+  "2026-11-27T04:58 Murat Sururi Özbülbül: Mesele aile efradına dayanınca 'masum -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
