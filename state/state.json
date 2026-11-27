@@ -2,93 +2,6 @@
  "seen": [
   {
    "fp": [
-    "aym",
-    "başvu",
-    "den",
-    "ekrem",
-    "ihlal",
-    "imamo",
-    "karar",
-    "nun",
-    "ret"
-   ],
-   "tok": [
-    "alınm",
-    "anaya",
-    "ancak",
-    "avuka",
-    "aym",
-    "ayrın",
-    "aştığ",
-    "başvu",
-    "bekle",
-    "beled",
-    "belir",
-    "birey",
-    "buldu",
-    "bulun",
-    "büyük",
-    "cezae",
-    "danış",
-    "deki",
-    "den",
-    "dendi",
-    "diplo",
-    "edile",
-    "edilm",
-    "ekrem",
-    "esas",
-    "gerek",
-    "gündü",
-    "günlü",
-    "günü",
-    "hak",
-    "hakla",
-    "hükme",
-    "hükmü",
-    "ihlal",
-    "ilgil",
-    "ilişk",
-    "imamo",
-    "imza",
-    "iptal",
-    "itira",
-    "kabul",
-    "kalkı",
-    "kanun",
-    "kapal",
-    "kapsa",
-    "karşı",
-    "kriti",
-    "makul",
-    "marma",
-    "mart",
-    "maç",
-    "nde",
-    "nun",
-    "olmad",
-    "oyla",
-    "ret",
-    "siliv",
-    "sürey",
-    "sürüy",
-    "taraf",
-    "taşıy",
-    "tribü",
-    "uzun",
-    "verdi",
-    "yargı",
-    "yasağ",
-    "yok",
-    "yönel",
-    "yönün",
-    "zorun",
-    "şikay"
-   ],
-   "at": "2026-11-26T11:26:16.461480+00:00"
-  },
-  {
-   "fp": [
     "6",
     "adım",
     "avrup",
@@ -10698,23 +10611,84 @@
     "çelen"
    ],
    "at": "2026-11-27T23:22:55.416594+00:00"
+  },
+  {
+   "fp": [
+    "20",
+    "alışv",
+    "dünya",
+    "iyi",
+    "out",
+    "sıral",
+    "time",
+    "şehri"
+   ],
+   "tok": [
+    "alışv",
+    "anket",
+    "appea",
+    "belir",
+    "brita",
+    "dergi",
+    "diken",
+    "dünya",
+    "first",
+    "iyi",
+    "linka",
+    "liste",
+    "out",
+    "post",
+    "site",
+    "sıral",
+    "the",
+    "time",
+    "şehri"
+   ],
+   "at": "2026-11-27T23:28:21.591180+00:00"
+  },
+  {
+   "fp": [
+    "batı",
+    "ege",
+    "fırtı",
+    "karad",
+    "kuzey",
+    "marma",
+    "uyarı"
+   ],
+   "tok": [
+    "akşam",
+    "batı",
+    "başla",
+    "bekle",
+    "doğu",
+    "ege",
+    "esece",
+    "etkis",
+    "fırtı",
+    "genel",
+    "günü",
+    "itiba",
+    "karad",
+    "kuvve",
+    "kuzey",
+    "marma",
+    "meteo",
+    "müdür",
+    "olaca",
+    "pazar",
+    "rüzga",
+    "saatl",
+    "salı",
+    "tam",
+    "uyarı",
+    "yarın",
+    "yer"
+   ],
+   "at": "2026-11-27T23:28:35.306960+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "26a5f8f481",
-   "post_id": "529346797199852_1480353477537693",
-   "title": "Oto servisinde dolandırıcılık iddiası: 3 şüpheli yakalandı",
-   "at": "2026-11-25T19:08:05.979353+00:00",
-   "yazim": "claude",
-   "metin": "Şişli'de bir oto serviste yapılmayan işlemler için sürücüden 12 bin TL alındığı iddiasıyla iş yeri sorumlusu ve 2 çalışan yakalandı.\n\nOlay 9 Kasım'da yaşandı. Lastik hasarı nedeniyle servise giden 26 yaşındaki sürücüden, lastik değişimi ve rot balans gerekçesiyle 12 bin TL ücret alındı.\n\n— Sürücü, aracındaki sesli kayıt özellikli kameranın görüntülerini sonradan izledi. Servis çalışanlarının bu işlemleri yapmadığını ve aracı arızalı gibi göstermeye yönelik konuştuklarını gördü.\n\n— Sürücü emniyete giderek şikayetçi oldu. Şişli İlçe Emniyet Müdürlüğü ekipleri şikayet üzerine çalışma başlattı.\n\n— 24 Kasım'daki operasyonda 34 yaşındaki iş yeri sorumlusu ile 37 ve 20 yaşındaki iki çalışan yakalandı.\n\n— Emniyetteki işlemleri tamamlanan 3 şüpheli adli makamlara sevk edildi.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/gundem/sislide-oto-servisinde-musteriyi-dolandirdiklari-one-surulen-3-supheli-adliyede-7707984",
-    "CNN Türk: https://www.cnnturk.com/turkiye/sislide-oto-servisinde-musteriyi-dolandirdiklari-one-surulen-3-supheli-adliyede-3498217",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/oto-servisinde-dolandiricilik-iddiasi-3-supheli-yakalandi-2559420",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/sislide-oto-servisinde-musteriyi-dolandirdiklari-one-surulen-3-supheli-adliyede-7707984"
-   ]
-  },
   {
    "id": "a7e7408931",
    "post_id": "529346797199852_1480370557535985",
@@ -13330,6 +13304,19 @@
    "sources": [
     "Euronews: https://tr.euronews.com/2026/11/27/uganda-afrikanin-ilk-mrna-ebola-asi-denemesi-basladi"
    ]
+  },
+  {
+   "id": "71e7a60add",
+   "post_id": "529346797199852_1482703740636000",
+   "title": "Marmara, Kuzey Ege ve Batı Karadeniz için fırtına uyarısı",
+   "at": "2026-11-27T23:28:35.306960+00:00",
+   "yazim": "claude",
+   "metin": "Meteoroloji Genel Müdürlüğü, Marmara, Kuzey Ege ve Batı Karadeniz için kuvvetli fırtına uyarısı yaptı.\n\n— Batı Karadeniz'de rüzgar yarın akşam saatlerinden itibaren doğu ve kuzeydoğudan kuvvetli fırtına olarak esecek.\n— Kuzey Ege'de rüzgar yarın akşam saatlerinden sonra kuzey ve kuzeydoğudan kuvvetli fırtına olacak. Açıklarda yer yer 10 kuvvetinde tam fırtına bekleniyor.\n— Marmara'da kuzey ve kuzeydoğudan kuvvetli fırtına pazar günü ilk saatlerden itibaren başlayacak.\n— Fırtınaların salı günü akşam saatlerinden sonra etkisini kaybetmesi bekleniyor.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/marmara-kuzey-ege-ve-bati-karadeniz-icin-firtina-uyarisi/4140991",
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/marmara-kuzey-ege-ve-bati-karadeniz-icin-firtina-uyarisi-964702.html",
+    "Evrensel: https://www.evrensel.net/haber/6011535/marmara-kuzey-ege-ve-bati-karadeniz-icin-firtina-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13602,16 +13589,9 @@
   "7e0345bb61": 1,
   "1ea7f54c47": 1,
   "76ffb41cf3": 1,
-  "66af6668ec": 2,
-  "9b42a46fdc": 1
+  "9b42a46fdc": 2
  },
  "fail_log": [
-  "2026-11-27T19:06 Erenköy’de İtalyan esintisi: Olio Brasserie’de lezzet, sanat -> ValueError: yanıt okunamadı",
-  "2026-11-27T19:06 Erenköy’de İtalyan esintisi: Olio Brasserie’de lezzet, sanat -> ValueError: yanıt okunamadı",
-  "2026-11-27T19:06 Erenköy’de İtalyan esintisi: Olio Brasserie’de lezzet, sanat -> ValueError: yanıt okunamadı",
-  "2026-11-27T20:39 \"Süleymancılar\"a yönelik operasyonda 18 kişi tutuklandı -> ValueError: cümle yarım kalmış: 'KATEGORİ: TÜRKİYE'. Her madde tam cümle olmalı ve noktayla bitmeli; sığmıyorsa madde sayısını azalt",
-  "2026-11-27T21:17 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
-  "2026-11-27T21:17 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
   "2026-11-27T21:17 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
   "2026-11-27T21:32 Tahir Elçi cinayetinde 11 yıl: Kayıp 13 saniye, karartılan d -> ValueError: yanıt okunamadı",
   "2026-11-27T21:32 Tahir Elçi cinayetinde 11 yıl: Kayıp 13 saniye, karartılan d -> ValueError: yanıt okunamadı",
@@ -13645,7 +13625,13 @@
   "2026-11-27T23:23 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
   "2026-11-27T23:23 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
   "2026-11-27T23:23 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:23 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı"
+  "2026-11-27T23:23 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-27T23:28 Time Out sıraladı: Alışveriş için dünyanın en iyi 20 şehri -> ValueError: yanıt okunamadı",
+  "2026-11-27T23:28 Time Out sıraladı: Alışveriş için dünyanın en iyi 20 şehri -> ValueError: yanıt okunamadı",
+  "2026-11-27T23:28 Time Out sıraladı: Alışveriş için dünyanın en iyi 20 şehri -> ValueError: yanıt okunamadı",
+  "2026-11-27T23:28 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-27T23:28 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
+  "2026-11-27T23:28 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
