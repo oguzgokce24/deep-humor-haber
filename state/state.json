@@ -10603,21 +10603,71 @@
     "ünifo"
    ],
    "at": "2026-11-27T14:26:23.666315+00:00"
+  },
+  {
+   "fp": [
+    "ankar",
+    "bakan",
+    "büyük",
+    "dışiş",
+    "gürci",
+    "çağrı"
+   ],
+   "tok": [
+    "alınd",
+    "avrup",
+    "batum",
+    "bazı",
+    "beer",
+    "beşik",
+    "biber",
+    "büyük",
+    "bırak",
+    "cop",
+    "deste",
+    "dışiş",
+    "edilm",
+    "etmiş",
+    "filis",
+    "gazıy",
+    "gerek",
+    "gürci",
+    "güç",
+    "hapoe",
+    "hasta",
+    "hukuk",
+    "işlem",
+    "kaldı",
+    "kayna",
+    "kulla",
+    "ligi",
+    "maçın",
+    "müdah",
+    "neden",
+    "olayl",
+    "orant",
+    "oynad",
+    "oynan",
+    "serbe",
+    "sheva",
+    "sorum",
+    "talep",
+    "taraf",
+    "uefa",
+    "vahim",
+    "vatan",
+    "veren",
+    "yapıl",
+    "yaşan",
+    "yönel",
+    "yönle",
+    "çağrı",
+    "çağır"
+   ],
+   "at": "2026-11-27T14:39:05.084260+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "de8367d018",
-   "post_id": "529346797199852_1479856107587430",
-   "title": "Ankara Sebze ve Meyve Hali’nde nitelikli yağma operasyonu: 26 gözaltı",
-   "at": "2026-11-25T09:25:29.898253+00:00",
-   "yazim": "claude",
-   "metin": "Ankara'nın Yenimahalle ilçesindeki Sebze ve Meyve Hali'nde, iş yeri sahiplerine baskı ve tehdit uyguladığı belirlenen 26 şüpheli gözaltına alındı.\n\nPolis, sabah saatlerinde halden çıkan araçlardan korsan otoparkçılık yoluyla kanunsuz ücret talep eden bir grubu operasyonla yakaladı. Şüpheliler, baskı ve tehditle haksız kazanç elde etmeye çalışmakla suçlanıyor.\n\n— Bazı iş yerlerinde yapılan aramalarda 7 tüfek, 2 ruhsatsız tabanca, 2 kesici alet ve 170 mermi ele geçirildi.\n— Operasyonda yaklaşık 300 kişinin sorgusu yapıldı, arandığı belirlenen 1 kişi de gözaltına alındı.\n— Hacizli olduğu tespit edilen 1 araca el konuldu.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/gundem/ankara-halinde-esnafi-tehdit-eden-gruba-operasyon-27-gozalti-964426.html",
-    "Karar: https://www.karar.com/guncel-haberler/ankara-sebze-ve-meyve-halinde-nitelikli-yagma-operasyonu-26-gozalti-2086147"
-   ]
-  },
   {
    "id": "aa24bb981d",
    "post_id": "529346797199852_1479865814253126",
@@ -13254,6 +13304,22 @@
     "BirGün: https://www.birgun.net/haber/ozgur-ozel-yeni-akite-500-bin-tl-lik-tazminat-davasi-acti-748835",
     "Karar: https://www.karar.com/guncel-haberler/ozgur-ozelden-yeni-akite-500-bin-liralik-tazminat-davasi-2086663"
    ]
+  },
+  {
+   "id": "2aa48ef2f5",
+   "post_id": "529346797199852_1482295467343494",
+   "title": "Gürcistan’ın Ankara Büyükelçisi, Dışişleri Bakanlığı’na çağrıldı",
+   "at": "2026-11-27T14:39:05.084260+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye, Gürcistan'ın Ankara Büyükelçisi'ni Dışişleri Bakanlığı'na çağırdı. Gerekçe, Beşiktaş taraftarlarına yapılan müdahale.\n\n— Gürcistan polisi, Batum'da oynanan Beşiktaş-Hapoel Beer-Sheva maçında Filistin'e destek veren taraftarlara cop ve biber gazıyla müdahale etmişti.\n— Bazı taraftarlar hastaneye kaldırıldı, 16 taraftar gözaltına alındı ve daha sonra serbest bırakıldı.\n\nDışişleri Bakanlığı kaynakları:\n\"Olayların tüm yönleriyle soruşturulması ve vatandaşlarımıza yönelik orantısız güç kullanımı ve müdahalenin sorumluları hakkında gereken hukuki işlemlerin yapılması talep edilmiştir.\"",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-gurcistanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-7709417",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/27/gurcistan-elcisi-disislerine-cagrildi",
+    "Sözcü: https://www.sozcu.com.tr/gurcistan-buyukelcisi-disisleri-ne-cagrildi-p384960",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/gurcistan-buyukelcisi-disislerine-cagrildi-4877215",
+    "Karar: https://www.karar.com/guncel-haberler/son-dakika-gurcistanin-ankara-buyukelcisi-disisleri-bakanligina-cagrildi-2086672",
+    "Sözcü Son Dakika: https://www.sozcu.com.tr/gurcistan-buyukelcisi-disisleri-ne-cagrildi-p384960"
+   ]
   }
  ],
  "fails": {
@@ -13562,7 +13628,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126319381810389237",
+   "since_id": "2126323910719287466",
    "started": true
   },
   "ajansmuhbir1923": {
