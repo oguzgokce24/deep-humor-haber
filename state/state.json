@@ -10515,22 +10515,76 @@
     "şeye"
    ],
    "at": "2026-11-27T20:51:53.277383+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "abluk",
+    "bekle",
+    "dan",
+    "deniz",
+    "düşma",
+    "eylem",
+    "havad",
+    "iran",
+    "nin",
+    "tepki"
+   ],
+   "tok": [
+    "abd",
+    "abluk",
+    "açık",
+    "bekle",
+    "belir",
+    "bulun",
+    "dan",
+    "deniz",
+    "devri",
+    "diren",
+    "düşma",
+    "eylem",
+    "gördü",
+    "görev",
+    "halkı",
+    "hava",
+    "havad",
+    "hesab",
+    "hiçbi",
+    "iran",
+    "kalıc",
+    "karşı",
+    "kesin",
+    "komut",
+    "korud",
+    "kuvve",
+    "kıram",
+    "kırma",
+    "mecid",
+    "medya",
+    "muhaf",
+    "musev",
+    "nin",
+    "olama",
+    "olduk",
+    "payla",
+    "rest",
+    "savun",
+    "sosya",
+    "tehdi",
+    "tepki",
+    "uyard",
+    "uyarı",
+    "uygul",
+    "uzay",
+    "vurgu",
+    "washi",
+    "yaptı",
+    "yönet"
+   ],
+   "at": "2026-11-27T21:04:36.079179+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "16eccc9c4a",
-   "post_id": "529346797199852_1480240100882364",
-   "title": "Hapoel Beer Sheva Teknik Direktörü Ran Kozuch: Beşiktaş çok kaliteli bir takım",
-   "at": "2026-11-25T16:49:19.446777+00:00",
-   "yazim": "claude",
-   "metin": "Hapoel Beer-Sheva Teknik Direktörü Ran Kozuch, Avrupa Ligi'nde Beşiktaş maçı öncesi:\n\n“Beşiktaş çok kaliteli bir takım. Tüm hazırlıklarımız oyun felsefemizi yansıtacak.”\n\n— Maç perşembe günü Gürcistan'ın Batum kentinde oynanacak.\n— Kozuch, “Çok iyi bir takımla karşılaşacağız. Agresif bir oyun sergileyeceğiz.” dedi.\n— Savunma oyuncusu Miguel Vitor, önceki maçlarda savunmada hata yaptıklarını ve bunun üzerine çalıştıklarını söyledi.",
-   "sources": [
-    "CNN Türk: https://www.cnnturk.com/spor/futbol/ran-kozuch-besiktas-cok-kaliteli-bir-takim-3498196",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/hapoel-beer-sheva-teknik-direktoru-ran-kozuch-besiktas-cok-kaliteli-bir-takim-2559413",
-    "Sözcü Spor: https://www.sozcu.com.tr/hapoel-beer-sheva-teknik-direktoru-ran-kozuch-besiktas-cok-kaliteli-bir-takim-p384384"
-   ]
-  },
   {
    "id": "61e165b59c",
    "post_id": "529346797199852_1480250464214661",
@@ -13150,6 +13204,20 @@
     "Evrensel: https://www.evrensel.net/haber/6011531/cevdet-yilmaz-dan-hgs-kaynakli-icra-takipleriyle-gundeme-gelen-yegenine-iliskin-aciklama-bilgim-yok-kendisine-soracagim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/cevdet-yilmaz-dan-hgs-aciklamasi-yegenimle-ilgili-iddiayi-kendisine-soracagim-benim-boyle-bir-seye-aracilik-yapmami-istemedi-748867"
    ]
+  },
+  {
+   "id": "8ae445f1db",
+   "post_id": "529346797199852_1482615657311475",
+   "title": "İran'dan ABD'ye rest: Havada ve denizde eylemimizi beklesinler",
+   "at": "2026-11-27T21:04:36.079179+00:00",
+   "yazim": "claude",
+   "metin": "İran Devrim Muhafızları Hava ve Uzay Kuvvetleri Komutanı Mecid Musevi, ABD'nin deniz ablukasına karşı:\n\n“Düşman, havada ve denizde eylemimizi beklesin.”\n\n— Musevi, sosyal medya hesabından yaptığı paylaşımda Washington yönetimini uyardı.\n— Hiçbir ablukanın halkın savunma direncini kıramayacağını savunan Musevi, bu uygulamaların kalıcı olamayacağını belirtti.\n— Ablukayı kırmayı kesin bir görev olarak gördüklerini ve kararlılıklarını koruduklarını vurguladı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/dunya/irandan-abdnin-ablukasina-tepki-dusman-havada-ve-denizde-eylemimizi-beklesin-7709432",
+    "CNN Türk: https://www.cnnturk.com/dunya/irandan-abdye-acik-tehdit-dusman-havada-ve-denizde-eylemimizi-beklesin-3498955",
+    "Karar: https://www.karar.com/dunya-haberleri/irandan-abdye-rest-havada-ve-denizde-eylemimizi-beklesinler-2086709",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/irandan-abdnin-ablukasina-tepki-dusman-havada-ve-denizde-eylemimizi-beklesin-7709432"
+   ]
   }
  ],
  "fails": {
@@ -13417,7 +13485,8 @@
   "10c6f8b4a0": 1,
   "786838d9d7": 1,
   "86db156766": 2,
-  "b21b853a89": 1
+  "b21b853a89": 1,
+  "5b9e11872f": 1
  },
  "fail_log": [
   "2026-11-27T14:09 İngiltere ve Galler'de yargıya yapay zeka uyarısı: En az 25  -> ATLANDI: model metin yazmayı reddetti / kaynak yetersiz",
@@ -13464,7 +13533,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126417563471028652",
+   "since_id": "2126420925394653644",
    "started": true
   },
   "ajansmuhbir1923": {
