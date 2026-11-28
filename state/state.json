@@ -2,90 +2,6 @@
  "seen": [
   {
    "fp": [
-    "cezas",
-    "hadi",
-    "hapis",
-    "karar",
-    "mahke",
-    "özışı"
-   ],
-   "tok": [
-    "ahmet",
-    "akif",
-    "alene",
-    "alınd",
-    "anaya",
-    "açıla",
-    "beled",
-    "belir",
-    "bilgi",
-    "bilin",
-    "ceza",
-    "cezan",
-    "cezas",
-    "davad",
-    "duyur",
-    "düşma",
-    "ertel",
-    "eseny",
-    "eylem",
-    "gazet",
-    "getir",
-    "görev",
-    "görül",
-    "gün",
-    "hadi",
-    "halkı",
-    "hapis",
-    "hükme",
-    "iddia",
-    "iftir",
-    "iktid",
-    "ileri",
-    "ilişk",
-    "iptal",
-    "işlem",
-    "kanaa",
-    "kapsa",
-    "karde",
-    "kent",
-    "kin",
-    "kuruc",
-    "kılıç",
-    "neden",
-    "oktay",
-    "olduğ",
-    "oluşm",
-    "pkk",
-    "suç",
-    "suçla",
-    "suçu",
-    "suçun",
-    "sürmü",
-    "tahri",
-    "tribü",
-    "uzlaş",
-    "veril",
-    "verme",
-    "yakın",
-    "yanda",
-    "yanıl",
-    "yardı",
-    "yayma",
-    "yenid",
-    "yer",
-    "yönel",
-    "yıl",
-    "çarpt",
-    "çünkü",
-    "çıktı",
-    "özer",
-    "özışı"
-   ],
-   "at": "2026-11-26T14:50:09.823319+00:00"
-  },
-  {
-   "fp": [
     "15",
     "davad",
     "elif",
@@ -10892,21 +10808,53 @@
     "çerçe"
    ],
    "at": "2026-11-28T02:46:53.486242+00:00"
+  },
+  {
+   "fp": [
+    "21",
+    "7",
+    "akaca",
+    "baraj",
+    "kasas",
+    "milya",
+    "özalt"
+   ],
+   "tok": [
+    "adres",
+    "adımı",
+    "akaca",
+    "aktar",
+    "aldı",
+    "almış",
+    "andır",
+    "baraj",
+    "daki",
+    "demir",
+    "değiş",
+    "dsi",
+    "girec",
+    "ihale",
+    "imzal",
+    "inşaa",
+    "kamu",
+    "kasas",
+    "kasta",
+    "kayna",
+    "liral",
+    "milya",
+    "otoyo",
+    "pazar",
+    "proje",
+    "sözle",
+    "usulü",
+    "yapım",
+    "özalt",
+    "şirke"
+   ],
+   "at": "2026-11-28T02:59:27.644897+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ad5258e06a",
-   "post_id": "529346797199852_1480474357525605",
-   "title": "Avrasya Tüneli’nde geçiş garantisi tuttu, Hazine yine de ödeme yaptı: \"775 milyon liralık kıyak\" iddiası",
-   "at": "2026-11-25T22:13:38.951762+00:00",
-   "yazim": "claude",
-   "metin": "Deniz Yavuzyılmaz, İstanbul'daki Avrasya Tüneli için:\n\n“Bunun adı garantili soygundur.”\n\n— Geçiş garantisi tutmasına rağmen Hazine, tünel şirketine 2026'nın ilk 10 ayında 775 milyon lira \"fiyat farkı\" ödemiş.\n— Sözleşmeye göre araç başına geçiş ücreti 4 dolar+KDV ve ABD Tüketici Fiyat Endeksi'ndeki artışla yıllık olarak artıyor. Bu yüzden 2026'da ücret araç başına yaklaşık iki katına çıkmış.\n— Yavuzyılmaz, sürücülerin ödediği ücretle şirkete garanti edilen ücret arasındaki farkın Hazine tarafından şirkete ödendiğini ve bunun nedeninin \"berbat\" sözleşme olduğunu söylüyor.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/yeni-partili-yavuzyilmaz-bunun-adi-garantili-soygundur-diyerek-acikladi-avrasya-tuneli-icin-hazine-den-775-milyon-lira-odendi-2559500",
-    "Karar: https://www.karar.com/ekonomi-haberleri/avrasya-tunelinde-gecis-garantisi-tuttu-hazine-yine-de-odeme-yapti-2086286"
-   ]
-  },
   {
    "id": "0c298712e3",
    "post_id": "529346797199852_1480481877524853",
@@ -13503,6 +13451,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/mgk-bildirisi-iktidarin-zamana-yayma-stratejisini-belgeledi-748878"
    ]
+  },
+  {
+   "id": "65dffd7cb0",
+   "post_id": "529346797199852_1482839427289098",
+   "title": "Özaltın'ın kasasına barajdan 21,7 milyar TL akacak",
+   "at": "2026-11-28T02:59:27.644897+00:00",
+   "yazim": "claude",
+   "metin": "Özaltın İnşaat, Kastamonu'daki Andıraz Barajı ihalesini pazarlık usulüyle aldı. DSİ ile imzalanan sözleşmeyle şirkete 21 milyar 768 milyon TL aktarılacak.\n\n— Şirket daha önce otoyol ve demiryolu projeleriyle de milyarlarca liralık kamu kaynağı almıştı.\n\n— Barajın yapımı için DSİ ile yapılan sözleşme, bu ihalenin en son adımı.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/ozaltin-in-kasasina-barajdan-21-7-milyar-tl-akacak-748866"
+   ]
   }
  ],
  "fails": {
@@ -13779,15 +13738,10 @@
   "c40a02b699": 2,
   "1cf8b52ca6": 1,
   "b37110c767": 1,
-  "cdf1299e58": 1
+  "cdf1299e58": 2,
+  "a37ff90e7e": 1
  },
  "fail_log": [
-  "2026-11-28T00:14 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:14 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:14 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:14 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:14 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:18 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
   "2026-11-28T00:18 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
   "2026-11-28T00:18 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
   "2026-11-28T00:18 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
@@ -13821,7 +13775,13 @@
   "2026-11-28T02:47 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
   "2026-11-28T02:47 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
   "2026-11-28T02:47 MGK bildirisi iktidarın 'zamana yayma' stratejisini belgeled -> ValueError: yanıt okunamadı",
-  "2026-11-28T02:47 MGK bildirisi iktidarın 'zamana yayma' stratejisini belgeled -> ValueError: yanıt okunamadı"
+  "2026-11-28T02:47 MGK bildirisi iktidarın 'zamana yayma' stratejisini belgeled -> ValueError: yanıt okunamadı",
+  "2026-11-28T02:59 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
+  "2026-11-28T02:59 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
+  "2026-11-28T02:59 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
+  "2026-11-28T02:59 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-28T02:59 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-28T02:59 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
  ],
  "x": {
   "bpthaber": {
