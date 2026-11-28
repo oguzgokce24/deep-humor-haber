@@ -10780,21 +10780,71 @@
     "şehit"
    ],
    "at": "2026-11-28T05:41:10.680456+00:00"
+  },
+  {
+   "fp": [
+    "abd",
+    "hedef",
+    "hesap",
+    "saldı",
+    "siber",
+    "siyas",
+    "soruş",
+    "türk",
+    "vekil",
+    "şirke"
+   ],
+   "tok": [
+    "abd",
+    "adres",
+    "altya",
+    "arama",
+    "arası",
+    "başla",
+    "başsa",
+    "belir",
+    "biliş",
+    "bulun",
+    "corp",
+    "dijit",
+    "donal",
+    "görev",
+    "hedef",
+    "hesab",
+    "hesap",
+    "iddia",
+    "ilgil",
+    "kabin",
+    "kapsa",
+    "kongr",
+    "konul",
+    "kurdu",
+    "mater",
+    "mille",
+    "otomo",
+    "platf",
+    "sayıd",
+    "siber",
+    "siste",
+    "siyas",
+    "sunuc",
+    "sürül",
+    "tbmm",
+    "trump",
+    "vekil",
+    "veril",
+    "yapıl",
+    "yönel",
+    "öne",
+    "üyele",
+    "üzeri",
+    "şikây",
+    "şirke"
+   ],
+   "at": "2026-11-28T05:53:40.088771+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "a1a09933fe",
-   "post_id": "529346797199852_1480580414181666",
-   "title": "YENİ Parti lideri Özel, yeni yönetim kadrosunu açıkladı: Farklı tabanlara ulaşacak bir kadro",
-   "at": "2026-11-26T01:06:18.367837+00:00",
-   "yazim": "claude",
-   "metin": "YENİ Parti Genel Başkanı Özgür Özel, kuruluş kurultayının ardından yeni Merkez Yönetim Kurulu'nu açıkladı.\n\nParti kurmayları, yeni kadro için:\n\n“Farklı tabanlara ulaşma isteğimizi gösteren, partinin yeni politikalarını ortaya koyan, ‘İktidara talibiz’ diyen bir ekip ortaya konmuş oldu.”\n\n— Yeni sözcü, Demokrat Parti'den gelen Salih Uzun oldu.\n— MYK'ye partiye yeni katılan 6 isim eklendi.\n— Özel'in CHP döneminden 13 isim yeniden görev aldı.\n— Eski sözcü Zeynel Emre, Adalet Politikalarından Sorumlu Genel Başkan Yardımcısı oldu.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/yeni-parti-lideri-ozel-yeni-yonetim-kadrosunu-acikladi-farkli-tabanlara-ulasacak-bir-kadro-2559429",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/yeni-parti-eski-kadro-4876624"
-   ]
-  },
   {
    "id": "dbde9efde0",
    "post_id": "529346797199852_1480588740847500",
@@ -13386,6 +13436,17 @@
     "Habertürk: https://www.haberturk.com/gundem/son-dakika-haber-safakta-kapisi-calindi-ters-kelepceyle-alindi-sehide-hakaret-etti-tutuklandi-3930752",
     "Sözcü: https://www.sozcu.com.tr/safakta-boyle-gozaltina-alindi-tutuklandi-p385019"
    ]
+  },
+  {
+   "id": "56a222d7a8",
+   "post_id": "529346797199852_1482960347277006",
+   "title": "ABD’li siyasetçiler, şirketler ve Türk vekil hedefte: X hesaplarına siber saldırı soruşturması",
+   "at": "2026-11-28T05:53:40.088771+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da X platformuna yönelik siber saldırı soruşturmasında 4 şüpheli hakkında gözaltı kararı verildi.\n\n— Şüphelilerin, Türkiye üzerinden kurdukları bilişim sistemleriyle X'in altyapısına saldırarak çok sayıda hesabı ele geçirdiği öne sürülüyor.\n— Ele geçirildiği belirtilen hesaplar arasında ABD Başkanı Donald Trump'ın kabine üyelerinin, ABD Kongre üyelerinin ve TBMM'de görevli bir milletvekilinin hesapları bulunuyor.\n— Şüphelilerin adreslerinde arama yapılarak dijital materyallere el konuldu.\n— Soruşturmayı İstanbul Cumhuriyet Başsavcılığı, X Corp.'un şikâyeti üzerine başlattı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/abd-li-siyasetciler-sirketler-ve-turk-vekil-hedefte-x-hesaplarina-siber-saldiri-sorusturmasi-2560091"
+   ]
   }
  ],
  "fails": {
@@ -13713,7 +13774,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126547633321779410",
+   "since_id": "2126554560747471309",
    "started": true
   },
   "ajansmuhbir1923": {
