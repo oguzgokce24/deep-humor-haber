@@ -2,67 +2,6 @@
  "seen": [
   {
    "fp": [
-    "değil",
-    "edile",
-    "kabul",
-    "muame",
-    "yaşad"
-   ],
-   "tok": [
-    "aktar",
-    "alemd",
-    "ardın",
-    "avrup",
-    "beer",
-    "belir",
-    "beşik",
-    "buldu",
-    "bunu",
-    "dan",
-    "den",
-    "deste",
-    "değil",
-    "dilek",
-    "dinle",
-    "doğan",
-    "edile",
-    "ekibi",
-    "gelen",
-    "geçmi",
-    "görüş",
-    "gürci",
-    "hafta",
-    "hapoe",
-    "iletm",
-    "israi",
-    "istiy",
-    "kabul",
-    "kalec",
-    "kazan",
-    "kendi",
-    "konuş",
-    "kökçü",
-    "ligi",
-    "maçta",
-    "maçın",
-    "muame",
-    "müdah",
-    "nin",
-    "olsun",
-    "onlar",
-    "orkun",
-    "sheva",
-    "taraf",
-    "uefa",
-    "yaşad",
-    "yaşan",
-    "yendi",
-    "öneml"
-   ],
-   "at": "2026-11-26T22:44:46.523717+00:00"
-  },
-  {
-   "fp": [
     "atand",
     "bağır",
     "başka",
@@ -10992,22 +10931,54 @@
     "çevre"
    ],
    "at": "2026-11-28T10:41:23.565298+00:00"
+  },
+  {
+   "fp": [
+    "81",
+    "dolar",
+    "guant",
+    "harca",
+    "milyo",
+    "penta"
+   ],
+   "tok": [
+    "abd",
+    "asker",
+    "bildi",
+    "bilin",
+    "bugün",
+    "bulun",
+    "daki",
+    "dışı",
+    "eylül",
+    "gelmi",
+    "guant",
+    "göçme",
+    "günde",
+    "harca",
+    "iddia",
+    "itiba",
+    "işken",
+    "işlem",
+    "kapsa",
+    "körfe",
+    "ndeki",
+    "nin",
+    "ortay",
+    "penta",
+    "sınır",
+    "tesis",
+    "topla",
+    "tutul",
+    "yürüt",
+    "çıktı",
+    "üssün",
+    "üste"
+   ],
+   "at": "2026-11-28T10:54:00.610865+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "81a878c9fd",
-   "post_id": "529346797199852_1480831457489895",
-   "title": "Ünlülere yönelik uyuşturucu ve fuhuş soruşturmasında DJ Burak Yeter gözaltına alındı",
-   "at": "2026-11-26T07:08:41.977360+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da ünlülere yönelik uyuşturucu ve fuhuş soruşturması kapsamında DJ ve müzik yapımcısı Burak Yeter gözaltına alındı.\n\nSoruşturmayı İstanbul Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçlar Soruşturma Bürosu yürütüyor. Soruşturma fuhuş, uyuşturucu ticareti ve uyuşturucu kullanma suçlamalarını kapsıyor.\n\n— Yeter'in gözaltına alınmasıyla soruşturmada gözaltına alınan şüpheli sayısı 25'e çıktı.\n— Daha önce gözaltına alınanlardan şarkıcı Ceylan Kaya, aklama suçlamasıyla tutuklandı.\n— Operasyonun ilk aşamasında gözaltına alınan isimlerden 9 kişi yurt dışına çıkış yasağıyla serbest bırakıldı.",
-   "sources": [
-    "Sözcü: https://www.sozcu.com.tr/son-dakika-unlu-dj-burak-yeter-gozaltina-alindi-p384532",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasinda-dj-burak-yeter-gozaltina-alindi-2559544",
-    "Sözcü Son Dakika: https://www.sozcu.com.tr/son-dakika-unlu-dj-burak-yeter-gozaltina-alindi-p384532"
-   ]
-  },
   {
    "id": "13a68662db",
    "post_id": "529346797199852_1480839994155708",
@@ -13627,6 +13598,18 @@
    "sources": [
     "BPT (X): https://x.com/bpthaber/status/2126625131627765850"
    ]
+  },
+  {
+   "id": "3aa97f959f",
+   "post_id": "529346797199852_1483172587255782",
+   "title": "İşkence iddialarıyla biliniyor: Pentagon, Guantanamo için 81 milyon dolar harcadı",
+   "at": "2026-11-28T10:54:00.610865+00:00",
+   "yazim": "claude",
+   "metin": "Pentagon, ABD'nin Guantanamo Körfezi'ndeki askeri üssündeki göçmen operasyonuna bugüne kadar 81,5 milyon dolar harcadı.\n\n— Operasyon kapsamında bugüne kadar toplam 849 göçmen tutuldu.\n— 3 Eylül itibarıyla merkezde 8 kişi bulunuyor.\n— Tesis, daha önce işkence iddialarıyla da gündeme gelmişti.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/pentagon-849-kisinin-tutuldugu-guantanamodaki-gocmen-merkezi-icin-81-milyon-dolar-harcadi/4141291",
+    "BirGün: https://www.birgun.net/haber/iskence-iddialariyla-biliniyor-pentagon-guantanamo-icin-81-milyon-dolar-harcadi-748955"
+   ]
   }
  ],
  "fails": {
@@ -13912,12 +13895,9 @@
   "71c6cfee3e": 1,
   "910b10af21": 1,
   "edd844e667": 1,
-  "2b4daa492d": 1
+  "2b4daa492d": 2
  },
  "fail_log": [
-  "2026-11-28T06:27 Selin Nakıpoğlu: Bilimler Köyü tahliye tehdidiyle karşı karş -> ValueError: yanıt okunamadı",
-  "2026-11-28T06:27 Selin Nakıpoğlu: Bilimler Köyü tahliye tehdidiyle karşı karş -> ValueError: yanıt okunamadı",
-  "2026-11-28T06:27 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
   "2026-11-28T06:27 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
   "2026-11-28T06:27 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
   "2026-11-28T06:27 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
@@ -13954,12 +13934,15 @@
   "2026-11-28T09:33 Ay yüzeyinin 100 metre altında dört dev yeraltı tüneli adayı -> ValueError: yanıt okunamadı",
   "2026-11-28T10:28 Güney Kore'de siber saldırı: 13 bini aşkın kişinin bilgileri -> ValueError: yanıt okunamadı",
   "2026-11-28T10:28 Güney Kore'de siber saldırı: 13 bini aşkın kişinin bilgileri -> ValueError: yanıt okunamadı",
-  "2026-11-28T10:28 Güney Kore'de siber saldırı: 13 bini aşkın kişinin bilgileri -> ValueError: yanıt okunamadı"
+  "2026-11-28T10:28 Güney Kore'de siber saldırı: 13 bini aşkın kişinin bilgileri -> ValueError: yanıt okunamadı",
+  "2026-11-28T10:54 Güney Kore'de siber saldırı: 13 bini aşkın kişinin bilgileri -> ValueError: yanıt okunamadı",
+  "2026-11-28T10:54 Güney Kore'de siber saldırı: 13 bini aşkın kişinin bilgileri -> ValueError: yanıt okunamadı",
+  "2026-11-28T10:54 Güney Kore'de siber saldırı: 13 bini aşkın kişinin bilgileri -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126625131627765850",
+   "since_id": "2126628605270909377",
    "started": true
   },
   "ajansmuhbir1923": {
