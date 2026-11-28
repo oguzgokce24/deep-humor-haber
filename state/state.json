@@ -2,46 +2,6 @@
  "seen": [
   {
    "fp": [
-    "3",
-    "9",
-    "afad",
-    "antal",
-    "açıkl",
-    "büyük",
-    "depre",
-    "duyur",
-    "kaş"
-   ],
-   "tok": [
-    "afad",
-    "alıyo",
-    "antal",
-    "büyük",
-    "deniz",
-    "depre",
-    "derin",
-    "duyur",
-    "geldi",
-    "göre",
-    "ilçes",
-    "kayde",
-    "kaş",
-    "kilom",
-    "meyda",
-    "nın",
-    "saat",
-    "sarsı",
-    "uzakl",
-    "veril",
-    "yakla",
-    "yer",
-    "yerin",
-    "üssü"
-   ],
-   "at": "2026-11-27T00:57:30.414765+00:00"
-  },
-  {
-   "fp": [
     "2",
     "adalı",
     "serda",
@@ -10971,23 +10931,57 @@
     "şüp"
    ],
    "at": "2026-11-28T12:51:32.874215+00:00"
+  },
+  {
+   "fp": [
+    "bozca",
+    "engel",
+    "ferib",
+    "gökçe",
+    "hattı",
+    "hava",
+    "iptal",
+    "sefer",
+    "yapıl",
+    "yarın"
+   ],
+   "tok": [
+    "belir",
+    "bozca",
+    "boğaz",
+    "deniz",
+    "diğer",
+    "duyur",
+    "edild",
+    "engel",
+    "ferib",
+    "gesta",
+    "geyik",
+    "gökçe",
+    "güzer",
+    "hatla",
+    "hattı",
+    "hava",
+    "iptal",
+    "kabat",
+    "koşul",
+    "ndaki",
+    "neden",
+    "norma",
+    "olums",
+    "planl",
+    "sağla",
+    "sefer",
+    "seyre",
+    "ulaşı",
+    "yapıl",
+    "yarın",
+    "çanak"
+   ],
+   "at": "2026-11-28T13:04:04.227508+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e99820775b",
-   "post_id": "529346797199852_1480946040811770",
-   "title": "Mersin'de iki kadını öldüren failden pişkin savunma: Diyecek bir şeyim yok",
-   "at": "2026-11-26T09:46:39.484112+00:00",
-   "yazim": "claude",
-   "metin": "Mersin'de iki kadını öldürmekle yargılanan sanık, savunmasında:\n\n“Diyecek bir şeyim yok.”\n\n— Olay geçen yıl 26 Temmuz'da Akdeniz ilçesinde gece yarısından sonra yaşandı. Sanık, ağabeyinin eşi 25 yaşındaki kadın ve onun 53 yaşındaki annesini tabancayla vurdu. İkisi de hayatını kaybetti.\n\n— Sanık Ömer Can Çınar (23), kadına karşı tasarlayarak kasten öldürme ve ruhsatsız silah suçlarından 2 kez ağırlaştırılmış müebbet hapis istemiyle yargılanıyor.\n\n— Yurt dışına kaçmaya hazırlandığı belirlenen sanık, Mezitli'de bir evde saklanırken yakalandı. Ona yardım ettikleri öne sürülen üç kişiden biri tutuklandı.\n\n— Duruşmada yakınları, sanığın en ağır şekilde cezalandırılmasını istedi. Mahkeme, dosyadaki eksiklikleri gidermek için duruşmayı erteledi.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/yengesi-ve-onun-annesini-olduren-saniktan-durusmada-konustu-diyecek-bir-seyim-yok-43391793",
-    "CNN Türk: https://www.cnnturk.com/yerel-haberler/mersin/toroslar/yengesi-ve-onun-annesini-olduren-sanik-diyecek-bir-seyim-yok-3498493",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/mersindeki-cinayet-davasinda-sanigin-savunmasi-diyecek-bir-seyim-yok-mersin-haberleri-4876716",
-    "Evrensel: https://www.evrensel.net/haber/6011286/mersin-de-iki-kadini-olduren-failden-piskin-savunma-diyecek-bir-seyim-yok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "c71078d1c0",
    "post_id": "529346797199852_1480955274144180",
@@ -13588,6 +13582,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/ahbap-suphesi-istanbul-da-150-milyon-lira-degerinde-altin-dolu-canta-calindi-2560157",
     "Yeni Şafak: https://www.yenisafak.com/galeri/gundem/basaksehirde-150-milyon-liralik-altin-cantasi-calindi-4877396"
    ]
+  },
+  {
+   "id": "2413f5ac92",
+   "post_id": "529346797199852_1483285007244540",
+   "title": "Yarın Gökçeada ve Bozcaada hattında yapılacak seferler iptal edildi",
+   "at": "2026-11-28T13:04:04.227508+00:00",
+   "yazim": "claude",
+   "metin": "Çanakkale'de Gökçeada ve Bozcaada hattında yarın yapılacak tüm feribot seferleri iptal edildi.\n\n— Çanakkale Boğazı'ndaki ulaşımı sağlayan GESTAŞ Deniz Ulaşım, olumsuz hava koşulları nedeniyle Kabatepe-Gökçeada ve Geyikli-Bozcaada hatlarındaki planlı tüm seferlerin iptal edildiğini duyurdu.\n\n— Diğer güzergahlarda ulaşımın normal seyredeceği belirtildi.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/gokceada-ve-bozcaada-hattinda-feribotlara-hava-engeli-964748.html",
+    "CNN Türk: https://www.cnnturk.com/turkiye/gokceada-ve-bozcaada-hattinda-feribotlara-hava-engeli-3499140",
+    "Sözcü: https://www.sozcu.com.tr/gokceada-ve-bozcaada-hattinda-yarin-yapilacak-tum-feribot-seferleri-iptal-edildi-p385111",
+    "Evrensel: https://www.evrensel.net/haber/6011603/gokceada-ve-bozcaada-hattinda-yarin-yapilacak-feribot-seferleri-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/yarin-gokceada-ve-bozcaada-hattinda-yapilacak-seferler-iptal-edildi-748974"
+   ]
   }
  ],
  "fails": {
@@ -13920,7 +13929,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126659288064258195",
+   "since_id": "2126661844823867831",
    "started": true
   },
   "ajansmuhbir1923": {
