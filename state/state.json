@@ -10826,24 +10826,58 @@
     "özgür"
    ],
    "at": "2026-11-28T02:07:59.826553+00:00"
+  },
+  {
+   "fp": [
+    "617",
+    "8",
+    "9",
+    "artış",
+    "ayda",
+    "bin",
+    "istis",
+    "tutuk",
+    "tırma"
+   ],
+   "tok": [
+    "adale",
+    "akın",
+    "arttı",
+    "artış",
+    "ayda",
+    "ayı",
+    "aştı",
+    "baskı",
+    "bin",
+    "bini",
+    "ceza",
+    "fete",
+    "geldi",
+    "göre",
+    "gürle",
+    "hale",
+    "istis",
+    "itiba",
+    "kanun",
+    "kasım",
+    "kayna",
+    "medya",
+    "muhak",
+    "muhal",
+    "neden",
+    "nisan",
+    "nun",
+    "olağa",
+    "sayıs",
+    "tanım",
+    "tırma",
+    "yine",
+    "yönel"
+   ],
+   "at": "2026-11-28T02:20:57.493846+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b8283b7fe8",
-   "post_id": "529346797199852_1480450047528036",
-   "title": "İstanbul Valisi Gül'den sokakta kalan yurttaşlar için çağrı: '112'ye bildirin'",
-   "at": "2026-11-25T21:35:28.270810+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul Valisi Davut Gül, gece hava sıcaklığı 2 dereceye düşerken sokakta kalanlar için:\n\n“Sokakta kalan ve barınmaya ihtiyaç duyan vatandaşlarımızı gördüğünüzde 112 Acil Çağrı Merkezimize bildirmenizi rica ediyorum. Hiçbir vatandaşımızın soğukta kalmasına izin vermeyelim.”\n\n— Vali, bu gece İstanbul'da sıcaklığın 2 dereceye kadar düşeceğini bildirdi.\n— Yıl boyunca 39 ilçede sokakta kalan vatandaşlar, Sosyal Yardımlaşma ve Dayanışma Vakıflarının anlaşmalı otellerinde misafir ediliyor.\n— Bu kişilerin barınma, gıda, giyim ve sağlık ihtiyaçları da karşılanıyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/istanbul-valisi-gulden-sokakta-kalan-vatandaslarin-112ye-bildirilmesi-cagrisi/4138067",
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/istanbul-valisi-gulden-sokakta-kalanlar-icin-cagri-964482.html",
-    "Habertürk: https://www.haberturk.com/gundem/istanbul-valisi-gul-den-asiri-soguk-uyarisi-3930161",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/istanbul-valisi-gul-den-sokakta-kalan-yurttaslar-icin-cagri-112-ye-bildirin-2559499",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/vali-gulden-112-cagrisi-sokakta-kalanlar-bildirilsin-4876595"
-   ]
-  },
   {
    "id": "6aaef543a4",
    "post_id": "529346797199852_1480458270860547",
@@ -13441,6 +13475,18 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/basin-ozgurlugu-yargi-kiskacinda-gazeteciler-127-davada-sanik-748882"
    ]
+  },
+  {
+   "id": "c6306a389b",
+   "post_id": "529346797199852_1482811940625180",
+   "title": "Tutuklulukta 'istisnai' tırmanış: 8 ayda 9 bin 617 artış",
+   "at": "2026-11-28T02:20:57.493846+00:00",
+   "yazim": "claude",
+   "metin": "Türkiye'de tutuklu sayısı 8 ayda 9 bin 617 kişi arttı.\n\n— Nisan 2026'da 62 bin 514 olan tutuklu sayısı, Kasım ayı itibarıyla 72 bini aştı.\n\n— Ceza Muhakemeleri Kanunu ve Adalet Bakanı Akın Gürlek, tutuklamayı \"istisna\" olarak tanımlıyor.\n\n— Yine de kaynağa göre tutuklama, medya ve muhalefete yönelik baskılar nedeniyle olağan hale geldi.",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/tutuklulukta-istisnai-tirmanis-8-ayda-9-bin-617-artis-748885",
+    "BirGün: https://www.birgun.net/haber/tutuklulukta-istisnai-tirmanis-8-ayda-9-bin-617-artis-748884"
+   ]
   }
  ],
  "fails": {
@@ -13716,13 +13762,10 @@
   "b033e01222": 1,
   "c40a02b699": 2,
   "1cf8b52ca6": 1,
-  "b37110c767": 1
+  "b37110c767": 1,
+  "085e9d0334": 1
  },
  "fail_log": [
-  "2026-11-27T23:58 Kuyumculuk sektörüne ilgi artıyor: 2026’da kuyumcu sayısı %1 -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:58 Kuyumculuk sektörüne ilgi artıyor: 2026’da kuyumcu sayısı %1 -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:58 Kuyumculuk sektörüne ilgi artıyor: 2026’da kuyumcu sayısı %1 -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:11 MIKA 2027'de İstanbul'a geliyor -> ValueError: yanıt okunamadı",
   "2026-11-28T00:11 MIKA 2027'de İstanbul'a geliyor -> ValueError: yanıt okunamadı",
   "2026-11-28T00:11 MIKA 2027'de İstanbul'a geliyor -> ValueError: yanıt okunamadı",
   "2026-11-28T00:11 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
@@ -13758,7 +13801,11 @@
   "2026-11-28T00:52 İnşaat işçilerinden ödenmeyen maaşları için eylem -> ValueError: yanıt okunamadı",
   "2026-11-28T00:52 İnşaat işçilerinden ödenmeyen maaşları için eylem -> ValueError: yanıt okunamadı",
   "2026-11-28T00:52 İnşaat işçilerinden ödenmeyen maaşları için eylem -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:52 BM'ye göre açlığın pençesindeki beş yer -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say"
+  "2026-11-28T00:52 BM'ye göre açlığın pençesindeki beş yer -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
+  "2026-11-28T02:21 Trump onaylı hamle Irak'ta fay hatlarını oynattı: Bağdat ve  -> ValueError: yanıt okunamadı",
+  "2026-11-28T02:21 Trump onaylı hamle Irak'ta fay hatlarını oynattı: Bağdat ve  -> ValueError: yanıt okunamadı",
+  "2026-11-28T02:21 Trump onaylı hamle Irak'ta fay hatlarını oynattı: Bağdat ve  -> ValueError: yanıt okunamadı",
+  "2026-11-28T02:21 Tutuklulukta 'istisnai' tırmanış: 8 ayda 9 bin 617 artış -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
