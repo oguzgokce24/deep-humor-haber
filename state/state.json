@@ -10987,23 +10987,67 @@
     "şile"
    ],
    "at": "2026-11-28T13:41:44.359532+00:00"
+  },
+  {
+   "fp": [
+    "2",
+    "fener",
+    "isim",
+    "kriti",
+    "maç",
+    "önces"
+   ],
+   "tok": [
+    "alarm",
+    "başak",
+    "bulun",
+    "ceza",
+    "cezal",
+    "depla",
+    "deste",
+    "durum",
+    "düşec",
+    "edece",
+    "erzur",
+    "fener",
+    "forma",
+    "futbo",
+    "giyem",
+    "görme",
+    "görür",
+    "hafta",
+    "halin",
+    "inde",
+    "isim",
+    "kapta",
+    "kart",
+    "karşı",
+    "konuk",
+    "kriti",
+    "lig",
+    "ligin",
+    "maç",
+    "maçı",
+    "maçın",
+    "milan",
+    "nelso",
+    "nun",
+    "oyunc",
+    "sarı",
+    "semed",
+    "skrin",
+    "süper",
+    "sınır",
+    "takım",
+    "tecrü",
+    "vazge",
+    "çağrı",
+    "önces"
+   ],
+   "at": "2026-11-28T13:54:22.874575+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "b728f6c54c",
-   "post_id": "529346797199852_1480991904140517",
-   "title": "MasterChef'in Kızıl Sakal'ı Eren Kaşıkçı'nın kesin ölüm nedeni belli oldu",
-   "at": "2026-11-26T10:47:59.235666+00:00",
-   "yazim": "claude",
-   "metin": "MasterChef'in \"Kızıl Sakal\" lakaplı Eren Kaşıkçı'nın ölüm nedeni, tamamlanan otopsi raporuyla belli oldu: kalp damar hastalığı.\n\n— Sarıyer Kumköy Mahallesi'ndeki evinde ölü bulunan 37 yaşındaki Kaşıkçı'nın kalp damarlarında ileri derecede daralmaya yol açan aterom plakları tespit edildi.\n\n— Raporda ayrıca tiroid kanseri ile daha önce geçirilmiş bir beyin damar hastalığının izlerine rastlandığı kaydedildi.\n\n— Kanında alkol, uyuşturucu ya da uyarıcı madde bulunmadı.\n\n— Kaşıkçı, 2021'de MasterChef Türkiye'nin şampiyonu olarak tanınmıştı ve diyabet hastası olduğu biliniyordu.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/otopsi-raporu-cikti-masterchef-eren-kasikcinin-olum-nedeni-belli-oldu-43391878",
-    "NTV: https://www.ntv.com.tr/turkiye/galeri-masterchefin-kizil-sakali-eren-kasikcinin-kesin-olum-nedeni-belli-oldu-1752721",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haberi-unlu-sef-eren-kasikci-nin-otopsi-raporu-ortaya-cikti-eren-kasikci-neden-oldu-3930311",
-    "BPT (X): https://x.com/bpthaber/status/2125903431562858747"
-   ]
-  },
   {
    "id": "ac91fbb943",
    "post_id": "529346797199852_1481001794139528",
@@ -13605,6 +13649,19 @@
     "Karar: https://www.karar.com/sehir-haberleri/meteoroloji-ilce-ilce-acikladi-istanbul-dahil-4-ilde-kuvvetli-saganak-2086822",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/son-dakika-bakanlik-ve-valilikten-pes-pese-aciklamalar-kar-firtina-ve-saganak-istanbulda-6-ilceye-dikkat-7709902"
    ]
+  },
+  {
+   "id": "8d510728cc",
+   "post_id": "529346797199852_1483329453906762",
+   "title": "Fenerbahçe'de Erzurumspor FK maçı öncesi iki kritik isim ceza sınırında",
+   "at": "2026-11-28T13:54:22.874575+00:00",
+   "yazim": "claude",
+   "metin": "Süper Lig'in 13. haftasında Erzurumspor FK'yi konuk edecek Fenerbahçe'de Milan Skriniar ile Nelson Semedo sarı kart sınırında.\n\n— Takımın ilk 11'inde vazgeçilmez olan bu iki oyuncu, Erzurumspor maçında kart görürse cezalı duruma düşecek.\n\n— Takım kaptanı Milan Skriniar ile tecrübeli oyuncu Nelson Semedo'nun kart görmesi halinde ligin 14. haftasında Başakşehir deplasmanında forma giyemeyecek.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/fenerbahce-mac-oncesi-destek-cagrisinda-bulundu-3499134",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/kritik-mac-oncesi-fenerbahce-de-iki-isim-icin-sari-alarm-2560170",
+    "Karar: https://www.karar.com/spor-haberleri/fenerbahcede-erzurumspor-fk-maci-oncesi-iki-kritik-isim-ceza-sinirinda-2086831"
+   ]
   }
  ],
  "fails": {
@@ -13937,7 +13994,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126672731353604345",
+   "since_id": "2126675140138455532",
    "started": true
   },
   "ajansmuhbir1923": {
