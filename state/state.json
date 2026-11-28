@@ -2,99 +2,6 @@
  "seen": [
   {
    "fp": [
-    "kamus",
-    "kuyru",
-    "milya",
-    "sağlı",
-    "serma",
-    "tasfi",
-    "yurtt"
-   ],
-   "tok": [
-    "akp",
-    "aktar",
-    "bağla",
-    "büyüt",
-    "düzen",
-    "erişi",
-    "fatur",
-    "hasta",
-    "kamu",
-    "kamus",
-    "kesil",
-    "kuyru",
-    "milya",
-    "nin",
-    "odakl",
-    "paray",
-    "piyas",
-    "polit",
-    "rande",
-    "sağlı",
-    "sektö",
-    "serma",
-    "siste",
-    "tasfi",
-    "tedav",
-    "tetki",
-    "uzark",
-    "uzman",
-    "yine",
-    "yurtt",
-    "çöker",
-    "özel",
-    "üzeri",
-    "şehir",
-    "şirke"
-   ],
-   "at": "2026-11-27T03:11:31.070298+00:00"
-  },
-  {
-   "fp": [
-    "10",
-    "3",
-    "616",
-    "bin",
-    "kazas",
-    "okull",
-    "yılda"
-   ],
-   "tok": [
-    "aynı",
-    "belir",
-    "bin",
-    "boyut",
-    "değer",
-    "dönem",
-    "eğiti",
-    "gelir",
-    "göre",
-    "ise",
-    "kala",
-    "kazal",
-    "kazas",
-    "kazay",
-    "konuy",
-    "koydu",
-    "kurum",
-    "meb",
-    "meyda",
-    "milli",
-    "nın",
-    "okull",
-    "olay",
-    "olayı",
-    "ortay",
-    "ramak",
-    "rapor",
-    "yaşan",
-    "yılda",
-    "önlen"
-   ],
-   "at": "2026-11-27T03:11:35.939300+00:00"
-  },
-  {
-   "fp": [
     "1",
     "düzce",
     "patpa",
@@ -11054,24 +10961,73 @@
     "şubat"
    ],
    "at": "2026-11-28T15:05:51.251262+00:00"
+  },
+  {
+   "fp": [
+    "10",
+    "adıya",
+    "hayat",
+    "kaptı",
+    "kapıl",
+    "karma",
+    "kaybe",
+    "kolun",
+    "makin",
+    "olay",
+    "yakan",
+    "yaşın",
+    "yem",
+    "yürek",
+    "çocuk"
+   ],
+   "tok": [
+    "adıya",
+    "başla",
+    "besni",
+    "can",
+    "cenaz",
+    "devle",
+    "durum",
+    "dünya",
+    "ekipl",
+    "feci",
+    "gazi",
+    "geldi",
+    "güreş",
+    "hasta",
+    "ilhan",
+    "ilçes",
+    "incel",
+    "kaldı",
+    "kaptı",
+    "kapıl",
+    "karma",
+    "kolun",
+    "köyde",
+    "makin",
+    "morgu",
+    "olay",
+    "otops",
+    "sağlı",
+    "sonra",
+    "verdi",
+    "yakan",
+    "yaşam",
+    "yaşın",
+    "yem",
+    "yerin",
+    "yitir",
+    "yürek",
+    "çalış",
+    "çocuk",
+    "çocuğ",
+    "ölüm",
+    "şokta"
+   ],
+   "at": "2026-11-28T15:18:20.688816+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "9b0926d6a8",
-   "post_id": "529346797199852_1481054520800922",
-   "title": "Fon soruşturmasında yeni gelişme: Kemal Akkaya adliyeye sevk edildi",
-   "at": "2026-11-26T12:03:19.903675+00:00",
-   "yazim": "claude",
-   "metin": "İstanbul'da fon soruşturması kapsamında Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya, ev hapsindeyken yeniden gözaltına alındı ve adliyeye sevk edildi.\n\n— Sermaye piyasası işlemlerine yönelik soruşturmada Akkaya'nın da aralarında bulunduğu 5 şüpheli İstanbul Adalet Sarayı'na sevk edildi.\n— Akkaya, 23 Eylül'de ilk kez gözaltına alınmış, ifadesinin ardından serbest bırakılmıştı.\n— 7 Kasım'da ikinci kez gözaltına alınan Akkaya hakkında adli kontrol kararı verilmişti.\n— SPK, 17 Eylül'de aralarında Bulls Portföy'ün de bulunduğu yedi portföy şirketine ait 131 yatırım fonu için tasfiye kararı almıştı. Bu fonlar 455 binden fazla yatırımcıyı ilgilendiriyor ve bazıları temerrüde düşmüştü.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/sermaye-piyasasi-sorusturmasi-kemal-akkaya-adliyeye-sevk-edildi-43391970",
-    "Sözcü: https://www.sozcu.com.tr/ev-hapsindeyken-yeniden-gozaltina-alinan-kemal-akkaya-adliyeye-sevk-edildi-p384626",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-kemal-akkaya-adliyeye-sevk-edildi-2559625",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/fon-sorusturmasinda-kemal-akkaya-dahil-5-supheli-adliyeye-getirildi-4876778",
-    "Evrensel: https://www.evrensel.net/haber/6011325/fon-vurgunu-sorusturmasi-bulls-yatirim-yonetim-kurulu-baskani-kemal-akkaya-adliyeye-sevk-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "dee44a44fb",
    "post_id": "529346797199852_1481066374133070",
@@ -13666,6 +13622,22 @@
     "Habertürk: https://www.haberturk.com/saglik/deprem-enkazindan-yayilan-tozlar-mercek-altinda-3930837",
     "Karar: https://www.karar.com/guncel-haberler/deprem-bolgesinde-halk-sagligini-tehdit-eden-bulgular-enkaz-tozlarinda-2086837"
    ]
+  },
+  {
+   "id": "bd98c180ac",
+   "post_id": "529346797199852_1483407870565587",
+   "title": "Yem karma makinesine kolunu kaptıran 10 yaşındaki çocuk hayatını kaybetti",
+   "at": "2026-11-28T15:18:20.688816+00:00",
+   "yazim": "claude",
+   "metin": "Adıyaman'ın Besni ilçesinde bir köyde, çalışır durumdaki yem karma makinesine kapılan 10 yaşındaki bir çocuk hayatını kaybetti.\n\n— Olay sonrası jandarma ve sağlık ekipleri olay yerine geldi, inceleme başlattı.\n— Çocuğun cenazesi otopsi için Besni Devlet Hastanesi morguna kaldırıldı.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/adiyamanda-yurek-yakan-olay-yem-karma-makinesine-kapilan-cocuk-hayatini-kaybetti-7709935",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/koyde-feci-olum-10-yasindaki-gazi-yem-karma-makinesine-kapilarak-can-verdi-2560226",
+    "Evrensel: https://www.evrensel.net/haber/6011626/yem-karma-makinesine-kolunu-kaptiran-cocuk-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "BirGün: https://www.birgun.net/haber/yem-karma-makinesine-kolunu-kaptiran-10-yasindaki-cocuk-hayatini-kaybetti-748986",
+    "Sözcü Spor: https://www.sozcu.com.tr/wwe-yildizi-bronson-reed-38-yasinda-hayatini-kaybetti-p385113",
+    "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/adiyamanda-yurek-yakan-olay-yem-karma-makinesine-kapilan-cocuk-hayatini-kaybetti-7709935"
+   ]
   }
  ],
  "fails": {
@@ -14000,7 +13972,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126688562695532872",
+   "since_id": "2126695927415218277",
    "started": true
   },
   "ajansmuhbir1923": {
