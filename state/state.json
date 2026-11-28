@@ -11034,22 +11034,60 @@
     "öğren"
    ],
    "at": "2026-11-28T18:06:56.847998+00:00"
+  },
+  {
+   "fp": [
+    "45",
+    "841",
+    "bakan",
+    "iadel",
+    "içişl",
+    "kişin",
+    "sağla",
+    "sene",
+    "çiftç",
+    "ülked"
+   ],
+   "tok": [
+    "akit",
+    "ayrıc",
+    "belge",
+    "bilgi",
+    "bin",
+    "devle",
+    "dışın",
+    "gecik",
+    "geldi",
+    "hatır",
+    "herha",
+    "iadel",
+    "iades",
+    "içeri",
+    "içişl",
+    "kimli",
+    "musta",
+    "payla",
+    "sağla",
+    "sene",
+    "sorul",
+    "sürüc",
+    "topla",
+    "vakti",
+    "verir",
+    "yanıt",
+    "yayın",
+    "yenil",
+    "yok",
+    "yurt",
+    "yıl",
+    "zaman",
+    "çiftç",
+    "ülked"
+   ],
+   "at": "2026-11-28T18:19:33.754413+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ce87bc5f4d",
-   "post_id": "529346797199852_1481284694111238",
-   "title": "Rezervlerdeki erime ekonomi yönetimini harekete geçirdi: TL mevduata stopaj indirimi yolda",
-   "at": "2026-11-26T16:02:06.257346+00:00",
-   "yazim": "claude",
-   "metin": "Serkan Özcan, mevduat stopajı indirimi hazırlığı için:\n\n“Mahkemede adaletiniz neyse vergide de adaletiniz o.\n\nMilletin parasına göz dikenlerin cezalandırılmadığı, verginin her zaman zengini koruduğu bu kara düzeninizi kökten değiştireceğiz.”\n\nYeni Parti Genel Başkan Yardımcısı Özcan, sosyal medya hesabından tepki gösterdi. Ona göre fon krizi, iktidarı sermaye gelirlerinden alınan vergiyi düşürmek zorunda bıraktı.\n\nBloomberg'in haberine göre Hazine ve Maliye Bakanlığı, Türk lirası mevduatlarındaki yüzde 10 ile yüzde 17,5 arasındaki stopaj oranlarını düşürmeyi değerlendiriyor. Amaç, Türk lirasına olan talebi artırmak ve Merkez Bankasının döviz rezervleri üzerindeki baskıyı hafifletmek.\n\nDüzenlemenin büyüklüğüne göre Hazine'nin yıllık vergi gelirinde 130 milyar liraya varan bir kayıp yaşanabilir. Kararın birkaç gün içinde netleşmesi bekleniyor, ancak düzenleme henüz kesinleşmiş değil.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/ekonomi/bloomberg-tl-ye-destek-icin-mevduat-stopajina-indirim-gelebilir-3930343",
-    "Karar: https://www.karar.com/guncel-haberler/serkan-ozcandan-mevduatta-stopaj-indirimi-hazirligina-tepki-mahkemede-2086459",
-    "Karar: https://www.karar.com/ekonomi-haberleri/rezervlerdeki-erime-ekonomi-yonetimini-harekete-gecirdi-tl-mevduata-2086445"
-   ]
-  },
   {
    "id": "17ec707e8c",
    "post_id": "529346797199852_1481296294110078",
@@ -13625,6 +13663,20 @@
     "Yeni Şafak: https://www.yenisafak.com/gundem/barajda-kaybolan-ramazan-gurbuzun-cesedine-ulasildi-4877501",
     "Evrensel: https://www.evrensel.net/haber/6011645/baraj-golunde-kaybolan-gencin-cansiz-bedenine-ulasildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "5a0344b68c",
+   "post_id": "529346797199852_1483560053883702",
+   "title": "İçişleri Bakanı Çiftçi: 841 kişinin 45 ülkeden iadesi sağlandı",
+   "at": "2026-11-28T18:19:33.754413+00:00",
+   "yazim": "claude",
+   "metin": "İçişleri Bakanı Mustafa Çiftçi, bu yıl 45 ülkeden toplam 841 kişinin iadesinin sağlandığını açıkladı.\n\n— Bakan, Akit TV canlı yayınındaki sorulara yanıt verirken bu bilgiyi paylaştı.\n— Ayrıca 301 bin kişinin kimlik ve sürücü belgesinin yenilenme zamanının geldiğini hatırlattı.",
+   "sources": [
+    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-bu-sene-841-kisinin-45-ulkeden-iadelerini-sagladik/4141579",
+    "TRT Haber: https://www.trthaber.com/haber/gundem/bakan-ciftci-bu-sene-icerisinde-841-kisinin-45-ulkeden-yurt-disindan-iadelerini-sagladik-964757.html",
+    "Sabah: https://www.sabah.com.tr/gundem/2026/11/28/icisleri-bakani-ciftci-devletimizin-herhangi-bir-gecikmesi-yok",
+    "NTV: https://www.ntv.com.tr/turkiye/icisleri-bakani-ciftci-841-kisinin-45-ulkeden-iadesi-saglandi-1753037"
+   ]
   }
  ],
  "fails": {
@@ -13961,7 +14013,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126737398725759099",
+   "since_id": "2126741053269045651",
    "started": true
   },
   "ajansmuhbir1923": {
