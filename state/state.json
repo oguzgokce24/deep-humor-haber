@@ -10735,20 +10735,67 @@
     "şikay"
    ],
    "at": "2026-11-28T03:15:56.395446+00:00"
+  },
+  {
+   "fp": [
+    "değil",
+    "koruy",
+    "pay",
+    "sağlı",
+    "şirke"
+   ],
+   "tok": [
+    "adı",
+    "adıyl",
+    "aktar",
+    "altın",
+    "alımı",
+    "bütçe",
+    "derin",
+    "değil",
+    "dikka",
+    "eşit",
+    "geri",
+    "göre",
+    "hasta",
+    "hekim",
+    "hizme",
+    "iktid",
+    "iterk",
+    "işbir",
+    "işlet",
+    "kalır",
+    "kamu",
+    "kamuc",
+    "kira",
+    "koruy",
+    "milya",
+    "pay",
+    "piyas",
+    "plana",
+    "pland",
+    "planl",
+    "sağlı",
+    "siste",
+    "taşer",
+    "tedav",
+    "uzman",
+    "çekiy",
+    "çözüm",
+    "çıkıy",
+    "ödeme",
+    "öncel",
+    "öne",
+    "öngör",
+    "özel",
+    "ücret",
+    "şehir",
+    "şirke"
+   ],
+   "at": "2026-11-28T03:28:41.601571+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "033fd9e663",
-   "post_id": "529346797199852_1480489137524127",
-   "title": "Bu neyin faturası: Ödediğimiz faturanın sadece yüzde 15’ini tüketilen elektriğin bedeli oluşturuyor",
-   "at": "2026-11-25T22:38:51.057008+00:00",
-   "yazim": "claude",
-   "metin": "Elektrik faturasının yüzde 75'ini dağıtım bedeli oluşturuyor, tüketilen enerjinin payı ise yüzde 15'te kalıyor.\n\n— Dağıtım bedelinin faturadaki payı 2022'de yüzde 19'du, bugün yüzde 75'e ulaştı.\n\n— Son beş yılda dağıtım ücreti yüzde 880 arttı. Aynı dönemde TÜİK'e göre enflasyon yüzde 656 oldu.\n\n— 21 dağıtım şirketinin tahsilatı 2023-25 arasında 113 milyar liradan 359 milyar liraya çıktı.\n\n— Şirketlerin yatırım harcamaları ise 2024'te yüzde 37,91 düşerek 52 milyar 465 milyon liraya indi.\n\n— Vatandaşın ödediği paranın ne kadarının yatırıma gittiği bilinmiyor.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/bu-neyin-faturasi-odedigimiz-faturanin-sadece-yuzde-15ini-tuketilen-2086274"
-   ]
-  },
   {
    "id": "fcfbb6ebfa",
    "post_id": "529346797199852_1480496164190091",
@@ -13342,6 +13389,17 @@
    "sources": [
     "BirGün: https://www.birgun.net/haber/emekciye-zulum-tadilata-70-9-milyon-tl-748868"
    ]
+  },
+  {
+   "id": "203752fe07",
+   "post_id": "529346797199852_1482859127287128",
+   "title": "Koruyucu sağlığa değil şirketlere pay",
+   "at": "2026-11-28T03:28:41.601571+00:00",
+   "yazim": "claude",
+   "metin": "2027 sağlık bütçesinde koruyucu hekimlik geri planda kalırken tedavi hizmetleri ve şirket ödemeleri öne çıkıyor.\n\n— Kamu-özel işbirliğiyle işletilen 18 şehir hastanesine kira ve hizmet alımı adıyla 160,6 milyar lira aktarılması planlanıyor.\n— Uzmanlar, sağlıkta piyasalaşma ve taşeronlaşmanın derinleştiğine dikkat çekiyor.\n— Uzmanlara göre çözüm: “Çözüm ücretsiz, eşit ve kamucu bir sağlık sistemi.”",
+   "sources": [
+    "BirGün: https://www.birgun.net/haber/koruyucu-sagliga-degil-sirketlere-pay-748865"
+   ]
   }
  ],
  "fails": {
@@ -13622,8 +13680,6 @@
   "baeb643a14": 1
  },
  "fail_log": [
-  "2026-11-28T00:27 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:27 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı",
   "2026-11-28T00:52 Buca Belediyesi işçileri: ‘Baştemsilci mahkemeyi kazandı ama -> ValueError: yanıt okunamadı",
   "2026-11-28T00:52 Buca Belediyesi işçileri: ‘Baştemsilci mahkemeyi kazandı ama -> ValueError: yanıt okunamadı",
   "2026-11-28T00:52 Buca Belediyesi işçileri: ‘Baştemsilci mahkemeyi kazandı ama -> ValueError: yanıt okunamadı",
@@ -13661,7 +13717,9 @@
   "2026-11-28T03:12 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
   "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
-  "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı"
+  "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
+  "2026-11-28T03:28 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
+  "2026-11-28T03:28 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
