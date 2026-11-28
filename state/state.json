@@ -10770,6 +10770,42 @@
     "üreti"
    ],
    "at": "2026-11-28T06:23:15.793166+00:00"
+  },
+  {
+   "fp": [
+    "bilim",
+    "karşı",
+    "köyü",
+    "nakıp",
+    "selin",
+    "tahli",
+    "tehdi"
+   ],
+   "tok": [
+    "akade",
+    "appea",
+    "bilim",
+    "buluş",
+    "den",
+    "diken",
+    "first",
+    "gençl",
+    "gönül",
+    "karşı",
+    "köyü",
+    "linka",
+    "nakıp",
+    "nokta",
+    "post",
+    "sanat",
+    "selin",
+    "site",
+    "tahli",
+    "tehdi",
+    "the",
+    "yana"
+   ],
+   "at": "2026-11-28T06:26:57.672028+00:00"
   }
  ],
  "posted": [
@@ -13656,19 +13692,10 @@
   "baeb643a14": 1,
   "351d6844b8": 1,
   "0ba628d76b": 1,
-  "15c589286b": 2,
-  "95cebea56a": 1
+  "95cebea56a": 2,
+  "74ee62e83a": 1
  },
  "fail_log": [
-  "2026-11-28T02:59 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
-  "2026-11-28T02:59 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
-  "2026-11-28T02:59 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
-  "2026-11-28T02:59 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-28T02:59 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-28T02:59 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-28T03:12 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
-  "2026-11-28T03:12 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
-  "2026-11-28T03:12 Örtbas etmeye çalıştıkça skandal daha da büyüdü -> ValueError: yanıt okunamadı",
   "2026-11-28T03:12 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-28T03:12 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
   "2026-11-28T03:12 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
@@ -13699,7 +13726,16 @@
   "2026-11-28T06:23 Selin Nakıpoğlu: Bilimler Köyü tahliye tehdidiyle karşı karş -> ValueError: yanıt okunamadı",
   "2026-11-28T06:23 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
   "2026-11-28T06:23 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
-  "2026-11-28T06:23 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı"
+  "2026-11-28T06:23 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Selin Nakıpoğlu: Bilimler Köyü tahliye tehdidiyle karşı karş -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Selin Nakıpoğlu: Bilimler Köyü tahliye tehdidiyle karşı karş -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Selin Nakıpoğlu: Bilimler Köyü tahliye tehdidiyle karşı karş -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:27 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
