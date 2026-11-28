@@ -10839,24 +10839,81 @@
     "şehir"
    ],
    "at": "2026-11-28T09:10:08.737549+00:00"
+  },
+  {
+   "fp": [
+    "beşik",
+    "derbi",
+    "forma",
+    "galat",
+    "osimh",
+    "victo",
+    "önces"
+   ],
+   "tok": [
+    "alaca",
+    "almay",
+    "ameli",
+    "ardın",
+    "asist",
+    "attı",
+    "azald",
+    "ağrıl",
+    "başla",
+    "bekli",
+    "belir",
+    "beşik",
+    "bile",
+    "bilme",
+    "daki",
+    "derbi",
+    "forma",
+    "galat",
+    "gazet",
+    "geliş",
+    "giyeb",
+    "giyec",
+    "giyem",
+    "gol",
+    "golcü",
+    "göre",
+    "gözle",
+    "haber",
+    "ise",
+    "kadro",
+    "karşı",
+    "kasım",
+    "kontr",
+    "maç",
+    "maçta",
+    "maçın",
+    "mesai",
+    "neden",
+    "netle",
+    "nijer",
+    "osimh",
+    "osımh",
+    "oynay",
+    "sabah",
+    "sakat",
+    "salla",
+    "sezon",
+    "stutt",
+    "süre",
+    "süred",
+    "sürül",
+    "veril",
+    "victo",
+    "yapıl",
+    "yer",
+    "çevri",
+    "önces",
+    "öne"
+   ],
+   "at": "2026-11-28T09:22:46.846927+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ccdbe17da8",
-   "post_id": "529346797199852_1480763347496706",
-   "title": "Başkentte FETÖ firarilerine şafak baskını: Yıllardır aranan 3 hükümlü yakalandı",
-   "at": "2026-11-26T05:25:57.522426+00:00",
-   "yazim": "claude",
-   "metin": "Ankara'da FETÖ firarisi 3 hükümlü şafak vakti yakalandı.\n\nPolis, saklandıkları adresleri teknik ve fiziki takiple tespit etti. Yakalananlar, silahlı terör örgütüne üye olmaktan ve anayasal düzeni ortadan kaldırmaya teşebbüsten aranan kişiler.\n\n— Hakkında 18 yıl hapis cezası bulunan bir hükümlü 1 yıldır, diğer ikisi 3 ve 7 yıldır firari olarak aranıyordu.\n— Gözaltına alınan 3 hükümlü, emniyetteki işlemlerinin ardından cezaevine teslim edilecek.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/gundem/baskentteki-feto-operasyonunda-3-firari-yakalandi/4138157",
-    "TRT Haber: https://www.trthaber.com/haber/turkiye/firari-3-fetocu-ankarada-yakalandi-964494.html",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/ankarada-feto-operasyonu-3-firari-yakalandi-43391361",
-    "Habertürk: https://www.haberturk.com/gundem/ankara-da-feto-operasyonu-3930200",
-    "Sözcü: https://www.sozcu.com.tr/baskentte-feto-firarilerine-safak-baskini-yillardir-aranan-3-hukumlu-yakalandi-p384482"
-   ]
-  },
   {
    "id": "fa90f7a6d1",
    "post_id": "529346797199852_1480771460829228",
@@ -13472,6 +13529,20 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/29-ilde-isid-operasyonu-84-kisi-gozaltina-alindi-2560142",
     "Karar: https://www.karar.com/guncel-haberler/isidin-faaliyet-ve-finans-yapilanmasina-operasyon-84-supheli-yakalandi-2086759"
    ]
+  },
+  {
+   "id": "2112e5d2ef",
+   "post_id": "529346797199852_1483105333929174",
+   "title": "Galatasaray'da gözler Osimhen'e çevrildi: Derbide forma giyecek mi?",
+   "at": "2026-11-28T09:22:46.846927+00:00",
+   "yazim": "claude",
+   "metin": "Galatasaray'ın golcüsü Victor Osimhen, 30 Kasım'daki Beşiktaş derbisinde kadroda yer alacak.\n\nStuttgart maçında sakatlanıp ameliyat olan Victor Osimhen'in ağrılarının azaldığı belirtiliyor. İlk 11'de başlayıp başlamayacağı ise son kontrollerin ardından netleşecek.\n\n— Sabah gazetesinin haberine göre Osimhen, ilk 11'de başlamasa bile maçta süre almayı bekliyor.\n— Osimhen bu sezon Galatasaray formasıyla 11 maçta 10 gol attı ve 3 asist yaptı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/spor/futbol/osimhen-besiktas-macinda-oynayacak-mi-victor-osimhen-derbide-oynayacak-mi-besiktas-derbisinde-forma-giyebilecek-mi-3499092",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/besiktas-derbisi-oncesi-galatasaray-da-victor-osimhen-gelismesi-2560118",
+    "BirGün: https://www.birgun.net/haber/derbi-oncesi-victor-osimhen-bilmecesi-748924",
+    "Karar: https://www.karar.com/spor-haberleri/galatasarayda-gozler-osimhene-cevrildi-derbide-forma-giyecek-mi-2086754"
+   ]
   }
  ],
  "fails": {
@@ -13803,7 +13874,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126600612657701237",
+   "since_id": "2126607585390305494",
    "started": true
   },
   "ajansmuhbir1923": {
