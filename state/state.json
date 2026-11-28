@@ -2,63 +2,6 @@
  "seen": [
   {
    "fp": [
-    "atand",
-    "bağır",
-    "başka",
-    "bddk",
-    "gazet",
-    "kenan",
-    "resmi",
-    "yusuf"
-   ],
-   "tok": [
-    "atama",
-    "atand",
-    "aynı",
-    "ayrıl",
-    "banka",
-    "bağır",
-    "başın",
-    "bddk",
-    "beri",
-    "dan",
-    "den",
-    "denet",
-    "düzen",
-    "erdoğ",
-    "gazet",
-    "genel",
-    "getir",
-    "görev",
-    "hazir",
-    "istat",
-    "istem",
-    "izin",
-    "izni",
-    "kasım",
-    "kavcı",
-    "kenan",
-    "kgk",
-    "kurum",
-    "müdür",
-    "nda",
-    "nın",
-    "orhan",
-    "resmi",
-    "tarih",
-    "veri",
-    "veril",
-    "yayım",
-    "yusuf",
-    "yönet",
-    "çalış",
-    "çelik",
-    "şahap"
-   ],
-   "at": "2026-11-26T22:57:25.739205+00:00"
-  },
-  {
-   "fp": [
     "ağız",
     "birli",
     "habaş",
@@ -10976,25 +10919,38 @@
     "üste"
    ],
    "at": "2026-11-28T10:54:00.610865+00:00"
+  },
+  {
+   "fp": [
+    "14",
+    "göçme",
+    "kişi",
+    "tekne",
+    "öldü"
+   ],
+   "tok": [
+    "adala",
+    "adası",
+    "atlan",
+    "açıkt",
+    "bağlı",
+    "bildi",
+    "bulun",
+    "facia",
+    "göçme",
+    "hierr",
+    "ise",
+    "ispan",
+    "kanar",
+    "kurta",
+    "nın",
+    "sürük",
+    "tekne"
+   ],
+   "at": "2026-11-28T11:06:30.725534+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "13a68662db",
-   "post_id": "529346797199852_1480839994155708",
-   "title": "Bahçeli, DEM Parti İmralı heyetini TBMM’de kabul edecek",
-   "at": "2026-11-26T07:21:05.183798+00:00",
-   "yazim": "claude",
-   "metin": "Devlet Bahçeli, DEM Parti İmralı heyetini bugün TBMM'de kabul edecek.\n\n— Görüşmede terörsüz Türkiye sürecindeki son gelişmeler ve Meclis'te kurulacak İzleme Komisyonu'nun çalışmaları ele alınacak.\n— Heyet 22 Kasım'da İmralı'da PKK lideri Abdullah Öcalan ile görüşmüş, dün de Adalet Bakanı Akın Gürlek ile bir araya gelmişti.\n— Heyette Pervin Buldan ve Mithat Sancar yer alıyor. Bahçeli ile İmralı heyeti en son 9 Ekim'de bir araya gelmişti.",
-   "sources": [
-    "NTV: https://www.ntv.com.tr/turkiye/dem-parti-heyeti-devlet-bahceli-ile-gorusecek-1752652",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-bahceli-dem-heyeti-ile-gorusecek-3930215",
-    "Sözcü: https://www.sozcu.com.tr/devlet-bahceli-dem-parti-heyetiyle-gorusecek-p384533",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/bahceli-dem-parti-imrali-heyetini-tbmm-de-kabul-edecek-2559537",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/mhp-lideri-bahceli-dem-parti-heyetini-kabul-edecek-4876668",
-    "BirGün: https://www.birgun.net/haber/devlet-bahceli-dem-parti-imrali-heyeti-ile-gorusecek-748536"
-   ]
-  },
   {
    "id": "cd79f50d10",
    "post_id": "529346797199852_1480866907486350",
@@ -13609,6 +13565,18 @@
    "sources": [
     "Anadolu Ajansı: https://www.aa.com.tr/tr/dunya/pentagon-849-kisinin-tutuldugu-guantanamodaki-gocmen-merkezi-icin-81-milyon-dolar-harcadi/4141291",
     "BirGün: https://www.birgun.net/haber/iskence-iddialariyla-biliniyor-pentagon-guantanamo-icin-81-milyon-dolar-harcadi-748955"
+   ]
+  },
+  {
+   "id": "3c377a1521",
+   "post_id": "529346797199852_1483183597254681",
+   "title": "İspanya açıklarında göçmen teknesinde 14 kişi öldü, 90 kişi kurtarıldı",
+   "at": "2026-11-28T11:06:30.725534+00:00",
+   "yazim": "claude",
+   "metin": "İspanya'nın Kanarya Adaları'na bağlı El Hierro Adası açıklarında sürüklenen bir göçmen teknesinde 14 kişi hayatını kaybetti.\n\n— Tekne, açıkta sürüklenirken bulundu.\n\n— Teknedeki 90 kişi kurtarıldı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/dunya/atlantikte-gocmen-teknesi-faciasi-14-kisi-oldu-3499113",
+    "BirGün: https://www.birgun.net/haber/ispanya-aciklarinda-gocmen-teknesinde-14-kisi-oldu-90-kisi-kurtarildi-748962"
    ]
   }
  ],
