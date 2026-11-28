@@ -2,86 +2,6 @@
  "seen": [
   {
    "fp": [
-    "atana",
-    "etmiş",
-    "gazet",
-    "isim",
-    "istif",
-    "kavcı",
-    "resmi",
-    "yayım",
-    "yerin",
-    "şahap"
-   ],
-   "tok": [
-    "abd",
-    "adı",
-    "affın",
-    "akp",
-    "almış",
-    "ardın",
-    "atama",
-    "atana",
-    "atand",
-    "banka",
-    "bağır",
-    "başba",
-    "bddk",
-    "dan",
-    "deki",
-    "denet",
-    "dokto",
-    "duyur",
-    "düzen",
-    "ekono",
-    "erdoğ",
-    "etmiş",
-    "ettiğ",
-    "fazla",
-    "fon",
-    "gazet",
-    "geçen",
-    "geçiy",
-    "görev",
-    "hazin",
-    "iddia",
-    "imzas",
-    "incel",
-    "isim",
-    "isted",
-    "istif",
-    "izni",
-    "içişl",
-    "kavcı",
-    "kenan",
-    "kurul",
-    "kurum",
-    "maliy",
-    "mehme",
-    "nde",
-    "nun",
-    "nın",
-    "rapor",
-    "resmi",
-    "syrac",
-    "taşıy",
-    "tefti",
-    "vermi",
-    "yapmı",
-    "yayım",
-    "yazmı",
-    "yerin",
-    "yusuf",
-    "yönel",
-    "yıpra",
-    "ünive",
-    "şahap",
-    "şimşe"
-   ],
-   "at": "2026-11-26T23:33:45.070245+00:00"
-  },
-  {
-   "fp": [
     "16",
     "3",
     "bakan",
@@ -10943,22 +10863,70 @@
     "öne"
    ],
    "at": "2026-11-28T11:31:25.724783+00:00"
+  },
+  {
+   "fp": [
+    "bakır",
+    "bize",
+    "borcu",
+    "dan",
+    "komis",
+    "nin",
+    "parti",
+    "tunce",
+    "var",
+    "vefa",
+    "çağrı",
+    "özel",
+    "özgür"
+   ],
+   "tok": [
+    "adayl",
+    "aynı",
+    "bakır",
+    "bekle",
+    "biz",
+    "bize",
+    "borcu",
+    "dan",
+    "dem",
+    "genel",
+    "gerek",
+    "isted",
+    "izlem",
+    "kars",
+    "komis",
+    "kongr",
+    "kurul",
+    "mecli",
+    "nde",
+    "nin",
+    "olağa",
+    "oluşm",
+    "parti",
+    "planl",
+    "rapor",
+    "seçim",
+    "siyas",
+    "sonra",
+    "söyle",
+    "tespi",
+    "teyit",
+    "tunce",
+    "var",
+    "vefa",
+    "verdi",
+    "verme",
+    "zaman",
+    "çağrı",
+    "özel",
+    "özgür",
+    "üye"
+   ],
+   "at": "2026-11-28T11:43:51.722364+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "041a38c704",
-   "post_id": "529346797199852_1480884724151235",
-   "title": "Emlak Konut'tan yüzde 5 peşinatla ev sahibi olma fırsatı: Taksitler 55 bin TL'den başlayacak",
-   "at": "2026-11-26T08:25:55.251734+00:00",
-   "yazim": "claude",
-   "metin": "Emlak Konut, İstanbul'daki dört projede konut alıcılarına yüzde 5 peşinatla 120 aya kadar vade sunuyor.\n\n— Aylık taksitler 55 bin TL'den başlıyor, ilk ödemeler Ocak 2027'de yapılacak.\n— Taksitler TÜFE'ye göre artacak. Altı aylık artışlar en fazla yüzde 18 olacak, ilk güncelleme Temmuz 2027'de uygulanacak.\n— Kampanya 31 Aralık 2026'ya kadar sürecek. Projelerde 1+1'den 4+1'e kadar daire tipleri ile dubleks ve bahçe katı seçenekleri var.\n— Ayrıntılar için www.emlakkonut.com.tr adresine ya da 444 36 55 numaralı çağrı merkezine ulaşılabilir.",
-   "sources": [
-    "TRT Haber: https://www.trthaber.com/haber/ekonomi/emlak-konuttan-yuzde-5-pesinat-ve-120-ay-vadeyle-ev-sahibi-olma-firsati-964506.html",
-    "CNN Türk: https://www.cnnturk.com/ekonomi/emlak-konuttan-yuzde-5-pesinatla-ev-sahibi-olma-firsati-55-bin-tlden-baslayan-taksitler-3498376",
-    "Karar: https://www.karar.com/ekonomi-haberleri/emlak-konuttan-yuzde-5-pesinatla-ev-sahibi-olma-firsati-taksitler-55-2086350"
-   ]
-  },
   {
    "id": "1cb0e1e92a",
    "post_id": "529346797199852_1480893840816990",
@@ -13568,6 +13536,19 @@
     "Hürriyet: https://www.hurriyet.com.tr/gundem/genc-kadinin-feci-sonu-annene-goturecegim-dedi-yolda-tabancayla-oldurdu-43394291",
     "Karar: https://www.karar.com/guncel-haberler/aksarayda-kadin-cinayeti-annene-goturecegim-dedi-evinden-aldigi-rabiayi-2086800"
    ]
+  },
+  {
+   "id": "3a656e65d3",
+   "post_id": "529346797199852_1483214043918303",
+   "title": "Tuncer Bakırhan'dan Özgür Özel'e çağrı: \"YENİ Parti'nin bize vefa borcu var\"",
+   "at": "2026-11-28T11:43:51.722364+00:00",
+   "yazim": "claude",
+   "metin": "Tuncer Bakırhan, Özgür Özel'e çağrı yaptı:\n\n“YENİ Parti’nin aynı zamanda bize bir vefa borcu da var. Biz beş seçimdir YENİ Parti’nin adaylarına oy verdik.”\n\n— Bakırhan, Meclis'te kurulması planlanan İzleme Komisyonu'na YENİ Parti'nin de üye vermesi gerektiğini söyledi.\n— Bakırhan, teyit ve tespit raporunun bir an önce açıklanmasını ve Meclis'te izleme kurulunun oluşmasını istedi.\n— Açıklamayı DEM Parti'nin Kars 2. Olağan İl Kongresi'nde yaptı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/komisyon-karari-sonrasi-tuncer-bakirhan-dan-ozgur-ozel-e-yeni-cagri-yeni-parti-nin-bize-bir-vefa-borcu-var-2560167",
+    "BirGün: https://www.birgun.net/haber/tuncer-bakirhan-dan-ozgur-ozel-e-cagri-yeni-parti-nin-bize-vefa-borcu-var-748964",
+    "Karar: https://www.karar.com/guncel-haberler/bakirhandan-ozele-izleme-komisyonu-cagrisi-yeni-partinin-ayni-zamanda-2086803"
+   ]
   }
  ],
  "fails": {
@@ -13900,7 +13881,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126639751440609491",
+   "since_id": "2126642312793010600",
    "started": true
   },
   "ajansmuhbir1923": {
