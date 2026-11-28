@@ -10806,6 +10806,37 @@
     "yana"
    ],
    "at": "2026-11-28T06:26:57.672028+00:00"
+  },
+  {
+   "fp": [
+    "24",
+    "akp",
+    "aydem",
+    "güler",
+    "iktid",
+    "nakar",
+    "nin",
+    "yıllı"
+   ],
+   "tok": [
+    "akp",
+    "anaya",
+    "appea",
+    "aydem",
+    "değiş",
+    "diken",
+    "first",
+    "güler",
+    "iktid",
+    "linka",
+    "nakar",
+    "nin",
+    "post",
+    "site",
+    "the",
+    "yıllı"
+   ],
+   "at": "2026-11-28T06:30:32.823217+00:00"
   }
  ],
  "posted": [
@@ -13692,19 +13723,10 @@
   "baeb643a14": 1,
   "351d6844b8": 1,
   "0ba628d76b": 1,
-  "95cebea56a": 2,
-  "74ee62e83a": 1
+  "74ee62e83a": 2,
+  "294513ad8a": 1
  },
  "fail_log": [
-  "2026-11-28T03:12 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-28T03:12 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-28T03:12 Emekçiye zulüm, tadilata 70,9 milyon TL -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
-  "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
-  "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
-  "2026-11-28T03:28 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
-  "2026-11-28T03:28 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
-  "2026-11-28T05:03 Kanarya Adaları açıklarında göçmen faciası: 14 ölü -> ValueError: yanıt okunamadı",
   "2026-11-28T05:03 Kanarya Adaları açıklarında göçmen faciası: 14 ölü -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-28T05:16 BBC derledi: 2027'de görülecek en iyi 20 yer -> ValueError: yanıt okunamadı",
   "2026-11-28T05:16 BBC derledi: 2027'de görülecek en iyi 20 yer -> ValueError: yanıt okunamadı",
@@ -13735,7 +13757,16 @@
   "2026-11-28T06:27 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
   "2026-11-28T06:27 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
   "2026-11-28T06:27 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
-  "2026-11-28T06:27 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı"
+  "2026-11-28T06:27 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Aydemir Güler: AKP'nin 24 yıllık iktidarının nakaratı -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Bahar Akpınar: 'Ben böyleyim' konforu -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Ümre Deniz Tuna ve Cemre Topal: Kadınlar hayatı birlikte kur -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Ümre Deniz Tuna ve Cemre Topal: Kadınlar hayatı birlikte kur -> ValueError: yanıt okunamadı",
+  "2026-11-28T06:30 Ümre Deniz Tuna ve Cemre Topal: Kadınlar hayatı birlikte kur -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
