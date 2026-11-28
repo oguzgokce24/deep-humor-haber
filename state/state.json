@@ -2,90 +2,6 @@
  "seen": [
   {
    "fp": [
-    "ana",
-    "bakan",
-    "fon",
-    "gürle",
-    "omurg",
-    "soruş",
-    "tamam"
-   ],
-   "tok": [
-    "adale",
-    "adli",
-    "adıml",
-    "akın",
-    "ana",
-    "atılı",
-    "aşama",
-    "basın",
-    "belir",
-    "bin",
-    "bunla",
-    "cevde",
-    "denk",
-    "diken",
-    "dile",
-    "dondu",
-    "düzen",
-    "dışın",
-    "fon",
-    "geldi",
-    "geliy",
-    "getir",
-    "göre",
-    "günce",
-    "gürle",
-    "hazin",
-    "iades",
-    "iddia",
-    "ilişk",
-    "ine",
-    "itiba",
-    "işbir",
-    "kaçır",
-    "kontr",
-    "külli",
-    "liral",
-    "maliy",
-    "mehme",
-    "milya",
-    "nde",
-    "olaca",
-    "omurg",
-    "para",
-    "payla",
-    "post",
-    "sağla",
-    "sine",
-    "tablo",
-    "tamam",
-    "the",
-    "topla",
-    "uygul",
-    "var",
-    "vurgu",
-    "yapıl",
-    "yardı",
-    "yargı",
-    "yarın",
-    "yatır",
-    "yazım",
-    "yetki",
-    "yurt",
-    "yüzde",
-    "yılma",
-    "çıkar",
-    "ödeme",
-    "önünd",
-    "önüne",
-    "şimşe",
-    "şöyle"
-   ],
-   "at": "2026-11-26T16:55:16.678200+00:00"
-  },
-  {
-   "fp": [
     "3",
     "dayı",
     "evli",
@@ -10766,20 +10682,60 @@
     "şokla"
    ],
    "at": "2026-11-28T04:48:49.458137+00:00"
+  },
+  {
+   "fp": [
+    "14",
+    "adala",
+    "açıkl",
+    "facia",
+    "göçme",
+    "kanar",
+    "ölü"
+   ],
+   "tok": [
+    "adala",
+    "adanı",
+    "adası",
+    "afrik",
+    "alabo",
+    "bağlı",
+    "biri",
+    "bölge",
+    "dan",
+    "deniz",
+    "düzen",
+    "facia",
+    "göç",
+    "göçme",
+    "güney",
+    "günle",
+    "hierr",
+    "ise",
+    "ispan",
+    "kanar",
+    "kilom",
+    "kulla",
+    "kurta",
+    "kuzey",
+    "nokta",
+    "nın",
+    "olay",
+    "olmas",
+    "rotan",
+    "rotas",
+    "sağ",
+    "sonuc",
+    "taşıy",
+    "tekne",
+    "uzana",
+    "yaşan",
+    "yoğun"
+   ],
+   "at": "2026-11-28T05:03:20.530893+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "0171df374e",
-   "post_id": "529346797199852_1480544450851929",
-   "title": "Venedik Bienali’nde ‘Ziyaretçi Aslanı’ ödülleri açıklandı: Kazananlar İsrail ve Rusya boykotuna katılmayanlar",
-   "at": "2026-11-26T00:09:13.595844+00:00",
-   "yazim": "claude",
-   "metin": "Venedik Bienali'nin halk oylamasıyla verilen 'Ziyaretçi Aslanları' ödülleri sahibini buldu. En İyi Katılımcı ödülü Nick Cave'e gitti.\n\n— Bienal, İsrail ve Rusya'yı yarışma dışı bırakma kararının ardından jürinin toplu istifasıyla karıştı. Yönetim tarihinde ilk kez halk oylamasına geçti.\n\n— 39 ulusal pavyon ve 100'ü aşkın sanatçı dayanışma için ödül yarışmasından çekildi. Türkiye Pavyonu da 8 Mayıs'ta kapısını kapatarak greve katıldı.\n\n— Nick Cave ve Hindistan Pavyonu ise boykota katılmadı. Sonuçlar, takvimdeki gecikme nedeniyle planlanan 24 Kasım yerine 25 Kasım'da açıklandı.",
-   "sources": [
-    "Karar: https://www.karar.com/kultur-sanat-haberleri/kazananlar-israil-ve-rusya-boykotuna-katilmayanlar-2086279"
-   ]
-  },
   {
    "id": "cf6bffcb65",
    "post_id": "529346797199852_1480555360850838",
@@ -13369,6 +13325,17 @@
    "sources": [
     "Karar: https://www.karar.com/dunya-haberleri/imfden-turkiyeye-para-politikasi-tavsiyesi-2086719"
    ]
+  },
+  {
+   "id": "c5d2271d5a",
+   "post_id": "529346797199852_1482926170613757",
+   "title": "Kanarya Adaları açıklarında göçmen faciası: 14 ölü",
+   "at": "2026-11-28T05:03:20.530893+00:00",
+   "yazim": "claude",
+   "metin": "İspanya'ya bağlı Kanarya Adaları'nın El Hierro Adası açıklarında bir göçmen teknesi alabora oldu, 14 kişi hayatını kaybetti.\n\n— Olay, Kuzey Afrika'dan Kanarya Adaları'na uzanan düzensiz göç rotasında, adanın 72 kilometre güneyinde yaşandı.\n\n— Denizde alabora olan tekneden 90 kişi sağ kurtarıldı.\n\n— Bölge, son günlerde bu rotanın en yoğun kullanılan noktalarından biri.",
+   "sources": [
+    "Karar: https://www.karar.com/dunya-haberleri/kanarya-adalari-aciklarinda-gocmen-faciasi-14-olu-2086720"
+   ]
   }
  ],
  "fails": {
@@ -13650,8 +13617,6 @@
  },
  "fail_log": [
   "2026-11-28T00:52 Buca Belediyesi işçileri: ‘Baştemsilci mahkemeyi kazandı ama -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:52 Buca Belediyesi işçileri: ‘Baştemsilci mahkemeyi kazandı ama -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:52 Buca Belediyesi işçileri: ‘Baştemsilci mahkemeyi kazandı ama -> ValueError: yanıt okunamadı",
   "2026-11-28T00:52 İnşaat işçilerinden ödenmeyen maaşları için eylem -> ValueError: yanıt okunamadı",
   "2026-11-28T00:52 İnşaat işçilerinden ödenmeyen maaşları için eylem -> ValueError: yanıt okunamadı",
   "2026-11-28T00:52 İnşaat işçilerinden ödenmeyen maaşları için eylem -> ValueError: yanıt okunamadı",
@@ -13688,12 +13653,14 @@
   "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
   "2026-11-28T03:12 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
   "2026-11-28T03:28 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
-  "2026-11-28T03:28 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı"
+  "2026-11-28T03:28 Koruyucu sağlığa değil şirketlere pay -> ValueError: yanıt okunamadı",
+  "2026-11-28T05:03 Kanarya Adaları açıklarında göçmen faciası: 14 ölü -> ValueError: yanıt okunamadı",
+  "2026-11-28T05:03 Kanarya Adaları açıklarında göçmen faciası: 14 ölü -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle"
  ],
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126456504987345197",
+   "since_id": "2126541579682824569",
    "started": true
   },
   "ajansmuhbir1923": {
