@@ -10671,6 +10671,32 @@
     "üzere"
    ],
    "at": "2026-11-27T23:58:19.702880+00:00"
+  },
+  {
+   "fp": [
+    "2027",
+    "geliy",
+    "istan",
+    "mıka"
+   ],
+   "tok": [
+    "alaca",
+    "aralı",
+    "arena",
+    "geliy",
+    "live",
+    "müziğ",
+    "mıka",
+    "only",
+    "organ",
+    "pop",
+    "sahne",
+    "sesle",
+    "volks",
+    "you",
+    "özgün"
+   ],
+   "at": "2026-11-28T00:14:22.749333+00:00"
   }
  ],
  "posted": [
@@ -13573,20 +13599,10 @@
   "1ea7f54c47": 1,
   "76ffb41cf3": 1,
   "b033e01222": 1,
-  "160ffeafd4": 2,
-  "6bd5e4106b": 1,
-  "b5743bf6a7": 1
+  "6bd5e4106b": 2,
+  "b5743bf6a7": 2
  },
  "fail_log": [
-  "2026-11-27T23:23 Time Out sıraladı: Alışveriş için dünyanın en iyi 20 şehri -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:23 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:23 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:23 Tarık Çelenk yazdı: Fon skandalı mahalleyi nasıl değiştirdi? -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:23 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:23 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:23 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:28 Time Out sıraladı: Alışveriş için dünyanın en iyi 20 şehri -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:28 Time Out sıraladı: Alışveriş için dünyanın en iyi 20 şehri -> ValueError: yanıt okunamadı",
   "2026-11-27T23:28 Time Out sıraladı: Alışveriş için dünyanın en iyi 20 şehri -> ValueError: yanıt okunamadı",
   "2026-11-27T23:28 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
   "2026-11-27T23:28 T.C. İSTANBUL ANADOLU 3. SULH HUKUK MAHKEMESİ -> ValueError: yanıt okunamadı",
@@ -13617,7 +13633,16 @@
   "2026-11-28T00:11 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
   "2026-11-28T00:11 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
   "2026-11-28T00:11 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:11 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı"
+  "2026-11-28T00:11 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 MIKA 2027'de İstanbul'a geliyor -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 MIKA 2027'de İstanbul'a geliyor -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 MIKA 2027'de İstanbul'a geliyor -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 Slowdive, 12 Haziran’da İstanbul’da! -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:14 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
