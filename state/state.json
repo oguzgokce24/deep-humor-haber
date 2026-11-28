@@ -2,78 +2,6 @@
  "seen": [
   {
    "fp": [
-    "başma",
-    "birli",
-    "deki",
-    "emri",
-    "facia",
-    "gemi",
-    "gemid",
-    "ikinc",
-    "kapta",
-    "kaçtı",
-    "kktc",
-    "konuş",
-    "tahli",
-    "verme"
-   ],
-   "tok": [
-    "ali",
-    "ağust",
-    "bağım",
-    "başma",
-    "birin",
-    "birli",
-    "davad",
-    "deki",
-    "dinle",
-    "direk",
-    "doğa",
-    "duruş",
-    "emri",
-    "facia",
-    "filo",
-    "gemi",
-    "gemid",
-    "gemin",
-    "girne",
-    "ifade",
-    "ikinc",
-    "ilişk",
-    "jet",
-    "kapta",
-    "kaçtı",
-    "kefil",
-    "kktc",
-    "konuş",
-    "kuzey",
-    "kıbrı",
-    "merve",
-    "müret",
-    "nde",
-    "nin",
-    "nur",
-    "olama",
-    "olay",
-    "savcı",
-    "savun",
-    "seras",
-    "tahli",
-    "temin",
-    "tokay",
-    "veren",
-    "verme",
-    "yargı",
-    "yaşan",
-    "çalış",
-    "öldüğ",
-    "özdül",
-    "şirke"
-   ],
-   "at": "2026-11-26T22:32:08.559596+00:00"
-  },
-  {
-   "fp": [
     "değil",
     "edile",
     "kabul",
@@ -11021,21 +10949,52 @@
     "çıkan"
    ],
    "at": "2026-11-28T10:28:53.915222+00:00"
+  },
+  {
+   "fp": [
+    "derse",
+    "desin",
+    "değil",
+    "diyen",
+    "diyor",
+    "etraf",
+    "evet",
+    "eşimi",
+    "haklı",
+    "hiç",
+    "kişil",
+    "melan",
+    "sağlı",
+    "söyle",
+    "trump",
+    "var"
+   ],
+   "tok": [
+    "derse",
+    "desin",
+    "değil",
+    "diyen",
+    "diyor",
+    "etraf",
+    "evet",
+    "eşimi",
+    "eşini",
+    "haklı",
+    "hiç",
+    "https",
+    "kişil",
+    "melan",
+    "porb3",
+    "sağlı",
+    "söyle",
+    "trump",
+    "var",
+    "çevre"
+   ],
+   "at": "2026-11-28T10:41:23.565298+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "e412750192",
-   "post_id": "529346797199852_1480822937490747",
-   "title": "Süper Lig’de 13’üncü hafta heyecanı yarın başlıyor: Gözler Beşiktaş-Galatasaray derbisinde",
-   "at": "2026-11-26T06:56:17.385976+00:00",
-   "yazim": "claude",
-   "metin": "Süper Lig'in 13. haftası başlıyor, gözler Beşiktaş-Galatasaray derbisinde.\n\nHaftanın açılış maçlarında Alanyaspor, Konyaspor'u; Çaykur Rizespor ise Kasımpaşa'yı konuk edecek. Bu iki karşılaşma saat 20.00'de başlayacak.\n\n— Beşiktaş, 30 Kasım Pazartesi Galatasaray'ı ağırlayacak.\n— Tüpraş Stadı'ndaki derbi saat 21.00'de başlayacak.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/spor/super-ligde-13-haftanin-perdesi-yarin-acilacak/4138190",
-    "Evrensel: https://www.evrensel.net/haber/6011253/super-lig-de-13-uncu-hafta-heyecani-yarin-basliyor-gozler-besiktas-galatasaray-derbisinde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "81a878c9fd",
    "post_id": "529346797199852_1480831457489895",
@@ -13657,6 +13616,17 @@
     "Karar: https://www.karar.com/dunya-haberleri/kamerunda-fil-saldirisi-isvicreli-turist-hayatini-kaybetti-yaralilar-var-2086774",
     "Karar: https://www.karar.com/dunya-haberleri/doga-yuruyusu-yapan-turistlere-fil-surusu-saldirdi-bir-olu-cok-sayida-2086764"
    ]
+  },
+  {
+   "id": "79bb728d6c",
+   "post_id": "529346797199852_1483162960590078",
+   "title": "Melania Trump: \"Eşimin etrafında her söylenene 'evet' diyen kişiler var. Ne derse desin \"haklısınız\" diyorlar. Bu hiç sağlıklı değil.\"",
+   "at": "2026-11-28T10:41:23.565298+00:00",
+   "yazim": "claude",
+   "metin": "Melania Trump, eşinin çevresi için:\n\n“Eşimin etrafında her söylenene ‘evet’ diyen kişiler var. Ne derse desin ‘haklısınız’ diyorlar.\n\nBu hiç sağlıklı değil.”",
+   "sources": [
+    "BPT (X): https://x.com/bpthaber/status/2126625131627765850"
+   ]
   }
  ],
  "fails": {
@@ -13989,7 +13959,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126619288664461689",
+   "since_id": "2126625131627765850",
    "started": true
   },
   "ajansmuhbir1923": {
