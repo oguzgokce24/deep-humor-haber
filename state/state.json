@@ -10659,20 +10659,88 @@
     "zorlu"
    ],
    "at": "2026-11-28T00:18:00.206418+00:00"
+  },
+  {
+   "fp": [
+    "12",
+    "hedef",
+    "işten",
+    "thy",
+    "toplu",
+    "yaşan",
+    "çıkar"
+   ],
+   "tok": [
+    "anlat",
+    "arası",
+    "ayırı",
+    "açtı",
+    "baskı",
+    "başla",
+    "ben",
+    "değiş",
+    "durum",
+    "ekip",
+    "etmey",
+    "eylül",
+    "fesih",
+    "gerek",
+    "geril",
+    "gönde",
+    "göre",
+    "hakla",
+    "harcı",
+    "hava",
+    "hedef",
+    "icra",
+    "isted",
+    "istey",
+    "işten",
+    "işçil",
+    "kabin",
+    "kabul",
+    "kayba",
+    "kurul",
+    "kârlı",
+    "kıdem",
+    "lik",
+    "mecbu",
+    "memur",
+    "nın",
+    "onam",
+    "otomo",
+    "perfo",
+    "posta",
+    "rağme",
+    "red",
+    "saat",
+    "sendi",
+    "thy",
+    "toplu",
+    "uygul",
+    "uçuş",
+    "vereb",
+    "veren",
+    "verme",
+    "yakla",
+    "yaptı",
+    "yaşan",
+    "yetki",
+    "yol",
+    "yolla",
+    "yükse",
+    "yüzde",
+    "çalış",
+    "çıkar",
+    "öyle",
+    "ücret",
+    "şirke",
+    "şöyle"
+   ],
+   "at": "2026-11-28T00:27:13.029437+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "f571c80e2c",
-   "post_id": "529346797199852_1480388250867549",
-   "title": "S&P’den Nvidia’ya kötü haber: Kredi notu düşürülebilir",
-   "at": "2026-11-25T19:58:44.759533+00:00",
-   "yazim": "claude",
-   "metin": "S&P Global Ratings, Nvidia'nın kredi notunu olası bir indirime karşı negatif izlemeye aldı.\n\nŞirketin \"AA\" olan notu şimdilik korunuyor, ama önümüzdeki dönemde not indirimi gündeme gelebilir.\n\n— S&P, Jensen Huang'ın CEO olarak yeniden şirketin başına dönmesinin kurumsal yönetimle ilgili soru işaretlerini gidermediğini belirtti.\n— Kuruluş, yönetim kurulunun üst düzey yöneticilere yönelik davranış kurallarını nasıl denetlediği konusundaki endişelerin sürdüğüne dikkat çekti.\n— Moody's de 18 Kasım'da Nvidia'nın kredi notu görünümünü pozitiften durağana çevirmişti. \"Aa1\" notu ise korunmuştu.",
-   "sources": [
-    "Karar: https://www.karar.com/ekonomi-haberleri/spden-nvidiaya-kotu-haber-kredi-notu-dusurulebilir-2086271"
-   ]
-  },
   {
    "id": "90f6882023",
    "post_id": "529346797199852_1480396730866701",
@@ -13288,6 +13356,17 @@
     "BirGün: https://www.birgun.net/haber/2027-yili-butcesi-plan-ve-butce-komisyonu-nda-kabul-edildi-arastirma-universitelerine-500-milyon-esnafa-33-milyar-tl-ek-odenek-ilave-edildi-748875",
     "Sözcü Son Dakika: https://www.sozcu.com.tr/son-dakika-2027-butcesi-meclis-komisyonundan-gecti-p384985"
    ]
+  },
+  {
+   "id": "c878963812",
+   "post_id": "529346797199852_1482738893965818",
+   "title": "THY’de ‘Hedef 12’ ile toplu işten çıkarma yaşanıyor",
+   "at": "2026-11-28T00:27:13.029437+00:00",
+   "yazim": "claude",
+   "metin": "Türk Hava Yolları'nın “Hedef 12” uygulaması, kabin memurlarının ücret ve haklarında yaklaşık yüzde 25'lik kayba yol açtı ve toplu işten çıkarmalar başladı.\n\nŞirket, yüzde 12 kârlılık hedefi için 22 Eylül'de işçilere e-posta gönderdi. Uçuş saat ücretleri, harcırah ve ekip aracı uygulamasında değişiklik isteyen şirket, işçilerden 29 Eylül'e kadar onam vermelerini istedi.\n\nBir kabin memuru durumu şöyle anlattı:\n\n“İlk olarak red verenler sonra kararını değiştirip onam verebiliyordu. Ben de öyle yaptım, mecburen.”\n\n— Kabin memurlarına göre değişiklikleri kabul etmeyenlerin işten çıkarılacağı baskısı kuruldu.\n— Onam verenler arasında da kıdemli ve yüksek ücretli çalışanlar performans gerekçesiyle işten çıkarıldı.\n— Yetkili sendika Hava-İş, Hedef 12 fesihlerini icra kurulu kararıyla yapılan fesihlerden ayırıyor.",
+   "sources": [
+    "Evrensel: https://www.evrensel.net/haber/6011512/thy-de-hedef-12-ile-toplu-isten-cikarma-yasaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
+   ]
   }
  ],
  "fails": {
@@ -13561,12 +13640,9 @@
   "1ea7f54c47": 1,
   "76ffb41cf3": 1,
   "b033e01222": 1,
-  "c40a02b699": 1
+  "c40a02b699": 2
  },
  "fail_log": [
-  "2026-11-27T23:41 Kuyumculuk sektörüne ilgi artıyor: 2026’da kuyumcu sayısı %1 -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:54 Kuyumculuk sektörüne ilgi artıyor: 2026’da kuyumcu sayısı %1 -> ValueError: yanıt okunamadı",
-  "2026-11-27T23:54 Kuyumculuk sektörüne ilgi artıyor: 2026’da kuyumcu sayısı %1 -> ValueError: yanıt okunamadı",
   "2026-11-27T23:54 Kuyumculuk sektörüne ilgi artıyor: 2026’da kuyumcu sayısı %1 -> ValueError: yanıt okunamadı",
   "2026-11-27T23:54 Özgür Özel’den Bilal Erdoğan kulisi: “Ben bunu babama anlatı -> ValueError: yanıt okunamadı",
   "2026-11-27T23:54 Özgür Özel’den Bilal Erdoğan kulisi: “Ben bunu babama anlatı -> ValueError: yanıt okunamadı",
@@ -13603,7 +13679,10 @@
   "2026-11-28T00:18 The Stranglers 24 Nisan'da İstanbul'da -> ValueError: yanıt okunamadı",
   "2026-11-28T00:18 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı",
   "2026-11-28T00:18 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:18 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı"
+  "2026-11-28T00:18 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:27 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:27 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı",
+  "2026-11-28T00:27 Evdeki iki malzemeyle cilt bariyerini yatıştıran maske: Yula -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
