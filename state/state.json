@@ -2,87 +2,6 @@
  "seen": [
   {
    "fp": [
-    "acıma",
-    "anne",
-    "attı",
-    "bebeğ",
-    "cezas",
-    "edilm",
-    "hapis",
-    "iddia",
-    "müebb",
-    "çöpe"
-   ],
-   "tok": [
-    "acıma",
-    "akrab",
-    "aldığ",
-    "anlaş",
-    "anne",
-    "annes",
-    "arama",
-    "attı",
-    "attığ",
-    "avuka",
-    "başvu",
-    "bebeğ",
-    "beraa",
-    "bildi",
-    "cezae",
-    "cezal",
-    "cezas",
-    "doğdu",
-    "doğum",
-    "doğur",
-    "durum",
-    "edilm",
-    "ekim",
-    "etkis",
-    "evind",
-    "gizle",
-    "hamil",
-    "hapis",
-    "hasta",
-    "iddia",
-    "ifade",
-    "ilaçl",
-    "ilkad",
-    "ilçes",
-    "ise",
-    "isted",
-    "kadın",
-    "kalma",
-    "kaste",
-    "kendi",
-    "konte",
-    "müebb",
-    "samsu",
-    "sanığ",
-    "savun",
-    "suçun",
-    "söyle",
-    "tahli",
-    "ulaşı",
-    "verdi",
-    "veril",
-    "yakın",
-    "yapan",
-    "yaptı",
-    "yargı",
-    "yaşın",
-    "yenid",
-    "yeri",
-    "çarpt",
-    "çocuk",
-    "çocuğ",
-    "çöp",
-    "çöpe",
-    "öldür"
-   ],
-   "at": "2026-11-26T18:48:29.521245+00:00"
-  },
-  {
-   "fp": [
     "dan",
     "katıl",
     "komis",
@@ -10830,23 +10749,44 @@
     "şerif"
    ],
    "at": "2026-11-28T06:34:27.370541+00:00"
+  },
+  {
+   "fp": [
+    "27",
+    "5",
+    "ilde",
+    "opera",
+    "tefec",
+    "tutuk"
+   ],
+   "tok": [
+    "adli",
+    "adliy",
+    "aldı",
+    "alına",
+    "bursa",
+    "bırak",
+    "diyar",
+    "düzen",
+    "edile",
+    "kasım",
+    "kontr",
+    "manis",
+    "muş",
+    "senet",
+    "serbe",
+    "sevk",
+    "tefec",
+    "yağma",
+    "yönel",
+    "zaman",
+    "çanak",
+    "şartı"
+   ],
+   "at": "2026-11-28T06:50:46.250897+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "933ee587b4",
-   "post_id": "529346797199852_1480626820843692",
-   "title": "İtalya'da Katolik Kilisesinde çocuk istismarı: 20 yılda 880 vaka!",
-   "at": "2026-11-26T02:09:58.911617+00:00",
-   "yazim": "claude",
-   "metin": "İtalya'da Katolik Kilisesi bünyesinde 2001-2021 yılları arasında 880 istismar vakası bildirildi.\n\n— İtalya Piskoposlar Konferansı'nın hazırlattığı rapora göre 385 çocuğun mağdur olduğu belirlendi.\n— Suçlanan 123 kişi yargıya bildirildi, 57 rahip hakkında kesinleşmiş hapis cezası verildi.\n— İstismar Mağdurları Ağı, raporda mağdurlar için tazminat ve adalete ilişkin düzenlemelerin yer almadığını eleştirdi.",
-   "sources": [
-    "Milliyet: https://www.milliyet.com.tr/dunya/italya-katolik-kilisesi-20-yilda-57-rahip-cinsel-istismardan-hapis-cezasi-aldi-7708102",
-    "Habertürk: https://www.haberturk.com/dunya/italya-katolik-kilisesi-20-yilda-57-rahip-cinsel-istismardan-hapis-cezasi-aldi-3930179",
-    "BirGün: https://www.birgun.net/haber/italya-da-katolik-kilisesinde-cocuk-istismari-20-yilda-880-vaka-748525",
-    "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/italya-katolik-kilisesi-20-yilda-57-rahip-cinsel-istismardan-hapis-cezasi-aldi-7708102"
-   ]
-  },
   {
    "id": "32740e5d87",
    "post_id": "529346797199852_1480636847509356",
@@ -13436,6 +13376,18 @@
    "sources": [
     "Sözcü: https://www.sozcu.com.tr/fatihte-uyusturucu-ve-sahte-belge-operasyonlari-2-gozalti-p385031"
    ]
+  },
+  {
+   "id": "c9dffdfa41",
+   "post_id": "529346797199852_1483000367273004",
+   "title": "5 ilde eş zamanlı tefecilik operasyonu: 27 kişi tutuklandı",
+   "at": "2026-11-28T06:50:46.250897+00:00",
+   "yazim": "claude",
+   "metin": "Muş, Bursa, Çanakkale, Diyarbakır ve Manisa'da tefecilik ve senet yağmasına yönelik operasyonda 27 şüpheli tutuklandı.\n\n— Polis, 23 Kasım'da beş ilde eş zamanlı operasyon düzenledi ve 35 şüpheliyi gözaltına aldı.\n\n— Adliyeye sevk edilen şüphelilerden 8'i adli kontrol şartıyla serbest bırakıldı.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/5-ilde-es-zamanli-tefecilik-operasyonu-27-kisi-tutuklandi-2560113",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/mus-merkezli-tefecilik-operasyonunda-27-tutuklama-mus-haberleri-4877343"
+   ]
   }
  ],
  "fails": {
@@ -13766,7 +13718,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126564361871200723",
+   "since_id": "2126568672298664130",
    "started": true
   },
   "ajansmuhbir1923": {
