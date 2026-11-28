@@ -2,63 +2,6 @@
  "seen": [
   {
    "fp": [
-    "avrup",
-    "bakan",
-    "dışiş",
-    "karar",
-    "libya",
-    "ndan",
-    "nden",
-    "nun",
-    "parla",
-    "tepki"
-   ],
-   "tok": [
-    "alanl",
-    "aldığ",
-    "arası",
-    "avrup",
-    "belir",
-    "boşun",
-    "bunun",
-    "deniz",
-    "dışiş",
-    "genel",
-    "göste",
-    "hatır",
-    "hiçe",
-    "hukuk",
-    "iddia",
-    "ilişk",
-    "içere",
-    "kabul",
-    "konus",
-    "kurul",
-    "libya",
-    "mesne",
-    "muhtı",
-    "mutab",
-    "ndan",
-    "nden",
-    "nin",
-    "nun",
-    "olmad",
-    "parla",
-    "redde",
-    "sayar",
-    "sert",
-    "sınır",
-    "taraf",
-    "tarih",
-    "tepki",
-    "ulusl",
-    "yetki",
-    "çaba"
-   ],
-   "at": "2026-11-26T17:20:26.396964+00:00"
-  },
-  {
-   "fp": [
     "açan",
     "bayra",
     "beşik",
@@ -10717,20 +10660,84 @@
     "öne"
    ],
    "at": "2026-11-28T05:16:04.469691+00:00"
+  },
+  {
+   "fp": [
+    "28",
+    "durum",
+    "hava",
+    "istan",
+    "kasım",
+    "nasıl",
+    "olaca",
+    "yağmu"
+   ],
+   "tok": [
+    "başla",
+    "bekle",
+    "belir",
+    "biçim",
+    "bugün",
+    "buzla",
+    "derec",
+    "dikka",
+    "don",
+    "durum",
+    "dönüy",
+    "dönüş",
+    "düşec",
+    "esece",
+    "fırtı",
+    "geliy",
+    "genel",
+    "günün",
+    "hafta",
+    "hava",
+    "haval",
+    "hisse",
+    "hızla",
+    "hızı",
+    "itiba",
+    "karla",
+    "karış",
+    "karşı",
+    "kasım",
+    "kent",
+    "kesim",
+    "kilom",
+    "kuzey",
+    "meteo",
+    "nasıl",
+    "olaca",
+    "olayl",
+    "olmay",
+    "pazar",
+    "rapor",
+    "rüzga",
+    "saatt",
+    "sert",
+    "sonu",
+    "soğuy",
+    "sıcak",
+    "tersi",
+    "uyard",
+    "uyarı",
+    "valil",
+    "vatan",
+    "yarın",
+    "yağac",
+    "yağmu",
+    "yağış",
+    "yer",
+    "yükse",
+    "çağır",
+    "çıkac",
+    "özell"
+   ],
+   "at": "2026-11-28T05:28:36.589055+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "19c90db4ab",
-   "post_id": "529346797199852_1480562467516794",
-   "title": "Bakan Uraloğlu tarih verdi: Milyonlarca araç sahibini çileden çıkaran uygulama tarihe karışıyor",
-   "at": "2026-11-26T00:40:38.487145+00:00",
-   "yazim": "claude",
-   "metin": "Araç muayenede kredi kartıyla ödemeye eklenen hizmet bedeli kalkıyor.\n\n— Bakan Abdulkadir Uraloğlu, bu kararı TBMM Plan ve Bütçe Komisyonu'ndaki bütçe sunumunda açıkladı.\n— Mevcut işletme sözleşmesi 15 Ağustos 2027'de sona erecek, yeni sistem Ağustos 2027'de devreye girecek.\n— Yeni ihale şartnamesine, kart komisyonunun sürücülere yansıtılmaması şartı açıkça eklendi.\n— Yeni dönemde istasyonlarda yapay zekâ destekli kontroller kullanılacak ve bekleme sürelerinin kısalması hedefleniyor.\n\nSürücüler uzun süredir bu ek ücrete tepki gösteriyordu.",
-   "sources": [
-    "Karar: https://www.karar.com/guncel-haberler/bakan-uraloglu-tarih-verdi-milyonlarca-arac-sahibini-cileden-cikaran-2086283"
-   ]
-  },
   {
    "id": "1e5b9e6fb3",
    "post_id": "529346797199852_1480571320849242",
@@ -13320,6 +13327,19 @@
    "sources": [
     "Evrensel: https://www.evrensel.net/haber/6011544/tayvan-cin-e-ait-askeri-hava-araclari-ada-cevresinde-33-ucus-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
    ]
+  },
+  {
+   "id": "25326af907",
+   "post_id": "529346797199852_1482944083945299",
+   "title": "Yarın (29 Kasım) İstanbul'a yağmur yağacak mı, hafta sonu hava nasıl olacak?",
+   "at": "2026-11-28T05:28:36.589055+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul Valiliği uyardı: Pazar gününden itibaren hava sert biçimde soğuyacak, yağmur ve fırtına bekleniyor.\n\n— Yağışlar kent genelinde yağmur olarak başlayacak, yüksek kesimlerde karla karışık yağmura dönüşecek.\n— Kuzeyden esecek rüzgarın hızı saatte 40-60 kilometreye, yer yer 70 kilometreye çıkacak.\n— Pazartesi gününden itibaren sıcaklıklar hissedilir derecede düşecek.\n— Valilik, özellikle yüksek kesimlerde buzlanma ve don olaylarına karşı vatandaşları dikkatli olmaya çağırdı.",
+   "sources": [
+    "CNN Türk: https://www.cnnturk.com/turkiye/hava-durumu-uyarisi-28-kasim-istanbulda-havalar-nasil-olacak-karla-karisik-yagmur-geliyor-3498989",
+    "Sözcü: https://www.sozcu.com.tr/yarin-29-kasim-istanbul-a-yagmur-yagacak-hafta-sonu-hava-nasil-olacak-p385017",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-28-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2560090"
+   ]
   }
  ],
  "fails": {
@@ -13646,7 +13666,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126545369244831837",
+   "since_id": "2126547633321779410",
    "started": true
   },
   "ajansmuhbir1923": {
