@@ -2,79 +2,6 @@
  "seen": [
   {
    "fp": [
-    "depar",
-    "suçla",
-    "tecav",
-    "yargı"
-   ],
-   "tok": [
-    "aktri",
-    "aktör",
-    "anore",
-    "anı",
-    "arnou",
-    "avuka",
-    "ağust",
-    "bekle",
-    "bekli",
-    "buna",
-    "carin",
-    "charl",
-    "cinse",
-    "davas",
-    "davay",
-    "dayal",
-    "deki",
-    "depar",
-    "diebo",
-    "durri",
-    "düşür",
-    "ediyo",
-    "etmiy",
-    "ettiğ",
-    "figar",
-    "frans",
-    "gelen",
-    "gerar",
-    "günde",
-    "hakim",
-    "hazır",
-    "iddia",
-    "ikinc",
-    "ilişk",
-    "istis",
-    "kabul",
-    "kapsı",
-    "karşı",
-    "kez",
-    "mektu",
-    "mücad",
-    "müvek",
-    "olayı",
-    "paris",
-    "rızay",
-    "sanık",
-    "savun",
-    "sayıd",
-    "suçla",
-    "süred",
-    "sırad",
-    "tamam",
-    "tecav",
-    "uzun",
-    "yargı",
-    "yayım",
-    "yaşan",
-    "yaşın",
-    "yılla",
-    "zaman",
-    "çıkac",
-    "ünlü"
-   ],
-   "at": "2026-11-26T19:33:21.975259+00:00"
-  },
-  {
-   "fp": [
     "banka",
     "hamle",
     "merke",
@@ -10789,20 +10716,80 @@
     "öğren"
    ],
    "at": "2026-11-28T07:28:16.661628+00:00"
+  },
+  {
+   "fp": [
+    "11",
+    "alanl",
+    "bazı",
+    "dışın",
+    "ilde",
+    "ildek",
+    "orman",
+    "sınır",
+    "çıkar"
+   ],
+   "tok": [
+    "adana",
+    "afyon",
+    "ait",
+    "alan",
+    "alanl",
+    "artvi",
+    "aynı",
+    "bazı",
+    "bin",
+    "bingö",
+    "bölüm",
+    "büyük",
+    "dahil",
+    "deki",
+    "deniz",
+    "devle",
+    "dışın",
+    "edile",
+    "eskiş",
+    "gazet",
+    "genel",
+    "girdi",
+    "gözer",
+    "gün",
+    "hatay",
+    "hazin",
+    "hekta",
+    "ikinc",
+    "ildek",
+    "karam",
+    "kare",
+    "kasım",
+    "katı",
+    "mersi",
+    "metre",
+    "müdür",
+    "oluşt",
+    "orman",
+    "pay",
+    "resmi",
+    "resmî",
+    "sayıl",
+    "sinop",
+    "sınır",
+    "sırad",
+    "tahsi",
+    "tasar",
+    "taşın",
+    "topla",
+    "yakla",
+    "yalnı",
+    "yayım",
+    "yürür",
+    "çıkar",
+    "öneml"
+   ],
+   "at": "2026-11-28T07:40:50.149836+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ab40c43bfe",
-   "post_id": "529346797199852_1480670677505973",
-   "title": "Kamu ihalelerinde yeni düzenleme: Şirket seçiminde kriterler genişliyor",
-   "at": "2026-11-26T03:11:41.486371+00:00",
-   "yazim": "claude",
-   "metin": "Türkiye'de kamu ihalelerinde şirket seçerken yalnızca teklif fiyatına bakılmayacak, değerlendirme kriterleri genişliyor.\n\n— Yönetmelik taslağına göre ekipman sahipliği ve çevresel koşullar da değerlendirmeye girecek.\n— Şirketlerin geçmiş sözleşmeleri ile erken teslim taahhüdü de kriterler arasında yer alıyor.",
-   "sources": [
-    "BirGün: https://www.birgun.net/haber/kamu-ihalelerinde-yeni-duzenleme-sirket-seciminde-kriterler-genisliyor-748523"
-   ]
-  },
   {
    "id": "b6d39371cd",
    "post_id": "529346797199852_1480678807505160",
@@ -13401,6 +13388,21 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/usak-ta-feci-kaza-astsubay-surucu-ve-ailesinden-2-kisi-hayatini-kaybetti-2560117",
     "Karar: https://www.karar.com/sehir-haberleri/usakta-otomobil-bahce-duvarina-carpti-3-olu-2-yarali-2086742"
    ]
+  },
+  {
+   "id": "0c5bfaab75",
+   "post_id": "529346797199852_1483033187269722",
+   "title": "İstanbul dahil: 11 ilde bazı alanlar orman sınırları dışına çıkarıldı",
+   "at": "2026-11-28T07:40:50.149836+00:00",
+   "yazim": "claude",
+   "metin": "Cumhurbaşkanı kararıyla 11 ilde yaklaşık 87 hektarlık alan orman sınırları dışına çıkarıldı.\n\nKarar, 28 Kasım'da Resmî Gazete'de yayımlanarak aynı gün yürürlüğe girdi.\n\n— Karar 12056 sayılı Cumhurbaşkanı Kararı olarak yayımlandı.\n— Orman sınırı dışına çıkarılan alanlar Adana, Afyonkarahisar, Artvin, Bingöl, Denizli, Eskişehir, Hatay, İstanbul, Karaman, Mersin ve Sinop'ta.\n— En büyük pay Bingöl'de; yalnızca Bingöl Merkez Gözer'deki 402.760,69 metrekarelik alan toplamın önemli bölümünü oluşturuyor. İstanbul ikinci sırada.\n— Çıkarılan alanların en az iki katı büyüklüğünde Hazineye ait ve devletin tasarrufundaki taşınmazlar Orman Genel Müdürlüğüne tahsis edilecek.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/11-ildeki-bazi-alanlar-orman-sinirlari-disina-cikarildi-964721.html",
+    "Sözcü: https://www.sozcu.com.tr/11-ildeki-bazi-alanlar-orman-sinirlari-disina-cikarildi-p385043",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/siyaset/resmi-gazete-de-yayimlandi-11-ilde-871-bin-660-metre-kare-alan-orman-siniri-disina-cikarildi-2560099",
+    "BirGün: https://www.birgun.net/haber/istanbul-dahil-11-ilde-bazi-alanlar-orman-sinirlari-disina-cikarildi-748919",
+    "Karar: https://www.karar.com/guncel-haberler/11-ilde-bazi-alanlar-orman-sinirlari-disina-cikarildi-2086737"
+   ]
   }
  ],
  "fails": {
@@ -13731,7 +13733,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126572949217947866",
+   "since_id": "2126581297850007669",
    "started": true
   },
   "ajansmuhbir1923": {
