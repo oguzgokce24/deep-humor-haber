@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "gelip",
-    "motos",
-    "yaral",
-    "çocuk"
-   ],
-   "tok": [
-    "akşam",
-    "ambul",
-    "ateş",
-    "açtı",
-    "açtıl",
-    "bağcı",
-    "boş",
-    "buldu",
-    "bulun",
-    "gelen",
-    "gelip",
-    "hasta",
-    "ikisi",
-    "ilçes",
-    "kaldı",
-    "kaçan",
-    "kovan",
-    "kurşu",
-    "mahal",
-    "marke",
-    "motos",
-    "nde",
-    "olay",
-    "plaka",
-    "saat",
-    "silah",
-    "sürüy",
-    "sıral",
-    "tehli",
-    "yağdı",
-    "yaşan",
-    "yaşın",
-    "yerin",
-    "yüzyı",
-    "çalış",
-    "çevre",
-    "çocuk",
-    "önünd",
-    "önüne",
-    "öğren"
-   ],
-   "at": "2026-11-26T22:09:37.736897+00:00"
-  },
-  {
-   "fp": [
     "başma",
     "birli",
     "deki",
@@ -10862,25 +10810,70 @@
     "şidde"
    ],
    "at": "2026-11-28T09:58:31.757506+00:00"
+  },
+  {
+   "fp": [
+    "4",
+    "abd",
+    "den",
+    "gözal",
+    "hedef",
+    "iddia",
+    "saldı",
+    "siber",
+    "türki"
+   ],
+   "tok": [
+    "abd",
+    "altya",
+    "alınd",
+    "arama",
+    "ağlar",
+    "bazı",
+    "başla",
+    "belir",
+    "biliş",
+    "corp",
+    "den",
+    "dijit",
+    "donal",
+    "düzen",
+    "emniy",
+    "evler",
+    "götür",
+    "hedef",
+    "hesap",
+    "iddia",
+    "kabin",
+    "kongr",
+    "konul",
+    "kurdu",
+    "mater",
+    "medya",
+    "mille",
+    "platf",
+    "siber",
+    "siste",
+    "siyas",
+    "sosya",
+    "sunuc",
+    "sürül",
+    "tbmm",
+    "trump",
+    "uzana",
+    "yapıl",
+    "yönel",
+    "öne",
+    "üyele",
+    "üzeri",
+    "şikay",
+    "şirke",
+    "şüp"
+   ],
+   "at": "2026-11-28T10:11:13.412923+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "967a740030",
-   "post_id": "529346797199852_1480806654159042",
-   "title": "Şahap Kavcıoğlu hakkında soruşturma izni verildi",
-   "at": "2026-11-26T06:31:27.449525+00:00",
-   "yazim": "claude",
-   "metin": "Hazine ve Maliye Bakanı Mehmet Şimşek, eski BDDK Başkanı Şahap Kavcıoğlu hakkında soruşturma izni verdi.\n\nFon soruşturmasında adı geçen Kavcıoğlu'na daha önce yurt dışına çıkış yasağı getirilmişti.\n\n— İstanbul Cumhuriyet Başsavcılığı izin için 18 Kasım'da Bakanlığa yazı göndermişti.\n— Bakanlık Teftiş Başkanlığı'nın yaptığı ön incelemenin ardından izin verildi.\n— Kavcıoğlu'nun fon krizine adı karışan kişi ve kurumlardan rüşvet aldığı iddia ediliyor.",
-   "sources": [
-    "Anadolu Ajansı: https://www.aa.com.tr/tr/ekonomi/bakan-simsek-eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-verdi/4138180",
-    "TRT Haber: https://www.trthaber.com/haber/gundem/bakan-simsek-eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-verdi-964495.html",
-    "DW Türkçe: https://www.dw.com/tr/şahap-kavcıoğlu-hakkında-soruşturma-izni-verildi/a-80056438?maca=tur-rss-tur-all-1495-xml-mrss",
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/son-dakika-bakan-simsek-eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-verdi-43391385",
-    "Milliyet: https://www.milliyet.com.tr/gundem/son-dakika-eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-verildi-7708191",
-    "CNN Türk: https://www.cnnturk.com/ekonomi/son-dakika-bakan-simsek-eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-verdi-3498342"
-   ]
-  },
   {
    "id": "2622bd3140",
    "post_id": "529346797199852_1480815087491532",
@@ -13501,6 +13494,22 @@
     "Milliyet Son Dakika: https://www.milliyet.com.tr/dunya/son-dakika-afganistanda-okulda-siddetli-patlama-can-kaybi-ve-yaralilar-var-7709800",
     "Hürriyet Anasayfa: https://www.hurriyet.com.tr/dunya/afganistanda-patlama-6-ogrenci-hayatini-kaybetti-43394163"
    ]
+  },
+  {
+   "id": "993a352282",
+   "post_id": "529346797199852_1483141223925585",
+   "title": "Trump’ın kabinesinden TBMM’ye uzanan siber saldırı: 4 kişi İstanbul'da yakalandı",
+   "at": "2026-11-28T10:11:13.412923+00:00",
+   "yazim": "claude",
+   "metin": "İstanbul'da, sosyal medya platformu X'e Türkiye üzerinden siber saldırı düzenledikleri iddiasıyla 4 kişi gözaltına alındı.\n\n— X Corp.'un şikayeti üzerine başlatılan soruşturmada, bazı şüphelilerin Türkiye'de kurdukları bilişim sistemiyle X'in altyapısına ve sunucularına saldırdığı belirlendi.\n\n— Şüphelilerin ABD'li siyasetçilerin, şirketlerin, haber ağlarının, Başkan Donald Trump'ın kabine üyelerinin ve bir Türk milletvekilinin hesaplarını ele geçirdiği öne sürülüyor.\n\n— Şüphelilerin evlerinde arama yapıldı, dijital materyallere el konuldu ve dört kişi emniyete götürüldü.",
+   "sources": [
+    "TRT Haber: https://www.trthaber.com/haber/turkiye/x-corpa-yonelik-siber-saldiri-iddiasiyla-4-supheli-gozaltina-alindi-964719.html",
+    "Hürriyet: https://www.hurriyet.com.tr/gundem/turkiyeden-abdye-uzanan-siber-saldiri-iddiasi-trumpin-kabinesi-ve-abd-kongresi-hedefteydi-4-gozalti-43393929",
+    "Habertürk: https://www.haberturk.com/ekonomi/trump-in-kabinesi-ve-tbmm-den-bir-vekilin-x-hesaplarina-siber-saldiri-iddiasi-4-supheliye-gozalti-3930768",
+    "Sözcü: https://www.sozcu.com.tr/trump-in-kabinesinden-tbmm-ye-uzanan-siber-saldiri-4-kisi-istanbul-da-yakalandi-p385046",
+    "Diken: https://www.diken.com.tr/xe-turkiyeden-siber-saldiri-abdli-siyasiler-ve-turk-milletvekili-hedeflenmis/?utm_source=rss&utm_medium=rss&utm_campaign=xe-turkiyeden-siber-saldiri-abdli-siyasiler-ve-turk-milletvekili-hedeflenmis",
+    "Serbestiyet: https://serbestiyet.com/haberler/bilim-teknoloji/xe-turkiyeden-siber-saldiri-abdli-siyasiler-ve-turk-milletvekili-hedeflenmis-254606/"
+   ]
   }
  ],
  "fails": {
@@ -13832,7 +13841,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126616489784689051",
+   "since_id": "2126619288664461689",
    "started": true
   },
   "ajansmuhbir1923": {
