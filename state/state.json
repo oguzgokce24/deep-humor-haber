@@ -2,58 +2,6 @@
  "seen": [
   {
    "fp": [
-    "değiş",
-    "konut",
-    "kural",
-    "otopa",
-    "yangı",
-    "yerle",
-    "yönet"
-   ],
-   "tok": [
-    "alanl",
-    "alışv",
-    "bazı",
-    "belir",
-    "bina",
-    "binal",
-    "birço",
-    "denet",
-    "değiş",
-    "düzen",
-    "elekt",
-    "gazet",
-    "geliy",
-    "girec",
-    "hasta",
-    "ilişk",
-    "kapsa",
-    "konut",
-    "kural",
-    "mevcu",
-    "ocak",
-    "okull",
-    "otomo",
-    "otopa",
-    "resmî",
-    "siste",
-    "söndü",
-    "tahli",
-    "yangı",
-    "yapıy",
-    "yayım",
-    "yerle",
-    "yolla",
-    "yönet",
-    "yüküm",
-    "yürür",
-    "öngör",
-    "şarj"
-   ],
-   "at": "2026-11-27T01:57:50.789183+00:00"
-  },
-  {
-   "fp": [
     "10",
     "ayda",
     "boşal",
@@ -11045,22 +10993,86 @@
     "önces"
    ],
    "at": "2026-11-28T13:54:22.874575+00:00"
+  },
+  {
+   "fp": [
+    "63",
+    "arttı",
+    "azald",
+    "beraa",
+    "daval",
+    "gazet",
+    "mahkû",
+    "mlsa",
+    "rapor",
+    "yargı",
+    "yüzde",
+    "çarpı",
+    "ünde"
+   ],
+   "tok": [
+    "adli",
+    "alene",
+    "arttı",
+    "azald",
+    "açıld",
+    "barış",
+    "basın",
+    "beraa",
+    "bilgi",
+    "davad",
+    "daval",
+    "davan",
+    "den",
+    "esas",
+    "gazet",
+    "geril",
+    "göre",
+    "halkı",
+    "ifade",
+    "ise",
+    "izlem",
+    "izlen",
+    "içind",
+    "kapsa",
+    "kulla",
+    "mahkû",
+    "mlsa",
+    "nın",
+    "oranı",
+    "payı",
+    "pehli",
+    "rapor",
+    "sanık",
+    "sayı",
+    "sinde",
+    "suçla",
+    "sık",
+    "terko",
+    "topla",
+    "veril",
+    "yanıl",
+    "yardı",
+    "yargı",
+    "yayma",
+    "yazar",
+    "yönel",
+    "yükse",
+    "yüzde",
+    "yılda",
+    "yılı",
+    "çarpı",
+    "çıktı",
+    "öncek",
+    "örgüt",
+    "özgür",
+    "ünde",
+    "üyeli"
+   ],
+   "at": "2026-11-28T14:07:01.396115+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ac91fbb943",
-   "post_id": "529346797199852_1481001794139528",
-   "title": "Kongo'nun doğusunda Ebola vakaları 12 bini aştı: çatışmalar salgınla mücadeleyi engelliyor",
-   "at": "2026-11-26T11:00:44.990947+00:00",
-   "yazim": "claude",
-   "metin": "Kongo Demokratik Cumhuriyeti'nde Ebola salgınında doğrulanmış vaka sayısı 12 bini, can kaybı 5 bin 904'ü aştı.\n\nSalgın mayıs ayında yalnızca Ituri eyaletinde görülmüştü. Bugün virüs 8 eyalete yayılmış durumda.\n\n— Ordu ile CRP isyancıları arasındaki çatışmalar, ekiplerin bazı bölgelere ulaşmasını engelliyor.\n— Bu, tarihteki en hızlı büyüyen Ebola salgını olarak nitelendiriliyor.\n— Salgına yol açan Bundibugyo varyantına karşı onaylanmış bir aşı ya da tedavi bulunmuyor.\n— Salgın, 2014-2016 Batı Afrika salgınında görülen 11 binden fazla can kaybını geçmeye yaklaşıyor.",
-   "sources": [
-    "Euronews: https://tr.euronews.com/2026/11/26/kongonun-dogusunda-ebola-vakalari-12-bini-asti-catismalar-salginla-mucadeleyi-engelliyor",
-    "Evrensel: https://www.evrensel.net/haber/6011295/kongo-demokratik-cumhuriyeti-nde-ebola-salgini-vaka-sayisi-12-bini-asti-can-kaybi-5-bin-904-e-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "Karar: https://www.karar.com/dunya-haberleri/kdcde-ebola-vakalari-12-bini-can-kayiplari-5-bin-900u-asti-2086385"
-   ]
-  },
   {
    "id": "55356bc176",
    "post_id": "529346797199852_1481012424138465",
@@ -13662,6 +13674,17 @@
     "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/kritik-mac-oncesi-fenerbahce-de-iki-isim-icin-sari-alarm-2560170",
     "Karar: https://www.karar.com/spor-haberleri/fenerbahcede-erzurumspor-fk-maci-oncesi-iki-kritik-isim-ceza-sinirinda-2086831"
    ]
+  },
+  {
+   "id": "7e33065563",
+   "post_id": "529346797199852_1483340850572289",
+   "title": "Beraat azaldı, mahkûmiyet arttı... Çarpıcı MLSA raporu: Davaların yüzde 63'ünde gazeteciler yargılandı!",
+   "at": "2026-11-28T14:07:01.396115+00:00",
+   "yazim": "claude",
+   "metin": "Basın özgürlüğü davalarında beraat oranı yüzde 57'den yüzde 46'ya geriledi, gazetecilerin sanık olduğu davaların payı ise yüzde 63'e çıktı.\n\n— MLSA'nın 2025-2026 adli yılı Dava İzleme Raporu'na göre 17 ilde 201 dava izlendi ve bu davalarda 1.313 kişi yargılandı.\n— Esas hakkında karar verilen 82 davanın yüzde 37'sinde tüm sanıklar mahkûm edildi.\n— Gazetecilere en sık \"örgüt üyeliği\" ve \"örgüte yardım\" suçlaması yöneldi, bu suçlama 36 davada kullanıldı.\n— \"Halkı yanıltıcı bilgiyi alenen yayma\" suçlaması 16 davada açıldı; önceki adli yılda bu sayı 13'tü.",
+   "sources": [
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/beraat-azaldi-mahkumiyet-artti-carpici-mlsa-raporu-davalarin-yuzde-63-unde-gazeteciler-yargilandi-2560165"
+   ]
   }
  ],
  "fails": {
@@ -13994,7 +14017,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126675140138455532",
+   "since_id": "2126678938281816187",
    "started": true
   },
   "ajansmuhbir1923": {
