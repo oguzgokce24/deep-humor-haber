@@ -2,75 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "adalı",
-    "serda",
-    "yaral"
-   ],
-   "tok": [
-    "adalı",
-    "aldı",
-    "almas",
-    "alınd",
-    "araya",
-    "ardın",
-    "arkad",
-    "batum",
-    "beer",
-    "beşik",
-    "bilgi",
-    "cnn",
-    "daki",
-    "den",
-    "değil",
-    "dönec",
-    "erdoğ",
-    "ertes",
-    "fazla",
-    "galat",
-    "göre",
-    "görüp",
-    "gün",
-    "gürci",
-    "güç",
-    "hapoe",
-    "hasta",
-    "hoş",
-    "kafil",
-    "kara",
-    "konuş",
-    "kulla",
-    "kulüb",
-    "maçı",
-    "maçın",
-    "olayl",
-    "ondan",
-    "orant",
-    "oyunc",
-    "panik",
-    "puan",
-    "recep",
-    "rize",
-    "serda",
-    "sheva",
-    "takım",
-    "taraf",
-    "tayyi",
-    "tedav",
-    "ulaşt",
-    "umduğ",
-    "var",
-    "vardı",
-    "yaşan",
-    "yendi",
-    "yolcu",
-    "yoluy",
-    "çıktı"
-   ],
-   "at": "2026-11-27T01:10:30.350033+00:00"
-  },
-  {
-   "fp": [
     "adil",
     "atama",
     "buldu",
@@ -10979,24 +10910,65 @@
     "çanak"
    ],
    "at": "2026-11-28T13:04:04.227508+00:00"
+  },
+  {
+   "fp": [
+    "dışın",
+    "eğiti",
+    "kırım",
+    "pist",
+    "samsu",
+    "uçağı",
+    "uğrad"
+   ],
+   "tok": [
+    "almad",
+    "altya",
+    "ardın",
+    "arff",
+    "belir",
+    "bölge",
+    "diğer",
+    "durum",
+    "duyur",
+    "dışın",
+    "ekipl",
+    "eğiti",
+    "gitti",
+    "haval",
+    "henüz",
+    "hızla",
+    "iniş",
+    "iyi",
+    "kazan",
+    "kurtu",
+    "kırım",
+    "nda",
+    "neden",
+    "olayı",
+    "pilot",
+    "pist",
+    "pistt",
+    "samsu",
+    "sağlı",
+    "solo",
+    "sıras",
+    "ulaşt",
+    "uçağı",
+    "uçuş",
+    "uğrad",
+    "uğray",
+    "yapan",
+    "yara",
+    "çarşa",
+    "çıkar",
+    "çıktı",
+    "öğren"
+   ],
+   "at": "2026-11-28T13:16:38.489132+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "c71078d1c0",
-   "post_id": "529346797199852_1480955274144180",
-   "title": "Son Dakika... Bakan Tekin duyurdu: Öğretmen atamaları ne zaman olacak?",
-   "at": "2026-11-26T09:59:18.086119+00:00",
-   "yazim": "claude",
-   "metin": "Bakan Yusuf Tekin, 2026 Akademi Giriş Sınavı ile 15 bin öğretmen adayı alınacağını açıkladı.\n\n— Milli Eğitim Akademisi'nde şu an eğitim gören 10 bin öğretmen, eğitimini bahar aylarında tamamlayınca atanacak.\n— 2027 Akademi Giriş Sınavı'nın tarihi değiştirildi. Bu sınav temmuz yerine mayıs ayında yapılacak, böylece eğitimi tamamlayanların atamaları eylül ayında zamanında yapılabilecek.\n— 2027 sınavıyla da 15 bin öğretmen adayı alınacak. Toplam sayı 40 bine ulaşacak.",
-   "sources": [
-    "Hürriyet: https://www.hurriyet.com.tr/gundem/bakan-tekinden-ogretmen-atamasi-aciklamasi-43391638",
-    "Habertürk: https://www.haberturk.com/gundem/son-dakika-meb-bakani-tekin-den-ogretmen-atamasi-aciklamasi-3930267",
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-bakan-tekin-duyurdu-ogretmen-atamalari-ne-zaman-olacak-2559571",
-    "Yeni Şafak: https://www.yenisafak.com/gundem/bakan-tekinden-ogretmen-atamalariyla-ilgili-flas-aciklama-4876691",
-    "Evrensel: https://www.evrensel.net/haber/6011282/bakan-tekin-den-ogretmen-atamasi-aciklamasi-10-bin-ogretmen-bahar-aylarinda-goreve-baslayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication"
-   ]
-  },
   {
    "id": "65f9e6fd31",
    "post_id": "529346797199852_1480982507474790",
@@ -13597,6 +13569,22 @@
     "Evrensel: https://www.evrensel.net/haber/6011603/gokceada-ve-bozcaada-hattinda-yarin-yapilacak-feribot-seferleri-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "BirGün: https://www.birgun.net/haber/yarin-gokceada-ve-bozcaada-hattinda-yapilacak-seferler-iptal-edildi-748974"
    ]
+  },
+  {
+   "id": "f306fc9221",
+   "post_id": "529346797199852_1483295900576784",
+   "title": "Son dakika... Bakanlık duyurdu: Samsun'da eğitim uçağı pist dışına çıktı!",
+   "at": "2026-11-28T13:16:38.489132+00:00",
+   "yazim": "claude",
+   "metin": "Samsun'un Çarşamba Havalimanı'nda iniş yapan eğitim uçağı pist dışına çıkarak kaza kırıma uğradı, öğrenci pilot yaralanmadan kurtuldu.\n\nUlaştırma ve Altyapı Bakanlığı, solo uçuş yapan öğrenci pilotun sağlık durumunun iyi olduğunu ve yaralanmadığını duyurdu.\n\nOlayın ardından havalimanındaki ARFF ve diğer ekipler hızla bölgeye gitti. Kazanın nedeni henüz belirlenemedi.",
+   "sources": [
+    "Milliyet: https://www.milliyet.com.tr/gundem/samsunda-egitim-ucagi-inis-sirasinda-psitten-cikarak-kirima-ugradi-7709897",
+    "NTV: https://www.ntv.com.tr/turkiye/samsunda-egitim-ucagi-kaza-kirima-ugradi-1753017",
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-samsun-da-egitim-ucagi-pist-disina-cikti-3930844",
+    "Sözcü: https://www.sozcu.com.tr/son-dakika-haberi-bakanlik-duyurdu-samsun-da-egitim-ucagi-kaza-kirima-ugradi-p385130",
+    "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/son-dakika-bakanlik-duyurdu-samsun-da-egitim-ucagi-pist-disina-cikti-2560214",
+    "Yeni Şafak: https://www.yenisafak.com/gundem/samsunda-egitim-ucagi-pist-disina-cikarak-kirima-ugradi-ulastirma-ve-altyapi-bakanligi-duyurdu-4877479"
+   ]
   }
  ],
  "fails": {
@@ -13929,7 +13917,7 @@
  "x": {
   "bpthaber": {
    "id": "2955315479",
-   "since_id": "2126661844823867831",
+   "since_id": "2126664632068960369",
    "started": true
   },
   "ajansmuhbir1923": {
