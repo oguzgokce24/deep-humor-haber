@@ -2,60 +2,6 @@
  "seen": [
   {
    "fp": [
-    "2",
-    "7",
-    "arası",
-    "batma",
-    "grup",
-    "kavga",
-    "sayıd",
-    "silah",
-    "var",
-    "yaral",
-    "şanlı"
-   ],
-   "tok": [
-    "arası",
-    "araşt",
-    "ateş",
-    "açıld",
-    "batma",
-    "başla",
-    "belir",
-    "bilin",
-    "boş",
-    "buldu",
-    "dönüş",
-    "eğiti",
-    "grup",
-    "gülte",
-    "hasta",
-    "henüz",
-    "kaldı",
-    "kanlı",
-    "karış",
-    "kavga",
-    "kovan",
-    "mahal",
-    "nde",
-    "neden",
-    "olay",
-    "olayı",
-    "sayıd",
-    "silah",
-    "siver",
-    "sürüy",
-    "taban",
-    "tartı",
-    "tespi",
-    "var",
-    "yerin",
-    "şanlı"
-   ],
-   "at": "2026-11-26T15:49:19.749696+00:00"
-  },
-  {
-   "fp": [
     "indir",
     "mevdu",
     "stopa"
@@ -10801,21 +10747,84 @@
     "şoför"
    ],
    "at": "2026-11-28T03:41:21.948313+00:00"
+  },
+  {
+   "fp": [
+    "balık",
+    "ediyo",
+    "fiyat",
+    "hamsi",
+    "karad",
+    "krizi",
+    "tavan",
+    "tüken",
+    "umudu",
+    "şahit"
+   ],
+   "tok": [
+    "alamı",
+    "almak",
+    "arzın",
+    "avlan",
+    "aylar",
+    "azald",
+    "azalt",
+    "balık",
+    "bekle",
+    "belir",
+    "besle",
+    "bol",
+    "bollu",
+    "bulun",
+    "bırak",
+    "dair",
+    "deniz",
+    "durum",
+    "düşüş",
+    "ediyo",
+    "ekim",
+    "etkil",
+    "fiyat",
+    "hamsi",
+    "istav",
+    "isted",
+    "istey",
+    "kalan",
+    "kalma",
+    "karad",
+    "kasım",
+    "kilos",
+    "koope",
+    "krizi",
+    "namık",
+    "oranı",
+    "palam",
+    "rağme",
+    "sert",
+    "sezon",
+    "sinop",
+    "tavan",
+    "tüken",
+    "umudu",
+    "umutl",
+    "uygun",
+    "vatan",
+    "verim",
+    "yaşan",
+    "yediğ",
+    "yıl",
+    "yılın",
+    "zor",
+    "çıktı",
+    "ünlü",
+    "ürünl",
+    "şahit",
+    "şey"
+   ],
+   "at": "2026-11-28T03:58:44.869991+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "ae3219242a",
-   "post_id": "529346797199852_1480504807522560",
-   "title": "Vedat Muriqi: \"Sanki Kadıköy'de oynadık\"",
-   "at": "2026-11-25T23:04:24.390596+00:00",
-   "yazim": "claude",
-   "metin": "Vedat Muriqi, ödülü eşine özel bir mesajla kutladı:\n\n“Aşkım bu senin için! Ben bunu eve götüreceğim.”\n\n— Muriqi, üst tur için hayati önemdeki maçtan \"Kritik bir 3 puan aldık\" diyerek çıktığını söyledi.\n— Taraftarlara teşekkür eden Muriqi, \"sanki Kadıköy'de oynadık\" dedi.",
-   "sources": [
-    "Habertürk: https://www.haberturk.com/spor/vedat-muriqi-bugun-sanki-kadikoy-de-oynadik-3930175",
-    "Sözcü Spor: https://www.sozcu.com.tr/vedat-muriqi-sanki-kadikoyde-oynadik-p384442"
-   ]
-  },
   {
    "id": "75501882ea",
    "post_id": "529346797199852_1480513094188398",
@@ -13408,6 +13417,17 @@
     "Milliyet: https://www.milliyet.com.tr/gundem/yedigollerde-camura-saplanan-minibusun-soforu-yasananlari-anlatirken-gozyaslarina-hakim-olamadi-7709709",
     "NTV: https://www.ntv.com.tr/turkiye/camura-saplanan-minibusun-surucusu-gozyaslarini-tutamadi-1-saat-erken-gitmek-istedim-1752919",
     "Milliyet Son Dakika: https://www.milliyet.com.tr/gundem/yedigollerde-camura-saplanan-minibusun-soforu-yasananlari-anlatirken-gozyaslarina-hakim-olamadi-7709709"
+   ]
+  },
+  {
+   "id": "266c0f26cd",
+   "post_id": "529346797199852_1482881453951562",
+   "title": "Karadeniz hamsi krizine şahitlik ediyor: Balıkçıların umudu tükendi, fiyatlar tavan yaptı!",
+   "at": "2026-11-28T03:58:44.869991+00:00",
+   "yazim": "claude",
+   "metin": "Karadeniz'de hamsi bu yıl bulunamıyor, Sinop'ta kilosu 250 TL'ye çıktı.\n\n— Hamsinin en çok avlandığı Ekim ve Kasım aylarına rağmen balıkçılar istedikleri verimi alamıyor.\n\n— Sinop Merkez Su Ürünleri Kooperatifi Başkanı Namık Ünlü, palamut bolluğunun hamsiyi etkilediğini söyledi: \"Palamut bolluğunda denizde hamsi kalmadı gibi bir şey.\"\n\n— Ünlü, palamudun beslenmek için hamsi ve istavrit yediğini, bu sezonun son 70-80 yılın en bol palamut sezonu olduğunu belirtti.\n\n— Balıkçıların hamsiden beklentisi azaldı ve sezonun kalanına dair umutları tükendi.\n\n— Hamsi arzındaki sert düşüş, balıkçıyı da uygun fiyatlı balık almak isteyen vatandaşı da zor durumda bırakıyor.",
+   "sources": [
+    "Karar: https://www.karar.com/guncel-haberler/karadeniz-hamsi-krizine-sahitlik-ediyor-balikcilarin-umudu-tukendi-2086714"
    ]
   }
  ],
