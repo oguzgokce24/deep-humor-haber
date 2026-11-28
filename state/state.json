@@ -10735,20 +10735,54 @@
     "özell"
    ],
    "at": "2026-11-28T05:28:36.589055+00:00"
+  },
+  {
+   "fp": [
+    "alınd",
+    "şafak"
+   ],
+   "tok": [
+    "adliy",
+    "adres",
+    "alına",
+    "alınd",
+    "ardın",
+    "belir",
+    "böyle",
+    "düzen",
+    "ekipl",
+    "emniy",
+    "ettiğ",
+    "gerçe",
+    "hakar",
+    "hatay",
+    "hâkim",
+    "ilçes",
+    "kapıs",
+    "karşı",
+    "kelep",
+    "kimli",
+    "medya",
+    "reyha",
+    "sanal",
+    "sevk",
+    "sorgu",
+    "sosya",
+    "ters",
+    "tespi",
+    "teşki",
+    "vakti",
+    "yaptı",
+    "yayın",
+    "çalın",
+    "çıkan",
+    "şafak",
+    "şehit"
+   ],
+   "at": "2026-11-28T05:41:10.680456+00:00"
   }
  ],
  "posted": [
-  {
-   "id": "1e5b9e6fb3",
-   "post_id": "529346797199852_1480571320849242",
-   "title": "Vedat Muriqi'ten maç sonrası eşine mesaj: 'Futboldan çok anlamaz ama...'",
-   "at": "2026-11-26T00:53:33.181021+00:00",
-   "yazim": "claude",
-   "metin": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i 1-0 yendi ve Vedat Muriqi maç sonrası konuştu.\n\n— Muriqi, galibiyeti üst tura çıkmak için hayati önemde bir 3 puan olarak değerlendirdi.\n— Maçın oyuncusu ödülünü takım adına aldığını söyleyen Muriqi, ödülü eşi için de aldığını belirtti.\n— Eşinin ödülle ilgili “Futboldan çok anlamaz ama...” diyerek ödülü istediğini anlattı.",
-   "sources": [
-    "Cumhuriyet: https://www.cumhuriyet.com.tr/spor/vedat-muriqi-ten-mac-sonrasi-esine-mesaj-futboldan-cok-anlamaz-ama-2559510"
-   ]
-  },
   {
    "id": "a1a09933fe",
    "post_id": "529346797199852_1480580414181666",
@@ -13340,6 +13374,18 @@
     "Sözcü: https://www.sozcu.com.tr/yarin-29-kasim-istanbul-a-yagmur-yagacak-hafta-sonu-hava-nasil-olacak-p385017",
     "Cumhuriyet: https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-28-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2560090"
    ]
+  },
+  {
+   "id": "043050d07c",
+   "post_id": "529346797199852_1482952693944438",
+   "title": "Şafakta böyle gözaltına alındı: Tutuklandı",
+   "at": "2026-11-28T05:41:10.680456+00:00",
+   "yazim": "claude",
+   "metin": "Reyhanlı ilçesinde, sanal medyada yaptığı canlı yayında Türkiye Cumhuriyeti, polis teşkilatı ve şehitlere hakaret ettiği belirlenen bir şüpheli gözaltına alındı ve tutuklandı.\n\n— Polis, şüphelinin kimliğini ve adresini tespit etti. Ekipler şafak vakti bu adrese operasyon düzenledi.\n— Ters kelepçe ile gözaltına alınan şüpheli, emniyetteki sorgusunun ardından adliyeye sevk edildi.\n— Hâkim karşısına çıkan şüpheli tutuklandı.",
+   "sources": [
+    "Habertürk: https://www.haberturk.com/gundem/son-dakika-haber-safakta-kapisi-calindi-ters-kelepceyle-alindi-sehide-hakaret-etti-tutuklandi-3930752",
+    "Sözcü: https://www.sozcu.com.tr/safakta-boyle-gozaltina-alindi-tutuklandi-p385019"
+   ]
   }
  ],
  "fails": {
@@ -13619,12 +13665,10 @@
   "a37ff90e7e": 2,
   "baeb643a14": 1,
   "351d6844b8": 1,
-  "0ba628d76b": 1
+  "0ba628d76b": 1,
+  "3d421b6769": 1
  },
  "fail_log": [
-  "2026-11-28T00:52 İnşaat işçilerinden ödenmeyen maaşları için eylem -> ValueError: yanıt okunamadı",
-  "2026-11-28T00:52 BM'ye göre açlığın pençesindeki beş yer -> ValueError: metin başlıktaki olayı anlatmıyor; yalnızca ### başlığındaki olayı yaz, kaynağın sonundaki diğer haberleri yok say",
-  "2026-11-28T02:21 Trump onaylı hamle Irak'ta fay hatlarını oynattı: Bağdat ve  -> ValueError: yanıt okunamadı",
   "2026-11-28T02:21 Trump onaylı hamle Irak'ta fay hatlarını oynattı: Bağdat ve  -> ValueError: yanıt okunamadı",
   "2026-11-28T02:21 Trump onaylı hamle Irak'ta fay hatlarını oynattı: Bağdat ve  -> ValueError: yanıt okunamadı",
   "2026-11-28T02:21 Tutuklulukta 'istisnai' tırmanış: 8 ayda 9 bin 617 artış -> ValueError: yanıt okunamadı",
@@ -13661,7 +13705,10 @@
   "2026-11-28T05:03 Kanarya Adaları açıklarında göçmen faciası: 14 ölü -> ValueError: ilk cümlede olayın gerçekleştiği il/ilçe yok; kaynaktaki yeri (ör. 'Elazığ'da', 'Çankaya'da') ilk cümleye ekle",
   "2026-11-28T05:16 BBC derledi: 2027'de görülecek en iyi 20 yer -> ValueError: yanıt okunamadı",
   "2026-11-28T05:16 BBC derledi: 2027'de görülecek en iyi 20 yer -> ValueError: yanıt okunamadı",
-  "2026-11-28T05:16 BBC derledi: 2027'de görülecek en iyi 20 yer -> ValueError: yanıt okunamadı"
+  "2026-11-28T05:16 BBC derledi: 2027'de görülecek en iyi 20 yer -> ValueError: yanıt okunamadı",
+  "2026-11-28T05:41 Salih Cenap Baydar: Yapay zeka depreminin ilk sonuçlarından  -> ValueError: yanıt okunamadı",
+  "2026-11-28T05:41 Salih Cenap Baydar: Yapay zeka depreminin ilk sonuçlarından  -> ValueError: yanıt okunamadı",
+  "2026-11-28T05:41 Salih Cenap Baydar: Yapay zeka depreminin ilk sonuçlarından  -> ValueError: yanıt okunamadı"
  ],
  "x": {
   "bpthaber": {
